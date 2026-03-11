@@ -17,7 +17,7 @@ This repository contains code and data for investigating corporate transparency 
     - QL Resources Berhad
     - Berjaya Food Berhad
     - Power Root Berhad
-- Calculation method: Access and process the stock price data for the specified period via the WRDS platform, then compute BHAR accordingly. The resulting data files are saved in the `CorporateBHAR` directory.
+- Calculation method: Access and process the stock price data for the specified period via the Yahoo Finance, then compute BHAR accordingly. The resulting data files are saved in the `CorporateBHAR` directory.
 
 ## NewsCleaning
 - `news\_v1.csv` is from the Kaggle dataset: News Article (Weekly Updated) \- Malaysia biggest online news collection on Kaggle (https://www.kaggle.com/datasets/azraimohamad/news-article-weekly-updated/versions/98)
