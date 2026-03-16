@@ -20,37 +20,36 @@ artxt_output_dir = os.path.join(script_dir, '..', 'ChunkAndScore', 'ARTXTs')
 # ---------------------------------------------------------------------------
 COMPANY_PATTERNS = {
     "Power": [
-        (r"Power Root Berhad",       70),
-        (r"Power Root Bhd",          60),
-        (r"PowerRoot",               50),
-        (r"POWERROOT",               40),
-        (r"PWROOT",                  30),
-        (r"Power[\s\-]root",         20),
-        (r"\b7237\b",                10),  # Bursa Malaysia stock code
+        (r"Power Root Berhad",       5),
+        (r"Power Root Bhd",          5),
+        (r"PowerRoot",               4),
+        (r"PWROOT",                  4),
+        (r"Power[\s\-]root",         3),
+        (r"\b7237\b",                2),  # Bursa Malaysia stock code
     ],
     "QL": [
-        (r"QL Resources Berhad",     50),
-        (r"QL Resources Bhd",        40),
-        (r"QL Resources",            30),
-        (r"\bQL\b",                  20),
-        (r"\b7084\b",                10),  # Bursa Malaysia stock code
+        (r"QL Resources Berhad",     5),
+        (r"QL Resources Bhd",        5),
+        (r"QL Resources",            4),
+        (r"\bQL\b",                  2),
+        (r"\b7084\b",                2),  # Bursa Malaysia stock code
     ],
     "Berjaya": [
-        (r"Berjaya Food Berhad",     60),
-        (r"Berjaya Food Bhd",        50),
-        (r"Berjaya",                 40), # Redacted
-        (r"\bBFood\b",               30),
-        (r"\bBFOOD\b",               20),
-        (r"\b5196\b",                10),  # Bursa Malaysia stock code
+        (r"Berjaya Food Berhad",     5),
+        (r"Berjaya Food Bhd",        5),
+        (r"Berjaya Food",            4),
+        (r"\bBFood\b",               4),
+        (r"\bBFOOD\b",               4),
+        (r"\b5196\b",                2),  # Bursa Malaysia stock code
     ],
     "F&N": [
-        (r"Fraser & Neave Holdings Berhad", 70),
-        (r"Fraser & Neave Holdings Bhd",    60),
-        (r"Fraser & Neave Holdings",        50),
-        (r"Fraser\s*&\s*Neave",             40),
-        (r"\bF\s*&\s*N\b",                  30),
-        (r"\bFNH\b",                        20),
-        (r"\b3689\b",                       10),  # Bursa Malaysia stock code
+        (r"Fraser & Neave Holdings Berhad", 5),
+        (r"Fraser & Neave Holdings Bhd",    5),
+        (r"Fraser & Neave Holdings",        4),
+        (r"Fraser\s*&\s*Neave",             3),
+        (r"\bF\s*&\s*N\b",                  2),
+        (r"\bFNH\b",                        2),
+        (r"\b3689\b",                       2),  # Bursa Malaysia stock code
     ],
 }
 
