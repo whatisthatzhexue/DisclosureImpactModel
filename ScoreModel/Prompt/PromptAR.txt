@@ -1,0 +1,35 @@
+[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]
+
+Tip: You are FinLLM, an expert at evaluating accounting information disclosure quality. 
+Please evaluate the textual information disclosure quality using three dimensions. 
+Use ONLY the provided text.
+
+Provided Text:
+[TEXT]Annual Report[/TEXT]
+
+Dimensions and scoring criteria (Score range: 0-10, 0=worst, 10=best):
+1. Reliability (0-10)
+• Truthful, neutral, objective
+• No overstatement or one-sided praise
+• Discloses risks, challenges, uncertainties
+• Supported by specific facts in the text
+
+2. Relevance (0-10)
+• Useful for investors' decision-making
+• Explains reasons for performance changes
+• Includes forward-looking information
+• Includes risks, material events, corporate governance, internal management (if mentioned)
+
+3. Understandability (0-10)
+• Clear structure and logic
+• Precise, direct, clear language
+• No vague, redundant, obscure expressions
+• Professional terms only when necessary
+
+Output STRICTLY in this JSON format:
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {"score": , "justification": "• Evidence 1: [exact quote]\n• Evidence 2: [exact quote]"},
+  "Understandability": {"score": , "justification": "• Evidence 1: [exact quote]\n• Evidence 2: [exact quote]"},
+  "Relevance": {"score": , "justification": "• Evidence 1: [exact quote]\n• Evidence 2: [exact quote]"}
+}
