@@ -40,7 +40,7 @@ COMPANY_INDUSTRY = {
 }
 
 # ── Model settings ───────────────────────────────────────────────────
-MODEL_NAME = "qwen3:4b"
+MODEL_NAME = "qwen3:8b"
 NUM_CTX = 32768
 
 # ── Filename parsing ─────────────────────────────────────────────────
