@@ -1,6 +1,9 @@
 # Chunks
 AnnualReportCleaning/Chunks/
 
+# LLM Evidences (generated output)
+ScoreModel/Evidences/
+
 # OriginalNews
 NewsCleaning/news_v1.csv
 

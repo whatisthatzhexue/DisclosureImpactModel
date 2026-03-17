@@ -26,6 +26,7 @@ Dimensions and scoring criteria (Score range: 0-10, 0=worst, 10=best):
 • No vague, redundant, obscure expressions
 • Professional terms only when necessary
 
+Now you are reading [section] of an annual report.
 Output STRICTLY in this JSON format:
 {
   "MemoryTest": "[Repeat the exact anchor sentence]",
