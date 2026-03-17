@@ -6,6 +6,7 @@ Usage:  python ScoreModel/step1_score_chunks.py
 import csv
 import logging
 import sys
+import time
 from pathlib import Path
 
 import ollama
@@ -28,6 +29,10 @@ logging.basicConfig(
     datefmt="%H:%M:%S",
 )
 log = logging.getLogger(__name__)
+
+# Rest settings: sleep REST_SECONDS every REST_EVERY_N files to protect hardware
+REST_EVERY_N = 30
+REST_SECONDS = 5 * 60  # 5 minutes
 
 
 def build_prompt(template: str, chunk_text: str, section: str) -> str:
@@ -68,6 +73,7 @@ def main():
 
     total_chunks = sum(len(v) for v in groups.values())
     processed = 0
+    scored_since_rest = 0  # count of actually-scored files since last rest
 
     for (code, yy), chunk_rows in groups.items():
         company = COMPANY_CODE_TO_NAME[code]
@@ -104,6 +110,13 @@ def main():
                 reply = call_model(prompt)
                 out_file.write_text(reply, encoding="utf-8")
                 log.info("  ✓ saved %s (%d chars)", out_file.name, len(reply))
+
+                scored_since_rest += 1
+                if scored_since_rest >= REST_EVERY_N:
+                    log.info("  ⏸ Resting %d seconds after %d scored files …",
+                             REST_SECONDS, REST_EVERY_N)
+                    time.sleep(REST_SECONDS)
+                    scored_since_rest = 0
             except Exception:
                 log.exception("  ✗ Failed on %s", chunk_path.name)
 
