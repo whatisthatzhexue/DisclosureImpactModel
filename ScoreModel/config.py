@@ -16,6 +16,7 @@ EVIDENCES_DIR = PROJECT_ROOT / "ScoreModel" / "Evidences"
 # ── Prompt file paths ────────────────────────────────────────────────
 PROMPT_AR_PATH = PROMPTS_DIR / "PromptAR.txt"
 PROMPT_NEWS_PATH = PROMPTS_DIR / "PromptNews.txt"
+PROMPT_RATE_AR_PATH = PROMPTS_DIR / "RateAR.txt"
 
 # ── Company mappings ─────────────────────────────────────────────────
 COMPANY_CODE_TO_NAME = {

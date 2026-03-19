@@ -2,7 +2,7 @@
 
 For each {company}/{year}/ folder under Evidences/:
   1. Concatenate all part_*.txt → sum.txt
-  2. Estimate tokens; if within limit, score directly with PromptNews.txt
+  2. Count tokens; if within limit, score directly with RateAR.txt
   3. If over limit, compress first → sum_zipped.txt, then score
   4. Save final model output as rate.txt
 
@@ -17,14 +17,13 @@ from pathlib import Path
 import ollama
 import tiktoken
 
+_CLIENT = ollama.Client(timeout=1800)  # 30-minute timeout
+
 from config import (
-    COMPANY_FULL_NAMES,
-    COMPANY_CODE_TO_NAME,
-    COMPANY_INDUSTRY,
     EVIDENCES_DIR,
     MODEL_NAME,
     NUM_CTX,
-    PROMPT_NEWS_PATH,
+    PROMPT_RATE_AR_PATH,
 )
 
 logging.basicConfig(
@@ -33,9 +32,6 @@ logging.basicConfig(
     datefmt="%H:%M:%S",
 )
 log = logging.getLogger(__name__)
-
-# Reverse lookup: folder name → company code
-_NAME_TO_CODE = {v: k for k, v in COMPANY_CODE_TO_NAME.items()}
 
 # Rest settings: sleep REST_SECONDS every REST_EVERY_N folders to protect hardware
 REST_EVERY_N = 30
@@ -58,10 +54,11 @@ def count_tokens(text: str) -> int:
 
 
 def call_model(prompt: str) -> str:
-    response = ollama.chat(
+    response = _CLIENT.chat(
         model=MODEL_NAME,
         messages=[{"role": "user", "content": prompt}],
         options={"num_ctx": NUM_CTX},
+        keep_alive="30m",
     )
     return response["message"]["content"]
 
@@ -112,24 +109,21 @@ def compress_text(text: str, target_tokens: int) -> str:
     return "\n\n".join(compressed_parts)
 
 
-def build_news_prompt(template: str, evidence_text: str,
-                      company_code: str) -> str:
-    """Fill PromptNews template with evidence text and company context."""
-    full_name = COMPANY_FULL_NAMES.get(company_code, "Unknown Company")
-    industry = COMPANY_INDUSTRY.get(company_code, "food and beverage")
-
-    prompt = template.replace("[TEXT]News Article[/TEXT]",
-                              f"[TEXT]{evidence_text}[/TEXT]")
-    prompt = prompt.replace("[Company Name]", full_name)
-    prompt = prompt.replace("[industry]", industry)
-    return prompt
+def build_rate_prompt(template: str, scores_text: str) -> str:
+    """Fill RateAR template: replace [MULTIPLE_SCORES] with the concatenated part scores."""
+    return template.replace("[MULTIPLE_SCORES]", scores_text)
 
 
 def process_folder(company_dir: Path, year_dir: Path, template: str):
     """Process a single company/year folder."""
     company_name = company_dir.name
-    company_code = _NAME_TO_CODE.get(company_name)
     year = year_dir.name
+
+    # Resume: skip if rate.txt already exists and is non-empty
+    rate_path = year_dir / "rate.txt"
+    if rate_path.exists() and rate_path.stat().st_size > 0:
+        log.info("  [skip] %s/%s — rate.txt already exists", company_name, year)
+        return
 
     # 1. Collect and sort part files
     parts = sorted(year_dir.glob("part_*.txt"))
@@ -143,11 +137,11 @@ def process_folder(company_dir: Path, year_dir: Path, template: str):
     sum_path.write_text(combined, encoding="utf-8")
     log.info("  Wrote sum.txt (%d chars, %d parts)", len(combined), len(parts))
 
-    # 3. Token estimate (tiktoken-based)
+    # 3. Token count (tiktoken-based)
     text_tokens = count_tokens(combined)
     log.info("  Estimated tokens: %d (budget: %d)", text_tokens, MAX_TEXT_TOKENS)
 
-    evidence_text = combined
+    scores_text = combined
 
     if text_tokens > MAX_TEXT_TOKENS:
         log.info("  Over budget — compressing …")
@@ -155,11 +149,10 @@ def process_folder(company_dir: Path, year_dir: Path, template: str):
         zip_path = year_dir / "sum_zipped.txt"
         zip_path.write_text(compressed, encoding="utf-8")
         log.info("  Wrote sum_zipped.txt (%d chars)", len(compressed))
-        evidence_text = compressed
+        scores_text = compressed
 
-    # 4. Final rating
-    rate_path = year_dir / "rate.txt"
-    prompt = build_news_prompt(template, evidence_text, company_code)
+    # 4. Final rating via RateAR prompt
+    prompt = build_rate_prompt(template, scores_text)
 
     try:
         log.info("  Calling model for final rating …")
@@ -171,7 +164,7 @@ def process_folder(company_dir: Path, year_dir: Path, template: str):
 
 
 def main():
-    template = PROMPT_NEWS_PATH.read_text(encoding="utf-8")
+    template = PROMPT_RATE_AR_PATH.read_text(encoding="utf-8")
 
     if not EVIDENCES_DIR.exists():
         log.error("Evidences directory not found: %s", EVIDENCES_DIR)

@@ -1,0 +1,27 @@
+You have obtained multiple scoring results for different sections of the same annual report. Each scoring result contains scores for three dimensions (Reliability, Relevance, Understandability) and justifications based on original quotes. Now, as FinLLM (expert in evaluating financial information disclosure quality), please integrate all these scoring results and provide a final overall evaluation.
+
+0–10 scoring scale: higher score indicates higher quality of annual reports
+• 0: Extremely low
+• 1–2: Low
+• 3–4: Relatively low
+• 5: Medium
+• 6–7: Relatively high
+• 8–9: High
+• 10: Extremely high
+
+You need to output a JSON object with the following fields:
+
+- "MemoryTest": Repeat the following anchor sentence (only the sentence content, excluding the [ANCHOR] tag).
+- "Reliability": Contains a "score" field (integer or decimal, 0-10) and a "justification" field (string), providing the final analysis and reasons for the Reliability dimension.
+- "Relevance": Contains a "score" field (integer or decimal, 0-10) and a "justification" field (string), providing the final analysis and reasons for the Reliability dimension.
+- "Understandability": Contains a "score" field (integer or decimal, 0-10) and a "justification" field (string), providing the final analysis and reasons for the Reliability dimension.
+
+When determining the final scores, please comprehensively consider the scores and evidence from each scoring result. If there are contradictions among some scoring results, make a judgment based on your expertise on which is more reasonable, or give a compromised score. The justification should explain your comprehensive judgment process in detail, and may cite key evidence from each scoring result (for example, which parts performed well and which performed poorly), but it is not necessary to repeat the original quotes unless particularly necessary.
+
+Anchor sentence:
+[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]
+
+The following are multiple scoring results (each result is a JSON object, may contain identical fields):
+[MULTIPLE_SCORES]
+
+Please output the JSON result as requested by the user, do not include any other explanations.

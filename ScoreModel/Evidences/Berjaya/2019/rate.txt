@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.2,
+    "justification": "The majority of scoring results (e.g., 8–9) highlight strong reliability through specific factual data (e.g., \"RM789.0 million (FYE 2018 RM639.7 million)\", \"external auditors performed limited assurance procedures\") and neutral, objective language. Lower scores (e.g., 6–7) reflect gaps in risk disclosure or vague statements (e.g., \"no mention of risks, material events, or corporate governance\"). The highest score (10) emphasizes compliance with accounting standards, while the lowest (1) stems from lack of substantive content. Compromised to 8.2 to balance high-quality disclosures with occasional gaps in risk transparency."
+  },
+  "Relevance": {
+    "score": 6.5,
+    "justification": "Higher scores (e.g., 7–8) reflect forward-looking strategic plans (e.g., \"plans to open 25 new stores\", \"align with UN Sustainable Development Goals\") and investor-focused disclosures (e.g., \"59.40% of attributable profit\"). Lower scores (e.g., 5–6) indicate insufficient context for material events, lack of risk analysis, or limited connection to financial performance (e.g., \"no forward-looking information\", \"awards lists without context\"). Compromised to 6.5 to reflect mixed relevance between strategic insights and gaps in material event analysis."
+  },
+  "Understandability": {
+    "score": 7.6,
+    "justification": "Most scores (e.g., 7–9) praise clear numerical context (e.g., \"precise temporal reference\", \"direct terminology with technical explanations\") and structured presentation (e.g., \"bullet points and headings\"). Lower scores (e.g., 5–6) cite ambiguous phrasing (e.g., \"misplaced/ambiguous sentence\") or repetitive content (e.g., \"redundant repetition of BFood/BStarbucks\"). Compromised to 7.6 to emphasize strong clarity in most sections while acknowledging occasional structural or linguistic issues."
+  }
+}

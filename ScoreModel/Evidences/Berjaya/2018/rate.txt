@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The majority of scoring results (8–9) highlight strong reliability through specific factual disclosures (e.g., \"RM639.7 million revenue comparison\", \"external auditor verification\"), clear material event explanations (e.g., \"disposal of PT Boga stake\"), and neutral cause-effect statements (e.g., \"operational cost management\"). Lower scores (7) reflect minor gaps in detail (e.g., limited risk disclosures in one entry) or less precise language, but these are outweighed by consistent high-quality evidence. The 9-score entry’s external auditor confirmation and 8-score entries’ precise financial comparisons justify the compromise score of 8.5."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "Scores range from 5–8, with higher scores (7–8) citing forward-looking material events (e.g., \"target of opening 6–10 new stores\", \"closure of non-performing stores\") and strategic initiatives (e.g., \"digital channel strengthening\"). Lower scores (6–5) reflect basic organizational information (e.g., \"Corporate Structure\") without risk/governance disclosures or direct financial context. The majority of evidence (7–8) demonstrates relevance through operational and strategic insights, balancing the lower scores to arrive at a weighted average of 7."
+  },
+  "Understandability": {
+    "score": 8.5,
+    "justification": "Scores predominantly 8–9 reflect clear numerical data (e.g., \"260 stores nationwide\", \"RM92.7 million revenue\"), structured explanations (e.g., \"cause-effect of cost management\"), and precise terminology (e.g., \"same-store-sales growth\"). Lower scores (7) stem from occasional paragraph clarity issues (e.g., \"final BRoasters/Dodgeball line\") or less structured language (e.g., \"dividend payout rate with historical comparison\"). The high-quality evidence for precision and structure justifies a compromise score of 8.5, with minor gaps in some entries."
+  }
+}

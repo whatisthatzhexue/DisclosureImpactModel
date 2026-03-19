@@ -18,16 +18,48 @@ This repository contains code and data for investigating corporate transparency 
 ## NewsCleaning
 - `news_v1.csv` is from the Kaggle dataset: News Article (Weekly Updated) \- Malaysia biggest online news collection on Kaggle (https://www.kaggle.com/datasets/azraimohamad/news-article-weekly-updated/versions/98)
 - Download method: Use the Kaggle API or download directly from the above link, and place it in the `NewsCleaning` directory.
+- **Fiscal-year preprocessing** (`news_fiscal_year.py`):
+  - Assigns each article to a fiscal year based on the company's fiscal year end date.
+  - Fiscal year end dates: Berjaya Food — April 30; F&N — September 30; Power Root — April 30; QL Resources — March 31.
+  - Outputs `{company}_news_fy.csv` with an added `fiscal_year` column to `NewsCleaning/News/{company}/`.
+  - Must be run before the news scoring pipeline.
 
 ## ScoreModel
-- This section of code supports automatically invoking the `qwen3:4b` model in Ollama (32K context window).
+
+All models are `qwen3:8b` (Ollama, 32K context window). Two independent scoring pipelines share the same `ScoreModel/Prompt/` templates.
+
+### Annual Report Scoring Pipeline
+
 - **Step 1 — Per-chunk scoring** (`step1_score_chunks.py`):
-  - Reads `chunks_summary.csv` to iterate over every annual-report chunk.
+  - Reads `AnnualReportCleaning/Chunks/chunks_summary.csv` to iterate over every annual-report chunk.
   - For each chunk, fills `PromptAR.txt` with the chunk text and section name, then calls `qwen3:8b`.
   - Saves the model response to `Evidences/{company}/{year}/part_{YY}{id}.txt`.
-  - Scores three dimensions: **reliability**, **understandability**, and **relevance**.
+  - Scores three dimensions: **Reliability**, **Relevance**, and **Understandability**.
 - **Step 2 — Consolidation & final rating** (`step2_consolidate_rate.py`):
   - Concatenates all `part_*.txt` files for a company-year into `sum.txt`.
-  - Estimates token count; if it exceeds the 32K budget, compresses into `sum_zipped.txt`.
-  - Inserts the (possibly compressed) evidence into `PromptNews.txt` and calls `qwen3:4b` for a final rating.
-  - Saves the result as `rate.txt`, scoring three dimensions: **credibility**, **strategic relevance**, and **depth**.
+  - Estimates token count (tiktoken); if it exceeds the 32K budget, compresses into `sum_zipped.txt`.
+  - Inserts the (possibly compressed) evidence into `RateAR.txt` and calls `qwen3:8b` for a final rating.
+  - Saves the result as `rate.txt`.
+- **Step 3 — Export scores** (`step3_scores_to_csv.py`):
+  - Parses all `rate.txt` files and writes `scores.csv` with columns: Company, Year, Reliability Score, Relevance Score, Understandability Score, Mean Score.
+- **Step 4 — Merge runs** (`step4_merge_scores.py`):
+  - Merges two `scores.csv` files (e.g. two scoring runs) into a side-by-side comparison table `scores_merged.csv`.
+
+### News Scoring Pipeline
+
+Prerequisites: run `NewsCleaning/news_fiscal_year.py` first.
+
+- **Config** (`news_config.py`): shared paths, company names, model settings.
+- **Step 1 — Per-article scoring** (`news_step1_score_articles.py`):
+  - Reads `{company}_news_fy.csv` and scores each article using `PromptNews.txt`.
+  - Saves results to `NewsEvidences/{company}/{fiscal_year}/part_{FY2}{id}.txt`.
+  - Scores three dimensions: **Credibility**, **Strategic Relevance**, and **Depth**.
+- **Step 2 — Consolidation & final rating** (`news_step2_consolidate_rate.py`):
+  - Concatenates all `part_*.txt` for a company-fiscal_year into `sum.txt`.
+  - Compresses to `sum_zipped.txt` if token count exceeds budget.
+  - Inserts evidence into `RateNews.txt` and calls `qwen3:8b` for a final rating.
+  - Saves the result as `rate.txt`.
+- **Step 3 — Export scores** (`news_step3_scores_to_csv.py`):
+  - Parses all `rate.txt` files and writes `news_scores.csv` with columns: Company, FiscalYear, Credibility Score, StrategicRelevance Score, Depth Score, Mean Score.
+- **Step 4 — Merge runs** (`news_step4_merge_scores.py`):
+  - Merges two `news_scores.csv` files into a side-by-side comparison table `news_scores_merged.csv`.

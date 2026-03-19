@@ -1,6 +1,0 @@
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 2, "justification": "• Evidence 1: No specific facts or risks disclosed\n• Evidence 2: Overstatement of topics (e.g., 'Integrated marketing communication') without supporting data"},
-  "Understandability": {"score": 5, "justification": "• Evidence 1: Clear list structure but lacks explanatory context\n• Evidence 2: Terms like 'Employee wellness engagement' are vague without definitions"},
-  "Relevance": {"score": 1, "justification": "• Evidence 1: No investor-focused information or risk explanations\n• Evidence 2: Missing material events, governance, or forward-looking statements"}
-}
