@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'We have obtained food quality and safety certifications across various production lines' (specific facts about certifications)\n• Evidence 2: 'Our processes are subject to regular internal reviews and external assurance' (objective disclosure of controls)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Table 3: List of current certifications' (clear structure)\n• Evidence 2: 'GMP requires sanitary considerations in food processing...' (precise explanation of certification requirements)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'Our responsibility as an agro-producer is to ensure that the quality of our products are safe for consumption' (directly relevant to investor concerns)\n• Evidence 2: 'ISO 22000:2005 is applied worldwide' (global relevance for stakeholders)"
+  }
+}

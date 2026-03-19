@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Subsequent to the assessment process, sustainable matters identified above are subject to risk management policy and process established by the Board for the assessment and management of the risk and opportunities identified;\" (neutral, factual disclosure of processes)\n• Evidence 2: \"the SRMC shall monitor... and report to the Audit Committee on yearly basis for review and recommendation(s) to the Board for review and approval.\" (specific, procedural disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"developing policies and procedures; implementing various initiatives, measures or action plans;\" (clear, itemized list of responsibilities)\n• Evidence 2: \"the SRMC... relies on the informal channels (such as meetings and face-to-face communication...) supported by formal channel of communication...\" (structured explanation of engagement methods)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"the Board recognises that contribution and support of the internal and external stakeholders are of utmost importance...\" (direct relevance to stakeholder engagement and governance)\n• Evidence 2: \"the SRMC... monitor the current standing... and responses of the material sustainability matters...\" (pertains to risk management and internal controls relevant to investors)"
+  }
+}

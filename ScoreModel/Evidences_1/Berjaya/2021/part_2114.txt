@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The materiality assessment was conducted by engaging relevant stakeholders through various channels which resulted in the identification of 12 material issues\" (specific facts about process and outcomes).\n• Evidence 2: \"The Company believes that the approach of stakeholder engagement is integral to the development of its sustainability strategy\" (neutral, objective statement without overstatement)."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Platforms\" section uses bullet points and clear categorization (e.g., Government and Regulators, Employees) for direct comprehension.\n• Evidence 2: \"The 12 material issues identified are mapped to the relevant sustainability pillars as illustrated on page 25\" (precise language with reference to supporting documentation)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Determining materiality assists the Group to identify and prioritise the most relevant and important material issues\" (directly relevant to investor concerns about strategic focus).\n• Evidence 2: \"Communications via announcements to Bursa Securities, General Meetings...\" (relevant to investor engagement but lacks forward-looking information or risk disclosures)."
+  }
+}

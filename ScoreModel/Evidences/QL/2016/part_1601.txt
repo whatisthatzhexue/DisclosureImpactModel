@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Company has outsourced its internal audit function to an independent professional consulting firm\" (neutral, factual disclosure).\n• Evidence 2: \"During the financial year, the total cost incurred for the internal audit function is RM250,000\" (specific financial data)."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee is authorised by the Board to investigate any activity within its terms of reference\" (clear, direct language).\n• Evidence 2: Bullet points structure the internal audit activities, with precise descriptions of tasks (e.g., \"Reviewed the effectiveness and adequacy of the existing control and procedures\")."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Identified, understand and managed risks embedded in the processes and activities that could negatively impact the achievement of the Company’s objectives\" (directly addresses risk management relevance).\n• Evidence 2: \"The Audit Committee is authorised by the Board to obtain outside legal or other independent professional advice\" (pertains to corporate governance and investor oversight)."
+  }
+}

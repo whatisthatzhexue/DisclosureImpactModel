@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 4,
+    "justification": "• Evidence 1: \"BFood ties sustainability to its brands, reputation and business operations.\" (Lacks specific metrics or risk disclosures)\n• Evidence 2: \"BFood monitors its sustainability performance by utilising the information provided by various sustainability tools and activities...\" (Vague about methods and no concrete data)"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Shared value for all stakeholders now and in the future.\" (Vague phrasing with no specific outcomes)\n• Evidence 2: \"Starbucks Upcycled Flavorlock Pouch.\" (Irrelevant example disrupting logical flow)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Sustainability Governance Structure\" section (Discloses corporate governance mechanisms)\n• Evidence 2: \"Striving to improve the Company’s environmental footprint...\" (Forward-looking sustainability goals relevant to investors)"
+  }
+}

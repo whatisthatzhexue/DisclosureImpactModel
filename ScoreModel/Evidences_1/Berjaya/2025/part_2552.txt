@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Supported more than 150 beneficiaries and reinforced the spirit of giving and community support during the festive season\" (specific, factual outcome)\n• Evidence 2: \"Raised RM80,000 to support HOPEww’s mission...\" (quantifiable impact with no overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Activities included house-to-house donations, an iftar gathering...\" (clear, direct description of actions)\n• Evidence 2: \"89 BFood employees and their families contributed 356 service hours...\" (precise numerical details without redundancy)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Raised RM80,000 to support HOPEww’s mission to sustain...\" (shows CSR impact relevant to investors)\n• Evidence 2: \"No forward-looking information or risk disclosures\" (lacks material event/risk context required for investor decision-making)"
+  }
+}

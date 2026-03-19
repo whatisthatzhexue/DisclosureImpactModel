@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Our performance in FY2018 will serve as a benchmark...\" (no specific facts or risks disclosed)\n• Evidence 2: \"This Sustainability Statement is intended to be read together with our Sustainability Report 2018\" (lacks standalone reliability without referenced report)"
+  },
+  "Understandability": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Eco-efficiency Enhancing Social Well-being\" (repetitive, unclear structure)\n• Evidence 2: \"Core Areas Core Areas\" (redundant formatting, poor visual hierarchy)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"setting targets for the next financial year\" (forward-looking info)\n• Evidence 2: \"strategising and setting our sustainable development goals\" (potential relevance to investors but lacks quantitative metrics)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"It has been an economically challenging year both locally and abroad, with weak consumer sentiment and stiff competition being primary factors.\" (discloses challenges)\n• Evidence 2: \"Lower material price on coffee and sugar in particular, was an added benefit.\" (specific fact)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Being more focused on Return on Investment (\"ROI\") has led to a marked improvement in the Group’s management and operational efficiencies.\" (clear cause-effect explanation)\n• Evidence 2: \"This involves getting a right mix of activities aimed at specific market segments...\" (logical structure)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Being more focused on ROI has led to a marked improvement...\" (explains performance change)\n• Evidence 2: \"Marketing highlights during the year included: Brands: Alicafe and Extra Power Root...\" (material event disclosure)"
+  }
+}

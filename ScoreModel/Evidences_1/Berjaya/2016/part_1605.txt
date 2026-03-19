@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Pursuant to Section 129(2) of the Companies Act, 1965, the office of Datuk Zainun Aishah Binti Ahmad shall become vacant...' [neutral, fact-based legal reference]\n• Evidence 2: 'The profiles of these Directors are set out on pages 03 and 05 of this Annual Report' [specific factual disclosure]"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Nomination Committee reviews annually, the effectiveness of the Board and Board Committees...' [clear structure and direct language]\n• Evidence 2: 'The Company does not set any specific target for boardroom diversity...' [precise, unambiguous statement]"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Board acknowledges the importance of boardroom diversity...' [relevant to investor concerns about governance]\n• Evidence 2: 'The Board’s objective in this respect is to offer a competitive remuneration package...' [directly addresses director compensation relevance]"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our production facilities comply with international certifications, including FSSC22000 scheme & ISO22000 Food Safety Management Systems, and Hazard Analysis and Critical Control Points (HACCP), with rigorous quality control processes in place.\" (specific certifications and processes)\n• Evidence 2: \"We also conduct quarterly risk assessments through the SRMC, emphasizing proactive oversight and continuous improvement.\" (disclosure of risk management processes)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Innovation is central to our approach, driving us to develop new offerings that align with consumer preferences while addressing sustainability challenges.\" (clear explanation of innovation goals)\n• Evidence 2: \"Certified with FSSC22000 Scheme 63% new products & packaging formats introduced annual cost avoidance through 54 employee-driven innovation projects\" (jumbled statistics requiring additional context for clarity)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"In FY2024, we introduced 14 new products, emphasizing healthier options and sustainable packaging solutions...\" (forward-looking information relevant to investors)\n• Evidence 2: \"We ensure compliance with regulatory requirements in Malaysia and Thailand...\" (regulatory compliance relevant to operational risks)"
+  }
+}

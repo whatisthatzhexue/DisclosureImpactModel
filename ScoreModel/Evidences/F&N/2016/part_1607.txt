@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Company is guided by the principles of the Malaysian Code on Corporate Governance 2012...\" (specific reference to a regulatory framework)\n• Evidence 2: \"The Board provides entrepreneurial leadership...\" (clear role description without overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"PRINCIPLE 1 : ESTABLISH CLEAR ROLES AND RESPONSIBILITIES\" (clear section headers)\n• Evidence 2: \"The Board has established six Board Committees...\" (precise enumeration of committees)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"This statement describes how the Company has applied the principles and complied with the recommendations of the CG Code...\" (directly relevant to governance practices)\n• Evidence 2: \"oversee the development and implementation of a shareholder communication policy...\" (addresses stakeholder engagement)"
+  }
+}

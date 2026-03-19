@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"61 BStarbucks partners (employees) led a self-initiated Infaq Kasih Ramadan event on 19 March at Masjid Gombak Utara.\"\n• Evidence 2: \"They prepared and distributed 500 bowls of bubur lambuk and cleaned the mosque surroundings, contributing a total of 549 hours of community service.\""
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"In Kuala Lumpur, 61 BStarbucks partners (employees) led a self-initiated Infaq Kasih Ramadan event on 19 March at Masjid Gombak Utara.\"\n• Evidence 2: \"Distributed over 2,500 meals and aid packs and strengthened community ties\" (vague phrasing)"
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"No forward-looking information\" or material events related to financial performance/corporate governance.\n• Evidence 2: \"No explanation of reasons for performance changes\" or investor-focused metrics (e.g., financial impact, risk factors)."
+  }
+}

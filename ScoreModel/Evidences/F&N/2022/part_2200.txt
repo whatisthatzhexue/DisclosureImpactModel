@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"* Included proposed dividend of 33.0 sen, which will only be recognised in the financial statements upon shareholders’ approval.\" (shows transparency about pending approvals)\n• Evidence 2: \"The Kuala Lumpur plant commenced its operations.\" (neutral factual statement about historical event)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"REVENUE RM4,470.2 million\" (clear numerical presentation but lacks context)\n• Evidence 2: \"F&B Thailand F&B Malaysia Property & Others 46% 2,047.5 0% 4.5...\" (fragmented presentation with missing context between numbers)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The official opening of dairy manufacturing plant in Rojana, Thailand.\" (material event with strategic significance)\n• Evidence 2: \"We spent a total of RM3.75 BILLION on products and services.\" (financial relevance for investors)"
+  }
+}

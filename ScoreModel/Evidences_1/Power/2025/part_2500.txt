@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: The corporate structure details specific ownership percentages (e.g., '50.1% Power Root Distributor Sdn. Bhd.') without overstatement.\n• Evidence 2: The text neutrally presents factual ownership information without one-sided praise or risk disclosures, which is appropriate for a corporate structure section."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: Clear hierarchical structure with headings (e.g., 'OVERSEAS COMPANIES') and precise percentage indicators.\n• Evidence 2: Direct language (e.g., '100% Power Root Marketing Sdn. Bhd.') with minimal redundancy, though some abbreviations (e.g., 'E.S.C.') may require contextual knowledge."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: Provides relevant ownership structure information for investors, which is foundational for assessing corporate governance.\n• Evidence 2: Lacks forward-looking information, risk disclosures, or material events, limiting its utility for decision-making beyond structural insights."
+  }
+}

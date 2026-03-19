@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"On 3 August 2024, Starbucks supported Pop The Bubble...\" (specific date and event details)\n• Evidence 2: \"five BStarbucks partners (employees) took part...\" (quantifiable participation data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Promoted understanding between Deaf and hearing communities through inclusive storytelling\" (clear purpose statement)\n• Evidence 2: \"Raised funds to sponsor Deaf students...\" (direct outcome description)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Raised funds to sponsor Deaf students...\" (potential investor interest in CSR impact)\n• Evidence 2: \"Promoted Deaf inclusion\" (alignment with sustainability goals, but lacks financial/strategic context)"
+  }
+}

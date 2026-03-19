@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The directors are required by the Companies Act 2016 to prepare financial statements which give a true and fair view...\" (truthful, neutral, objective)\n• Evidence 2: \"ensured that applicable accounting standards have been complied with\" (supported by specific facts)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"adopted appropriate accounting policies and applied them consistently\" (precise, direct language)\n• Evidence 2: Bullet points structure with clear responsibilities (logical organization)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"directors are responsible for taking reasonable steps to safeguard the assets...\" (relevant to investor concerns)\n• Evidence 2: No forward-looking information or detailed risk disclosures (lack of material event context)"
+  }
+}

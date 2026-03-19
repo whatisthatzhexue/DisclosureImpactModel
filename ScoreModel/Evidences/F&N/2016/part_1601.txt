@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"resulting in a progressively stronger organisation able to withstand external headwinds\" (discloses challenges)\n• Evidence 2: \"profit before tax from RM333.8 million to RM442.9 million\" (specific factual support)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Sales of existing and newly-launched products continued to be robust, leading to a 1.5 per cent increase in Group revenue\" (clear cause-effect explanation)\n• Evidence 2: \"basic earnings per share increased from 76.5 sen to 105.3 sen\" (precise numerical presentation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"operational and cost synergies derived from our transformation initiatives... contributed to a 32.7 per cent hike in profit before tax\" (explains performance drivers)\n• Evidence 2: \"we are recommending a final single tier dividend...\" (forward-looking shareholder information)"
+  }
+}

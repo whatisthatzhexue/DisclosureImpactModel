@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Jollibean Foods recorded a loss before tax of SGD750,000 compared to a loss before tax of SGD244,000 in 30 April 2018 mainly due to an increase in administrative expenses...\" (discloses specific reasons for financial performance)\n• Evidence 2: \"During the financial period Jollibean has opened 3 new outlets and closed 2 non-performing outlets.\" (acknowledges operational challenges)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"For the financial period ended 30 June 2019, Jollibean Foods revenue increased by SGD207,000 to SGD9.5 million...\" (clear numerical context)\n• Evidence 2: \"Jollibean Foods will also focus on the franchise business to grant franchise to operate outlets...\" (direct language with specific business plans)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"For the following financial year, Jollibean Foods will concentrate on rebranding, expanding its revenue stream...\" (forward-looking information relevant to investors)\n• Evidence 2: \"The first overseas market retailing Joybean products will be the Philippines.\" (specific market expansion plan)"
+  }
+}

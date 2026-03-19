@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the Company was in compliance with the Bursa Securities Listing Requirements\" (neutral, factual disclosure)\n• Evidence 2: \"the Board was satisfied that the Audit Committee had discharged its functions... in accordance with the Audit Committee’s TOR\" (objective assessment with specific reference to TOR)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group adopts the Enterprise-wide Risk Management Policy (\"ERM Policy\")... benchmarked against the ISO31000:2018 Risk Management – Guidelines\" (clear structure with defined terminology)\n• Evidence 2: \"The 3 LINES OF DEFENCE\" diagram (visual structure aids comprehension despite complex concepts)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The objective of risk management is to create and protect value for the Group...\" (directly relevant to investor concerns)\n• Evidence 2: \"Details of the recurrent related party transactions...\" (material transactions relevant to governance and transparency)"
+  }
+}

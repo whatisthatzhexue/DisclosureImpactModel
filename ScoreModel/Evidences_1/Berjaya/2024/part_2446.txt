@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Currently, 15 employees... scheduled to conclude in January 2025.\" (specific factual claim)\n• Evidence 2: No explicit risks or uncertainties are disclosed, limiting objectivity"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Developing a manager mindset... Decision-making\" (clearly structured curriculum topics)\n• Evidence 2: Repetitive references to SMART 1/2 and \"partners\" may confuse non-internal stakeholders"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Forward-looking information\" about SMART 2 program timeline (2025 start date)\n• Evidence 2: Lacks material risks, governance details, or direct links to financial performance"
+  }
+}

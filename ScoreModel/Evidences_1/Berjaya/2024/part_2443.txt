@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"BPB conducts grooming and personal hygiene training for its newly hired employees (\"partners\").\" (specific fact but lacks risk disclosure)\n• Evidence 2: No mention of risks, challenges, or uncertainties related to sustainability initiatives."
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: Clear structure with headings (Internal/External/Personal Development) and bullet points.\n• Evidence 2: Direct language describing training programs, though the mix of BPB and Starbucks references may cause confusion."
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: Training programs are listed but lack connection to sustainability goals or investor-relevant outcomes.\n• Evidence 2: No forward-looking information or material events related to corporate governance or risks."
+  }
+}

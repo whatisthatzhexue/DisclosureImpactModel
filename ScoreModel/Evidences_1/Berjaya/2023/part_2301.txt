@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood registered increased sales and reduced pre-tax profit of RM1.12 billion and RM148.73 million respectively...\" (specific figures)\n• Evidence 2: \"The decreased pre-tax profit was mainly due to margin compression caused by inflationary pressures...\" (neutral explanation of factors)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The increased sales was largely the result of strong marketing efforts and effective promotion methods...\" (clear cause-effect logic)\n• Evidence 2: \"unfavorable foreign exchange rate against the USD\" (precise terminology without unnecessary complexity)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The increased sales was largely the result of...addition of stores in Malaysia\" (explains performance change)\n• Evidence 2: \"margin compression caused by inflationary pressures...unfavorable foreign exchange rate\" (discloses material risks)"
+  }
+}

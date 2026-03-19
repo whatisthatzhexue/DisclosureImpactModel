@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The total dividend paid was approximately RM15.06 million which represented 1,282% of the attributable profit of the Group\" (specific factual disclosure).\n• Evidence 2: The text provides neutral descriptions of corporate actions (e.g., disposal of stake, sustainability reporting) without overtly positive or negative bias."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group will leverage on the strength of BStarbucks and proactively continue with its expansion plans\" (clear, direct language).\n• Evidence 2: The structure divides content into sections (Dividend, Corporate Development, etc.), but some paragraphs (e.g., the final BRoasters/Dodgeball line) lack contextual clarity."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Malaysian economy recorded a growth of 5.4%... expected to remain favourable\" (forward-looking material event).\n• Evidence 2: The significant corporate development section details a major transaction (disposal of stake) relevant to investor decision-making."
+  }
+}

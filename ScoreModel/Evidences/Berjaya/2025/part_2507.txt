@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BPBP incurred a loss before tax of PHP 72 million... driven by high importation costs... logistics expenses... controllable expenses\" (specific, neutral explanation of losses)\n• Evidence 2: \"BFT recorded a revenue of RM4.1 million... decline was primarily attributed to underperformance of premium beverage products... intensified competition\" (objective analysis of performance changes)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The company aims to achieve 33% year-on-year growth in same-store sales... expand social media reach... launch official website\" (clear, structured forward-looking statements)\n• Evidence 2: \"BJoybean has officially ceased operations... no further operational activities\" (precise, direct communication of material event)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue... driven by proactive strategies... expansion of store network... strengthened partnerships\" (explains performance drivers)\n• Evidence 2: \"Looking ahead... diversify product portfolio... enhance marketing strategies\" (includes forward-looking information for investor decision-making)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\" (External verification supports objectivity)\n• Evidence 2: \"The Group strives to review the Materiality Matrix on an annual basis.\" (Demonstrates commitment to ongoing assessment)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Sustainability Working Committee oversees the overall planning...\" (Clear role definition)\n• Evidence 2: \"For every cookie purchased...RM1 will be donated...\" (Specific example clarifies impact, though formatting issues may reduce clarity)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board and management are committed to continually refining...\" (Relevant to corporate governance and management processes)\n• Evidence 2: \"Compliance audits are conducted regularly...\" (Directly addresses risk management and regulatory compliance)"
+  }
+}

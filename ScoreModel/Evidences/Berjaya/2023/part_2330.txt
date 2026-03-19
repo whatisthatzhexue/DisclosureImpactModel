@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"prepared and distributed 1,200 bowls of 'bubur lambuk', a nutritious porridge...\"\n• Evidence 2: \"RM136,293 via its Starbucks Foundation, aiming to rescue surplus foods and provide meals for 10,000 individuals...\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"collaborated with local NGO, What A Waste (WaW), to prepare and distribute...\"\n• Evidence 2: \"granted WaW a total of RM136,293 via its Starbucks Foundation...\""
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"aiming to rescue surplus foods and provide meals for 10,000 individuals...\"\n• Evidence 2: \"offering food rescue training to volunteers from B40 communities.\""
+  }
+}

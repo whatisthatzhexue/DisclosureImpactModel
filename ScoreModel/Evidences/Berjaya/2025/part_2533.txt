@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood generates various types of waste...\" (specific factual statement about waste types)\n• Evidence 2: \"In FY2025, a total of 929,171 customers...\" (quantifiable, verifiable data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"One lid size now fits all cold cup sizes...\" (clear, concise technical explanation)\n• Evidence 2: \"The tall cup was re-engineered with a wider mouth...\" (logical structure with precise technical details)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Rewarding customers for using reusable cups...\" (strategic initiative relevant to investor understanding)\n• Evidence 2: \"The One Rim Standardisation Project...\" (forward-looking operational efficiency information)"
+  }
+}

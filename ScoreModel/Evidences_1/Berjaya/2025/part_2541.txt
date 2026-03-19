@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"On 3 August 2024, Starbucks supported Pop The Bubble...\" (specific date and event details)\n• Evidence 2: \"Raised funds to sponsor Deaf students...\" (quantifiable outcome)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Promoted understanding between Deaf and hearing communities through inclusive storytelling\" (clear, direct language)\n• Evidence 2: \"Held in Petaling Jaya...\" (specific location details)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Raised funds to sponsor Deaf students and promoted Deaf inclusion\" (material impact for stakeholders)\n• Evidence 2: \"Organised by YMCA Pulau Pinang...\" (organisational context)"
+  }
+}

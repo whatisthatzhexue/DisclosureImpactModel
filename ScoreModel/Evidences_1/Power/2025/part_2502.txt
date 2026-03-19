@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board did not recommend the payment of any final dividend in respect of FY 2025.\"\n• Evidence 2: \"Geopolitical factors are likely to impact business opportunities...\" (discloses risks and uncertainties)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Dividend Per Share (\"DPS\") (sen) 2025 6.50 2024 7.10...\" (clear numerical structure)\n• Evidence 2: \"We remain committed to making on-going improvements...\" (direct language with specific initiatives)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The total dividends paid for FY 2025 is 6.5 sen...\" (material financial data for investors)\n• Evidence 2: \"Trade tensions and tariffs disputes...\" (forward-looking risk factors affecting decision-making)"
+  }
+}

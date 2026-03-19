@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"BFood ensures its sustainability practices deliver value for local stakeholders while aligning with broader global objectives.\" (Positive claim without risk disclosure)\n• Evidence 2: \"Complying with legal... requirements\" (Confirms compliance but lacks specific risk or challenge details)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sustainability Pillars\" section with clear headings (Structured logic)\n• Evidence 2: \"Procurement practices... HACCP requirements\" (Precise terminology for industry standards)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Material Topics and Alignment\" section linking to GRI Standards and UNSDGs (Relevant to investors)\n• Evidence 2: Lack of forward-looking statements or specific risk disclosures (Limited investor utility)"
+  }
+}

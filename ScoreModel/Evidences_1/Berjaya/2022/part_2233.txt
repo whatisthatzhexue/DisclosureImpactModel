@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood’s climate change strategy includes working with employees and supply chain partners on energy-saving processes and a complete climate change risk assessment.\"\n• Evidence 2: \"When opinions differ, the Group responds by identifying gaps and initiating a process that alerts the Group to new areas of good business practice.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The consolidation method in calculating BFood’s carbon footprint: Operational... Accounts for 100% of GHG emissions where BFood has the authority to implement operational policies.\"\n• Evidence 2: \"Scope 1: COVERAGE: ENTIRE GROUP... Scope 2: COVERAGE: ENTIRE GROUP 100%\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Inevitably, climate change affects operating costs (\"OPEX\") and capital expenditure (\"CAPEX\").\"\n• Evidence 2: \"BFood invested RM4,120,752 on initiatives associated with climate change.\""
+  }
+}

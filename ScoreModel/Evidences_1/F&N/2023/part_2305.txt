@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We have also strengthened our climate-related disclosures aligned to the Task Force on Climate-related Financial Disclosures (TCFD) recommendations.\" (Specific fact about alignment with standards)\n• Evidence 2: \"We will continue our commitment to deepen our sustainability strategy...\" (Neutral statement about ongoing efforts without overstatement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Material Issues of F&N\" section with clear headings and bullet points for each topic (Logical structure with direct language)\n• Evidence 2: \"Quantifying out climate-related risks – water scarcity, flooding, and carbon pricing regulations – through scenario analysis.\" (Precise description of methodology)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Exposure F&N’s supply chain to various ESG risks (e.g. human rights, product quality); unethical practice can lead to regulatory violations...\" (Material risks relevant to investors)\n• Evidence 2: \"Guided by the GRI Standards... Lloyd’s Register quality Assurance (LRQA) has validated selected SHE disclosures.\" (Corporate governance and verification processes relevant to decision-making)"
+  }
+}

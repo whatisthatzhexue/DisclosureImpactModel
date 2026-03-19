@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The AuditCom ensures that the external auditors are independent of the activities they audit...' [neutral, objective disclosure of independence checks]\n• Evidence 2: 'The AuditCom had met with the external auditors once without the presence of the CEO and senior management.' [specific factual disclosure of audit process]"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Board has established an effective risk management and internal control framework...' [clear structure with specific framework description]\n• Evidence 2: 'The Audit Committee reviews and assesses the adequacy of the internal control system...' [precise language with defined processes]"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Company observes the Corporate Disclosure Guide issued by Bursa Securities...' [directly relevant to investor communication and governance]\n• Evidence 2: 'The Audit Committee... reviews the quarterly and annual consolidated financial statements...' [material financial reporting disclosure]"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood achieved a revenue of RM479.45 million for the financial year, alongside a pre-tax loss of RM278.91 million, a moderation from the previous year’s performance of RM750.70 million in revenue and a pre-ta...\" (specific financial figures)\n• Evidence 2: \"These results were influenced by external factors including the ongoing global market sentiment affected by the Middle East conflict.\" (discloses risks/uncertainties)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood achieved a revenue of RM479.45 million for the financial year, alongside a pre-tax loss of RM278.91 million...\" (precise, direct language)\n• Evidence 2: \"...leveraging its strong brand portfolio, operational efficiency and strategic initiatives to position itself for sustainable recovery...\" (clear structure with logical flow)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"These results were influenced by external factors including the ongoing global market sentiment affected by the Middle East conflict.\" (explains performance changes)\n• Evidence 2: \"...position itself for sustainable recovery and long-term growth.\" (includes forward-looking information)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Stakeholders from MPM operations were engaged at Endau, Kulai and Hutan Melintang...\" (specific stakeholder engagement details)\n• Evidence 2: \"Guided by Burs, Malaysia Securities Berhad’s Sustainability Reporting Guide...\" (reference to external standards)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Key stakeholder groups engaged across ILF, MPM, and POA were: Customers, Shareholders, Management...\" (clearly listed groups)\n• Evidence 2: \"Discussions with key internal stakeholders were held to evaluate the materiality levels...\" (direct explanation of process)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Identification of materiality is essential in any business...\" (direct relevance to investor concerns)\n• Evidence 2: \"Engagement was conducted with identified SPT members...\" (mention of stakeholder input process)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'We faced a mixed bag of opportunities and challenges to Fraser & Neave Holdings Bhd (F&NHB) and build our capability for future growth.' (Discloses challenges)\n• Evidence 2: 'We believe we are in a better position than many other beverage manufacturers to override this challenge given our focus in recent years on offering healthier options which has seen us reduce our sugar index by 28 per cent since FY2004.' (Supported by specific facts)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Our operating profit was correspondingly lower by 3.3 per cent from RM226.3 million to RM218.8 million.' (Clear numerical comparison)\n• Evidence 2: 'The entire project is expected to be completed in December 2018.' (Direct statement of timeline)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'We expect FY2017 to continue to be challenging, as both the local and global economies look set to remain soft.' (Forward-looking information)\n• Evidence 2: 'The Board has been working closely with Management on the Group's transformation...' (Corporate governance and internal management)"
+  }
+}

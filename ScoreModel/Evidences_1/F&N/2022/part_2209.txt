@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"THE YEAR CONTINUED TO BE VERY CHALLENGING FOR FOOD & BEVERAGES THAILAND... ESCALATION IN COST OF COMMODITIES SUCH AS PALM OIL, MILK POWDER AND TIN CANS AND FREIGHT COSTS, TOGETHER WITH A DEPRECIATION OF THE THAI BAHT IN THE FACE OF THE STRONG US DOLLAR.\"\n• Evidence 2: \"Invested RM128 million in a new liquid milk and plant-based beverage manufacturing facility in Wang Muang.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Grow manufacturing capacity• Invested RM128 million in a new liquid milk and plant-based beverage manufacturing facility in Wang Muang.\"\n• Evidence 2: \"Launched e-commerce platform, F&N Nom-Aroi, in May 2022.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Despite the macro challenges, the recovery in out-of-home channels, new product innovations, effective loyalty campaigns and double-digit growth in exports to Cambodia contributed to revenue growth in F&B Thailand.\"\n• Evidence 2: \"Our new plant in Wang Muang, which is fully operational since October 2022, will enable us expanding our presence in the liquid milk and building our brand in the plant-based beverages segment in Thailand.\""
+  }
+}

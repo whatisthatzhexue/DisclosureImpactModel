@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"There was no grant of new options during the financial year ended 31 March 2024\" (neutral, factual statement)\n• Evidence 2: \"Non-Executive Directors renounce their rights to the offered options\" (transparent disclosure of actions)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"There was no option offered to and exercised by any Non-Executive Directors pursuant to the ESOS Y2022\" (clear, direct statement)\n• Evidence 2: Garbled text \"t &NQMPZFFT4IBSF0QUJPO4DIFNFT(cont’d)\" (obscure, non-sequential characters)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board has strengthened the independence and diversity elements within the Board...\" (corporate governance relevance)\n• Evidence 2: \"Net proceeds...utilised for the working capital requirements of the Group\" (financial relevance for investors)"
+  }
+}

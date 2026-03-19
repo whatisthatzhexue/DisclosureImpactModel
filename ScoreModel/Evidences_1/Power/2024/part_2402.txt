@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board Charter was last reviewed and updated on 8 May 2024.\"\n• Evidence 2: \"To ensure compliance with applicable laws and regulations relevant to the Group’s operations;\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"PRINCIPLE A: BOARD LEADERSANTS & EFFECTIVENESS (cont’d)\" clearly structures the content.\n• Evidence 2: \"The Co-Chairmen are responsible for the governance... while the Chief Executive Officer is responsible for implementing...\" explicitly defines roles."
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"To review and manage the principal risks affecting the Group...\" directly addresses risk disclosure.\n• Evidence 2: \"To approve the policies relating to investor relations and shareholder communication programmes;\" highlights relevance to investor decision-making."
+  }
+}

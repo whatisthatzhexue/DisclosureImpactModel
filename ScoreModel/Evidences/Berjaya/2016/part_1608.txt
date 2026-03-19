@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board is satisfied with the current composition...\" (neutral statement with specific compliance details)\n• Evidence 2: \"All the Directors... does not hold more than five -5 directorships...\" (specific fact supporting regulatory compliance)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board meets regularly on a quarterly basis...\" (clear structure with specific meeting frequency)\n• Evidence 2: \"Directors Attendance\" table format (precise presentation of attendance data)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board composition represents a mix of knowledge...\" (corporate governance structure relevant to investors)\n• Evidence 2: \"compliance with Paragraph 15.02...\" (material regulatory compliance information)"
+  }
+}

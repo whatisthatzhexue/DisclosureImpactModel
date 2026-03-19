@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Protecting the rights of all stakeholders by providing decent conditions for employees, such as eliminating excessive working hours and providing decent accommodation\" (specific factual claims)\n• Evidence 2: No explicit disclosure of risks, challenges, or uncertainties related to sustainability practices"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Using various promotional methods and channels to convey an honest, transparent and balanced message\" (clear, direct language)\n• Evidence 2: \"Strengthening our local communities by organising multiple corporate social responsibility programmes\" (logical structure with explicit actions)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Training employees regularly to improve customer service levels\" (relevance to operational performance)\n• Evidence 2: \"Food safety Implementing practices... to minimise the risk to consumers\" (direct relevance to stakeholder safety) - lacks forward-looking information or material risk disclosures"
+  }
+}

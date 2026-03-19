@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The on-going conflicts in the Ukraine and the Middle East continue to fuel uncertainty and supply-chain disruptions...\" (discloses geopolitical risks)\n• Evidence 2: \"We completed the first issuance for RM100 million on 7 November 2024.\" (specific factual statement about sukuk issuance)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"DOMESTIC ACTIVITIES\" section headings provide clear structure (logical organization)\n• Evidence 2: \"Speed-to-market for such content has also led to greater engagement and participation.\" (precise explanation of digital marketing strategy)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The decrease in export revenue was due to regulatory challenges within MENA region.\" (explains performance change)\n• Evidence 2: \"Power Root intends to explore further into penetrating new markets for our next phase of growth...\" (forward-looking strategic plans)"
+  }
+}

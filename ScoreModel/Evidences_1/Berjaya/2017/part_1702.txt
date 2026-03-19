@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The total dividend paid was approximately RM13.10 million which represented 115% of the attributable profit of the Group for the financial year ended 30 April 2017.\" (specific factual disclosure)\n• Evidence 2: \"4.25 sen single-tier dividend per share for the preceding financial year ended 30 April 2016.\" (neutral comparison without overstatement)"
+  },
+  "Understandability": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The total dividend paid was approximately RM13.10 million which represented 115% of the attributable profit...\" (precise, direct language)\n• Evidence 2: \"3.50 sen single-tier dividend per share\" (clear numerical disclosure without ambiguity)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The total dividend paid was approximately RM13.10 million which represented 115% of the attributable profit...\" (useful for investors assessing payout ratios)\n• Evidence 2: \"The Group will review its subsidiaries’ operational procedures...\" (forward-looking information in broader report, but dividend section lacks contextual explanation of performance changes)"
+  }
+}

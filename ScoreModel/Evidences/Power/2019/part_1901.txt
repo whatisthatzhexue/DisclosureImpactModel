@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"total of RM1 million give-away cash prizes\" (specific factual claim)\n• Evidence 2: \"product formula for our Per’l Series which was last updated two years ago\" (dates and specifics provided)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Senang Jer Menang contest was a nationwide campaign which ran from May to October 2018\" (clear temporal context)\n• Evidence 2: \"Stock Keeping Units (\"SKU\") line-up\" (technical term explained in context)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"participating in Ah Huat-related projects... allowed us to strengthen Ah Huat’s brand association\" (marketing strategy relevance)\n• Evidence 2: \"new product launch... first-ever tea series\" (product development relevance)"
+  }
+}

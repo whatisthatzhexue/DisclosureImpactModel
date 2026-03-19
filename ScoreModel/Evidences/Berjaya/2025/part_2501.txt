@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"opened its first flagship store in Malaysia at Pavilion Kuala Lumpur on 18 January 2023\" (specific date and event)\n• Evidence 2: \"As of 30 June 2025, there are a total of 48 KRR outlets nationwide\" (quantifiable data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Paris Baguette offers a variety of Philippines-exclusive products\" (clear product description)\n• Evidence 2: \"full-service dining in a cosy, mid-casual environment\" (precise operational description)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"introduced a unique fusion of French-inspired South Korean pastries... with a modern twist\" (forward-looking innovation)\n• Evidence 2: \"Dear Shareholders... navigating these circumstances\" (corporate governance context)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The information and data disclosed in this statement were derived from internal reporting processes, systems and records.\" (supports reliability via source documentation)\n• Evidence 2: \"The Group has faced disruptive changes to its business operations with significant impacts across the three main aspects...\" (discloses challenges and uncertainties)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Sustainability Statement covers material issues arising from its principal subsidiary...\" (clear scope definition)\n• Evidence 2: \"Striving towards reducing the Group’s environmental footprint...\" (precise description of sustainability goals)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The COVID-19 pandemic has brought about significant disruptions...\" (material event impacting operations)\n• Evidence 2: \"The Group strives to support economic growth...\" (explains sustainability strategy relevance to investors)"
+  }
+}

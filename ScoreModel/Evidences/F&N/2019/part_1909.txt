@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Failure to meet stakeholders’ expectation in making positive contribution to the sustainability agenda...\" (discloses risks)\n• Evidence 2: \"To reduce water ratio at our plants by 5% from 2017 by 2020.\" (specific factual target)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Clear structure and roles\" (explicitly mentions logical organization)\n• Evidence 2: \"3Rs: Reduce, Reuse and Recycle\" (precise terminology for sustainability initiatives)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"To provide outreach and engagement programmes across Malaysia and Thailand...\" (community impact relevant to investors)\n• Evidence 2: \"Risk of losing license to operate due to non-compliance...\" (material risk disclosure)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Audit Committee is chaired by Mr. David Siew Kah Toong... in line with the Main Market Listing Requirements' (neutral, factual description)\n• Evidence 2: 'The re-appointment will be put to the shareholders for approval' (transparent disclosure of decision-making process)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Audit Committee reviewed the quarterly and annual consolidated financial statements... statutory requirements' (clear procedural description)\n• Evidence 2: 'The NomCom held two meetings... for the Financial Year 2023' (structured timeline of activities)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Reviewed and recommended re-election of Directors... AGM held in January 2023' (material governance information)\n• Evidence 2: 'Evaluated training needs of Directors... attended by Directors' (directly relevant to investor concerns about board competence)"
+  }
+}

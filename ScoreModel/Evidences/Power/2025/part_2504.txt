@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Potential climate risks will be assessed based on their likelihood and impact, ensuring that all identified risks are integrated into strategic decision-making and operational planning.'\n• Evidence 2: 'Zero incidents of non-compliance with health and safety regulations or voluntary codes of products' and 'Zero units recalled for health and safety reasons' demonstrate factual disclosure of risk outcomes."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Metrics and Targets' section clearly defines units and descriptions for GHG emissions, waste, energy usage, and water usage with precise terminology.\n• Evidence 2: 'Halal Assurance Management System' explains processes like 'sertu cleansing' in context, balancing technical terms with operational clarity."
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The SRMC reports periodically to the AC, presenting sustainability and climate-related risk assessments' directly addresses governance and risk management relevance for investors.\n• Evidence 2: 'Meeting and Adapting to Consumer Preferences' includes forward-looking initiatives like sugar reduction targets, aligning with investor concerns about market trends and sustainability."
+  }
+}

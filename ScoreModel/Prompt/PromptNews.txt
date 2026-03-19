@@ -26,6 +26,15 @@ Dimensions and scoring criteria (Score range: 0-10, 0=worst, 10=best):
 • Contains data or evidence to support claims, with detail quantity and data inclusion
 • Analytical quality, insight depth, and narrative completeness
 
+0–10 scoring scale: higher score indicates higher quality of news
+• 0: Extremely low
+• 1–2: Low
+• 3–4: Relatively low
+• 5: Medium
+• 6–7: Relatively high
+• 8–9: High
+• 10: Extremely high
+
 Output STRICTLY in this JSON format:
 {
   "MemoryTest": "[Repeat the exact anchor sentence]",

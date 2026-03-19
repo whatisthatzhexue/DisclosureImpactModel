@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"we expect a similar impact when the KSA raises its value-added tax from 5% to 15% beginning from 1 July 2020\" (acknowledges potential future risk)\n• Evidence 2: \"Profit after tax (PAT) of RM51.7million, an increase of 84.0% from the PAT of RM28.1 million in FYE 2019\" (specific factual data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"annual output to 2.7 million cartons\" (precise numerical data)\n• Evidence 2: \"revenue of RM386.1 million, an increase of approximately 14.2%\" (clear percentage change explanation)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The PAT increase was a result of higher sales, a favourable sales mix, as well as a reversal of the impairment loss\" (explains performance drivers)\n• Evidence 2: \"We are stepping up our exploration of export growth options outside MENA\" (forward-looking strategic initiative)"
+  }
+}

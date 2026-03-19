@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Our dairy manufacturing plants in Thailand and Malaysia are leading the way in our commitment towards achieving zero effluents and solid waste.\"\n• Evidence 2: \"Lowered the amount of sugar container per ml of all our beverages by 41% since 2004\""
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"3 milking tester machines to 3 milk cooperatives, helping 690 farmers\" (fragmented and unclear structure)\n• Evidence 2: \"RSPO credits Purchased 70% for of our palm oil usage\" (awkward phrasing and missing prepositions)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"We strive to reduce impacts from our operations, and this means complying with and going beyond relevant regulations\" (forward-looking sustainability goal)\n• Evidence 2: \"10 out of 12 product categories have at least one healthier choice\" (performance metric relevant to investors)"
+  }
+}

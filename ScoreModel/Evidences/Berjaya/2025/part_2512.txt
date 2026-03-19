@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood systematically identifies, assesses and prioritises sustainability-related risks and opportunities...\" (discloses risks and uncertainties)\n• Evidence 2: \"Where applicable, BFood incorporates ESG performance metrics into management remuneration structures...\" (specific factual disclosure)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Structured reporting lines, scheduled reviews and cross-functional collaboration maintain oversight.\" (clear logical structure)\n• Evidence 2: \"Short-term 0 – 2 years, Long-term 6 – 10 years and beyond...\" (precise time horizon definitions)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Includes growing demand for plant-based products, greater efficiency in water and electricity use...\" (forward-looking opportunities for investors)\n• Evidence 2: \"BFood embeds sustainability-related performance in its risk management processes...\" (material risk management information)"
+  }
+}

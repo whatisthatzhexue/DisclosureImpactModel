@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: The text describes stakeholder engagement methods without overstatement (e.g., \"Continuous efforts to serve customers...\").\n• Evidence 2: No explicit risks, challenges, or uncertainties are disclosed, limiting transparency on potential negative factors."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: Clear structure with bullet points and headings (e.g., \"Stakeholder Group Engagement Platforms\").\n• Evidence 2: Direct language explaining engagement methods (e.g., \"Regular meetings with suppliers...\")."
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: Mentions shareholder communication channels (e.g., \"Communications via announcements to Bursa Securities...\") relevant to investors.\n• Evidence 2: Lacks forward-looking information, risk disclosures, or material events impacting decision-making."
+  }
+}

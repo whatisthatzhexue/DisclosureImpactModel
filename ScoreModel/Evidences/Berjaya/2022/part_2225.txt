@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood’s procurement evaluates tenders in terms of pricing, credibility and other related matters such as compliance with labour law, GMP, and HACCP requirements.\" (specific factual disclosure)\n• Evidence 2: \"Prohibits all types of discrimination or the use of child or forced labour; and Requires that the upholding of freedom of association and the right to collective bargaining.\" (explicit risk disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Each supplier’s facility and products must pass assessments of ethical sourcing, supplier security, food safety, and product quality before BFood confirm its engagements.\" (clear structure with specific criteria)\n• Evidence 2: \"Verification Audit Frequency: Site Approval• Product Risk• Brand Risk• Valid Certification Risk Assessment\" (dense technical language with minimal explanation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group’s Suppliers Code of Conduct includes the UN Global Compact principles.\" (material governance disclosure)\n• Evidence 2: \"Suppliers can notify the Group of known or suspected improper behaviour using a dedicated Whistleblowing channel.\" (risk management relevance for investors)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Subsidiaries like BStarbucks and BFS lead this effort, targeting a 50% reduction in carbon, water and waste footprints by 2030, with ongoing improvements guided by evolving science and data.\"\n• Evidence 2: \"In FY2025, BFood invested RM 378,906.60 in climate-related initiatives...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood aligns its climate disclosures with the Task Force on Climate-related Financial Disclosures (\"TCFD\") pillars and the IFRS S2, covering governance, strategy, risk management, metrics and targets.\"\n• Evidence 2: \"The SWG, reporting directly to the Board Sustainability Committee (\"SC\"), leads the implementation of strategies...\""
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood’s Investments in Climate-related Initiatives...FY2025 RM 378,906.60...\" (financial metrics relevant to investors)\n• Evidence 2: \"Board-Level Oversight...Oversight of climate-related risks and opportunities.\"\n• Evidence 3: \"Integrate climate-related risks and opportunities into business strategy, governance and risk management frameworks.\"\n• Evidence 4: \"Plans to evaluate the inclusion of climate-related metrics in executive remuneration frameworks...\""
+  }
+}

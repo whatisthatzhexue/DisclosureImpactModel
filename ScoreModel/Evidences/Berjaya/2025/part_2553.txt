@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"RM250,000 for talent recognition\" (specific financial commitment)\n• Evidence 2: \"Most Bearista Art in Community Project\" (verified record achievement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: Clear section headings (e.g., \"Brewed For Impact\")\n• Evidence 2: \"40 grants totalling $14 million\" (precise numerical data)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"40 grants totalling $14 million\" (financial commitment details)\n• Evidence 2: \"Malaysia Book of Records\" (public recognition of initiative)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"We are in the process of acquiring 4,454 hectares of land...\" (specific factual statement)\n• Evidence 2: \"We have already made a positive start...\" (quantifiable achievement) but lacks disclosure of risks (e.g., no mention of potential financial, operational, or market risks associated with the dairy farm project)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We are ready to take our e-commerce business to the next level...\" (clear, direct language)\n• Evidence 2: \"The many benefits... will further entrench our position...\" (structured narrative with logical flow, though some technical terms like 'circular economy' may require contextual knowledge)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our goal is to eventually embrace a circular economy...\" (forward-looking strategic initiative)\n• Evidence 2: \"The Malaysian economy has maintained a steady momentum...\" (macroeconomic context relevant to investors) but lacks detailed risk analysis or material event disclosures"
+  }
+}

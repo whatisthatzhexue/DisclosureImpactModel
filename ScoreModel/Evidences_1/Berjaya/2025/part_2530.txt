@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"No external third-party validation of targets has been conducted to date\" (discloses limitations)\n• Evidence 2: \"BFood will consider net targets in future phases\" (acknowledges evolving approach)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood measures and calculates its GHG emissions using the GHG Protocol methodology\" (clear technical explanation)\n• Evidence 2: \"Notes\" section with numbered bullet points (structured clarification of metrics)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Financial implications of climate risk are reflected in current operations and long-term planning\" (direct investor-relevant info)\n• Evidence 2: \"BFood is exploring the potential role of carbon credits...\" (forward-looking strategic planning)"
+  }
+}

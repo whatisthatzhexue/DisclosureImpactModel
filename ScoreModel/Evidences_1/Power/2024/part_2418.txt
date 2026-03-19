@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"As at the date of this Statement, the Put Options remained unexercised.\" (neutral factual disclosure)\n• Evidence 2: \"The issuance of new ordinary shares... is conditional upon approvals...\" (transparently outlines conditions without overstatement)"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"RM’000\" formatting lacks clarity for non-local readers (ambiguous currency notation)\n• Evidence 2: \"Wong Tak Keong @ 1,817\" uses unclear notation for transaction amounts (requires contextual knowledge)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Breakdown of the aggregate value of the RRPT...\" (material related party transaction disclosure)\n• Evidence 2: \"Put Option(s)\" (relevant corporate governance structure impacting shareholder rights)"
+  }
+}

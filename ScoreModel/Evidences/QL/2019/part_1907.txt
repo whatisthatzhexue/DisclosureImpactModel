@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The palm oil industry was severely challenged by CPO prices that dropped to RM2,100 per metric tonne in FY2019 from last year’s average of RM2,600 per metric tonne.\"\n• Evidence 2: \"Overall the outlook of POA is bearish.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FamilyMart’s central kitchen... received the halal certification from Jabatan Kemajuan Islam Malaysia (JAKIM).\"\n• Evidence 2: \"We are on track towards fulfilling our promise of 300 stores in five years (FY2022).\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The halal compliance at QL Kitchen is monitored by a permanent halal executive...\"\n• Evidence 2: \"we anticipate the year average price for CPO to continue range bound at RM1,900 to RM2,200 per metric tonne.\""
+  }
+}

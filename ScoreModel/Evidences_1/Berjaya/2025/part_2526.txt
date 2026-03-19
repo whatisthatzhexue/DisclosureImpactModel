@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood assesses and investigates all reports professionally, taking appropriate action based on the findings.\" (neutral, factual description of process)\n• Evidence 2: \"Reports zero significant incidents of bribery, corruption or anti-competitive legal action\" (specific, verifiable claim)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Individuals submit reports via email or mail to designated senior officers.\" (clear, direct language)\n• Evidence 2: \"The Group also takes disciplinary action against false or malicious reports.\" (precise terminology with explicit explanation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"This whistleblowing mechanism supports BFood’s zero-tolerance stance on corruption\" (directly relates to corporate governance)\n• Evidence 2: \"BFood also actively contributes its operational expertise... to advance the broader food and beverage sector\" (shows industry impact relevant to investors)"
+  }
+}

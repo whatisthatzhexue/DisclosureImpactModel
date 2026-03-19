@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 3,
+    "justification": "• Evidence 1: \"BFood ensures its sustainability practices deliver value...\" (vague claim without specific facts)\n• Evidence 2: \"Compliance Complying with legal...\" (lists regulations but lacks concrete examples or data to verify claims)"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Sustainability Pillars\" section uses technical terms like GRI Topics and UNSDGs without defining them (obscure expressions)\n• Evidence 2: Repeated section headings like \"Stakeholders Contributing...\" (redundant structure)"
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Material Topics and Alignment\" section mentions GRI Standards but lacks connection to financial performance or investor decision-making\n• Evidence 2: No forward-looking statements or risk disclosures related to sustainability impacts (missing critical investor-relevant information)"
+  }
+}

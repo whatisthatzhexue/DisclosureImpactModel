@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Company recognises the challenges of its operating environment...\" (acknowledges risks and uncertainties)\n• Evidence 2: \"This Sustainability Statement does not include... Brunei.\" (discloses scope limitations)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Economic Sustainability: Creation of long-term value...\" (clear section headings with direct language)\n• Evidence 2: \"The Sustainability Statement covers material issues...\" (precise description of scope)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The uncertainty caused by the pandemic...\" (explains operational impacts relevant to investors)\n• Evidence 2: \"Supporting conservation efforts.\" (specific sustainability initiatives with potential financial implications)"
+  }
+}

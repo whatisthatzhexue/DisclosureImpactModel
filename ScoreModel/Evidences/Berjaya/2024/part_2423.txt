@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Implementing practices and measures to prevent contamination, ensuring that food is handled, prepared and stored in a way that minimises the risk to consumers\" (specific factual statement)\n• Evidence 2: No explicit disclosure of risks, challenges, or uncertainties (lack of critical risk assessment)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Strengthening our local communities by organising multiple corporate social responsibility programmes\" (clear, direct language)\n• Evidence 2: Structured use of bullet points and headings (logical organization of information)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Community & society\" section (relevant to stakeholder engagement)\n• Evidence 2: No mention of forward-looking information, material risks, or governance structures (limited investor decision-usefulness)"
+  }
+}

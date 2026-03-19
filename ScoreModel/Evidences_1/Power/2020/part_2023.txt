@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The risk-based internal audit plan... reviewed and approved by the Audit Committee prior to their execution.\"\n• Evidence 2: \"The cost incurred... amounted to RM 378,370.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The internal audit procedures applied principally consisted of process evaluations through interviews... Standard Operating Procedures and/or process flows.\"\n• Evidence 2: \"For the financial year ended 31 March 2020, the internal audit functions have conducted reviews for: [list of specific areas]\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Audit Committee reported the results... for regulatory compliance.\"\n• Evidence 2: \"Updates on the status of action plans... for review and deliberation.\""
+  }
+}

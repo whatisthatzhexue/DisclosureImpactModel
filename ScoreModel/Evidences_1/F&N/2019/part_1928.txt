@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: '90% of our RTD beverages sold in Malaysia today are (below the sugar sweetened beverages excise duty threshold)' (specific factual data)\n• Evidence 2: 'Employee-driven projects delivered cost savings/cost avoidance: Approximately RM2.41 million per annum' (quantifiable outcome)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: 'Our overall sustainability framework comprises six pillars...' (clear structure)\n• Evidence 2: '126 FRASER & NEAVE HOLDINGS BHD' (incoherent ending fragment causing confusion)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'This Sustainability Statement provides a snapshot of our Sustainability Report 2019...' (links to broader report)\n• Evidence 2: 'Investment of healthier option... RM150 million' (financial metrics relevant to investors)"
+  }
+}

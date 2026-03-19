@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Directors of the Company are required by the Companies Act 2016 in Malaysia...give a true and fair view of the financial position...\" (legal compliance and factual disclosure)\n• Evidence 2: \"nothing has come to their attention that has caused them to believe that the Statement has not been prepared in accordance with...\" (external auditor confirmation of compliance)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Framework and the BCM plans developed are reviewed on an annual basis...\" (clear process description)\n• Evidence 2: \"Status of implementation of agreed audit recommendations is tracked until completion...\" (precise procedural language)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group’s pandemic preparedness was further strengthened...work-from-home arrangement...\" (material event disclosure)\n• Evidence 2: \"The Board...has undertaken review of the adequacy and effectiveness of risk management...\" (direct relevance to investor concerns about governance and risk)"
+  }
+}

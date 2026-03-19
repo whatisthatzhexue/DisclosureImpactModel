@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Framework and the BCM plans developed are reviewed on an annual basis and tested periodically to ensure that it is up-to-date and relevant to the business environment.\"\n• Evidence 2: \"The audits are designed to test the appropriateness of control design and implementation as well as compliance with the existing policies and procedures.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group operates on an enterprise resource planning system which integrates various facets of the Group’s operations.\"\n• Evidence 2: \"The Directors, have through the Statement by Directors on page 211 of the Annual Report given their opinion that the financial statements have been drawn up in accordance with Malaysian Financial Reporting Standards.\""
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Directors are also responsible for ensuring that a system of internal control is in place to ensure that the assets of the Group are safeguarded against loss from unauthorised use or disposition.\"\n• Evidence 2: \"The details of the recurrent related party transactions entered into during the Financial Year 2019 are as follows:\"" 
+  }
+}

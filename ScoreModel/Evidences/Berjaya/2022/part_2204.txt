@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"despite the imposition of national recovery phase and endemic during the financial year under review.\"\n• Evidence 2: \"effective cost optimisation initiatives through constant cost review and sourcing of alternative suppliers and service providers to lower operating cost.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks upgraded its Starbucks Rewards programme to a spend-based loyalty programme\"\n• Evidence 2: \"During the financial year under review, BStarbucks recorded profit before tax of RM193.5 million compared to RM90.1 million in the previous financial year due to higher revenue as well as effective cost optimisation initiatives.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks recorded profit before tax of RM193.5 million compared to RM90.1 million in the previous financial year due to higher revenue as well as effective cost optimisation initiatives...\"\n• Evidence 2: \"BRoasters plans to open 9 new stores in the new financial year with a smaller footprint restaurant concept in high traffic secondary township areas.\""
+  }
+}

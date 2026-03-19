@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Over the past year, we have implemented several key initiatives aimed at enhancing food safety awareness...\" (specific factual initiatives)\n• Evidence 2: \"Fully comply with Malaysia’s Food Regulations\" (explicit compliance statement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Crafting Quality, Safety, Every Time\" (clear section heading)\n• Evidence 2: \"Stricter requirements with robust shelf-life validation\" (precise technical description)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Food Safety Recognition Programme... celebrated for exceptional food safety measures\" (relevant to operational standards)\n• Evidence 2: \"Catering To Diverse Needs\" (addresses stakeholder requirements but lacks investor-specific context)"
+  }
+}

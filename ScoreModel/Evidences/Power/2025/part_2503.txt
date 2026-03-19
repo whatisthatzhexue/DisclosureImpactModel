@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Zero incidents of non-compliance with health and safety regulations or voluntary codes of products\" (specific factual claim)\n• Evidence 2: \"53% of total waste generation diverted from disposal\" (quantifiable metric supporting reliability)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Completed Phase 2 of the solar PV system installation, increasing total installed capacity to 1,075 kWp\" (clear technical description)\n• Evidence 2: \"Material Matters t 1SPEVDU4BGFUZ\" (complex terminology without contextual explanation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Aligning with the UN SDGs\" (direct link to investor-relevant sustainability goals)\n• Evidence 2: \"Climate-related risks and opportunities\" (forward-looking information impacting long-term strategy)"
+  }
+}

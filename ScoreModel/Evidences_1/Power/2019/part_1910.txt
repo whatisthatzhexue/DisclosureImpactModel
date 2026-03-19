@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"To minimize negative reporting and protect company image\" (implies awareness of reputational risks)\n• Evidence 2: \"Supported by specific facts in the text\" (lists concrete engagement methods and objectives)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Stakeholder Group Engagement Objective(s) Preferred Engagement Method(s)\" (clear table structure)\n• Evidence 2: \"Stakeholder Prioritisation Matrix\" (explicit reference to organizational structure)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"To demonstrate financial sustainability\" (directly ties to investor concerns)\n• Evidence 2: \"Stakeholder prioritisation exercise\" (shows governance process relevant to decision-making)"
+  }
+}

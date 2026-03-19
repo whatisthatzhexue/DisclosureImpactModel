@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"100% of our operations have been subjected to human rights reviews or impact assessments in FY2021\" (specific fact)\n• Evidence 2: \"zero Loss Time injury case for employees\" (quantifiable risk disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Clear Structure and Roles\" section with numbered modules (logical organization)\n• Evidence 2: \"Carbon footprint @ 295kg CO2\" (precise metric)" 
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our approach is guided by our Energy Management policy with five focus areas...\" (strategic planning)\n• Evidence 2: \"Zero Waste to Landfill\" initiative (material sustainability commitment)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Dato’ Lee Kok Chuan* - Sustainability Engagement Series... * Denotes Dato’ Lee Kok Chuan has resigned...\" (specific fact about resignation)\n• Evidence 2: \"The Board will, on a continuous basis...\" (neutral, objective statement about future actions)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Corporate Governance Breakfast Series with Directors: \"The Cybersecurity Threat...\"\" (clear structure with specific event names)\n• Evidence 2: \"Companies Act, 2016- Year End Matters...\" (precise legal reference with context)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Sustainability Forum for Directors... \"The Velocity of Global Change...\"\" (material topic relevant to investors)\n• Evidence 2: \"FTSE4Good Bursa Malaysia Index Briefing\" (indicates compliance with regulatory standards)"
+  }
+}

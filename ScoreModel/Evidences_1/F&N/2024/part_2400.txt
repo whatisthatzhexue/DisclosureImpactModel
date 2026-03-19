@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Board is firmly committed to promoting and enhancing diversity... 36% female and 64% male members.' (specific factual disclosure)\n• Evidence 2: 'The Company Secretary is responsible for managing the flow of information to the Board... ensuring it is provided at appropriate times.' (neutral, objective process description)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Board And Board Committee Meeting Attendance for Financial Year 2024' (clear section heading with specific attendance data)\n• Evidence 2: 'The financial implications of ESG initiatives are monitored by the Audit Committee...' (precise language linking committees to responsibilities)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Approved the Company’s subscription of additional equity interest in its wholly-owned subsidiary...' (material corporate action relevant to investors)\n• Evidence 2: 'The Board recognises the increasing investor interest in climate change risk...' (direct link to investor concerns and strategic considerations)"
+  }
+}

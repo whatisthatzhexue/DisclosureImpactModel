@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"the Board was satisfied with the performance of the ARMC and its members and concluded that they have effectively discharged their functions...\" (neutral assessment without overstatement)\n• Evidence 2: \"The Terms of Reference of the ARMC was last revised...\" (specific fact about updates but no risks or challenges disclosed)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board assessed and evaluated the performance...\" (clear structure and direct language)\n• Evidence 2: \"The latest Terms of Reference...\" (precise statement with specific date and location)"
+  },
+  "Relevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"performance of the Audit and Risk Management Committee\" (internal governance focus, no investor-relevant risks or events)\n• Evidence 2: \"approved by the Board on 14 August 2023\" (dates but no forward-looking info or material events)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The year will no doubt be challenging, but with new products and route to market, better service and expanded reach, we are certain of continuing to bring smiles to everyone.\"\n• Evidence 2: \"Revenue increased by 1.8 per cent, from RM1.91 billion to RM1.94 billion, aided by a favourable Thai Baht/Ringgit exchange rate.\"\n• Evidence 3: \"Economic uncertainties, and cost-conscious consumer behaviour\" (discloses risks but lacks specific mitigation details)."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"New Products in FY2020\" section with clear product listings and quantitative data (e.g., \"nine per cent increase in unit sales\").\n• Evidence 2: \"F&N Dairies (Thailand) Limited ranked first as a manufacturer...\" (precise, factual statement)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We will continue to offer attractive savings with value packs and bundles\" (forward-looking strategy relevant to investors).\n• Evidence 2: \"Revenue increased by 1.8 per cent... aided by a favourable Thai Baht/Ringgit exchange rate\" (explains performance drivers)."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The risk-based internal audit plan in respect of the financial year ended 31 March 2020 was prepared after taking into consideration of the existing and emergent key business risks identified in the Group’s key risk profile.\"\n• Evidence 2: \"The audit plan and any subsequent amendment (if any) were reviewed and approved by the Audit Committee prior to their execution.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The internal audit procedures applied principally consisted of process evaluations through interviews with relevant personnel involved in the process under review, review of the Standard Operating Procedures and/or process flows provided and observations of the functioning of processes in compliance with results of interviews and/or documented Standard Operating Procedures and/or process flows.\"\n• Evidence 2: \"The cost incurred in maintaining the in-house and outsource internal audit function for the financial year ended 31 March 2020 amounted to RM 378,370.\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Audit Committee reported the results of the review and deliberations to the Board in order for the Board to discharge its responsibility of ensuring that there are sound internal controls in place to manage the risks within the risk appetite of the Group and for regulatory compliance.\"\n• Evidence 2: \"The internal audit functions have conducted reviews for: [list of processes]\""
+  }
+}

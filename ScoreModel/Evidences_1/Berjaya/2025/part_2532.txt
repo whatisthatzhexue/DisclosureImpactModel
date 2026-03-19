@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood’s pollution management strategy minimises resource consumption and cuts material costs through daily operations that use fewer resources.\" (neutral, fact-based)\n• Evidence 2: \"The Group is committed to managing its resource use and reducing waste generation to lower the volume and toxicity of waste produced\" (objective, no overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"ENERGY STAR-certified ice machines: ~20% more water-efficient and 10% more energy-efficient than standard models\" (precise, direct language)\n• Evidence 2: \"92% of BStarbucks stores... 100% of BPBM Bakery cafès\" (clear structure with specific metrics)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"These insights allow the team to optimise operations, reduce water waste, improve efficiency and maintain high-quality standards\" (useful for investors assessing operational efficiency)\n• Evidence 2: \"BFood ensures none of its operations... are located in water-stressed regions\" (material information for risk assessment)"
+  }
+}

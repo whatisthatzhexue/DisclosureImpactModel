@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood does not currently conduct its own labour practice assessments\" (acknowledges limitations)\n• Evidence 2: \"Comprehensive grievance mechanisms are in place\" (transparent about support systems)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group demonstrates its commitment to labour standards by aligning with internationally recognised frameworks\" (clear explanation of alignment)\n• Evidence 2: Bullet points under \"Fairness and Inclusion\" (structured, direct presentation of policies)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Periodically monitors the labour practices of both existing and potential business partners\" (relevant to supply chain risk)\n• Evidence 2: \"Partner Voice Programme provides a dedicated platform for employees to report concerns\" (internal governance relevance)"
+  }
+}

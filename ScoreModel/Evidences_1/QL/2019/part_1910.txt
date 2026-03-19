@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL’s Board of Directors takes an active role in setting the direction of sustainability, dovetailing the active role they play at each of the group’s business pillars.\"\n• Evidence 2: \"The SRW reports directly to the SPT.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The following entails the core responsibilities of the SPT:\"\n• Evidence 2: \"• Incorporate sustainability into QL’s Risk Management and Corporate Strategies;\""
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Oversee the management of material sustainability matters as identified;\"\n• Evidence 2: \"Monitor QL’s sustainability performance for reporting.\""
+  }
+}

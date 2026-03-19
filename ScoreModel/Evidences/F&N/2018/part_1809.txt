@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board is of the view that the Group’s overall risk management and internal control system is sound and adequate in all material aspects...\" (overstatement of certainty, but balanced by subsequent disclosures)\n• Evidence 2: \"areas of improvement on control design and implementation are highlighted...\" (disclosure of risks and challenges)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Framework and the BCM plans developed are reviewed on an annual basis and tested periodically...\" (clear structure with specific actions)\n• Evidence 2: \"Payment of royalties to the F&N Ltd Group for use of trademarks...\" (precise transaction descriptions)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board is cognisant of the importance of business continuity management...\" (directly addresses investor concerns about operational resilience)\n• Evidence 2: \"Recurrent related party transactions...\" (material governance information for stakeholders)"
+  }
+}

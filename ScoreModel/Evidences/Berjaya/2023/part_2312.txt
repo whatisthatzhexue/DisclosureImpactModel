@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The Board leads the Group’s sustainability agenda, supervising the execution of sustainability strategy and evaluating significant sustainability matters.\"\n• Evidence 2: \"Monitoring sustainability performance involves utilising data from diverse sustainability tools and activities, including internal audits and compliance processes.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sustainability Governance Structure\" section with clear hierarchical roles (Board of Directors, CEO, SWG, etc.)\n• Evidence 2: \"BFood's brands apply global guiding principles, such as the Quality, Environmental, Health and Safety (\"QESH\") and the Code of Conduct.\""
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The Board leads the Group’s sustainability agenda... evaluating significant sustainability matters.\"\n• Evidence 2: \"BFood's management approach covers procedures, processes and systems to manage and monitor material topics.\""
+  }
+}

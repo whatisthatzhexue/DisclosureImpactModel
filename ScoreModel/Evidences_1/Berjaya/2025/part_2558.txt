@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'All brands provide comprehensive information on product quality and safety' (truthful, neutral disclosure)\n• Evidence 2: 'Total confirmed incidents of corruption No. 0 0 0' (transparent risk disclosure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Total energy consumption * GJ 40,454,002 47,031,465 43,101,729' (clear numerical structure)\n• Evidence 2: 'Lost time incident rate (LTIR) Rate 0.17 0.05' (standardized metric presentation)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'By integrating these robust measures, BFood ensures customer data is protected' (investor-relevant risk mitigation)\n• Evidence 2: 'Total waste generated Metric tonnes 1,791,273' (material environmental impact disclosure)"
+  }
+}

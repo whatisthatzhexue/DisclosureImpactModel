@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Revenue of RM338.0 million, a decrease of approximately 14.0% from the revenue of RM392.8 million\" (specific figures and neutral explanation for revenue decline).\n• Evidence 2: \"This increase in PAT mainly ensued from an improved, favourable sales mix, reduced A&P spending...\" (objective explanation of PAT growth with supporting factors)."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Total Assets decreased by RM23.8 million as a consequence of a reduction in investments...\" (clear cause-effect explanation with precise figures).\n• Evidence 2: \"Our Group’s Total Assets decreased... Total Liabilities...\" (structured presentation of financial position with logical flow)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"This decrease was due to lower local and export sales...\" (explains performance changes relevant to investors).\n• Evidence 2: \"Our Group’s financial position is sound...\" (provides material information about financial health, though lacks forward-looking statements)."
+  }
+}

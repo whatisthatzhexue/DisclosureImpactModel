@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks' \"Bring Your Own Tumbler\" programme rewards customers when they use Starbucks Tumblers to purchase handcrafted beverages to reduce single-use plastics and paper cups.\" (Neutral, factual description of the program's purpose)\n• Evidence 2: No mention of risks, challenges, or uncertainties related to the program."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks' \"Bring Your Own Tumbler\" programme rewards customers when they use Starbucks Tumblers to purchase handcrafted beverages to reduce single-use plastics and paper cups.\" (Clear, direct explanation of the program's mechanism)\n• Evidence 2: No vague or redundant expressions; professional terms are used only when necessary."
+  },
+  "Relevance": {
+    "score": 3,
+    "justification": "• Evidence 1: No explanation of reasons for performance changes or forward-looking information (e.g., projected impact on plastic reduction)\n• Evidence 2: No mention of risks, material events, corporate governance, or internal management (if applicable)."
+  }
+}

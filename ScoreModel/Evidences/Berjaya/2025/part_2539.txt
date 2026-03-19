@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Such as safety shoes, aprons, gloves and hair nets to prevent injuries and contamination risks, with PPE requirements varying by operation\" (specific, factual description)\n• Evidence 2: \"The Group complies with all relevant employment and human rights regulations in its operational regions\" (objective compliance statement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Targeted Safety Initiatives\" section with clear bullet points and headings (logical structure)\n• Evidence 2: \"BFood enforces rigorous health and safety standards not only within its operations but also across its entire supply chain\" (precise, direct language)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"FY2025 highlights\" section with specific training programs (forward-looking information)\n• Evidence 2: \"Grievance Mechanism and Outcomes\" section addressing stakeholder engagement (corporate governance relevance)"
+  }
+}

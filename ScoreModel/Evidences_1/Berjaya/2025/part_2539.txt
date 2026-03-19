@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood’s unwavering commitment to maintaining a safe, hygienic and responsive working environment\" (subjective phrasing may imply overstatement)\n• Evidence 2: \"All suppliers are required to adhere to BFood’s Supplier Code of Conduct\" (specific compliance requirement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Targeted Safety Initiatives\" section with bullet points clarifying PPE requirements and safety measures\n• Evidence 2: \"Highlights from FY2025\" section with clear, structured forward-looking initiatives"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Highlights from FY2025\" section provides forward-looking information on training programs\n• Evidence 2: \"Health and Safety In The Supply Chain\" section addresses supplier compliance, relevant to investor risk assessment"
+  }
+}

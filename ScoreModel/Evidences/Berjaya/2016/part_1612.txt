@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board acknowledges the importance of timely and equal dissemination of material information to the shareholders, investors and the public at large.\" (Neutral, objective disclosure of commitment to transparency)\n• Evidence 2: \"the Company has, in all material aspects, complied with the principles and recommendations of the MCCG 2012\" (Specific factual statement about compliance with governance standards)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The key aspects of the internal control process are as follows:\" (Clear structure with bullet points for process explanation)\n• Evidence 2: \"The ARMC held five -5 meetings during the financial year ended 30 April 2016.\" (Precise numerical data presented in context)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Company maintains a website... where shareholders can access the latest information\" (Material information for investors)\n• Evidence 2: \"the ARMC reviewed the quarterly financial statements... to ensure compliance with Malaysian Financial Reporting Standards\" (Forward-looking risk assessment and regulatory compliance)"
+  }
+}

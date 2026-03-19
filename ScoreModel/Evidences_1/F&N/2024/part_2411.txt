@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group’s pandemic preparedness was further strengthened...\" (discloses risks and challenges)\n• Evidence 2: \"External Auditors... reported to the Board that nothing has come to their attention...\" (neutral, fact-based assurance)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group operates on an enterprise resource planning system...\" (clear, direct language)\n• Evidence 2: \"The Framework... is reviewed annually...\" (logical structure with specific timelines)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Business Continuity Management... to prepare the Group’s business operations in the event of crisis\" (material risks and preparedness)\n• Evidence 2: \"The Directors... ensure that the financial statements...\" (links governance to financial reporting relevance)"
+  }
+}

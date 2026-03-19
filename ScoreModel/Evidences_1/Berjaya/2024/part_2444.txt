@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"officially launched on 1 October 2023\" (specific fact)\n• Evidence 2: No mention of risks, challenges, or uncertainties related to the initiatives"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: Clear structure with headings (\"Starbucks® CODEMY\", \"Uplift!\")\n• Evidence 2: Direct language explaining platform purpose and program objectives"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: Forward-looking information about employee engagement initiatives\n• Evidence 2: No mention of risks, material events, corporate governance, or performance changes"
+  }
+}

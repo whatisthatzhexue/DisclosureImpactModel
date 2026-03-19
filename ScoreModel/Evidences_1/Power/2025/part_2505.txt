@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'There were zero incidents of bribery, corruption, or whistleblowing across the Group.' (specific factual statement)\n• Evidence 2: 'No substantiated complaints concerning human rights violations' for three consecutive years (supported by data and policy references)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: Clear section headings (e.g., 'Corporate Governance', 'Sustainability Statement') and tabular data (e.g., training percentages) enhance clarity.\n• Evidence 2: Technical terms like 'HIRARC assessment' are defined in context but may require prior knowledge for full comprehension."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: Includes corporate governance details (Board structure, committees, risk management) critical for investor assessment.\n• Evidence 2: Covers material risks (corruption, environmental impacts) and sustainability metrics, though forward-looking information is limited."
+  }
+}

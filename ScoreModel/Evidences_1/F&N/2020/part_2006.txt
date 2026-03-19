@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Contributed RM112.8 million in tax for FY2020\" (specific financial disclosure)\n• Evidence 2: \"Complied with regulation to mitigate against systemic risk\" (acknowledges regulatory compliance)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Total No. of Employees: 2,616 employees\" (clear numerical disclosure)\n• Evidence 2: \"Dividend Payout Ratio: 53.6%\" (precise metric presentation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue: RM3,988.5 MILLION\" (key financial indicator for investors)\n• Evidence 2: \"Sustainability Targets 2020\" (forward-looking goals impacting long-term value)"
+  }
+}

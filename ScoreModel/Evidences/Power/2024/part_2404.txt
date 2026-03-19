@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"All meetings of the Board were duly recorded in the Board minutes by the Company Secretary.\" (specific factual statement)\n• Evidence 2: \"The composition of Independent Non-Executive Directors is in compliance with Paragraph 15.02-1 of the MMLR\" (references regulatory compliance)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board currently has eleven -11 members comprising two -2 Independent Non-Executive Co-Chairmen, four -4 Executive Directors...\" (clear numerical structure)\n• Evidence 2: \"The Directors also have access to the advice and services of the Company Secretary...\" (precise, direct explanation of processes)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Please refer to Practice 1.6... for details of the Board’s proceedings on meeting materials...\" (directly relevant to governance processes)\n• Evidence 2: \"It is the responsibility of the Board to ensure that all members... discharge their duties and responsibilities diligently and effectively.\" (pertains to investor concerns about governance efficacy)"
+  }
+}

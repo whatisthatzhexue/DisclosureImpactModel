@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood adheres to all legal requirements, prioritising consumer protection, minimising its environmental footprint and ensuring fair and responsible market practices.\" (specific commitment but lacks risk disclosure)\n• Evidence 2: \"BFood ensures transparent sourcing, clear nutritional information and diverse menu options...\" (specific actions but no quantifiable metrics or challenges)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Stakeholder Group Engagement Platforms Areas of Interest BFood’s Commitment\" (clear section headers with logical flow)\n• Evidence 2: \"BFood fosters strong partnerships with contractors... upholding fairness, transparency and mutual respect\" (direct language with specific commitments)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"BFood co-creates solutions that drive business growth and deliver positive impact to society and the environment\" (links sustainability to business outcomes)\n• Evidence 2: \"Transparency in sourcing and nutritional information\" (directly relevant to investor concerns but lacks forward-looking information or risk disclosures)"
+  }
+}

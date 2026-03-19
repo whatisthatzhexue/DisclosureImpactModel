@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"raised RM70,722 to help those desperate for food provisions and necessities.\"\n• Evidence 2: \"benefiting 615 families in Malaysia, including existing HOPE Worldwide beneficiaries...\"\n• Evidence 3: \"This award recognises companies’ outstanding CSR achievements...\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Every third Wednesday of the month, BStarbucks invites employees to be part of the Company’s Zero Hunger Programme.\"\n• Evidence 2: \"Volunteers distributed more than 100 meal packs of meals worth over RM1,600.\"\n• Evidence 3: \"The Group is establishing a specific structure for facilitating employee engagement.\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The group recognises employee engagement as one of the sustainability efforts that can result in a positive impact on business performance.\"\n• Evidence 2: \"BRoasters collaborated with FoodPanda to distribute...struggling families.\"\n• Evidence 3: \"This award recognises companies’ outstanding CSR achievements...\""
+  }
+}

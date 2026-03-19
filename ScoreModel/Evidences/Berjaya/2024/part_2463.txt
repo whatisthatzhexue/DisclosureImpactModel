@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks proudly emphasises its dedication to Halal compliance, a commitment that has been a part of its identity since 2006 when it received the esteemed JAKIM Halal certification.\"\n• Evidence 2: \"JAKIM (Department of Islamic Development Malaysia) audited five applications for Halal certification, covering 33 stores. 21 surveillance audits across Malaysia ensured compliance with JAKIM's rigorous Halal standards.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"EMPOWERING CUSTOMERS TO MAKE INFORMED CHOICES\" section provides clear headings and direct language about consumer awareness and company initiatives.\n• Evidence 2: \"The Company provides online Halal training through Starbucks® CODEMY which are held together with Starbucks Experience class, for new employees (\"partners\")\" uses precise terms but could be more concise."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood has consistently supported consumers in making informed choices by providing comprehensive product quality and safety information through effective marketing and labelling.\" relates to investor concerns about corporate responsibility.\n• Evidence 2: \"All employees (\"partners\") undergo training to help customers make informed food and beverage choices\" demonstrates operational commitment but lacks direct linkage to financial or strategic risks/material events."
+  }
+}

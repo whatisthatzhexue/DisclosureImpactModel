@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the Group Internal Audit function had been effective in performing its duties\" (supports objectivity)\n• Evidence 2: \"assessment results were satisfactory, indicating that the internal audit activities had conformed to the IIA Standards and Code of Ethics\" (specific factual basis)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"operational costs incurred by Group Internal Audit for the financial year 2024 amounted to about RM2.55 million\" (precise numerical data)\n• Evidence 2: \"performed periodic audits of key subsidiaries...\" (clear structure with bullet points)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"reviewed results of the Internal Audit team’s annual quality assurance self-assessment\" (directly relevant to governance)\n• Evidence 2: \"related party transactions... were conducted on the Group’s normal commercial terms\" (material to investor decision-making)"
+  }
+}

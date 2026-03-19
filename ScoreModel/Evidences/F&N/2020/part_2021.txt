@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ERM policy was reviewed and updated to benchmarked against the ISO31000:2018 Risk Management – Guidelines.\" (specific fact about policy update)\n• Evidence 2: \"the system of risk management and internal control are designed to manage and mitigate risks rather than eliminate risks... provide only reasonable and not absolute assurances\" (acknowledges limitations and risks)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board regards risk management as an integral part of the operations... assisted by the Sustainability* and Risk Management Committee\" (clear structure with defined roles)\n• Evidence 2: \"Key Risk Indicators (\"KRIs\")... are established to monitor risks\" (defines technical terms in context)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group’s risk management system... includes compliance, operational, financial, and information technology controls\" (directly addresses investor concerns about controls)\n• Evidence 2: \"Recurrent related party transactions... necessary for the day-to-day operation of the F&NHB Group\" (discloses material transactions impacting operations)"
+  }
+}

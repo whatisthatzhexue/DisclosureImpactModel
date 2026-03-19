@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 1, "justification": "• Evidence 1: [TEXT]Statement on Risk Management and Internal Control Cont’d 69 Annual Report 2019 69[/TEXT]\n• Evidence 2: No specific facts, risks, or objective disclosures are provided; the text only contains page numbers and a continuation note."},
+  "Understandability": {"score": 3, "justification": "• Evidence 1: [TEXT]Statement on Risk Management and Internal Control Cont’d 69 Annual Report 2019 69[/TEXT]\n• Evidence 2: The text lacks structure, logic, and precise language to convey meaningful information."},
+  "Relevance": {"score": 1, "justification": "• Evidence 1: [TEXT]Statement on Risk Management and Internal Control Cont’d 69 Annual Report 2019 69[/TEXT]\n• Evidence 2: No forward-looking information, risks, material events, or governance details are disclosed."}
+}

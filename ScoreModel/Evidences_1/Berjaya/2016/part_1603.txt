@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board may form such other committees from time to time as dictated by business imperatives and/or to promote operational efficiency.\" (neutral, objective)\n• Evidence 2: \"the ultimate responsibility for decision making still lies with the Board.\" (clearly states accountability without overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board Committees comprise the Audit and Risk Management Committee...\" (clear structure and precise listing)\n• Evidence 2: \"All employees are required to declare that they have received, read and understood the provisions of the Code of Conduct.\" (direct, unambiguous language)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board views the commitment to promote sustainability strategies... as part of its broader responsibility to all its various stakeholders.\" (material event relevant to investors)\n• Evidence 2: \"The Group’s efforts to promote sustainability initiatives... have been set out in the Corporate Social Responsibility section...\" (forward-looking information about strategic priorities)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board does not recommend the payment of any final dividend in respect of the FYE 2019.\" (neutral disclosure of decision)\n• Evidence 2: \"Consumer sentiment is expected to remain weak...global economy remains uncertain...threatened trade disputes adding to economic unease.\" (disclosure of risks and uncertainties)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Dividends paid...RM31.5 million, representing a dividend payout ratio of approximately 112.4%\" (precise numerical details)\n• Evidence 2: \"Power Root will focus on strengthening our distribution network...operational efficiencies and cost management\" (clear, direct language)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group believes that the beverage industry will remain competitive...challenging year ahead\" (forward-looking information)\n• Evidence 2: \"On the export front...MENA region by developing our distribution network...launching new products\" (material events and strategic focus for investors)"
+  }
+}

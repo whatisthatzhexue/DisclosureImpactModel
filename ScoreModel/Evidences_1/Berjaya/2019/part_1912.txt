@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\"\n• Evidence 2: \"The Board and management are committed to continually refining and improving these processes over time.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The sustainability report of each operating company is provided to the Sustainability Working Committee for review\" (clear process description).\n• Evidence 2: \"Note: EES denotes Economic, Environmental and Social\" (explains acronym)."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"For more detailed information on the Company’s Corporate Governance Overview Statement and Statement on Risk Management... please refer to pages 28 to 42\" (links to relevant sections).\n• Evidence 2: \"Moving forward, the Company strives to improve its monitoring process...\" (forward-looking statement with relevance to investors)."
+  }
+}

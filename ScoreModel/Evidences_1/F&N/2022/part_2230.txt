@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Risks identified are assessed to determine their likelihood of occurrence and potential impact on the relevant business strategies/ objectives.\"\n• Evidence 2: \"The ERM Validation Report summarises the risk management activities conducted and implementation of ERM Policy during the financial year\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Quarterly Review • On a quarterly basis, the risk profiles of the key subsidiaries are tabled to the Management Risk Committee and the SRMC in a heat map\" (clear structure with bullet points).\n• Evidence 2: \"Risk treatments options to manage risks are Reduce, Accept, Transfer or Avoid\" (precise language with defined terms)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The risks identified and assessed are reported under the following categories: Financial/ Economic, Strategic, Governance & Ethics...\" (includes material risks and governance).\n• Evidence 2: \"The Management Risk Committee... oversees the execution and implementation of sustainability strategy\" (links to material events and strategic initiatives)."
+  }
+}

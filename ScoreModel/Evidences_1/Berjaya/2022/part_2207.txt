@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Revenue increased to B$2.6 million from B$2.3 million in the previous financial year as the border was closed and international travels were still restricted.\"\n• Evidence 2: \"Profit before tax of B$641,000 compared to profit before tax of B$529,000 in the previous financial year due to higher domestic spending, improved revenue, and the initiative to keep operating costs low.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFS has 4 Starbucks stores including 1 drive-thru concept store.\"\n• Evidence 2: \"The first Starbucks retail store in Brunei was opened in Mabohai Shopping Complex on 16 February 2014.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue increased to B$2.6 million from B$2.3 million in the previous financial year as the border was closed and international travels were still restricted.\"\n• Evidence 2: \"BFS will continue to effectively manage its operational and administrative procedures to reduce operating and administrative costs.\""
+  }
+}

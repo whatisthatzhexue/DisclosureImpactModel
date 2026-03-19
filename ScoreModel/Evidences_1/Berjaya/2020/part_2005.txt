@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 4,
+    "justification": "• Evidence 1: The text lists awards without disclosing risks, challenges, or uncertainties (e.g., no mention of market competition or operational risks).\n• Evidence 2: The statement about '300th Store milestone' is presented as a fact without contextualizing its significance or potential risks."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: The text uses clear, direct language to describe store openings and awards (e.g., 'opened its first Signing Store in Penang').\n• Evidence 2: The structure is logical, but some phrases like 'BStarbucks’ 300th Store milestone' could be more precise to avoid ambiguity."
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The mention of store expansions (e.g., 'expanded into Terengganu') provides forward-looking information relevant to investors.\n• Evidence 2: The text lacks analysis of performance changes, material events, or corporate governance details, limiting its utility for decision-making."
+  }
+}

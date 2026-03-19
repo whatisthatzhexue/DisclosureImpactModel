@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board is satisfied with the current composition and size of the Board...\" (neutral statement with factual basis)\n• Evidence 2: \"All the Directors of the Company does not hold more than five -5 directorships...\" (specific compliance detail)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board meets regularly on a quarterly basis...\" (clear structure and direct language)\n• Evidence 2: \"All the Directors have completed the Mandatory Accreditation Programme...\" (precise terminology with contextual explanation)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board is satisfied with the level of time commitment...\" (directly relevant to director accountability)\n• Evidence 2: \"The Board members deliberate...principal risks...\" (explicit risk disclosure relevant to investor decision-making)"
+  }
+}

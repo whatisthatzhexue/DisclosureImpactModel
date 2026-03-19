@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"83% of employees participated in annual safety, health and well-being programmes\" (specific factual data)\n• Evidence 2: \"Maintained 0 high-consequence work-related injury, 0 work-related fatality, 0 lost time injury\" (quantifiable risk mitigation)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Flexi working hours, in-house gym facilities and extended health insurance\" (clear, direct language)\n• Evidence 2: \"Strategic Talent Acquisition & On-boarding\" (precise terminology with contextual explanation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Unpredictable supply chain issues and volatile weather and climate conditions\" (material risk disclosure)\n• Evidence 2: \"Human Rights Due Diligence process... to identify and mitigate human rights violations\" (forward-looking governance commitment)"
+  }
+}

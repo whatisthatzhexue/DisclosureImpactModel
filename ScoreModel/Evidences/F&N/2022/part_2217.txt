@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"IT WAS A SIGNIFICANT YEAR FOR NONA, WHICH UNDERWENT A REBRAND COMPLETE WITH A NEW LOGO AND LOOK.\" (specific factual statement about rebranding)\n• Evidence 2: \"NONA LAUNCHED A NUMBER OF NEW PRODUCTS DURING THE YEAR.\" (specific product details without overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"360-DEGREE MARKETING PLAN\" and \"TRADITIONAL FERMENTATION PROCESS\" (precise terminology with clear context)\n• Evidence 2: \"KETUPAT ALA NASI AYAM\" and \"KETUPAT ALA NASI LEMAK\" (specific product names with clear categorization)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"MARKETING HIGHLIGHTS... MUSIC VIDEO LAUNCHED ON 8 JULY 2022\" (timely and strategic activity relevant to investors)\n• Evidence 2: \"RECIPE CONTEST VIA TIK TOK TARGETED AT GLOKAL HALAL CONSUMERS\" (market engagement relevant to target audience)"
+  }
+}

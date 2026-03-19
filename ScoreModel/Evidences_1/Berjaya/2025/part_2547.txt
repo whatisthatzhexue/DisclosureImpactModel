@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"collected 120.9 kg of recyclable materials\" (specific factual data)\n• Evidence 2: \"Raised RM19,198.65\" (quantifiable outcome with no overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Held from 26 to 28 November 2024...\" (clear temporal context)\n• Evidence 2: \"191 service hours, harvesting 173 kg of vegetables\" (precise metrics with logical flow)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Boosted food security...\" (material impact for investors)\n• Evidence 2: \"funded by The Starbucks Foundation\" (external validation of initiative)"
+  }
+}

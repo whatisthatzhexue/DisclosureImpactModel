@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the Board fully supports the Principles and Practices of good corporate governance... as promulgated by the Malaysian Code on Corporate Governance 2021\" (specific reference to a regulatory framework)\n• Evidence 2: \"The CG Report for the financial year ended 31 March 2022 is available for viewing...\" (provides verifiable source for disclosures)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board comprises directors who are entrepreneurs and experienced professionals...\" (clear description of composition)\n• Evidence 2: \"The Co-Chairmen are responsible for the governance... while the Chief Executive Officer is responsible for implementing...\" (explicit role separation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"This statement sets out the overview under which the Company applied the Principles... in accordance with paragraph 15.25...\" (directly addresses investor-relevant governance practices)\n• Evidence 2: \"The Board has delegated specific duties to Board Committees...\" (explains governance structure impacting investor decision-making)"
+  }
+}

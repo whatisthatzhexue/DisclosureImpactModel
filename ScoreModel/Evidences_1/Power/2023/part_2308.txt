@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical...\" (neutral, objective)\n• Evidence 2: \"principles... guided by ISO 31000:2018... COSO\" (specific standards referenced)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"clearly defines the risk management objectives and processes... roles and responsibilities\" (logical structure)\n• Evidence 2: \"ISO 31000:2018 – Risk Management Guidelines\" (precise terminology)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"defines the risk management objectives and processes... roles and responsibilities\" (relevant to governance)\n• Evidence 2: \"statement on risk management and internal control\" (implies connection to investor concerns)"
+  }
+}

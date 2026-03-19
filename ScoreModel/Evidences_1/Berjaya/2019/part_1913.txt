@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks endeavours to create a positive impact by supporting procurement...compliance to the labour law.\" (neutral, factual statement)\n• Evidence 2: \"99% of Starbucks coffee are verified as ethically sourced under C.A.F.E. Practices\" (specific fact, but claim about making coffee \"the world’s first sustainable agricultural product\" may be overstatement)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Inventory Management System to increase efficiency...reduce wastages in the long run\" (clear cause-effect logic)\n• Evidence 2: \"1,186,273 (increase of 37.5%) customers used Starbucks tumblers\" (precise numerical data, but jargon like \"KRR i.Care Box\" lacks explanation)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood’s financial performance highlights...RM789.0 million\" (material financial data for investors)\n• Evidence 2: \"global goal is to eliminate single-use straws worldwide by 2020\" (forward-looking information with strategic direction)"
+  }
+}

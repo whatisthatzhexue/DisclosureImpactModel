@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root has seen an opportunity to tap into this mass premium market with the launch of two lines under the Frenché Roast brand.\" (specific product launches)\n• Evidence 2: \"The 2019 Awards attracted over 700 entrants.\" (quantifiable data)" 
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Warung provides the typical 3-in-1 or 2-in-1 coffee and tea beverage\" (clear product description)\n• Evidence 2: \"French-roasting technique which yields a more robust blend\" (precise technical explanation)" 
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Our new brand Frenché Roast is a coffee range targeted at increasingly sophisticated...\" (market positioning for investors)\n• Evidence 2: \"This is an annual award with participation from major brands...\" (industry recognition, but lacks financial performance context)" 
+  }
+}

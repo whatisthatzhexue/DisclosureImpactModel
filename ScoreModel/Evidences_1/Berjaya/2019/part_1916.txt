@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"700 Coffee Masters (300 Coffee Masters last year) took part in this event.\" (specific factual comparison)\n• Evidence 2: \"BFood invested 149,513 hours in training and development.\" (quantifiable data)"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"BStarbucks’ mini health fair\" and \"BFood’s employee development programmes\" (inconsistent company name references)\n• Evidence 2: \"Coffee Masters inspire fellow team members to seek more knowledge...\" (vague phrasing about impact)"
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"BStarbucks was awarded a number of awards during the financial period\" (no explanation of award significance)\n• Evidence 2: \"The Company’s employee benefits and welfare are constantly enhanced...\" (no link to investor decision-making)"
+  }
+}

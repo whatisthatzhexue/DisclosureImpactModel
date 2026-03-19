@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood invested 192,000 hours in training and development.\" (specific factual data)\n• Evidence 2: \"300 Coffee Masters took part in this event.\" (quantifiable achievement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood employee development programmes provide learning opportunities which maximise the potential of its employees.\" (clear structure)\n• Evidence 2: \"RM1 from each purchased cup was contributed to EcoKnights’ efforts\" (precise wording)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks was awarded a number of awards during the financial year under review.\" (investor-relevant recognition)\n• Evidence 2: \"Plans in the pipeline involve an area that opens up further...\" (forward-looking initiative)"
+  }
+}

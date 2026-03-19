@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The composition of the ARMC has complied with Paragraph 15.09 -1 and -2 of the Main Market Listing Requirements...\" (objective compliance disclosure)\n• Evidence 2: \"The Chairman of the ARMC is an Independent Non-Executive Director...\" (neutral factual statement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The ARMC comprises three -3 members...\" (clear numerical structure)\n• Evidence 2: \"^ Reflects the attendance and the number of meetings held...\" (explicit footnote clarification)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Chairman of the ARMC is a member of the Malaysian Institute of Accountants...\" (corporate governance relevance)\n• Evidence 2: \"The ARMC held five -5 meetings...\" (operational transparency for investors)"
+  }
+}

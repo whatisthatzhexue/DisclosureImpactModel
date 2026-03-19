@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The aggregate Directors’ remuneration paid to the Directors of the Company for the Financial Year 2021 is disclosed in the financial statements.' (Specific, factual disclosure)\n• Evidence 2: 'The Audit Committee... reviews the quarterly reports and annual financial statements focusing particularly on compliance with applicable financial reporting standards...' (Objective, risk-focused analysis)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Board has established the RemCom comprising five Non-Executive Directors... to assist the Board mainly in establishing formal and transparent remuneration policies...' (Clear structure with defined roles)\n• Evidence 2: 'The Audit Committee... reviews the quarterly reports and annual financial statements...' (Precise language with specific responsibilities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Company observes the Corporate Disclosure Guide issued by Bursa Securities... to ensure timely and equal dissemination of material information...' (Investor-relevant disclosure)\n• Evidence 2: 'The Audit Committee... ensures that the external auditors are independent of the activities they audit...' (Material governance risk disclosure)"
+  }
+}

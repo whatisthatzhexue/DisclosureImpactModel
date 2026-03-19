@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In FY2019, there were no reported cases.\" (specific factual disclosure)\n• Evidence 2: \"The code of conduct is communicated to all employees.\" (objective, neutral statement with verifiable process)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We do not accept a business if it means putting people at risk\" (precise, direct language)\n• Evidence 2: \"Table 4: Total amount of interest-free financial assistance\" (clear structure with quantitative data)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL Group contributed RM1 million to the trust fund\" (material event relevant to investors)\n• Evidence 2: \"The code of conduct is communicated to all employees\" (corporate governance detail)"
+  }
+}

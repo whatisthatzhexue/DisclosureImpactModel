@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 2,
+    "justification": "• Evidence 1: No specific facts or data are provided to support sustainability claims (e.g., no metrics, outcomes, or risk disclosures).\n• Evidence 2: The text lacks neutral, objective statements and omits any discussion of challenges, uncertainties, or risks."
+  },
+  "Understandability": {
+    "score": 3,
+    "justification": "• Evidence 1: The structure is a simple bullet list, but topics are presented without explanations or context (e.g., 'Biodiversity' lacks details).\n• Evidence 2: Language is direct but vague, with no clarification of terms like 'resource management' or 'community & society'."
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: No forward-looking information, risks, material events, or governance details are included.\n• Evidence 2: The text does not explain performance changes or provide data useful for investor decision-making."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"During this reporting period, BFood recorded no human rights incidents.\" (specific fact)\n• Evidence 2: \"Dedicated personnel receive training on handling reports...\" (objective description)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Starbucks Townhall Wellness Week features a series of fun, engaging, and educational activities\" (clear, direct language)\n• Evidence 2: \"BFood's community investment focus areas include...\" (structured list of specific topics)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Supporting Palestine aligns with the Group's values...\" (material event with strategic alignment)\n• Evidence 2: \"BFood carefully designs community programmes with a focus on societal and environmental impact\" (investment-relevant sustainability focus)"
+  }
+}

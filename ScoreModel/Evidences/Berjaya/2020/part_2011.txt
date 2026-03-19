@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 2,
+    "justification": "• Evidence 1: [TEXT]CORPORATE STRUCTURE...020[/TEXT] (no risks, challenges, or uncertainties disclosed)\n• Evidence 2: [TEXT]BERJAYA FOOD BERHAD [R E gist R At i O n n O . 200901032946 (876057-U)] 020[/TEXT] (lacks specific factual context or verification)"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: [TEXT]CORPORATE STRUCTURE...020[/TEXT] (clear heading but minimal content)\n• Evidence 2: [TEXT]BERJAYA FOOD BERHAD [R E gist R At i O n n O . 200901032946 (876057-U)] 020[/TEXT] (confusing formatting with mixed text/numbers)"
+  },
+  "Relevance": {
+    "score": 2,
+    "justification": "• Evidence 1: [TEXT]CORPORATE STRUCTURE...020[/TEXT] (no forward-looking info or material events)\n• Evidence 2: [TEXT]BERJAYA FOOD BERHAD [R E gist R At i O n n O . 200901032946 (876057-U)] 020[/TEXT] (lacks investor-relevant details or governance information)"
+  }
+}

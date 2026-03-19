@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 10,
+    "justification": "• Evidence 1: \"BFood registered a revenue of RM717.34 million and pre-tax profit of RM74.73 million...\" (specific factual data)\n• Evidence 2: \"...coupled with lower operating costs which resulted from effective cost management initiatives...\" (neutral explanation of performance drivers)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"With the gradual easing of the lockdown measures...\" (clear cause-effect logic)\n• Evidence 2: \"...mitigated the impact of the COVID-19 pandemic\" (precise terminology for contextual explanation)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The higher pre-tax profit was in tandem with the higher revenue...\" (explains performance changes)\n• Evidence 2: \"...mitigated the impact of the COVID-19 pandemic\" (includes material risk context)"
+  }
+}

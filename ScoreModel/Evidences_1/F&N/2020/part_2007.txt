@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"High investment costs in R&D and equipment with uncertain commercial returns.\" (Discloses risks)\n• Evidence 2: \"We engaged department heads, the C-suite and board directors in a materiality workshop.\" (Supported by specific facts about validation processes)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"STEP 1: IDENTIFICATION\", \"STEP 2: PRIORITISATION\", \"STEP 3: VALIDATION\" (Clear structure with logical progression)\n• Evidence 2: \"Our most significant material topic 'Consumer Health and Safety' is extremely relevant this year amidst the COVID-19 pandemic\" (Precise explanation of relevance)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"'Consumer Health and Safety' is extremely relevant this year amidst the COVID-19 pandemic... 'Economic Performance' is vital... 'Occupational Health and Safety' issue is also increasingly important\" (Directly links material issues to investor concerns)\n• Evidence 2: \"Risks... Opportunities... OUR RESPONSE\" (Provides forward-looking information critical for decision-making)"
+  }
+}

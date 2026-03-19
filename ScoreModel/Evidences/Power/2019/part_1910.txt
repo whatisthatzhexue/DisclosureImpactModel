@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"stakeholders prioritisation exercise was conducted for the Group to rank respective stakeholder groups’ influence over and dependence on the Group based on influence over and dependence rating criteria and scale approved by the Board.\"\n• Evidence 2: The text presents factual information about stakeholder engagement methods without overt praise or criticism, but lacks disclosure of risks, challenges, or uncertainties."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Stakeholder Group Engagement Objective(s) Preferred Engagement Method(s)\" provides a clear structure with direct language.\n• Evidence 2: Bullet points and section headings (e.g., \"Local communities\", \"Media\") enhance clarity, though some technical terms like \"prioritisation matrix\" could be more explicitly defined."
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"To demonstrate financial sustainability\" and \"To build up investor confidence level\" directly address investor concerns.\n• Evidence 2: The text focuses on stakeholder engagement methods but lacks forward-looking information, material events, or specific risks that would aid decision-making."
+  }
+}

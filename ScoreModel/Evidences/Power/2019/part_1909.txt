@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: [exact quote]The Board has determined that...stakeholder mapping exercise...Group:- Stakeholder Group Engagement Objective(s) Preferred Engagement Method(s) [exact quote]\n• Evidence 2: [exact quote]Discloses no risks, challenges, or uncertainties; focuses solely on engagement strategies without critical analysis"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: [exact quote]Clear structure with bullet points and headings for stakeholder groups [exact quote]\n• Evidence 2: [exact quote]Precise language (e.g., 'Supplier audit', 'Periodical audits') without vague terms [exact quote]"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: [exact quote]Stakeholder engagement objectives relevant to investors (e.g., 'ensure continuous financial support') [exact quote]\n• Evidence 2: [exact quote]Lacks forward-looking information, risks, or material events; focuses on current engagement methods [exact quote]"
+  }
+}

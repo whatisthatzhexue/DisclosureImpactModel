@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"624,947 beverage purchased using Starbucks tumblers.\" (specific factual data)\n• Evidence 2: \"few stores may still be using plastic bags to deplete their stock-on-hand\" (acknowledges challenges without overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"rewards customers with a RM2 discount\" (precise language)\n• Evidence 2: \"replaced single-use three-compartment plastic boxes with its i-care eco-friendly paper alternatives\" (clear, direct description)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"partnered with Citta Mall for the H.O.P.E. campaign\" (material event related to sustainability)\n• Evidence 2: \"donated 84 kg of used coffee grounds\" (forward-looking initiative with community impact)"
+  }
+}

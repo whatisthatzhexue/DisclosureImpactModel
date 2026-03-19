@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Sustainability issues are considered material if: • they have significant economic, environmental and social impact on the Group from the organisation’s point of view; • they substantively influence the assessments and decisions of stakeholders from the stakeholders’ point of view; and • they have significant economic, environmental and social impact that affect the ability to meet the needs of the present and future generations.\"\n• Evidence 2: \"The internal materiality assessment entails evaluation by the SRMC based on the rating scale established by the Board on the significance of each sustainability matter on revenue, cost, reputation, strategic and operational risk, and business opportunities criteria.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The SRMC shall monitor the current standing (including but not limited to indicators, target and actual performance) and responses of material sustainability matters and actual performance, and report to the AC on a yearly basis for review and recommendation(s) to the Board for their review and approval.\"\n• Evidence 2: \"For the management of material sustainability matters, the Head of Departments/Divisions are responsible for their respective/ relevant material sustainability matters in the following manner: • developing policies and procedures; • implementing various initiatives, measures or action plans;...\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Subsequent to the assessment process, sustainable matters identified above are subject to the risk management policy and process established by the Board for the assessment and management of the risks and opportunities identified.\"\n• Evidence 2: \"The SRMC shall monitor the current standing... and report to the AC on a yearly basis for review and recommendation(s) to the Board for their review and approval.\""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Eddy retired as Director including all the positions held in the Board Committees with effect from 29 August 2019.\" (specific factual disclosure)\n• Evidence 2: \"Section 17A MACC (Amendment Act) 2018 MACC\" (references legal amendments without overstatement)"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The remuneration packages of the Executive Directors are structured to commensurate with the experience, knowledge and professional skills...\" (clear but repetitive phrasing)\n• Evidence 2: \"Further details on the activities of the Nominating Committee are set out in the CG Report.\" (poorly structured navigation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Key Disclosure Obligations of a Listed Company – Financial Reporting\" (directly relevant to investor decision-making)\n• Evidence 2: \"Corporate Liability on Corruption Malaysian Anti-Corruption Act 2009 (Amended 2018)\" (material governance risk disclosure)"
+  }
+}

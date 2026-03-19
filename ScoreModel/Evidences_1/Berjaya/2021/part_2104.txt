@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"despite the continuous negative impact of the COVID-19 pandemic and the imposition of Movement Control Order (\"MCO\") 2.0 and 3.0 on the retail industry\" (discloses challenges)\n• Evidence 2: \"registered a revenue of RM625.4 million compared to RM533.2 million\" (specific factual data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks has 327 stores located throughout Malaysia, except in the state of Perlis\" (clear, direct statement)\n• Evidence 2: \"The number of drive-thru stores is 58 stores with 6 new drive-thru stores opened\" (precise numerical details)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, BStarbucks registered a revenue of RM625.4 million\" (material financial information)\n• Evidence 2: \"new store openings included two Starbucks Reserve Stores\" (explains performance changes)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"We are committed to providing a drug-free, safe and healthy work environment.\" (Specific factual statement about policy)\n• Evidence 2: \"Our employees are being periodically reminded of their responsibility to comply with our health and safety regulations.\" (Objective description of operational practice)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Safe and healthy environment is a key emphasis that is outlined in the QL Code of Conduct.\" (Clear connection between policy and code)\n• Evidence 2: \"The safety committee in the respective subsidiary plays an active role...\" (Direct explanation of governance structure)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Our employees are being periodically reminded...\" (Operational practice relevant to risk management)\n• Evidence 2: \"The safety committee... monitoring and ensuring compliance with local regulations.\" (Internal governance relevance, but lacks direct investor impact analysis)"
+  }
+}

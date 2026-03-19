@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"revenue increased by SGD207,000 to SGD9.5 million from SGD9.3 million in the financial year 30 April 2018 mainly due to the 2 additional months of year end closing.\"\n• Evidence 2: \"loss before tax... mainly due to an increase in administrative expenses, additional spending for the revamp and renovation of stores, and a rebranding exercise to grow the brand internationally for overseas franchising.\"\n• Note: The text lacks explicit disclosure of risks, challenges, or uncertainties beyond operational changes."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Jollibean Foods operates 32 outlets under the 3 brands in Singapore. During the financial period Jollibean has opened 3 new outlets and closed 2 non-performing outlets.\"\n• Evidence 2: \"concentrate on rebranding, expanding its revenue stream and driving sales growth for existing operations in Singapore.\"\n• Note: The text maintains a logical structure but includes some redundant product descriptions at the end."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"For the following financial year, Jollibean Foods will concentrate on rebranding, expanding its revenue stream and driving sales growth...\"\n• Evidence 2: \"The first overseas market retailing Joybean products will be the Philippines.\"\n• Note: The text provides forward-looking information but lacks details on corporate governance, material events, or specific risks beyond operational performance."
+  }
+}

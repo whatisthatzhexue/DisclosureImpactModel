@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks and BFS are replacing their core flavoured syrups...\" (specific factual claim)\n• Evidence 2: \"Joybean's... Grade A, non-GMO, identity-preserved Canadian soy beans\" (objective detail). The text lacks explicit risk disclosures, which slightly lowers reliability."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"100% plant-based menu\" (precise language)\n• Evidence 2: \"premium handcrafted micro-batch ice creams\" (clear description). The structure is logical with section headers, and technical terms are contextualized (e.g., 'identity-preserved' explained in context)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"This innovative shift allows for... Starbucks experience\" (explains business rationale)\n• Evidence 2: \"new items such as assorted waffles...\" (forward-looking information). However, it lacks explicit risk disclosures, material events, or governance details critical for investor decision-making."
+  }
+}

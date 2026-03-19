@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"As such, the total dividends paid for FYE 2020 is 12.5 sen per share amounting to RM50.9 million, representing a dividend payout ratio of approximately 99.0%\" (specific factual disclosure).\n• Evidence 2: \"The Group’s dividend policy is to maintain a minimum of 50% dividend payout ratio...\" (objective policy statement with no overstatement)."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We will increase our focus on reaching potential customers online...\" (precise, direct language).\n• Evidence 2: \"Power Root will continue to expand our market...\" (clear structure with logical flow of strategic priorities)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Going forward, we are adapting our sales strategy...\" (forward-looking information relevant to investor decision-making).\n• Evidence 2: \"New challenges bring with them new opportunities...\" (disclosure of risks and uncertainties, though lacks specific quantitative risk metrics)."
+  }
+}

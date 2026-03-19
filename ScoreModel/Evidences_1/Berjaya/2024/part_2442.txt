@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood provides competitive benefits and remuneration to its employees...\" (specific factual claims)\n• Evidence 2: \"The Human Resources team... benefits and remuneration packages exceed industry standards\" (supported by market comparisons)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Workforce by Age >50 <30 30-50\" (ambiguous formatting without clear labels)\n• Evidence 2: \"BPB employees...\" (abbreviations without explanation for non-familiar readers)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood prioritises comprehensive internal and external training programmes...\" (relevant to investor assessment of workforce development)\n• Evidence 2: \"The Group offers separate housing...\" (pertains to employee retention but lacks forward-looking risk disclosures)"
+  }
+}

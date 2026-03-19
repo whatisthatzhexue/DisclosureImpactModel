@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The increase in revenue was due to the increase in product distribution, as well as the launch of several new products...\" (specific cause for revenue growth)\n• Evidence 2: \"The higher profit before tax was mainly due to the business recovery from the COVID-19 pandemic...\" (specific cause for profit increase)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFT recorded revenue of RM13.7 million compared to RM10.1 million...\" (precise numerical comparison)\n• Evidence 2: \"It will also further expand its distribution...\" (clear, direct language with specific geographic targets)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2022, BFT recorded revenue...\" (explains performance changes)\n• Evidence 2: \"BFT will launch a new series of Joybean products...\" (forward-looking information)"
+  }
+}

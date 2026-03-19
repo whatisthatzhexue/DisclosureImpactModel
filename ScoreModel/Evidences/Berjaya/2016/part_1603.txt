@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board may form such other committees from time to time as dictated by business imperatives and/or to promote operational efficiency.\"\n• Evidence 2: \"The Code was formulated to enhance the standard of corporate governance and to promote ethical conduct of the Directors.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board Committees comprise the Audit and Risk Management Committee (\"ARMC\"), Nomination Committee, Remuneration Committee and Employees’ Share Option Committee.\"\n• Evidence 2: \"The Board Charter is subject to review by the Board annually to ensure that it remains consistent with the Board’s objectives and responsibilities.\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board views the commitment to promote sustainability strategies in the environment, social and governance aspects as part of its broader responsibility to all its various stakeholders...\"\n• Evidence 2: \"The Directors have full and timely access to information concerning the Company and the Group.\""
+  }
+}

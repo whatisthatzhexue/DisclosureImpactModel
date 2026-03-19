@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"However, as there are inherent limitations in any risk management and internal control system, such system is designed to manage, rather than eliminate risks...\" (discloses limitations and avoids overstatement)\n• Evidence 2: \"The Board does not review the risk management and internal control system of its associate company...\" (specific fact about scope of responsibility)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee... provides assurance to the Board on the adequacy and effectiveness...\" (clear structure of responsibilities)\n• Evidence 2: \"The Board assumes the ultimate responsibility...\" (direct language about governance roles)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The scope of this Statement includes the Company and all operating subsidiaries\" (relevant to investor understanding of coverage)\n• Evidence 2: \"The Board has established an appropriate governance...\" (corporate governance relevance, but lacks specific risk disclosures)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sustainable long-term profitability\" (neutral factual claim)\n• Evidence 2: \"Reduced waste and environmental footprint in operations\" (specific outcome, no overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Financial Capital: • Revenue generated\" (clear structure with bullet points)\n• Evidence 2: \"Halal-certified offerings\" (precise terminology without unnecessary complexity)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Expanded market presence and brand reach\" (investor-relevant growth metric)\n• Evidence 2: \"Support towards local SMEs and sustainable suppliers\" (stakeholder engagement, but lacks financial risk disclosure)"
+  }
+}

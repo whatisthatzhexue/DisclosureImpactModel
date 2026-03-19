@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The sustainability statement... prepared in accordance with the Sustainability Reporting Guide from Bursa Malaysia Securities Berhad...\" (supports objective compliance)\n• Evidence 2: \"does not include the environmental and social sustainability aspects of the other business operations in Brunei.\" (discloses limitations)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The structure and write-up of this statement are guided by Bursa Malaysia’s Sustainability Reporting Guide and Toolkits.\" (clearly explains methodology)\n• Evidence 2: \"The findings were then submitted to the Sustainability Working Committee...\" (logical flow of processes)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood is working towards the goals set by the United Nations Sustainable Development Goals...\" (forward-looking sustainability alignment)\n• Evidence 2: \"The Company formalised its sustainability journey with the setting up of a Sustainability Working Committee...\" (governance structure relevant to investors)"
+  }
+}

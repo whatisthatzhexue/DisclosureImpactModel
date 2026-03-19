@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"registered a lower revenue of RM1.6 million, a decrease from RM2.6 million in the previous financial year\" (specific factual decline)\n• Evidence 2: \"reversal of impairment charges for 2 underperforming outlets\" (objective explanation for loss reduction)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Ser Vegano has 5 stores in the central region\" (precise, direct statement)\n• Evidence 2: \"reduced foot traffic and smaller average transaction sizes\" (clear explanation of revenue drivers)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"revenue decline was due to closure of 2 stores...economic conditions\" (explains performance change)\n• Evidence 2: \"no forward-looking information or material risks\" (lacks investor-relevant forward-looking details)"
+  }
+}

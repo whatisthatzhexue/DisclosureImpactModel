@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board acknowledges its overall responsibility...system of internal control in managing the principal risks of the Group.\"\n• Evidence 2: \"All financial statements...compliance with relevant accounting standards and regulations prior to their release to the public...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Internal Audit Function of the Group comprises an in-house Internal Audit Function...and an outsourced Internal Audit Function...\"\n• Evidence 2: \"The Board has adopted such practice...timely, factual, accurate, and complete.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board strives to ensure that a balanced, clear and meaningful assessment...financial positions and prospects of the Group...\"\n• Evidence 2: \"The Board observes all disclosure requirements...timely basis to ensure fair and equitable access by all stakeholders...\""
+  }
+}

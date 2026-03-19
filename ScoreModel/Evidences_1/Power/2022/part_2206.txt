@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Recommendations for re-appointment are based on the satisfactory results of independence assessments (for Independent Directors) and performance evaluations of such Directors.\" (neutral and objective)\n• Evidence 2: \"Disclosures on the interest, position and relationship of such Directors that might influence their independent judgement... were made in the notes to the agenda.\" (transparent and factual)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Nominating Committee reviews the required mix of skills, competencies, experience... on an annual basis.\" (clear structure and direct language)\n• Evidence 2: \"The assessment/evaluation results are then collated and summarised for the Nominating Committee’s review...\" (logical flow and precise terminology)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Please refer to Practice 6.1... for details on the performance evaluation of the Board...\" (provides context for investor decision-making)\n• Evidence 2: \"the Board is of the opinion that the Audit Committee... had effectively discharged their duties\" (relevant to governance but lacks forward-looking risk disclosures)"
+  }
+}

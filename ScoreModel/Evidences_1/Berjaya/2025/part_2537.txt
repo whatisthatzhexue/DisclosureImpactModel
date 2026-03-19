@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Certified Coffee Masters: 1,198 Certified Coffee Masters: 1,190 from BStarbucks and eight from BFS.\" (specific factual data)\n• Evidence 2: \"These partners have undergone rigorous and engaging training, earning certifications in six core brewing methods:\" (objective description without overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"W.I.T.F. – Welcome, Introduce, Thank, Farewell\" (clear expansion of acronyms)\n• Evidence 2: \"Standard packaging and display methods\" (precise, direct language)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Examples of Starbucks Training & Awareness Initiatives in FY2025\" (forward-looking information)\n• Evidence 2: \"enhancing every customer interaction and reinforcing Starbucks’s global standards\" (links training to business outcomes)"
+  }
+}

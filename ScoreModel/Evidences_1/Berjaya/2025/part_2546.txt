@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"On 22 September 2024, nine Starbucks partners (employees) in Sabah participated in KK Clean Up Day 3.0 at Tanjung Aru, contributing a total of 36 service hours\" (specific factual data)\n• Evidence 2: \"continued its 18th and 11th years of participation\" (neutral, objective statement with verifiable timeline)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"contributing a total of 36 service hours\" (precise language)\n• Evidence 2: \"Promoted environmental responsibility and local engagement\" (clear summary of impact, though some terms like 'BStarbucks partners' could be more explicitly defined)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"supports community well-being\" (links sustainability to broader social impact)\n• Evidence 2: \"Encouraged environmental action through symbolic and hands-on initiatives\" (forward-looking intent, though lacks quantitative metrics for investor decision-making)"
+  }
+}

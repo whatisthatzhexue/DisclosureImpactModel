@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"80% Reduction in Water Use Through improved coffee processing technologies\"\n• Evidence 2: \"50% Reduction in Energy Use Enhancing efficiency across operations\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Spanning 240 hectares and home to over 800,000 coffee trees, Hacienda Alsacia serves as Starbucks’ global centre for research and development.\"\n• Evidence 2: \"Clear Supplier Expectations Across The Group\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"These global efforts directly benefit BStarbucks and BFS’s supply chain. By strengthening farmer livelihoods, securing long-term coffee quality and reinforcing ethical sourcing, Starbucks ensures that every cup served in Malaysia and Brunei reflects a shared journey toward a more sustainable future for coffee.\"\n• Evidence 2: \"Sustainability, Innovation & Learning Lab -2026 A new global hub to accelerate sustainable coffee practices\""
+  }
+}

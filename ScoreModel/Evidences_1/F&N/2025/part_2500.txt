@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The suspension of breeding cattle importation by the Department of Veterinary Services due to Avian flu outbreak concerns.\" (Discloses risk)\n• Evidence 2: \"Our total dividend payout for FY2024 would amount to RM231.1 million.\" (Specific financial disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&NHB sustained its growth for FY2024 with revenue growing by 4.9% to RM5.25 billion.\" (Clear numerical data)\n• Evidence 2: \"The Group’s carbon projection study to estimate the farm’s carbon footprint is also in progress.\" (Technical terms used but contextually explained)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our exports were challenged by geopolitical tensions which impacted global trade and logistics this year.\" (Risk factor relevant to investors)\n• Evidence 2: \"F&NHB completed the acquisition of Ladang Permai Damai to embark on the upstream fresh milk business.\" (Strategic move impacting future performance)"
+  }
+}

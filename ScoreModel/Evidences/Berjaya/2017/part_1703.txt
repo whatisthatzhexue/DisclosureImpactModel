@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks recorded a lower profit before tax of RM53.3 million as compared to RM54.4 million in the previous financial year mainly due to the increase in finance costs, coupled with higher write-off costs on renovation of existing stores and store relocations\" (discloses specific reasons for performance change).\n• Evidence 2: \"The Starbucks Card Loyalty Programme recorded its highest ever tender rate of 51% since its launch\" (provides factual data without overstatement)."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BStarbucks has 239 stores across Malaysia, including 31 drive-thru stores\" (precise, direct description of operational scale).\n• Evidence 2: \"Unique store concepts, supported by innovative handcrafted coffee beverages... will be the main focus\" (clear structure with logical progression of ideas)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The incremental revenue was mainly due to rapid store expansion... from 215 stores to 239 stores\" (explains performance change with specific context).\n• Evidence 2: \"BStarbucks will introduce a variety of card designs and more attractive benefits... to enhance brand loyalty\" (forward-looking information relevant to investors)."
+  }
+}

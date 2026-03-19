@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: The text provides factual ownership percentages (e.g., '100% Berjaya Starbucks Coffee Company Sdn Bhd') without subjective claims.\n• Evidence 2: No risks, uncertainties, or challenges are explicitly disclosed, which limits reliability."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: The structure is logical, with clear ownership percentages and entity names (e.g., '95.5% Berjaya Nordic (Denmark) ApS').\n• Evidence 2: Language is direct, but the lack of contextual explanations (e.g., no description of joint ventures) may reduce clarity."
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The corporate structure is relevant for understanding ownership but lacks forward-looking information or material events.\n• Evidence 2: No risks, governance details, or performance-related explanations are provided, limiting investor decision-making utility."
+  }
+}

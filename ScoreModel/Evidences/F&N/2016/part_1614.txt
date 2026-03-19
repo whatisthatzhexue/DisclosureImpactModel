@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Notice of AGM and annual report are sent to the shareholders at least 21 days ahead of the AGM date to encourage shareholders to attend the AGM.\" (neutral, factual disclosure)\n• Evidence 2: \"An independent scrutineer will be appointed to validate the votes cast at general meetings.\" (objective, specific process description)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The NomCom will meet to agree on the profile of the position to be filled and the search process...\" (clear structure with logical flow)\n• Evidence 2: \"Directors over 70 years of age are required to submit themselves for re-appointment annually...\" (precise, direct language with specific criteria)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The NomCom reviews the evaluation results of the Directors who are due for retirement by rotation...\" (relevant to investor decision-making about governance processes)\n• Evidence 2: \"The Board evaluation is based on Board composition, Board role and functioning...\" (directly addresses corporate governance relevance)"
+  }
+}

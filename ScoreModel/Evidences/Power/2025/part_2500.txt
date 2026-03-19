@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: The corporate structure details are factual and neutral (e.g., \"100% Power Root Egypt for Trading and Distribution (E.S.C.)\")\n• Evidence 2: No risks, challenges, or uncertainties are disclosed in the corporate structure section"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: The structure is presented in a clear hierarchical list with precise ownership percentages (e.g., \"80% Alicafe Roasters Sdn. Bhd.\")\n• Evidence 2: Language is direct and avoids vague expressions, though some company names could be more standardized (e.g., \"PRME Foodstuff Trading L.L.C.\")"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides essential ownership structure information relevant to investors (e.g., \"100% Power Root (Shanghai) Food Trading Co., Ltd.\")\n• Evidence 2: Lacks forward-looking information, risk disclosures, or material events directly tied to the corporate structure"
+  }
+}

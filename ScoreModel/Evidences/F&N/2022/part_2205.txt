@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"despite the market uncertainties and challenges\" (discloses risks)\n• Evidence 2: \"Supported local communities through strategic partnerships\" (neutral, factual statement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Operating since October 2022, Wang Muang plant...\" (precise timeline and purpose)\n• Evidence 2: \"Strategic domains\" (clear section headers for organization)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Priorities for 2023\" (forward-looking information for investors)\n• Evidence 2: \"Top decile company in S&P Corporate Sustainability Assessment\" (material event with investor relevance)"
+  }
+}

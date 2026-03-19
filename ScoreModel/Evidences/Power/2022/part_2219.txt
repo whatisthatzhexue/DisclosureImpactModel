@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The breakdown of the aggregate value of the RRPT...\" (factual, neutral presentation)\n• Evidence 2: \"@ Wong Tak Keong...\" (clearly identifies Interested Director/Shareholder without bias)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Power Root HK-China Company Limited...\" (clear structure with bullet points and specific transaction details)\n• Evidence 2: \"RM’000\" (consistent formatting with numerical data presentation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Recurrent Related Party Transactions...\" (material information for investors assessing conflicts of interest)\n• Evidence 2: \"@ Wong Tak Keong...\" (corporate governance relevance through disclosure of Interested Director relationships)"
+  }
+}

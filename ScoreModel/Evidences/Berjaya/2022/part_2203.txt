@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks is a wholly-owned subsidiary of Berjaya Food Berhad\" (neutral factual statement)\n• Evidence 2: \"has 356 stores located throughout Malaysia\" (specific numerical data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"high-quality whole bean coffees, along with freshly brewed coffees...\" (clear product listing)\n• Evidence 2: \"Store Location By Region\" (logical categorization of data)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"356 stores located throughout Malaysia\" (useful operational data)\n• Evidence 2: Missing forward-looking information, risk disclosures, and performance analysis required for investor decision-making"
+  }
+}

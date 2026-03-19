@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"All meetings of the Board were duly recorded in the Board minutes by the Company Secretary.\" (Truthful, objective disclosure of procedural compliance)\n• Evidence 2: \"The Board’s approval is sought via circular resolutions... accompanied with sufficient and relevant information\" (Neutral description of decision-making processes)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board plans to meet at least four -4 times a year at quarterly intervals\" (Clear, direct statement of frequency)\n• Evidence 2: \"The Company Secretary ensures that all Board meetings are properly convened...\" (Logical flow with precise responsibilities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Supply of Information... unrestricted access to complete information...\" (Directly relevant to investor decision-making)\n• Evidence 2: \"Board Composition... review of Board composition\" (Material governance disclosure for stakeholders)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group strives to create shared value... by embedding ESG considerations into its operating and expansion models.\" (neutral, objective statement)\n• Evidence 2: \"BFood conducts resilience assessments... evolving ESG disclosure requirements.\" (discloses challenges and uncertainties)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Metrics and Targets\" section with clear bullet points and alignment to recognized frameworks (precise structure)\n• Evidence 2: \"Greenhouse Gas Emissions\" and \"Resource Efficiency\" sections use specific, direct language (clear terminology)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Forecasting Regulatory and Cost Shifts\" includes forward-looking information about responsible sourcing and green supply chains (useful for investors)\n• Evidence 2: \"Scenario-Based Planning\" links sustainability metrics to long-term investment strategies (explains strategic rationale)"
+  }
+}

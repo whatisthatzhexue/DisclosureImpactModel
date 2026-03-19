@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood was incorporated in Malaysia on 21 October 2009.\" (specific factual date)\n• Evidence 2: \"On 26 July 2011, BFood entered into a conditional joint venture agreement...\" (disclosure of conditional arrangement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood has more than 239 stores nationwide...\" (precise numerical data)\n• Evidence 2: \"Jollibean Foods was incorporated in November 1993.\" (clear, direct statement)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood completed the acquisition of 11,500,000 ordinary shares...\" (material event for investors)\n• Evidence 2: \"There are currently 91 KRR restaurants across Malaysia.\" (operational scale relevant to decision-making)"
+  }
+}

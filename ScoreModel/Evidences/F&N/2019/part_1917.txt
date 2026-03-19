@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"gained four per cent market share during the financial year\" (specific, factual data)\n• Evidence 2: \"led to an 11 per cent increase in sales\" (quantifiable outcome)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The brand also ran its first campaign offering an overseas trip as the grand prize\" (clear, direct explanation)\n• Evidence 2: \"BEAR BRAND Gold (BBG) re-launch... focusing on its seven health benefits\" (structured, precise terminology)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Revenue... Profit for the year\" (financial data relevant to investors)\n• Evidence 2: \"collaborated with Nestle Mom’s Club... expecting mothers\" (material event with business impact)"
+  }
+}

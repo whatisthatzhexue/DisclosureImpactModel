@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The composition of the AC is in compliance with paragraph 15.09 of the Main Market Listing Requirements...\" (specific regulatory compliance)\n• Evidence 2: \"Based on the satisfactory results of the assessment... the AC recommended the reappointment of the External Auditors\" (objective evaluation with factual basis)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The AC held five -5 meetings. Details of each member’s meeting attendance are as follows: -\" (clear structure with quantifiable data)\n• Evidence 2: \"The Company Secretary... attended all the meetings during the financial year\" (precise, direct language)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"All RRT and RRPT were within the approved mandate...\" (material event disclosure for investors)\n• Evidence 2: \"The AC reviewed the draft circular to Shareholders...\" (forward-looking information about shareholder mandates)"
+  }
+}

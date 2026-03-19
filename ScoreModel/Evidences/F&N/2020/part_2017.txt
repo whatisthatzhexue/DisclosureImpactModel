@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Notes: (i) Employee benefit expenses comprise of wages...\" [specific factual disclosure]\n• Evidence 2: \"The Company has complied with the principal Practices set out in the Malaysian Code...\" [compliance statement]"
+  },
+  "Understandability": {
+    "score": 4,
+    "justification": "• Evidence 1: \"ECONOMIC VALUE RETAINED – – – – =\" [ambiguous formatting with missing logic]\n• Evidence 2: \"FY2020 FY2019 FY2020 FY2019...\" [repetitive, fragmented data presentation]"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"We have been included in the FTSE4Good Bursa Malaysia (F4GBM) Index...\" [corporate governance relevance]\n• Evidence 2: \"Our ability to do this has largely been premised on these important principles...\" [strategic context]"
+  }
+}

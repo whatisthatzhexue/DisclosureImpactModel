@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The Group aims to optimise its collective impact by continually reassessing and integrating these material issues into its business strategy\" (no specific metrics or risks disclosed)\n• Evidence 2: \"Striving to create the future it dreams of through the lens of humanity\" (overstatement with no measurable outcomes)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Economic Sustainability, Environmental Sustainability, Social Sustainability\" (clear categorization of pillars)\n• Evidence 2: \"Investing in Our EMPLOYEES... Caring for Our Communities and the Planet\" (direct section headings with logical flow)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Our employees (partners) are the heart of the BFood experience\" (stakeholder focus relevant to investors)\n• Evidence 2: \"Striving to create the future it dreams of through the lens of humanity\" (forward-looking but lacks specific financial or operational details)"
+  }
+}

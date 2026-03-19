@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood defines each metric clearly, validates it through internal reviews and obtains third-party assurance from SIRIM QAS International Sdn Bhd.\" (specific third-party validation)\n• Evidence 2: \"They make restatements where necessary, in line with IFRS principles.\" (acknowledges potential errors and corrective actions)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Data is reported as: Absolute values, Intensity metrics (e.g. per outlet), Qualitative indicators.\" (clear categorization of reporting formats)\n• Evidence 2: \"The team transparently discloses and addresses uncertainties... through data triangulation and scenario testing.\" (specific explanation of complex processes)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood reviews performance annually, analyses and discloses any deviations from targets...\" (explains performance changes)\n• Evidence 2: \"BFood ranks among the top in the latest FTSE4Good Index Series results...\" (provides investor-relevant performance metrics)"
+  }
+}

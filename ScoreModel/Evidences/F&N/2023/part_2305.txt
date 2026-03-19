@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We reviewed and highlighted the progress against our targets and refreshed the ranking of our material topics.\" (shows objective assessment of performance)\n• Evidence 2: \"Exposure to various ESG risks... unethical practice can lead to regulatory violations...\" (discloses risks and potential consequences)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Four key material topics... were assessed to have an increased importance...\" (clear structure with logical categorization)\n• Evidence 2: \"We conducted a review of our materiality matrix... to update our understanding...\" (precise explanation of methodology)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our sustainability report is guided by the GRI Standards...\" (relevant to investor due diligence)\n• Evidence 2: \"We will continue our commitment to deepen our sustainability strategy...\" (forward-looking information about future initiatives)"
+  }
+}

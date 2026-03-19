@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [No specific facts or disclosures about sustainability practices, risks, or challenges]\n• Evidence 2: [No objective statements or neutral language provided]"},
+  "Understandability": {"score": 0, "justification": "• Evidence 1: [No precise, direct, or clear language explaining sustainability efforts]\n• Evidence 2: [No professional terms or structured explanations provided]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [No forward-looking information or risk disclosures]\n• Evidence 2: [No material events, corporate governance, or performance explanations provided]"}
+}

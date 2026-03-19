@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The removal of travel and movement restrictions... have allowed for the full resumption of activities locally and globally' (discloses operational challenges and recovery)\n• Evidence 2: 'The Group has not sought any external assurance for this Statement' (transparently acknowledges limitations)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Power Root’s financial year ended 31 March 2023... increase of 31.0% from the revenue of RM347.9 million' (clear numerical context)\n• Evidence 2: 'The Group has catered for our products to be in tandem with government initiatives' (direct explanation of strategic alignment)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Increasing cost pressures... were a major point of concern which we had to navigate in FY 2023' (material risks to investors)\n• Evidence 2: 'Our 2023 growth pillars incorporated... 5Ps of marketing' (forward-looking strategies for business performance)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood enforces the efficient and responsible use of water...\" (specific factual statement about water usage policies)\n• Evidence 2: \"C.A.F.E. Practices are one of the coffee industry’s first ethical sourcing standards...\" (objective description of program with historical context)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Group also raises awareness of water conservation...\" (clear, direct statement about conservation efforts)\n• Evidence 2: \"Strictly Followed Materials Selection\" section (data presented without clear temporal context or units for some figures)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"This open-sourced programme consists of more than 200 indicators...\" (provides material information about sustainability criteria)\n• Evidence 2: \"Ensure the palm oil...ethically harvested and processed\" (relevant to investor concerns about supply chain ethics)"
+  }
+}

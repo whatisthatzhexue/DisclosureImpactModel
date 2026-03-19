@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The ARMC is to provide a statement that it has reviewed the terms of the RRPT to ensure that such transactions are undertaken based on terms not more favourable to the related parties than those generally available to the public...\" (objective, fact-based disclosure of procedures)\n• Evidence 2: \"During the financial year ended 30 June 2023, the ARMC had reviewed the related party transaction... for a total cash consideration of about RM21,960,000\" (specific, verifiable financial data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC also reviewed the procedures and processes with regards to the RRPT on a half yearly basis...\" (clear structure with numbered sections and precise language)\n• Evidence 2: \"The cost incurred for the Internal Audit function... was approximately RM270,500.00\" (direct, unambiguous financial disclosure)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Disclosures will be made in the annual report on the breakdown of the aggregate value of the RRPT...\" (directly relevant to investor decision-making via transparency)\n• Evidence 2: \"Reviewed the risk register covering areas such as the likelihood of occurrence...\" (material risk management information for stakeholders)"
+  }
+}

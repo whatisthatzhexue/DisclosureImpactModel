@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board has implemented a process... for further improvement.\" (neutral, process-focused)\n• Evidence 2: \"the Board is of the opinion that the Audit Committee... effectively discharged their duties.\" (specific, objective assessment)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Nominating Committee reviews the required mix of skills...\" (clear structure with specific responsibilities)\n• Evidence 2: \"Individual Directors abstained from all deliberation...\" (precise, direct language)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the Board, through the Nominating Committee... self and peer evaluation...\" (directly addresses governance mechanisms)\n• Evidence 2: \"remuneration policies... to attract, retain and motivate Directors...\" (links governance to investor-relevant outcomes)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Notice of AGM and annual report are sent to the shareholders at least 21 days ahead of the AGM date to encourage shareholders to attend the AGM.\" (specific factual procedure)\n• Evidence 2: \"The NomCom reviews the evaluation results of the Directors who are due for retirement by rotation and re-appointment pursuant to Section 129-6 of the Companies Act, 1965.\" (objective reference to legal requirements)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board and management take questions from the shareholders present.\" (clear, direct language)\n• Evidence 2: \"The NomCom reviews the results of the above said annual evaluation presented by external consultant and proposed action plans to be taken.\" (structured explanation of processes)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Encouraging Shareholder Participation at General Meetings\" (directly addresses investor engagement)\n• Evidence 2: \"The NomCom reviews the required mix of skills, knowledge and experience which non-executive directors should bring to the Board...\" (provides governance-related context for investors)"
+  }
+}

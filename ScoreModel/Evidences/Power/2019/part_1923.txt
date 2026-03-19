@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"However, as there are inherent limitations in any risk management and internal control system, such system is designed to manage, rather than eliminate risks...\" (acknowledges limitations)\n• Evidence 2: \"The Board delegates its review role to Audit Committee...\" (transparent about responsibilities and oversight)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board delegates the duty of identification, assessment and management of key business risks to Risk Management Committee...\" (clear structure of responsibilities)\n• Evidence 2: \"The scope of this Statement includes the Company and all operating subsidiaries.\" (precise definition of coverage)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board affirms its overall responsibility of maintaining a sound risk management and internal control system...\" (directly addresses investor concerns about governance)\n• Evidence 2: \"the Group’s interests are served through representation on the Board of Directors...\" (discloses material relationships but lacks specific risk factors)"
+  }
+}

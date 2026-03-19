@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: The text lacks disclosure of risks, challenges, or uncertainties (e.g., no mention of potential financial risks, market competition, or operational hurdles).\n• Evidence 2: The language is promotional (e.g., 'elevate user experience', 'preferred destination') without balancing statements or objective data."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: Clear structure with logical flow (e.g., 'Key upgrades will include...', 'BStarbucks will continue to strengthen...').\n• Evidence 2: Precise terms like 'gamified reward features' and 'blind box concepts' are used appropriately without excessive jargon."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: Forward-looking information about digital expansion and product launches is provided (e.g., 'enhancing e-commerce presence', 'introduce seasonal merchandise').\n• Evidence 2: Marketing initiatives and strategic partnerships (e.g., 'Shopee Digital', 'content creator collaborations') are relevant to investor decision-making."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood conducts materiality assessments every two years to pinpoint and prioritise significant Economic, Environmental, Social and Governance (\"EESG\") impacts, risks and opportunities\" (specific factual disclosure).\n• Evidence 2: \"BFood is adjusting its pricing strategy to address rising costs\" (acknowledges risk but lacks detailed uncertainty disclosure)."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"This strategic exercise effectively prioritised and aligned actions and initiatives with stakeholder expectations\" (clear, direct language).\n• Evidence 2: \"Plans to add four more in the next ten years\" (precise, specific timeframe)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Expanding presence... to increase market share\" (forward-looking strategic information for investors).\n• Evidence 2: \"Adjusting pricing strategy to address rising costs\" (material risk disclosure relevant to decision-making)."
+  }
+}

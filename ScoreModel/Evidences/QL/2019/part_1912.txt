@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"This report is prepared based on Bursa Malaysia Securities Berhad’s Sustainability Reporting Guide and Toolkits/GRI framework.\" (supports objective methodology)\n• Evidence 2: \"QL reviewed and updated 17 sustainability matters... including international sustainability reporting standards, e.g. GRI Standards.\" (demonstrates adherence to recognized standards)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Business Pillars\" section with clear headings and bullet points for subsidiaries (structured presentation)\n• Evidence 2: \"Basis of the reporting scope includes considerations of magnitude of revenue contribution and/or impact to QL.\" (precise explanation of methodology)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL reviewed and updated 17 sustainability matters which are relevant to QL’s business... global, national and industrial trends; and international sustainability reporting standards\" (connects to business context)\n• Evidence 2: \"For this year, the indicators disclosed included those in FY2017 and FY2018 for baseline comparison of data.\" (provides historical context for analysis)"
+  }
+}

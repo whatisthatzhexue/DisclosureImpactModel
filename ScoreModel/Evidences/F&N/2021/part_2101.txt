@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board through the NomCom engaged an external consultant... satisfied that the Independent Directors continued to exercise independent and objective judgement...\"\n• Evidence 2: \"The Board recognises that an extended time on the Board may impair a Director’s independence...\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board comprises eleven Non-Executive Directors whose varied skills and vast experience are relevant to the business operations of the Group.\"\n• Evidence 2: \"The Board Skills Matrix has been used as reference for the Directors’ improvement and succession planning.\""
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board is responsible for formulating on-going programmes to promote sustainability... integration of ESG factors in their decision-making process...\"\n• Evidence 2: \"The Group has in place a Code of Business Ethics and Conduct... to manage bribery and corruption risks...\""
+  }
+}

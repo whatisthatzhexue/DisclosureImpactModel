@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"announced over RM300 million in capital expenditure\" (specific fact)\n• Evidence 2: \"reducing duplication of functions and optimising value from our assets and resources\" (objective statement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"streamline our operations, reducing duplication of functions\" (clear, direct language)\n• Evidence 2: \"enhance our halal framework, terms of reference and roles\" (precise structure)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"investing significantly to expand the Group, both in terms of capacity and our international presence\" (forward-looking info for investors)\n• Evidence 2: \"working more closely with the Halal Development Corporation, MATRADE and MITI\" (corporate governance and external partnerships)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Sustainability metrics are aligned with F&N Group’s targets and with all executives’ annual variable compensation... weighted at 15% of the annual variable compensation plan' (specific factual disclosure).\n• Evidence 2: '13 new products introduced of non-compliance with laws and regulations in the social and economic area resulting in a fine, penalty or warning' (disclosure of risks, though the phrasing is unclear)."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Our sustainability metrics are aligned with F&N Group’s targets and with all executives’ annual variable compensation...' (clear structure and direct language).\n• Evidence 2: 'Zero INCIDENT' repeated twice with no contextual explanation (redundant and vague phrasing)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'F&NHB maintained a resilient economic performance in the face of external shocks... depends upon all six capitals' (material risk and performance context for investors).\n• Evidence 2: 'Community investment for the year... >RM2,500,000' (quantifiable social impact relevant to stakeholder decision-making)."
+  }
+}

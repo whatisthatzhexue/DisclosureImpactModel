@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee reported to and updated the Board on significant issues and matters discussed during the Committee’s meetings...\" (neutral, factual reporting)\n• Evidence 2: \"the Audit Committee recommended for the Board’s approval... after it was satisfied that the audit had been adequately planned...\" (objective, supported by specific audit criteria)"
+  },
+  "Understandability": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Reviewed the External Auditors’ Audit Plan, Scope of Work and Audit Fee\" (precise, direct language)\n• Evidence 2: \"Private Sessions with External Auditors\" (clear structure with numbered sections and logical flow)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the Independence and Objectivity of the External Auditors\" (material governance information)\n• Evidence 2: \"deficiencies in internal control\" (discloses operational risks relevant to investors)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood conducted a stakeholder survey...averaged the results to determine the overall stakeholder score.\"\n• Evidence 2: \"The Group incorporated the financial indicators from this assessment...Impact on BFood axis\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Positioned its final materiality topics by averaging...giving equal weight to sustainability impact and financial relevance\"\n• Evidence 2: \"Preventing pollution, Resource management, Waste management\""
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"BFood positioned its final materiality topics...priorities\"\n• Evidence 2: \"Impact on BFood’s (ESG & Financial)\""
+  }
+}

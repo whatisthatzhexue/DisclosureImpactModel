@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the Group’s risk management and internal control system have operated adequately and effectively, in all material aspects\" (neutral, objective assessment)\n• Evidence 2: \"nothing has come to their attention that cause them to believe that the statement... is factually inaccurate\" (external auditor confirmation of factual accuracy)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board is of the view that the risk management and internal control systems are operating satisfactorily\" (clear conclusion)\n• Evidence 2: \"AAPG 3 does not require the external auditors to consider...\" (precise explanation of audit scope)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the Board continues to take pertinent measures to review and improve the Group’s risk management...\" (forward-looking commitment)\n• Evidence 2: \"has not resulted in any material losses, contingencies or uncertainties\" (direct risk disclosure relevant to investors)"
+  }
+}

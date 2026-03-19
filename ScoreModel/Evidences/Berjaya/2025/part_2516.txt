@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood is committed to providing transparent and accurate information to the media, fostering open communication and building trust through timely and responsible engagement.\" (Discloses commitment to transparency but lacks specific risks or challenges)\n• Evidence 2: \"The Financial Leadership Survey assessed the potential financial implications of the same sustainability indicators.\" (Provides factual basis for analysis but does not explicitly disclose uncertainties)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Stakeholder Group Engagement Platforms Areas of Interest BFood’s Commitment\" (Clear section headers with direct language)\n• Evidence 2: \"BFood’s materiality process involves engaging a diverse range of internal and external stakeholders to capture a balanced view of priorities.\" (Precise explanation of methodology without vague terms)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood is committed to delivering long-term value to shareholders and investors through transparent governance, sustainable growth and robust financial performance.\" (Directly addresses investor concerns)\n• Evidence 2: \"In FY2025, BFood adopted an enhanced materiality methodology... to make informed strategic decisions that foster sustainable growth while supporting resilient financial performance.\" (Includes forward-looking information and strategic relevance)"
+  }
+}

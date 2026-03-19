@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"63% of our plants and production processes are certified with FSSC22000 scheme.\" (reports partial progress without overstating achievement)\n• Evidence 2: \"Our LTIFR was 0.67, with 4 lost time injury cases.\" (discloses unmet target and specific data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Conducted 34 training hours per employee in the executive category\" (precise numerical data)\n• Evidence 2: \"Group water intensity ratio has increased by 3% to 2.37\" (clear structure with percentage change and baseline comparison)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Increase the number of annual community programmes to 11\" (quantifies material sustainability goal)\n• Evidence 2: \"Group GHG intensity ratio has improved by 4%\" (provides forward-looking performance metric relevant to investors)"
+  }
+}

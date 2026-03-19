@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Board is of the view that while promoting boardroom diversity is essential, the normal selection criteria of a Director, based on an effective blend of competencies... should remain a priority.' (neutral, factual statement)\n• Evidence 2: 'The number of Directors in office at the end of the financial year... are as follows:' (specific, verifiable data)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Board acknowledges the importance of boardroom diversity in terms of age, gender, nationality, ethnicity...' (clear, direct language)\n• Evidence 2: 'The TOR of the Remuneration Committee is available at the Company’s website...' (precise, structured information)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Board believes in a remuneration policy that fairly supports the Directors’ responsibilities...' (relevant to investor decision-making)\n• Evidence 2: 'The Company is committed to maintaining an environment of respect for people regardless of their gender...' (pertains to governance and corporate values)"
+  }
+}

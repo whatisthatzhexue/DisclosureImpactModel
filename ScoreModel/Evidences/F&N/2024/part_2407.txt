@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Risks associated in achieving these business strategies and objectives, including emerging risks, will be identified.\"\n• Evidence 2: \"A consistent approach in determining the risk likelihood and risk impact is adopted across the Group to reflect the risk appetite approved by the Board.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Risk Assessment & Risk Treatment\" section provides a clear, step-by-step structure with bullet points.\n• Evidence 2: \"Risk treatments options to manage risks are Reduce, Accept, Transfer or Avoid.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The outcome of the ERM process... will be consolidated at the Group level and updated in the risk management system, i.e. Corporate Risk Scorecard.\"\n• Evidence 2: \"Risks associated in achieving these business strategies and objectives... will be identified.\""
+  }
+}

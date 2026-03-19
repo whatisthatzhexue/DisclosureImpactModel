@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the Chief Executive Officer who is also an Executive Director and substantial shareholder of the Company, is an Interested Director and Shareholder by virtue of his directorships, direct and indirect shareholdings in the Related Parties.\" (discloses conflict of interest)\n• Evidence 2: \"the decision of the Option Committee shall be final, conclusive and binding\" (neutral, objective statement about process)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"the total number of new shares which may be issued... must not exceed 15% of the total number of issued shares\" (clear numerical threshold)\n• Evidence 2: \"RM’000\" (abbreviation for Ringgit Malaysia thousand, though could be expanded for clarity)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"there were two -2 subsisting Employees’ Share Option Scheme\" (material information about share options)\n• Evidence 2: \"Name of Related Party Nature of RRPT\" (corporate governance disclosure relevant to investor decision-making)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee members also underwent training by professionals during the financial year to update themselves on the financial reporting and compliance requirements.\"\n• Evidence 2: \"The AC reviewed and approved the Non-Assurance Services... in line with MIA By-Laws\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The audit plan presented included information on the engagement team, audit scope, materiality, audit methodology and timing of audit...\"\n• Evidence 2: \"The Audit Committee recommended for the Board’s approval and adoption of the audited statutory financial statements...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The audit findings on the significant risk areas, deficiencies in internal control (if any) and status of the audit were presented to the Audit Committee.\"\n• Evidence 2: \"the Audit Committee recommended for the Board’s approval and adoption of the audited statutory financial statements...\""
+  }
+}

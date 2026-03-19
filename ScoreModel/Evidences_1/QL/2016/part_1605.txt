@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board recognises that reviewing of the Group’s system of internal controls is a concerted and continuing process, designed to manage rather than eliminate the risk of failure to achieve business objectives.\" (Discloses limitations and risks)\n• Evidence 2: \"The amount of audit fees and non-audit fees... were as follows:\" (Provides specific factual data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"PRINCIPLE 1: ESTABLISH CLEAR ROLES AND RESPONSIBILITIES\" (Clear section headings for logical flow)\n• Evidence 2: \"The Board met on five -5 occasions and 17 circular resolutions were passed\" (Precise numerical data for clarity)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company uses information technology in communicating with stakeholders...\" (Relevant to investor engagement)\n• Evidence 2: \"The Board will consider adopting electronic voting...\" (Forward-looking information about shareholder participation)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Failure to address the shift in consumer trends effectively. Challenges in meeting compliance and stringent product safety and quality product standards.\" (Discloses risks and challenges)\n• Evidence 2: \"Risk of losing license to operate due to non-compliance to applicable environmental legislations and regulations.\" (Acknowledges potential negative outcomes)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"To reduce the water ratio at our plants by 5% from 2017 by 2020.\" (Clear, specific targets)\n• Evidence 2: \"Established safety, health, and environment (SHE) systems and monitoring processes across our operations.\" (Precise terminology with logical structure)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"To introduce at least one healthier choice option in all our product categories by 2020.\" (Forward-looking information for investors)\n• Evidence 2: \"Potential financial and reputational implications.\" (Material risks relevant to decision-making)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our Materiality Assessment, first carried out in 2017 and reviewed each year, helps us to identify the sustainability issues which are most important to us and our stakeholders.\"\n• Evidence 2: \"Obtained external assurance on selected Environment and Social from Lloyd’s Register Quality Assurance\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our vision to create a financially, environmentally, and socially sustainable future for our business by: • Delivery value through innovation, human capital development and social collaboration, and • Managing our impacts and conduct business in a responsible manner.\"\n• Evidence 2: \"The group has assessed the materiality of the 'Packaging' issue to be 'high' in 2019.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Included in the FTSE4Good Bursa Malaysia Index for the first time this year\" (relevant to investor decision-making).\n• Evidence 2: \"The Malaysian Government has published a 'Roadmap Towards Zero Single-use Plastics 2018-2030'\" (material event impacting sustainability strategy)."
+  }
+}

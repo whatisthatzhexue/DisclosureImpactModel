@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL finished FY2017 Management Discussion and Analysis on firm footing with a growth of 6% in top line and 4% in Profit Before Tax (PBT)\" [specific financial data]\n• Evidence 2: \"The weaker Ringgit brought about a thermocline effect...\" [disclosure of currency risk]"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Regional replication where core activities and value chains are replicated in major Southeast Asian markets\" [clear strategic explanation]\n• Evidence 2: \"The ten ILF operations bases of QL had mixed fortunes\" [precise description of operational risks]"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Looking forward, I am optimistically confident that QL will further strengthen our market position...\" [forward-looking statement]\n• Evidence 2: \"The Indonesia plantation which currently accounts of almost 90% of our planted estate...\" [material event disclosure]"
+  }
+}

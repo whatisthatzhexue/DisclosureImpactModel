@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Introducing strategic measures to optimise energy use, reduce carbon emissions and mitigate environmental impact\" (specific actions without risk disclosures)\n• Evidence 2: \"Systematically handling, collecting, disposing and recycling waste materials\" (objective description lacking uncertainty statements)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Conserving natural resources to address issues such as biodiversity, water quality and land preservation\" (clear linkage between actions and outcomes)\n• Evidence 2: \"Using water efficiently and minimising its consumption throughout operations\" (precise language with measurable goals)"
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Prioritising employees’ health and well-being through regular engagement\" (no connection to financial performance or investor decision-making)\n• Evidence 2: \"Upholding workplace safety for injury prevention\" (lacks forward-looking information or risk materiality statements)"
+  }
+}

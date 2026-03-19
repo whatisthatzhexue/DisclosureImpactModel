@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our products comply with relevant standards across their entire life cycle.\" (specific fact)\n• Evidence 2: \"Failure to address the shift in consumer trends effectively.\" (disclosure of risk)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"To reduce the water ratio at our plants by 5% from 2017 by 2020.\" (precise target)\n• Evidence 2: \"Trained Company Emergency Response Teams (CERT)\" (clear, direct language)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"To introduce at least one healthier choice option in all our product categories by 2020.\" (forward-looking info)\n• Evidence 2: \"Potential financial and reputational implications.\" (material risk disclosure)"
+  }
+}

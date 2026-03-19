@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reduced waste and environmental footprint in operations\" (specific fact without overstatement)\n• Evidence 2: \"Compliance with halal standards and food safety regulations\" (objective disclosure of operational requirements)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Capital Inputs Outputs Outcomes Relevant UNSDGs\" (clear structure with logical categorization)\n• Evidence 2: \"Expanded market presence and brand reach\" (precise, direct language without ambiguity)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Investment into ready-to-drink and plant-based product lines\" (forward-looking strategic information)\n• Evidence 2: \"Support towards local SMEs and sustainable suppliers\" (material stakeholder engagement detail)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks closely monitors the impact and feasibility of these solutions as part of its ongoing commitment to sustainability\" (neutral, fact-based reporting)\n• Evidence 2: \"FY2022 and FY2023 restated due to updated conversion factors\" (transparent disclosure of methodology changes)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"LEDs are a more energy-efficient choice...\" (clear explanation of benefits)\n• Evidence 2: \"BFood avoids operating in water-stressed regions\" (precise, direct statement of policy)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Invested RM1,365,120 in upgrading to LED technology\" (financial commitment relevant to investors)\n• Evidence 2: \"Tracks key water metrics... monthly\" (operational transparency for decision-making)"
+  }
+}

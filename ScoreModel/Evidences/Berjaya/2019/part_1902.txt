@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"registered a higher revenue of RM788.98 million as compared to a revenue of RM639.7 million\" (specific factual comparison)\n• Evidence 2: \"mainly due to additional Starbucks cafés operating... same-store-sales growth\" (provides neutral cause for performance change)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"For the financial period ended 30 June 2019, BFood registered a higher revenue...\" (clear temporal context and direct language)\n• Evidence 2: \"Pre-tax profit was higher at RM46.56 million...\" (precise numerical presentation with logical progression)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"mainly due to additional Starbucks cafés... same-store-sales growth\" (explains performance change)\n• Evidence 2: No forward-looking statements, risks, or governance information included (lacks critical investor context)"
+  }
+}

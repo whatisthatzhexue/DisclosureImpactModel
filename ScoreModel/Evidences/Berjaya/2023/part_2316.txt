@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"the Group conducted a thorough materiality study which involved identifying and evaluating the impact and significance of various Economic, Environmental, Social and Governance factors\" (specific factual claim about the study).\n• Evidence 2: \"BFood is committed to diligent management in each area, focusing efforts, monitoring performance, and setting targets\" (positive commitment without overstatement)."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Relevant topics were selected based on their alignment with the business’ nature and stakeholder concerns\" (clear logic about topic selection).\n• Evidence 2: \"the current challenges facing the industry, society, and the planet\" (direct reference to external factors)."
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"the Group can effectively prioritise actions and initiatives that align with stakeholder expectations and business objectives\" (direct relevance to investor concerns).\n• Evidence 2: \"ESG rating agencies’ priorities\" (indirect relevance to investor decision-making)."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 1,
+    "justification": "• Evidence 1: No specific facts or risk disclosures are provided in the text.\n• Evidence 2: The content is unrelated to financial performance or uncertainties."
+  },
+  "Understandability": {
+    "score": 3,
+    "justification": "• Evidence 1: The text is overly brief and lacks structural clarity.\n• Evidence 2: The mention of a 'breakfast menu' is irrelevant to annual report disclosures and creates confusion."
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text contains no forward-looking information or risk factors relevant to investors.\n• Evidence 2: It focuses on a menu item rather than financial performance, governance, or material events."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"endorsed by the Ministry of Health’s Healthier Choice Logo (HCL)\" (specific fact)\n• Evidence 2: \"launch of F&N RTD Teh Tarik cans\" with exact dates (specific fact)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: Clear section headings (e.g., \"Marketing Highlights\") and concise product descriptions\n• Evidence 2: Direct language explaining product benefits (e.g., \"4.3g of protein per 100g\")"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: Forward-looking information about product launches and market expansion (e.g., \"F&N MAGNOLIA PASTEURISED FULL CREAM MILK 1L\")\n• Evidence 2: Consumer reach metrics (e.g., \"six million Consumer Reach Points\")"
+  }
+}

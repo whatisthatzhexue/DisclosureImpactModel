@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Our sugar index... has been steadily declining over the years. In FY2016, our sugar index measured 6.8g/100ml, which is 28 per cent lower than the FY2004 baseline.' (specific factual data)\n• Evidence 2: 'We believe we are in a better position than many other beverage manufacturers to override this challenge given our focus in recent years on offering healthier options' (acknowledges potential risk while maintaining objectivity)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Our environmental and other CR initiatives are outlined in greater detail in the Corporate Sustainability section of this annual report.' (clearly directs readers to additional information)\n• Evidence 2: 'The entire project is expected to be completed in December 2018.' (precise timeline with specific outcome)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'We expect FY2017 to continue to be challenging... we are confident of achieving sustainable growth in both revenue and profit.' (forward-looking information for investors)\n• Evidence 2: 'The Group faces a number of risks... which are not static but change with the operating environment and market conditions.' (explicit risk disclosure)"
+  }
+}

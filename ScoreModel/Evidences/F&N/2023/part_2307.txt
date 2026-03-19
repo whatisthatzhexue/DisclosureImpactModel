@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Regulatory risks (e.g. sugar tax) from the markets we operate in; focusing on Nutrition helps mitigate this\"\n• Evidence 2: \"We achieved 0 LTIFR this year\" (specific factual achievement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"SUSTAINABILITY FRAMEWORK\" section with clear headings and mapped material issues\n• Evidence 2: \"32.9 training hours per employee in the executive category\" (precise numerical data)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"2025 Target Material Issue\" section with specific performance metrics (e.g., 64% of products endorsed with Healthier Choice Logo)\n• Evidence 2: \"Absence of community programmes... impacts employee morale\" (direct link to stakeholder impact)"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 1, "justification": "• Evidence 1: No specific facts or disclosures about corporate governance risks, challenges, or uncertainties are provided.\n• Evidence 2: The text lacks objective information or neutral statements about governance practices." },
+  "Understandability": {"score": 1, "justification": "• Evidence 1: The text contains no clear structure, logic, or precise language.\n• Evidence 2: No professional terms or explanations are provided to clarify corporate governance concepts." },
+  "Relevance": {"score": 1, "justification": "• Evidence 1: The text mentions corporate governance but provides no forward-looking information or material events.\n• Evidence 2: No details about risks, performance changes, or governance mechanisms are included." }
+}

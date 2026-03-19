@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company has outsourced its internal audit function to an independent professional consulting firm\" (neutral, factual statement)\n• Evidence 2: \"During the financial year, the total cost incurred for the internal audit function is RM250,000\" (specific financial disclosure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Company has outsourced its internal audit function to an independent professional consulting firm\" (clear, direct language)\n• Evidence 2: Bullet points structure the internal audit activities (logical organization)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Identified, understand and managed risks embedded in the processes...\" (directly addresses risk management)\n• Evidence 2: \"Terms of Reference of Audit Committee\" (provides governance structure relevant to investors)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Audit Committee had also considered the nature of other non-audit services provided during the year by the External Auditors and the quantum of the fees... and was satisfied that the provision of these services did not in any way compromise their independence.'\n• Evidence 2: 'The Audit Committee met with the External Auditors thrice... to discuss their Audit Plans, their audit findings and other special matters that require the Audit Committee’s attention.'"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Audit Committee met privately with the External Auditors twice without the presence of the Executive Directors and management to encourage free flow of information...' (clear structure and direct language).\n• Evidence 2: 'The state of the internal control system and Internal Audit Function of the Group is explained in greater detail in the Statement on Risk Management and Internal Control...' (precise reference to supporting documents)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Board recognises the importance of Risk Management in pursuing the Company’s objective...' (addresses corporate governance and risk management).\n• Evidence 2: 'The Directors strive to ensure that a balanced, clear and meaningful assessment of the financial positions and prospects of the Group are made in all disclosures...' (links to investor-focused financial reporting)."
+  }
+}

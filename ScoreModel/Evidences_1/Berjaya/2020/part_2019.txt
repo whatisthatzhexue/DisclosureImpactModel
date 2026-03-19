@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: 'BFood endeavours to support economic growth that benefits every level of society, while minimizing the adverse environmental and social impacts arising from its daily business operations' (neutral, objective statement)\n• Evidence 2: 'The Board is satisfied that the Company has substantially complied with the MCCG throughout the FYE 2020 save for the exceptions which are fully described in the CG Report' (acknowledges compliance with exceptions)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Board has delegated the day-to-day affairs of the Group’s business to the CEO... to manage the Group in accordance with the strategies and policies approved by the Board' (clear structure of responsibilities)\n• Evidence 2: 'The Company Secretaries play an important role in facilitating the overall compliance with the Companies Act 2016...' (precise explanation of roles)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Board is pleased to provide an overview of the corporate governance practices... which made reference to the three key CG principles as set out in the MCCG' (directly relevant to investor decision-making)\n• Evidence 2: 'The Company is committed to maintaining an environment of respect for people regardless of their gender...' (includes governance and diversity policies relevant to stakeholders)"
+  }
+}

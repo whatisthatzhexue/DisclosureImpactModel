@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood and all suppliers must comply with Malaysian Labour Law on the minimum legal working age to prevent child labour.\"\n• Evidence 2: \"Audit suppliers, noting that seven BStarbucks suppliers were assessed and audited in FY2025, with no incidences of non-compliance recorded.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood’s Social Supply Chain Commitments Communicate the social supply chain policy globally to all suppliers, integrating it into buyer training, purchasing policies and supplier contracts.\"\n• Evidence 2: \"Conduct social risk assessments for new and existing major suppliers as part of due diligence to ensure compliance with and identify those are high risks.\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Audit suppliers, noting that seven BStarbucks suppliers were assessed and audited in FY2025, with no incidences of non-compliance recorded.\"\n• Evidence 2: \"Conduct social risk assessments for new and existing major suppliers as part of due diligence to ensure compliance with and identify those are high risks.\""
+  }
+}

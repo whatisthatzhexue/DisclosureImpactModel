@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 1,
+    "justification": "• Evidence 1: [exact quote] 'Employers Commitment Employees Commitment' lacks specific facts, risks, or uncertainties\n• Evidence 2: [exact quote] 'Sustainability Statement Social' provides no objective data or neutral disclosures"
+  },
+  "Understandability": {
+    "score": 2,
+    "justification": "• Evidence 1: [exact quote] 'Employers Commitment Employees Commitment' contains unclear structure and potential typo (missing apostrophe)\n• Evidence 2: [exact quote] 'BERJAYA FOOD BERHAD ANNUAL REPORT 2023 47' lacks contextual explanation for page numbering"
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: [exact quote] 'Sustainability Statement Social' provides no forward-looking information or risk disclosures\n• Evidence 2: [exact quote] 'Employers Commitment Employees Commitment' lacks connection to investor decision-making factors"
+  }
+}

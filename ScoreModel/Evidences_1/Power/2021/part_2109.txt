@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Terms of Reference of the Remuneration Committee is available for download...\" (provides verifiable source)\n• Evidence 2: \"The Remuneration Committee met two times... submitted to the Board for review...\" (specific factual details)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"No. of Meetings Held Attendance\" format (clear structure)\n• Evidence 2: \"The Option Committee shall be vested with such powers...\" (precise legal language with specific functions)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"administer the existing Employees’ Share Option Scheme...\" (corporate governance detail relevant to investors)\n• Evidence 2: \"expiring on 22 July 2022... expiring on 10 June 2029\" (forward-looking information about ESOS terms)"
+  }
+}

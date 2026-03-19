@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the system of risk management and internal control are designed to manage and mitigate risks rather than eliminate risks which may hinder the achievement of the Group’s objectives and would therefore provide only reasonable and not absolute assurances against material misstatements or losses.\"\n• Evidence 2: \"The GRMF is benchmarked against the ISO31000:2018 Risk Management – Guidelines\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board regards risk management as an integral part of the operations and processes of the Group is assisted by the Sustainability* and Risk Management Committee (\"SRMC\")\" (clear structure but slightly awkward phrasing).\n• Evidence 2: \"The Management Risk Committee, chaired by the Chief Executive Officer (\"CEO\")... meets on a quarterly basis\" (precise language with proper terminology)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board recognises that the system of risk management and internal control are designed to manage and mitigate risks rather than eliminate risks...\" (directly addresses risk management effectiveness).\n• Evidence 2: \"The SRMC also maintains a close relationship with the Audit Committee... to minimise and/or prevent any overlapping of functions\" (links to corporate governance and internal controls)."
+  }
+}

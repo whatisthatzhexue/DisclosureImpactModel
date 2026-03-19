@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the Board is satisfied with the level of independence and objectivity demonstrated by all Independent Non-Executive Directors\" (neutral, fact-based assessment)\n• Evidence 2: \"the length of his service on the Board did not interfere with his ability to exercise independent judgment\" (specific, objective statement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Appointment of new Directors... is recommended to the Nominating Committee for consideration and approval\" (clear process description)\n• Evidence 2: \"two-tier voting process\" (precise terminology used consistently)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"explains reasons for performance changes\" (no direct mention, but discusses governance processes relevant to corporate management)\n• Evidence 2: \"includes corporate governance\" (directly addresses governance structure and director qualifications)"
+  }
+}

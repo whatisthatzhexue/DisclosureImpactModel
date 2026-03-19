@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Group regularly benchmarks its remuneration packages against industry standards to ensure fairness and relevance.\" (objective benchmarking)\n• Evidence 2: \"BFood values rewards that go beyond monetary incentives...\" (neutral statement without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Enhanced leave entitlements, including maternity and paternity leave\" (clear, direct listing)\n• Evidence 2: \"Each region selects one winner...\" (precise description of program structure)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"By celebrating service excellence, BFood fosters a culture of high performance...\" (links programs to operational goals)\n• Evidence 2: \"Endless Opportunities To Grow\" (employee development relevant to long-term workforce planning)"
+  }
+}

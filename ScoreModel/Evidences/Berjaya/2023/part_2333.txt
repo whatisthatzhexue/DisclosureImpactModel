@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group has a whistleblowing policy...without fear of any form of victimisation, harassment, retribution or retaliation.\" (neutral, factual statement)\n• Evidence 2: \"The Adequate Procedures...published on the Company’s website.\" (specific, verifiable information)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group and affiliated companies strictly adopt a zero-tolerance policy...corrupt activities for its advantage or benefit.\" (clear, direct language)\n• Evidence 2: \"The whistleblowing policy is published on the Company’s website.\" (precise, unambiguous statement)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"In response to Section 17A of the Malaysian Anti-Corruption Commission Act 2009...\" (links policy to regulatory requirements)\n• Evidence 2: \"take all reasonable and appropriate measures...not participate in any corrupt activities\" (pertains to corporate governance and risk management)"
+  }
+}

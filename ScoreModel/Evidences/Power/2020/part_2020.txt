@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Risk assessment at gross and residual level, are guided by the likelihood rating and impact rating established based on the risk appetite acceptable as determined by the Board.\"\n• Evidence 2: \"The Key Risks Register are used for the identification of high residual risks which are above the risk appetite of the Group that requires the Risk Management Committee and the Board’s immediate attention\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The structured risk management process as defined in the Risk Management Framework is employed by the Risk Management Committee and the risk owners for risk and opportunity identification, evaluation, control identification, treatment and control activities.\"\n• Evidence 2: \"The Group has a formal organisation structure in place with clear lines of reporting and accountability.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Risk Management Committee and risk owners review the Key Risks Register and assessment of emerging risks identified at strategic and operational level on an annual basis... report to the Audit Committee and Board.\"\n• Evidence 2: \"The Annual Budget for the Group is presented and approved by the Board on an annual basis and form one of the basis to monitor the actual performances\""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"As such, the total dividends paid for FYE 2020 is 12.5 sen per share amounting to RM50.9 million, representing a dividend payout ratio of approximately 99.0%\" (specific factual disclosure).\n• Evidence 2: \"we expect weak consumer sentiment to continue...the beverage industry will remain competitive and challenging\" (disclosure of risks and uncertainties)."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We will increase our focus on reaching potential customers online...\" (clear strategy explanation).\n• Evidence 2: \"bolstering our operations team to enhance our manufacturing and manpower systems...\" (somewhat complex sentence structure with technical terms)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Forward-looking information: adapting sales strategy...new product launch plans...\" (material strategic decisions for investors).\n• Evidence 2: \"weak consumer sentiment...competitive and challenging\" (risk factors impacting investment decisions)."
+  }
+}

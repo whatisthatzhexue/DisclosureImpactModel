@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Striving to create the future it dreams of through the lens of humanity\" (overstatement without evidence)\n• Evidence 2: No specific metrics, risks, or challenges disclosed (e.g., no quantifiable targets or uncertainties)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Creating long-term value for shareholders and adding value for all stakeholders\" (redundant phrasing)\n• Evidence 2: \"Striving to improve the Company’s environmental footprint...\" (vague action verbs without specificity)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Our employees (partners) are the heart of the BFood experience\" (focus on internal culture rather than investor-relevant metrics)\n• Evidence 2: No forward-looking financial projections or risk disclosures (e.g., regulatory risks, operational challenges)"
+  }
+}

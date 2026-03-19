@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Directors have a duty to declare immediately to the Board should they have any transactions...\" (neutral, factual disclosure of governance rules)\n• Evidence 2: \"The Board recognises the environmental sustainability role...\" (states intent but lacks specific risk disclosures)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Directors’ Code of Conduct...sets out the Board’s standard of conduct\" (clear purpose statement)\n• Evidence 2: \"The minutes of Board meeting are circulated...\" (direct explanation of process)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Company’s Strategies for Sustainability...ensuring the long term stability of the business\" (relevant to investor concerns)\n• Evidence 2: \"Access to Information and Advice...subject to a formal written request\" (pertains to governance but lacks performance context)"
+  }
+}

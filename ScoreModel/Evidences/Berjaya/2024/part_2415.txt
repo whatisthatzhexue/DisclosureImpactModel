@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 4,
+    "justification": "• Evidence 1: \"The Group is dedicated to transparency and accountability, consistently measuring progress towards sustainability goals\" (no specific metrics provided)\n• Evidence 2: \"BFood creates a culture of warmth and belonging...\" (vague claims without verifiable outcomes)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Economic Sustainability: Creating long-term shareholder value...\" (clear section headers)\n• Evidence 2: \"Investing in Our Employees...\" (logical grouping of initiatives)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"BFood takes responsibility for building a more sustainable...\" (forward-looking statement)\n• Evidence 2: \"Advancing Equity and Inclusion\" (stakeholder focus, but lacks risk disclosure)"
+  }
+}

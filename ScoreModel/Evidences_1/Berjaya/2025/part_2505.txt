@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks will also continue to strengthen its brand presence...\" (no risk disclosure)\n• Evidence 2: \"By combining brand purpose with operational excellence...\" (overly positive, lacks concrete risk mitigation details)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BStarbucks seeks to deepen its connection with diverse audiences...\" (clear purpose statement)\n• Evidence 2: \"BFS has established itself as a key player...\" (precise operational description)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"By aligning with impactful platforms...\" (forward-looking strategy)\n• Evidence 2: \"BFS holds the exclusive rights...\" (material fact about business operations)"
+  }
+}

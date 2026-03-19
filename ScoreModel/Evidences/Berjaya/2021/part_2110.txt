@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, Ser Vegano recorded a loss before tax of RM552,000 for the 10-month period mainly due to the COVID-19 pandemic and imposition of the MCO...\" (discloses specific risks and causes)\n• Evidence 2: \"Ser Vegano recorded a revenue of RM1.8 million for the 10-month period...\" (provides factual, measurable data)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Sala’s ingredients are 100% plant-based, which are lower in calories and cholesterol while being higher in clean protein.\" (clear, direct description of product attributes)\n• Evidence 2: \"In August 2020, Berjaya Food (International) Sdn Bhd completed the acquisition of 50% equity interest in Ser Vegano Sdn Bhd.\" (precise, structured statement of ownership change)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Moving into the financial year 2022, Ser Vegano plans to open 4 new outlets...\" (forward-looking information for investors)\n• Evidence 2: \"The company’s operating expenses had also increased with the opening of the 4 new outlets.\" (explains performance changes related to expansion)"
+  }
+}

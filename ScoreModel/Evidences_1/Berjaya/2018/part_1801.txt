@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"registered a higher revenue of RM639.7 million as compared to a revenue of RM605.4 million recorded in the previous financial year\" (specific factual comparison)\n• Evidence 2: \"mainly due to the exceptional loss arising from the disposal of PT Boga\" (discloses specific reason for profit decline)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"registered a higher revenue...mainly due to additional Starbucks cafés operating...same-store-sales growth\" (clear cause-effect explanation)\n• Evidence 2: \"Pre-tax profit was lower...mainly due to...exceptional loss\" (direct, structured explanation of financial performance)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"registered a higher revenue...mainly due to additional Starbucks cafés...same-store-sales growth\" (explains revenue growth drivers)\n• Evidence 2: \"exceptional loss arising from the disposal of PT Boga\" (discloses material event impacting financial results)"
+  }
+}

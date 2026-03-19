@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC also ensures that the External Auditors are independent...will review the contracts for provision of non-audit services...\" (neutral, objective disclosure of governance processes)\n• Evidence 2: \"In considering the nature and scope of non-audit fees...satisfied that they were not likely to create any conflict...\" (supported by specific facts, no overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Statutory audit fees paid/payable to: - Ernst & Young...\" (clear structure with numerical data)\n• Evidence 2: \"The internal audit function...based on the plan approved by the ARMC...\" (precise language with logical flow)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board entrusts the ARMC with the overall responsibility...risk management procedures...\" (directly addresses investor concerns about governance)\n• Evidence 2: \"The Statement on Risk Management...provides an overview of the state of internal controls...\" (includes material risks and corporate governance information)"
+  }
+}

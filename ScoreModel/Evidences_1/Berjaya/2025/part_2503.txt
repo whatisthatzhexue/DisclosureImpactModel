@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Given the unique circumstances of the past year, the Board has decided not to recommend a dividend...\" (neutral, factual statement)\n• Evidence 2: \"contrasting with 0.44 sen single-tier dividend per share for the preceding year\" (specific, objective data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Given the unique circumstances of the past year...\" (clear, direct language)\n• Evidence 2: \"not to recommend a dividend for the financial year ended 30 June 2025\" (precise, unambiguous phrasing)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"not to recommend a dividend...\" (directly relevant to investor decision-making)\n• Evidence 2: \"unique circumstances of the past year\" (contextualizes decision but lacks detailed performance/explaining factors)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The consideration is within the equity value derived from the independent valuer, Messrs Jordan Lee & Jaafar Sdn Bhd;\" \n• Evidence 2: \"The ARMC is of the view that the cash consideration... is justifiable based on the following grounds:...\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The ARMC also reviewed the procedures and processes with regards to the RRPT on a half yearly basis...\" \n• Evidence 2: \"The Internal Audit Division... adopts a risk-based approach focusing on high risk areas.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The ARMC also reviewed the transactions with related parties... on normal commercial terms consistent with the Company’s business practices...\" \n• Evidence 2: \"The cost incurred for the Internal Audit function... was approximately RM161,462.00.\""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the Risk Management Committee and the Head of Department review the Key Risks Register and assessment of emerging risks... report to the Audit Committee and Board\" (neutral, objective description of processes)\n• Evidence 2: \"the Key Risks Report... was compiled and tabled to the Audit Committee and Board for review and deliberation\" (discloses risk management outcomes without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"structured bullet points under Internal Control Systems\" (clear segmentation of topics)\n• Evidence 2: \"Key Risks Register... strategic risks and key operational risks\" (precise terminology for risk categorization)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"strategic risks... align with the Group’s risk appetite\" (directly addresses investor concerns about risk management)\n• Evidence 2: \"fraud policy... reviewed by the Audit Committee\" (includes corporate governance and risk mitigation relevant to investors)"
+  }
+}

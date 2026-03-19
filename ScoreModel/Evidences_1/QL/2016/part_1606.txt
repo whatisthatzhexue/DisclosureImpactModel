@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group has a Risk Management Department... reports functionally to the RMC and Audit Committee.\" (specific structure and accountability)\n• Evidence 2: \"There have been no significant breakdowns...\" (explicit statement of system adequacy, though lacks balance with risks)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows:\" (clear structure with numbered list)\n• Evidence 2: \"The RM facilitates and supervises implementation...\" (precise description of roles)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group is exposed to various financial risks...\" (material risks disclosure)\n• Evidence 2: \"Utilising ERM Software System...\" (forward-looking strategic plans for risk management)"
+  }
+}

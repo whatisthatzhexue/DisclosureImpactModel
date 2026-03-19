@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"100PLUS was also distributed at various events organised during the holy month of Ramadan...\" (neutral factual statement)\n• Evidence 2: \"it came as no surprise when 100PLUS bagged its sixth Gold...\" (no overstatement, but lacks risk disclosure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"TOTAL OVER 100,000 MALAYSIANS WERE KEPT HYDRATED WITH 100PLUS\" (precise numerical summary)\n• Evidence 2: \"Jom Ronda was initiated in November 2021...\" (clear chronological explanation)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"100PLUS bagged its sixth Gold in the Non-Alcoholic Beverages category...\" (relevant to brand reputation)\n• Evidence 2: \"sponsoring two prominent events...\" (relevant to market presence but lacks financial impact analysis)"
+  }
+}

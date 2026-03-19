@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood derived its CO2 emissions from fuel consumption from the emission factor published by the IPCC Guidelines for National Greenhouse Gas Inventories.\" (objective methodology)\n• Evidence 2: \"This reduction was also partly attributed to a decrease in workforce size.\" (acknowledges external factors affecting results)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Typical Methods of Transport for BFood Employees\" table organizes data logically (clear structure)\n• Evidence 2: \"BFood turns off items such as copiers, printers, and shredders at the end of the day.\" (precise, direct language)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"the total distance travelled for commuting decreased significantly... representing a 54% reduction.\" (explains performance changes)\n• Evidence 2: \"In FY2024, 1,442 employees... representing 40% of the total workforce participated in the survey.\" (provides context for data)"
+  }
+}

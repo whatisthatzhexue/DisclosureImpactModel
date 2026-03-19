@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks and BRoasters showed an average of 5% electricity savings...\" (specific fact)\n• Evidence 2: \"Starbucks stores installed efficient water fixtures... consumed 15% less water overall.\" (quantifiable data)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood companies expanded their plant-based menu options with key initiatives below:\" (clear section heading)\n• Evidence 2: \"removed all 'dipper wells'... replaced them with auto-close water faucets\" (precise description of action)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood raises awareness in all its store operations in conserving water...\" (directly addresses investor concerns)\n• Evidence 2: \"BFood is also in midst of exploring ways to manage their paper usage\" (forward-looking initiative relevant to sustainability metrics)"
+  }
+}

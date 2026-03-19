@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"On 14 July 2024, Starbucks Malaysia supported the Autism Fundraising Food Fair... Raised RM350,000 for the education of autistic individuals...\" (specific factual details)\n• Evidence 2: \"27 BStarbucks partners (employees) volunteered, contributing 108 service hours...\" (quantifiable metrics)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Programme Programme Description Impact\" (repetitive structure with potential typo)\n• Evidence 2: \"Engaged diverse groups and promoted accessibility and heritage appreciation\" (vague phrasing lacking specificity)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Promoting inclusivity and community engagement\" (relevance to CSR but no direct investor decision-making linkage)\n• Evidence 2: \"Reinforcing Starbucks’ commitment to building an inclusive society\" (forward-looking statement but lacks quantifiable impact on business strategy)"
+  }
+}

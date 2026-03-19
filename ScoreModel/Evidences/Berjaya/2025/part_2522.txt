@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood anchors its commitment to economic sustainability in optimising supply chain efficiency, reducing waste and maximising resource use.\" (specific factual claims)\n• Evidence 2: \"The team develops resilient coffee varietals, advances water-and energy-efficient processing methods...\" (objective, data-driven statements)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Spanning 240 hectares and home to over 800,000 coffee trees...\" (clear, precise description)\n• Evidence 2: \"BFood regularly evaluates supplier performance to ensure alignment with quality and sustainability goals.\" (direct, actionable language)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"These global efforts directly benefit BStarbucks and BFS’s supply chain...\" (links sustainability to business impact)\n• Evidence 2: \"Forward-looking information: Sustainability, Innovation & Learning Lab -2026\" (future-oriented strategic planning)"
+  }
+}

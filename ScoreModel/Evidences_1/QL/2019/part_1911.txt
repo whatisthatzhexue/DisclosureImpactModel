@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'SRW proactively undertakes the following core responsibilities' [neutral, factual description of duties]\n• Evidence 2: 'Refer to Bursa Malaysia Securities Berhad’s Sustainability Reporting Guide and Toolkits, Global Reporting Initiative Sustainability Reporting Standards' [specific references to credible standards]"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The process began by reviewing and updating the material sustainability matters' [clear process description]\n• Evidence 2: 'Our materiality process is illustrated as follows: Diagram 2' [attempted visual structure]"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Ways are sought to incorporate industry best practices... into our sustainability-related responsibilities' [links to governance and operational relevance]\n• Evidence 2: 'Stakeholders engaged and the process are outlined in Section 3.4' [direct reference to stakeholder engagement]"
+  }
+}

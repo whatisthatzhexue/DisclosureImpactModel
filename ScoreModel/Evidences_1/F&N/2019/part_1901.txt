@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A confluence of geo-political events together with intensifying competition combined to create a challenging macro environment.\" (Discloses challenges)\n• Evidence 2: \"90 per cent of our RTD products sold in Malaysia are healthier options and below 5g sugar per 100ml.\" (Specific factual claim)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our achievements were underlined by three strategic priorities: Innovation, Cost Competitiveness and Excellence in Execution (or I.C.E.).\" (Clear structure with defined priorities)\n• Evidence 2: \"RM150 million on capital expenditure (capex)\" (Precise numerical data presented clearly)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Thanks to the sweetened beverages excise duty in Malaysia... we undertook probably the biggest product innovation exercise in our history\" (Explains performance drivers)\n• Evidence 2: \"We have allocated RM20 million capex and started construction work...\" (Forward-looking capital allocation details)"
+  }
+}

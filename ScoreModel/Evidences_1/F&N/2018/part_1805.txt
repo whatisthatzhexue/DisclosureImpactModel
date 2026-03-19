@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Audit Committee continually evaluated the Group Internal Audit function to ensure its activities are performed independently and with impartiality and due professional care.'\n• Evidence 2: 'The Audit Committee were also apprised of recurrent related party transactions... to ascertain that the transactions entered into were not prejudicial to the interest of the non-controlling shareholders.'"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The ambit of the Group Internal Audit function is defined in the Internal Audit Charter which is reviewed by the Audit Committee annually.'\n• Evidence 2: 'The operational costs incurred by Group Internal Audit for the financial year 2018 amounted to about RM2.3 million.'"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The related party transactions entered into by the Group were reviewed by the Audit Committee to ensure that they were conducted on the Group’s normal commercial terms...' \n• Evidence 2: 'The Audit Committee also reviewed the declaration of interim dividend and recommendation of final dividend... prior to the respective Board and/or shareholder approvals.'"
+  }
+}

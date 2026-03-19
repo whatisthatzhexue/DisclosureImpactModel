@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee (AC) was established on 15 January 2000...\" (establishes factual basis)\n• Evidence 2: \"the Company meets the requirement of Paragraph 15.09 -1(c)(i) of the Listing Requirements\" (discloses compliance with regulations)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed and recommended the Quarterly and Annual Financial Statements...\" (clear, action-oriented language)\n• Evidence 2: \"The internal audit is risk-based...\" (precise description of function)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed non-recurrent related party transactions to ascertain that it was undertaken at arms’ length...\" (material governance risk disclosure)\n• Evidence 2: \"Met with the External Auditors...to review on any concerns/issues affecting their audit...\" (directly addresses audit independence)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood recognises the challenges of its operating environment as well as the expectations of its various stakeholders...\" (acknowledges challenges and stakeholder expectations)\n• Evidence 2: \"The information and data disclosed in this statement were derived from internal reporting processes...\" (supports claims with internal data sources)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The structure and write-up of this statement are guided by Bursa Malaysia’s Sustainability Reporting Guide and Toolkits.\" (clearly explains structure)\n• Evidence 2: \"The findings were then submitted to the Sustainability Working Committee...\" (logical flow of processes)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The sustainability statement covers material issues arising from its principal business activities in Malaysia and Singapore...\" (directly addresses investor-relevant operational scope)\n• Evidence 2: \"BFood is working towards the goals set by the United Nations Sustainable Development Goals...\" (includes forward-looking strategic objectives)"
+  }
+}

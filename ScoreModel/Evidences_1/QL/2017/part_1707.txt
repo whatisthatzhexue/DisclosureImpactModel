@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group’s ERM framework aims to facilitate the execution of strategic business action...\" (neutral, objective description of framework)\n• Evidence 2: \"The Management is wary of the cybersecurity risk and is in the process of preparing Cybersecurity risk framework...\" (acknowledges risks without overstatement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows:...\" (clear structure with numbered list)\n• Evidence 2: \"The risk profiles’ worksheet, control procedures and status of action plans are reviewed...\" (precise, direct language with specific processes)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group is exposed to various financial risks relating to foreign currency rates...\" (directly addresses material risks for investors)\n• Evidence 2: \"The RMC meet to review the risk profiles’ worksheet...\" (links risk management to governance structures relevant for decision-making)"
+  }
+}

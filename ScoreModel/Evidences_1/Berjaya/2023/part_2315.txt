@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 2,
+    "justification": "• Evidence 1: No specific facts, risks, or challenges are disclosed in the text.\n• Evidence 2: The content lacks objective information and remains vague (e.g., 'Economic performance Society' is unclear)."
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: The text has a basic structure but includes ambiguous phrases like 'Focus area under Economic Pillar Environmental Pillar Social Pillar'.\n• Evidence 2: Terms like 'Economic performance Society' are poorly defined, reducing clarity."
+  },
+  "Relevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No forward-looking information, risks, or performance explanations are provided.\n• Evidence 2: The content does not address investor decision-making or material events."
+  }
+}

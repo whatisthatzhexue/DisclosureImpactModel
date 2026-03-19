@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the Group had declared and paid a total dividend of 3.50 sen single-tier dividend per share (4.25 sen single-tier dividend per share for the preceding financial year ended 30 April 2016)\" (specific historical data)\n• Evidence 2: \"The total dividend paid was approximately RM13.10 million which represented 115% of the attributable profit\" (quantifiable ratio, but no risk disclosure)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"total dividend paid was approximately RM13.10 million\" (precise numerical data)\n• Evidence 2: \"represented 115% of the attributable profit\" (clear logical relationship between figures)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"represented 115% of the attributable profit\" (useful for assessing payout ratio)\n• Evidence 2: No forward-looking information or risk disclosure related to dividend sustainability"
+  }
+}

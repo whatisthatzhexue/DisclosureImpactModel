@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Endorsed by the Board of Directors, the policy fulfils the requirements in the Guidelines on Adequate Procedures to Section 17A (5) of the Malaysian Anti-Corruption Commission Act 2009.\"\n• Evidence 2: \"BFood conducts periodic assessments with at least one full-scale assessment and review every two years.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Transparency No Gifts and Bribery\\nOpenness Continuous\\nImprovement\\nAccountability\" (clear section headers and bullet points).\n• Evidence 2: \"All supply chain partners must disclose information of any subcontractors that manufacture and produce goods for BFood.\"" 
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Corruption risks, including bribery, are crucial elements in BFood’s risk register.\"\n• Evidence 2: \"BFood communicates these policies and practices to these intermediaries effectively.\""
+  }
+}

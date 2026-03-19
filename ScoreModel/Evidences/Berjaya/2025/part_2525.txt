@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks conducted audits during the financial year. These assessments, aligned with the Global Food Safety Initiative (“GFSI”) standards, reviewed compliance...\" (specific fact about audits and standards)\n• Evidence 2: \"BFood is in the process of finalising a procurement policy...\" (transparent about ongoing processes, no overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Ensures secure handling, storage and transportation of goods.\" (clear, direct language)\n• Evidence 2: \"BFood collaborates closely with its suppliers...\" (precise description of engagement activities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood is in the process of finalising a procurement policy...\" (forward-looking information relevant to investors)\n• Evidence 2: \"These practices support the Group’s broader climate commitments...\" (material information about sustainability goals)"
+  }
+}

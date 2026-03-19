@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"On 19 July 2012, BFood completed the acquisition of 11,500,000 ordinary shares... for a cash consideration of RM71.7 million.\" (specific factual details)\n• Evidence 2: \"As at 30 June 2023, there are a total of 393 stores nationwide.\" (objective data without overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood will subscribe to 60% of the equity interest... for a total cash consideration of about PHP89.7 million.\" (precise numerical details)\n• Evidence 2: \"The company also operates the world’s first Starbucks Signing Store...\" (clear, direct explanation of unique operations)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"On 1 August 2023, BFI entered into a joint venture... to jointly develop and operate the ‘Paris Baguette’ bakery chain in the Philippines.\" (material event with strategic implications)\n• Evidence 2: \"As at 30 June 2023, there are 4 Starbucks stores in Brunei.\" (quantifiable operational data for investor assessment)"
+  }
+}

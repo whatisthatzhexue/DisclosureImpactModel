@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"FY2022 revenue for the ILF business pillar rose 19.9% to RM2.79 billion. While top line grew, PBT shrank 55.8% YoY to RM32.12 million.\"\n• Evidence 2: \"Near record high feed raw material prices adversely affected all ILF activities, causing operations costs to balloon.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Integrated Livestock Farming (ILF) Revenue (RM million) PBT (RM million)\" (clear data presentation)\n• Evidence 2: \"The persisting Russia-Ukraine war... will cause commodity prices to rise.\"\n• Evidence 3: Bullet points and section headings improve structure but some technical terms (e.g., PBT) may require prior knowledge."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The super high prices of feed raw material... adversely affected the performance of every ILF activity.\"\n• Evidence 2: \"Outlook: The persisting Russia-Ukraine war... we expect a cautiously positive performance for ILF for FY2023.\"\n• Evidence 3: \"Government subsidies providing reprieve... price equilibrium in 2H FY2023\" (forward-looking risk mitigation)."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks collaborated with local NGO, What A Waste (WaW), to prepare and distribute 1,200 bowls...\" (specific factual details)\n• Evidence 2: \"granted WaW a total of RM136,293...\" (quantifiable figures support objectivity)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"150 partners and volunteers contributing to a total of 1,050 community service hours\" (precise, direct language)\n• Evidence 2: \"rescue surplus foods and provide meals for 10,000 individuals\" (clear structure with logical flow)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"aiming to rescue surplus foods and provide meals for 10,000 individuals\" (CSR initiative relevant to stakeholders)\n• Evidence 2: \"food rescue training to volunteers from B40 communities\" (includes community impact, but lacks direct links to financial performance or investor decision-making)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"All Directors (including the Chief Executive Officer) will retire at regular intervals by rotation at least once every three years...\" (specific policy details)\n• Evidence 2: \"None of the Directors participated in any way in determining his own remuneration...\" (neutral, factual statement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board assumes the overall responsibility for establishing and implementing effective remuneration policies...\" (clear, direct language)\n• Evidence 2: \"The assessment/evaluation results will be collated for the Nominating Committee to review...\" (logical structure with precise terminology)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Performance evaluations were conducted on the Board and Board Committees...\" (directly relevant to investor assessment of governance)\n• Evidence 2: \"The Board, through the Nominating Committee, reviewed and assessed its required mix of skills...\" (pertains to corporate governance and management effectiveness)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Starbucks Malaysia supported the National Seminar... organised by the Malaysian Association of Sign Language Interpreters...\" (specific facts about event participation)\n• Evidence 2: \"Fourteen BStarbucks partners... participated in a coffee tasting session entirely in sign language\" (quantifiable participation details)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"From August 2024 to May 2025...\" (clear timeline)\n• Evidence 2: \"The workshop introduced 75 customers... to the basics of BIM\" (direct explanation of program impact)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Enhanced customer engagement with the Deaf, fostering an inclusive service culture\" (links initiatives to business strategy)\n• Evidence 2: \"reinforcing BStarbucks’ long-standing support... through inclusive business practice\" (connects to corporate values but lacks forward-looking financial impact analysis)"
+  }
+}

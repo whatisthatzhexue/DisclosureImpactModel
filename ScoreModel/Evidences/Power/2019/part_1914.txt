@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Average Energy Consumed/Month (kwh/month) 557,309 590,105 550,000\" (specific factual data)\n• Evidence 2: \"There was no legal action taken against the Group nor any fine or monetary sanction imposed related to environmental aspects\" (disclosure of risk/uncertainty)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Average Water Consumed/Month (m³/month) 5,029 5,866 5,500\" (clear numerical structure)\n• Evidence 2: \"Our quality assurance team oversees our product safety performance across the supply chain\" (precise, direct explanation)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"We will continue to monitor our energy consumption and explore new ways to increase the energy efficiency of our plant\" (forward-looking info)\n• Evidence 2: \"There was no legal action taken...\" (material event disclosure)"
+  }
+}
