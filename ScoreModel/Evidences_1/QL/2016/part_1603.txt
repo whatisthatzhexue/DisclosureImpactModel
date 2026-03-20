@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"To review and evaluate factors related to the independence of the External Auditors in performing non-audit services...\" (neutral, objective description of responsibilities)\n• Evidence 2: \"To prepare the annual Audit Committee Report...\" (specific, factual disclosure of procedural requirements)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"(8) To consider and recommend the nomination...\" (clear, direct language with numbered structure)\n• Evidence 2: \"The minutes shall be kept by the secretarial department...\" (precise, unambiguous procedural description)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"To assist the review of the Board’s statements on compliance with the Malaysian Code of Corporate Governance...\" (directly relevant to corporate governance)\n• Evidence 2: \"To review the External Auditors’ findings...\" (pertains to audit quality and investor concerns)"
+  }
+}

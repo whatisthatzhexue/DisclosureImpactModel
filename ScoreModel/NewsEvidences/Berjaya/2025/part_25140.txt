@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"This is a new movement to start discussions on how to save water.\"\n• Evidence 2: \"Malaysians tend to use around 274l of water daily, that is more than the recommended 50l to 100l by the World Health Organisation (WHO).\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text focuses on SPAN's water conservation initiative, which is unrelated to Berjaya Food Berhad's operations.\n• Evidence 2: No mention of Berjaya Food's strategic priorities, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The competition encourages participants to submit one-minute videos addressing themes such as the impact of climate change on water resources...\" \n• Evidence 2: \"Attractive prizes also await those who submit their videos...\" (specific details on competition structure and incentives)"
+  }
+}

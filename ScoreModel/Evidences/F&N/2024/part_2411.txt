@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Group’s pandemic preparedness was further strengthened...\" (discloses risks and challenges)\n• Evidence 2: \"External Auditors... reported to the Board that nothing has come to their attention...\" (neutral, fact-based assurance)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board is of the view that the Group’s overall risk management and internal control system is sound and adequate in all material aspects...\" (neutral, supported by Board and external auditor confirmation)\n• Evidence 2: \"External Auditors... have reported to the Board that nothing has come to their attention...\" (objective, third-party validation)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Group operates on an enterprise resource planning system...\" (clear, direct language)\n• Evidence 2: \"The Framework... is reviewed annually...\" (logical structure with specific timelines)"
+    "justification": "• Evidence 1: \"The Framework and the BCM plans developed are reviewed on an annual basis...\" (clear structure with logical progression)\n• Evidence 2: \"The proceeds from the ICP Programme and the IMTN Programme shall be advanced...\" (precise language with specific terms explained in context)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Business Continuity Management... to prepare the Group’s business operations in the event of crisis\" (material risks and preparedness)\n• Evidence 2: \"The Directors... ensure that the financial statements...\" (links governance to financial reporting relevance)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group’s pandemic preparedness was further strengthened...\" (material event impacting operations)\n• Evidence 2: \"Mandated Related Parties... details of the recurrent related party transactions...\" (relevant to investor assessment of governance and conflicts)"
   }
 }

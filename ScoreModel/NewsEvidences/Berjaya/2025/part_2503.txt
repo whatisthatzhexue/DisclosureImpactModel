@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Yong Tai Bhd (YTB) has entered into a conditional share sale agreement to acquire the entire equity stake in Sumberjaya Builders Sdn Bhd for RM15mil.\" (specific transaction details)\n• Evidence 2: \"The Lahad Datu project spans 11.97 acres... estimated GDV of RM70.12mil, projected to deliver a development profit of RM10.80mil.\" (verifiable financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"marks the company’s entry into Sabah’s property market with a steady growth outlook, further diversifying the group’s earnings stream and enhancing future profitability.\" (direct link to strategic direction)\n• Evidence 2: \"undertake two joint-venture projects... offering an estimated GDV of RM106.58mil and projected to deliver a development profit of RM29.78mil.\" (financial implications for long-term value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Lahad Datu project spans 11.97 acres... estimated GDV of RM70.12mil, projected to deliver a development profit of RM10.80mil.\" (specific project details)\n• Evidence 2: \"The Tawau project... includes both commercial and residential units, offering an estimated GDV of RM106.58mil and projected to deliver a development profit of RM29.78mil.\" (comprehensive coverage of acquisition impacts)"
+  }
+}

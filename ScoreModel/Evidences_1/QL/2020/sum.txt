@@ -1,0 +1,95 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We have established and made public on our website, an Anti-Bribery Policy (ABP) and also updated our Whistle-Blowing Policy.\" (Discloses governance mechanisms)\n• Evidence 2: \"QL continues its annual reviews of practices with reference to the Malaysian Code on Corporate Governance 2017.\" (Supports claims with specific regulatory references)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our corporate governance is underscored by our commitment to our mission of providing nourishing products from agro resources...\" (Clear connection between governance and business purpose)\n• Evidence 2: \"The Group has made some changes to improve on our safety performance reporting.\" (Precise language about operational improvements)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FY2020 saw our Senior Independent Non-Executive Director... retiring after serving QL faithfully...\" (Provides governance structure details relevant to investors)\n• Evidence 2: \"The Group has made some changes to improve on our safety performance reporting...\" (Includes operational risk management relevant to decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company applied/adopted 32 out of the total of 36 recommended practices in the MCCG 2017.\"\n• Evidence 2: \"The Board has upon recommendation of the Nominating Committee extended Mr Tan Bun Poo, Robert’s term as a Director... due to the Movement Control Order arising from COVID 19.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The members of the Board and Board Committees have discharged their roles... as set out in the table below:\" (clear structure with table)\n• Evidence 2: \"The Nominating Committee met five times during the financial year...\" (precise description of activities)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"This statement is to be read together with the CG Report...\" (directly links to governance disclosures)\n• Evidence 2: \"The Board through its Nominating Committee conducts an annual review... boardroom diversity\" (provides material governance insights for investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Key Amendments to the Main Market Listing Requirements of Bursa Malaysia Securities Berhad relating to Continuing Disclosure Obligations\" (specific factual disclosure)\n• Evidence 2: \"The Board reviewed and approved the Board Remuneration Policy\" (neutral, objective statement)"
+  },
+  "Understandability": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Key Amendments to the Main Market Listing Requirements...\" (repeated multiple times with minimal contextual explanation)\n• Evidence 2: \"Raising Defences: Section 17A, MACC Act\" (obscure phrasing without clear explanation of relevance)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The remuneration packages of the Executive Directors...\" (directly relevant to investor concerns about executive compensation)\n• Evidence 2: \"Further details on the activities of the Nominating Committee are set out in the CG Report\" (indicates governance structure but lacks specific material event disclosure)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group remains committed in ensuring that we attract, retain and develop the best talents in the industry.\" (neutral statement without overstatement)\n• Evidence 2: \"The Board is of the view that the risk management and internal control systems... are adequate and effective.\" (acknowledges system adequacy without excessive optimism)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Remuneration breakdown of individual Directors... is set out below:\" (clear structure with tabular data)\n• Evidence 2: \"Benefits-in-kind include car, private mileage, petrol and driver...\" (precise definition of terms)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Company recognises the importance of communicating with its shareholders...\" (directly addresses stakeholder engagement)\n• Evidence 2: \"The Board fulfils its responsibilities in the risk governance...\" (includes risk management information relevant to investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Company meets the requirement of Paragraph 15.09 (1)(c)(i) of the Listing Requirements.'\n• Evidence 2: 'Internal controls can only provide reasonable and not absolute assurance against material misstatement or loss.'"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Audit Committee held two -2 meetings with the External Auditors without the presence of the executive board members and management.'\n• Evidence 2: 'The internal audit function provided the AC independent and objective reports on the state of internal control...'"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Company is exploring on leveraging technology to enhance the quality of engagement with its shareholders...' (forward-looking information)\n• Evidence 2: 'Reviewed and recommended the Statement on Corporate Governance... to the Board for approval.' (corporate governance details)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group’s ERM framework is based on the internationally recognised COSO (Committee of Sponsoring Organizations)\" (objective standard cited).\n• Evidence 2: \"The priority is to ensure the health and safety of our employees and customers\" (discloses risk mitigation focus without overstatement)."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Risk factors are incorporated into the risk register and individually rated as High, Significant, Moderate or Low risk\" (clear categorization).\n• Evidence 2: \"The RMU undertakes the following responsibilities: • To communicate board vision...\" (structured bullet points with precise language)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group is exposed to various financial risks relating to foreign currency exchanges and credit risks\" (material risk disclosure).\n• Evidence 2: \"The members of the Risk Management Committee... provide guidance to the business unit’s risk appetite\" (corporate governance structure relevant to investors)."
+  }
+}

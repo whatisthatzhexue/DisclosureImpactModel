@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"BFood achieved a revenue of RM750.70 million for this financial year, alongside a pre-tax loss of RM89.06 million\" (specific figures provided)\n• Evidence 2: \"the temporary challenges were primarily related to the global sentiment surrounding the Middle East conflict and a one-time loss from the sale of our equity in Jollibean Foods Pte Ltd.\" (neutral explanation of external factors)"
+    "justification": "• Evidence 1: \"the global sentiment surrounding the Middle East conflict\" (discloses external risks)\n• Evidence 2: \"one-time loss from the sale of our equity in Jollibean Foods Pte Ltd.\" (specific factual explanation for performance change)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"revenue of RM750.70 million\" (precise numerical data)\n• Evidence 2: \"the Group remains resilient and focused on turning these setbacks into future opportunities\" (clear, direct language)"
+    "score": 7,
+    "justification": "• Evidence 1: \"RM750.70 million\" and \"RM89.06 million\" (clear numerical presentation)\n• Evidence 2: \"temporary challenges\" and \"one-time loss\" (direct language with specific terminology for financial events)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"they are largely due to external factors\" (explains performance changes)\n• Evidence 2: \"the Group remains resilient...future opportunities\" (forward-looking information about strategic response)"
+    "justification": "• Evidence 1: \"these figures reflect a decrease...due to external factors\" (explains performance change)\n• Evidence 2: \"global sentiment...Middle East conflict\" (identifies material risks affecting financial results)"
   }
 }

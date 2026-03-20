@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'QL continues to be a leading egg producer in Malaysia, laying a total of 5.7 million eggs per day across all ILF operations in Malaysia, Indonesia and Vietnam' (specific factual claims)\n• Evidence 2: 'outputted 22 million broilers' (quantifiable production data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Our established network, wide customer base...best practices and high standards in farm management' (clear structure with logical progression)\n• Evidence 2: 'Eggs, DOC and broiler production activities are undertaken at various farm sites' (precise description of operations)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'QL is ensuring as much weightage is given to build the ‘QL Eggs’ brand' (strategic focus relevant to investors)\n• Evidence 2: 'Across board worldwide, eggs can be found in many households...' (market context but lacks direct financial/operational risk disclosures)"
+  }
+}

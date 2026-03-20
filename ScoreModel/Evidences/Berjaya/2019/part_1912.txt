@@ -6,10 +6,10 @@
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The sustainability report of each operating company is provided to the Sustainability Working Committee for review\" (clear process description).\n• Evidence 2: \"Note: EES denotes Economic, Environmental and Social\" (explains acronym)."
+    "justification": "• Evidence 1: \"Sustainability Governance Structure\" section provides clear structural organization.\n• Evidence 2: \"Note: EES denotes Economic, Environmental and Social\" explicitly defines terminology."
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"For more detailed information on the Company’s Corporate Governance Overview Statement and Statement on Risk Management... please refer to pages 28 to 42\" (links to relevant sections).\n• Evidence 2: \"Moving forward, the Company strives to improve its monitoring process...\" (forward-looking statement with relevance to investors)."
+    "justification": "• Evidence 1: \"For more detailed information...please refer to pages 28 to 42...\" directs to relevant governance information.\n• Evidence 2: \"For more information about the Group’s financial performance...\" links to financial performance details."
   }
 }

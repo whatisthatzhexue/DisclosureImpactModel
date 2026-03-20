@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The government did not issue any directive for an investigation...\" (direct quote from Communication Minister Fahmi Fadzil)\n• Evidence 2: \"The Unity Government spokesman said Berjaya Corporation Bhd...\" (credible source cited as official statement)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Berjaya Corp reportedly lodged a police report...\" (direct mention of company actions impacting business operations)\n• Evidence 2: \"Anwar, Berjaya Corp, and Genting Malaysia...\" (links to corporate reputational risks)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"On April 26, Berjaya Corp reportedly lodged a police report...\" (provides timeline and context)\n• Evidence 2: \"denied the report... urged that action be taken...\" (includes stakeholder responses but lacks broader industry context)"
+  }
+}

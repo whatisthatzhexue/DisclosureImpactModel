@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This is part of Rapid Bus’ efforts to provide more flexible and convenient first-mile, last-mile travel solutions.\" (quote from Amir Hamdan, cited via Bernama)\n• Evidence 2: \"The zones available for booking via the Rapid On-Demand app include...\" (specific operational details with verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article focuses on public transportation expansion, which is unrelated to Berjaya Food Berhad’s food and beverage operations.\n• Evidence 2: No mention of financial implications, market impact, or strategic initiatives tied to Berjaya Food Berhad."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The service now operates in 60 zones using 162 vans\" (quantitative context about service scale).\n• Evidence 2: Details on payment methods and app availability, but lacks analysis of stakeholder impact or long-term strategic significance."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Sentral-REIT posted lower 1Q25 net profit and revenue of RM19.61mil and RM47.46mil respectively. This was down from RM19.9mil and RM49.69mil in 1Q24, respectively.\"\n• Evidence 2: \"CIMB Securities said the results came in line with its expectations, meeting 24% of its and 23% of consensus’ full-year forecasts.\""
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"It also planned to diversify its portfolio by reducing reliance on office assets and expanding into retail, healthcare, education and industrial segments within Klang Valley in the medium term.\"\n• Evidence 2: \"While this strategy could help mitigate softness in the office sector, heightened competition for quality assets in the Klang Valley may pressure asset yields and the REIT’s elevated gearing level.\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The REITs net property income also dipped by 4% to RM36.47mil during the quarter.\"\n• Evidence 2: \"The influx of new supply in the office market may continue to hinder Sentral- REIT’s ability to improve its occupancy rate,\" it added."
+  }
+}

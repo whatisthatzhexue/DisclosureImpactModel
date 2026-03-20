@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We opened an investigation paper and arrested a 26-year-old woman on the same day.\" (verifiable police action)\n• Evidence 2: \"The suspect has been remanded for six days to assist in investigations.\" (official legal process)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad\" is not mentioned in the text.\n• Evidence 2: The article contains no information about business operations, financial performance, or market position related to the company."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The victim has been identified as a 26-year-old freelance photographer\" (provides basic context)\n• Evidence 2: \"Checks showed the suspect is a former medical student who works as a part-time model\" (basic background information)"
+  }
+}

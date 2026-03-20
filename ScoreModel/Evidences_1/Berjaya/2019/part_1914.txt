@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"93% of Starbucks stores diverted 248,286 kg of used coffee grounds from the landfill\" (specific factual data)\n• Evidence 2: \"Jollibean Foods has switched 5 stores to a new electrical supplier that uses renewable resources\" (verifiable action)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Grounds for Your Garden programme provides...complimentary 1kg bags of soil-enriching used coffee grounds\" (clear program description)\n• Evidence 2: \"Jollibean stores are now enjoying 18% less electricity consumption...\" (precise numerical comparison)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood acknowledges the importance of social sustainability...community development\" (relevant to investor risk assessment)\n• Evidence 2: \"Supplier Audits based on Global Food Safety Initiative (GFSI) standards\" (material to operational compliance)"
+  }
+}

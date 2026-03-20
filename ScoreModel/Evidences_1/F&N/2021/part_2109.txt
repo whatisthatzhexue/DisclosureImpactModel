@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"97% of packaging is recyclable\" (specific fact)\n• Evidence 2: \"Over 91% solid waste reused, recycled or recovered\" (quantifiable data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our focus is on designing for the environment\" (clear, direct language)\n• Evidence 2: \"Incorporating circular economy principles\" (structured with logical flow)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Governments around the world are introducing environmental policies\" (forward-looking info for investors)\n• Evidence 2: \"Biodiversity loss and ecosystem degradation\" (material risks to supply chain operations)"
+  }
+}

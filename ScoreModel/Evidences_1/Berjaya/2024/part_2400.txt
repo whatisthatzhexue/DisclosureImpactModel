@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood completed the acquisition of 11,500,000 ordinary shares... for a cash consideration of RM71.7 million.\" (specific factual disclosure)\n• Evidence 2: \"The said disposal was completed on 1 November 2023.\" (neutral, objective timeline reporting)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood completed its Rights Issue of 115,081,760 new shares... listed on the Main Market...\" (clear structure with dates and actions)\n• Evidence 2: \"Ser Vegano is operating a Latin-inspired... vegan restaurant...\" (precise description of business operations)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood completed the acquisition of 11,500,000 ordinary shares... representing the remaining 50% equity interest...\" (material event disclosure)\n• Evidence 2: \"The said disposal was completed on 1 August 2024.\" (transaction completion date, but lacks context on strategic rationale)"
+  }
+}

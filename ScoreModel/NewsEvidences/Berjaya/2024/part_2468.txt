@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We knew that the soil needed to be watered well but did not anticipate the threat from foraging birds,\" said Abd Hamid. (Direct quote with specific detail)\n• Evidence 2: \"With the right conditions, padi can be planted anywhere in the country,\" said Prof Mohd Rafii. (Expert opinion with verifiable claim)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text focuses on MPSepang's urban farm initiative, which is not directly related to Berjaya Food Berhad's business operations. (No direct company mention)\n• Evidence 2: No financial metrics, market impact, or strategic alignment with Berjaya's business model are discussed. (Lack of stakeholder significance)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Detailed description of the padi cultivation process, challenges (bird threats, soil preparation), and future expansion plans (1,600sq ft field). (Comprehensive coverage)\n• Evidence 2: Context about similar projects (Taman Botani Negara Shah Alam) and educational objectives for communities. (Background and purpose explanation)"
+  }
+}

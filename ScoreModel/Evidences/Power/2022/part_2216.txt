@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: 'The Board strives to ensure that a balanced, clear and meaningful assessment... are made in disclosures to shareholders, investors and the regulatory authorities via timely release of quarterly reports, annual reports and timely announcements on material information.'\n• Evidence 2: 'All financial statements... were reviewed by the Audit Committee and thereafter recommended to the Board for approval to ensure the accuracy, adequacy and completeness of information, and compliance with relevant accounting standards and regulations.'"
+    "justification": "• Evidence 1: \"All financial statements... were reviewed by the Audit Committee and thereafter recommended to the Board for approval to ensure the accuracy, adequacy and completeness of information...\" \n• Evidence 2: \"The Board observes all disclosure requirements as laid down by the MMLR and Capital Markets and Services Act 2007...\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'The Board, through the review by the Audit Committee and in consultation with the Management and the External Auditors, presents fair and meaningful assessments of the Group’s financial performance and position.'\n• Evidence 2: 'The Annual Report and the quarterly interim financial reports are the main communication tools between the Company and its stakeholders.'"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board strives to ensure that a balanced, clear and meaningful assessment...\" \n• Evidence 2: \"The Annual Report and the quarterly interim financial reports are the main communication tools...\""
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The Board observes all disclosure requirements as laid down by the MMLR and Capital Markets and Services Act 2007 in order to have all material events and information disseminated publicly and transparently on a timely basis.'\n• Evidence 2: 'The Company’s general meetings serve as one of the key avenues of communication and the principal forum for dialogue with the shareholders.'"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board has adopted such practice for the disclosure of material information...\" \n• Evidence 2: \"The Company’s general meetings serve as one of the key avenues of communication...\""
   }
 }

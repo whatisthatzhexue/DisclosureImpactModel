@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee members also underwent training by professionals during the financial year to update themselves on the financial reporting and compliance requirements.\"\n• Evidence 2: \"Following the review with the External Auditors and the Management... the Audit Committee recommended for the Board’s approval and adoption of the audited statutory financial statements...\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The audit plan presented included information on the engagement team, audit scope, materiality, audit methodology and timing of audit...\"\n• Evidence 2: \"The Audit Committee was kept informed of the application and impact of new and revised accounting standards by the External Auditors...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee reviewed and approved the Non-Assurance Services (NAS) pre-approval policy...\" \n• Evidence 2: \"The audit findings on the significant risk areas, deficiencies in internal control (if any) and status of the audit were presented to the Audit Committee.\""
+  }
+}

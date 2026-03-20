@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The performance of the domestic business segments...improvement in tourism activities.\" (quotes company's own statements)\n• Evidence 2: \"In the third quarter ended March 31...RM29.3mil...RM4.05mil\" (specific verifiable financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The closure of legal number forecast operator...illegal operators\" (connects to operational risks impacting strategic business segments)\n• Evidence 2: \"monitor the prevailing global and local political development...business operations\" (links to strategic risk management)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue grew to RM1.95bil...additional draw conducted...42 draws versus 41 draws\" (specific quantitative context for revenue growth)\n• Evidence 2: \"nine-month net loss of RM10.3mil...revenue grew 5.85%...RM5.6bil\" (provides multi-period context for performance analysis)"
+  }
+}

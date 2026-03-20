@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Falsehoods are costly. Journalistic integrity demands rigorous fact-checking and transparency.\" (Datuk Yong Soo Heong)\n• Evidence 2: \"AI should be seen as a tool for empowerment, not a replacement for human creativity.\" (Prof Dr Manjit Singh Sidhu)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad, its operations, financials, or strategic direction.\n• Evidence 2: The article focuses on AI in journalism and media ethics, which is unrelated to the company's business context."
+  },
+  "Depth": {
+    "score": 1,
+    "justification": "• Evidence 1: The text provides detailed analysis of AI's impact on journalism but lacks any connection to Berjaya Food Berhad's activities.\n• Evidence 2: No data, financial metrics, or company-specific context is included to evaluate the company's strategic relevance."
+  }
+}

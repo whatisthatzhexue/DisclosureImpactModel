@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The fate of prawn aquaculture units in Badong and Pekan were similar to that of the Kudat unit, having been affected by EMS and EHP in FY2017 and FY2018. The measures taken to overcome these diseases have resulted in improvement in FY2019 and is expected to stabilise further in the coming year.\"\n• Evidence 2: \"QL is setting aside approximately RM7 million to explore, develop and install relevant technologies at our facilities to produce higher quality fishmeal that meets higher international standard for aquaculture feed.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Production Capacity: 25,000 metric tonnes a year for chilled surimi plant / 35,000 metric tonnes per annum for frozen products\" (clear numerical structure).\n• Evidence 2: \"Eight coastal vessels will be disposed off in Sabah; two were already sold as end of FY2019.\" (precise, direct language with specific figures)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We anticipate prices especially for fishmeal, surimi and surimi-based products to remain stable in FY2020 due to the favourable Ringgit and regulated fish catch in South America and North Pacific.\"\n• Evidence 2: \"Export sales of surimi-based products to North America remains strong... we are looking towards increasing the supply capacity in Kota Belud.\" (forward-looking info and market relevance)."
+  }
+}

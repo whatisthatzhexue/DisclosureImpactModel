@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"This festive cheer programme under the ‘Sesama Mara’ initiative reflects Air Selangor’s commitment to supporting the underprivileged,\" said corporate communications head Elina Baseri.\n• Evidence 2: A total of 6,775 Box of Hope packages have been distributed since June 2020, with specific locations and a digital contribution link provided."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article mentions community initiatives but does not connect them to the company’s strategic direction, competitive position, or long-term value creation.\n• Evidence 2: No financial implications, market impact, or stakeholder significance related to the initiatives are discussed."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The text provides specific details about the Box of Hope program, distribution numbers, and locations, offering context about the initiative’s scope.\n• Evidence 2: While it describes activities like volunteer efforts and festive events, it lacks broader analysis or background on the company’s CSR strategy."
+  }
+}

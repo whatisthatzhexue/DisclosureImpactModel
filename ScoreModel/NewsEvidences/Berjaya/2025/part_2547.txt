@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites Bernama as the source, a credible Malaysian news agency.\n• Evidence 2: It provides verifiable data (e.g., 32,030 eligible voters, 251 candidates) and factual details about the election process without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or its operations, financials, or strategic direction.\n• Evidence 2: The content focuses exclusively on political party internal elections, which are unrelated to the company's business context or stakeholder information needs."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides comprehensive details about the election process, including voting locations, candidate numbers, and timelines.\n• Evidence 2: It includes specific data (e.g., 22,936 online voters, 12 vice-president candidates) and contextualizes the event within the party's structure, though it lacks analysis of broader implications for stakeholders."
+  }
+}

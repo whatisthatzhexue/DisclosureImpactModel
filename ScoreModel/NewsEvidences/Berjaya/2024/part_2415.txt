@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TNB’s electricity sales already hit a record in the first quarter of 2024 at 31,899 gigawatt hours, driven by two new data centres...\" (verifiable data)\n• Evidence 2: \"Kenanga Research... raised the target price by 16%\" (credible source cited with specific details)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TNB guided for electricity demand growth of 2.5% to 3% in 2024... backed by a strong pipeline of data centre projects\" (directly ties to strategic direction)\n• Evidence 2: \"the tariff negotiated with customers will likely be more favourable... improving the utilisation of the grid\" (connects to long-term value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"nine data centre projects with a total energy demand of 700MW... two with 535MW energy demand were already commissioned\" (specific project details)\n• Evidence 2: \"the estimated capacity payment loss is still about RM400mil... working closely with the insurer on the insurance claims\" (contextual background on operational risks)"
+  }
+}

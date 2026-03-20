@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: 'Group Profit Before Tax (RM million) FY2016 333.8 FY2015 353.7 FY2017 442.9' (specific financial data)\n• Evidence 2: 'excluding the cost of restructuring and other one-off items, operating profit was marginally lower' (disclosure of non-recurring costs)"
+    "score": 9,
+    "justification": "• Evidence 1: 'Group Profit Before Tax (RM million) FY2016 333.8 FY2017 353.7 442.9' (specific financial figures)\n• Evidence 2: 'Foreign currency exchange exposure Commodity prices' (disclosure of risks and uncertainties)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: 'Dividend Payout Ratio 88.3 sen 57.5 sen per share 65%' (confusing formatting with missing context)\n• Evidence 2: 'TEAPOT doubled market share in sweetened beverage creamer category' (clear statement but lacks contextual explanation)"
+    "score": 7,
+    "justification": "• Evidence 1: 'Management Discussion & Analysis' section provides structured breakdown of financial performance (clear logical flow)\n• Evidence 2: 'Corporate Governance' section outlines board structure and committees (precise but dense technical terminology)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: 'FY2017 was defined by various macro-economic factors, intense price competition and higher commodity costs' (explains performance drivers)\n• Evidence 2: 'Board of Directors... Risk Management Committee' (includes corporate governance structure)"
+    "justification": "• Evidence 1: 'F&NHB's transformation... enabled the Group to absorb most of the commodity price increases' (explains performance changes)\n• Evidence 2: 'Risk Management Committee... to identify and rectify significant deficiencies' (includes risk management information)"
   }
 }

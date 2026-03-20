@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The RM129mil project will be built next to the current headquarters...\" (specific financial and spatial data)\n• Evidence 2: \"The new tower will be able to accommodate up to 1,500 staff members comfortably.\" (verifiable capacity claim with context)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The article contains no mention of Berjaya Food Berhad or its operations, financials, or strategic initiatives.\" (complete irrelevance to the company context)\n• Evidence 2: \"No connection to the company's business performance, market position, or stakeholder interests is provided.\" (lack of strategic linkage)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The building will incorporate green design to lower energy costs...\" (detailed technical specifications)\n• Evidence 2: \"Carparks will be equipped with EV chargers while only LED lighting will be used.\" (specific sustainability features and infrastructure details)"
+  }
+}

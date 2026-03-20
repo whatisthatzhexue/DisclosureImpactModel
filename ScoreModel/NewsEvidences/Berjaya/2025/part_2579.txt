@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites credible institutions (University of Cyberjaya, SMR HR Group, Malaysian Indian Skills Initiative) and includes verifiable details like dates (March 24-28) and participant numbers (37 participants).\n• Evidence 2: Quotes from officials (Mohd Faiz Alias, Datuk CM Vignaesvaran) and industry expert Gautami are presented without bias, with balanced reporting on program outcomes and industry needs."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no direct mention of Berjaya Food Berhad or its strategic priorities, business performance, or market impact.\n• Evidence 2: The focus is entirely on a film training program, unrelated to the food and beverage sector or investor concerns for a publicly traded company."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of the program’s structure, goals, and outcomes, including participant testimonials and quotes from organizers.\n• Evidence 2: It includes context about the gap in acting training in Malaysia and future plans for similar programs, though it lacks financial data or stakeholder-specific insights relevant to Berjaya Food."
+  }
+}

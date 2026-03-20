@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group remains committed in ensuring that we attract, retain and develop the best talents in the industry.\" (neutral statement without overstatement)\n• Evidence 2: \"The Board is of the view that the risk management and internal control systems... are adequate and effective.\" (acknowledges system adequacy without excessive optimism)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Remuneration breakdown of individual Directors... is set out below:\" (clear structure with tabular data)\n• Evidence 2: \"Benefits-in-kind include car, private mileage, petrol and driver...\" (precise definition of terms)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Company recognises the importance of communicating with its shareholders...\" (directly addresses stakeholder engagement)\n• Evidence 2: \"The Board fulfils its responsibilities in the risk governance...\" (includes risk management information relevant to investors)"
+  }
+}

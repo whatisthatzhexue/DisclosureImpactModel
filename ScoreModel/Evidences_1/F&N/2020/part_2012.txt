@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N ICE MOUNTAIN sparked greater sales with the introduction of a carbonated range in November 2019.\" (specific factual claim)\n• Evidence 2: \"No. 1* in Total Malaysia in Carbonated Soft Drink category\" (supported by Nielsen data citation)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N ICE MOUNTAIN is now available in an eco-friendly packaging option, made of recyclable paper featuring caps made from sugar cane.\" (precise, direct description)\n• Evidence 2: \"The easy-grip packaging, which is convenient for consumers of all ages...\" (clear structure with specific details)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N Ready-to-drink Teh Tarik... can be enjoyed anytime, anywhere.\" (forward-looking convenience claim)\n• Evidence 2: \"No. 1* in Total Malaysia in Evaporated Milk category\" (market position relevant to investors)"
+  }
+}

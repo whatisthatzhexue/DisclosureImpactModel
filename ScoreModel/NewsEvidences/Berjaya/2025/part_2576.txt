@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FY24 optical sales increased by 13.8% year-on-year (y-o-y) to RM240.8mil...\" (verifiable financial data)\n• Evidence 2: \"Last week, the Malaysian Medical Device Authority released a statement banning...\" (citable regulatory source)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"management targets opening 10 wholly-owned outlets this year...\" (direct strategic plan)\n• Evidence 2: \"the sales of contact lenses...may increase...\" (impact on competitive positioning)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"FY24 optical sales...RM212.7mil and RM17.9mil...\" (detailed financial breakdown)\n• Evidence 2: \"the prevalence of myopia among Malaysians and an ageing population...\" (market context and demographic analysis)"
+  }
+}

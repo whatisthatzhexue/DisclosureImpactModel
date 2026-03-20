@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TA Research noted that this was Binastra’s first construction contract secured for the financial year ending Jan 31, 2026 (FY26)\" (verifiable data point).\n• Evidence 2: \"We maintain our ‘buy’ call on the stock with an unchanged target price of RM2.25\" (citable source and specific financial metric)."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"strengthen its foothold in the construction industry, particularly in high-value segments such as data centres\" (direct link to strategic positioning).\n• Evidence 2: \"strategic positioning as a key beneficiary of the property sector’s growth momentum\" (connects to long-term value creation)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The project, located in Cyberjaya, Selangor, entailed the construction of a data centre facility... with phased completion dates spanning from June 15, 2025 to Dec 15, 2025\" (detailed project context).\n• Evidence 2: \"estimated the company’s unbilled order book at approximately RM3.7bil, equivalent to 8.7 times its FY24 revenue\" (quantitative analysis and comparative data)."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks continued to raise funds throughout this year for communities in need... collected RM8,300 in FY2022.\" (specific financial figures)\n• Evidence 2: \"BStarbucks collaborated with HOPE Worldwide... 205 families benefited...\" (third-party verification through collaboration details)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The challenging COVID-19 pandemic placed significant pressure... sponsored more than 4,000 cups of coffee\" (clear cause-effect explanation)\n• Evidence 2: \"WE LOVE YOU BOX... donated RM11,800 worth of Joybean products...\" (precise, structured information delivery)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Responding to the White Flag Movement... helped families in desperate need\" (corporate social responsibility relevant to governance)\n• Evidence 2: \"BStarbucks partnered with other organisations on its flood relief movement...\" (material events impacting stakeholder relations)"
+  }
+}

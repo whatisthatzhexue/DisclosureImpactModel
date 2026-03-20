@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BASIC EARNINGS PER SHARE (sen) +1.5% +32.7% 57.5 sen per share\" (specific factual data presented neutrally)\n• Evidence 2: No overstatement or one-sided praise detected in the disclosure"
+    "score": 5,
+    "justification": "• Evidence 1: \"+1.5% +32.7%\" (specific numerical data but lacks context for performance changes)\n• Evidence 2: No disclosure of risks, uncertainties, or supporting facts for the earnings figures"
   },
   "Understandability": {
     "score": 6,
-    "justification": "• Evidence 1: \"57.5 sen per share\" (precise numerical information)\n• Evidence 2: \"DIVIDEND FOR THE YEAR\" (clear label, though formatting could improve readability)"
+    "justification": "• Evidence 1: \"57.5 sen per share\" (clear numerical value but 'sen' is ambiguous without currency context)\n• Evidence 2: Minimal formatting with no structural hierarchy for complex financial data"
   },
   "Relevance": {
-    "score": 4,
-    "justification": "• Evidence 1: \"DIVIDEND FOR THE YEAR\" (material financial information for investors)\n• Evidence 2: No explanation of performance changes, forward-looking information, or risk disclosures present"
+    "score": 3,
+    "justification": "• Evidence 1: No explanation for the 32.7% earnings increase or dividend changes\n• Evidence 2: Missing forward-looking information, risks, or material events critical for investor decision-making"
   }
 }

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'During the financial year ended 30 June 2021, 3,340 customers brought their KRR i.care Box... lower compared to FYE 2020 due to dine-in restrictions from the COVID-19 pandemic.' (specific fact with context)\n• Evidence 2: 'All proceeds raised from the sale of recyclables went towards Tzu Chi Foundation Malaysia’s “Kita1Keluarga” initiative...' (neutral, factual disclosure)"
+    "score": 9,
+    "justification": "• Evidence 1: \"During the financial year ended 30 June 2021, 3,340 customers brought their KRR i.care Box... lower compared to FYE 2020 due to dine-in restrictions from the COVID-19 pandemic.\" (specific facts and risk disclosure)\n• Evidence 2: \"All proceeds raised from the sale of recyclables went towards Tzu Chi Foundation Malaysia’s...\" (neutral, objective disclosure of financial allocation)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: 'The reusable ‘i.care’ range is also designed to support healthy eating habits through portion control guidance.' (clear, direct statement)\n• Evidence 2: '70% of Starbucks stores have switched to LED lightings.' (precise data but lacks contextual explanation of impact)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The reusable ‘i.care’ range is also designed to support healthy eating habits through portion control guidance.\" (clear, direct explanation of product purpose)\n• Evidence 2: \"70% of Starbucks stores have switched to LED lightings.\" (precise, structured data presentation)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: 'FYE 2021 : 3,340 • FYE 2020 : 20,606' (explains performance change with context)\n• Evidence 2: 'BRoasters and Jollibean Foods have replaced the use of plastic bags with biodegradable bags...' (forward-looking initiatives relevant to investors)"
+    "score": 8,
+    "justification": "• Evidence 1: \"FYE 2021 : 3,340 • FYE 2020 : 20,606\" (explains performance change due to pandemic impact)\n• Evidence 2: \"BFood strives towards a more efficient sustainable management strategy... to reduce its carbon footprint.\" (material event relevant to investor decision-making)"
   }
 }

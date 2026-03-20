@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Failure to establish transparent and robust governance represents a risk to our reputation\"\n• Evidence 2: \"Unpreparedness towards adherence to new regulations is a risk\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our material topics are closely aligned with our sustainability strategy\"\n• Evidence 2: \"Material Matters\" section with numbered categories and clear risk/opportunity distinctions"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Upon the conclusion of our 2025 goals, we will undertake a comprehensive materiality assessment\"\n• Evidence 2: \"Supply Chain Stewardship\" section detailing ESG risks and regulatory compliance implications"
+  }
+}

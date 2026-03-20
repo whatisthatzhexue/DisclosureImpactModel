@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Nominating Committee conducted evaluations and assessments... based on the pre-determined processes and evaluation/review criteria.\"\n• Evidence 2: \"The Remuneration Committee is guided by formal Terms of Reference approved by the Board\""
+    "score": 7,
+    "justification": "• Evidence 1: \"The Nominating Committee conducted evaluations and assessments...based on the pre-determined processes and evaluation/review criteria.\" (objective process description)\n• Evidence 2: \"Please refer to Practice 5.1...for details on the Nominating Committee...\" (transparent reference to supporting documentation)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Nominating Committee members and their attendance records for meetings... are as follows:\"\n• Evidence 2: \"The Remuneration Committee was formed to assist the Board in determining... remuneration policy and remuneration package\""
+    "score": 8,
+    "justification": "• Evidence 1: \"The Remuneration Committee was formed to assist the Board in determining...\" (clear purpose statement)\n• Evidence 2: \"The Terms of Reference...is available on the company’s website...\" (direct information location)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Remuneration Committee was formed to assist the Board in determining... attract, retain and motivate the Directors.\"\n• Evidence 2: \"Further disclosure... can be found in Practice 7.1 and 7.2 of the CG Report\""
+    "score": 6,
+    "justification": "• Evidence 1: \"The Remuneration Committee...to attract, retain and motivate the Directors\" (directly relevant to investor concerns about director compensation)\n• Evidence 2: \"Further disclosure...can be found in Practice 7.1 and 7.2...\" (guidance for accessing material information)"
   }
 }

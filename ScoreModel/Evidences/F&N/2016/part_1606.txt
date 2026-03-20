@@ -1,15 +1,6 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 0,
-    "justification": "• Evidence 1: No disclosure of risks, challenges, or uncertainties\n• Evidence 2: No specific facts or objective information provided"
-  },
-  "Understandability": {
-    "score": 3,
-    "justification": "• Evidence 1: Clear structure with section titles and page numbers\n• Evidence 2: No substantive content to evaluate clarity or precision"
-  },
-  "Relevance": {
-    "score": 0,
-    "justification": "• Evidence 1: No forward-looking information or explanations for performance changes\n• Evidence 2: Section titles lack substantive content for investor decision-making"
-  }
+  "Reliability": {"score": 0, "justification": "• Evidence 1: No specific facts or disclosures about risks, challenges, or uncertainties are provided in the text.\n• Evidence 2: The text only contains section titles without substantive content to support reliability claims."},
+  "Understandability": {"score": 3, "justification": "• Evidence 1: The text has a clear structure with section titles (e.g., 'Statement on Risk Management and Internal Control'), which provides basic organization.\n• Evidence 2: The lack of detailed content makes it difficult to assess clarity or precision of language."},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: The text mentions sections relevant to investors (e.g., corporate governance, risk management), but no actual content is provided to explain performance changes, risks, or forward-looking information.\n• Evidence 2: The absence of material events or detailed disclosures renders the information irrelevant for decision-making."}
 }

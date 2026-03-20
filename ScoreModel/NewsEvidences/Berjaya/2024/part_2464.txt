@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: Bloomberg cited sources that Tan is in talks with banks about financing for a potential deal.\n• Evidence 2: The article provides verifiable financial data (e.g., stock prices, trading volumes) and market indices with no apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Berjaya Food's stock movement and the potential privatization news, which relates to strategic developments.\n• Evidence 2: However, it lacks analysis of how this news impacts the company's long-term strategy or competitive position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides detailed market data (e.g., FBM KLCI decline, trading volumes, stock price movements) and contextualizes the market dip around Raya holiday.\n• Evidence 2: It includes specific examples of affected stocks but does not analyze broader market trends or stakeholder implications beyond immediate price changes."
+  }
+}

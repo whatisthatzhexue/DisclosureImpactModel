@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"reduced energy consumption by 20%\" (specific fact)\n• Evidence 2: \"diverted 237,919 kg of used coffee grounds from the landfill\" (quantifiable outcome)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"reduced energy consumption by 20%\" (precise metric)\n• Evidence 2: \"13.6% reduction in paper bags\" (clear percentage change)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"initiatives to save energy in its head office\" (operational detail)\n• Evidence 2: \"Grounds For Your Garden programme\" (community impact initiative)"
+  }
+}

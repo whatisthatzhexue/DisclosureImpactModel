@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The gas pipeline fire... left a significant aftermath, with a 9.8m-deep crater formed at the site, says Asst Comm Wan Azlan Wan Mamat.\" (quotes official statements)\n• Evidence 2: \"The police also confirmed that 235 premises and 399 vehicles were affected...\" (provides verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The article contains no mention of Berjaya Food Berhad or any direct connection to the company's operations, financials, or strategic direction.\" (no company reference)\n• Evidence 2: \"The incident relates to infrastructure and safety, which has no direct link to the food and beverage industry's strategic priorities.\" (no relevance to company context)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The article provides comprehensive details about the incident's scale (9.8m-deep crater, 21m x 24m), victim distribution (13 in red zone, 55 in yellow zone), and affected properties (235 premises, 399 vehicles).\" (detailed data)\n• Evidence 2: \"Includes context about the development project's legal status and calls for public evidence, adding background to the incident's broader implications.\" (contextual depth)"
+  }
+}

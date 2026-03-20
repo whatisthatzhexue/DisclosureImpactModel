@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, ARREIT said the proposed disposal is in line with its investment objectives...\" (verifiable source cited)\n• Evidence 2: \"The manager believes that after almost eight years...\" (direct quote from official statement)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"re-balance its portfolio towards new resilient and sustainable assets\" (direct link to strategic direction)\n• Evidence 2: \"leverage on the best and highest use...redeploy the capital\" (connects to capital allocation strategy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"RM42.5mil\" (specific financial detail)\n• Evidence 2: \"typical office market that is currently in over supply\" (market context provided)"
+  }
+}

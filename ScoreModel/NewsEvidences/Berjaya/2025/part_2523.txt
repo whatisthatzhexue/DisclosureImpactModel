@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Beyond financial support, nurses working at our facilities will benefit from clear career progression pathways.\" (SHG president)\n• Evidence 2: \"Founded in 2005, UoC offers more than 50 programmes...\" (UoC vice-president)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"As part of its expansion plans, SHG is building new tertiary hospitals...\" (Expansion strategy)\n• Evidence 2: \"It will also help in tackling staff shortages...\" (Alignment with healthcare industry needs)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"By 2030, its facilities will offer a combined capacity of 3,500 beds...\" (Quantifiable data)\n• Evidence 2: \"SHG currently operates 10 healthcare facilities...\" (Comprehensive operational context)"
+  }
+}

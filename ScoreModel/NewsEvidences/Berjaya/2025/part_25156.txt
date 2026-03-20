@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"What began as a pilot project with one 0.01acre lot early last year has expanded to seven lots, totalling 0.07acres.\" (specific, verifiable data)\n• Evidence 2: \"Each cycle costs around RM10,000, mainly for seeds and fertilisers.\" (quantifiable financial detail)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The article contains no mention of Berjaya Food Berhad or its operations, focusing instead on MPSepang's padi project.\" (no direct company reference)\n• Evidence 2: \"The project's tourism potential is discussed, but no connection to Berjaya Food's strategic direction or financial performance is made.\" (no stakeholder relevance)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The farm is home to over 400 types of young trees, adding to the natural charm of the site.\" (contextual detail about the project's scope)\n• Evidence 2: \"During heavy rainfall, the lots get flooded, and we must pump out excess water.\" (specific operational challenge with technical detail)"
+  }
+}

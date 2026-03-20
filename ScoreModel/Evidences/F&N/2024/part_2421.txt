@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 1,
-    "justification": "• Evidence 1: [No specific facts or disclosures about sustainability practices, risks, or challenges provided]\n• Evidence 2: [Text lacks objective information and merely directs readers to another section]"
+    "score": 0,
+    "justification": "• Evidence 1: No specific facts or disclosures about risks, challenges, or uncertainties are provided.\n• Evidence 2: The text only references another section without substantive content."
   },
   "Understandability": {
-    "score": 3,
-    "justification": "• Evidence 1: [Unclear structure with nonsensical section numbering 'SECTION 7 1 3 2 4 5 6 8 9 151']\n• Evidence 2: [Ambiguous reference to 'Responsible Business Practice' without contextual explanation]"
+    "score": 1,
+    "justification": "• Evidence 1: The phrase 'Read more in...' is clear, but the rest of the text contains nonsensical numbers (7 1 3 2 4 5 6 8 9 151) that lack context.\n• Evidence 2: The structure is unclear, with no logical flow or explanation of the sustainability statement."
   },
   "Relevance": {
-    "score": 1,
-    "justification": "• Evidence 1: [No forward-looking information, risks, material events, or governance details provided]\n• Evidence 2: [Text fails to explain performance changes or investor-relevant data]"
+    "score": 0,
+    "justification": "• Evidence 1: No forward-looking information, risks, material events, or governance details are included.\n• Evidence 2: The text does not address investor decision-making or performance changes."
   }
 }

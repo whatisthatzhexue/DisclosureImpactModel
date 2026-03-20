@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"On 17 August 2023, BStarbucks proudly announced the inauguration of its first Signing Store in Borneo...\" (specific date and factual event)\n• Evidence 2: \"BStarbucks works closely with the Sarawak Society for the Deaf...\" (collaboration details and third-party involvement)"
+    "justification": "• Evidence 1: \"On 17 August 2023, BStarbucks proudly announced the inauguration of its first Signing Store in Borneo, located at Vivacity Megamall, Kuching.\" (specific date and location)\n• Evidence 2: \"BStarbucks works closely with the Sarawak Society for the Deaf... to host various activities for the Deaf and Hard of Hearing community\" (objective collaboration details)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"This store marks a significant milestone in the market as the third Signing Store in Malaysia...\" (clear structure and logical progression)\n• Evidence 2: \"Collaborations with Deaf artists on exclusive, commissioned artwork...\" (precise language with specific examples)"
+    "justification": "• Evidence 1: \"Inside this third Signing Store is a captivating mural by Deaf artist Madang Ding Anyi... celebrating the coffee-growing essence of Asia Pacific\" (clear, direct description of artwork)\n• Evidence 2: \"Creating a space that truly embraces diversity... fosters a sense of belonging and equal opportunity\" (precise language explaining the store's purpose)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"This store marks a significant milestone in the market...\" (material event disclosure)\n• Evidence 2: \"Creating a space that truly embraces diversity...\" (strategic intent, but lacks quantitative metrics or financial impact analysis)"
+    "score": 7,
+    "justification": "• Evidence 1: \"This store marks a significant milestone in the market as the third Signing Store in Malaysia...\" (material event disclosure)\n• Evidence 2: \"Collaborations with Deaf artists... exemplify this commitment\" (corporate social responsibility relevant to investor decision-making)"
   }
 }

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board... form the fundamentals of corporate sustainability pursued by the Group for long-term shareholder value creation.\" (neutral, objective)\n• Evidence 2: \"The CG Report for the financial year ended 31 March 2024 is available for viewing...\" (specific fact supporting disclosure)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board... form the fundamentals of corporate sustainability pursued by the Group for long-term shareholder value creation.\" (neutral, factual statement)\n• Evidence 2: \"The CG Report for the financial year ended 31 March 2024 is available for viewing...\" (specific fact about disclosure location)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board comprises directors who are entrepreneurs and experienced professionals...\" (clear structure with specific roles)\n• Evidence 2: \"The Board is responsible for overseeing the management of the Company.\" (precise, direct language)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board comprises directors who are entrepreneurs and experienced professionals...\" (clear description of composition)\n• Evidence 2: \"The Board is responsible for overseeing the management of the Company.\" (precise statement of responsibility)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"This statement sets out the overview under which the Company applied the Principles...\" (directly relevant to governance structure)\n• Evidence 2: \"The CG Report... provides comprehensive disclosures...\" (relevant to investor decision-making)"
+    "score": 6,
+    "justification": "• Evidence 1: \"This statement sets out the overview under which the Company applied the Principles...\" (directly relevant to investor understanding of governance)\n• Evidence 2: \"The Board is responsible for... strategic management, enterprise risk management...\" (relevant to governance and operational oversight)"
   }
 }

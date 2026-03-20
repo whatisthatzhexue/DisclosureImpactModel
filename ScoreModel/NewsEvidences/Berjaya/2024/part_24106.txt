@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"HLIB Research noted the move would add more than RM1.5bil to MRCB’s active order book of RM1.5bil, as at end-September 2023.\" (verifiable financial data)\n• Evidence 2: \"The progress timeline of the project is rather fluid and could remain so considering 100% land consideration.\" (balanced acknowledgment of uncertainty)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MRCB’s project pipeline is expected to start materialising in 2024 as the group benefits from better project pipeline visibility and value unlocking initiatives\" (direct link to strategic value creation)\n• Evidence 2: \"HLIB Research maintained a 'buy' call on MRCB with a higher sum-of-part driven target price of 70 sen per share\" (strategic financial implications)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Shah Alam Stadium redevelopment, worth some RM1bil, will likely be split into several phases to aid land monetisation with demolition phase expected to commence in 2024 and reach completion by mid-2025.\" (detailed project timeline and monetisation strategy)\n• Evidence 2: \"The Berjaya HSR Consortium... is well balanced with complementary expertise\" (comprehensive analysis of consortium structure and challenges)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The majority of scoring results (8 out of 10) provided strong evidence of high reliability, including detailed financial disclosures, third-party validations, and structured risk management frameworks. Scores of 9 were supported by specific data (e.g., certification details, quantifiable risk metrics) and clear explanations of governance structures. The two low scores (1 and 3) were based on incomplete or missing evidence (e.g., only mentioning committee names without substantive content), which are likely errors. Compromised to 8.5 to reflect the dominance of high-quality disclosures while acknowledging the outliers."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "Most scoring results (7 out of 10) demonstrated strong relevance through material event disclosures (e.g., pandemic preparedness, sustainability goals), forward-looking information, and alignment with investor concerns (e.g., risk management, ESG integration). Scores of 9 were justified by direct links to strategic priorities and material risks. The low scores (1 and 6) were based on minimal or vague justifications (e.g., generic mentions of committees without context), which are likely errors. Compromised to 8 to balance the high-quality relevance evidence with the outliers."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "The majority of scoring results (8 out of 10) provided clear, structured explanations (e.g., role definitions, precise metrics) and logical flow of information. Scores of 9 were supported by direct language and actionable details (e.g., \"100PLUS distributed at vaccination centres\"). The low score (3) was based on incomplete evidence (e.g., only mentioning committee names without elaboration), likely an error. Compromised to 8 to reflect the overall clarity and coherence of the disclosures while addressing the outlier."
+  }
+}

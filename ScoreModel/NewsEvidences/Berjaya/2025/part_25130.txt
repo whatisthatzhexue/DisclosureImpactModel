@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We will negotiate with any interested parties. We prefer to have Malaysian (companies)\" - direct quote from Vincent Tan showing transparency.\n• Evidence 2: The article cites Bernama as the source, a credible Malaysian news agency, and includes factual details about the consortium members and project cost."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The HSR is expensive... minimal government involvement\" - directly ties to Berjaya's strategic push for private sector participation and long-term value creation.\n• Evidence 2: \"Berjaya-led consortium\" - explicitly connects to Berjaya Corp Bhd's strategic direction and market positioning."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The KL-SG HSR project is estimated to cost RM100 billion\" - provides concrete data on the project's scale.\n• Evidence 2: Lists consortium members (e.g., Deutsche Bahn, Hyundai Rotem) but lacks deeper analysis of Berjaya's financial implications or historical context for their involvement."
+  }
+}

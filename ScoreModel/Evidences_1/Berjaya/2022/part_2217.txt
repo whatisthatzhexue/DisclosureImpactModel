@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: [exact quote] \"BFood calculated an average score for all areas...\" (neutral, objective calculation)\n• Evidence 2: [exact quote] \"...address gaps in its sustainability disclosure\" (acknowledges limitations but lacks specific risk disclosures)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: [exact quote] \"THE RESULTS\" (clear section heading)\n• Evidence 2: [exact quote] \"The following materiality matrix...\" (direct reference to visual aid for clarity)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: [exact quote] \"...address gaps in its sustainability disclosure\" (relevant to investor concerns)\n• Evidence 2: [exact quote] \"The results helped BFood...\" (links disclosure to organizational improvement, but lacks specific forward-looking information)"
+  }
+}

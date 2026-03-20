@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We expect to have the meeting within the next week,\" he told the media...\" (verifiable timeline and official statement)\n• Evidence 2: \"On May 3 last year, the government decided to implement a dual 5G network...\" (specific date and policy decision cited)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The article contains no mention of Berjaya Food Berhad or any business activities related to food and beverage sectors\" (no direct company reference)\n• Evidence 2: \"No financial implications or market impact related to the company's operations are discussed\" (irrelevant to stakeholder information needs)"
+  },
+  "Depth": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The article provides detailed information about 5G rollout progress and cybersecurity initiatives but lacks context about Berjaya Food Berhad's business\" (topic mismatch)\n• Evidence 2: \"No data or analysis related to the company's strategic direction, competitive position, or financial performance is included\" (irrelevant to company context)"
+  }
+}

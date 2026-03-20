@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TA Research noted that this was Binastra’s first construction contract secured for the financial year ending Jan 31, 2026 (FY26)\" (verifiable data from a research firm).\n• Evidence 2: \"TA Research maintained its 'buy' call on the stock with an unchanged target price of RM2.25\" (specific, credible source with clear financial analysis)."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Binastra continued to strengthen its foothold in the construction industry, particularly in high-value segments such as data centres\" (direct link to strategic positioning).\n• Evidence 2: \"We maintain our 'buy' call... premised on a price-to-earnings ratio of 18 times calendar year 2025 earnings\" (connects to long-term value creation and market impact)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The scope of work included a six-storey data centre, a guard house and a refuse room. Construction was scheduled to commence on Feb 26, 2025...\" (detailed project context and timeline).\n• Evidence 2: \"For the FY24, Binastra Corp’s net profit rose to RM40.77mil from RM16.52mil... revenue grew to RM425.20mil from RM184.85mil\" (comprehensive financial performance data)."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Group has in place effective and efficient information and communication infrastructures...\" (specific systems cited)\n• Evidence 2: \"The results of the internal audits carried out are reported to the Audit Committee\" (transparent reporting process)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Clear reporting lines are established across the Group\" (precise language)\n• Evidence 2: \"Quarterly financial performance review containing key financial results...\" (structured, direct explanation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Matters that require the Board and Senior Management’s attention are highlighted...\" (corporate governance relevance)\n• Evidence 2: \"Monitoring of compliance with relevant laws and regulations...\" (regulatory relevance)"
+  }
+}

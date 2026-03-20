@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"existing strategic, governance and key operational risks were reviewed with emerging risks identified, assessed and incorporated into Key Risks Register for on-going risk monitoring and assessment, after taking into consideration the internal audit findings.\"\n• Evidence 2: \"The Key Risks Report...was compiled and tabled to the Audit Committee and Board for review and deliberation.\""
+    "justification": "• Evidence 1: \"existing strategic, governance and key operational risks were reviewed with emerging risks identified, assessed and incorporated into Key Risks Register for on-going risk monitoring and assessment, after taking into consideration the internal audit findings.\"\n• Evidence 2: \"The Key Risks Report, which consists of key risk profile, key risks register comprising of strategic risks and key operational risks and proposed internal audit plan derived therefrom, was compiled and tabled to the Audit Committee and Board for review and deliberation.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The role, functions, composition, operation and processes of the Board are guided by formal Board Charter...\"\n• Evidence 2: \"The Group has in place a formalised Fraud Policy, approved by the Audit Committee and Board, to manage the risk of fraud within the Group.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"Board Committees (i.e. Audit Committee, Remuneration Committee, Nominating Committee and Option Committee) have been established to carry out duties and responsibilities delegated by the Board and are governed by written terms of reference.\"\n• Evidence 2: \"The tone from the top on integrity and ethical value are enshrined in the formal Code of Conduct established and approved by the Board.\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"specific strategic and key operational risks are highlighted and deliberated by the Audit Committee and Board during the review of the financial performance of the Group in the scheduled meetings.\"\n• Evidence 2: \"The monitoring of the risk management process by the Group is enhanced by the internal audits...based on the internal audit plan approved by the Audit Committee.\""
+    "score": 6,
+    "justification": "• Evidence 1: \"specific strategic and key operational risks are highlighted and deliberated by the Audit Committee and Board during the review of the financial performance of the Group in the scheduled meetings.\"\n• Evidence 2: \"The Group has in place a formalised Fraud Policy, approved by the Audit Committee and Board, to manage the risk of fraud within the Group.\""
   }
 }

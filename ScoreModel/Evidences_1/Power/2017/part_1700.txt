@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root ME FZCO shall receive all profits or ownership of assets and liable for all losses or liabilities of P.R. Manufacturing ME LLC\" (specific ownership details)\n• Evidence 2: \"Despite the economic challenges faced over the financial year... Power Root responded by strengthening its efforts...\" (acknowledges challenges but lacks risk analysis)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root (M) Sdn. Bhd. Power Root (Shanghai) Food Trading Co., Ltd.\" (clear listing of subsidiaries)\n• Evidence 2: \"We recorded promising growth for its export markets by recording RM183.2 million revenue...\" (precise financial figures with context)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Group recorded promising growth for its export markets...\" (material event impacting performance)\n• Evidence 2: \"We will continue to seek growth opportunities...\" (forward-looking statement with limited contextual explanation)"
+  }
+}

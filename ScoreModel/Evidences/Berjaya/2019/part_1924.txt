@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The cost incurred for the Internal Audit function... amounted to RM207,935.\" (specific factual disclosure)\n• Evidence 2: \"Conducted audit reviews and evaluated risk exposures... statutory requirements.\" (objective description of audit activities)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed and endorsed the Internal Audit Plan by ARMC\" (neutral, factual description of activity)\n• Evidence 2: \"cost incurred... amounted to RM207,935\" (specific financial data supporting reliability)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Reviewed and endorsed the Internal Audit Plan by ARMC.\" (clear, direct language)\n• Evidence 2: \"Provided recommendations... suggesting improvements to the control processes.\" (precise description of actions)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Conducted audit reviews and evaluated risk exposures...\" (clear, direct language about audit scope)\n• Evidence 2: \"Provided recommendations... suggesting improvements...\" (precise description of audit outcomes)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"Conducted audit reviews... statutory requirements.\" (relevant to governance and compliance)\n• Evidence 2: \"Terms of reference of the ARMC... Company’s website.\" (corporate governance disclosure)"
+    "justification": "• Evidence 1: \"evaluated risk exposures relating to the Group’s governance process... statutory requirements\" (relevant to investor concerns about governance)\n• Evidence 2: \"terms of reference of the ARMC... Company’s website\" (provides context for committee oversight)"
   }
 }

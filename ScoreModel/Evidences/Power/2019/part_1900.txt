@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"It has been an economically challenging year both locally and abroad, with weak consumer sentiment and stiff competition being primary factors.\"\n• Evidence 2: \"Lower material price on coffee and sugar in particular, was an added benefit.\"\n• Evidence 3: \"The measures taken included having a stricter Advertising and Promotional (\"A&P\") spending criterion...\"\n• Evidence 4: \"This campaign, which ran in March and April 2019...\"\n• Evidence 5: \"These herbs have properties which are beneficial in strengthening the body’s immunity...\"\n• Evidence 6: \"Power Root Berhad (Company No.: 733268-U) 20\""
+    "score": 6,
+    "justification": "• Evidence 1: \"It has been an economically challenging year both locally and abroad, with weak consumer sentiment and stiff competition being primary factors.\" (discloses challenges)\n• Evidence 2: \"Lower material price on coffee and sugar in particular, was an added benefit.\" (specific fact)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Being more focused on Return on Investment (\"ROI\") has led to a marked improvement in the Group’s management and operational efficiencies.\"\n• Evidence 2: \"This involves getting a right mix of activities aimed at specific market segments as our products are associated with different values and identities.\"\n• Evidence 3: \"Alicafe TAG contains the goodness of Tongkat Ali and Ginseng herbs...\"\n• Evidence 4: \"Power Root Berhad (Company No.: 733268-U) 20\""
+    "score": 7,
+    "justification": "• Evidence 1: \"Being more focused on Return on Investment (\"ROI\") has led to a marked improvement in the Group’s management and operational efficiencies.\" (clear cause-effect explanation)\n• Evidence 2: \"This involves getting a right mix of activities aimed at specific market segments...\" (logical structure)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The Group’s strategy this year has been to consolidate our activities with an emphasis on bringing back profit margins.\"\n• Evidence 2: \"The measures taken included... increasing the efficiency of our manufacturing processes...\"\n• Evidence 3: \"Marketing highlights during the year included: Brands: Alicafe and Extra Power Root...\"\n• Evidence 4: \"This campaign, which ran in March and April 2019...\"\n• Evidence 5: \"In line with the new campaign, we appointed two new ambassadors...\""
+    "score": 5,
+    "justification": "• Evidence 1: \"Being more focused on ROI has led to a marked improvement...\" (explains performance change)\n• Evidence 2: \"Marketing highlights during the year included: Brands: Alicafe and Extra Power Root...\" (material event disclosure)"
   }
 }

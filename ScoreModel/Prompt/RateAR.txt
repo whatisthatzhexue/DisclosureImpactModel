@@ -26,7 +26,7 @@ The following are multiple scoring results (each result is a JSON object, may co
 
 Output STRICTLY in this JSON format:  
 {  
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",  
+  "MemoryTest": "[Repeat the exact anchor sentence]",  
   "Reliability": {  
     "score": (integer or decimal, 0-10),  
     "justification": "string"  

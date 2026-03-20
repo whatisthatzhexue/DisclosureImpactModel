@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"As of end of 2023, bumiputras made up 70.1% (57.9% Malays and 12.2% other bumiputras) of Malaysia’s 33.7 million population...\" (specific demographic data).\n• Evidence 2: \"Starbucks is owned by Berjaya Food , which in turn is 59.4% owned by Berjaya Corporation.\" (direct company ownership detail)."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Starbucks is owned by Berjaya Food , which in turn is 59.4% owned by Berjaya Corporation.\" (direct company mention).\n• Evidence 2: \"Any corporation facing such public pressure should embark on a rallying campaign against Israel...\" (strategic advice tied to business impact)."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"As of end of 2023, bumiputras made up 70.1%...\" (contextual demographic shift).\n• Evidence 2: \"Companies like McDonald’s and Starbucks have reported drop in sales...\" (specific examples of business impact)."
+  }
+}

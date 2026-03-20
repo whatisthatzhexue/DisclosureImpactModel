@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [no specific facts provided]\n• Evidence 2: [no disclosure of risks or uncertainties]"},
+  "Understandability": {"score": 0, "justification": "• Evidence 1: [no structured content or logical flow]\n• Evidence 2: [no precise language or meaningful information]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [no investor-focused information provided]\n• Evidence 2: [no mention of performance changes, risks, or governance]"}
+}

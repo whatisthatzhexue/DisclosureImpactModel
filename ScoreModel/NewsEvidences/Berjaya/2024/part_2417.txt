@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"UEM Sunrise Bhd has partnered with Logos Infrastructure Holdco Pte Ltd to explore the opportunity to develop a data centre campus...\" (specific, factual details)\n• Evidence 2: \"SD Guthrie Bhd 1QFY24 net profit tripled from a year earlier to RM211.0mn, thanks to lower tax and strong downstream operations.\" (quantifiable financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its strategic initiatives, financial performance, or operational activities.\n• Evidence 2: All corporate announcements focus on unrelated companies (e.g., UEM, Feytech, Tex Cycle, etc.) and lack direct relevance to Berjaya Food Berhad's strategic direction or stakeholder interests."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Nestlé (Malaysia) Bhd has planted 2.8mn trees through its Project RELeaf...\" (specific project details and context)\n• Evidence 2: \"CIMB Group Holdings Bhd net profit rose 18.0% YoY... as both interest and non-interest income grew faster than costs and provisions.\" (financial context and causal explanation)"
+  }
+}

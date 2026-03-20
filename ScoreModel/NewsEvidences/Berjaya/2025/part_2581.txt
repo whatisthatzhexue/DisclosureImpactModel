@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Gamuda Bhd’s construction orderbook touched a new record-high of RM36bil, with 60% of the contract value contributed by international projects.\" (specific, verifiable data)\n• Evidence 2: \"Net profit rose 5% y-o-y to RM424mil.\" (financial figures with clear timeframes and percentages)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This demonstrates the group's robust regional infrastructure capabilities to meet its target orderbook of RM40bil to RM45bil orderbook target by end-2025.\" (directly ties to strategic goals)\n• Evidence 2: \"Domestic construction division is primarily fuelling the growth of its revenue and earnings.\" (connects to business performance and strategic focus)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In 6M25, Gamuda’s revenue... improved by 32% year-on-year... Net profit rose 5% y-o-y...\" (comprehensive financial metrics with context)\n• Evidence 2: \"The international projects are Australia Boulder Creek Wind Farm... Cyberjaya Data Centre.\" (specific project details supporting strategic depth)"
+  }
+}

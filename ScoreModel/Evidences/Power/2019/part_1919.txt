@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The composition of Audit Committee is in compliance with the paragraph 15.09 of Main Market Listing Requirements...\" (specific regulatory compliance)\n• Evidence 2: \"All members of the Audit Committee... no alternate director had been appointed...\" (neutral, factual disclosure)"
+    "justification": "• Evidence 1: \"The composition of Audit Committee is in compliance with the paragraph 15.09 of Main Market Listing Requirements...\" (specific regulatory compliance)\n• Evidence 2: \"All members of the Audit Committee (including the Chairman) are independent directors...\" (objective factual disclosure)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Audit Committee held four -4 meetings...\" (clear numerical data)\n• Evidence 2: \"The meetings were conducted with the quorum of majority...\" (precise procedural description)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee held four -4 meetings\" (clear numerical data)\n• Evidence 2: \"The meetings were appropriately structured through the use of agendas...\" (precise procedural description)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"The terms of reference... available for download...\" (corporate governance relevance)\n• Evidence 2: \"The External Auditors... attended the Audit Committee meetings...\" (pertinent operational disclosure)"
+    "justification": "• Evidence 1: \"The terms of reference of the Audit Committee is available for download...\" (investor-accessible information)\n• Evidence 2: \"the Audit Committee Chairman is not the Chairman of the Board...\" (corporate governance relevance)"
   }
 }

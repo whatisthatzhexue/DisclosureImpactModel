@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Federal Territories Department statement said some of these kitchens could generate monthly incomes of up to RM10,000 since its opening in February.\" \n• Evidence 2: \"Minister in the Prime Minister’s Department (Federal Territories) Dr Zaliha Mustafa said 50 women... were involved in the project.\""
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"The pilot project is the result of a strategic collaboration between...\" \n• Evidence 2: \"We have created an ecosystem to ensure these women continue to thrive.\" (No direct mention of Berjaya Food Berhad or its strategic priorities)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"There are five cloud kitchens at commercial lots in four people’s housing projects...\" \n• Evidence 2: \"I can take a short break from the kitchen to check on my children...\" (Provides contextual details about implementation and beneficiary experiences)"
+  }
+}

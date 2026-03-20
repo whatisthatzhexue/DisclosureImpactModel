@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 3,
-    "justification": "• Evidence 1: [No mention of risks, challenges, or uncertainties]\n• Evidence 2: [No specific facts beyond statistical percentages]"
+    "score": 4,
+    "justification": "• Evidence 1: The text lacks disclosure of risks, challenges, or uncertainties related to sustainability.\n• Evidence 2: The gender and age distribution percentages are presented without contextual explanation or verification."
   },
   "Understandability": {
-    "score": 5,
-    "justification": "• Evidence 1: [Simple percentage formatting without contextual explanation]\n• Evidence 2: [Lack of clarification for terms like 'Power Root Berhad' or 'Registration Number']"
+    "score": 3,
+    "justification": "• Evidence 1: The structure is unclear, with percentages and labels not properly aligned (e.g., 'Male Female 18- 30...').\n• Evidence 2: The age distribution categories ('41 - 50 50 Above') have overlapping or ambiguous ranges."
   },
   "Relevance": {
-    "score": 2,
-    "justification": "• Evidence 1: [No forward-looking information or material events]\n• Evidence 2: [No connection to investor decision-making factors like risks or governance]"
+    "score": 3,
+    "justification": "• Evidence 1: The text provides demographic data but lacks forward-looking information or explanations for performance changes.\n• Evidence 2: No mention of risks, material events, or corporate governance elements relevant to investor decision-making."
   }
 }

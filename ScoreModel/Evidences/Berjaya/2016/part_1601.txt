@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit of the Group for the financial year ended 30 April 2016.\"\n• Evidence 2: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share (5.75 sen single-tier dividend per share for the previous financial year ended 30 April 2015).\""
+    "score": 7,
+    "justification": "• Evidence 1: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share (5.75 sen single-tier dividend per share for the previous financial year ended 30 April 2015)\" [neutral comparison of historical data]\n• Evidence 2: \"the total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit\" [specific factual disclosure]"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit of the Group for the financial year ended 30 April 2016.\"\n• Evidence 2: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share (5.75 sen single-tier dividend per share for the previous financial year ended 30 April 2015).\""
+    "justification": "• Evidence 1: \"the total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit\" [precise numerical explanation]\n• Evidence 2: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share\" [clear, direct phrasing]"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit of the Group for the financial year ended 30 April 2016.\"\n• Evidence 2: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share (5.75 sen single-tier dividend per share for the previous financial year ended 30 April 2015).\""
+    "score": 6,
+    "justification": "• Evidence 1: \"the total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit\" [useful for assessing payout ratio]\n• Evidence 2: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share (5.75 sen single-tier dividend per share for the previous financial year ended 30 April 2015)\" [contextualizes dividend trend but lacks forward-looking insights]"
   }
 }

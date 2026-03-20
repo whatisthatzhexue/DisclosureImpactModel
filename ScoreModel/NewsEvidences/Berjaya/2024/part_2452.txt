@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes direct quotes from the bodyguard's wife, providing factual details about the medical procedure and injury.\n• Evidence 2: The timeline of events (e.g., 'five-hour long operation', 'surgery completed at 4.30pm') is specific and verifiable."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The incident described is unrelated to the company's business activities, stakeholders, or market position."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: The text provides contextual details about the shooting, medical treatment, and aftermath, though limited to the incident itself.\n• Evidence 2: It lacks broader background on the company, industry, or long-term implications for stakeholders."
+  }
+}

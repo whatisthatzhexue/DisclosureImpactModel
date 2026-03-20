@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Audit Committee had assessed the performance of the Internal Audit function during the financial year 2019 through an internal stakeholders’ satisfaction survey conducted by the Human Capital Department.'\n• Evidence 2: 'The operational costs incurred by Group Internal Audit for the financial year 2019 amounted to about RM2.4 million.'"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The ambit of the Group Internal Audit function is defined in the Internal Audit Charter which is reviewed by the Audit Committee annually.'\n• Evidence 2: 'The Audit Committee also reviewed the declaration of interim dividend and recommendation of final dividend...' (clear structure with specific responsibilities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The related party transactions entered into by the Group were reviewed by the Audit Committee to ensure that they were conducted on the Group’s normal commercial terms...' (directly relevant to investor concerns)\n• Evidence 2: 'The Statement on Corporate Governance... were reviewed by the Audit Committee prior to Board’s approval.' (includes governance and internal control details)"
+  }
+}

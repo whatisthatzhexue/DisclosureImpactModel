@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Sports Toto Bhd said it is acquiring three freehold commercial units at Berjaya Times Square for RM24.9mn\" (verifiable financial disclosure).\n• Evidence 2: \"SNS Network Technology Bhd's net profit surged 173.7% YoY...\" (specific quantitative data)."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"HSS Engineers Bhd's associate... secured a USD4.5mn contract\" (strategic business development).\n• Evidence 2: \"Aeon Credit... targeting ROE of 12%–13%\" (financial strategy and performance targets)."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Green Ocean Corporation... received an unusual market activity query\" (contextualizes market reactions).\n• Evidence 2: \"iCents Group... set IPO price at 24.0sen/share\" (specific pricing details and fundraising context)."
+  }
+}

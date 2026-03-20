@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"100PLUS was also distributed at various events organised during the holy month of Ramadan...\" (neutral factual statement)\n• Evidence 2: \"it came as no surprise when 100PLUS bagged its sixth Gold...\" (no overstatement, but lacks risk disclosure)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Over 100,000 Malaysians were kept hydrated with 100PLUS during the event.\" (specific factual claim)\n• Evidence 2: \"100PLUS bagged its sixth Gold in the Non-Alcoholic Beverages category\" (third-party award validation)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"TOTAL OVER 100,000 MALAYSIANS WERE KEPT HYDRATED WITH 100PLUS\" (precise numerical summary)\n• Evidence 2: \"Jom Ronda was initiated in November 2021...\" (clear chronological explanation)"
+    "justification": "• Evidence 1: \"Celebrating Independence with JOM RONDA\" (clear section heading with context)\n• Evidence 2: \"100PLUS awarded its brand ambassadors with RM100,000\" (precise numerical detail)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"100PLUS bagged its sixth Gold in the Non-Alcoholic Beverages category...\" (relevant to brand reputation)\n• Evidence 2: \"sponsoring two prominent events...\" (relevant to market presence but lacks financial impact analysis)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Partnered Persatuan Seniman Malaysia to distribute 100PLUS at more than 20 mosques\" (market penetration detail)\n• Evidence 2: \"Official beverage sponsor of the Malaysia Open and Malaysia Masters badminton tournaments\" (brand visibility relevance)"
   }
 }

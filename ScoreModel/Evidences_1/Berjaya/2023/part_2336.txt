@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The composition of the ARMC has complied with Paragraph 15.09 -1 and -2 of the Main Market Listing Requirements...\"\n• Evidence 2: \"None of the ARMC members is an alternate director.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The ARMC comprises three -3 members and all of them are Non-Executive Directors...\"\n• Evidence 2: \"Notes: # During the financial year...\" (clearly structured explanations of attendance changes)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Chairman of the ARMC is an Independent Non-Executive Director... in line with Practice 9.1 of the Malaysian Code on Corporate Governance.\"\n• Evidence 2: \"The ARMC held five -5 meetings...\" (provides governance and operational details but lacks forward-looking or risk disclosures)"
+  }
+}

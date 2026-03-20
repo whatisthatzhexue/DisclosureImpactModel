@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"reduced energy consumption by 20%\" (specific fact)\n• Evidence 2: \"diverted 237,919 kg of used coffee grounds from the landfill\" (quantifiable outcome)"
+    "score": 7,
+    "justification": "• Evidence 1: \"reduced energy consumption by 20%\" (specific factual claim)\n• Evidence 2: \"managed to reduce the consumption of paper bags by 13.6%\" (quantifiable data)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"reduced energy consumption by 20%\" (precise metric)\n• Evidence 2: \"13.6% reduction in paper bags\" (clear percentage change)"
+    "score": 9,
+    "justification": "• Evidence 1: \"reduced energy consumption by 20%\" (precise numerical statement)\n• Evidence 2: \"consolidated its distribution network... reducing from 12 trucks to 6 trucks\" (clear cause-effect explanation)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"initiatives to save energy in its head office\" (operational detail)\n• Evidence 2: \"Grounds For Your Garden programme\" (community impact initiative)"
+    "justification": "• Evidence 1: \"diverted 237,919 kg of used coffee grounds from the landfill\" (material event with quantifiable impact)\n• Evidence 2: \"celebrating Earth Hour over the past 11 years\" (historical initiative with potential investor relevance)"
   }
 }

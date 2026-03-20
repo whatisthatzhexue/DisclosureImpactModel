@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood’s economic performance has consistently generated substantial stakeholder value.\" (supports claims with historical data)\n• Evidence 2: \"Collaboration with business partners... is essential to drive change\" (neutral statement without overstatement)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Please refer to pages 18-26...for further details on BFood’s strategic priorities\" (lack of specific risks/challenges in provided text)\n• Evidence 2: \"BFood’s economic performance has consistently generated substantial stakeholder value\" (positive assertion without contradictory evidence)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Integrated marketing communications... being accessible to a broad range of stakeholders\" (clearly defines purpose)\n• Evidence 2: \"Group photo of BStarbucks employees...\" (redundant and obscure non-essential information)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Integrated marketing communications...being accessible to a broad range of stakeholders\" (clear purpose statement)\n• Evidence 2: \"Collaboration with business partners...drive change where it makes the most significant difference\" (logical flow with specific actions)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Please refer to pages 18-26... for further details on BFood’s strategic priorities\" (directly links to investor-relevant information)\n• Evidence 2: \"Promoting diversity... optimising resource utilisation\" (aligns with ESG factors important to investors)"
+    "justification": "• Evidence 1: \"Promoting diversity...optimising resource utilisation\" (directly ties to investor concerns about ESG)\n• Evidence 2: \"Please refer to pages 30-31...financial performance\" (explicit guidance for investors seeking quantitative data)"
   }
 }

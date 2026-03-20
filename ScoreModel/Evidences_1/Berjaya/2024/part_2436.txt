@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"* FY2022 and FY2023 estimated based on the expansion of the number of stores.\" (discloses estimation limitations)\n• Evidence 2: \"BFood's pollution management strategy minimises resource consumption...\" (specific factual commitment)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Dairy Net Zero Initiative... Increasing reusable packaging options\" (clearly structured initiatives)\n• Evidence 2: \"BFood strategically places recycling bins...\" (direct language about actions)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFStarbucks and BFS have expanded... packaging.\" (forward-looking sustainability initiatives)\n• Evidence 2: \"The Company also prioritises recycling... circular economy.\" (investor-relevant waste management strategy)"
+  }
+}

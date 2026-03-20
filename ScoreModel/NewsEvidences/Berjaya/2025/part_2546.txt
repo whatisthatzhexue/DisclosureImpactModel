@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"I approved all... whether they were bankrupt or had misconduct issues, I approved them all.\" (direct quote from Anwar Ibrahim, verifiable source)\n• Evidence 2: \"I'm only assuming... as the party's deputy president.\" (balanced reporting of Anwar's expectations, no fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or any business-related activities, financials, or market impacts.\n• Evidence 2: Focus on political party internal processes unrelated to the company's strategic direction or stakeholder interests."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: Provides context about PKR's internal debate, including quotes from multiple officials (Anwar, Rafizi, Zaliha Mustafa) and event details (election process, meeting locations).\n• Evidence 2: Explains the background of the proposal but lacks analysis of broader implications for the party's governance or long-term stability."
+  }
+}

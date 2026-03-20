@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Reviewed and recommended the Quarterly and Annual Financial Statements... focusing particularly on... compliance with financial reporting standards...\" (neutral, objective review of compliance)\n• Evidence 2: \"Assessed the objectivity, and independence of the External Auditors...\" (explicit evaluation of auditor independence)"
+    "score": 9,
+    "justification": "• Evidence 1: 'Reviewed and recommended the Quarterly and Annual Financial Statements... focusing particularly on... compliance with financial reporting standards and other regulatory or legal requirements' (neutral, objective disclosure of compliance checks)\n• Evidence 2: 'Assessed the objectivity, and independence of the External Auditors... including their appointment for non-audit services' (transparent evaluation of auditor independence)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Reviewed recurrent related party transactions... to ascertain that these transactions were undertaken on normal commercial terms...\" (clear, structured language)\n• Evidence 2: \"The internal audit is risk-based and has incorporated the Group’s identified risks...\" (precise explanation of audit focus)"
+    "score": 8,
+    "justification": "• Evidence 1: 'The internal audit is risk-based and has incorporated the Group’s identified risks focusing on those which would have most impact to the business objectives' (clear structure and direct language)\n• Evidence 2: 'Reviewed non-current related party transactions to ascertain that it was undertaken at arms’ length' (precise explanation of transaction review criteria)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Reviewed non-current related party transactions to ascertain that it was undertaken at arms’ length...\" (material governance risk disclosure)\n• Evidence 2: \"Includes risks, material events, corporate governance...\" (covers key investor concerns but lacks forward-looking statements)"
+    "score": 8,
+    "justification": "• Evidence 1: 'Reviewed and recommended the Statement on Corporate Governance, AC Report and Statement on Risk Management and Internal Control' (directly addresses investor-relevant governance and risk factors)\n• Evidence 2: 'Discussed with Internal Auditor pertaining to follow-up review and corresponding corrective actions taken by Management' (provides insight into internal control effectiveness for decision-making)"
   }
 }

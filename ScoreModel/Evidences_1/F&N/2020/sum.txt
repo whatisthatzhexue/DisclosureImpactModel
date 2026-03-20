@@ -1,0 +1,367 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Despite the immense challenges faced... our profit after tax this year was maintained at RM410.1 million from RM410.2 million last year.\" (specific financial figures and acknowledgment of challenges)\n• Evidence 2: \"The effects of COVID-19... made almost everyone re-evaluate what is, and should be, important to us.\" (neutral acknowledgment of external risks)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Profit Before Tax (RM million) -1.9%\" (clear numerical presentation with context)\n• Evidence 2: \"We distributed over 650,000 products...\" (precise, direct description of initiatives)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"For the financial year 2020... final dividend of 33.0 sen per share...\" (directly relevant financial information for investors)\n• Evidence 2: \"The Board continuously looks for ways to enhance our framework of integrity...\" (corporate governance relevance)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"* Included proposed dividend of 33.0 sen, which will only be recognised in the financial statements upon shareholders' approval.\" (discloses uncertainty about dividend recognition)\n• Evidence 2: \"PROFIT BEFORE TAX (PBT): RM522.9 million\" (specific factual data without overstatement)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BASIC EARNINGS PER SHARE: 111.9 sen\" (precise numerical data)\n• Evidence 2: \"F&B Malaysia F&B Thailand Property/Others\" (fragmented structure with repeated section headings causing confusion)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"PROFIT FOR THE YEAR: RM410.1 million\" (key financial metric for investor assessment)\n• Evidence 2: \"* Included proposed dividend of 33.0 sen...\" (forward-looking information about dividend policy)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We maintained commendable top and bottom lines in the financial year ended 30 September 2020 (FY2020)\" (acknowledges challenges without overstatement).\n• Evidence 2: \"The number of products carrying the Healthier Choice Logo (HCL) endorsed by the Malaysian Ministry of Health... increased from 41 at end FY2019 to 47\" (specific factual data)."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&NHB now exports to 82 countries around the world\" (clear, direct statement).\n• Evidence 2: \"We intend to set up more regional offices, with China and Asean being immediate targets\" (precise language about future plans)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our focus on three strategic priorities... provided the clarity and purpose to navigate through these unprecedented times\" (explains performance drivers).\n• Evidence 2: \"We intend to set up more regional offices... significant markets which we can further develop\" (forward-looking information for investors)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"despite the inevitable delays caused by movement restrictions\" (acknowledges challenges)\n• Evidence 2: \"completed three significant capex projects during the year\" (specific factual disclosure)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM182 million integrated warehouse...ASRS\" (clear numerical and technical specifics)\n• Evidence 2: \"25,000 cases per month compared to 5,000 cases at launch\" (precise performance metrics)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"expected to be completed in FY2021\" (forward-looking project timelines)\n• Evidence 2: \"muted demand from general trade and foodservice channel\" (market condition disclosure)"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"revenue contracted minimally by 2.2 per cent, from RM4.08 billion in FY2019 to RM3.99 billion\" (specific financial data)\n• Evidence 2: \"continuing uncertainty and commodity price pressures\" (disclosure of risks and challenges)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&NHB concluded FY2020 with a resilient performance sustained by stronger performance in the first quarter and recovery in the fourth quarter\" (clear explanation of performance drivers)\n• Evidence 2: \"Exports accounted for 20 per cent of the Group’s total revenue in FY2020\" (precise numerical context)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We would have overachieved our target Group export sales of RM800 million in FY2020 under normal circumstances\" (explains performance context)\n• Evidence 2: \"aim to set up more international offices, following the Dubai model\" (forward-looking strategic information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Ministry of Finance in its Economic Report published in November 2020 has predicted a contraction in the economy of 4.5 per cent for the year.\" (specific factual reference)\n• Evidence 2: \"We have continued to focus our product innovation on developing healthier choices for consumers. Six new healthier products were launched this year...\" (objective disclosure of actions and outcomes)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Social distancing measures and other restrictions imposed due to COVID-19 have meant that people are not dining out as much as before.\" (clear, direct explanation)\n• Evidence 2: \"Our sales teams worked closely with customers such as supermarket/hypermarket chains to ensure they always had enough stock of our products.\" (precise description of operational strategies)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The anticipated pick-up in the second half of the year is due to the implementation of various stimulus packages...\" (forward-looking information linked to market conditions)\n• Evidence 2: \"Consumer sentiment dipped significantly in March and has been steadily rising since April...\" (material event impacting business performance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Contributed RM112.8 million in tax for FY2020\" (specific financial disclosure)\n• Evidence 2: \"Complied with regulation to mitigate against systemic risk\" (acknowledges regulatory compliance)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Total No. of Employees: 2,616 employees\" (clear numerical disclosure)\n• Evidence 2: \"Dividend Payout Ratio: 53.6%\" (precise metric presentation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue: RM3,988.5 MILLION\" (key financial indicator for investors)\n• Evidence 2: \"Sustainability Targets 2020\" (forward-looking goals impacting long-term value)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"High investment costs in R&D and equipment with uncertain commercial returns.\" (Discloses risks)\n• Evidence 2: \"We engaged department heads, the C-suite and board directors in a materiality workshop.\" (Supported by specific facts about validation processes)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"STEP 1: IDENTIFICATION\", \"STEP 2: PRIORITISATION\", \"STEP 3: VALIDATION\" (Clear structure with logical progression)\n• Evidence 2: \"Our most significant material topic 'Consumer Health and Safety' is extremely relevant this year amidst the COVID-19 pandemic\" (Precise explanation of relevance)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"'Consumer Health and Safety' is extremely relevant this year amidst the COVID-19 pandemic... 'Economic Performance' is vital... 'Occupational Health and Safety' issue is also increasingly important\" (Directly links material issues to investor concerns)\n• Evidence 2: \"Risks... Opportunities... OUR RESPONSE\" (Provides forward-looking information critical for decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Unethical practice within the supply chain leads to regulatory violations, monetary fines and reputational risk.\"\n• Evidence 2: \"Yearly audits to assess quality assurance, food safety and SHE standards, and environmental performance of critical suppliers.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Promote sustainable and responsible sourcing via risks management, conscientious supplier selection and local sourcing.\"\n• Evidence 2: \"Adherence to health and safety regulations in the markets where we operate and international food safety standard like Food Safety Management System ISO 22000...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Failure to address the shift in consumer trends effectively will result in loss of sales.\"\n• Evidence 2: \"Commit to using Certified Sustainable Palm Oil (CSPO) in our products by 2025.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Productivity loss from injuries, occupational diseases, lost days and fatalities.\" (Discloses specific risks)\n• Evidence 2: \"Comply with relevant laws and regulations... supported by appropriate Safety, Health and Environmental Management policies\" (Provides objective, fact-based responses)"
+  },
+  "Understandability": {
+    "score": 10,
+    "justification": "• Evidence 1: Clear section headings (e.g., \"RISKS\", \"OPPORTUNITIES\", \"OUR RESPONSE\") with logical flow\n• Evidence 2: Direct language like \"Annual health screening\" and \"Trained Company Emergency Response Teams\" (Precise and unambiguous)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Workplace safety issue may impact business continuity and the company’s license to operate\" (Material risk relevant to investors)\n• Evidence 2: \"Robust employee compensation... maintain our competitive edge\" (Links talent management to strategic objectives)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Extreme weather events due to climate change expose our assets and operations to costly damages.\" (Discloses specific risks)\n• Evidence 2: \"We implement environmentally sustainable business practices and guided by the principles in our Environmental, Safety & Health Policy.\" (Provides concrete, neutral actions)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We seek to use water efficiently across the value chain\" (Clear, direct language)\n• Evidence 2: \"Strengthening Vulnerable Groups, Promoting Environmental Consciousness\" (Structured, thematic categorization)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Failure to balance social, economic and environmental needs will bring financial implications\" (Links risks to investor-relevant financial outcomes)\n• Evidence 2: \"Help to bridge the socio-economic divide by addressing inequality of opportunity\" (Connects social initiatives to material strategic priorities)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Commodities and materials price risk is managed through forward purchase of key commodities...\" (discloses risk mitigation with specific actions)\n• Evidence 2: \"Profit After Tax RM410.2 million\" (supported by specific financial facts)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group is guided by the Group Treasury Policy...\" (clear structure with specific policy references)\n• Evidence 2: \"F&N Life now offers no less than 250 product types...\" (precise numerical data enhances clarity)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Revenue decreased by 5.7% to RM2.04 billion...\" (explains performance changes)\n• Evidence 2: \"Continued emphasis on meeting consumers’ expectations...\" (forward-looking strategic priorities for investor decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N ICE MOUNTAIN sparked greater sales with the introduction of a carbonated range in November 2019.\" (specific factual claim)\n• Evidence 2: \"No. 1* in Total Malaysia in Carbonated Soft Drink category\" (supported by Nielsen data citation)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N ICE MOUNTAIN is now available in an eco-friendly packaging option, made of recyclable paper featuring caps made from sugar cane.\" (precise, direct description)\n• Evidence 2: \"The easy-grip packaging, which is convenient for consumers of all ages...\" (clear structure with specific details)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N Ready-to-drink Teh Tarik... can be enjoyed anytime, anywhere.\" (forward-looking convenience claim)\n• Evidence 2: \"No. 1* in Total Malaysia in Evaporated Milk category\" (market position relevant to investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Despite a challenging year due to the COVID-19 pandemic... aided by successful execution of operational strategies as well as recovery in the Indochina and export markets.\" (acknowledges challenges and provides context)\n• Evidence 2: \"Sales of these products increased from 5,000 cases a month... to 25,000 cases in September 2020.\" (specific quantitative data supporting claims)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We continued to strengthen our distribution network and increase coverage by 2,000 new outlets\" (clear, direct language with specific metrics)\n• Evidence 2: \"TEAPOT is the market-leading brand in condensed milk market in both Cambodia and Laos\" (precise terminology with contextual clarity)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Export market performed particularly well this year, growing by 14 per cent... contributed to over RM200 million in revenue\" (material financial information for investors)\n• Evidence 2: \"We were also awarded... Zero Accident Campaign 2020 from Ministry of Labour Thailand\" (corporate governance and risk management relevance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The year will no doubt be challenging, but with new products and route to market, better service and expanded reach, we are certain of continuing to bring smiles to everyone.\"\n• Evidence 2: \"Revenue increased by 1.8 per cent, from RM1.91 billion to RM1.94 billion, aided by a favourable Thai Baht/Ringgit exchange rate.\"\n• Evidence 3: \"Economic uncertainties, and cost-conscious consumer behaviour\" (discloses risks but lacks specific mitigation details)."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"New Products in FY2020\" section with clear product listings and quantitative data (e.g., \"nine per cent increase in unit sales\").\n• Evidence 2: \"F&N Dairies (Thailand) Limited ranked first as a manufacturer...\" (precise, factual statement)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We will continue to offer attractive savings with value packs and bundles\" (forward-looking strategy relevant to investors).\n• Evidence 2: \"Revenue increased by 1.8 per cent... aided by a favourable Thai Baht/Ringgit exchange rate\" (explains performance drivers)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Restated for adjustments pursuant to the adoption of MFRS 15...\" (discloses restatement rationale)\n• Evidence 2: \"Dividend – payout (%) 55% 65% 55% 54% 54%\" (provides factual financial metrics without overt bias)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Profit for the year 385.4 323.3 386.5 (i) 410.2 410.1\" (clear numerical presentation)\n• Evidence 2: \"Debt to equity ratio 20.3 17.8 14.6 4.9 3.4\" (direct comparison of ratios)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Revenue 4,167.6 4,101.4 3,871.0 (i) 4,077.1 3,988.5\" (provides historical financial data)\n• Evidence 2: \"PBT on revenue 10.6 8.6 11.0 (i) 13.1 13.1\" (explains performance drivers)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 3,
+    "justification": "• Evidence 1: No disclosure of risks, challenges, or uncertainties\n• Evidence 2: Data presented without contextual explanation or verification"
+  },
+  "Understandability": {
+    "score": 4,
+    "justification": "• Evidence 1: Fragmented structure with unclear groupings of percentages\n• Evidence 2: Repetitive formatting without clear headings or definitions"
+  },
+  "Relevance": {
+    "score": 3,
+    "justification": "• Evidence 1: No explanation of performance changes or forward-looking information\n• Evidence 2: Missing material events, corporate governance, or risk factors"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: The text provides specific numerical data (e.g., 'RM2,167.6 million', 'RM2,044.7 million') which supports factual disclosures.\n• Evidence 2: It clarifies that 'community investments are not included' in economic value retained, showing some transparency."
+  },
+  "Understandability": {
+    "score": 4,
+    "justification": "• Evidence 1: The text repeats identical numerical blocks multiple times, creating confusion and redundancy.\n• Evidence 2: The formula for 'economic value retained' is presented without clear explanation or logical flow."
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: Financial metrics (revenue, dividends, expenses) are provided, which are relevant to investors.\n• Evidence 2: Corporate governance disclosures (e.g., FTSE4Good inclusion, NACRA award) are included, though lacking detailed context."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Company is guided by the principles of the Malaysian Code on Corporate Governance...\" (neutral, factual disclosure of governance framework)\n• Evidence 2: \"The Group has in place a Code of Business Ethics and Conduct...\" (specific policy reference with no overstatement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board comprises eleven Non-Executive Directors...\" (clear structure with numerical data)\n• Evidence 2: \"Directors Training Programmes Attended...\" (precise, itemized listing of educational activities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The SRMCom provides oversight and approves strategic initiatives...\" (direct link to risk management practices)\n• Evidence 2: \"Details of the corporate sustainability...\" (connects governance to material ESG factors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company observes the Corporate Disclosure Guide issued by Bursa Securities as well as the disclosure requirements of the Listing Requirements of Bursa Securities.\"\n• Evidence 2: \"An independent scrutineer is appointed to validate the votes cast at general meetings.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company holds two briefing sessions in each financial year for fund managers, investment analysts and media...\"\n• Evidence 2: \"The AuditCom reviews and assesses the adequacy of the risk management and internal control systems...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board acknowledges its responsibility to maintain a sound risk management and internal control system...\"\n• Evidence 2: \"The NomCom reviews the term of office and performance of the AuditCom and its members...\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee reviewed the quarterly and annual consolidated financial statements... compliance with applicable financial reporting standards...\" (truthful, objective review of financial processes)\n• Evidence 2: \"There was no significant matter of disagreement between the auditors and Management\" (neutral disclosure of absence of conflicts)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee is responsible among others, to review and monitor... audit process...\" (clear structure and precise role definition)\n• Evidence 2: \"The operational costs incurred by Group Internal Audit... amounted to about RM1.4 million\" (direct, quantifiable information)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee had assessed the performance of the Group Internal Audit function...\" (direct relevance to governance and internal controls)\n• Evidence 2: \"The related party transactions... were reviewed to ensure... normal commercial terms\" (material governance and risk disclosure)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the system of risk management and internal control are designed to manage and mitigate risks rather than eliminate risks which may hinder the achievement of the Group’s objectives and would therefore provide only reasonable and not absolute assurances against material misstatements or losses.\"\n• Evidence 2: \"The ERM Validation Report summarises the risk management activities conducted and implementation of ERM Policy during the financial year whilst the Comfort Matrix sets out the key financial, compliance, operational, and information technology risks of the Group...\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The ERM process involves a systematic application of the risk management methodology to facilitate risk identification, assessment, reporting as well as monitoring and review as described below:\"\n• Evidence 2: \"The Group’s pandemic preparedness was further strengthened...\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board is cognizant of the importance of business continuity management (\"BCM\") in strengthening the Group’s resilience...\"\n• Evidence 2: \"The SRMC also maintains a close relationship with the Audit Committee to minimise and/or prevent any overlapping of functions with the Audit Committee...\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Obtained external assurance on selected Environment and Social disclosures from Lloyd’s Register Quality Assurance' (specific fact and third-party validation)\n• Evidence 2: 'Achieved 5 of our Sustainability Targets for 2020 and made good progress on another 3' (quantifiable achievement without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Our Materiality Assessment, first carried out in 2017 and reviewed each year' (clear timeline and process)\n• Evidence 2: 'Lost time injury frequency rate (LTIFR) in 2020 is 1.97 per 1,000,000 hours worked' (precise metric with context)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Included in the FTSE4Good Bursa Malaysia Index for the second consecutive time, with higher rating for our ESG practices' (investor-relevant benchmarking)\n• Evidence 2: 'Our response to COVID-19... includes ensuring the wellbeing of our people is our top priority' (material event and risk management)"
+  }
+}

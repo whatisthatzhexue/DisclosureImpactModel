@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks contributed a total of 1,300 community service hours.\" (specific factual data)\n• Evidence 2: \"Due to the COVID-19 pandemic, several community service programmes...were postponed or cancelled.\" (acknowledges challenges without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The three-story, 4,600 sq. ft. store...showcases how digital innovation enhances inclusive design.\" (clear structure with specific details)\n• Evidence 2: \"Deaf employees provide customers with a uniquely uplifting Starbucks Experience.\" (direct language about program impact)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks collaborated with the Penang Deaf Association...to open its first Signing Store.\" (material event with stakeholder collaboration)\n• Evidence 2: \"In conjunction with the Hari Raya festive season...donating 375 boxes of Chewy Kurma Cookies.\" (specific community impact relevant to investors)"
+  }
+}

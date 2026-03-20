@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• The report demonstrates strong reliability through specific factual data (e.g., 'BASIC EARNINGS PER SHARE (sen) +1.5% +32.7% 57.5 sen per share'), neutral statements (e.g., 'The Board COA clearly sets out the key matters reserved for the Board's deliberation'), and transparent disclosures (e.g., 'approved the Circular to Shareholders in relation to recurrent related party transactions'). However, some sections lack risk disclosures or overstatement (e.g., 'we believe we are in a better position than many other beverage manufacturers to override this challenge'), which slightly lowers the score from the highest possible."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• The report generally provides clear structure and precise language (e.g., '57.5 sen per share', 'The key matters reserved for the Board for decision include the following: [bullet points]'), enhancing readability. While some sections have disjointed numerical presentations (e.g., '4.11 4.17 FY2016 FY2015 333.8 442.9') or complex sentence structures, the majority of content is logically organized and direct, supporting a high understandability score."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• The report includes material financial information (e.g., 'DIVIDEND FOR THE YEAR', 'approved annual business plan, budget and capital expenditures') and forward-looking details (e.g., 'we expect FY2017 to continue to be challenging...'). However, some sections lack performance explanations, risk disclosures, or investor-specific insights (e.g., 'no explanation of performance changes'), which slightly reduces the relevance score compared to the highest possible."
+  }
+}

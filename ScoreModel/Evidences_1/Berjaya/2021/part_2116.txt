@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"For every cookie purchased by Starbucks customers, RM1 will be donated to the Silent Teddies Bakery.\" (specific factual claim)\n• Evidence 2: \"The monthly volunteering programme... temporarily halted due to the COVID-19 pandemic.\" (acknowledges a challenge without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Inventory Management System was further improved to increase the efficiency...\" (clear, direct statement)\n• Evidence 2: \"Revenue RM717million FYE 2020 - RM633 million\" (precise numerical presentation with context)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks has raised a total of RM73,260 for the Silent Teddies Bakery...\" (material event impacting stakeholders)\n• Evidence 2: \"Profit / (Loss) Before Tax... Return on Equity 12.5%\" (financial performance data relevant to investors)"
+  }
+}

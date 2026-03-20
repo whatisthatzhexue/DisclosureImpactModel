@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"According to CGS International Securities Research, the construction sector in Malaysia has of late seen a strong flow in new orders for data centres, semiconductor factories and industrial warehouses.\"\n• Evidence 2: \"Stripping out early-stage capacity, we estimate a potential cost of US$7mil-US$9mil per megawatt to construct a data centre...\""
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We believe the government’s development expenditure (DE) allocation of RM90bil for 2024...is a demonstration of its commitment to the construction sector.\"\n• Evidence 2: \"The timeline for the KL-Singapore high speed rail (HSR) has largely been met...we do not discount the possibility of the KL-Singapore HSR taking precedence over MRT3...\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The estimated amount was equivalent to the value of MRT3 civil works of around RM28bil. However, CGS Research cautioned that the simple calculation was still dependent on other factors.\"\n• Evidence 2: \"Gamuda’s strong MRT track record and tunnelling expertise had enabled it to successfully penetrate into Australia and Taiwan...\""
+  }
+}

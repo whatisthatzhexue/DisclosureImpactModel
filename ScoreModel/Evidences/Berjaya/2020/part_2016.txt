@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BStarbucks reduced the consumption of paper bags by 21% compared to 13.6% in the previous financial period.\" (specific factual data)\n• Evidence 2: \"BFood... set up a special task force to manage matters related to COVID-19...\" (neutral description of actions taken)"
+    "score": 9,
+    "justification": "• Evidence 1: \"12 KRR restaurants have replaced its lights with LED lighting.\" (specific fact)\n• Evidence 2: \"reduced the consumption of paper bags by 21%\" (quantifiable achievement)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood introduced non-woven gift bags in November 2017...\" (clear, direct statement)\n• Evidence 2: \"The respective brands under the Group communicate their promotional campaigns through various social media...\" (structured explanation with specific methods)"
+    "score": 9,
+    "justification": "• Evidence 1: \"BRoasters and Jollibean Foods have replaced the use of plastic bags with biodegradable bags\" (clear, direct language)\n• Evidence 2: \"invested 129,625 hours in training and development\" (precise numerical data)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"BFood... contributed to electricity savings and subsequently, better environmental quality.\" (direct link to sustainability impact)\n• Evidence 2: \"BFood... collaborated with various e-commerce platforms... to market BFT’s products.\" (forward-looking business strategy)"
+    "justification": "• Evidence 1: \"contributions to Covid-19 frontliners\" (material event impacting stakeholders)\n• Evidence 2: \"planning to run a pilot project at 5 Drive-Thru stores\" (forward-looking information)"
   }
 }

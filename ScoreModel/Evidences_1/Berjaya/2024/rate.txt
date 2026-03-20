@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Most scoring results highlight robust reliability with specific factual data (e.g., revenue figures, transaction dates, compliance disclosures) and neutral explanations of financial performance. High scores (9-10) cite verifiable metrics and objective risk management processes, while lower scores (e.g., 5-7) lack detailed risk disclosures or overstate claims. Compromised score of 8 reflects majority of strong, neutral disclosures balanced with some gaps in risk transparency."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• High relevance scores (8-9) focus on material events, forward-looking strategies, and investor-linked disclosures (e.g., dividend trends, sustainability initiatives). Lower scores (e.g., 4-6) lack direct ties to financial performance or governance. Final score of 7 reflects balanced coverage of strategic relevance and materiality, with room for improvement in linking disclosures to investor decision-making."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Most scoring results emphasize clear structure, precise language, and logical flow (e.g., numerical data, bullet points, direct explanations). Lower scores (e.g., 4-6) cite vague phrasing or redundant formatting. Final score of 8 captures dominant clarity and precision while acknowledging minor inconsistencies in some entries."
+  }
+}

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"BFood does not offer processed food and has set a strategy with targets and goals to improve access to better nutrition\" (specific claim with stated objectives).\n• Evidence 2: \"Any product mismanagement can result in a loss of reputation, financial penalties and a possible product safety law breach\" (disclosure of risks)."
+    "justification": "• Evidence 1: \"BFood does not offer processed food and has set a strategy with targets and goals to improve access to better nutrition, including: Raising awareness of healthy eating; Creating a healthy options section on the menu; Promoting meals with less salt; and Being transparent about calorie intake and dietary requirements.\"\n• Evidence 2: \"This retail food safety programme assesses food safety principles and controls, including behaviour, temperature, pest and contamination. The identified risks are categorised as critical, major and minor.\"\n• Evidence 3: \"Any product mismanagement can result in a loss of reputation, financial penalties and a possible product safety law breach.\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BFood responsibly sources, prepares and serves all food and beverages from farm to table\" (clear, direct statement).\n• Evidence 2: \"DID YOU KNOW\" section uses informal tone but provides concise factual information (redundant phrasing in some sections)."
+    "justification": "• Evidence 1: \"BFood responsibly sources, prepares and serves all food and beverages from farm to table.\"\n• Evidence 2: \"This year, BFood upgraded its food quality and assurance system by implementing the Food Safety Assessment (\"FSA\").\""
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"Promoting meals with less salt; and Being transparent about calorie intake and dietary requirements\" (strategies relevant to investor concerns about health impacts).\n• Evidence 2: \"BStarbucks has received more than 15 Starbucks Regional and Global Awards...\" (performance metrics relevant to business operations)."
+    "justification": "• Evidence 1: \"BStarbucks has received more than 15 Starbucks Regional and Global Awards in the past six years.\"\n• Evidence 2: \"This retail food safety programme assesses food safety principles and controls, including behaviour, temperature, pest and contamination.\"\n• Evidence 3: \"BStarbucks only partners with food service professionals who share a passion for great coffee and quality customer service.\""
   }
 }

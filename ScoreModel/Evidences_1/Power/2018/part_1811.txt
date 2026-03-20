@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board of Directors... is committed to continuously promote and update the sustainability practices...\" (neutral commitment without overstatement)\n• Evidence 2: \"The Group is subject to periodic assessments by the Department of Environment Malaysia...\" (disclosure of regulatory risks)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The material sustainability matters assessment process employed by the Group entails the following major steps...\" (clear procedural structure)\n• Evidence 2: \"The Board assumes ultimate responsibility for sustainability management...\" (precise role definition)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"prepared pursuant to Main Market Listing Requirements...\" (directly relevant to investor compliance expectations)\n• Evidence 2: \"the Group is subject to periodic assessments...\" (material risk disclosure for investors)"
+  }
+}

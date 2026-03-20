@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The significant increase in the pre-tax profit was in tandem with the higher revenue recorded...\" (specific cause-effect relationship)\n• Evidence 2: \"While most countries...global economic outlook has deteriorated...\" (discloses macroeconomic risks)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group declared and paid a total dividend of 5.50 cents single-tier dividend per share...\" (clear numerical specifics)\n• Evidence 2: \"The first Paris Baguette outlet...end of 2022\" (precise timeline for material event)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group will continue to focus on its cost optimisation efforts...\" (forward-looking operational strategies)\n• Evidence 2: \"Recognising the growing popularity...\" (market trend analysis relevant to investor decision-making)"
+  }
+}

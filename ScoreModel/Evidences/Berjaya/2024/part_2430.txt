@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"In FY2024, there were no incidents of bribery, corruption, or legal actions related to anti-competitive behaviour involving any BFood brand.\" (specific factual statement)\n• Evidence 2: \"Employees ('Partners') found involved in bribery face disciplinary action, potentially leading to termination.\" (objective disciplinary policy)"
+    "justification": "• Evidence 1: \"In FY2024, there were no incidents of bribery, corruption, or legal actions related to anti-competitive behaviour involving any BFood brand.\"\n• Evidence 2: \"The Group conducts annual assessments and compliance reviews at selected entities.\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Group handles each allegation professionally and confidentially.\" (clear, direct language)\n• Evidence 2: \"Malaysian Specialty Coffee Association (\"MSCA\")\" (precise terminology with explanations in parentheses)"
+    "justification": "• Evidence 1: \"BFood provides employees ('partners') and external stakeholders with a Whistleblowing communication channel for reporting concerns related to non-compliance.\"\n• Evidence 2: \"Fostering an environment of collaboration addresses critical industry challenges and supports innovation through shared expertise and collective action.\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood provides employees ('partners') and external stakeholders with a Whistleblowing communication channel...\" (corporate governance relevant to investors)\n• Evidence 2: \"INDUSTRY ADVANCEMENT THROUGH COLLABORATIONS\" (strategic engagement relevant to industry positioning)"
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood is committed to advancing the industry through proactive collaboration with industry associations.\"\n• Evidence 2: \"Notable Industry Memberships\" section detailing organizational affiliations."
   }
 }

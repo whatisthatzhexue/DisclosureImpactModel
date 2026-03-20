@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 8, "justification": "• Evidence 1: \"MBSA is the only local authority in Selangor to receive this reward.\" (verifiable claim about exclusivity)\n• Evidence 2: \"The assessment session was conducted last August 2023\" (specific date and event timeline)"},
+  "StrategicRelevance": {"score": 2, "justification": "• Evidence 1: No mention of Berjaya Food Berhad or any business operations related to the company\n• Evidence 2: Focus on municipal tourism awards unrelated to food/beverage industry strategies or financial performance"},
+  "Depth": {"score": 4, "justification": "• Evidence 1: Provides basic details about the award criteria and event (environmental regulation, waste management, etc.)\n• Evidence 2: Includes quotes from officials but lacks contextual analysis of how this achievement impacts local economy or business environment"}
+}

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"the Board is satisfied with the level of independence and objectivity demonstrated by all Independent Non-Executive Directors\" (neutral, factual assessment)\n• Evidence 2: \"the Nominating Committee will conduct the independence and objectivity review\" (specific process described)"
+    "justification": "• Evidence 1: \"The Board is satisfied with the level of independence and objectivity demonstrated by all Independent Non-Executive Directors...\" (specific factual statement about board satisfaction)\n• Evidence 2: \"The Nominating Committee will conduct the independence and objectivity review and provide a recommendation to the Board.\" (neutral, process-focused description)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The tenure of an Independent Non-Executive Director... shall not exceed a cumulative term of nine -9 years\" (clear, direct statement)\n• Evidence 2: \"the Nominating Committee may seek independent professional advice... at the Company’s expense\" (precise explanation of process)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The tenure of an Independent Non-Executive Director... shall not exceed a cumulative term of nine -9 years.\" (clear, direct statement of policy)\n• Evidence 2: \"All Directors... shall retire at regular intervals by rotation at least once every three (3) years...\" (precise, structured explanation of rotation policy)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"the Board should seek annual shareholders’ approval through a two-tier voting process\" (material governance process for investors)\n• Evidence 2: \"gender and ethnic diversity within the Board would be considered\" (relevant to assessing corporate governance quality)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Appointment of new Directors... are recommended to the Nominating Committee... in accordance with the Policy and Procedures...\" (directly relevant to investor concerns about governance processes)\n• Evidence 2: \"gender and ethnic diversity within the Board would be considered...\" (addresses diversity, a key governance factor for investors)"
   }
 }

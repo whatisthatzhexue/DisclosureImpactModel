@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"PKR secretary-general Dr Fuziah Salleh said the dates were adjusted following an official request from AMK and Wanita Keadilan.\" \n• Evidence 2: \"The nominations are done online and can only be accessed by party members.\""
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad, its business operations, financial performance, or strategic initiatives. \n• Evidence 2: The content focuses exclusively on PKR's internal political processes, which are unrelated to the company's operations or stakeholder interests."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"At least eight big names have entered the fray for the PKR vice-presidents’ elections...\" (comprehensive candidate list). \n• Evidence 2: \"The 2025 PKR elections... will also take place on the same day.\" (detailed timeline and event context)."
+  }
+}

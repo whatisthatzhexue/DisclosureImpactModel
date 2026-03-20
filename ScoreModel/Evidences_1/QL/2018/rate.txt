@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The report consistently demonstrates high reliability through regulatory compliance (e.g., adherence to listing requirements and Malaysian corporate governance codes), transparent disclosure of audit processes, and specific financial data (e.g., 2% PBT contraction, mortality rate metrics). While all scoring results align on strong reliability, the average of 8.5 reflects nuanced differences in the depth of evidence, such as the third result’s emphasis on ERM frameworks and the fourth’s inclusion of visual aids for materiality assessments."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "The report provides relevant information on material risks (e.g., international fishmeal price trends, climate change impacts) and corporate governance, as noted in the third result’s 9. However, the first and fourth results highlight gaps in addressing stakeholder concerns or long-term strategic relevance. The average of 7.5 balances strong forward-looking disclosures with areas needing more explicit linkage to investor priorities, such as stakeholder contributions to sustainable growth."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "The report excels in structure and clarity, with direct language and logical organization (e.g., four-section structure, tables for certifications). The first and fourth results emphasize precise process descriptions and visual aids, while the third result’s 7 reflects slightly less clarity in explaining ERM frameworks. The average of 8 captures the overall strong readability, with minor improvements needed in technical explanations for non-specialist readers."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"This has seen us integrate the Soft Drinks and Dairies Malaysia segments...\" (specific operational changes)\n• Evidence 2: \"we will be investing significantly... RM300 million in capital expenditure\" (quantifiable forward-looking commitment)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"streamline our operations, reducing duplication... optimising value\" (clear logical structure)\n• Evidence 2: \"building our export capacity by strengthening our export team...\" (precise, direct language)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"announced over RM300 million in capital expenditure...\" (forward-looking investment info)\n• Evidence 2: \"working more closely with... MITI to reach out to new halal markets\" (strategic direction for investors)"
+  }
+}

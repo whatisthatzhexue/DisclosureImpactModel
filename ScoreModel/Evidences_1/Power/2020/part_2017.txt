@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"However, as there are inherent limitations in any risk management and internal control systems, such systems are designed to manage, rather than eliminate risks...\" (acknowledges limitations and avoids overstatement)\n• Evidence 2: \"The Board does not review... joint venture company...\" (discloses specific scope limitations and factual context)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board delegates the duty... to Risk Management Committee...\" (clear structure of responsibilities)\n• Evidence 2: \"The scope of this Statement includes... all operating subsidiaries\" (precise definition of coverage)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Explains reasons for performance changes\" (no specific performance data provided, but discusses risk management frameworks)\n• Evidence 2: \"Includes risks, material events...\" (mentions risk management and corporate governance elements relevant to investors)"
+  }
+}

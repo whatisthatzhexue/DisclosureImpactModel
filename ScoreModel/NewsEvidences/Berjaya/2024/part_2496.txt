@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The establishment of the Gig Workers Commission announced by the government...\" (verified government action)\n• Evidence 2: \"Prime Minister... announced the establishment...\" (official source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"food delivery riders (p-hailing)\" (indirectly relates to food delivery sector)\n• Evidence 2: No direct mention of Berjaya Food Berhad or its business strategies"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"lack of bodies or groups that have fought for the fate of gig economy workers...\" (contextual background)\n• Evidence 2: \"regulatory framework for the commission... free market oriented\" (detailed analysis of commission structure)"
+  }
+}

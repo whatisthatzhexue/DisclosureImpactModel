@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: 'We have established and made public on our website, an Anti-Bribery Policy (ABP) and also updated our Whistle-Blowing Policy.'\n• Evidence 2: 'FY2020 called on all our astuteness and prudent management to steer the business through with foresight, grit and determination.'"
+    "justification": "• Evidence 1: \"We have established and made public on our website, an Anti-Bribery Policy (ABP) and also updated our Whistle-Blowing Policy.\" (specific policy disclosure)\n• Evidence 2: \"FY2020 saw our Senior Independent Non-Executive Director... retiring after serving QL faithfully...\" (neutral disclosure of personnel changes)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: 'QL continues its annual reviews of practices with reference to the Malaysian Code on Corporate Governance 2017.'\n• Evidence 2: 'The good result of this foray in Indonesia is attributable to the research and development team who understand local market taste and was able to develop products accordingly.'"
+    "score": 9,
+    "justification": "• Evidence 1: \"Our corporate governance is underscored by our commitment to our mission of providing nourishing products...\" (clear structure with logical flow)\n• Evidence 2: \"The culmination of this is QL delivering a top line growth of 15%...\" (precise financial metrics with context)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: 'Our corporate governance is underscored by our commitment to our mission of providing nourishing products from agro resources...'\n• Evidence 2: 'The pandemic's impact on operations and financials is explicitly discussed, including RM500,000 donation to COVID-19 relief efforts.'"
+    "score": 8,
+    "justification": "• Evidence 1: \"We will continue our relentless effort to contribute to the nation’s development...\" (investor-relevant strategic focus)\n• Evidence 2: \"The good result of this foray in Indonesia is attributable to the research and development team...\" (explanation of performance drivers)"
   }
 }

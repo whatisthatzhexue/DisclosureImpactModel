@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"In FY2019, our operations generated 249,973 tonnes of POME.\" (specific factual data)\n• Evidence 2: \"we test the quality of our discharge and report the results to DOE to ensure the readings are within regulatory limits.\" (objective compliance disclosure)"
+    "justification": "• Evidence 1: 'In FY2019, our operations generated 249,973 tonnes of POME.' (specific factual data)\n• Evidence 2: 'Further information on the energy generated from our biogas plant is under the greenhouse gas emissions section.' (direct reference to supporting documentation)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The plant captures methane released by POME during anaerobic digestion and converts the gas into a source of fuel in the form of biogas.\" (clear explanation of process)\n• Evidence 2: \"Diagram 7: Average reading of BOD in POME (mg/L) at QL Plantation Sdn. Bhd.\" (structured visual reference, though data presentation is ambiguous)"
+    "score": 6,
+    "justification": "• Evidence 1: 'The effluent from POA operations are discussed in the section shown below.' (clear reference to related content)\n• Evidence 2: 'Diagram 7: Average reading of BOD in POME (mg/L) at QL Plantation Sdn. Bhd.' (ambiguous diagram description lacking data points)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"QL Plantation Sdn. Bhd. has made significant strides in the management of POME...\" (operational performance insight)\n• Evidence 2: \"Further information on the energy generated from our biogas plant is under the greenhouse gas emissions section.\" (cross-referenced forward-looking information)"
+    "justification": "• Evidence 1: 'QL Plantation Sdn. Bhd. has made significant strides in the management of POME...' (practical operational information)\n• Evidence 2: 'Prior to discharge, we test the quality of our discharge and report the results to DOE...' (regulatory compliance relevance)"
   }
 }

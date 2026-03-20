@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: 'Number of Corruption and Bribery Cases Number 0 0 0' (neutral, factual disclosure of zero incidents)\n• Evidence 2: 'Occupational Safety & Health Fatality Case 1 0 1' (specific, objective data on safety incidents)"
+    "justification": "• Evidence 1: 'Number of Corruption and Bribery Cases Number 0 0 0' (neutral disclosure of zero incidents)\n• Evidence 2: 'Non-Compliance Case 3 1 7' (specific, factual reporting of non-compliance incidents)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: 'PERFORMANCE DATA TABLE' with clear metrics (energy consumption, emissions, etc.)\n• Evidence 2: 'Total Training Hours Hours 52,937 106,490 179,037' (precise numerical presentation)"
+    "justification": "• Evidence 1: 'Energy Consumption Intensity GJ/RM mil Revenue 350.38 255.66 355.29' (clear metric presentation with units)\n• Evidence 2: 'Total Training Hours Hours 52,937 106,490 179,037' (direct, numerical reporting with consistent formatting)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: 'Direct Economic Value Generated Sale of Goods RM’000 4,308,421 4,968,001 5,935,525' (financial performance relevant to investors)\n• Evidence 2: 'Occupational Safety & Health Fatality Case 1 0 1' (risk disclosure relevant to stakeholder concerns)"
+    "justification": "• Evidence 1: 'Economic Value Distributed RM’000 4,141,086 5,106,176 6,072,781' (financial performance data relevant to investors)\n• Evidence 2: 'Number of Substantiated Complaints Concerning Harassment Case 4 2 2' (material event disclosure related to governance)"
   }
 }

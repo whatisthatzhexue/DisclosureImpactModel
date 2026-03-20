@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Framework and the BCM plans developed are reviewed on an annual basis and tested periodically to ensure that it is up-to-date and relevant to the business environment.'\n• Evidence 2: 'The Board is of the view that the Group’s overall risk management and internal control system is sound and adequate in all material aspects, and has received the same assurance from both the CEO and CFO of the Group.'"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The BCM Framework and the BCM plans developed are reviewed on an annual basis and tested periodically to ensure that it is up-to-date and relevant to the business environment.'\n• Evidence 2: 'The audits are designed to test the appropriateness of control design and implementation as well as compliance with the existing policies and procedures.'"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Directors... have responsibility to ensure that a system of internal control is in place to ensure that the assets of the Group are safeguarded against loss from unauthorised use or disposition.'\n• Evidence 2: 'Details of the recurrent related party transactions entered into during the financial year... are as follows:' (includes specific transaction data relevant to investors)"
+  }
+}

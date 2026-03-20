@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Prosperity Burger by McDonald’s Malaysia is now back and is ready to provide Malaysians a cherishing experience.\" (Quotes from a company executive, but no third-party verification)\n• Evidence 2: \"The burger has now gone beyond Malaysian borders and become a favourite in several Asian countries.\" (Claims about market expansion lack verifiable data or sources)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"We believe in creating ‘delicious feel-good’ moments of joy for every Malaysian, no matter their background or social group.\" (Aligns with community engagement strategy)\n• Evidence 2: \"The growth of McDonald’s Malaysia isn’t just about expanding our presence. It is also about deepening our local roots...\" (Mentions long-term local integration, but lacks financial or competitive context)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Prosperity Burger is now available in all McDonald’s outlets in Malaysia. Diners can choose from two variations...\" (Provides operational details and product specifics)\n• Evidence 2: \"The film highlights how the burger has brought Malaysians together across generations...\" (Contextualizes cultural significance, though lacks quantitative impact analysis)"
+  }
+}

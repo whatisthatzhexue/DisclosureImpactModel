@@ -1,15 +1,15 @@
 {
   "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'the Board has delegated specific duties to four -4 Board Committees, namely the Audit Committee, Nominating Committee, Remuneration Committee and Option Committee' (neutral, factual description).\n• Evidence 2: 'in compliance with the MMLR' (supports reliability through regulatory adherence)."
+    "score": 7,
+    "justification": "• Evidence 1: \"In discharging its fiduciary duties, the Board has delegated specific duties to four -4 Board Committees...\" (neutral, factual description of governance structure)\n• Evidence 2: \"The Nominating Committee is guided by written Terms of Reference duly approved by the Board\" (supports reliability through regulatory compliance references)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: 'The terms of reference, the number of meetings held, and activities carried out during the financial year... can be found on pages 87 to 92' (clear reference to supporting details).\n• Evidence 2: 'The Nominating Committee is guided by written Terms of Reference duly approved by the Board' (precise language, though some formatting anomalies like 'VEJU$PNNJUUFF' may reduce clarity)."
+    "score": 6,
+    "justification": "• Evidence 1: \"The terms of reference, the number of meetings held... can be found on pages 87 to 92\" (clearly directs readers to additional information)\n• Evidence 2: \"The Nominating Committee comprised exclusively Independent Non-Executive Directors\" (precise language about committee composition)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: 'Discloses in relation to the Audit Committee' (directly relevant to investor concerns about governance structures).\n• Evidence 2: 'the Nomin,ating Committee comprised exclusively Independent Non-Executive Directors' (relevant to corporate governance but lacks forward-looking or risk-related context)."
+    "justification": "• Evidence 1: \"The ultimate responsibility and the final decision on all matters... lies with the Board of Directors\" (relevant governance information for investors)\n• Evidence 2: \"The Terms of Reference for the Nomin... is available on the company’s website\" (provides access to detailed governance information)"
   }
 }

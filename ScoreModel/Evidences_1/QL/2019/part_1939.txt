@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The Board is of the view that the risk management and internal control systems...adequate and effective\" (neutral assessment without overstatement)\n• Evidence 2: \"There have been no significant breakdowns or weaknesses...\" (discloses absence of issues but lacks specific risk details)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group's system of internal control applies to QL Resources Berhad and its subsidiaries...\" (clear structure and direct explanation)\n• Evidence 2: \"the Group's interest is served through representations on the boards...\" (precise language with logical flow)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The Group's system of internal control applies to QL Resources Berhad and its subsidiaries...\" (relevant to corporate governance)\n• Evidence 2: \"the Group continues to take the necessary measures...\" (addresses ongoing internal control relevance)"
+  }
+}

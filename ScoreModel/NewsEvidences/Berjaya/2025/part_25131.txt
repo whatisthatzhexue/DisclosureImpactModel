@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The text accurately describes the origin of Spoon Theory, citing Christine Miserandino’s 2003 development and its adoption by individuals like Linda Caserman and Siti Suhaillah Hussein.\n• Evidence 2: The article includes verifiable details about medical conditions (e.g., autoimmune hepatitis, Hashimoto’s disease) and real-world examples of Spoon Theory’s application, with no fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad, its business operations, financial performance, or strategic initiatives.\n• Evidence 2: The content is entirely focused on health advocacy and personal narratives unrelated to the company’s market position or value creation."
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: The text provides comprehensive coverage of Spoon Theory, including its conceptual origins, real-world applications, and impact on diverse communities (e.g., Spoonie Kids, mental health advocacy).\n• Evidence 2: Detailed examples, such as Siti Suhaillah Hussein’s career shift and Joyce Hue’s RM100 analogy, illustrate the theory’s practical relevance and depth of analysis."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&B Thailand continued to grow from strength to strength as our teams focused on product and packaging innovation as well as the effective execution of marketing and branding initiatives.\" (neutral, factual description of growth drivers)\n• Evidence 2: \"Nevertheless, we remain positive on our operations in Thailand, given the strong brand equity and product portfolio...\" (acknowledges challenges while maintaining objectivity)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"F&N Magnolia Lactose Free Milk Product – Peppermint Brownie\" (clear, specific product naming convention)\n• Evidence 2: \"The new addition to TEAPOT Squeeze – Caramel variant contributed to a four per cent increase in the squeeze tube market.\" (precise explanation of product impact)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Robust sales in Thailand and Indochina, together with a strengthening Thai Baht against the Ringgit, led to an 11.3 per cent increase in F&B Thailand’s revenue...\" (explains revenue drivers)\n• Evidence 2: \"We seek to collaborate more closely with the ThaiBev Group to distribute our products more extensively...\" (forward-looking strategic initiatives)"
+  }
+}

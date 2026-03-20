@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites the 2023 Putra Brand Awards platinum award as a verifiable achievement, with direct quotes from Prof Mazliham.\n• Evidence 2: The text provides specific details about partnerships (e.g., ZTE, Huawei) and program structures (iCadet, eCadet) without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: The text emphasizes MMU's strategic focus on industry collaboration, research integration, and curriculum innovation, aligning with its mission as a research-led university.\n• Evidence 2: Mention of research grants, industry-on-campus labs, and stakeholder engagement highlights strategic alignment with market demands and long-term value creation."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article thoroughly details MMU's initiatives (e.g., six research centres, HyFlex classrooms, campus dining transformations) with specific examples and data (e.g., 16,000 students, 70,000 graduates).\n• Evidence 2: Comprehensive coverage of programs like iCadet, eCadet, and ESG modules, along with their goals and implementation, provides contextual depth and analytical insight."
+  }
+}

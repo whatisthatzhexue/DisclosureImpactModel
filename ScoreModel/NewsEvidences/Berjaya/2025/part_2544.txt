@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This is to ensure that the learning process of students at the involved schools is not affected,\" it said in a statement Saturday (May 17).\n• Evidence 2: \"Parents, guardians, students, teachers and school staff involved are advised to refer to the official channels of their respective schools to obtain further information on the implementation of PdPR,\" it added."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or any business operations, financial performance, or strategic initiatives related to the company.\n• Evidence 2: The content focuses solely on educational policy decisions and does not connect to business performance factors, market impact, or stakeholder significance for the company."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides a comprehensive list of 71 schools involved, offering specific details about the affected institutions.\n• Evidence 2: It includes context about the decision's rationale (security measures during the Asean Summit) and references past experiences with PdPR during the pandemic, though it lacks deeper analysis of implications or broader educational impacts."
+  }
+}

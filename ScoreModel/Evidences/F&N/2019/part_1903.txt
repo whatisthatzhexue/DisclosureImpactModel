@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"We are in the process of acquiring 4,454 hectares of land...\" (specific factual statement)\n• Evidence 2: \"We have already made a positive start...\" (quantifiable achievement) but lacks disclosure of risks (e.g., no mention of potential financial, operational, or market risks associated with the dairy farm project)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The aim is eventually to house 20,000 milking cows and produce 200 million litres of fresh milk per annum.\" (specific factual claim with no risk disclosure)\n• Evidence 2: \"However, the consumer sentiment index is normalising following an extraordinary peak post-general elections...\" (acknowledges macroeconomic uncertainty but lacks detailed risk analysis)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"We are ready to take our e-commerce business to the next level...\" (clear, direct language)\n• Evidence 2: \"The many benefits... will further entrench our position...\" (structured narrative with logical flow, though some technical terms like 'circular economy' may require contextual knowledge)"
+    "justification": "• Evidence 1: \"We are proud of this programme and will keep growing it as we seek to enhance Malaysia’s overall recycling rate.\" (clear, direct statement)\n• Evidence 2: \"Digital platforms as opportunities to engage more personally with consumers...\" (precise explanation of strategic focus)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Our goal is to eventually embrace a circular economy...\" (forward-looking strategic initiative)\n• Evidence 2: \"The Malaysian economy has maintained a steady momentum...\" (macroeconomic context relevant to investors) but lacks detailed risk analysis or material event disclosures"
+    "score": 9,
+    "justification": "• Evidence 1: \"Our goal is to eventually embrace a circular economy...\" (forward-looking strategy relevant to investors)\n• Evidence 2: \"The Malaysian economy has maintained a steady momentum...\" (macroeconomic context critical for investment decision-making)"
   }
 }

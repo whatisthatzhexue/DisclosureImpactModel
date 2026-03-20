@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Court of Appeal has allowed an application by Indonesian businessman Aldrin Pratama Widjaja for the return of RM1mil he had posted as bail.\" (verifiable legal action)\n• Evidence 2: \"Deputy Public Prosecutor Mohd Ashrof Adrin Kamarul, representing the prosecution, did not oppose the application.\" (neutral third-party confirmation)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or any connection to the company's operations, financials, or stakeholders\" (complete absence of direct relevance)\n• Evidence 2: \"Focus on a legal case involving an Indonesian businessman and Malaysian court proceedings\" (no tie to company context)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Detailed timeline of events including 2022 bail grant, 2023 identity inquiry, and Feb 12, 2024 High Court ruling\" (comprehensive event coverage)\n• Evidence 2: \"Background on Paiman Shakimon's 13-year prison sentence for fraud and the appeal process\" (contextual historical information)"
+  }
+}

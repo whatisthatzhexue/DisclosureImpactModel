@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Kurup passed away at the Institut Jantung Negara (IJN) at 6.22pm on Wednesday (April 18) after being treated for heart-related ailments for about three weeks.\" (specific date and location)\n• Evidence 2: \"He was 80.\" (verifiable age at death)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The entire article focuses on political career details unrelated to the company's business activities or market position."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"For nearly four decades, Kurup has stayed in the corridors of power...\" (chronological context)\n• Evidence 2: \"Kurup may not have been a giant in Sabah politics but his shrewd political maneuvers...\" (analysis of political strategies)"
+  }
+}

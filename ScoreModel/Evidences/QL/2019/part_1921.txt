@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"In FY2019, there were no reported cases.\" (specific factual disclosure)\n• Evidence 2: \"The code of conduct is communicated to all employees.\" (objective statement with no overstatement)"
+    "score": 8,
+    "justification": "• Evidence 1: \"In FY2019, there were no reported cases.\" (specific factual disclosure)\n• Evidence 2: \"The code of conduct is communicated to all employees.\" (objective, neutral statement with verifiable process)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"QL has provided interest free financial assistance to over 2,500 fishermen\" (precise numerical data)\n• Evidence 2: \"The scheme is also believed to have inadvertently created...\" (clear logical structure with direct language)"
+    "score": 9,
+    "justification": "• Evidence 1: \"We do not accept a business if it means putting people at risk\" (precise, direct language)\n• Evidence 2: \"Table 4: Total amount of interest-free financial assistance\" (clear structure with quantitative data)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Our major suppliers...contractually agree to comply with these policies\" (corporate governance relevance)\n• Evidence 2: \"QL Group contributed RM1 million...to restore the nation’s economy\" (material event with investor-relevant impact)"
+    "score": 7,
+    "justification": "• Evidence 1: \"QL Group contributed RM1 million to the trust fund\" (material event relevant to investors)\n• Evidence 2: \"The code of conduct is communicated to all employees\" (corporate governance detail)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The three-time Olympic silver medallist Chong Wei revealed that he received a suspicious call...\" (specific, verifiable details about the incident)\n• Evidence 2: \"Never reveal your IC number, bank details...\" (practical advice with no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or its operations, financials, or market position\n• Evidence 2: The article focuses on cybersecurity awareness unrelated to the company's strategic direction"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The call was abruptly cut off after a brief exchange\" (specific incident details)\n• Evidence 2: \"Mark scam numbers on apps...\" (comprehensive advice but lacks broader context or data analysis)"
+  }
+}

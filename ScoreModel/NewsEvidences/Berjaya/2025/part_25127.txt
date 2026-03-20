@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"We expect the REIT’s blended occupancy rate to improve...\" (RHB Research)\n• Evidence 2: \"We conservatively bake in a flat rental revision...\" (HLIB Research)"
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"proactive strategies to manage occupancy and optimise its financial structure\" (direct strategic focus)\n• Evidence 2: \"potential disposal of Wisma Sentral Inai...to lower gearing\" (strategic asset management)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM317mil of floating-rate debt...increasing fixed-rate borrowings to 51%\" (specific financial details)\n• Evidence 2: \"Savills projects office supply growth...slightly softer from 2024\" (market context and data)"
+  }
+}

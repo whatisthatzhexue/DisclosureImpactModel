@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood reported a lower net loss of RM35.33mil compared with a net loss of RM42.58mil in the previous corresponding period, while revenue in 2Q24 dropped to RM123.10mil from RM182.55mil a year earlier.\" (verifiable financial data)\n• Evidence 2: \"The pre-tax loss in the corresponding quarter of the previous year included a one-off loss of about RM10.5mil from disposal of a former subsidiary.\" (specific contextual explanation)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood will remain committed to growth and diversification by expanding its brand portfolio and leveraging opportunities locally and internationally.\" (direct strategic direction)\n• Evidence 2: \"The key factors that affect the performance of the group's businesses include mainly the festive seasons, tourism, eating out culture, raw material costs, staff costs and consumer perception.\" (strategic performance drivers)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"For the six-month period ended Dec 31, 2024, BFood’s net loss ballooned to RM69.01mil from a net loss of RM23.55mil in the previous corresponding period, while revenue plunged to RM247.3mil from RM461.09mil a year earlier.\" (comprehensive financial context)\n• Evidence 2: \"BFood is primarily engaged in developing and operating the 'Starbucks Coffee' brand in Malaysia and Brunei...\" (operational background)"
+  }
+}

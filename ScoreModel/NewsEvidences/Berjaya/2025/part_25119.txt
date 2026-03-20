@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Aifa (Artificial Intelligence Fact-Check Assistant) can verify text messages in four languages: English, Bahasa Malaysia, Mandarin and Tamil.\" (Verifiable technical details)\n• Evidence 2: \"From 2020 to Jan 27, 2025, a total of 25,114 fake news items have been removed.\" (Quantifiable data with timeframe)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or its business operations, strategies, or financial performance.\" (Complete absence of company-specific context)\n• Evidence 2: \"Focus on Malaysian government initiatives unrelated to food/beverage industry.\" (Irrelevance to company context)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Provides detailed statistics on fake news removal (25,114 items) and platform collaborations (MCMC, Sebenarnya.my).\" (Quantitative context)\n• Evidence 2: \"Explains Aifa's technical capabilities (algorithms, machine learning) and future development plans.\" (Technical depth)"
+  }
+}

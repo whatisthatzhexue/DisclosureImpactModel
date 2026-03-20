@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"PLUS Malaysia Bhd (PLUS) will activate a contraflow lane...\" [specific, factual statement]\n• Evidence 2: \"Get the latest traffic information via X@plustrafik...\" [credible source citation]"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text focuses on highway maintenance operations unrelated to Berjaya Food Berhad's business activities.\n• Evidence 2: No mention of financial implications, market impact, or strategic initiatives relevant to the company context."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The paving works will take place from 9pm on Monday...\" [specific temporal details]\n• Evidence 2: \"Those from Puchong...can use the U-turn...\" [comprehensive route instructions]"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The Sultan of Pahang Al-Sultan Abdullah Ri'ayatuddin Al-Mustafa Billah Shah and Tengku Ampuan Pahang Tunku Azizah Aminah Maimunah Iskandariah were bestowed Honorary Doctor of Management degrees...\" (verifiable event details)\n• Evidence 2: \"The honorary degree award is the highest recognition for individuals who have made significant contributions to the nation.\" (factual statement about honorary degrees)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"[No mention of Berjaya Food Berhad or related business activities]\" (complete absence of company-specific information)\n• Evidence 2: \"[No connection to strategic direction, financial performance, or market impact of Berjaya Food Berhad]\" (irrelevant to investor needs for the company)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"A total of 3,657 graduates were honoured at this year's convocation ceremony...\" (quantitative detail about the event scale)\n• Evidence 2: \"His Majesty also touched on the issue of bullying and drug abuse...\" (contextual background on societal concerns addressed)"
+  }
+}

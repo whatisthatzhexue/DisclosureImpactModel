@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Maistorage's chips are comparable to those produced in the United States, China, and Taiwan.\" (No verifiable data or third-party validation provided)\n• Evidence 2: \"For the first time, Chinese Premier Li Qiang will attend...\" (No citation or contextual evidence for the claim about the summit)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"These are not lower or back-end jobs...\" (No direct mention of Berjaya Food or its strategic priorities)\n• Evidence 2: \"He encouraged the youth to seize opportunities in TVET...\" (General policy focus, no connection to company-specific strategic direction)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"These companies would offer jobs with competitive salaries.\" (Limited detail on economic impact or industry context)\n• Evidence 2: \"What is the meaning of development if we have traits like violence...\" (Abstract reflection without data or historical context)"
+  }
+}

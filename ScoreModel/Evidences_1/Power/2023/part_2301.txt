@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The meetings were appropriately structured through the use of agendas... in compliance with the MMLR and its terms of reference.\"\n• Evidence 2: \"The Audit Committee reported to and updated the Board on significant issues... made the necessary recommendations to the Board.\"\n• Evidence 3: \"The review focused on key financial results... reasons for variances provided by the Group Financial Controller...\"\n• Evidence 4: \"The Audit Committee carried out its duties in accordance with its terms of reference...\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The meetings were appropriately structured through the use of agendas... normally at least seven -7 days before the meeting...\"\n• Evidence 2: \"The Audit Committee reported to and updated the Board on significant issues... made the necessary recommendations to the Board.\"\n• Evidence 3: \"The review focused on key financial results... comparison to the corresponding quarter...\"\n• Evidence 4: \"The unaudited financial reports... recommended to the Board for approval...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the Quarterly Financial Reports... comparison to the corresponding quarter... reasons for variances provided...\"\n• Evidence 2: \"Reviewed the Company’s Compliance with Regulatory... Malaysian Accounting Standards Board...\"\n• Evidence 3: \"Minutes of the Committee’s meetings were made available... seek clarification and confirmation...\"\n• Evidence 4: \"The Audit Committee reported to and updated the Board on significant issues... made the necessary recommendations...\""
+  }
+}

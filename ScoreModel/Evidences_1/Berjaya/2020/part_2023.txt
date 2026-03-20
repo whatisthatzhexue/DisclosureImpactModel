@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC also reviewed the audit findings, Internal Auditors’ recommendations to improve any weaknesses or non-compliance together with the Management’s responses from the respective business units and the timeline taken by Management to ensure the deficiencies are addressed promptly.\"\n• Evidence 2: \"The Internal Auditors monitored the implementation of Management’s action plan on outstanding issues through follow up reports to ensure that all key risks and control weaknesses are being properly addressed.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reviewed and approved the Internal Audit Plan for the financial year ending 30 June 2021 to ensure that the scope and coverage of the internal audit on the operations of the BFood Group is adequate and comprehensive\"\n• Evidence 2: \"The activities of Internal Audit are guided by Internal Audit Charter and the Internal Audit Division adopts a risk-based approach focusing on high risk areas.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the 2019 Circular to Shareholders in connection with the Recurrent Related Party Transactions (\"RRPT\") that arose within the Group to ensure that the transactions are fair and reasonable to, and are not to the detriment of, the minority shareholders.\"\n• Evidence 2: \"Reviewed and recommended to the Board the distribution of interim dividend for the financial year ended 30 June 2020 based on the solvency test conducted, that the distribution of dividend was in accordance with the provision made under the Companies Act 2016.\""
+  }
+}

@@ -1,48 +1,16 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"the Group recorded a higher revenue of RM554.36 million in comparison to a revenue of RM376.78 million in the previous financial year\"\n• Evidence 2: \"after excluding the net remeasurement gain of about RM159.2 million\""
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"the increase in both revenue and pre-tax profit were mainly attributed to the full effect of consolidating Berjaya Starbucks Coffee Company Sdn Bhd\"\n• Evidence 2: \"pre-tax profit for the financial year under review increased to RM35.62 million from RM23.6 million\""
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"the increase in both revenue and pre-tax profit were mainly attributed to the full effect of consolidating Berjaya Starbucks Coffee Company Sdn Bhd\"\n• Evidence 2: \"after excluding the net remeasurement gain of about RM159.2 million\""
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit of the Group for the financial year ended 30 April 2016.\"\n• Evidence 2: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share (5.75 sen single-tier dividend per share for the previous financial year ended 30 April 2015).\""
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit of the Group for the financial year ended 30 April 2016.\"\n• Evidence 2: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share (5.75 sen single-tier dividend per share for the previous financial year ended 30 April 2015).\""
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit of the Group for the financial year ended 30 April 2016.\"\n• Evidence 2: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share (5.75 sen single-tier dividend per share for the previous financial year ended 30 April 2015).\""
-  }
-}
-
-{
-  "MemoryTest": "[Repeat the exact anchor sentence]",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board is committed in ensuring that the Company and its subsidiaries... carries out its business operations within the required standards of corporate governance as set out in the Malaysian Code on Corporate Governance 2012\" (explicit reference to a regulatory standard).\n• Evidence 2: \"The Board is pleased to provide the following statement... outlines the main corporate governance practices\" (neutral, factual disclosure without overstatement)."
-  },
-  "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board assumes the following principal roles and responsibilities...\" (clear structure with numbered list).\n• Evidence 2: \"The CEO and Management meet regularly...\" (precise, direct language explaining roles and processes)."
+    "justification": "• Evidence 1: \"the Group recorded a higher revenue of RM554.36 million in comparison to a revenue of RM376.78 million\" (specific factual data)\n• Evidence 2: \"after excluding the net remeasurement gain of about RM159.2 million\" (transparent disclosure of adjustments)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The increase in both revenue and pre-tax profit were mainly attributed to the full effect of consolidating Berjaya Starbucks Coffee Company Sdn Bhd\" (clear cause-effect explanation)\n• Evidence 2: \"For the financial year ended 30 April 2016\" (precise time frame and numerical data)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Review, evaluate, adopt and approve the strategic plans and policies...\" (relevant to investor decision-making).\n• Evidence 2: \"Identify principal risks...\" (mentions risk management, but lacks forward-looking information or material event disclosures)."
+    "score": 7,
+    "justification": "• Evidence 1: \"The increase in both revenue and pre-tax profit were mainly attributed to the full effect of consolidating Berjaya Starbucks Coffee Company Sdn Bhd\" (explains performance changes)\n• Evidence 2: \"which became a wholly-owned subsidiary of the Group in the second quarter of the financial year 2015\" (contextualizes the change)"
   }
 }
 
@@ -50,63 +18,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Board may form such other committees from time to time as dictated by business imperatives and/or to promote operational efficiency.\" (neutral, objective)\n• Evidence 2: \"the ultimate responsibility for decision making still lies with the Board.\" (clearly states accountability without overstatement)"
+    "justification": "• Evidence 1: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share (5.75 sen single-tier dividend per share for the previous financial year ended 30 April 2015)\" [neutral comparison of historical data]\n• Evidence 2: \"the total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit\" [specific factual disclosure]"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board Committees comprise the Audit and Risk Management Committee...\" (clear structure and precise listing)\n• Evidence 2: \"All employees are required to declare that they have received, read and understood the provisions of the Code of Conduct.\" (direct, unambiguous language)"
+    "score": 9,
+    "justification": "• Evidence 1: \"the total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit\" [precise numerical explanation]\n• Evidence 2: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share\" [clear, direct phrasing]"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"The Board views the commitment to promote sustainability strategies... as part of its broader responsibility to all its various stakeholders.\" (material event relevant to investors)\n• Evidence 2: \"The Group’s efforts to promote sustainability initiatives... have been set out in the Corporate Social Responsibility section...\" (forward-looking information about strategic priorities)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Company has a Nomination Committee, which comprises exclusively of Non-Executive Directors, with a majority of them being independent.\" (specific factual structure)\n• Evidence 2: \"Pursuant to Section 129(6) of the Companies Act, 1965...\" (legal reference supporting transparency)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The process for the appointment of a new Director is summarised in the sequence as follows:\" (clear procedural structure)\n• Evidence 2: \"The Nomination Committee meets as and when required, and at least once a year.\" (precise, direct language)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Nomination Committee is tasked with... ensuring adequate training and orientation...\" (directly relevant to governance structure)\n• Evidence 2: \"The Company’s Articles of Association provides that at least one-third of the Directors are subject to retirement...\" (material governance policy for investors)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'Pursuant to Section 129(2) of the Companies Act, 1965, the office of Datuk Zainun Aishah Binti Ahmad shall become vacant...' [neutral, fact-based legal reference]\n• Evidence 2: 'The profiles of these Directors are set out on pages 03 and 05 of this Annual Report' [specific factual disclosure]"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The Nomination Committee reviews annually, the effectiveness of the Board and Board Committees...' [clear structure and direct language]\n• Evidence 2: 'The Company does not set any specific target for boardroom diversity...' [precise, unambiguous statement]"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: 'The Board acknowledges the importance of boardroom diversity...' [relevant to investor concerns about governance]\n• Evidence 2: 'The Board’s objective in this respect is to offer a competitive remuneration package...' [directly addresses director compensation relevance]"
-  }
-}
-
-{
-  "MemoryTest": "[Repeat the exact anchor sentence]",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The primary function of the Remuneration Committee is to set up the policy framework and to recommend to the Board on remuneration packages and other terms of employment of the executive directors.\" (neutral, factual description of committee role)\n• Evidence 2: \"The determination of the remuneration for the Non-Executive Directors will be a matter to be decided by the Board as a whole...\" (clear procedural description without overstatement)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Remuneration Committee currently comprises the following members:\" (clear structure with explicit member listings)\n• Evidence 2: \"Details of Directors’ remuneration paid or payable... are as follows:\" (precise categorization with numerical breakdowns)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board recommends the Directors’ fees payable to Non-Executive Directors on a yearly basis to the shareholders for approval at the AGM.\" (directly relevant to investor decision-making)\n• Evidence 2: \"The number of Directors in office... categorised into the various bands\" (provides governance structure relevant to corporate oversight)"
+    "justification": "• Evidence 1: \"the total dividend paid was approximately RM16.01 million which represented approximately 75% of the attributable profit\" [useful for assessing payout ratio]\n• Evidence 2: \"the Group had declared and paid a total dividend of 4.25 sen single-tier dividend per share (5.75 sen single-tier dividend per share for the previous financial year ended 30 April 2015)\" [contextualizes dividend trend but lacks forward-looking insights]"
   }
 }
 
@@ -114,94 +34,174 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The current Independent Directors... have fulfilled the criteria of 'independence' as prescribed under Chapter 1 of the Listing Requirements\" (specific fact)\n• Evidence 2: \"The Board is aware that it is not in compliance with the best practices of the MCCG 2012\" (acknowledges non-compliance without overstatement)"
+    "justification": "• Evidence 1: \"The Board is committed in ensuring that the Company and its subsidiaries...carries out its business operations within the required standards of corporate governance as set out in the Malaysian Code on Corporate Governance 2012\" (specific reference to MCCG 2012)\n• Evidence 2: \"The Board assumes the following principal roles and responsibilities...\" (clearly outlines duties without overstatement)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Board is of the view that the independence of the Independent Directors should not be determined solely or arbitrarily by their tenure of service\" (clear logic)\n• Evidence 2: \"The Executive Chairman will ensure that procedural rules are followed...\" (precise language)"
+    "justification": "• Evidence 1: \"The Board is responsible for the performance and affairs of the Group and to provide leadership, guidance and setting strategic direction for the Group\" (precise and structured language)\n• Evidence 2: \"Non-Executive Directors are not involved in the day-to-day management...\" (clear distinction of roles)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The presence of the Independent Non-Executive Directors is essential in providing unbiased...\" (corporate governance relevance)\n• Evidence 2: \"The Board is aware that it is not in compliance with the best practices...\" (material governance risk disclosure)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Review and adopt budgets and financial results...monitor compliance with applicable accounting standards\" (directly relevant to financial disclosure and governance)\n• Evidence 2: \"Identify principal risks and assess the appropriate risk management systems...\" (addresses risk management, critical for investor decision-making)"
   }
 }
 
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The present composition of the Board is also in compliance with Paragraph 15.02 of the Listing Requirements of Bursa Securities of at least 1/3 of its members being Independent Directors.\" (specific fact)\n• Evidence 2: \"All the Directors of the Company does not hold more than five -5 directorships in listed issuers as required under Paragraph 15.06...\" (compliance with regulations)"
+    "justification": "• Evidence 1: \"The Board may form such other committees from time to time as dictated by business imperatives and/or to promote operational efficiency.\"\n• Evidence 2: \"The Code was formulated to enhance the standard of corporate governance and to promote ethical conduct of the Directors.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board meets regularly on a quarterly basis with additional meetings being convened as necessary.\" (clear structure and direct language)\n• Evidence 2: \"Directors’ Training\" section uses precise terminology for governance requirements (e.g., \"Mandatory Accreditation Programme\")."
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board Committees comprise the Audit and Risk Management Committee (\"ARMC\"), Nomination Committee, Remuneration Committee and Employees’ Share Option Committee.\"\n• Evidence 2: \"The Board Charter is subject to review by the Board annually to ensure that it remains consistent with the Board’s objectives and responsibilities.\""
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"Corporate governance\" details are directly relevant to investor decision-making (e.g., director qualifications, compliance with listing rules). \n• Evidence 2: \"Time Commitment\" section provides relevant information about director engagement but lacks forward-looking statements or risk disclosures."
+    "justification": "• Evidence 1: \"The Board views the commitment to promote sustainability strategies in the environment, social and governance aspects as part of its broader responsibility to all its various stakeholders...\"\n• Evidence 2: \"The Directors have full and timely access to information concerning the Company and the Group.\""
   }
 }
 
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board will, on a continuous basis, evaluate and determine the training needs of its members to assist them in the discharge of their duties as Directors.\" (Neutral, factual statement about training needs)\n• Evidence 2: \"Compliance with Applicable Financial Reporting Standards\" (Explicitly states adherence to standards, supporting objectivity)"
-  },
-  "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Directors Training Programmes/Seminars/Conferences/Forum\" (Clear categorization of activities)\n• Evidence 2: \"Ke arah pengukuhan agenda berpaksikan rakyat\" (Obscure phrase lacking contextual clarity)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Corporate Governance Statement Reporting Workshop: The Interplay Between Corporate Governance, Non-Financial Information and Investment Decision\" (Directly addresses governance relevance to investors)\n• Evidence 2: \"Compliance with Applicable Financial Reporting Standards\" (Relevant to investor understanding of financial transparency)"
-  }
-}
-
-{
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Directors are responsible for keeping accounting records which disclosed with reasonable accuracy...\" (neutral, objective description of responsibilities)\n• Evidence 2: \"The External Auditors have provided the declaration in their annual audit plan...\" (specific fact about compliance with By-Laws)"
+    "justification": "• Evidence 1: \"The Company has a Nomination Committee, which comprises exclusively of Non-Executive Directors, with a majority of them being independent.\" (specific factual disclosure)\n• Evidence 2: \"Pursuant to Section 129(6) of the Companies Act, 1965...\" (legal reference supporting procedural transparency)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The ARMC invites External Auditors to attend its meetings at least twice a year...\" (clear, direct explanation of processes)\n• Evidence 2: \"The areas of assessment include among others...\" (precise listing of evaluation criteria)"
+    "justification": "• Evidence 1: \"The Nomination Committee meets as and when required, and at least once a year.\" (clear, direct statement)\n• Evidence 2: \"The process for the appointment of a new Director is summarised in the sequence as follows:\" (logical structure with numbered steps)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Directors are responsible for safeguarding the assets...\" (material governance information)\n• Evidence 2: \"The recurring non-audit services were in respect of tax compliance...\" (specific risk disclosure)"
+    "justification": "• Evidence 1: \"develop, maintain and review criteria for recruitment and annual assessment of Directors\" (directly relevant to investor concerns about governance)\n• Evidence 2: \"at least one-third of the Directors are subject to retirement by rotation...\" (material governance risk disclosure)"
   }
 }
 
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Pursuant to Section 129(2) of the Companies Act, 1965, the office of Datuk Zainun Aishah Binti Ahmad shall become vacant...\" (specific legal reference)\n• Evidence 2: \"The profiles of these Directors are set out on pages 03 and 05...\" (transparent disclosure of director information)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Nomination Committee reviews annually...\" (clear process description)\n• Evidence 2: \"Currently, the Board has two -2 female Directors out of six -6 Directors...\" (precise numerical data presentation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board believes in a remuneration policy...\" (directly relevant to investor concerns)\n• Evidence 2: \"The Board is of the view that while promoting boardroom diversity...\" (addresses governance relevance but lacks explicit risk disclosure)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The remuneration of Directors is determined at levels which enables the Company to attract and retain Directors with the relevant experience and expertise...\" (neutral, fact-based)\n• Evidence 2: \"The determination of the remuneration for the Non-Executive Directors will be a matter to be decided by the Board as a whole...\" (objective process description)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The primary function of the Remuneration Committee is to set up the policy framework and to recommend to the Board...\" (clear explanation of role)\n• Evidence 2: \"Details of Directors’ remuneration paid or payable...\" (structured presentation of financial data)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board recommends the Directors’ fees payable to Non-Executive Directors...for approval at the AGM\" (material governance information)\n• Evidence 2: \"The number of Directors in office...categorised into the various bands\" (relevant compensation transparency)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The current Independent Directors... have fulfilled the criteria of 'independence' as prescribed under Chapter 1 of the Listing Requirements of Bursa Securities.\" (specific factual claim)\n• Evidence 2: \"The Board is aware that it is not in compliance with the best practices of the MCCG 2012...\" (acknowledges non-compliance with standards)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board is of the view that the independence of the Independent Directors should not be determined solely or arbitrarily by their tenure of service.\" (clearly states the Board's position)\n• Evidence 2: \"The Executive Chairman will ensure that procedural rules are followed...\" (precise description of responsibilities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board is aware that it is not in compliance with the best practices of the MCCG 2012...\" (addresses governance risks)\n• Evidence 2: \"The presence of the two -2 existing Independent Directors... is sufficient to provide the required checks and balances...\" (explains governance mechanisms relevant to investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board is satisfied with the current composition...\" (neutral statement with specific compliance details)\n• Evidence 2: \"All the Directors... does not hold more than five -5 directorships...\" (specific fact supporting regulatory compliance)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board meets regularly on a quarterly basis...\" (clear structure with specific meeting frequency)\n• Evidence 2: \"Directors Attendance\" table format (precise presentation of attendance data)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board composition represents a mix of knowledge...\" (corporate governance structure relevant to investors)\n• Evidence 2: \"compliance with Paragraph 15.02...\" (material regulatory compliance information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board will, on a continuous basis, evaluate and determine the training needs of its members to assist them in the discharge of their duties as Directors.\" (neutral, factual statement)\n• Evidence 2: \"Compliance with Applicable Financial Reporting Standards\" (specific fact about governance responsibility)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Directors Training Programmes/Seminars/Conferences/Forum\" (clear section heading)\n• Evidence 2: \"The Game Changer for Boardroom\" (specific, albeit technical term used consistently)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board is also responsible for ensuring the annual financial statements are prepared in accordance with...\" (directly relevant to investor concerns)\n• Evidence 2: \"Opportunities for Public Listed Companies in Shariah-compliant Landscape\" (specific governance-related context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Directors are responsible for keeping accounting records which disclosed with reasonable accuracy...\" (neutral, factual statement about responsibilities)\n• Evidence 2: \"The External Auditors have provided the declaration in their annual audit plan...\" (specific, verifiable action related to independence)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC invites External Auditors to attend its meetings at least twice a year...\" (clear, direct explanation of process)\n• Evidence 2: \"The areas of assessment include among others...\" (structured list of evaluation criteria)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Directors are responsible for safeguarding the assets of the Group...\" (directly relevant to investor concerns about governance)\n• Evidence 2: \"The ARMC also ensures that the External Auditors are independent...\" (critical for assessing audit quality and transparency)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
     "justification": "• Evidence 1: \"the ARMC was satisfied that they were not likely to create any conflict or impair the independence and objectivity of the External Auditors\"\n• Evidence 2: \"* included the Accountants Report issued for the acquisition of Berjaya Starbucks Coffee Company Sdn Bhd.\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Statutory audit fees paid/payable to: - Ernst & Young (\"EY\") Malaysia 35,000 25,000 173,000 153,000\"\" (clear numerical structure)\n• Evidence 2: \"The Board entrusts the ARMC with the overall responsibility...\" (direct statement of roles)"
+    "justification": "• Evidence 1: \"Statutory audit fees paid/payable to: - Ernst & Young (\"EY\") Malaysia 35,000 25,000 173,000 153,000\"\" (clear numerical structure)\n• Evidence 2: \"The Statement on Risk Management and Internal Control set out on pages 32 to 34...\" (explicit reference to supplementary information)"
   },
   "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"the ARMC will make recommendation for re-appointment of the External Auditors to the Board\" (material governance decision)\n• Evidence 2: \"the Board acknowledges its overall responsibility for the Group’s system of internal control...\" (direct relevance to investor protection)"
+    "score": 6,
+    "justification": "• Evidence 1: \"the proposed appointment will be subject to shareholders’ approval at the AGM\" (directly relevant to governance and investor decision-making)\n• Evidence 2: \"* included the Accountants Report issued for the acquisition...\" (material event disclosure)"
   }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board will ensure that it adheres to and comply with the disclosure requirements...\" (neutral, objective compliance statement)\n• Evidence 2: \"the Company has, in all material aspects, complied with the principles...\" (specific factual disclosure of compliance)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board acknowledges the importance of timely and equal dissemination of material information to the shareholders, investors and the public at large.\" (Neutral, objective disclosure of commitment to transparency)\n• Evidence 2: \"the Company has, in all material aspects, complied with the principles and recommendations of the MCCG 2012\" (Specific factual statement about compliance with governance standards)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board acknowledges the importance of timely and equal dissemination...\" (clear, direct language)\n• Evidence 2: \"The key aspects of the internal control process are as follows:\" (structured, logical segmentation of information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The key aspects of the internal control process are as follows:\" (Clear structure with bullet points for process explanation)\n• Evidence 2: \"The ARMC held five -5 meetings during the financial year ended 30 April 2016.\" (Precise numerical data presented in context)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Effective Communication and Proactive Engagements with Shareholders\" (directly addresses investor engagement)\n• Evidence 2: \"The Board has undertaken a review of the adequacy...\" (explains governance processes relevant to investor decision-making)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Company maintains a website... where shareholders can access the latest information\" (Material information for investors)\n• Evidence 2: \"the ARMC reviewed the quarterly financial statements... to ensure compliance with Malaysian Financial Reporting Standards\" (Forward-looking risk assessment and regulatory compliance)"
   }
 }

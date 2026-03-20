@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Thomson Hospital has provided me with a full scholarship, monthly allowance and accommodation, which has facilitated my studies, and I am thankful for this opportunity.\"\n• Evidence 2: \"Together, hand in hand with Thomson Hospital, we embark on a journey of innovation and excellence...\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its strategic initiatives, financial performance, or market position.\n• Evidence 2: The partnership described is unrelated to the company context provided, focusing instead on healthcare education rather than food and beverage industry strategies."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A flagship initiative unveiled through this partnership is the Thomson Hospital Alliance Group programme – to elevate healthcare education quality and enhance graduates’ employability...\"\n• Evidence 2: \"These initiatives underscore UoC’s commitment to elevating healthcare education standards...\""
+  }
+}

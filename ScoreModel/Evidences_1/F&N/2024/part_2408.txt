@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The net risk level is determined after taken into consideration the effectiveness of existing controls and risk treatment plans.\" (neutral, factual disclosure of risk assessment methodology)\n• Evidence 2: \"The Board receives assurance... through ERM Validation Report and Comfort Matrix.\" (objective reporting of governance processes)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Risk profiles... are tabled to the Management Risk Committee and the SRMC in a heat map\" (clear structure with specific examples)\n• Evidence 2: \"Risks associated with... ESG matters that have negative impact on reputation...\" (precise definitions with logical categorization)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"risks... reported under the following categories: Financial/Economic... Reputational...\" (material risks disclosed for investor assessment)\n• Evidence 2: \"refer to Management Discussion & Analysis section...\" (links to additional relevant information for decision-making)"
+  }
+}

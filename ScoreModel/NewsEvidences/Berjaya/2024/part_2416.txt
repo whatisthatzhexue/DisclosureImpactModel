@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Apex Securities Research said the end of the earnings season coupled with better-than-expected China manufacturing activity will likely support the local bourse.\" (credible source cited)\n• Evidence 2: \"Key economic events to watch this week include the European interest rate decision and US non-farm payrolls,\" said the research firm in a note." (balanced reporting with factual context)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Berjaya was up two sen to 31 sen\" (only direct company mention, but no strategic context)\n• Evidence 2: No connection to Berjaya's business strategy, competitive position, or long-term value creation is provided."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The tech sector rose following the gains in the Nasdaq overnight with MPI rising 56 sen to RM37.40...\" (specific data on market movements)\n• Evidence 2: \"Shares that led gains included CIMB... Press Metal... Genting...\" (some sector context but lacks analysis of Berjaya's position)"
+  }
+}

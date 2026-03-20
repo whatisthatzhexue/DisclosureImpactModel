@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Provided recommendations to assist the operating unit and the Group in accomplishing its internal control requirements by suggesting improvements to the control processes.\" (neutral, objective)\n• Evidence 2: \"The cost incurred for the Internal Audit function... was approximately RM248,564.\" (specific factual disclosure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Conducted audit reviews and evaluated risk exposures relating to the Group’s governance process...\" (precise language)\n• Evidence 2: \"Presented internal audit reports to the ARMC for review.\" (clear structure with numbered points)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Evaluated risk exposures relating to the Group’s governance process and system of internal controls... statutory requirements.\" (relevant to investor concerns)\n• Evidence 2: \"The directors are responsible for taking reasonable steps to safeguard the assets...\" (corporate governance relevance)"
+  }
+}

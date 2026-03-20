@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"I will be back to hand over my devices to the Malaysian Communications and Multimedia Commission (MCMC)\" [direct quote showing commitment to process]\n• Evidence 2: \"We mean no ill will... just concerned\" [neutral tone regarding intent]"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or related business operations\n• Evidence 2: Focus on political influencer and regulatory investigation unrelated to food/beverage industry"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides basic context about MCMC investigation and social media posts\n• Evidence 2: Includes timing details (5.30pm, \"around an hour later\") but lacks analysis of broader implications for stakeholders"
+  }
+}

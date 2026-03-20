@@ -1,0 +1,356 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood completed the acquisition of 11,500,000 ordinary shares...for a cash consideration of RM71.7 million.\" (specific factual details)\n• Evidence 2: \"BFood completed the acquisition of 11,500,000 ordinary shares...for a total cash consideration of USD88,000,000.\" (precise transaction details)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"All KRR restaurants serve their customers in a full service, mid-casual dining setting...\" (clear, direct description)\n• Evidence 2: \"Jollibean Foods was incorporated in November 1993.\" (precise, unambiguous statement)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood completed the acquisition of 11,500,000 ordinary shares...for a cash consideration of RM71.7 million.\" (material event for investors)\n• Evidence 2: \"BStarbucks has more than 239 stores nationwide...\" (operational scale information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"registered a higher revenue of RM605.44 million as compared to a revenue of RM554.36 million\" (specific factual comparison)\n• Evidence 2: \"weaker consumer sentiments which impacted the expansion plans... and Consequently, the Group incurred losses relating to the impairment of fixed assets and intangible assets\" (discloses risks and objective outcomes)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"For the financial year ended 30 April 2017, BFood registered a higher revenue...\" (clear temporal context and direct language)\n• Evidence 2: \"pre-tax profit was lower... mainly due to weaker consumer sentiments\" (precise cause-effect explanation with specific figures)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"mainly due to additional cafes operating... and Consequently, the Group incurred losses...\" (explains performance changes with material factors)\n• Evidence 2: \"weaker consumer sentiments which impacted the expansion plans...\" (includes risks affecting future performance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The total dividend paid was approximately RM13.10 million which represented 115% of the attributable profit of the Group for the financial year ended 30 April 2017.\" (specific factual disclosure)\n• Evidence 2: \"4.25 sen single-tier dividend per share for the preceding financial year ended 30 April 2016.\" (neutral comparison without overstatement)"
+  },
+  "Understandability": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The total dividend paid was approximately RM13.10 million which represented 115% of the attributable profit...\" (precise, direct language)\n• Evidence 2: \"3.50 sen single-tier dividend per share\" (clear numerical disclosure without ambiguity)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The total dividend paid was approximately RM13.10 million which represented 115% of the attributable profit...\" (useful for investors assessing payout ratios)\n• Evidence 2: \"The Group will review its subsidiaries’ operational procedures...\" (forward-looking information in broader report, but dividend section lacks contextual explanation of performance changes)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks recorded a lower profit before tax of RM53.3 million as compared to RM54.4 million in the previous financial year mainly due to the increase in finance costs, coupled with higher write-off costs on renovation of existing stores and store relocations\" (specific cause for financial decline).\n• Evidence 2: \"The Starbucks Card Loyalty Programme recorded its highest ever tender rate of 51% since its launch\" (objective data on program performance)."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BStarbucks registered an increase in revenue from RM404.9 million to RM450.8 million... mainly due to rapid store expansion\" (clear cause-effect explanation).\n• Evidence 2: \"BStarbucks will continue the company’s expansion plan to open a total of 25 new stores...\" (precise, structured forward-looking statement)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The incremental revenue was mainly due to rapid store expansion...\" (explains performance change).\n• Evidence 2: \"BStarbucks will introduce a variety of card designs and more attractive benefits...\" (forward-looking information relevant to investor decision-making)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BRoasters registered a loss before tax of RM4.2 million...mainly due to the impairment of fixed assets from the closure of non-performing restaurants, higher equipment maintenance...\" (discloses risks and specific causes)\n• Evidence 2: \"BFS recorded a loss before tax of RM321,000...mainly due to lower sales as a result of a slower retail market condition\" (neutral explanation of financial performance)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Revenue increased by 7% to RM97.4 million...due to aggressive marketing activities and the opening of 3 new restaurants\" (precise, direct language)\n• Evidence 2: \"The company will close its non-performing restaurants progressively...to remain competitive\" (clear structure with logical progression of information)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"For the financial year ended 30 April 2017, BRoasters’ revenue increased by 7%...mainly due to aggressive marketing activities\" (explains performance changes)\n• Evidence 2: \"BRoasters will initiate more aggressive marketing campaigns...to increase its brand awareness\" (includes forward-looking information and strategic plans)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"PT Boga registered a 4% decrease in revenue...due to the closure of 7 restaurants\" (specific cause for financial performance)\n• Evidence 2: \"The higher loss was mainly due to impairment of fixed assets from the closure of non-performing restaurants\" (transparent risk disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"PT Boga will initiate more joint promotions...to increase its sales\" (clear strategic focus)\n• Evidence 2: \"The slowdown in shoppers...affected the food and beverage industry\" (direct cause-effect explanation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue decreased...mainly due to closure of 7 restaurants\" (performance change explanation)\n• Evidence 2: \"Jollibean Foods will be concentrating on brand growth...and exploring new target markets\" (forward-looking strategy)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"100% Berjaya Food (International) Sdn Bhd\" (specific factual ownership details)\n• Evidence 2: \"51% PT Boga Lestari Sentosa\" (precise ownership percentage disclosure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"100% Berjaya Food Trading Sdn Bhd\" (clear ownership structure)\n• Evidence 2: \"80% Berjaya Food Supreme Sdn Bhd\" (precise percentage formatting)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Corporate Structure\" section (basic ownership disclosure relevant to investors)\n• Evidence 2: No mention of risks, material events, or governance (missing key relevance elements)"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The new Malaysian Code of Corporate Governance... superseded its earlier edition...\" (specific factual reference to MCCG implementation date and replacement)\n• Evidence 2: \"The Board is committed in ensuring... required standards of corporate governance...\" (neutral statement of commitment without overstatement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Functions of the Board and Management...\" (clear section headers and logical flow)\n• Evidence 2: \"Review, evaluate, adopt and approve...\" (precise, direct language with numbered responsibilities)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board is pleased to provide the following statement...\" (directly addresses investor-relevant governance practices)\n• Evidence 2: \"Review and adopt budgets... integrity and adequacy of financial information disclosure\" (includes financial transparency details relevant to investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board may form such other committees from time to time as dictated by business imperatives and/or to promote operational efficiency.\" (neutral, factual description of flexibility)\n• Evidence 2: \"All employees are required to declare that they have received, read and understood the provisions of the Code of Conduct.\" (specific, verifiable requirement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The process for the appointment of a new Director is summarised in the sequence as follows:\" (clear structure with numbered steps)\n• Evidence 2: \"The Board Charter is subject to review by the Board annually\" (precise, direct language about governance processes)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board views the commitment to promote sustainability strategies... as part of its broader responsibility to all its various stakeholders\" (relevant to investor concerns about ESG)\n• Evidence 2: \"The Directors have full and timely access to information concerning the Company and the Group\" (directly relevant to governance and transparency)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Nomination Committee is of the view that with his extensive experience... contribute objectively in the Board’s overall management...\" (neutral, fact-based assessment)\n• Evidence 2: \"Following the enforcement of the Companies Act, 2016... no more age limit for a Director.\" (specific legal reference)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Nomination Committee reviews annually... Corporate Governance Guide – Towards Boardroom Excellence.\" (clear process description)\n• Evidence 2: \"The Director who will retire by rotation... pursuant to Article 100...\" (logical structure with specific references)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Nomination Committee is also responsible for recommending... re-election/re-appointment.\" (directly relevant to governance structure)\n• Evidence 2: \"Following the enforcement of the Companies Act, 2016...\" (material legal change impacting governance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no disclosure of risks, challenges, or uncertainties]"},
+  "Understandability": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no structure or precise language]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no forward-looking information or material events]"}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Board is of the view that while promoting boardroom diversity is essential, the normal selection criteria of a Director, based on an effective blend of competencies... should remain a priority.' (neutral, factual statement)\n• Evidence 2: 'The number of Directors in office at the end of the financial year... are as follows:' (specific, verifiable data)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Board acknowledges the importance of boardroom diversity in terms of age, gender, nationality, ethnicity...' (clear, direct language)\n• Evidence 2: 'The TOR of the Remuneration Committee is available at the Company’s website...' (precise, structured information)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Board believes in a remuneration policy that fairly supports the Directors’ responsibilities...' (relevant to investor decision-making)\n• Evidence 2: 'The Company is committed to maintaining an environment of respect for people regardless of their gender...' (pertains to governance and corporate values)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The current Independent Directors... have fulfilled the criteria of 'independence' as prescribed under Chapter 1 of the Listing Requirements of Bursa Securities.\"\n• Evidence 2: \"The Board is aware that it is not in compliance with the best practices of the MCCG 2012...\" (discloses non-compliance without overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The calibre, qualification, experience and personal qualities... predominantly determines the ability of a Director...\" (clear structure with logical progression)\n• Evidence 2: \"The Executive Chairman will ensure that procedural rules are followed...\" (precise language with specific responsibilities)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The presence of the two -2 existing Independent Directors... is sufficient to provide the required checks and balances...\" (directly relevant to investor concerns about governance)\n• Evidence 2: \"The Board shall make recommendation and provide justifications to shareholders...\" (material event disclosure with shareholder implications)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The present composition of the Board is also in compliance with Paragraph 15.02 of the Listing Requirements of Bursa Securities of at least 1/3 of its members being Independent Directors.\"\n• Evidence 2: \"All the Directors of the Company does not hold more than five -5 directorships in listed issuers as required under Paragraph 15.06...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board meets regularly on a quarterly basis with additional meetings being convened as necessary.\"\n• Evidence 2: \"All the Directors have completed the Mandatory Accreditation Programme as required by Bursa Securities.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board members deliberate and in the process, assess the viability of the business and corporate proposals and the principal risks that may have significant impact on the Group’s business...\"\n• Evidence 2: \"The Board is also updated by the Company Secretaries on the relevant training programmes relating to the regulatory, governance, industry related and current issue on an on-going basis.\""
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Dato’ Lee Kok Chuan* - Sustainability Engagement Series... * Denotes Dato’ Lee Kok Chuan has resigned...\" (specific fact about resignation)\n• Evidence 2: \"The Board will, on a continuous basis...\" (neutral, objective statement about future actions)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Corporate Governance Breakfast Series with Directors: \"The Cybersecurity Threat...\"\" (clear structure with specific event names)\n• Evidence 2: \"Companies Act, 2016- Year End Matters...\" (precise legal reference with context)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Sustainability Forum for Directors... \"The Velocity of Global Change...\"\" (material topic relevant to investors)\n• Evidence 2: \"FTSE4Good Bursa Malaysia Index Briefing\" (indicates compliance with regulatory standards)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board strives to provide a clear, balanced and meaningful assessment...in accordance with the Listing Requirements of Bursa Securities.\" (truthful, neutral, and objective)\n• Evidence 2: \"The Directors are responsible for keeping accounting records...to enable them to ensure that the financial statements comply with the Act...\" (specific facts about responsibilities)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board is also assisted by the ARMC...a high quality financial reporting.\" (clear structure and direct language)\n• Evidence 2: \"The Directors are required to: select suitable accounting policies...\" (precise, logical breakdown of responsibilities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Assessment of External Auditors...audit governance and independence\" (relevant to investor decision-making)\n• Evidence 2: \"The Directors are responsible for safeguarding the assets...prevention and detection of fraud\" (includes risks and corporate governance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC also ensures that the External Auditors are independent...will review the contracts for provision of non-audit services...\" (neutral, objective disclosure of governance processes)\n• Evidence 2: \"In considering the nature and scope of non-audit fees...satisfied that they were not likely to create any conflict...\" (supported by specific facts, no overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Statutory audit fees paid/payable to: - Ernst & Young...\" (clear structure with numerical data)\n• Evidence 2: \"The internal audit function...based on the plan approved by the ARMC...\" (precise language with logical flow)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board entrusts the ARMC with the overall responsibility...risk management procedures...\" (directly addresses investor concerns about governance)\n• Evidence 2: \"The Statement on Risk Management...provides an overview of the state of internal controls...\" (includes material risks and corporate governance information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board will ensure that it adheres to and comply with the disclosure requirements...\" (neutral, factual statement)\n• Evidence 2: \"the Company has, in all material aspects, complied with the principles...\" (specific compliance claim)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company maintains a website at www.berjaya.com...\" (clear, direct information)\n• Evidence 2: \"The Senior General Manager... provides a brief financial overview...\" (precise role description)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Company recognises the importance of being transparent...\" (directly addresses investor communication)\n• Evidence 2: \"the Board is satisfied that the Company has... complied with the MCCG 2012\" (relevant governance disclosure)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The system of internal control was satisfactory and has not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group’s Annual Report.\"\n• Evidence 2: \"nothing has come to their attention that causes them to believe that the disclosures in SORMIC are inconsistent with their understanding of the ongoing processes...\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The key aspects of the internal control process are as follows:\" (clear structure with bullet points)\n• Evidence 2: \"The Board has undertaken a review... concluded that the risk management and internal control system is adequate and effective.\"" (precise, direct language)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board has established an organisation structure with clearly defined lines of accountability...\" (corporate governance and risk management)\n• Evidence 2: \"Moving forward, the Company will further enhance its risks and controls identification...\" (forward-looking information for investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Understandability": {"score": 5, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"}
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The ARMC meetings were convened with proper notices and agenda and these were distributed to all members of the ARMC with sufficient notification.\"\n• Evidence 2: \"The minutes of each of the ARMC meetings were recorded and tabled for confirmation at the next ARMC meeting and tabled at the Board Meeting for the Directors’ review and notation.\"\n• Note: The text lacks explicit disclosure of risks, challenges, or uncertainties, which limits reliability."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC held five -5 meetings during the financial year ended 30 April 2017.\"\n• Evidence 2: \"The duties and responsibilities of the ARMC are set out in its terms of reference, a copy of which is available at www.berjaya.com.\"\n• Note: The text uses clear structure, precise language, and avoids vague or redundant expressions."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Reviewed the quarterly financial statements including the draft announcements pertaining thereto and made recommendations to the Board for approval of the same.\"\n• Evidence 2: \"The Chief Executive Officer was invited to attend all the ARMC meetings to report on the overall operations of the Company.\"\n• Note: The text provides limited forward-looking information or details on material events, risks, or governance mechanisms beyond committee structure."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company’s quarterly financial reporting...compliance with the Malaysian Financial Reporting Standard 134...International Accounting Standard 34...Listing Requirements\" (neutral, objective, specific standards)\n• Evidence 2: \"there was no major issue raised during the private session\" (discloses challenges, factual)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the Internal Audit Reports...audit findings and recommendations...Management’s responses thereto\" (clear structure, precise language)\n• Evidence 2: \"fraud consideration and the risk of management override\" (specific terms used where necessary)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the 2016 Circular to Shareholders...not to the detriment of, the minority shareholders\" (material risks, corporate governance)\n• Evidence 2: \"audit materiality, areas of focus...new and revised auditors reporting standards\" (regulatory compliance, investor decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The consideration is within the equity value derived from the independent valuer, Messrs Jordan Lee & Jaafar Sdn Bhd;\" \n• Evidence 2: \"The ARMC is of the view that the cash consideration... is justifiable based on the following grounds:...\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The ARMC also reviewed the procedures and processes with regards to the RRPT on a half yearly basis...\" \n• Evidence 2: \"The Internal Audit Division... adopts a risk-based approach focusing on high risk areas.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The ARMC also reviewed the transactions with related parties... on normal commercial terms consistent with the Company’s business practices...\" \n• Evidence 2: \"The cost incurred for the Internal Audit function... was approximately RM161,462.00.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Understandability": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"}
+}

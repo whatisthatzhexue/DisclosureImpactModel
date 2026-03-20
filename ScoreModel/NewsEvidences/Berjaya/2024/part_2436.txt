@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The first eight years of a child’s life is crucial for brain development.\" (Minister's statement on early childhood education)\n• Evidence 2: \"Only 27% of private preschool teachers have a diploma in early childhood education.\" (Minister's statistic, though no source is cited for verification)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The focus is on University of Cyberjaya's educational programs, which are unrelated to the company's strategic direction, financial performance, or market impact."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The programmes are designed to nurture professional educators, providing them with necessary skills and knowledge to foster the development of young minds...\" (Details about the university's programs)\n• Evidence 2: \"The Welcome Centre... signifies a milestone for the university.\" (Context about the event's significance, though no connection to Berjaya Food is made)"
+  }
+}

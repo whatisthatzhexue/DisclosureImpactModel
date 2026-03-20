@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"17 sustainability matters prioritised, with 10 identified as being most influential on stakeholders’ decisions and to the impact of the business at ILF, MPM, and POA\" (neutral factual reporting)\n• Evidence 2: \"The result of the materiality assessment, the Materiality Matrix is shown below\" (supports claims with specific reference to a visual tool)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sustainable Business Growth, Environmental Responsibility and Workplace Management\" (clear thematic categorization)\n• Evidence 2: \"Diagram 5: Mapping of material sustainability matters across the three themes\" (explicit visual reference for context)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"the Materiality Matrix is shown below\" (provides framework for stakeholder prioritization)\n• Evidence 2: \"discusses our policies, measures and actions and performance indicators\" (links to investor-relevant management practices)"
+  }
+}

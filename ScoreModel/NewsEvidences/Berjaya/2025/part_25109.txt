@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In 2018, Avaland embarked on revitalising the Cybersouth masterplan...\" (direct quote with specific timeline)\n• Evidence 2: \"The developer kicked off the year by receiving the Excellence in Design for Greater Efficiencies Certification...\" (specific certification and event)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Avaland refined its business model to adopt a more diversified approach...\" (direct mention of strategic shift)\n• Evidence 2: \"With RM1.8bil in project releases for 2024 and RM1.6bil in key initiatives for 2025...\" (financial implications for market position)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Island @Cybersouth stands as a model for future developments...\" (contextualizes project significance)\n• Evidence 2: \"The tree conservation efforts also help deepen the community's connection to the local ecosystem...\" (specific details on sustainability impact)"
+  }
+}

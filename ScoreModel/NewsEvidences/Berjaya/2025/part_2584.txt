@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MRCB’s long-term strategic initiatives intact\" [directly cites the company's strategic focus]\n• Evidence 2: \"the immediate financial impact remains limited to a disposal gain of about RM22mil in the financial year 2025 (FY25)\" [specific, verifiable financial data]"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"align with MRCB’s long-term strategic initiatives and are within expectations\" [directly ties to strategic direction]\n• Evidence 2: \"position the group to leverage stronger value creation opportunities... sustained earnings contributions\" [connects to long-term value creation]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"CSBD owns six parcels of commercial land... RM365.5mil\" [specific data on assets and valuations]\n• Evidence 2: \"strategic positioning and phased development approach... reduce execution risks\" [analytical insight into strategic execution]"
+  }
+}

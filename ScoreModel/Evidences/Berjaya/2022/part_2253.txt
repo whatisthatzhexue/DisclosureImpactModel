@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Business sustainability at BFood has come a long way... however, sustainability is still an ongoing journey.\" (acknowledges progress and ongoing challenges)\n• Evidence 2: \"The Group hopes these measures will increase shareholder value.\" (neutral statement without overstatement)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group’s sustainability plan will examine future value creation by formalising benchmarks, setting targets and measuring the impact of each BFood brand.\" (Specific, measurable goals)\n• Evidence 2: \"The Board is satisfied that the Company has substantially complied with the MCCG throughout the FYE 2022 save for the exceptions which are fully described in the CG Report.\" (Acknowledges compliance and exceptions)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Group’s sustainability plan will examine future value creation by formalising benchmarks, setting targets and measuring the impact of each BFood brand.\" (clear structure and precise language)\n• Evidence 2: \"The Board is satisfied that the Company has substantially complied with the MCCG...\" (direct and specific statement of compliance)"
+    "justification": "• Evidence 1: \"The Board has delegated the day-to-day management of the Group’s affairs and business to the CEO...\" (Clear role delineation)\n• Evidence 2: \"The Company Secretaries play an important role in facilitating the overall compliance...\" (Precise explanation of responsibilities)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Group’s sustainability journey including strategies, priorities, progress, and targets are communicated to its stakeholders...\" (forward-looking information for investors)\n• Evidence 2: \"The Board... ensures the Company and its subsidiaries... operate within required standards of corporate governance.\" (links sustainability to corporate governance)"
+    "justification": "• Evidence 1: \"The Group strives to achieve a long-term sustainability balance... improving the welfare of its employees and the communities...\" (Forward-looking sustainability strategy)\n• Evidence 2: \"The CG Overview Statement is also in compliance with Paragraph 15.25...\" (Relevant governance disclosure for investors)"
   }
 }

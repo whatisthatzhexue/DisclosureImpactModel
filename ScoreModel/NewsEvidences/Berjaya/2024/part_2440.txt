@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TA Research stated the RM280mil two-year contract...\" (verifiable data and credible source cited)\n• Evidence 2: \"We expect substantial earnings contributions...\" (specific financial projections with source attribution)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"...strong candidate for upcoming large scale infrastructure projects...\" (direct link to company's strategic positioning)\n• Evidence 2: \"...revised our FY25 and FY26’s earnings forecasts...\" (connects to financial performance and market impact)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"...pre-tax margin of 5.5% on the project which is expected to contribute net earnings of about RM11.7mil...\" (specific financial data and context)\n• Evidence 2: \"...upgraded the stock to a 'hold' with a target price of 42 sen...\" (analysis of market implications and stakeholder significance)"
+  }
+}

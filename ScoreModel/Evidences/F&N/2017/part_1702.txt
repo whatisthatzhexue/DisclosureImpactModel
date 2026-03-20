@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"the system of risk management and internal control is designed to manage and mitigate risks rather than eliminate risks... provide only reasonable and not absolute assurances\" (acknowledges limitations)\n• Evidence 2: \"operational costs incurred by Group Internal Audit for the financial year 2016/2017 amounted to about RM 2.7 million\" (specific factual disclosure)"
+    "justification": "• Evidence 1: \"The operational costs incurred by Group Internal Audit for the financial year 2016/2017 amounted to about RM 2.7 million.\" (specific factual disclosure)\n• Evidence 2: \"In view of the inherent limitations in any such system, the Board recognises that the system of risk management and internal control is designed to manage and mitigate risks rather than eliminate risks...\" (acknowledges limitations, avoids overstatement)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Audit Committee had also reviewed the 'agreed-upon procedures' performed by Group Internal Audit...\" (clearly explains purpose of review)\n• Evidence 2: \"The Statement on Risk Management and Internal Control... provides our stakeholders... sufficient and meaningful information\" (direct language about purpose)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee Report for inclusion in this Annual Report were reviewed by the Audit Committee prior to Board's approval.\" (clear structure and logical flow)\n• Evidence 2: \"The Statement on Risk Management and Internal Control... provides sufficient and meaningful information...\" (precise language with clear purpose)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"reviewed the related party transactions... to ascertain that the transactions... were not prejudicial to the interest of the non-controlling shareholders\" (directly addresses investor concerns)\n• Evidence 2: \"reviewed the declaration of interim dividend and recommendation of final dividend...\" (pertinent to financial decision-making)"
+    "justification": "• Evidence 1: \"The related party transactions... were reviewed by the Audit Committee to ensure... adequate internal procedures had been deployed...\" (directly relevant to investor decision-making)\n• Evidence 2: \"The Audit Committee also reviewed... declaration of interim dividend and recommendation of final dividend...\" (includes material corporate governance actions)"
   }
 }

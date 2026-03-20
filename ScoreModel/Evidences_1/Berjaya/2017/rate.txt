@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "The majority of scoring results (e.g., 9 and 8) demonstrate strong reliability through precise factual disclosures, transparent risk explanations, and compliance with regulatory standards (e.g., \"BFood completed the acquisition...for a cash consideration of RM71.7 million,\" \"The Board is aware that it is not in compliance with the best practices...\"). However, some entries scored 7 due to insufficient risk disclosure (e.g., \"lacks explicit disclosure of risks, challenges, or uncertainties\") and a few entries had 0 due to missing content. Compromising between high-quality entries and lower ones, the final score is 8."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "Scoring results show mixed relevance: high scores (e.g., 8-9) for material event disclosures (e.g., \"weaker consumer sentiments...impacted expansion plans,\" \"BRoasters registered a loss before tax...due to impairment of fixed assets\") and forward-looking strategies (e.g., \"BStarbucks will introduce...more attractive benefits\"). Lower scores (e.g., 6-7) reflect limited forward-looking information or missing key relevance elements (e.g., \"no mention of risks, material events, or governance\"). The final score of 7 balances these findings."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "Most entries (e.g., 9-10) exhibit high understandability with clear, direct language and structured information (e.g., \"The total dividend paid was approximately RM13.10 million...\",\"BStarbucks registered an increase in revenue...mainly due to rapid store expansion\"). Lower scores (e.g., 7) reflect less precise language or structural issues (e.g., \"no structure or precise language\"). The final score of 8 reflects the dominance of high-quality entries and compromises for minor inconsistencies."
+  }
+}

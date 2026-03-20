@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We have not sought any external assurance for this Statement.\" (Discloses limitations transparently)\n• Evidence 2: \"The information reported in this Statement covers the period from 1 April 2019 to 31 March 2020...\" (Specific temporal scope)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Diagram 1: Power Root’s Sustainability Governance Structure\" (Clear structural reference)\n• Evidence 2: \"Stakeholder Prioritisation Matrix... using the influence and dependence criteria\" (Precise terminology for specific process)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We will continue to expand our reporting scope and boundary... consider seeking external assurance\" (Forward-looking strategic intent)\n• Evidence 2: \"Focus on our main operation in Malaysia... which is also the main contributor of revenue and profit\" (Material operational emphasis)"
+  }
+}

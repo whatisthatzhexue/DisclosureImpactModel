@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Malaysian Resources Corporation Bhd (MRCB) has announced that it has issued a notice of termination to Berjaya Rail Sdn Bhd...\" (verifiable through Bursa Malaysia filing)\n• Evidence 2: \"The consortium... will be further strengthened...\" (direct quote from Berjaya Corporation Bhd statement, attributed to Bernama)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"MRCB has withdrawn and will pursue other strategic opportunities\" (directly ties to company's strategic direction)\n• Evidence 2: \"to meet the government’s expectations\" (links to stakeholder significance and project alignment)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"signed on Dec 15, 2023... termination will take effect after 30 days\" (provides timeline context)\n• Evidence 2: \"consortium includes... Deutsche Bahn, Hitachi Rail, and Hyundai Rotem\" (lists key stakeholders but lacks analysis of implications)"
+  }
+}

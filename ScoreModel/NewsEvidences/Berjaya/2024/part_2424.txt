@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Recycled art extends beyond simply repurposing paper or waste to benefit the environment. It encompasses the utilisation of objects sourced from scrap metal shops to craft unique artworks, transforming discarded items into pieces of artistic expression.\" (Quotes from Nizam, no third-party verification)\n• Evidence 2: \"Nizam Abdullah, 43, is always on the lookout for reusable items at junkyards or scrap metal shops in the Klang Valley.\" (Descriptive statement without verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad, its business strategies, financial performance, or market position.\n• Evidence 2: The text focuses exclusively on an individual artist's creative process and environmental advocacy, with no connection to corporate operations, competitive dynamics, or stakeholder value creation."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The article provides no information about Berjaya Food Berhad's business model, products, or market activities.\n• Evidence 2: The text is entirely centered on Nizam Abdullah's personal artistic journey and does not offer any context, data, or analysis relevant to the company's operations or strategic priorities."
+  }
+}

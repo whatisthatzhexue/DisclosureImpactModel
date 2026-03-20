@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Due to the limitations that are inherent in any system of internal control, the Group's internal control system cannot completely eliminate the risk of failure to achieve its business objectives.\"\n• Evidence 2: \"The system can only provide reasonable assurance against material misstatement or loss.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board of Directors... is committed to maintaining a sound system of risk management and internal controls\" (clear structure and logical flow).\n• Evidence 2: \"The key aspects of the internal control process are as follows:\" (precise sectioning with bullet points)."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board's responsibility in relation to the system of internal control extends to all subsidiaries of the Group\" (corporate governance relevance).\n• Evidence 2: \"The Group CEO and CFO regularly updates the Boards on any significant matters\" (material events disclosure)."
+  }
+}

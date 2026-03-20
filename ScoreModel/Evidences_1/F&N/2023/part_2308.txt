@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our group energy intensity ratio has increased by 3% to 898.30 (as compared to FY2020 baseline at 868.56). Energy efficiency was impacted by lower machine utilisation.\"\n• Evidence 2: \"Our group GHG intensity ratio has improved by 2% to 0.0650 (as compared to FY2020 baseline at 0.0661), making good progress towards our 2025 target...\"\n• Evidence 3: \"In FY2023, there was no incident of non-compliance with laws and regulations resulting in a fine, penalty or warning.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"F&NHB Board of Directors has oversight over sustainability and ESG-related issues...\" (clearly defines governance structure)\n• Evidence 2: \"The average recycled content in our beverage and dairy packaging maintained at 25% this year, on track for our 2025 target.\"\n• Evidence 3: \"Our risk management framework includes the ERM Validation Report and Comfort Matrix...\" (explains complex terms in context)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reduce the Group’s energy intensity ratio at our plants by 8% from a 2020 baseline...\" (forward-looking targets)\n• Evidence 2: \"Our dedication to providing customers quality, safety-compliant products...\" (links to investor concerns)\n• Evidence 3: \"Read more in 'Stakeholder Engagement'...\" (indicates materiality of stakeholder relationships)"
+  }
+}

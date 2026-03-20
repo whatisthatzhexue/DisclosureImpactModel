@@ -1,0 +1,150 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The removal of travel and movement restrictions... have allowed for the full resumption of activities locally and globally' (discloses operational challenges and recovery)\n• Evidence 2: 'The Group has not sought any external assurance for this Statement' (transparently acknowledges limitations)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Power Root’s financial year ended 31 March 2023... increase of 31.0% from the revenue of RM347.9 million' (clear numerical context)\n• Evidence 2: 'The Group has catered for our products to be in tandem with government initiatives' (direct explanation of strategic alignment)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Increasing cost pressures... were a major point of concern which we had to navigate in FY 2023' (material risks to investors)\n• Evidence 2: 'Our 2023 growth pillars incorporated... 5Ps of marketing' (forward-looking strategies for business performance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The meetings were appropriately structured through the use of agendas... in compliance with the MMLR and its terms of reference.\"\n• Evidence 2: \"The Audit Committee reported to and updated the Board on significant issues... made the necessary recommendations to the Board.\"\n• Evidence 3: \"The review focused on key financial results... reasons for variances provided by the Group Financial Controller...\"\n• Evidence 4: \"The Audit Committee carried out its duties in accordance with its terms of reference...\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The meetings were appropriately structured through the use of agendas... normally at least seven -7 days before the meeting...\"\n• Evidence 2: \"The Audit Committee reported to and updated the Board on significant issues... made the necessary recommendations to the Board.\"\n• Evidence 3: \"The review focused on key financial results... comparison to the corresponding quarter...\"\n• Evidence 4: \"The unaudited financial reports... recommended to the Board for approval...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the Quarterly Financial Reports... comparison to the corresponding quarter... reasons for variances provided...\"\n• Evidence 2: \"Reviewed the Company’s Compliance with Regulatory... Malaysian Accounting Standards Board...\"\n• Evidence 3: \"Minutes of the Committee’s meetings were made available... seek clarification and confirmation...\"\n• Evidence 4: \"The Audit Committee reported to and updated the Board on significant issues... made the necessary recommendations...\""
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee members also underwent training by professionals during the financial year to update themselves on the financial reporting and compliance requirements.\"\n• Evidence 2: \"Following the review with the External Auditors and the Management... the Audit Committee recommended for the Board’s approval and adoption of the audited statutory financial statements...\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The audit plan presented included information on the engagement team, audit scope, materiality, audit methodology and timing of audit...\"\n• Evidence 2: \"The Audit Committee was kept informed of the application and impact of new and revised accounting standards by the External Auditors...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee reviewed and approved the Non-Assurance Services (NAS) pre-approval policy...\" \n• Evidence 2: \"The audit findings on the significant risk areas, deficiencies in internal control (if any) and status of the audit were presented to the Audit Committee.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the Audit Committee recommended the reappointment of the External Auditors to the Board for the financial year ended 31 March 2023\" (neutral, fact-based decision)\n• Evidence 2: \"the External Auditors reaffirmed their independence... in accordance with... IESBA Code\" (objective, supported by specific standards)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"met twice on 31 May 2022 and 22 February 2023\" (clear timeline and structure)\n• Evidence 2: \"assessed the adequacy and effectiveness of the respective Internal Audit Functions\" (precise language with logical flow)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the Audit Committee also considered information in the Annual Transparency Report... for the reappointment of the External Auditors\" (directly relevant to investor decision-making)\n• Evidence 2: \"oversight role of the Audit Committee on the internal audit function is detailed in the Statement on Risk Management...\" (includes corporate governance relevance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the Audit Committee noted that there were no other material transactions entered into by the Group with related parties during the financial year ended 31 March 2023\"\n• Evidence 2: \"the Audit Committee was satisfied with the results of the risk assessment and its responses\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the Related Party Transactions\" (clear section heading)\n• Evidence 2: \"the Audit Committee reviewed the draft circular to Shareholders to ensure the [compliance] were in compliance with the MMLR\" (precise language with context)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reviewed the Sustainability Matters Assessment Results of the Group\" (directly relevant to investor concerns about ESG)\n• Evidence 2: \"Reviewed the Draft Circular to Shareholders on the 'Proposed Renewal of Shareholders’ Mandate for RRPTs'\" (critical for governance and shareholder rights)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee reviewed and approved the Annual Budget for the Group prior to its recommendation to the Board for approval.\" (objective, factual disclosure)\n• Evidence 2: \"The Audit Committee ensures the adequacy of the internal audit scope...\" (neutral, specific process description)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The internal audit function of the Group is made up of an in-house internal audit function...\" (clear structure with precise role definitions)\n• Evidence 2: \"The results of the follow-up reviews were reported to the Audit Committee for their review and deliberation.\" (direct, unambiguous language)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the solvency statements...before recommending to the Board for consideration and approval of the distributions.\" (material financial disclosure)\n• Evidence 2: \"Further details...disclosed in the Statement on Risk Management...\" (links to governance-relevant information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Understandability": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"However, as there are inherent limitations in any risk management and internal control system, such system is designed to manage, rather than eliminate risks...\" (discloses limitations and avoids overstatement)\n• Evidence 2: \"The Board does not review the risk management and internal control system of its associate company...\" (specific fact about scope of responsibility)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee... provides assurance to the Board on the adequacy and effectiveness...\" (clear structure of responsibilities)\n• Evidence 2: \"The Board assumes the ultimate responsibility...\" (direct language about governance roles)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The scope of this Statement includes the Company and all operating subsidiaries\" (relevant to investor understanding of coverage)\n• Evidence 2: \"The Board has established an appropriate governance...\" (corporate governance relevance, but lacks specific risk disclosures)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical...\" (neutral, objective)\n• Evidence 2: \"principles... guided by ISO 31000:2018... COSO\" (specific standards referenced)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"clearly defines the risk management objectives and processes... roles and responsibilities\" (logical structure)\n• Evidence 2: \"ISO 31000:2018 – Risk Management Guidelines\" (precise terminology)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"defines the risk management objectives and processes... roles and responsibilities\" (relevant to governance)\n• Evidence 2: \"statement on risk management and internal control\" (implies connection to investor concerns)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Board delegates the duty... to the SRMC... which reports to the Audit Committee on a periodical basis (at least on an annual basis) or when appropriate.'\n• Evidence 2: 'The Risk Management Report... was compiled and tabled to the Audit Committee and Board for review and deliberation.'"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The structured risk management process... is employed by the SRMC and the risk owners for risk and improvement opportunity identification, evaluation, control identification, treatment and monitoring activities.'\n• Evidence 2: 'The internal audit functions... are, in all material aspects, in accordance with the International Professional Practices Framework.'"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Board... ensures that the risk strategies adopted are aligned with the Group’s organisational strategies... risk tolerance and risk appetite.'\n• Evidence 2: 'The risk owners are responsible for managing the risks of the business processes under their control... and for formulating and implementing effective controls to manage these risks.'"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"According to a 2011-2020 study on the return on investment from childhood immunisation in low- and middle-income countries, every US$1 (RM4.4) spent on immunisation programmes returns up to US$44 (RM194) in economic benefits.\" \n• Evidence 2: The article cites multiple credible sources including university officials, state committee chairs, and medical experts with verifiable titles and positions."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or any business operations related to the company. \n• Evidence 2: The content focuses solely on public health initiatives and does not connect to the company's strategic direction, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Programmes such as Selangor Saring enable early detection of non-communicable diseases through full health screenings while the Mental Sehat programme offers vital mental health support.\" \n• Evidence 2: The article provides contextual details about the conference's goals, participants, and specific health initiatives, though it lacks analysis of broader implications for the food and beverage industry."
+  }
+}

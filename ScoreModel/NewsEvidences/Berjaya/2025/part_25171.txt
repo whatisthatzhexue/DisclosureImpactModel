@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This initiative is a step towards establishing Malaysia as a leader in clean energy in the region.\" (Quote from Minister Chang Lih Kang)\n• Evidence 2: \"The total budget for the Mobile Hydrogen Refueling Station (MHRS) cyber project is around RM12mil\" (Specific financial detail with context)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Malaysia’s hydrogen economy ambitions extend beyond just mobility, encompassing the entire hydrogen value chain.\" (High-level strategic vision)\n• Evidence 2: \"The government plans to implement targeted fuel subsidy schemes next year.\" (Policy implications for market dynamics)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Green hydrogen production costs about US$6 (about RM28.15) per kg. Filling up a Mirai would require 5.65kg of hydrogen, costing about US$33.90 (about RM159) for a range of 800km.\" (Detailed cost and performance metrics)\n• Evidence 2: \"Malaysia is working towards phasing out grey hydrogen and transitioning to blue hydrogen, with the ultimate goal of adopting green hydrogen.\" (Comprehensive explanation of hydrogen types and transition plans)"
+  }
+}

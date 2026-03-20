@@ -1,16 +1,16 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The growth metrics... non-financial aspects, and QL is committed to fulfilling our commitment and responsibility.\" (Discloses responsibility without overstatement)\n• Evidence 2: \"Profit before tax (PBT) experienced a 2% contraction... due in part to several factors affecting the three business pillars...\" (Supports claims with specific financial data and risk factors)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Board holds ourselves accountable for upholding and propagating responsible business practices.\" \n• Evidence 2: \"growth metrics that companies are measured by now encompass financial and non-financial aspects, and QL is committed to fulfilling our commitment and responsibility.\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"QL Resources Berhad is a diversified consumer group with three main business pillars...\" (Clear structure with precise categorization)\n• Evidence 2: \"The production of chilled and frozen surimi-based products is expected to rise...\" (Direct language with specific metrics and logical progression)"
+    "score": 8,
+    "justification": "• Evidence 1: \"prudent risk management and good governance.\" \n• Evidence 2: \"international best practices.\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board holds ourselves accountable for upholding and propagating responsible business practices.\" (Relevant corporate governance information)\n• Evidence 2: \"We expect to face the challenge of international fishmeal prices trending downwards...\" (Forward-looking information with material risk disclosure)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Board holds ourselves accountable for upholding and propagating responsible business practices.\" \n• Evidence 2: \"Details of our corporate governance is outlined on pages 31 to 33.\""
   }
 }
 
@@ -18,31 +18,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Company meets the requirement of Paragraph 15.09 -1(c)(i) of the Listing Requirements.\" [specific regulatory compliance]\n• Evidence 2: \"The Audit Committee held two -2 meeting with the External Auditors without the presence of the executive board members and management\" [transparent disclosure of audit processes]"
+    "justification": "• Evidence 1: \"The Audit Committee (AC) was established on 15 January 2000...\" (establishes factual basis)\n• Evidence 2: \"the Company meets the requirement of Paragraph 15.09 -1(c)(i) of the Listing Requirements\" (discloses compliance with regulations)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Reviewed and recommended the Quarterly and Annual Financial Statements... for Board’s approval\" [clear, structured activity description]\n• Evidence 2: \"The internal audit function provided the AC on a quarterly basis...\" [precise, direct language]"
+    "justification": "• Evidence 1: \"Reviewed and recommended the Quarterly and Annual Financial Statements...\" (clear, action-oriented language)\n• Evidence 2: \"The internal audit is risk-based...\" (precise description of function)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Reviewed non-recurrent related party transactions to ascertain that it was undertaken at arms’ length...\" [material risk disclosure]\n• Evidence 2: \"The Board fulfills its responsibilities in the risk governance...\" [corporate governance and risk management relevance]"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board has put in place on an Enterprise Risk Management... in accordance with the Malaysian Code on Corporate Governance 2017\" (specific regulatory compliance)\n• Evidence 2: \"There have been no significant breakdowns or weaknesses...\" (explicit statement about system adequacy)"
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Group’s ERM framework aims to facilitate the execution of strategic business action...\" (clear purpose statement)\n• Evidence 2: \"The RMU and RMC meet on a quarterly basis...\" (precise process description)"
-  },
-  "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Group is exposed to various financial risks...\" (material risk disclosure)\n• Evidence 2: \"The Group’s system of internal control applies to QL Resources Berhad...\" (direct relevance to investors' concerns)"
+    "justification": "• Evidence 1: \"Reviewed non-recurrent related party transactions to ascertain that it was undertaken at arms’ length...\" (material governance risk disclosure)\n• Evidence 2: \"Met with the External Auditors...to review on any concerns/issues affecting their audit...\" (directly addresses audit independence)"
   }
 }
 
@@ -50,14 +34,30 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"QL Poultry Farm Sdn Bhd and QL Breeder Farm Sdn Bhd offer different types of poultry farming activities... poultry mortality rate at QL Breeder Farm Sdn Bhd increased by 0.13%\" (discloses risks and specific data).\n• Evidence 2: \"Our materiality process is presented as follows: Diagram 2: Flowchart of materiality assessment process\" (supports claims with visual aids and structured methodology)."
+    "justification": "• Evidence 1: \"The Group is exposed to various financial risks relating to foreign currency rates, credit risks, interest rate risks and commodity price fluctuations. These financial risks are mitigated through internal control processes and constant monitoring.\"\n• Evidence 2: \"The Board is of the view that the risk management and internal control systems... is adequate and effective to safeguard the shareholders’ investment and the Group’s assets.\""
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Statement is structured into four sections: • The first section gives an overview... • The final section reports on the practices...\" (clear logical structure).\n• Evidence 2: \"Table 2: List of current certifications...\" (uses tables to present complex information concisely)."
+    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows:• Emerging and existing risks are identified by respective business unit...\"\n• Evidence 2: \"The Board, RMU, RMC and Audit Committee meet on a quarterly basis...\""
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group is exposed to various financial risks... commodity price fluctuations.\"\n• Evidence 2: \"The Audit Committee assessed the overall adequacy and effectiveness of the system of internal controls... reports to the Board of Directors.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"This Statement has been prepared in accordance with the Main Market Listing Requirements...\" (neutral, objective compliance statement)\n• Evidence 2: \"QL Poultry Farm Sdn Bhd and QL Breeder Farm Sdn Bhd offer different types of poultry farming activities...\" (specific factual disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Statement is structured into four sections...\" (clear organizational framework)\n• Evidence 2: \"Table 1: Stakeholder engagement modes, focus areas & responses\" (direct, tabular presentation of information)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"QL acknowledges that stakeholders significantly contribute towards the sustainable growth of QL...\" (addresses stakeholder concerns relevant to investors).\n• Evidence 2: \"Climate change and emissions... regulatory requirements impose discharge limits...\" (includes risks and compliance factors critical for decision-making)."
+    "justification": "• Evidence 1: \"QL acknowledges that stakeholders significantly contribute towards the sustainable growth of QL...\" (stakeholder focus relevant to investors)\n• Evidence 2: \"Our materiality process is presented as follows: Diagram 2...\" (materiality assessment relevant to risk evaluation)"
   }
 }

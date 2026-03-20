@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"According to the 2024 Grant Thornton study, women make up 40% of C-suite level roles in Malaysia, but this figure has dropped by about 3% this year.\" (verifiable data source cited)\n• Evidence 2: \"I believe that this event has really allowed us to elevate women’s leadership...\" (direct quote from participant, balanced tone)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Berjaya Corporation Bhd executive director Norlela Baharudin\" (direct company mention, but no strategic context)\n• Evidence 2: \"We’re not yet on the path to parity...\" (general discussion on gender equality, no direct link to Berjaya Food Berhad’s business strategy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Participants were split into two sessions – speed mentoring and speed networking...\" (detailed event structure)\n• Evidence 2: \"It was followed by a sharing session where participants spoke about their strengths...\" (comprehensive coverage of activities, but lacks analysis of corporate impact)"
+  }
+}

@@ -1,6 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 1, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
-  "Understandability": {"score": 1, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
-  "Relevance": {"score": 1, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"}
+  "Reliability": {
+    "score": 1,
+    "justification": "• Evidence 1: No specific facts or disclosures about audit processes, risks, or uncertainties are provided.\n• Evidence 2: The text merely references a report title without substantive content."
+  },
+  "Understandability": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no content to evaluate clarity or structure.\n• Evidence 2: The absence of substantive information prevents assessment of precise language or logical organization."
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: No investor-relevant information (e.g., risks, performance changes, governance) is included.\n• Evidence 2: The text only references a report title without any actionable or explanatory content."
+  }
 }

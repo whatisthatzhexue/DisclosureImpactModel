@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Company’s quarterly financial reporting...International Accounting Standard 34...Main Market Listing Requirements of Bursa Malaysia Securities Berhad.\" (neutral, objective compliance disclosure)\n• Evidence 2: \"Discussed and considered the significant accounting adjustments...impairment of goodwill...\" (transparent risk disclosure)"
+    "justification": "• Evidence 1: \"The ARMC, having been satisfied with the independence, suitability and performance of Messrs Ernst & Young... had recommended to the Board the re-appointment of EY...\" (neutral, factual reporting)\n• Evidence 2: \"However, there was no major issue raised during the private session.\" (transparent disclosure of findings)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Reviewed the Internal Audit Reports...audit findings...Management’s responses...\" (clear process description)\n• Evidence 2: \"Risk register covering areas such as...likelihood of occurrence...risk score...\" (structured risk assessment framework)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The framework set up for identifying and monitoring the RRPT includes inter-alia...\" (clear structure with numbered list)\n• Evidence 2: \"Reviewed the risk register covering areas such as the likelihood of occurrence...\" (precise terminology with defined categories)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Reviewed the 2018 Circular...minority shareholders.\" (material shareholder interest disclosure)\n• Evidence 2: \"Proposed acquisition of a property unit...RM12,435,000.00\" (specific material transaction disclosure)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the 2018 Circular to Shareholders... to ensure that the transactions are fair and reasonable...\" (directly addresses shareholder interests)\n• Evidence 2: \"Disclosures will be made in the annual report on the breakdown of the aggregate value...\" (explicitly mentions disclosure requirements for investors)"
   }
 }

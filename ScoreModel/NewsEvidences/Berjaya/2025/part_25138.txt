@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Please, I beg to be released on bail, I have children who need to go to school.\" (direct quote from defendant)\n• Evidence 2: \"This case is not bailable; if the legal provisions stated it could be bailed, I could consider it.\" (direct quote from judge, showing legal context)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its operations\n• Evidence 2: The article focuses on an individual's legal case unrelated to the company's business activities, financials, or strategic direction"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Detailed description of legal charges, court proceedings, and potential penalties (e.g., \"life imprisonment or not less than five years\")\n• Evidence 2: Includes specific dates, locations, and legal references (e.g., Section 6 of the DDA 1952)"
+  }
+}

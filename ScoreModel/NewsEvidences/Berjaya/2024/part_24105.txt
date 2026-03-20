@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Cancer cases have been increasing in Malaysia, with 168,822 reported cases between 2017 and 2021, according to the Malaysian Cancer Registry.\"\n• Evidence 2: \"The ministry co-organised the event with the National Cancer Society Malaysia (NCSM)...\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or any business activities related to the company.\"\n• Evidence 2: \"The text focuses on healthcare policies, not corporate strategies or financial performance.\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"There are also university hospitals under the Higher Education Ministry that offer cancer treatment.\"\n• Evidence 2: \"The ministry aims to set up satellite radiotherapy centres in Miri and Sibu... between 2030 and 2040.\""
+  }
+}

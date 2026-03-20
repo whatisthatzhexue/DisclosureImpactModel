@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Built in 1989, the museum’s design is based on Minangkabau architecture.\"\n• Evidence 2: \"Sprawled over 24ha, there are many scenic spots in this pet-friendly park.\"\n• Evidence 3: \"Established in 1998, the Cyberjaya Lake Garden covers 35ha\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"THIS Hari Raya Aidilfitri, dress up in your festive outfits...\" (no company mention)\n• Evidence 2: \"Best spots for Raya photoshoot\" (no connection to Berjaya Food Berhad's business operations)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Laluan Seni Pekan Lama... over 15 distinct painting styles depicting local heritage\"\n• Evidence 2: \"Cyberjaya Lake Garden... 35ha and a leisurely stroll around the entire area takes around 20 minutes\""
+  }
+}

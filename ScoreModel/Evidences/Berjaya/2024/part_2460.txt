@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
     "score": 3,
-    "justification": "• Evidence 1: [exact quote] \"KELAVA takes an active step in organising sampling activities for their plant-based ice cream.\" (No risks, challenges, or uncertainties disclosed)\n• Evidence 2: [exact quote] \"BERJAYA FOOD BERHAD\" (No contextual connection to sustainability claims)"
+    "justification": "• Evidence 1: \"KELAVA takes an active step in organising sampling activities for their plant-based ice cream\" (lacks neutrality and specific facts)\n• Evidence 2: No mention of risks, challenges, or uncertainties related to sustainability efforts"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: [exact quote] \"KELAVA takes an active step in organising sampling activities...\" (Direct language but lacks context)\n• Evidence 2: [exact quote] \"ANNUAL REPORT 2024 77\" (Redundant page reference without explanation)"
+    "score": 5,
+    "justification": "• Evidence 1: \"takes an active step\" is vague and lacks precision\n• Evidence 2: Simple structure but minimal detail about the sustainability activity"
   },
   "Relevance": {
     "score": 2,
-    "justification": "• Evidence 1: [exact quote] \"KELAVA takes an active step...\" (No connection to investor decision-making or material events)\n• Evidence 2: [exact quote] \"BERJAYA FOOD BERHAD\" (No forward-looking information or risk disclosures)"
+    "justification": "• Evidence 1: No forward-looking information or risk disclosures relevant to investors\n• Evidence 2: No explanation of performance changes or corporate governance elements"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The latest review was conducted in July 2024.\" (specific timeline)\n• Evidence 2: \"Applied 42 out of the total of 48 recommended MCCG practices\" (quantifiable disclosure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Board delegates specific responsibilities to relevant Board Committees...\" (clear structure)\n• Evidence 2: \"Aligning with QL’s vision and mission statements\" (precise language)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Explains reasons for performance changes\" (strategic alignment with vision/mission)\n• Evidence 2: \"Incorporates ESG considerations\" (material corporate governance factor)"
+  }
+}

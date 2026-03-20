@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board delegates certain responsibilities to the Board Committees, all of which operate within defined terms of reference.\" (neutral, objective description of governance structure)\n• Evidence 2: \"Compliance with these policies and procedures is an essential element of the internal control framework.\" (explicitly links policies to internal controls)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Annual Business Plan sets the targets and objectives based on the strategic directions and initiatives of the Group\" (clear, direct explanation of planning process)\n• Evidence 2: \"Policies, standards and procedures that are available to enhance the Group’s operational efficiency and internal controls include (but not limited to):\" (structured list with clear examples)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Frequent engagements between the Board and the CEO/Management via Group Executive Committee meetings and management reports provide a platform for performance to be periodically monitored\" (directly relevant to investor decision-making)\n• Evidence 2: \"The Chart of Authority provides guidance on the division of responsibilities between the Board and Management\" (relevant to corporate governance and internal controls)"
+  }
+}

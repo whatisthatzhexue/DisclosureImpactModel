@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The text accurately describes historical April Fool’s pranks with verifiable details (e.g., \"Google captured the imagination of users worldwide with its announcement of Gmail Motion\").\n• Evidence 2: The narrative remains neutral, avoiding fabrication or bias, and presents events as fictional pranks without misleading claims."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text focuses on entertainment and marketing stunts (e.g., \"Google’s playful side\"), with no mention of business strategies, financial performance, or market positioning for Berjaya Food Berhad.\n• Evidence 2: The content is unrelated to corporate governance, competitive positioning, or stakeholder value creation for the company."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text provides comprehensive details about each prank, including context (e.g., \"Virgin Volcanic was nothing more than Branson’s brilliant April Fools’ prank\") and specific examples (e.g., \"S-Drive feature for virtual driving\").\n• Evidence 2: It includes historical references and cultural impact (e.g., \"Rickrolling has reached epic proportions\") to contextualize the pranks."
+  }
+}

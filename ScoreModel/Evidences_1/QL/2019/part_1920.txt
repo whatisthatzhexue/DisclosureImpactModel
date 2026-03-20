@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"we have taken precautionary measures by assigning Biosecurity Level 4 for QL Poultry Farms Sdn. Bhd. for the period from September 2018 – December 2018\" (specific temporal context and factual assignment).\n• Evidence 2: \"QLPCOE audit report was tabled and discussed with the farm management\" (neutral disclosure of compliance checks and no overstatement)."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"There are four levels in the rating system\" (clear structure with numbered levels).\n• Evidence 2: \"Farm premises will be disinfected weekly, while the empty house will be disinfected twice\" (precise, direct language for procedural steps)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Due to the Low Pathogenicity Avian Influenza (LPAI) 10km away from our farm, we have taken precautionary measures...\" (material event disclosure and risk mitigation).\n• Evidence 2: \"QLPCOE audit report was tabled and discussed with the farm management\" (internal governance and compliance relevance for investors)."
+  }
+}

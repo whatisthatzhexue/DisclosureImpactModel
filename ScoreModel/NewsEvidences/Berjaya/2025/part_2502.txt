@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Yong Tai Bhd (YTB) has entered into a conditional share sale agreement to acquire the entire equity stake in Sumberjaya Builders Sdn Bhd for RM15mil.\" (verifiable transaction details)\n• Evidence 2: \"the tourism-related property development firm said...\" (direct quote from company statement, no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"marks the company’s entry into Sabah’s property market with a steady growth outlook, further diversifying the group’s earnings stream and enhancing future profitability.\" (direct link to strategic direction)\n• Evidence 2: \"undertake two joint-venture projects...\" (specific financial commitment and market expansion strategy)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Lahad Datu project spans 11.97 acres, and features a mixed development...\" (specific project details)\n• Evidence 2: Missing contextual background on Sumberjaya's prior activities, Sabah property market conditions, or risk analysis (limited analytical depth)"
+  }
+}

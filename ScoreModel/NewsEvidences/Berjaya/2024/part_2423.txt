@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The council has to start work immediately because we have noticed new collapses and cracks.\"\n• Evidence 2: \"The landslide is quite active, so action must be taken today,\" she told Bernama."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: Focus on municipal council actions and resident concerns unrelated to corporate strategy or financial implications."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The landslide was detected almost a month ago and had since formed a crater 8m to 10m deep.\"\n• Evidence 2: \"The landslide had eroded between 10m and 15m and caused the collapse of the stone fence between the slope and the housing area.\""
+  }
+}

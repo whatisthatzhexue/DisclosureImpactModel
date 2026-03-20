@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7.5,
-    "justification": "The final score of 7.5 balances strong evidence from multiple sources (e.g., specific financial data, risk acknowledgment in ERM frameworks, and governance disclosures) with gaps in risk transparency and factual specificity. Higher scores (e.g., 9) highlight objective, verifiable disclosures (e.g., audit fees, strategic risk frameworks), while lower scores (e.g., 5) note missing risk disclosures and imprecise statements (e.g., vague claims about sustainability). The compromise reflects a mix of robust factual reporting and areas needing improvement in risk transparency."
+    "justification": "The final score of 7.5 balances evidence from multiple sources. Higher scores (e.g., 9) highlight comprehensive risk disclosures (e.g., currency risk, internal control assessments) and specific financial data (e.g., audit fees, revenue growth). Lower scores (e.g., 5) note gaps in transparency, such as lack of risk examples or material event disclosures. Compromised scores (e.g., 7) reflect partial risk disclosures (e.g., governance rules) but limited contextualization. Overall, the report demonstrates reasonable reliability with room for improvement in risk specificity."
   },
   "Relevance": {
-    "score": 7,
-    "justification": "A score of 7 reflects the majority of scoring results that emphasize strategic relevance (e.g., forward-looking statements about market expansion, alignment with governance policies) while noting deficiencies in forward-looking risk analysis and material event disclosures. Higher scores (e.g., 8) highlight direct investor-focused content (e.g., strategic extensions, compliance with listing requirements), whereas lower scores (e.g., 5) lack depth in connecting disclosures to performance or risks, resulting in a balanced compromise."
+    "score": 7.5,
+    "justification": "A score of 7.5 reflects mixed relevance. Higher scores (e.g., 8) cite material financial performance data (e.g., revenue growth, PBT figures), strategic rationale (e.g., convenience store expansion), and forward-looking statements (e.g., investor confidence). Lower scores (e.g., 4–5) lack contextualization of ownership structures or performance implications, reducing utility for decision-making. The report provides relevant information for investors but occasionally prioritizes procedural details over strategic or performance-linked insights."
   },
   "Understandability": {
     "score": 8.5,
-    "justification": "The score of 8.5 captures the prevalence of clear, structured language (e.g., bullet points, precise ownership percentages) and logical organization (e.g., segmented corporate structure sections) across most scoring results. Higher scores (e.g., 9) cite direct, jargon-free explanations of processes (e.g., risk management workflows) and numerical clarity. Lower scores (e.g., 7) note minor ambiguities (e.g., parenthetical notes), but overall, the majority of evidence supports high understandability with minimal compromises."
+    "justification": "The score of 8.5 reflects strong clarity. High scores (e.g., 9) highlight structured explanations (e.g., hierarchical ownership, risk management processes) and precise language (e.g., numerical audit fees, clear governance roles). Moderate scores (e.g., 8) note direct language and logical progression (e.g., list formats for responsibilities). Lower scores (e.g., 6–7) mention minor barriers like abbreviations (e.g., 'SDN. Bhd.') or less structured descriptions. Overall, the report is highly understandable with minimal ambiguity, though some technical terms may require prior knowledge."
   }
 }

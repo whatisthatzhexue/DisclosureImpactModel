@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 3,
+    "justification": "• Evidence 1: [R E gist R At i O n n O . 200901032946 (876057-U)] 020\n• Evidence 2: No disclosure of risks, challenges, or uncertainties"
+  },
+  "Understandability": {
+    "score": 2,
+    "justification": "• Evidence 1: [R E gist R At i O n n O . 200901032946 (876057-U)] 020\n• Evidence 2: Vague, redundant, and obscure expressions"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: [TEXT]CORPORATE STRUCTURE...[/TEXT]\n• Evidence 2: No mention of risks, material events, or forward-looking information"
+  }
+}

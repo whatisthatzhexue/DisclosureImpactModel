@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board may form such other committees from time to time as dictated by business imperatives and/or to promote operational efficiency.\" (neutral, factual description of flexibility)\n• Evidence 2: \"All employees are required to declare that they have received, read and understood the provisions of the Code of Conduct.\" (specific, verifiable requirement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The process for the appointment of a new Director is summarised in the sequence as follows:\" (clear structure with numbered steps)\n• Evidence 2: \"The Board Charter is subject to review by the Board annually\" (precise, direct language about governance processes)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board views the commitment to promote sustainability strategies... as part of its broader responsibility to all its various stakeholders\" (relevant to investor concerns about ESG)\n• Evidence 2: \"The Directors have full and timely access to information concerning the Company and the Group\" (directly relevant to governance and transparency)"
+  }
+}

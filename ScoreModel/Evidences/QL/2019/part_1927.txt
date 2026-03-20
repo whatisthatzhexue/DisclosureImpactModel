@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 5,
-    "justification": "• Evidence 1: \"Male 62%\", \"Female 38%\" (factual data presented without context or risk disclosure)\n• Evidence 2: \"Permanent 84%\", \"Contract (Temporary, Part-time) 16%\" (statistical data lacks explanation of implications or uncertainties)"
+    "justification": "• Evidence 1: The text provides specific percentages (e.g., 'Male 62%', 'Female 38%') without contextual verification or methodology, which limits reliability.\n• Evidence 2: No disclosure of risks, challenges, or uncertainties related to sustainability practices is present."
   },
   "Understandability": {
     "score": 5,
-    "justification": "• Evidence 1: \"ILF Gender\", \"MPM Gender\" (clear categorization but lacks contextual explanation)\n• Evidence 2: \">50 years old 11%\", \"<30 years old 40%\" (precise data presentation but fragmented without logical flow)"
+    "justification": "• Evidence 1: The text uses direct language but lacks clear structure (e.g., repeated headings like 'ILF Gender' and 'MPM Gender' without contextual explanation).\n• Evidence 2: Incomplete data entries (e.g., 'Contract (Temporary, Part-time) 16%' vs. 'Contract (Temporary, Part-time) 34%') and missing diagram references reduce clarity."
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"POA Workforce 34%\", \"Foreign Workforce 66%\" (employee demographics may inform investor assessment but lack performance linkage)\n• Evidence 2: \"Permanent 47%\", \"Contract (Temporary, Part-time) 53%\" (data is descriptive but absent forward-looking insights or risk factors)"
+    "score": 4,
+    "justification": "• Evidence 1: Employee demographics may be relevant to investors but lack explanation of how they relate to business performance or sustainability goals.\n• Evidence 2: No forward-looking information, risks, material events, or corporate governance details are included."
   }
 }

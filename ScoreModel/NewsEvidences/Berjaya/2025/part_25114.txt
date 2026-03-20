@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The contract will have no effect on the issued share capital of the company but it is expected to contribute positively to the earnings and net assets per share of the group for the financial year ending Jan 31, 2026.\" (verifiable financial impact)\n• Evidence 2: \"The directors of the company are of the opinion that the acceptance of the contract is in accordance with the best interest of the company.\" (official statement from credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The contract is expected to provide an additional income stream during the current financial year.\" (direct link to financial performance)\n• Evidence 2: \"The contract entailed the construction of a six-storey data centre...\" (specific project details relevant to business operations)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The contract would commence on Feb 26, and would be completed in sections between June 15 and Dec 15.\" (timeline details)\n• Evidence 2: \"The contract is expected to contribute positively to the earnings and net assets per share...\" (financial implications but lacks broader strategic context)"
+  }
+}

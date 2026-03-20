@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"In May and June 2024, two Starbucks stores in Sabah donated 858 kg of used coffee grounds.\" (specific factual data)\n• Evidence 2: \"The Group also considers the needs of vulnerable groups...\" (objective statement without overstatement)"
+    "justification": "• Evidence 1: \"In May and June 2024, two Starbucks stores in Sabah donated 858 kg of used coffee grounds.\" (specific factual data)\n• Evidence 2: \"63 volunteers dedicated 275 community service hours\" (quantifiable metrics)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"donated 858 kg of used coffee grounds\" (precise, direct language)\n• Evidence 2: \"63 volunteers dedicated 275 community service hours\" (clear, measurable description)"
+    "justification": "• Evidence 1: \"Promoting Healthy Eating Habits\" section clearly explains the initiative's purpose and outcomes (direct language)\n• Evidence 2: \"Customers can customise beverages with three sweetness levels\" (precise, actionable information)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Promoting Healthy Eating Habits\" (community impact, but no financial/strategic context)\n• Evidence 2: \"BFood's comprehensive approach guarantees safety and compliance\" (internal process, but no investor-relevant risk disclosure)"
+    "score": 6,
+    "justification": "• Evidence 1: \"This initiative promoted healthy eating habits among children and teenagers\" (links to stakeholder impact)\n• Evidence 2: \"BFood's comprehensive approach guarantees safety and compliance\" (relevant to investor concerns about operational standards)"
   }
 }

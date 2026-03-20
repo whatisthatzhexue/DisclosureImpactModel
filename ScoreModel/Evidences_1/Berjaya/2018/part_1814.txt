@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks has successfully certified 4 deaf partners (employees) as Coffee Masters...\" (specific factual claim)\n• Evidence 2: \"To date, BStarbucks has successfully certified...\" (quantifiable achievement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Starbucks Signing Store provides a platform...\" (clear purpose statement)\n• Evidence 2: \"A total of 984 meal boxes were contributed...\" (precise numerical data)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks is considering the opening of a second Signing Store.\" (forward-looking information)\n• Evidence 2: \"The project has benefitted 1,060 people.\" (quantifiable impact for investors)"
+  }
+}

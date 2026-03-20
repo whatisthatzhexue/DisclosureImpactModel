@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The primary function of the Remuneration Committee is to set up the policy framework and to recommend to the Board on remuneration packages and other terms of employment of the executive directors.\" (neutral, factual description of committee role)\n• Evidence 2: \"The determination of the remuneration for the Non-Executive Directors will be a matter to be decided by the Board as a whole...\" (clear procedural description without overstatement)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The remuneration of Directors is determined at levels which enables the Company to attract and retain Directors with the relevant experience and expertise...\" (neutral, fact-based)\n• Evidence 2: \"The determination of the remuneration for the Non-Executive Directors will be a matter to be decided by the Board as a whole...\" (objective process description)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Remuneration Committee currently comprises the following members:\" (clear structure with explicit member listings)\n• Evidence 2: \"Details of Directors’ remuneration paid or payable... are as follows:\" (precise categorization with numerical breakdowns)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The primary function of the Remuneration Committee is to set up the policy framework and to recommend to the Board...\" (clear explanation of role)\n• Evidence 2: \"Details of Directors’ remuneration paid or payable...\" (structured presentation of financial data)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Board recommends the Directors’ fees payable to Non-Executive Directors on a yearly basis to the shareholders for approval at the AGM.\" (directly relevant to investor decision-making)\n• Evidence 2: \"The number of Directors in office... categorised into the various bands\" (provides governance structure relevant to corporate oversight)"
+    "justification": "• Evidence 1: \"The Board recommends the Directors’ fees payable to Non-Executive Directors...for approval at the AGM\" (material governance information)\n• Evidence 2: \"The number of Directors in office...categorised into the various bands\" (relevant compensation transparency)"
   }
 }

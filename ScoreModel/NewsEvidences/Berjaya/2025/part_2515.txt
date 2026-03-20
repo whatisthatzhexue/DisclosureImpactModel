@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The acquisition was funded through the internal funds of IPCredits. There is no liability to be assumed by the BCorp arising from the acquisition.\" (verifiable financial disclosure)\n• Evidence 2: \"RM12.75mil in cash, or 30 sen per share\" (specific monetary and quantitative data)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The acquisition enabled BCorp to increase its stake in Berjaya Assets\" (direct link to corporate strategy)\n• Evidence 2: \"disposed of 6.60 million ordinary shares... to BCorp for RM13.2mil cash\" (strategic asset management decision)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"42.50 million ordinary shares, representing about a 1.66% equity interest\" (specific transaction details)\n• Evidence 2: \"shareholding in Berjaya Assets increased to approximately 13.96%\" (contextual impact analysis)"
+  }
+}

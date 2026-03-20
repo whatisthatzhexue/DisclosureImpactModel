@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Both ERM Validation Report and Comfort Matrix are tabled at the SRMC and Audit Committee meetings respectively prior to recommendations to the Board on an annual basis.\" (specific process described)\n• Evidence 2: \"Adequate procedures system... are monitored and reported to the SRMC on a quarterly basis; as well as review of the Anti-Corruption System by the Group Internal Audit yearly...\" (supported by specific facts)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Both ERM Validation Report and Comfort Matrix are tabled at the SRMC and Audit Committee meetings respectively prior to recommendations to the Board on an annual basis.\" (objective process description)\n• Evidence 2: \"The Group adopts a 'zero tolerance' stance towards fraud.\" (specific policy statement without overstatement)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Code of Business Ethics & Conduct... defines expected behaviour for employees...\" (clear structure with direct language)\n• Evidence 2: \"Whistleblowing Policy enables the businesses... to report in good faith and in confidence...\" (precise explanation of policy purpose)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Code of Business Ethics & Conduct prescribes the values and principles committed by F&NHB\" (clear definition of policy purpose)\n• Evidence 2: \"Key activities under the system includes annual submission of integrity pledge... monitored and reported to the SRMC on a quarterly basis\" (structured, direct explanation of controls)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Fraud Control Policy... applies to any irregularity...\" (relevant to investor risk assessment)\n• Evidence 2: \"The above-mentioned policies/codes... are available for reference...\" (provides governance-related information for decision-making)"
+    "justification": "• Evidence 1: \"The above-mentioned policies/codes are available for reference at the Company’s website\" (useful for investors seeking transparency)\n• Evidence 2: \"Whistleblowing Policy enables the businesses... to ensure that the corporate culture of integrity... are upheld across the Group\" (relevant governance information)"
   }
 }

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Group declared and paid a total dividend of 2.0 cents single-tier dividend per share (4.0 cents single-tier dividend per share for the previous financial period ended 30 June 2019)\" (specific, factual disclosure)\n• Evidence 2: \"The unprecedented lockdown measures... adversely impacted the Group’s operating results\" (disclosure of risks and challenges)"
+    "justification": "• Evidence 1: \"The Group declared and paid a total dividend of 2.0 cents single-tier dividend per share (4.0 cents single-tier dividend per share for the previous financial period ended 30 June 2019)\" (specific, factual disclosure)\n• Evidence 2: \"The unprecedented lockdown measures... adversely impacted the Group’s operating results\" (discloses risks and challenges)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The total dividend paid was approximately RM7.10 million\" (precise numerical information)\n• Evidence 2: \"Store Location by Region\" (structured breakdown, though some regional numbers may be confusing without context)"
+    "score": 6,
+    "justification": "• Evidence 1: \"The total dividend paid was approximately RM7.10 million\" (clear numerical disclosure)\n• Evidence 2: \"Store Location by Region\" section with numerical breakdown (structured but lacks contextual explanation)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Directors are cautiously optimistic that the operating results of the Group will be satisfactory in the ensuing financial year\" (forward-looking information relevant to investors)\n• Evidence 2: \"With the growing interest in vegetarian alternatives... demand and interest will continue to accelerate\" (explains future growth drivers)"
+    "justification": "• Evidence 1: \"Malaysia’s economy shrank by 8.3%... reflecting the negative impact of the COVID-19 pandemic\" (explains performance change)\n• Evidence 2: \"The Directors are cautiously optimistic... operating results of the Group will be satisfactory\" (forward-looking information for investors)"
   }
 }

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The composition of Independent Non-Executive Directors is in compliance with the minimum prescribed in Paragraph 15.02(1) of the MMLR...\" (specific regulatory compliance)\n• Evidence 2: \"The Board has no clear target for female representatives...\" (disclosure of limitations and transparency)"
+    "justification": "• Evidence 1: \"The composition of Independent Non-Executive Directors is in compliance with the minimum prescribed in Paragraph 15.02(1) of the MMLR...\" (specific regulatory compliance)\n• Evidence 2: \"The Board has no clear target for female representatives...\" (acknowledges a gap without overstatement)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board currently has ten -10 members comprising two -2 Independent Non-Executive Co-Chairmen...\" (clear numerical breakdown)\n• Evidence 2: \"The Board supports age, ethnic and gender diversity...\" (direct statement of policy without ambiguity)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board currently has ten -10 members comprising two -2 Independent Non-Executive Co-Chairmen...\" (clear numerical breakdown)\n• Evidence 2: \"The Board supports age, ethnic and gender diversity...\" (direct statement of policy position)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board is satisfied that... the current Board’s composition represents a mix of knowledge...\" (directly relevant to governance effectiveness)\n• Evidence 2: \"Please refer to Practice 4.4... for detailed disclosures on Boardroom Diversity\" (links to additional relevant information)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Please refer to Practice 4.1 of the CG Report for further details.\" (links to governance disclosures relevant to investors)\n• Evidence 2: \"The Board has no clear target for female representatives...\" (discloses diversity policy limitations relevant to governance evaluation)"
   }
 }

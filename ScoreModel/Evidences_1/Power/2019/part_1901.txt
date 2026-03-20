@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'There were 406 winners around the country.' [specific factual claim]\n• Evidence 2: 'The formulation was upgraded to include Marine Collagen...' [specific product change]"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'A nine-month customer engagement programme... affordable prices.' [clear structure and direct language]\n• Evidence 2: 'The five Stock Keeping Units... creamier and smoother taste cup...' [precise description of product variations]"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: 'The intention of this campaign was to spur sales...' [explains campaign purpose, but lacks financial impact analysis]\n• Evidence 2: 'Our participation in this exciting event helped increase awareness...' [focuses on brand exposure rather than investor-relevant metrics]"
+  }
+}

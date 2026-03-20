@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 5, "justification": "• Evidence 1: The text describes social enterprises with verifiable details (e.g., product types, locations, and contact info) but lacks direct verification of claims about their impact.\n• Evidence 2: No credible sources or citations are provided for the social enterprises' activities or financial data."},
+  "StrategicRelevance": {"score": 2, "justification": "• Evidence 1: The text does not mention Berjaya Food Berhad or its strategic initiatives, business performance, or market position.\n• Evidence 2: No connection to the company's competitive advantages, financial implications, or long-term value creation is present."},
+  "Depth": {"score": 3, "justification": "• Evidence 1: The text provides superficial details about social enterprises (e.g., product types, locations) but lacks comprehensive background on their operations or impact.\n• Evidence 2: No data or evidence to support claims about their financial contributions or community impact is included."}
+}

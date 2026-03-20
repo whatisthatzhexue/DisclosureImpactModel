@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A total of 1,064 fig trees were removed from downtown Bandaran Berjaya, Sinsuran, Kampung Air and Gaya Street.\" (specific data with location)\n• Evidence 2: \"These fig trees have been moved to our nursery in Kota Belud.\" (direct quote from source with verifiable action)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or its business operations, strategic initiatives, or financial implications.\" (complete absence of company connection)\n• Evidence 2: \"Focus on environmental NGO activities unrelated to corporate financial performance or market positioning.\" (no stakeholder relevance to the company)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The fig species are mainly ficus tinctoria, F. drupacea, F. benjamina, F. microcarpa and F. septica.\" (specific biological detail)\n• Evidence 2: \"Last year, there had been similar initiatives by another NGO in the city...\" (contextual historical background)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"After my husband was arrested, my son and I were called to give statements (as evidence) regarding the discovery of 'illegal goods'.\"\n• Evidence 2: \"Sepang OCPD Asst Comm Norhizam Bahaman said the celebrity was taken to a Magistrate's Court...\""
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad is a food and beverage company listed in Malaysia.\" (No mention in provided text)\n• Evidence 2: \"Consider the information needs of investors and stakeholders...\" (No company-related content in text)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The celebrity was remanded for five days until Thursday and it is learnt he is expected to be charged in Sepang on Friday (Dec 20).\"\n• Evidence 2: \"Section 39A(2) of the Dangerous Drugs Act 1952\" (legal context provided but no company-specific analysis)"
+  }
+}

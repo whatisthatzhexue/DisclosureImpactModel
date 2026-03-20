@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Since 2010, Putrajaya Corporation has been at the forefront of championing the cycling culture in the city through its inter-park rides.\" (specific historical data)\n• Evidence 2: \"The journey meanders around the serene lake, guiding cyclists through the picturesque landscape of Precinct 8\" (descriptive accuracy without fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or any business operations related to the company\" (complete absence of company context)\n• Evidence 2: \"Text focuses on tourism infrastructure in Putrajaya, unrelated to food/beverage industry strategies\" (no connection to company's strategic direction)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Detailed description of cycling routes, landmarks, and event history (2010-present)\" (comprehensive coverage)\n• Evidence 2: \"Includes specific locations (New Millennium Monument, Tuanku Mizan Zainal Abidin Mosque) and experiential details (sunrise rides, cafe stops)\" (nuanced context about the cycling experience)"
+  }
+}

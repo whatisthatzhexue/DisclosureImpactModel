@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks launched an upcycling initiative to address the environmental impact of single-use Flavorlock™ bags.\" (specific fact)\n• Evidence 2: \"Starbucks Malaysia will launch the second series... in FY2025.\" (forward-looking statement with timeframe)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Every pouch purchased, BStarbucks donates RM1 to YWCA KL's Vocational Training Opportunity Centre...\" (specific factual disclosure)\n• Evidence 2: \"Starbucks Malaysia will launch the second series... in FY2025\" (forward-looking statement with timeframe)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Every pouch purchased, BStarbucks donates RM1 to YWCA KL's Vocational Training Opportunity Centre...\" (clear cause-effect relationship)\n• Evidence 2: \"empowering young girls and women in B40 communities\" (precise description of impact)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Upcycling for a Greater Cause\" (clear section heading)\n• Evidence 2: \"empowering young girls and women in B40 communities\" (precise language with contextual explanation)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Starbucks Malaysia will launch the second series... in FY2025.\" (forward-looking information relevant to investors)\n• Evidence 2: \"empowering young girls and women in B40 communities\" (social impact relevant to stakeholders)"
+    "score": 5,
+    "justification": "• Evidence 1: \"Starbucks Malaysia will launch the second series... in FY2025\" (forward-looking information relevant to investors)\n• Evidence 2: Missing material risks, corporate governance, or internal management details (criteria not met)"
   }
 }

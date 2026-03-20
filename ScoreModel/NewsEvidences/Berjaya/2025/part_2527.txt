@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, BLand said the proposed disposal represents an opportunity for the group to realise its investment in BHandico12.\"\n• Evidence 2: \"For the financial year ended June 30, 2024, BHandico12 recorded an audited net loss of RM17.21mil with the audited net liabilities of RM35.62mil.\"\n• Evidence 3: The article cites a credible source (Bursa Malaysia filing) and provides verifiable financial data."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The proposed disposal represents an opportunity for the group to realise its investment in BHandico12.\"\n• Evidence 2: \"BHandico12 is principally involved in the property investment and development.\"\n• Evidence 3: The article connects to BLand's financial performance and strategic asset management through the JV's losses and the disposal's impact on the company's portfolio."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Hanoi Garden City offers a product mix of residential, commercial/retail shops, high-rise apartments, low-rise housing, medical centre/hospital, administrative management building, mall, school and parking lots.\"\n• Evidence 2: \"BHandico12 recorded an audited net loss of RM17.21mil with the audited net liabilities of RM35.62mil.\"\n• Evidence 3: The article provides context about the JV's operations, financial status, and the scale of the development project, though it lacks deeper analysis of market conditions or strategic rationale for the disposal."
+  }
+}

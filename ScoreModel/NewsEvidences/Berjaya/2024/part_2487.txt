@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Adtrec was developed to make it more convenient for the community to carry out recycling,\" he said during the launch... [quote verifies direct statement from official].\n• Evidence 2: \"Waste is not dirty, it is money...\" [quote provides direct commentary from official, no fabrication]"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its operations in the text.\n• Evidence 2: The article focuses on waste management initiatives unrelated to food production, supply chains, or corporate strategy of the subject company."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Three different receptacles for plastic, boxes and paper as well as steel and aluminium are available...\" [specific operational details].\n• Evidence 2: \"Monitoring systems, along with Wi-Fi and lighting, used solar power...\" [technical implementation details]."
+  }
+}

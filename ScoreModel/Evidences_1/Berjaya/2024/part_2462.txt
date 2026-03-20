@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"723 number of audits were conducted in BStarbucks and BFS stores\" (specific factual data).\n• Evidence 2: \"91% of 408 BStarbucks stores are Halal certified\" (quantifiable claim with context)."
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks Halal Status of stores have achieved Halal certification to date 91% of 408 BStarbucks stores are Halal certified\" (clunky phrasing with missing punctuation).\n• Evidence 2: \"Jollibean's high-pressure soy milk extracting machine...\" (contextually disconnected from surrounding text)."
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Supporting these events reinforces BStarbucks' dedication to environmental stewardship\" (aligns with investor interest in sustainability).\n• Evidence 2: \"Delivering Trust in Every Cup We Serve: Halal Accreditation\" (relevant to brand reputation but lacks risk disclosure)."
+  }
+}

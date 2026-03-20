@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: The article presents direct quotes from CEO Mohamad Taufik Rizal Aminuddin without third-party verification or citations.\n• Evidence 2: The text lacks verifiable data (e.g., enrollment numbers, financial metrics) to substantiate claims about the academy's impact."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: The article highlights Todak Academy's expansion into AI and robotics (2025 plans), aligning with long-term strategic goals for digital education.\n• Evidence 2: Mentions of industry partnerships and curriculum development reflect strategic alignment with market trends and talent pipeline creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides detailed descriptions of programs (game design, esports, AI) and their alignment with industry needs.\n• Evidence 2: Explains the academy's educational philosophy and target demographics (children, adults) but lacks quantitative metrics or comparative analysis."
+  }
+}

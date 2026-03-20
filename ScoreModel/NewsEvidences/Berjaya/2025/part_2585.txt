@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'MRCB's subsidiary, MRCB Land, is selling its 70% stake in CSB Development Sdn Bhd to Cyberview for RM219.0mn in cash.'\n• Evidence 2: 'Sapura Energy Bhd clarified that it has not been contacted by the MACC regarding a probe...' (factual and verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Solarvest Holdings Bhd has secured a RM401mn engineering... contract for Tenaga Nasional Bhd’s 500MW solar farm' (strategic business expansion).\n• Evidence 2: 'Focus Point Holdings Bhd has proposed a one-for-three bonus issue... aimed at enhancing shareholder value' (direct corporate action with financial implications)."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Envitech Sdn Bhd... accepted two letters of award to redevelop wastewater treatment plant... worth RM99.8mn' (specific financial details).\n• Evidence 2: 'Poh Huat Resources Holdings Bhd saw its first-quarter net profit fall 8.0%... due to higher material costs and factory overheads' (contextual financial analysis)."
+  }
+}

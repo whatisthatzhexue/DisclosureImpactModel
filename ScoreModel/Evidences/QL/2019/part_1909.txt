@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Changes such as excessive rainfall, prolonged drought and scorching temperatures affect the environment and our operations. QL vigilantly monitors global weather patterns and proactively adopt mitigative measures.\" (discloses risks and specific actions)\n• Evidence 2: \"Fluctuating cost of raw materials, biosecurity threats and eggs over-supply are the challenges in the ILF business.\" (acknowledges challenges with specific facts)"
+    "score": 9,
+    "justification": "• Evidence 1: \"QL vigilantly monitors global weather patterns and proactively adopt mitigative measures.\" (Discloses climate risks with specific actions)\n• Evidence 2: \"The World Bank sees slowing global growth... projected to be at a meagre 2.6%...\" (Provides factual economic projections and acknowledges uncertainties)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"QL Resources Berhad (428915-X) Annual Report 2019\" (clearly identifies the report and entity)\n• Evidence 2: \"The moderated consumer confidence paradoxically juxtapose with consumer spending in Malaysia which is on an upward projection\" (precise language with logical structure)"
+    "justification": "• Evidence 1: \"QL complies with food standards, both local and international.\" (Clear, direct statement of compliance)\n• Evidence 2: \"Our operations in MPM stand to benefit from the improving fish catch...\" (Precise explanation of operational advantages)"
   },
   "Relevance": {
     "score": 9,
-    "justification": "• Evidence 1: \"The World Bank sees slowing global growth... projected to be at a meagre 2.6% this year\" (forward-looking economic data relevant to investors)\n• Evidence 2: \"QL is optimistic of reaping returns from our investment strategy\" (links corporate strategy to financial performance)"
+    "justification": "• Evidence 1: \"The moderated consumer confidence paradoxically juxtapose with consumer spending...\" (Provides forward-looking economic insights relevant to investors)\n• Evidence 2: \"Fluctuating cost of raw materials... are the challenges in the ILF business.\" (Highlights material risks impacting performance)"
   }
 }

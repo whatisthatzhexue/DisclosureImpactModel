@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board recognises that the system of risk management and internal control are designed to manage and mitigate risks rather than eliminate risks which may hinder the achievement of the Group’s objectives and would therefore provide only reasonable and not absolute assurances against material misstatements or losses.\"\n• Evidence 2: \"For the purposes of this Statement, associated companies and joint ventures have been excluded from the Group.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board recognises that the system of risk management and internal control are designed to manage and mitigate risks rather than eliminate risks... provide only reasonable and not absolute assurances against material misstatements or losses.\"\n• Evidence 2: \"The ERM policy was reviewed and updated to benchmarked against the ISO31000:2018 Risk Management – Guidelines.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Group adopts the Enterprise-wide Risk Management Policy (\"ERM Policy\") which is designed to manage risks in an integrated, systematic and consistent manner.\"\n• Evidence 2: \"The ERM process involves a systematic application of the risk management methodology to facilitate risk identification, assessment, reporting as well as monitoring and review.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group adopts the Enterprise-wide Risk Management Policy (\"ERM Policy\")...\" (clear structure with defined terminology).\n• Evidence 2: \"The SRMC also maintains a close relationship with the Audit Committee...\" (direct explanation of roles)."
   },
   "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"This Statement on Risk Management and Internal Control is intended to provide our stakeholders and readers of this Annual Report with sufficient and meaningful information about the adequacy and current state of Fraser & Neave Holdings Bhd’s system of risk management and internal control.\"\n• Evidence 2: \"The SRMC and approved by the Board annually.\""
+    "score": 6,
+    "justification": "• Evidence 1: \"This Statement... provide our stakeholders... information about the adequacy and current state of... system of risk management and internal control.\"\n• Evidence 2: \"The SRMC... determines the nature and extent of significant risks...\" (links to governance and risk factors)."
   }
 }

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"BStarbucks achieved a 98.5% SKU accuracy in the annual stock count in the warehouse as of 30 June 2024.\" (specific factual data)\n• Evidence 2: \"BFood's assessment processes for corruption and bribery risks evaluate and prioritise critical areas with high potential or likely influence over operations\" (disclosure of risk management processes)"
+    "justification": "• Evidence 1: \"BStarbucks achieved a 98.5% SKU accuracy in the annual stock count in the warehouse as of 30 June 2024.\" (specific factual statement)\n• Evidence 2: \"The Group expects suppliers to proactively reduce carbon emissions... in accordance with its sustainability objectives.\" (objective policy description without overstatement)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"BFood upholds stringent ethical standards, prioritising integrity, transparency, and accountability\" (clear, direct language)\n• Evidence 2: \"The Group actively promotes awareness of these policies through extensive communication and tailored training\" (precise explanation of implementation methods)"
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood's Zero Tolerance Policy... meets the requirements outlined in the Guidelines on Adequate Procedures to Section 17A (5) of the Malaysian Anti-Corruption Commission Act 2009.\" (clearly references legal framework)\n• Evidence 2: \"BFood conducts ethical training for its suppliers and contractors every two years.\" (precise, direct statement of policy implementation)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood's assessment processes for corruption and bribery risks evaluate and prioritise critical areas...\" (material risk disclosure relevant to investors)\n• Evidence 2: \"BFood conducts ethical training for its suppliers and contractors every two years\" (forward-looking information about compliance practices)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Corruption risks... are essential considerations in BFood's risk management framework.\" (directly addresses investor-relevant risk management)\n• Evidence 2: \"BFood's assessment processes... evaluate and prioritise critical areas with high potential or likely influence over operations.\" (explains material risk assessment methodology)"
   }
 }

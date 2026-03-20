@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"the Company was in compliance with the Bursa Securities Listing Requirements\" (neutral, factual compliance statement)\n• Evidence 2: \"the systems of risk management and internal control are designed to manage and mitigate risks rather than eliminate risks... provide only reasonable and not absolute assurances\" (acknowledges limitations)"
+    "score": 9,
+    "justification": "• Evidence 1: \"the Company was in compliance with the Bursa Securities Listing Requirements\" (neutral, factual disclosure)\n• Evidence 2: \"the Board was satisfied that the Audit Committee had discharged its functions... in accordance with the Audit Committee’s TOR\" (objective assessment with specific reference to TOR)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Three-lines of Defence\" model with clear hierarchical structure (precise terminology for governance framework)\n• Evidence 2: Risk categories (Financial/Economic, Strategic, etc.) with defined descriptions (logical organization of information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group adopts the Enterprise-wide Risk Management Policy (\"ERM Policy\")... benchmarked against the ISO31000:2018 Risk Management – Guidelines\" (clear structure with defined terminology)\n• Evidence 2: \"The 3 LINES OF DEFENCE\" diagram (visual structure aids comprehension despite complex concepts)"
   },
   "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"recurrent related party transactions... necessary for the day-to-day operations\" (materiality disclosure for investors)\n• Evidence 2: \"ERM process... to identify, assess, reporting as well as monitoring and review\" (directly addresses risk management relevance for decision-making)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The objective of risk management is to create and protect value for the Group...\" (directly relevant to investor concerns)\n• Evidence 2: \"Details of the recurrent related party transactions...\" (material transactions relevant to governance and transparency)"
   }
 }

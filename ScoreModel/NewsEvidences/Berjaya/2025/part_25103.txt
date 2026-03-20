@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Berjaya Corporation Bhd’s net loss for the second quarter... narrowed to RM88.68 million from RM120.77 million last year.\"\n• Evidence 2: \"In a Bursa Malaysia filing today, the conglomerate said... pre-tax loss to RM39.02 million...\"\n• Source cited as Bernama, a credible Malaysian news agency."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The performance of the domestic business segments is expected to improve... supported by strong consumer spending and improvement in tourism activities.\"\n• Evidence 2: \"As for the gaming business, it is expected to maintain its growth trajectory...\"\n• Direct mention of strategic business segments and forward-looking growth targets."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue for the quarter contracted to RM2.20 billion... notably as the group made significant progress by reducing its pre-tax loss.\"\n• Evidence 2: \"Malaysia’s economic growth is expected to be driven by strong domestic demand... despite the uncertainties arising from ongoing geopolitical tensions.\"\n• Provides financial data and contextual factors but lacks deeper analysis of industry trends or historical performance."
+  }
+}

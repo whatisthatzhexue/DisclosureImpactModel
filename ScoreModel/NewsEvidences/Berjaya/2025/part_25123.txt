@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The text provides specific locations for activities (e.g., 'Malaysia.SUP Academy', 'Tanjung Aru beach') with verifiable details.\n• Evidence 2: Descriptions of activities like pickleball and padel include historical context and technical specifications (e.g., 'invented by three American men', 'combination of tennis and squash')."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text does not mention Berjaya Food Berhad or its business operations, strategies, or financials.\n• Evidence 2: The content focuses on recreational activities, which are unrelated to the company's food and beverage sector."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Detailed descriptions of activities (e.g., 'full-body workout', 'soft bouldering mats') provide context and technical insights.\n• Evidence 2: The text lists multiple locations and facilities for each activity, offering practical information for readers."
+  }
+}

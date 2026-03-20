@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The presence of three (3) Independent Non-Executive Directors is sufficient to provide the required checks and balances on the decision making process of the Board.\" (neutral, factual statement about board structure)\n• Evidence 2: \"The Nomination Committee concluded that Datuk Zainun Aishah Binti Ahmad and Dato’ Mustapha Bin Abdul Hamid have satisfied the independence criteria.\" (specific, verifiable assessment of director independence)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board meets regularly on a quarterly basis.\" (clear, direct statement of meeting frequency)\n• Evidence 2: \"The Company Secretaries play an important role in facilitating the overall compliance...\" (precise explanation of roles with logical flow)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board will ensure that the strategic plans of the Company and the Group supports long term value creation...\" (forward-looking information relevant to investors)\n• Evidence 2: \"The Company Secretaries also assist the Board and Board Committees to function effectively...\" (explains internal governance mechanisms impacting operations)"
+  }
+}

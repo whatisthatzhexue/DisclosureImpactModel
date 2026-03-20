@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Higher fuel cost' impact on MPM operations (exact quote: 'the impact of the changes in labour regulations which was compounded by the increase in the other input costs from higher fuel, electricity and ingredients')\n• Evidence 2: Disclosure of anti-bribery compliance ('Zero violation on Anti-Bribery Policy')"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: Structured sections with clear headings (e.g., 'Business Review', 'Financial Performance')\n• Evidence 2: Specific data points like '17.2% reduction in GHG intensity' provide concrete metrics"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: Forward-looking statements about FY2024 outlook ('Overall, the MPM business pillar will face higher operational costs...')\n• Evidence 2: Risk disclosures related to climate factors ('El Niño phenomenon is developing...')"
+  }
+}

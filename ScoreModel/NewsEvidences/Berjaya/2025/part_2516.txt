@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, BFood said the cash consideration for the disposal was arrived at after taking into consideration the prevailing market prices of the SEM Shares at the time of the disposal.\"\n• Evidence 2: \"The carrying value of the SEM Shares pursuant to the disposal (which were acquired since March 2023) in the books of the BFood Group as at May 31, 2025 is about RM1.95 per SEM share.\""
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The cash proceeds from the disposal will be utilised as working capital of BFood and subsidiaries (BFood Group). The disposal enabled the BFood Group to realise part of its investment in SEM.\"\n• Evidence 2: \"Following the disposal, BFood, via BFI, now holds a 0.25% equity interest in SEM, comprising 2.77 million shares.\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood’s wholly-owned subsidiary, Berjaya Food (International) Sdn Bhd (BFI), has disposed of 6.60 million ordinary shares, representing a 0.60% equity interest in 7-Eleven Malaysia Holdings Bhd (SEM), to Berjaya Corp Bhd (BCorp) for RM13.2mil cash, or RM2 per share.\"\n• Evidence 2: \"The carrying value of the SEM Shares pursuant to the disposal (which were acquired since March 2023) in the books of the BFood Group as at May 31, 2025 is about RM1.95 per SEM share.\""
+  }
+}

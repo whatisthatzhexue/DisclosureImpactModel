@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: '100% of plants and production processes are certified with FSSC scheme 22000, ISO 22000 and HACCP Food Safety management systems' (specific certification details)\n• Evidence 2: '61% reduction of sugar per ml of our total beverages (2004-2021)' (quantifiable historical data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Sustainability risks and opportunities for F&NHB are governed by Sustainability & Risk Management Committee' (clear structure)\n• Evidence 2: '100PLUS distributed at major vaccination centres to promote hydration' (precise, actionable information)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'Sustainability metrics are weighted at 15% of the annual variable compensation plan' (investor-relevant incentive alignment)\n• Evidence 2: 'Sustainability risks can cause massive disruptions to the global supply chain' (material risk disclosure)"
+  }
+}

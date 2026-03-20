@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The acquisition was funded through the internal funds of IPCredits. There is no liability to be assumed by the BCorp arising from the acquisition.\"\n• Evidence 2: \"The acquisition enabled the BCorp to increase its stake in BAssets,\" BCorp said in a filing with Bursa Malaysia."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The acquisition enabled the BCorp to increase its stake in BAssets,\" BCorp said in a filing with Bursa Malaysia.\n• Evidence 2: \"Following the acquisition, BCorp and its subsidiaries’ shareholding in BAssets increased to approximately 13.96%\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"42.50 million ordinary shares, representing about a 1.66% equity interest in Berjaya Assets Bhd for RM12.75mil in cash, or 30 sen per share.\"\n• Evidence 2: \"The acquisition was funded through the internal funds of IPCredits.\""
+  }
+}

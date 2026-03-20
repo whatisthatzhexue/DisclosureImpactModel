@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Gamuda Bhd's wholly-owned subsidiary Gamuda Engineering Sdn Bhd has secured a RM451.4mil contract...\" (verifiable data and direct quote from the company)\n• Evidence 2: \"The Cyberjaya Data Centre FCSA Works is expected to contribute positively to the revenue...\" (specific financial impact statement from the company)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"...contribute positively to the revenue and earnings of Gamuda Group for the financial year ending July 31, 2025...\" (direct link to financial performance and strategic impact)\n• Evidence 2: \"The project will commence in the last quarter of 2024 and be completed in the first quarter of 2026\" (timeline aligns with strategic planning and execution)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"foundation, civil and structural and architectural works of the facility\" (specific project details)\n• Evidence 2: \"...expected to contribute positively to the revenue...\" (financial implication but lacks broader market or industry context)"
+  }
+}

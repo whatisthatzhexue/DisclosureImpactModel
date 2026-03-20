@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Board is responsible for the overall performance of the Group and focuses mainly on the strategic management, performance measurement and monitoring, enterprise risk management...' [neutral, factual description of responsibilities]\n• Evidence 2: 'The Board has not nominated a Senior Independent Non-Executive Director... possesses the required skills, knowledge and experience to lead the Nominating Committee' [transparent disclosure of board composition]"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Board meets regularly to perform its main function on the development and implementation of strategic plans...' [clear structure with direct language]\n• Evidence 2: 'The number of Directors whose remuneration fall into the following bands are as follows' [tabular format enhances clarity]"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Board is tasked with the oversight role on the effectiveness of Audit and Risk Management' [directly addresses investor concerns about governance and risk]\n• Evidence 2: 'The Board’s immediate priorities... to strengthen the compliance of the corporate governance practices' [forward-looking information on governance improvements]"
+  }
+}

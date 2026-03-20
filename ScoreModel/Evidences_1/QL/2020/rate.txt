@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The majority of scoring results (8, 9, 7, 8, 9) highlight strong adherence to governance standards, specific policy references (e.g., Malaysian Code on Corporate Governance 2017, COSO framework), and objective disclosures about internal controls and risk management. The lowest score (6) is due to repetitive information and obscure phrasing (e.g., \"Raising Defences: Section 17A, MACC Act\"), but this is an outlier. Compromised score of 8.5 reflects high reliability with minor inconsistencies."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "Scores of 9, 8, and 7 emphasize direct links to investor concerns (e.g., governance structure, risk disclosures, stakeholder engagement) and material governance insights. Lower scores (5, 6) mention relevant topics like executive compensation but lack specific material event disclosures. The final score of 8 balances strong relevance for investors with gaps in detailed event-specific information."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "Scores of 7, 8, and 7 reflect clear structure (e.g., tabular data, bullet points) and precise language (e.g., \"Risk factors are incorporated into the risk register\"). The lowest score (4) is due to repetitive, unclear phrasing (e.g., \"Key Amendments... repeated multiple times\"). The final score of 7 acknowledges strong clarity in most sections while addressing the outlier’s issues."
+  }
+}

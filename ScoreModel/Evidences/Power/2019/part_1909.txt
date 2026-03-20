@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: [exact quote] 'To ensure full compliance with relevant laws and regulations' (neutral, objective)\n• Evidence 2: [exact quote] 'To ensure sustainable supply of quality services and materials' (specific, factual)"
+    "score": 5,
+    "justification": "• Evidence 1: [exact quote]The Board has determined that...stakeholder mapping exercise...Group:- Stakeholder Group Engagement Objective(s) Preferred Engagement Method(s) [exact quote]\n• Evidence 2: [exact quote]Discloses no risks, challenges, or uncertainties; focuses solely on engagement strategies without critical analysis"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: [exact quote] 'Stakeholder Group Engagement Objective(s) Preferred Engagement Method(s)' (clear structure)\n• Evidence 2: [exact quote] 'Management, operational and committee meetings' (precise, direct language)"
+    "score": 8,
+    "justification": "• Evidence 1: [exact quote]Clear structure with bullet points and headings for stakeholder groups [exact quote]\n• Evidence 2: [exact quote]Precise language (e.g., 'Supplier audit', 'Periodical audits') without vague terms [exact quote]"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: [exact quote] 'To improve customer’s satisfaction' (relevant to investor decision-making)\n• Evidence 2: [exact quote] 'Marketing and promotional programmes and events' (practical engagement methods)"
+    "score": 5,
+    "justification": "• Evidence 1: [exact quote]Stakeholder engagement objectives relevant to investors (e.g., 'ensure continuous financial support') [exact quote]\n• Evidence 2: [exact quote]Lacks forward-looking information, risks, or material events; focuses on current engagement methods [exact quote]"
   }
 }

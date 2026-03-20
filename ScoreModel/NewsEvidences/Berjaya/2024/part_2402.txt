@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, AR-REIT said the proposed disposal is in line with its investment objectives...\"\n• Evidence 2: \"Given the favourable price of this asset sale and leveraging on the best and highest use...\""
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"this is an opportune time to dispose of the property and to redeploy the capital towards potential yield-accretive properties\" (directly ties to strategic portfolio rebalancing)\n• Evidence 2: \"re-balance its portfolio towards new resilient and sustainable assets\" (aligns with long-term strategic objectives)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the manager believes that after almost eight years of owning this property, it has maximised the income-generating potential...\" (provides context for decision-making)\n• Evidence 2: \"the current capacity being a typical office market that is currently in over supply\" (market analysis context)"
+  }
+}

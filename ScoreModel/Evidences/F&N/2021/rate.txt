@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8.5,
-    "justification": "The majority of scoring results (8 out of 10) provided strong evidence of high reliability, including detailed financial disclosures, third-party validations, and structured risk management frameworks. Scores of 9 were supported by specific data (e.g., certification details, quantifiable risk metrics) and clear explanations of governance structures. The two low scores (1 and 3) were based on incomplete or missing evidence (e.g., only mentioning committee names without substantive content), which are likely errors. Compromised to 8.5 to reflect the dominance of high-quality disclosures while acknowledging the outliers."
+    "justification": "• Most scoring results (7/10) provided strong evidence for high reliability, such as specific factual disclosures (e.g., 'Dividend per Share: 60.0 sen'), transparent risk management practices (e.g., 'Audit Committee ensures independence of external auditors'), and third-party validation (e.g., 'External Auditors confirmed compliance with disclosures'). However, one scoring result (score 1) cited severe deficiencies, including no risk disclosures or factual support. The compromised score of 8.5 reflects the majority of robust evidence while acknowledging the outlier's impact."
   },
   "Relevance": {
-    "score": 8,
-    "justification": "Most scoring results (7 out of 10) demonstrated strong relevance through material event disclosures (e.g., pandemic preparedness, sustainability goals), forward-looking information, and alignment with investor concerns (e.g., risk management, ESG integration). Scores of 9 were justified by direct links to strategic priorities and material risks. The low scores (1 and 6) were based on minimal or vague justifications (e.g., generic mentions of committees without context), which are likely errors. Compromised to 8 to balance the high-quality relevance evidence with the outliers."
+    "score": 7.8,
+    "justification": "• High scores (8–9) were supported by material financial performance explanations (e.g., 'Excluding one-off items... profit declined by 3.9%'), strategic forward-looking information (e.g., 'Building Halal Packaged Food into a growth pillar'), and governance-linked risk disclosures (e.g., 'ERM policy benchmarked against ISO31000'). Lower scores (6–7) cited insufficient forward-looking details or investor-focused content. The final score of 7.8 balances the strong relevance in most areas with the need to address gaps in strategic and material event disclosures."
   },
   "Understandability": {
-    "score": 8,
-    "justification": "The majority of scoring results (8 out of 10) provided clear, structured explanations (e.g., role definitions, precise metrics) and logical flow of information. Scores of 9 were supported by direct language and actionable details (e.g., \"100PLUS distributed at vaccination centres\"). The low score (3) was based on incomplete evidence (e.g., only mentioning committee names without elaboration), likely an error. Compromised to 8 to reflect the overall clarity and coherence of the disclosures while addressing the outlier."
+    "score": 7.6,
+    "justification": "• High scores (7–9) were justified by clear numerical data (e.g., 'Group revenue grew by 3.6%'), structured explanations (e.g., 'Board Skills Matrix for succession planning'), and precise technical language (e.g., '10MWp solar PV systems replace 20% of electricity needs'). Lower scores (6–7) noted vague phrasing (e.g., 'Zero INCIDENT' repeated without context) or overly technical terms (e.g., 'Murabahah'). The score of 7.6 reflects the predominance of clear explanations while addressing inconsistencies in phrasing and technical jargon."
   }
 }

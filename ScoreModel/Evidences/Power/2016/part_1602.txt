@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical...\" (objective, factual statement about risk management priorities)\n• Evidence 2: \"Risk assessment... guided by the likelihood rating and impact rating established by the Board\" (specific, measurable criteria for risk evaluation)"
+    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical in the pursuit of its strategic objectives\" (neutral, objective statement)\n• Evidence 2: \"key risk profile is used for the identification of high residual risks which are above the risk appetite of the Group\" (discloses specific risks and thresholds)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Systematic risk management process is employed by the Executive Directors...\" (clear structure of risk management activities)\n• Evidence 2: \"key risk profile... used for the identification of high residual risks...\" (precise terminology with defined purpose)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Systematic risk management process is employed by the Executive Directors and the Management for risk identification, risk assessment, control identification, risk treatment and control activities\" (clear structure of processes)\n• Evidence 2: \"review the risk registers... on an annual basis or on more frequent basis (if circumstances required)\" (precise language with conditional clarification)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"the Executive Directors and the Management review the risk registers... report to the Audit Committee\" (directly relevant to governance and risk monitoring)\n• Evidence 2: \"key risks identified and rated based on an agreed upon risk rating\" (material risk disclosure for investor assessment)"
+    "score": 7,
+    "justification": "• Evidence 1: \"high residual risks which are above the risk appetite of the Group that require the Management and the Board’s immediate attention\" (directly relevant to investor concerns about risk exposure)\n• Evidence 2: \"report to the Audit Committee on the results of the review and assessment\" (links to corporate governance and oversight mechanisms)"
   }
 }

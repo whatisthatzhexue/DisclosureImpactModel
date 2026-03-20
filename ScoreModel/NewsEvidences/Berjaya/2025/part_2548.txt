@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Domestic Trade and Cost of Living Ministry is in the process of drafting the Distribution Trade Master Plan (DTMP) 2025-2035, which is expected to be launched by the fourth quarter of this year.\" [verifiable timeline and official announcement]\n• Evidence 2: \"Last year, 65 companies with 275 SKUs successfully entered the markets in the United Arab Emirates, Thailand and Japan.\" [specific, quantifiable data from ministry claims]"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The 10-year master plan aimed to boost the presence of local products in the retail market and sustain the positive growth momentum of the distribution trade sector.\" [indirectly relevant to supply chain strategies]\n• Evidence 2: \"420 MSME entrepreneurs had participated in training programmes as of last year... 25 successfully entering the retail market with 179 SKU products.\" [potential impact on market competition, but no direct company mention]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The ministry is also implementing a Development Training Programme focused on empowering MSMEs... 420 MSME entrepreneurs had participated... 25 successfully entering the retail market with 179 SKU products.\" [detailed program metrics and outcomes]\n• Evidence 2: \"The ministry is carrying out the ‘Local To Global Retail’ initiative... 65 companies with 275 SKUs successfully entered the markets in the United Arab Emirates, Thailand and Japan.\" [comprehensive context on international expansion efforts]"
+  }
+}

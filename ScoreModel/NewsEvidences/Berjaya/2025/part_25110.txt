@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The Royal Malaysian Customs Department (JKDM) Central Zone Unit III at Kuala Lumpur International Airport (KLIA) seized a luxury car, drugs, and alcoholic beverages worth RM164,715...\" (verifiable data and specific details)\n• Evidence 2: \"The case is being investigated under Section 135(1)(a) of the Customs Act 1967.\" (citable legal references and factual accuracy)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The article contains no mention of Berjaya Food Berhad or any direct connection to its operations, financials, or strategic initiatives.\" (no direct company reference)\n• Evidence 2: \"The seized items (alcohol, drugs) do not explicitly link to the company's food and beverage supply chain or market activities.\" (no stakeholder-relevant business context)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"...seized five packages containing cannabis and methylenedioxymethamphetamine (MDMA) weighing 1,056 grammes, estimated to be worth RM73,940.\" (quantitative data and operational details)\n• Evidence 2: \"The modus operandi involved using courier services and making false declarations.\" (contextual analysis of smuggling methods and investigative processes)"
+  }
+}

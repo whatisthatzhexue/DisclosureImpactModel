@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFT’s revenue increased to RM7.2 million from RM4 million in the previous financial year, mainly due to the expansion of its product range...\" (specific factual data)\n• Evidence 2: \"BFT will continue to grow its CPG business...\" (forward-looking statement without overtly optimistic language)"
+    "score": 6,
+    "justification": "• Evidence 1: \"BFT’s revenue increased to RM7.2 million from RM4 million in the previous financial year, mainly due to the expansion of its product range...\" (specific factual explanation)\n• Evidence 2: \"The increase in profit before tax was mainly due to expansion of its product range as well as increase in its distribution network.\" (causal explanation)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The company is in the business of distributing premium Consumer Packaged Goods...\" (clear structure with specific product examples)\n• Evidence 2: \"BFT registered a profit after tax of RM211,000...\" (precise financial figures presented in straightforward language)"
+    "score": 8,
+    "justification": "• Evidence 1: \"For the financial period ended 30 June 2019, BFT’s revenue increased to RM7.2 million...\" (clear temporal and numerical context)\n• Evidence 2: \"BFT will continue to grow its CPG business by launching new products...\" (direct explanation of future plans)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Revenue...mainly due to the expansion of its product range...\" (explains performance change)\n• Evidence 2: \"This initiative will help to contribute to the company’s profit...\" (forward-looking information about strategic plans)"
+    "score": 7,
+    "justification": "• Evidence 1: \"For the financial period ended 30 June 2019, BFT recorded a higher profit before tax...\" (explains performance changes)\n• Evidence 2: \"BFT will continue to grow its CPG business by launching new products...\" (forward-looking information)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Value-added compares what a student is expected to achieve based on their starting point with what they actually achieve by the end of a course or school year.\"\n• Evidence 2: \"Schools that accept high-scoring students in the MCAT usually produce high-scoring graduates in the USMLE.\""
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad, its business operations, financial performance, or strategic initiatives.\n• Evidence 2: The content is entirely focused on educational measurement methods and does not relate to the company's industry, market position, or stakeholder concerns."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The value-added approach looks at progress, recognising the hard work of both students and teachers. It measures how well each child reaches their full potential.\"\n• Evidence 2: \"Education leaders can use the value-added approach to decide where to invest resources. Schools that help students make big improvements can serve as models, while struggling schools can receive extra support.\""
+  }
+}

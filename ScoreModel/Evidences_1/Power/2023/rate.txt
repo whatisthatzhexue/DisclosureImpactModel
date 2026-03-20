@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The majority of scoring results (9, 8, 8, 8, 9, 8, 9, 9) indicate strong reliability due to transparency in disclosures, compliance with standards, and acknowledgment of limitations. The lower scores (7 and 0) are exceptions, with the 0 being invalid due to lack of content. The high scores reflect thorough risk management, independent audits, and clear communication of responsibilities."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "Scores range from 6 to 9, with higher scores (9) reflecting direct relevance to investor concerns like ESG and shareholder rights. Lower scores (6-7) indicate some gaps in linking disclosures to material risks and strategic alignment. The final score balances these, acknowledging strong relevance in key areas while noting areas needing improvement."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "Most scoring results (9, 9, 9, 8, 9, 9) highlight clear numerical context, precise language, and structured explanations. Lower scores (7 and 0) are exceptions, with the 0 being invalid. The high scores reflect effective communication of complex information, making the report accessible to stakeholders."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"revenue contracted minimally by 2.2 per cent, from RM4.08 billion in FY2019 to RM3.99 billion\" (specific financial data)\n• Evidence 2: \"continuing uncertainty and commodity price pressures\" (disclosure of risks and challenges)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&NHB concluded FY2020 with a resilient performance sustained by stronger performance in the first quarter and recovery in the fourth quarter\" (clear explanation of performance drivers)\n• Evidence 2: \"Exports accounted for 20 per cent of the Group’s total revenue in FY2020\" (precise numerical context)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We would have overachieved our target Group export sales of RM800 million in FY2020 under normal circumstances\" (explains performance context)\n• Evidence 2: \"aim to set up more international offices, following the Dubai model\" (forward-looking strategic information)"
+  }
+}

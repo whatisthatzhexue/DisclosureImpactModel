@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Ahmad Zaki Resources Bhd (AZRB) ’s wholly-owned subsidiary... received the letter of acceptance... for RM315.90mil.\" (specific, verifiable financial details)\n• Evidence 2: \"K-One Technology Bhd... proposing a diversification into the healthcare industry...\" (direct company statement with clear intent)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Berjaya Corp Bhd (BCorp) has finalised the acquisition... for ¥12.61 billion (RM407.3 million).\" (strategic land acquisition for potential expansion)\n• Evidence 2: \"K-One... proposing a diversification into the healthcare industry...\" (strategic shift to reduce dependency on existing segments)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"MISC Bhd... secured long-term contracts for three liquefied natural gas (LNG) carriers...\" (quantifiable contract details)\n• Evidence 2: \"EVD Bhd has secured two contracts worth RM19.5 million...\" (specific financial data but lacks contextual analysis of market impact)"
+  }
+}

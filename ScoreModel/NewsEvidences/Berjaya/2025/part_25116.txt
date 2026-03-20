@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 4,
+    "justification": "• Evidence 1: The author cites their academic credentials (\"Prof Dr David Whitford, vice-chancellor...\"), but no verifiable data or citations are provided to support claims about exam systems.\n• Evidence 2: The article presents a single perspective without balancing opposing viewpoints or citing credible sources to validate assertions about educational outcomes."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its business operations, financials, or strategic priorities.\n• Evidence 2: The discussion about education systems is entirely unrelated to the company's food and beverage industry context or stakeholder interests."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides comprehensive arguments about the limitations of exam-centric education, including impacts on student well-being and skill development.\n• Evidence 2: It offers contextual background on societal pressures and proposes alternative approaches (e.g., competency-based learning), though lacks empirical data to substantiate claims."
+  }
+}

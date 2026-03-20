@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The event is organized by the Italian Ministry of Foreign Affairs and international cooperation, with specific dates (today to Nov 24) and locations (Malaysia) cited.\n• Evidence 2: Quotes from the Italian Ambassador Massimo Rustico and other officials are provided, with no apparent bias or fabrication."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Berjaya Food Berhad or its operations, focusing instead on Italian diplomatic and cultural initiatives.\n• Evidence 2: No direct connection to the company's strategic direction, financial performance, or market impact is made."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: Comprehensive details are provided, including 26 participating restaurants, specific locations (Kuala Lumpur, Johor, Penang, Langkawi), and event activities (public talks, masterclasses, gala dinners).\n• Evidence 2: Background on the Mediterranean diet, collaboration with academic institutions, and specific culinary demonstrations (e.g., Radicchio Risotto) are included."
+  }
+}

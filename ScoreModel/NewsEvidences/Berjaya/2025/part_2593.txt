@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Critical Holdings Bhd’s wholly owned subsidiary, Critical M&E Engineering Sdn Bhd, has secured two contracts worth a combined RM84.71mil.\" (specific, verifiable data)\n• Evidence 2: \"Both projects have commenced, with completion scheduled for the first quarter of 2026...\" (clear timelines and project details)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"These latest contracts boost Critical Holdings’ order book to approximately RM280mil, further reinforcing its growth trajectory and earnings visibility.\" (direct financial impact and strategic growth emphasis)\n• Evidence 2: \"The contracts are expected to contribute positively to the earnings and net assets...\" (link to long-term value creation)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The project involves a Super Centre Factory...for a renowned US-headquartered multinational corporation.\" (specific project context)\n• Evidence 2: \"The second contract...covers the installation of air conditioning...for a Data Centre in Cyberjaya.\" (detailed contract scope, but lacks broader industry or company background)"
+  }
+}

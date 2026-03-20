@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The in-house internal audit function and the outsourced internal audit function reports to the Audit Committee directly...\" (neutral, objective description of governance structure)\n• Evidence 2: \"the Audit Committee is satisfied that...\" (explicitly states conclusions based on evaluation, avoiding overstatement)"
+    "justification": "• Evidence 1: \"The in-house internal audit function and the outsourced internal audit function reports to the Audit Committee directly...\" (neutral, factual description of reporting structure)\n• Evidence 2: \"the Audit Committee is satisfied that...\" (objective conclusion based on evaluation, no overstatement)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The in-house internal audit function comprises one (1) Senior Internal Audit Manager and four Internal Audit Executives.\" (precise, direct description of structure)\n• Evidence 2: \"The internal audit function is accorded unrestricted access...\" (clearly explains authority and access protocols)"
+    "justification": "• Evidence 1: \"The in-house internal audit function comprises one (1) Senior Internal Audit Manager and four Internal Audit Executives.\" (clear structure with specific numbers)\n• Evidence 2: \"Internal audits are carried out by both... in accordance with the International Professional Practices Framework...\" (precise language with reference to established standards)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"the scope, functions (including independence)...\" (directly addresses investor concerns about governance and control mechanisms)\n• Evidence 2: \"the results of the internal audit plan...are adequately communicated to the Audit Committee\" (highlights transparency and accountability relevant to investors)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group relies on the internal audit function to provide the Board...\" (directly addresses corporate governance and risk management, relevant to investors)\n• Evidence 2: \"the Audit Committee conducted a formal evaluation... per Corporate Governance Guide...\" (shows compliance with regulatory requirements, relevant to investor decision-making)"
   }
 }

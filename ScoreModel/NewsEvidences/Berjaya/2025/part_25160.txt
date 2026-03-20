@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Education Minister Fadhlina Sidek underscoring the government’s dedication to enhancing accessibility to education...\" (verifiable source cited)\n• Evidence 2: \"Gamuda Bhd chairman Tan Sri Ambrin Buang\" (executive quoted with specific role)\n• Evidence 3: \"The first phase for both schools is targeted to be completed by 2026\" (specific timeline provided)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"our vision was to create an urban sanctuary and smart city...\" (aligns with company's strategic vision)\n• Evidence 2: \"collaborating with key stakeholders...to ensure school planning...implemented correctly\" (strategic partnership emphasis)\n• Evidence 3: \"By the time these schools are completed in 2026...over 13,000 to the township\" (long-term population growth impact)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Set within the 619ha nature sanctuary...cater to 2,400 students across 48 classrooms\" (quantitative details)\n• Evidence 2: \"The 36.4ha Wetlands Arboretum...offers students...an out-of-classroom opportunity...\" (contextual educational features)\n• Evidence 3: \"Complementing these amenities...75km of cycling and walking paths...\" (comprehensive township development context)"
+  }
+}

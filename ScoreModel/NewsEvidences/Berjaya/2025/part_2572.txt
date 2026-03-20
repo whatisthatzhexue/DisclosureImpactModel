@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"A smartphone and SIM card belonging to the man has been seized for forensic analysis.\" (verifiable action by MCMC)\n• Evidence 2: \"The case is being investigated under Section 233 (1) (a) of the Communications and Multimedia Act 1998\" (specific legal reference)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or any connection to the company's operations, strategies, or stakeholders\" (complete absence of company context)\n• Evidence 2: \"Focus on MCMC enforcement actions unrelated to business performance or market impact\" (no relevance to company's strategic direction)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Provides background on the incident, legal framework, and MCMC's enforcement actions\" (basic contextual details)\n• Evidence 2: \"Mentions collaboration with police and National Unity Minister's report\" (limited analytical depth regarding broader implications)"
+  }
+}

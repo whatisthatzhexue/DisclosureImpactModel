@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 1,
+    "justification": "• Evidence 1: [TEXT]SUSTAINABILITY STATEMENT[/TEXT]\n• Evidence 2: [TEXT]BERJAYA FOOD BERHAD [Registration No. 200901032946 (876057-U)] 24[/TEXT]"
+  },
+  "Understandability": {
+    "score": 1,
+    "justification": "• Evidence 1: [TEXT]SUSTAINABILITY STATEMENT[/TEXT]\n• Evidence 2: [TEXT]BERJAYA FOOD BERHAD [Registration No. 200901032946 (876057-U)] 24[/TEXT]"
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: [TEXT]SUSTAINABILITY STATEMENT[/TEXT]\n• Evidence 2: [TEXT]BERJAYA FOOD BERHAD [Registration No. 200901032946 (876057-U)] 24[/TEXT]"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a joint statement today, FTSE Russell and Bursa Malaysia Bhd said the changes were made following the semi-annual review of the FTSE Bursa Malaysia Index Series, which was done in accordance with the index ground rules.\"\n• Evidence 2: \"All constituent changes take effect on June 24, 2024, with the next review taking place in December 2024.\""
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The FTSE Bursa Malaysia KLCI reserve list... comprises the five largest non-constituents...\" (no direct mention of Berjaya Food Berhad)\n• Evidence 2: \"The benchmark index is also tracked by several index-linked financial products...\" (no connection to Berjaya Food's strategic priorities)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The FTSE Bursa Malaysia Mid 70 Index saw nine inclusions... and exclusions...\" (comprehensive list of changes)\n• Evidence 2: \"The benchmark index is also tracked by several index-linked financial products...\" (context about market impact)"
+  }
+}

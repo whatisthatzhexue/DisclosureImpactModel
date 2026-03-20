@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The word ‘senna’ means brightness in Arabic. This mirrors our shining aspirations for this budding township.\" (Direct quote from executive, no external verification)\n• Evidence 2: \"Since 1983, when Bandar Baru Salak Tinggi became the administrative heart of Sepang...\" (Historical context provided without cited sources)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We hope for Senna Puteri to emulate Warisan Puteri... to be an equally well-crafted, self-reliant mixed-use community\" (Direct link to company's strategic replication of prior success)\n• Evidence 2: \"support of the national housing initiative\" (Connects project to broader policy goals impacting market relevance)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The first phase comprises 386 units of three-story hilltop townhouses... ranging from 1,690sq ft to 2,454sq ft\" (Specific quantitative details about development)\n• Evidence 2: \"recreational and green spaces such as pedestrian walkway... community hall and surau\" (Comprehensive description of community features)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Berjaya Corp Bhd has received the final approval to complete the RM700mil sale...\" (verifiable transaction details)\n• Evidence 2: \"Following the Energy Commission’s approval letter...\" (citable regulatory source)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RM700mil sale of its 100% equity interest...\" (direct financial impact on company value)\n• Evidence 2: \"all the conditions precedent...have been fulfilled\" (strategic milestone completion)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"RM700mil sale...to Naza Corp Holdings Sdn Bhd\" (quantitative detail)\n• Evidence 2: \"settlement of the purchase consideration...\" (transaction mechanics)"
+  }
+}

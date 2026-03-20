@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Malaysia’s biotechnology and bio-based industries have emerged as crucial drivers...\" (direct quote from Mosti, government source)\n• Evidence 2: \"The IPO is expected to raise approximately RM100mil...\" (specific financial data with clear context)"
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Yakin Medic...plans to launch an IPO...to support growth...\" (direct company strategic plans)\n• Evidence 2: \"The government’s strong support...aligns with the National Biotechnology Policy 2.0...\" (connects company strategy to national policy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The new facility is expected to produce stem cells for 5,000 patients annually...\" (specific operational data)\n• Evidence 2: \"Considering a secondary listing on Malaysia’s ACE Market or the Nasdaq...\" (detailed expansion plans and market strategies)"
+  }
+}

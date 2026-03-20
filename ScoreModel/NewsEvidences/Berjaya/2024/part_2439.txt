@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Graphic designer Roslizam Ramlee has won the grand prize in the Majoriti Langgan & Menang campaign...\" (specific, verifiable event details)\n• Evidence 2: \"Star Media Group Bhd (SMG) group chief executive officer Chan Seng Fatt said...\" (direct quote from credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The goal of the Langgan & Menang campaign is to transform the everyday act of reading into a rewarding experience...\" (focuses on campaign strategy, not Berjaya Food's business)\n• Evidence 2: \"OSK Property Holdings Berhad chief executive officer Ong Ghee Bin...\" (mentions OSK Property, not Berjaya Food)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"From Aug 17 to Dec 20 last year, new and current readers...\" (provides campaign timeline and structure)\n• Evidence 2: \"The surge of readers goes beyond numbers...\" (offers context on campaign impact, but lacks deeper analysis of business implications)"
+  }
+}

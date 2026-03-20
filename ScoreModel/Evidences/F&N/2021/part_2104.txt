@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 1,
-    "justification": "• Evidence 1: [TEXT]Risk Management Committee\n• Evidence 2: [TEXT]RISK MANAGEMENT STRUCTURE"
+    "justification": "• Evidence 1: [No specific risks, challenges, or uncertainties disclosed]\n• Evidence 2: [No factual support or objective analysis provided]"
   },
   "Understandability": {
-    "score": 3,
-    "justification": "• Evidence 1: [TEXT]Risk Management Committee\n• Evidence 2: [TEXT]RISK MANAGEMENT STRUCTURE"
+    "score": 2,
+    "justification": "• Evidence 1: [Headings lack explanatory content or logical flow]\n• Evidence 2: [No precise language or contextual clarification]"
   },
   "Relevance": {
     "score": 1,
-    "justification": "• Evidence 1: [TEXT]Risk Management Committee\n• Evidence 2: [TEXT]RISK MANAGEMENT STRUCTURE"
+    "justification": "• Evidence 1: [No forward-looking information or material events mentioned]\n• Evidence 2: [No investor-focused details or governance explanations]"
   }
 }

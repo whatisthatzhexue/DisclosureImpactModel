@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Phillip Capital Research noted the MEP industry is set to sustain its 15% compounded annual growth rate over 2022-2025 to hit RM10bil in value\" (verifiable data and credible source cited).\n• Evidence 2: \"Critical Holdings’ return on equity stood at 60% in the financial year 2023 (FY23) and is expected to rise to 69% in FY24\" (specific financial data with clear timeframe)."
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Critical Holdings is well-positioned in the structural growth industries, including semiconductor, DC, telecommunication and solar\" (directly links to company's strategic focus and market opportunities).\n• Evidence 2: \"We estimate Critical Holdings’ potential involvement in a RM1bil DC project is about RM200mil, representing 20% of the overall project size\" (strategic financial analysis tied to business growth)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"There are some 10 to 15 DCs under construction in the country, Phillip Capital noted\" (quantitative data on market context).\n• Evidence 2: \"Critical Holdings’ tender book stands at RM1.2bil\" (specific detail about company's current opportunities)."
+  }
+}

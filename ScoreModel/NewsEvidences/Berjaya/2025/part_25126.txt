@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We want to establish a good retail footprint across Malaysia...\" [direct quote from Navin Manian, source of information]\n• Evidence 2: \"The Sunway Pyramid outlet... builds on the success of the first flagship store...\" [specific contextual detail with verifiable data]"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We want to add a lot of technology elements to the retail store...\" [directly ties expansion to strategic technology integration]\n• Evidence 2: \"Our latest flagship outlet spans more than 3,500 square feet...\" [quantifiable metric showing strategic investment in physical infrastructure]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"It also features Malaysia’s first in-store immersive dome...\" [specific detail about technological innovation]\n• Evidence 2: \"We try to keep improving and changing so the customers remain engaged\" [insight into strategic customer engagement approach]"
+  }
+}

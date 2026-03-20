@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fire and Rescue Department personnel rushed to a condominium unit here after a man fell unconscious.\" (verifiable factual account)\n• Evidence 2: \"The victim was rushed to Hospital Serdang for treatment but was pronounced dead at the hospital.\" (specific, time-stamped details from official source)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or any business-related context\" (complete absence of company connection)\n• Evidence 2: \"Event unrelated to food production, market operations, or stakeholder interests\" (no financial or strategic implications for the company)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Received a distress call at 10.06am on Monday\" (specific temporal context)\n• Evidence 2: \"Deployed five personnel from the Cyberjaya fire station\" (operational detail but lacks broader analysis or background context)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Awareness of Sustainability and ESG Training\" (neutral factual disclosure)\n• Evidence 2: Lists specific institutions (e.g., Malaysian Institute of Accountants) without overstatement"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: Clear tabular structure with headings (Name of Directors, Seminars and Briefing Attended, Conducted by)\n• Evidence 2: Direct language describing training topics without vague expressions"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Sustainability and Climate Change Disclosure Requirements\" (relevant to ESG governance)\n• Evidence 2: \"ISSB Standards (IFRS S1 S2)\" (pertains to corporate governance frameworks)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The MDA successfully seized a total of 21,001 units of various types of medical devices, such as wound dressings in various sizes, fertility test kits, pregnancy test kits, condoms, and gauze swabs, estimated to be worth RM45,061\"\n• Evidence 2: \"Violations of both sections may result in a fine of up to RM 200,000 or imprisonment for up to three years, or both, if convicted of each offence\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article does not mention Berjaya Food Berhad or any direct connection to its operations, financials, or strategic direction.\n• Evidence 2: The focus is on a medical device supplier and regulatory enforcement, which is unrelated to the food and beverage industry or Berjaya Food Berhad's business activities."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The raid was led by Jevitra Tangarajoo and consisted of 18 MDA enforcement officers, the team were also assisted by three police officers on Nov 28\" provides contextual detail about the operation.\n• Evidence 2: \"The authorities also found the company had been able to continue its business of selling medical devices imported from China, without being detected by the authorities, as it was operated from a home\" offers insight into the company's operational methods and regulatory challenges."
+  }
+}

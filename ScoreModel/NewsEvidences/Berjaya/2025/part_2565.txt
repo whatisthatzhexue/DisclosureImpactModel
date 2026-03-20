@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We hope this humble gesture will bring them joy and warmth during the celebration,\" he said in a press release dated March 28.\n• Evidence 2: \"I am thankful for the assistance as it will help with expenses,\" he said."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its business operations, strategic initiatives, or financial performance.\n• Evidence 2: The article focuses on a charitable event by Multimedia University, which is unrelated to the company's strategic relevance or stakeholder needs."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"A TOTAL of RM71,400 in financial aid was recently presented...\" provides specific quantitative data.\n• Evidence 2: Quotes from recipients and the university president add contextual detail about the aid's purpose and impact."
+  }
+}

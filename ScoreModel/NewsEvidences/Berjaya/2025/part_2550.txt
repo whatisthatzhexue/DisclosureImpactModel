@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Makkal Osai reported.\" \n• Evidence 2: \"Local literary figures, educators and artists such as Thiban Okk, Datin Sri Shaila Nair and Jay Dhaharasen were among those who served as judges for the competitions.\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The event serves as a platform for students to express their talents and promote interest in the Tamil language.\" \n• Evidence 2: \"Local filmmaker and MMU graduate turned senior lecturer Dr Vimala Perumal served as the convener for the event.\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Around 250 students took part in essay writing, poetry recitation, songwriting, storytelling, drawing, Thirukkural recitation, debate and public speaking competitions.\" \n• Evidence 2: \"The annual festival, organised by the university’s Indian Cultural Society (ICS), featured eight events for Tamil school students to showcase their talents.\""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The internal audit function assesses the adequacy and effectiveness of internal controls... highlights potential risks and implications of its observations that may impact the Group...\" \n• Evidence 2: \"The in-house internal audit function and the outsourced internal audit function report to the Audit Committee directly...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The internal audit function is accorded unrestricted access to all functions, records...\" \n• Evidence 2: \"The oversight of the in-house and outsourced internal audit function by the Audit Committee was enhanced with the review...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The internal audit function... recommends improvements on the observations made to minimise the risks.\" \n• Evidence 2: \"The Audit Committee conducted a formal evaluation of the performance, independence and objectivity...\""
+  }
+}

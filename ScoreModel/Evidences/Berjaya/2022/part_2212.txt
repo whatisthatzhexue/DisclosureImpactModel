@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Where available, data is collected and reported with the aid of existing management control and information systems to ensure the reliability of information flows...\" (specific fact about data reliability)\n• Evidence 2: \"BStarbucks has not restated past years’ data...\" (transparent disclosure of data consistency)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Where available, data is collected and reported with the aid of existing management control and information systems to ensure the reliability of information flows and the accurate monitoring of sustainability performance.\"\n• Evidence 2: \"BStarbucks has not restated past years’ data and will continue to monitor its data collection system to ensure that information is comparable and meaningful over time.\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"100% Berjaya Starbucks Coffee Company Sdn Bhd\" (clear ownership structure)\n• Evidence 2: \"Reporting Scope and Boundary\" section defines included entities and terminology (logical organization of information)"
+    "justification": "• Evidence 1: \"Corporate STRUCTURE OF OPERATING COMPANIES AS AT 3 OCTOBER 2022\" clearly labels the section with percentages and ownership stakes.\n• Evidence 2: \"Reporting Scope and Boundary\" section explicitly defines included entities and terminology, ensuring clarity for readers."
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"This sustainability statement presents an overview of the Group’s commitment to improving its social, environmental, economic and governance performance...\" (useful for investors' decision-making)\n• Evidence 2: \"Preparing the sustainability statement is part of an annual reporting process subject to management review...\" (includes governance process)"
+    "score": 6,
+    "justification": "• Evidence 1: \"This sustainability statement presents an overview of the Group’s commitment to improving its social, environmental, economic and governance performance\" directly links to investor-relevant sustainability goals.\n• Evidence 2: \"Reporting Guidelines\" section references GRI Standards and UNSDGs, which are material for assessing corporate responsibility."
   }
 }

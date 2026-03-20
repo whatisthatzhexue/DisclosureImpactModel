@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The trust earned over the years is an asset that is invaluable and we will continue to uphold the pursuit of prudence, stringent monitoring and control of our business practices across all divisions and subsidiaries.'\n• Evidence 2: 'We are cautiously optimistic of maintaining our record of uninterrupted earnings growth since inception despite the anticipated challenging market situation and uncertainties surrounding the aftermath of the United Kingdom referendum to exit from European Union or ‘Brexit’.'"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Net debt ratio at financial year-end improved from 37.1% to 31.3%.' (clear numerical data)\n• Evidence 2: 'The MPM division with its unique business activities that span both upstream and downstream is on solid footing, with projects progressing as expected.' (precise description of business structure)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Looking forward, I am confident that QL will continue to maintain our market position as the leading egg producer and surimi manufacturer in Asia...' (forward-looking strategic goals)\n• Evidence 2: 'The impact of the weak Ringgit on farming cost was lessened when commodity prices fell.' (explains performance changes due to external factors)"
+  }
+}

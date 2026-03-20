@@ -6,10 +6,10 @@
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Our focus is on designing for the environment\" (clear, direct language)\n• Evidence 2: \"Incorporating circular economy principles\" (structured with logical flow)"
+    "justification": "• Evidence 1: \"Our focus is on designing for the environment – striving to leave a minimum impact on the environment\" (clear, direct language)\n• Evidence 2: \"22% recycled content in beverage and dairy packaging\" (precise, measurable statement)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Governments around the world are introducing environmental policies\" (forward-looking info for investors)\n• Evidence 2: \"Biodiversity loss and ecosystem degradation\" (material risks to supply chain operations)"
+    "justification": "• Evidence 1: \"Acting on this change could allow F&N to reduce our resource intensity in packaging\" (forward-looking information)\n• Evidence 2: \"100% industrial sludge 1,247 MT converted to organic fertiliser and distributed to local farmers\" (specific operational impact)"
   }
 }

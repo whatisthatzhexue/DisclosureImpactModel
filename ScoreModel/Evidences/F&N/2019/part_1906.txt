@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Refer to F&NHB Sustainability Report 2019: ...\" (specific page references)\n• Evidence 2: \"Potential adverse Financial and Brand Reputation Risks\" (disclosure of risks)"
+    "score": 9,
+    "justification": "• Evidence 1: \"To invest in product and process innovation to increase our product range, and improve efficiency and productivity.\" (neutral, factual statement)\n• Evidence 2: \"Potential adverse Financial and Brand Reputation Risks.\" (discloses risks without overstatement)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"To invest in product and process innovation to increase our product range, and improve efficiency and productivity.\" (clear objective statement)\n• Evidence 2: \"90% of suppliers are local.\" (precise data point)"
+    "justification": "• Evidence 1: \"Sustainable Sourcing: Our business sustainability hinges on the inter-dependence relationship between our suppliers and us...\" (clear structure with logical flow)\n• Evidence 2: \"Pages 072075\" (formatting inconsistency may obscure clarity)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"The material issues are topics that are important to the sustainability of F&N Group\" (direct relevance to investor concerns)\n• Evidence 2: \"To purchase 100% of Roundtable on Sustainable Palm Oil (RSPO) credits for palm oil usage by 2020.\" (forward-looking target)"
+    "justification": "• Evidence 1: \"The material issues are topics that are important to the sustainability of F&N Group...\" (directly addresses investor-relevant topics)\n• Evidence 2: \"Supply of CSPO unable to meet global demand.\" (includes material risks impacting business operations)"
   }
 }

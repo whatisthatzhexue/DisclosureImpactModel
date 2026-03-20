@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board COA clearly sets out the key matters reserved for the Board's deliberation and decision\" (neutral, factual description of governance structure).\n• Evidence 2: \"approved the Circular to Shareholders in relation to recurrent related party transactions\" (specific, verifiable action without overstatement)."
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board COA clearly sets out the key matters reserved for the Board's deliberation and decision\" (neutral, factual description of governance structure)\n• Evidence 2: \"approved the Circular to Shareholders in relation to recurrent related party transactions\" (specific, verifiable action without overstatement)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The key matters reserved for the Board for decision include the following: [bullet points]\" (clear structure and logical organization).\n• Evidence 2: \"approved annual business plan, budget and capital expenditures\" (precise language with specific actions)."
+    "score": 9,
+    "justification": "• Evidence 1: \"The key matters reserved for the Board for decision include the following:\" (clear structure with bullet points)\n• Evidence 2: \"received quarterly update on movement of staff in middle and senior management level\" (precise, direct language about personnel monitoring)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"approved Audit Committee Report, Statement on Corporate Governance... for disclosure in annual report\" (directly relevant to investor decision-making).\n• Evidence 2: \"noted the succession planning for senior management\" (material governance information for stakeholders)."
+    "justification": "• Evidence 1: \"approved sustainability milestones of the Group\" (relevant to investor concerns about long-term strategy)\n• Evidence 2: \"noted the succession planning for senior management\" (addresses governance-related risks but lacks detailed explanation)"
   }
 }

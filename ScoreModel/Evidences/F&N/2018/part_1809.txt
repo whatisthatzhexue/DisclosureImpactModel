@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'The Framework and the BCM plans developed are reviewed on an annual basis and tested periodically to ensure that it is up-to-date and relevant to the business environment.'\n• Evidence 2: 'The Board is of the view that the Group’s overall risk management and internal control system is sound and adequate in all material aspects, and has received the same assurance from both the CEO and CFO of the Group.'"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board is of the view that the Group’s overall risk management and internal control system is sound and adequate in all material aspects...\" (overstatement of certainty, but balanced by subsequent disclosures)\n• Evidence 2: \"areas of improvement on control design and implementation are highlighted...\" (disclosure of risks and challenges)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: 'The BCM Framework and the BCM plans developed are reviewed on an annual basis and tested periodically to ensure that it is up-to-date and relevant to the business environment.'\n• Evidence 2: 'The audits are designed to test the appropriateness of control design and implementation as well as compliance with the existing policies and procedures.'"
+    "justification": "• Evidence 1: \"The Framework and the BCM plans developed are reviewed on an annual basis and tested periodically...\" (clear structure with specific actions)\n• Evidence 2: \"Payment of royalties to the F&N Ltd Group for use of trademarks...\" (precise transaction descriptions)"
   },
   "Relevance": {
     "score": 9,
-    "justification": "• Evidence 1: 'The Directors... have responsibility to ensure that a system of internal control is in place to ensure that the assets of the Group are safeguarded against loss from unauthorised use or disposition.'\n• Evidence 2: 'Details of the recurrent related party transactions entered into during the financial year... are as follows:' (includes specific transaction data relevant to investors)"
+    "justification": "• Evidence 1: \"The Board is cognisant of the importance of business continuity management...\" (directly addresses investor concerns about operational resilience)\n• Evidence 2: \"Recurrent related party transactions...\" (material governance information for stakeholders)"
   }
 }

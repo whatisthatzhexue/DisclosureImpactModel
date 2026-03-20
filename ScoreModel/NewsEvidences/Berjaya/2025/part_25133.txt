@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MPAJ said in a media statement\" (verifiable source citation)\n• Evidence 2: \"Shahman Jalaludin said\" (direct quote from official source)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or its operations\n• Evidence 2: Focus on local council projects unrelated to food/beverage industry"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM239mil allocated for priority works\" (specific financial data)\n• Evidence 2: \"18 zones across the city\" (quantitative detail on drainage projects)"
+  }
+}

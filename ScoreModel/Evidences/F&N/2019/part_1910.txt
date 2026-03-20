@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"challenging operating environment\" (acknowledges external challenges)\n• Evidence 2: Specific financial figures (RM386.5 million, RM410.2 million) provide factual support"
+    "score": 7,
+    "justification": "• Evidence 1: \"challenging operating environment\" (acknowledges external challenges)\n• Evidence 2: \"sustainable and profitable growth requires a balanced approach\" (implies consideration of trade-offs)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: Clear bullet-point structure organizes information logically\n• Evidence 2: Direct language like \"Improved cost efficiencies\" and \"Reduced cost to market\" avoids ambiguity"
+    "score": 8,
+    "justification": "• Evidence 1: Clear bullet-point structure with headings (e.g., GLOBAL VALUES, 2019 HIGHLIGHTS)\n• Evidence 2: Specific metrics like \"RM386.5 million Profit After Tax\" provide concrete data"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: Forward-looking priorities for 2020 guide investor expectations\n• Evidence 2: Detailed operational initiatives (e.g., \"Scale up digitalisation\") explain performance drivers"
+    "score": 7,
+    "justification": "• Evidence 1: \"Priorities for 2020\" section includes forward-looking strategic goals\n• Evidence 2: \"Optimisation of data to enhance effectiveness...\" links operations to investor-relevant outcomes"
   }
 }

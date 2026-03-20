@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Directors... have been drawn up in accordance with Malaysian Financial Reporting Standards, International Financial Reporting Standards and the requirements of the Act.\" (neutral, factual disclosure)\n• Evidence 2: \"where judgements and estimates are made, they are reasonable and prudent.\" (objective, no overstatement)"
+    "justification": "• Evidence 1: \"The Directors...given their opinion that the financial statements have been drawn up in accordance with Malaysian Financial Reporting Standards, International Financial Reporting Standards and the requirements of the Act.\" (objective, specific standards)\n• Evidence 2: \"where judgements and estimates are made, they are reasonable and prudent.\" (neutral, no overstatement)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"appropriate accounting policies have been adopted and applied consistently\" (precise language)\n• Evidence 2: \"system of internal control is in place to ensure...\" (clear structure with logical flow)"
+    "justification": "• Evidence 1: \"appropriate accounting policies have been adopted and applied consistently\" (clear, direct language)\n• Evidence 2: \"Payment of insurance premium to the Thai Group Holdings Group 2,979\" (precise numerical data, but lacks contextual explanation)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"details of the recurrent related party transactions...\" (material information for investors)\n• Evidence 2: \"Utilisation of Proceeds...\" (forward-looking financial information relevant to decision-making)"
+    "justification": "• Evidence 1: \"details of the recurrent related party transactions...\" (material for investors, includes transaction types and amounts)\n• Evidence 2: \"Utilisation of Proceeds...IMTN Programme...used to partially finance the acquisition...\" (explains financial activities impacting stakeholders)"
   }
 }

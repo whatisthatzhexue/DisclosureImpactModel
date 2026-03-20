@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We are cognisant that our business operations emit substantial amounts of greenhouse gas emissions which contribute to climate change.\" (acknowledges risks)\n• Evidence 2: \"25% recycled content in beverage and dairy packaging 99% of packaging is recyclable\" (specific factual claims)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We focus on designing packaging that is environmentally friendly through minimising its total carbon footprint without compromising on food safety and quality.\" (clear, direct language)\n• Evidence 2: \"We have implemented initiatives in these four priority areas such as installing solar photovoltaic systems...\" (structured explanation of actions)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Conducted scenario analysis to quantify material climate-related risks... Well ahead of Bursa Malaysia’s stipulated timeline by 2023\" (forward-looking risk management)\n• Evidence 2: \"We collaborate with government agencies, farmers and local communities...\" (material events impacting stakeholders)"
+  }
+}

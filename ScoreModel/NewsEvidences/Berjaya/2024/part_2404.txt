@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"97.8% of MMU graduates were able to secure employment within six months of graduation.\" (verifiable data)\n• Evidence 2: \"The latest technologies such as AI and blockchain are taught to all students.\" (specific, factual claim)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"MMU furthers this aspiration [of TM’s PWR2030] by training the future workforce...\" (direct link to TM’s strategic goals)\n• Evidence 2: \"Everything we do at MMU... is tailored towards the needs of industry.\" (alignment with business performance and market impact)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"250 inbound and 750 outbound programmes... involving nearly 1,000 students.\" (quantitative detail on global collaboration)\n• Evidence 2: \"Nearly 75,000 highly skilled graduates... 16,000 students on its campuses...\" (comprehensive coverage of scale and impact)"
+  }
+}

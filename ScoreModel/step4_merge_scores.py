@@ -66,7 +66,7 @@ def main():
     all_keys = sorted(set(data1) | set(data2))
 
     # Build header rows
-    label_row = ["", "", "第一次打分", "", "", "", "第二次打分", "", "", ""]
+    label_row = ["", "", "1st Scores", "", "", "", "2nd Scores", "", "", ""]
     field_row = ["Company", "Year"] + SCORE_COLS + SCORE_COLS
 
     with open(out_path, "w", encoding="utf-8", newline="") as f:

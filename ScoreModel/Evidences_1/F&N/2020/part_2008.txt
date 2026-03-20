@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Unethical practice within the supply chain leads to regulatory violations, monetary fines and reputational risk.\"\n• Evidence 2: \"Yearly audits to assess quality assurance, food safety and SHE standards, and environmental performance of critical suppliers.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Promote sustainable and responsible sourcing via risks management, conscientious supplier selection and local sourcing.\"\n• Evidence 2: \"Adherence to health and safety regulations in the markets where we operate and international food safety standard like Food Safety Management System ISO 22000...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Failure to address the shift in consumer trends effectively will result in loss of sales.\"\n• Evidence 2: \"Commit to using Certified Sustainable Palm Oil (CSPO) in our products by 2025.\""
+  }
+}

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 6,
-    "justification": "• Evidence 1: \"Key Amendments to the Main Market Listing Requirements of Bursa Malaysia Securities Berhad relating to Continuing Disclosure Obligations\" (specific factual disclosure)\n• Evidence 2: \"The Board reviewed and approved the Board Remuneration Policy\" (neutral, objective statement)"
+    "justification": "• Evidence 1: \"Eddy retired as Director including all the positions held in the Board Committees with effect from 29 August 2019.\" (specific factual disclosure)\n• Evidence 2: \"Section 17A MACC (Amendment Act) 2018 MACC\" (references legal amendments without overstatement)"
   },
   "Understandability": {
-    "score": 4,
-    "justification": "• Evidence 1: \"Key Amendments to the Main Market Listing Requirements...\" (repeated multiple times with minimal contextual explanation)\n• Evidence 2: \"Raising Defences: Section 17A, MACC Act\" (obscure phrasing without clear explanation of relevance)"
+    "score": 5,
+    "justification": "• Evidence 1: \"The remuneration packages of the Executive Directors are structured to commensurate with the experience, knowledge and professional skills...\" (clear but repetitive phrasing)\n• Evidence 2: \"Further details on the activities of the Nominating Committee are set out in the CG Report.\" (poorly structured navigation)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"The remuneration packages of the Executive Directors...\" (directly relevant to investor concerns about executive compensation)\n• Evidence 2: \"Further details on the activities of the Nominating Committee are set out in the CG Report\" (indicates governance structure but lacks specific material event disclosure)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Key Disclosure Obligations of a Listed Company – Financial Reporting\" (directly relevant to investor decision-making)\n• Evidence 2: \"Corporate Liability on Corruption Malaysian Anti-Corruption Act 2009 (Amended 2018)\" (material governance risk disclosure)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Shares of Berjaya Food...market value of $229 million.\" (verifiable financial data)\n• Evidence 2: \"Berjaya Corp...annual report.\" (cites official document)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"owns 100% of Starbucks Corp.’s Malaysian operations\" (directly ties to company's core business)\n• Evidence 2: \"Deliberations are preliminary...go-private deal\" (connects to strategic decision-making process)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Starbucks Malaysia had 393 stores...Kenny Rogers Roasters had 80 stores\" (provides operational context)\n• Evidence 2: \"market value of $229 million\" (quantifiable financial context)"
+  }
+}

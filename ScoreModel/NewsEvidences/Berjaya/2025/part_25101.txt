@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"A Magistrate’s Court here has set April 7 for next mention of the drug case involving comedian Along Cham...\" (specific court details and timeline)\n• Evidence 2: \"charged under Sections 6 and 15 (1) of the Dangerous Drugs Act 1952...\" (clear legal references and penalties)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or any business-related context\" (complete absence of company connection)\n• Evidence 2: \"Focus on personal legal proceedings unrelated to corporate operations\" (no link to strategic direction or financial implications)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Provides dates, charges, legal sections, and potential penalties\" (basic case details)\n• Evidence 2: \"Includes prosecution and defense representation\" (limited contextual depth but factual specifics)"
+  }
+}

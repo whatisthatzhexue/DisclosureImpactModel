@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"As of April 1, 2025, women held 33.1% of board seats in Malaysia’s top 100 public-listed companies (PLCs) on Bursa Malaysia, up from 14% in 2015.\" (specific verifiable data)\n• Evidence 2: \"The 30% Club Malaysia... is a global business-led campaign founded in the United Kingdom\" (creditable source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Berjaya Corp Bhd\" is mentioned as a partner, but the article focuses on Malaysia's national progress rather than Berjaya Food Berhad's specific strategies (limited direct company mention)\n• Evidence 2: \"The 30% Club Malaysia... aims to drive systemic change for women’s representation in leadership\" (indirectly relates to corporate governance strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The 30% Club Malaysia... launched the Men Allies for Parity initiative... with the aim of engaging male leaders... to drive systemic change\" (comprehensive coverage of initiatives)\n• Evidence 2: \"Since 2012, the Malaysian Code on Corporate Governance recommended the target of 30% women on board for large PLCs...\" (historical context and detailed progression)"
+  }
+}

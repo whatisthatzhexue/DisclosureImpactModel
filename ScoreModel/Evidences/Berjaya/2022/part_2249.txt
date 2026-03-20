@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 4,
-    "justification": "• Evidence 1: [exact quote]BRoasters introduced their new plant-based meat selections.\n• Evidence 2: [exact quote]A good variety of quality and healthy food and drinks (vague and unsupported by specific facts)"
+    "score": 3,
+    "justification": "• Evidence 1: \"BFood identified convenience, experience and personalisation as critical trends.\" (No specific data or risks mentioned)\n• Evidence 2: \"A good variety of quality and healthy food and drinks\" (Vague and lacks objective evidence)"
   },
   "Understandability": {
-    "score": 5,
-    "justification": "• Evidence 1: [exact quote]A value-priced menu (clear but generic)\n• Evidence 2: [exact quote]Comfortable restaurants and stores with a pleasant ambience (vague and lacks specificity)"
+    "score": 4,
+    "justification": "• Evidence 1: \"LEAVING A TASTEFUL HISTORY TO ALL CUSTOMERS\" (Vague and metaphorical phrasing)\n• Evidence 2: \"Comfortable restaurants and stores with a pleasant ambience\" (Subjective and imprecise description)"
   },
   "Relevance": {
-    "score": 3,
-    "justification": "• Evidence 1: [exact quote]BRoasters introduced their new plant-based meat selections (forward-looking but isolated)\n• Evidence 2: [exact quote]To retain customer loyalty, BFood identified convenience, experience and personalisation as critical trends (lacks investor-focused risk or performance context)"
+    "score": 5,
+    "justification": "• Evidence 1: \"BRoasters introduced their new plant-based meat selections.\" (Forward-looking information)\n• Evidence 2: \"A value-priced menu\" (Basic operational detail but lacks contextual relevance to investors)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The new school will have 36 classrooms and other facilities according to the design-and-build concept to expedite the construction process. SK Cyberjaya (2) is expected to be completed by the year 2028,\" the MOE said in a statement on Friday (March 15).\n• Evidence 2: The article cites Bernama as the source and references official MOE statements with specific timelines and plans (12MP RP3, 13MP RP1/2)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or any direct connection to the company's operations, strategic initiatives, or financial performance.\n• Evidence 2: The focus is entirely on Malaysian education infrastructure, which is unrelated to the food and beverage sector or investor interests in Berjaya Food."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides specific details about the SK Cyberjaya (2) project, including classroom numbers, construction timelines, and references to Malaysia Plan frameworks.\n• Evidence 2: It outlines short-term and long-term solutions but lacks deeper analysis of financial implications, stakeholder impact, or comparative context for similar projects."
+  }
+}

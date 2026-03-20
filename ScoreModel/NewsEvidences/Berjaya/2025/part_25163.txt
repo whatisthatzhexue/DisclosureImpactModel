@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The private placement involved the issuance of up to 180.0 million placement units at 82.5 sen per unit, raising gross proceeds of up to RM146.70 million.\" (specific financial data)\n• Evidence 2: \"In the financial year ended June 30, 2024, KIP REIT’s net property income grew by 25.2 per cent to RM77.8 million\" (verifiable financial performance metric)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"With EPF among its key unitholders, KIP REIT is better positioned to advance its growth strategy, enhance its portfolio, and create long-term value for its unitholders.\" (direct link to strategic positioning)\n• Evidence 2: \"Recent acquisitions... reaffirm the group’s commitment to expand its footprint in high-growth locations and deliver consistent returns.\" (connects to business strategy and market impact)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The funds will be utilised to partly finance the RM320 million acquisition of D’Pulze Shopping Centre...\" (specific context about capital allocation)\n• Evidence 2: \"Net property income grew by 25.2 per cent... driven by its strategically diversified portfolio\" (data supporting performance drivers)"
+  }
+}

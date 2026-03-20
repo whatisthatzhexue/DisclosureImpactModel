@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The MOU reflects the commitment of both parties in supporting the digitalisation of the country’s public services...\" (quote from statement)\n• Evidence 2: \"According to LHDN records, 687,361 users...\" (specific verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"This initiative aligns with the government’s digital transformation agenda...\" (no direct connection to Berjaya Food Berhad)\n• Evidence 2: \"The MoU... reflects a significant step towards a fully digitalised taxation system...\" (focus on government initiatives, not company-specific strategic direction)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The integration of MyDigital ID into the MyTax and MySTR platforms will enhance user access...\" (contextual explanation of collaboration impact)\n• Evidence 2: \"687,361 users have utilised MyDigital ID verification...\" (quantitative data supporting claims)"
+  }
+}

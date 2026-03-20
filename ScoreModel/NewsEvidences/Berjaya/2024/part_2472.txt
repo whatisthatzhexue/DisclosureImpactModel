@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"OCBC Bank (Malaysia) Berhad received the highest-level – Titanium+ – green data centre certification from Green Climate Initiative (GCI)\" [verifiable fact about certification].\n• Evidence 2: \"The certification exercise was rigorous and involved detailed investigative audits\" [credible process description]."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"As part of the OCBC Group’s goal to achieve nett zero by 2050\" [direct link to strategic long-term objectives].\n• Evidence 2: \"The Titanium+ recognition encourages us to keep looking beyond what we do with our customers to what we do behind the scenes in the operations room\" [strategic alignment with sustainability practices]."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The end result was the implementation of cold-aisle containment, airflow optimisation, identifying of hot spots through computational fluid dynamic (CFD) studies, and use of intelligent power distribution\" [detailed technical explanation].\n• Evidence 2: \"With the current demand of more than 1.5 megawatt of electricity energy, the data centre continues to manage its greenhouse gas emissions\" [quantitative data and context]."
+  }
+}

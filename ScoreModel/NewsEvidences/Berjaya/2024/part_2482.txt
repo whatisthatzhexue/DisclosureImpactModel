@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Travellers from Singapore can now fly directly from Seletar Airport to Redang Airport, thus reducing the total of travel time to Redang Island to just one hour and 20 minutes.\" (verifiable factual claim)\n• Evidence 2: \"The Taaras Beach & Spa Resort and Berjaya Air are Berjaya Land’s wholly owned subsidiaries.\" (clear corporate structure disclosure)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Berjaya Land Bhd’s aviation arm Berjaya Air Sdn Bhd hopes to boost the tourism industry in Redang Island... following its newly launched charter services.\" (direct link to company strategy)\n• Evidence 2: \"This would further strengthen The Taaras’ commitment to providing seamless connectivity...\" (strategic alignment with business goals)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"During the turtle nesting season from April to October, tourists have the chance to witness the release of hatchlings into the sea.\" (contextual detail about unique offerings)\n• Evidence 2: \"Contributions will go towards the research and development of turtle conservation at SEATRU Turtle Lab...\" (specific partnership information)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "The final score of 8 balances strong evidence from multiple sources, including specific financial figures (e.g., \"Profit after tax of RM51.7million, an increase of 84.0%...\"), forward-looking statements with timeframes (e.g., \"expect a similar impact when the KSA raises its value-added tax...\"), and quantifiable data (e.g., \"export sales increased from RM173.5 million to RM208.7 million\"). Lower scores (e.g., 6) were downgraded for lacking risk disclosures or overgeneralized statements, but these were offset by the majority of entries providing transparent, fact-based disclosures. The score reflects a reliable balance between detailed factual claims and acknowledgment of limitations."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "The score of 7 reflects a mix of strategic relevance (e.g., \"mitigate the impact of these taxes... explore export growth options outside MENA\") and moderate forward-looking disclosures. Higher scores (e.g., 9) included direct links to investor decision-making (e.g., performance drivers, risk management frameworks), while lower scores (e.g., 5) lacked material events or risk factors. The final score compromises between the comprehensive relevance of some entries and the absence of detailed risk disclosures in others, emphasizing strategic actions and performance explanations as key strengths."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "The score of 8 highlights clear, structured explanations (e.g., \"Table 1: Power Root’s Stakeholder Engagement\", \"clear escape route plans at strategic locations\") and precise terminology (e.g., \"materiality matrix\", \"ISO 22000 certification\"). Lower scores (e.g., 5) were penalized for vague language or lack of context, but these were offset by the majority of entries using direct language, numerical comparisons, and logical categorization. The final score acknowledges the clarity of most disclosures while noting minor complexities in some technical descriptions."
+  }
+}

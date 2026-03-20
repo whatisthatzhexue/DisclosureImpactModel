@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We have seen encouraging momentum...\" (direct quote from executive, verifiable source)\n• Evidence 2: \"Completing KL1’s second phase...\" (specific factual claim with source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Expansion represents a long-term investment...\" (direct link to strategic direction)\n• Evidence 2: \"helping the nation become a strategic location...\" (connects to market impact and competitive positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"accelerating demand for digital infrastructure...\" (context about market trends)\n• Evidence 2: \"KL2, after having officially completed...\" (specific project details but lacks financial or quantitative data)"
+  }
+}

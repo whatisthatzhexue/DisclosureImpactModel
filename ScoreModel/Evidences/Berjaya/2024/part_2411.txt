@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2024, BKelava recorded a total revenue of RM0.4 million compared to the RM0.3 million recorded in the previous financial year. This growth was driven by...\" (specific factual comparison)\n• Evidence 2: \"This increased loss was mainly due to higher operational costs and retail outlet expenses.\" (explanation of performance change)"
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2024, BKelava recorded a total revenue of RM0.4 million compared to the RM0.3 million recorded in the previous financial year. This growth was driven by...\" (specific factual revenue growth)\n• Evidence 2: \"This increased loss was mainly due to higher operational costs and retail outlet expenses.\" (explicit cause for financial performance change)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BKelava has approximately 50 distribution points throughout the central and west coast regions...\" (clear geographic context)\n• Evidence 2: \"Made exclusively from plant-based ingredients...\" (precise product description)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Made exclusively from plant-based ingredients, BKelava offers a rich, smooth treat...\" (clear description of product)\n• Evidence 2: \"Rich and creamy plant-based handcrafted KELAVA ice cream. Made with only the finest ingredients...\" (vague marketing language with no specific metrics)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"This growth was driven by the proactive expansion...\" (explains revenue change)\n• Evidence 2: \"Made with only the finest ingredients...\" (promotional language lacking material risk disclosure)"
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2024, BKelava incurred a loss before tax of RM1.2 million compared to...\" (material financial performance information)\n• Evidence 2: \"BKelava distributes its products primarily via the wholesale market...\" (distribution channel relevance for investors)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"These are special lanes on the road for the use of micromobility vehicles.\" (Quotes from official source)\n• Evidence 2: \"According to the law, micromobility vehicles that are not allowed on the road are mopeds...\" (References legal frameworks)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or related business activities\n• Evidence 2: Focus on municipal infrastructure project unrelated to food/beverage industry operations"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The project, which was completed at the end of last year, had been undergoing testing by the Transport Ministry...\" (Project timeline details)\n• Evidence 2: \"Micromobility vehicles are gaining popularity...\" (Context on industry trends)"
+  }
+}

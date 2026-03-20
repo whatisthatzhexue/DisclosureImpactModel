@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood reported a lower net loss of RM35.33mil compared with a net loss of RM42.58mil in the previous corresponding period\" (verifiable financial data).\n• Evidence 2: \"revenue in 2Q25 dropped to RM123.10mil from RM182.55mil a year earlier\" (specific figures with clear context)."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood will remain committed to growth and diversification by expanding its brand portfolio\" (direct link to strategic direction).\n• Evidence 2: \"strategic initiatives and plans for Starbucks are expected to enhance performance\" (forward-looking stakeholder significance)."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"lower revenue and higher loss from operations in the quarter under review were mainly attributed to the prolonged impact of the ongoing sentiment related to the Middle East conflict\" (contextual explanation).\n• Evidence 2: \"revenue in 2Q25 dropped to RM123.10mil from RM182.55mil a year earlier\" (quantitative data but limited analysis of broader implications)."
+  }
+}

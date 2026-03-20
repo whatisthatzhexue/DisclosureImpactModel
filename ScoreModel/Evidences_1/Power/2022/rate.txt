@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The majority of scoring results (e.g., 9 from compliance with MMLR/SC guidelines, 8 from transparent procedures like audit committee reporting) demonstrate strong reliability through factual disclosures, regulatory alignment, and verifiable data. Lower scores (e.g., 7) cite limited forward-looking risk disclosures or ambiguity in certain sections, but these are outliers. The high consistency across most evidence (e.g., independent director compliance, audit independence) supports a mid-high reliability score."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "Scores range from 6 to 8, with higher scores (e.g., 8) citing direct links to investor concerns (e.g., governance processes, risk management), while lower scores (e.g., 6) note gaps in forward-looking risk disclosures or reliance on indirect references. The majority of evidence (e.g., material governance disclosures, shareholder communication) aligns with relevance criteria, but some sections lack depth in addressing material risks or stakeholder impacts."
+  },
+  "Understandability": {
+    "score": 8.5,
+    "justification": "Most scoring results (e.g., 9 from structured formats, clear role definitions, and precise terminology) highlight strong understandability through logical flow, direct language, and organized data. Lower scores (e.g., 6-7) cite complex contractual details or repetitive entries but are exceptions. The overall consistency in clear disclosures (e.g., board composition, procedural descriptions) and minimal ambiguity justify a high understandability rating."
+  }
+}

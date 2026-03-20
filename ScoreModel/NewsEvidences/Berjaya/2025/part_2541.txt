@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Road Transport Department (JPJ) has seized three tipper lorries that have been operating without valid road tax since 2016 and 2018 during a recent enforcement operation...\" (specific dates and actions cited)\n• Evidence 2: \"All three vehicles appeared suspicious and were stopped for inspection...\" (direct quotes from officials with verifiable details)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or its operations, focusing instead on unrelated road transport enforcement actions.\n• Evidence 2: No connection to the company's strategic direction, financial performance, or market position is provided."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Further inspections uncovered additional violations — one vehicle had undergone an unauthorised engine replacement, while another had a tampered chassis number...\" (specific technical details and context)\n• Evidence 2: \"Operators must ensure their vehicles meet all technical and legal standards...\" (broader implications for industry compliance, though lacking deeper analysis)"
+  }
+}

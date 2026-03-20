@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Skywell is known for its production of low carbon emission vehicles, including electric buses, vans and trucks.\" (specific factual claim about Skywell's products)\n• Evidence 2: \"Founded in 1988, Skyworth is a wholly-owned subsidiary of Skyworth Group Ltd, which is listed on the Hong Kong Stock Exchange.\" (verifiable corporate background information)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"This endeavour includes exploring strategic partnerships to advance essential NEV technologies and bolster the NEV ecosystem in the country, thus enhancing the entire NEV landscape in Malaysia.\" (direct link to BCorp's strategic goals)\n• Evidence 2: \"BCorp will leverage its extensive marketing network and robust presence across key industries in Malaysia.\" (explicit connection to company's competitive positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Skywell is a unicorn enterprise integrating research and development, production, sales and service of NEVs and core components, with production bases in Shenzhen, Wuhan, Xuzhou, Hohhot and Weinan.\" (specific operational context)\n• Evidence 2: \"Malaysia, a rich and resourceful land, not only has unique natural resources, but also shows strong vitality and potential in economic development and international cooperation.\" (broader economic context but lacks quantitative data)"
+  }
+}

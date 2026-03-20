@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 4,
+    "justification": "• Evidence 1: \"BFood actively collects customer feedback...\" (no risks/challenges mentioned)\n• Evidence 2: \"Safeguarding customer privacy is a top priority...\" (no specific risks or uncertainties disclosed)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Feedback is gathered via phone calls, emails...\" (clear process description)\n• Evidence 2: \"Speed of Service: KPI: 50%\" (numeric metrics but lacks contextual explanation)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Integrating this feedback...\" (customer experience focus relevant to investors)\n• Evidence 2: \"Data Backup and Recovery...\" (operational metrics but no direct investor impact explanation)"
+  }
+}

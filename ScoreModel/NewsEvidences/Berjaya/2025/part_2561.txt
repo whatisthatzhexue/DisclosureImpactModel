@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood said that although current growth remains modest, significant efforts are underway to reposition the business for greater resilience.\" (balanced tone with factual acknowledgment of challenges)\n• Evidence 2: \"In the third quarter ended March 31 (3Q25), BFood posted a wider net loss of RM37.2mil...\" (verifiable financial data from the filing with Bursa Malaysia)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The group is focusing on steadily building a strong foundation for future value creation...\" (directly ties to long-term strategic priorities)\n• Evidence 2: \"Strategic initiatives are already underway to enhance operational performance...\" (connects to business performance and market impact)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Revenue for the quarter fell to RM113.6mil... while loss per share increased to 2.10 sen...\" (comprehensive financial details with quantitative context)\n• Evidence 2: \"BFood attributed the lower revenue and profit to the prolonged impact of the ongoing sentiment surrounding the Middle East conflict...\" (specific contextual factors affecting performance)"
+  }
+}

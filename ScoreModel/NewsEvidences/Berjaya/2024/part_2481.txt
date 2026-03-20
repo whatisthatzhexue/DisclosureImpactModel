@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"I was informed that the company has completed its Phase 1 development in Sedenak Tech Park...\" (specific, verifiable detail)\n• Evidence 2: \"State housing and local government committee chairman Datuk Mohd Jafni Md Shukor said...\" (cited credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text focuses on BDC's data center expansion plans, which are unrelated to Berjaya Food Berhad's operations or strategic direction.\n• Evidence 2: No mention of Berjaya Food Berhad, its business activities, or financial performance."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BDC is also planning to make more investments over the next five years...\" (specific timeline and scope)\n• Evidence 2: \"The village has about 350 people living in 135 houses.\" (quantitative context about the affected community)"
+  }
+}

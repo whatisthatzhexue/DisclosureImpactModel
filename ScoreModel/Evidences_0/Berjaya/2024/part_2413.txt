@@ -1,6 +1,0 @@
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 0, "justification": "• Evidence 1: No specific facts or data provided about financial performance, risks, or challenges\n• Evidence 2: The text contains no objective analysis or neutral disclosure of material information"},
-  "Understandability": {"score": 3, "justification": "• Evidence 1: The text contains a brief, direct statement about the breakfast menu\n• Evidence 2: The structure is unclear and lacks logical organization for an MD&A section"},
-  "Relevance": {"score": 0, "justification": "• Evidence 1: No information about investor decision-making, performance changes, or forward-looking statements\n• Evidence 2: The content focuses on a menu item rather than corporate governance, risks, or material events"}
-}

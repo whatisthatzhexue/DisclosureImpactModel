@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Kenanga Research said this is based on observations by Credence, Telekom Malaysia Bhd ’s (TM) cloud and digital services subsidiary.\"\n• Evidence 2: \"Kenanga Research, which is maintaining its \"overweight\" call on the telecommunications sector...\""
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TM is also committed to build enabling digital infrastructure...under the MyDigital economic blueprint.\"\n• Evidence 2: \"TM plans to more than double its data centre capacity...via development of new centres in Cyberjaya and Johor.\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"TM One’s Alpha Edge cloud services cover seven industries with more than 70 services.\"\n• Evidence 2: \"TM believes there is robust demand for data centre capacity from operators of ultra-large centres, referred to as hyperscalers, and content providers.\""
+  }
+}

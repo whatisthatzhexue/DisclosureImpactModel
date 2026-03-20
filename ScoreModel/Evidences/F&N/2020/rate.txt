@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7.4,
-    "justification": "• The majority of scoring results (14/20) assigned scores between 7-8, reflecting strong disclosure of factual data, risk acknowledgment, and regulatory compliance. Higher scores (9) were given for specific evidence like third-party validation and quantitative risk management, while lower scores (3, 5) highlighted gaps in risk disclosure and contextualization. The final score of 7.4 balances these variations, emphasizing the report's generally reliable information with room for improvement in transparency and risk mitigation."
+    "score": 8.5,
+    "justification": "• The majority of scoring results (e.g., 9, 8, 7) demonstrate strong reliability through specific factual data (e.g., 'Profit after tax: RM410.1 million'), risk acknowledgment ('despite challenges...'), and third-party validation ('external assurance from Lloyd’s Register'). However, lower scores (e.g., 5, 2) lack risk disclosure or contextual explanation, while some 7s have limited risk acknowledgment. Compromised to 8.5 to reflect strong reliability with minor inconsistencies."
   },
   "Relevance": {
-    "score": 7.1,
-    "justification": "• Scores ranged from 3 to 9, with higher scores (8-9) recognizing forward-looking strategic information, material event disclosures, and investor-focused metrics. Lower scores (3-5) noted missing context for performance changes and insufficient linkage to financial outcomes. The average of 7.1 reflects the report's ability to address key investor concerns while requiring stronger emphasis on contextualizing performance drivers and strategic priorities."
+    "score": 8,
+    "justification": "• High scores (e.g., 9, 8) highlight material financial information (e.g., 'Exports accounted for 20% of revenue'), forward-looking strategies ('intent to expand regional offices'), and risk disclosure ('economic uncertainties'). Lower scores (e.g., 4, 5) lack performance analysis or material event context. Compromised to 8 to balance strong relevance with some gaps in detailed performance drivers."
   },
   "Understandability": {
-    "score": 7.15,
-    "justification": "• Most scores (13/20) fell between 7-9, citing clear numerical data, structured explanations, and precise language. Lower scores (4-5) pointed to fragmented formatting and unclear groupings of percentages. The average of 7.15 highlights the report's generally clear presentation, though improvements in organizing complex information and reducing redundancy would enhance clarity for readers."
+    "score": 8.3,
+    "justification": "• Most scores (e.g., 9, 8, 7) show clear numerical presentation (e.g., 'Revenue: RM3.99 billion'), structured headings, and precise metrics (e.g., '75% local purchase value'). Lower scores (e.g., 4, 6) have formatting issues or repetitive sections. Compromised to 8.3 to reflect high clarity with minor formatting inconsistencies."
   }
 }

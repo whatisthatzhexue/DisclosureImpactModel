@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Note: (i) Excluding one-off non-operating items i.e. flood related expenses, insurance claim receivable and restructuring costs.' (transparent about adjustments)\n• Evidence 2: 'Employee benefit expenses comprise wages, salaries... other staff costs.' (specific breakdown of components)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: 'Revenue (RM million) Operating profit (RM million)...' (clear headings for financial metrics)\n• Evidence 2: 'Economic value retained is calculated by direct economic value generated (revenue) - economic value distributed...' (precise definition but complex phrasing)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Notes: (i) Employee benefit expenses comprise...' (explains performance drivers)\n• Evidence 2: 'Economic value retained... annual dividends, cost of sales...' (provides context for financial metrics)"
+  }
+}

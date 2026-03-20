@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Last year, the ferry terminal recorded more than 400,000 travellers, which shows that ferry services between the two countries are always in demand.\" (verifiable data)\n• Evidence 2: \"The fare for a one-way ticket to Batam is RM123 while it is RM183 for a return ticket.\" (specific pricing details)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The content focuses on ferry services and tourism, unrelated to the company's food and beverage sector."
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: Provides specific details about ferry schedules, ticket prices, and passenger volume.\n• Evidence 2: Contextualizes the information around Hari Raya Aidilfitri travel patterns but lacks connection to the company's strategic context."
+  }
+}

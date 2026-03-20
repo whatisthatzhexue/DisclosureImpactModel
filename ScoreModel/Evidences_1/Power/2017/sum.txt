@@ -1,0 +1,63 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root ME FZCO shall receive all profits or ownership of assets and liable for all losses or liabilities of P.R. Manufacturing ME LLC\" (specific ownership details)\n• Evidence 2: \"Despite the economic challenges faced over the financial year... Power Root responded by strengthening its efforts...\" (acknowledges challenges but lacks risk analysis)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root (M) Sdn. Bhd. Power Root (Shanghai) Food Trading Co., Ltd.\" (clear listing of subsidiaries)\n• Evidence 2: \"We recorded promising growth for its export markets by recording RM183.2 million revenue...\" (precise financial figures with context)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Group recorded promising growth for its export markets...\" (material event impacting performance)\n• Evidence 2: \"We will continue to seek growth opportunities...\" (forward-looking statement with limited contextual explanation)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Weak consumer sentiment and margin pressure on raw materials did not deter us from thriving\" (acknowledges challenges while presenting positive outcomes)\n• Evidence 2: \"Profit After Tax (PAT) of approximately RM47.2 million\" (specific financial figures support factual claims)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Revenue (RM’million)\" chart and \"Dividend per share\" graph provide visual clarity (structured presentation)\n• Evidence 2: \"The Board comprises of seven (7) members\" (clear, direct language about governance structure)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Export sales has shown a very encouraging rise from RM141.5 million to RM183.2 million\" (explains performance drivers)\n• Evidence 2: \"The Board is committed to ensure that good corporate governance practices are applied\" (includes governance-related information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Committee carried out its duties in accordance with its terms of reference during the financial year under review.\" (neutral, factual reporting)\n• Evidence 2: \"However, as there are inherent limitations in any risk management and internal control system...\" (acknowledges limitations, objective tone)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the Quarterly Financial Reports\" (precise, direct language)\n• Evidence 2: \"The cost incurred in connection with the internal audit functions during the financial year amounted to RM320,948.\" (clear numerical specificity)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the Proposed Fraud Policy\" (material risk disclosure)\n• Evidence 2: \"Statement on Risk Management and Internal Control... for the financial year under review\" (directly addresses investor concerns about governance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board has put in place a structured Risk Management Policy to govern the risk management process.\" (Truthful, objective description of governance structure)\n• Evidence 2: \"The cost incurred in maintaining the in-house and outsource Internal audit function for the financial year ended 31 March 2017 amounted to RM320,948.\" (Specific factual disclosure of audit costs)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Risk Management Policy clearly defines the risk management’s objectives and processes, along with clear roles and responsibilities of the Board, Audit Committee...\" (Precise structure with defined roles)\n• Evidence 2: \"The internal audit functions... report to the Audit Committee directly and provide the Audit Committee with the assurance it requires...\" (Clear logical flow and direct language)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Risk Management Committee and the Management review the Key Risks Register and assessment of emerging risks... on an annual basis...\" (Material risk monitoring relevant to investors)\n• Evidence 2: \"The Board is committed towards maintaining a sound system of internal control... to manage the risks within the risk appetite of the Group\" (Direct linkage to risk management objectives)"
+  }
+}

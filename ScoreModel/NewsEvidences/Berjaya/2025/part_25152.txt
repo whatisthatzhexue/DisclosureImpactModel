@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Muhammad Asif, 23, was diagnosed with early stage acute lymphoblastic leukaemia (ALL) when he was only 10, and was declared cancer-free when he was 17.\" (verifiable factual timeline)\n• Evidence 2: \"The Chancellor’s Award – the highest accolade presented to the top student of the graduating class at MMU\" (institutional context provided)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad, its business operations, financial performance, or strategic initiatives.\n• Evidence 2: The text focuses on personal achievement and university convocation details, unrelated to corporate governance or market impact."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Morning to night, I would just study. If you saw me in the hospital at the time, I would just be studying\" (detailed personal narrative)\n• Evidence 2: \"3,657 graduates receiving their diploma, bachelor’s, master’s, and doctorate scrolls\" (quantitative context about the event)"
+  }
+}

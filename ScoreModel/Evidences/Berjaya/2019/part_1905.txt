@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks registered an increase in revenue to RM650.2 million from RM504.9 million... contributed by the revenue from rapid expansion and store growth from 260 stores... to 291 stores\" (specific factual data).\n• Evidence 2: \"Profit Before Tax... attributed to additional revenue generated from stores opened during the financial period, coupled with effective cost management strategies\" (explanation of performance drivers)."
+    "justification": "• Evidence 1: \"BStarbucks registered an increase in revenue to RM650.2 million from RM504.9 million... contributed by the revenue from rapid expansion and store growth\" (specific factual data).\n• Evidence 2: \"Profit Before Tax... attributed to additional revenue generated from stores opened during the financial period, coupled with effective cost management strategies\" (explains performance drivers)."
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Starbucks Card Programme - My Starbucks Rewards (MSR) – registered a tender rate at 51%... contributing a total of RM374.1 million\" (clear numerical context).\n• Evidence 2: \"BStarbucks plans to open 25 new stores with an additional 3 Reserve concept stores\" (precise, direct language)."
+    "score": 8,
+    "justification": "• Evidence 1: \"The Starbucks Card Programme - My Starbucks Rewards (MSR) – registered a tender rate at 51%... contributing a total of RM374.1 million\" (clear numerical context).\n• Evidence 2: \"BStarbucks plans to open 25 new stores with an additional 3 Reserve concept stores\" (precise forward-looking statement)."
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"In the upcoming financial year 2020, BStarbucks plans to open 25 new stores... to create affinity and strengthen its brand presence\" (forward-looking information).\n• Evidence 2: \"BStarbucks will continue to promote the My Starbucks Rewards loyalty programme... offering more card designs and attractive benefits\" (investor-relevant strategic focus)."
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks recorded a growth of RM13.6 million in operating profit... attributed to additional revenue generated from stores opened during the financial period\" (explains performance changes).\n• Evidence 2: \"In the upcoming financial year 2020, BStarbucks plans to open 25 new stores...\" (forward-looking information)."
   }
 }

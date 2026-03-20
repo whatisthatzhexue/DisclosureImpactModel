@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The FBM KLCI was down 1.19 points to 1,570.29 at the lunch break, with specific stock price movements for Genting, Press Metal, Tenaga Nasional, and Sime Darby.\n• Evidence 2: The article cites Meta Platforms' revenue forecast and regional indices (Nikkei, Straits Times, Hang Seng, China composite) with precise numerical data, indicating factual accuracy."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text mentions Berjaya Corp's stock price increase but does not connect it to the company's strategic direction, competitive position, or long-term value creation.\n• Evidence 2: The focus is on broader market trends and regional indices rather than Berjaya Food Berhad's business performance or financial implications."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides comprehensive market data, including the number of gainers, losers, and unchanged stocks, along with specific stock price movements and regional index performance.\n• Evidence 2: It explains the impact of Meta's revenue forecast on market sentiment but lacks deeper analysis or contextual background related to Berjaya Food Berhad."
+  }
+}

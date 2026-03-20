@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks recorded a lower profit before tax of RM53.3 million as compared to RM54.4 million in the previous financial year mainly due to the increase in finance costs, coupled with higher write-off costs on renovation of existing stores and store relocations\" (specific cause for financial decline).\n• Evidence 2: \"The Starbucks Card Loyalty Programme recorded its highest ever tender rate of 51% since its launch\" (objective data on program performance)."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BStarbucks registered an increase in revenue from RM404.9 million to RM450.8 million... mainly due to rapid store expansion\" (clear cause-effect explanation).\n• Evidence 2: \"BStarbucks will continue the company’s expansion plan to open a total of 25 new stores...\" (precise, structured forward-looking statement)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The incremental revenue was mainly due to rapid store expansion...\" (explains performance change).\n• Evidence 2: \"BStarbucks will introduce a variety of card designs and more attractive benefits...\" (forward-looking information relevant to investor decision-making)."
+  }
+}

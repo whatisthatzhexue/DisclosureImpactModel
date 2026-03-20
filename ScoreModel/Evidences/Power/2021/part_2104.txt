@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"the Board is satisfied with the level of independence and objectivity demonstrated by all Independent Non-Executive Directors\" (neutral, fact-based assessment)\n• Evidence 2: \"the length of his service on the Board did not interfere with his ability to exercise independent judgment\" (specific, objective statement)"
+    "justification": "• Evidence 1: \"the Board is satisfied with the level of independence and objectivity demonstrated by all Independent Non-Executive Directors\" (neutral, objective assessment)\n• Evidence 2: \"the length of his service on the Board did not interfere with his ability to exercise independent judgment\" (acknowledges potential risk without overstatement)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Appointment of new Directors... is recommended to the Nominating Committee for consideration and approval\" (clear process description)\n• Evidence 2: \"two-tier voting process\" (precise terminology used consistently)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The tenure of an Independent Non-Executive Director... shall not exceed a cumulative term of nine -9 years\" (clear structure with specific criteria)\n• Evidence 2: \"the Nominating Committee will conduct the independence and objectivity review\" (precise language explaining process)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"explains reasons for performance changes\" (no direct mention, but discusses governance processes relevant to corporate management)\n• Evidence 2: \"includes corporate governance\" (directly addresses governance structure and director qualifications)"
+    "score": 8,
+    "justification": "• Evidence 1: \"the Board shall first justify and obtain annual shareholders’ approval\" (directly relevant to investor decision-making)\n• Evidence 2: \"gender and ethnic balance within the Board should be considered\" (addresses governance structure important for investors)"
   }
 }

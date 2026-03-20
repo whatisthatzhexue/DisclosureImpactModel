@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Last year, we were able to organise the conference on a smaller scale.\" (verifiable timeline of event resumption)\n• Evidence 2: \"Sleep-related breathing difficulties...\" (specific medical explanation with no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The main aim of the conference was to provide an avenue for knowledge sharing...\" (no direct link to Berjaya Food's business strategy)\n• Evidence 2: \"We may consider opening it up to the public...\" (no financial or market impact data for Berjaya Food)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The three-day conference... featured 40 booths offering dental-related products\" (quantitative detail about event scale)\n• Evidence 2: \"The pandemic... did not take place for about five years\" (contextual background on event hiatus)"
+  }
+}

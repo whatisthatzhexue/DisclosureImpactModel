@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"25% recycled content in beverage & dairy packaging\" (specific factual claim)\n• Evidence 2: \"98% of primary packaging is recyclable\" (quantifiable metric)"
+    "score": 8,
+    "justification": "• Evidence 1: \"25% recycled content in beverage & dairy packaging\" [specific fact]\n• Evidence 2: \"98% of primary packaging is recyclable\" [quantifiable claim]"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"We have made a Group-wide pledge to boost the proportion of recycled materials... by 2025\" (clear timeline and objective)\n• Evidence 2: \"100% recycled paper for coagulated cartons\" (precise example of sustainable practice)"
+    "justification": "• Evidence 1: \"We have made a Group-wide pledge to boost the proportion of recycled materials... by 2025\" [clear timeline and goal]\n• Evidence 2: \"FSC-certified paper packaging that is fully recyclable\" [specific certification explanation]"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Looking ahead, we plan to introduce more products with sustainable packaging solutions\" (forward-looking information)\n• Evidence 2: \"Recognising the interconnectedness of business and environmental health\" (links sustainability to business operations)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Looking ahead, we plan to introduce more products with sustainable packaging solutions\" [forward-looking information]\n• Evidence 2: \"Nurturing young eco-warriors through F&N School Recycling Programme 2024\" [community engagement initiative]"
   }
 }

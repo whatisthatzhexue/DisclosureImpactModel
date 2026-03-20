@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Those who bully have the potential to make this behaviour a habit that is difficult to break...\" (direct quote from Sultan, verifiable as a public statement)\n• Evidence 2: \"Universities like MMU should be a place for positive change...\" (specific reference to MMU, contextual accuracy)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or any business-related topics (irrelevant to company context)\n• Evidence 2: Focus on social issues unrelated to corporate strategy, financial performance, or stakeholder interests"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: Provides contextual details about the convocation ceremony and honorary degrees (event coverage)\n• Evidence 2: Lacks data on bullying prevalence, university policies, or analysis of systemic issues (limited depth beyond surface-level reporting)"
+  }
+}

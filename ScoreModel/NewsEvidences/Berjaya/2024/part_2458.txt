@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 7, "justification": "• Evidence 1: \"The Putra Aria Brand Awards, established to celebrate outstanding brands across various sectors, witnessed an extensive survey process that involved the active participation of over 11,000 respondents.\"\n• Evidence 2: \"The University of Cyberjaya competed in the Education and Learning category, encompassing universities, private schools, colleges and correspondence courses.\""},
+  "StrategicRelevance": {"score": 0, "justification": "• Evidence 1: \"The article contains no mention of Berjaya Food Berhad or its business operations, financial performance, or strategic initiatives.\"\n• Evidence 2: \"The text focuses on academic achievements and a university alumnus, with no connection to the company's strategic direction or market position.\""},
+  "Depth": {"score": 5, "justification": "• Evidence 1: \"The article provides context about the awards process, survey methodology, and university category participation, but lacks detailed analysis of broader implications.\"\n• Evidence 2: \"While it describes the alumnus's actions and university mission, it does not explore deeper connections between education and business impact.\""}
+}

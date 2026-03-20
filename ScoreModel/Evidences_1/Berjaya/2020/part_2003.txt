@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group’s revenue and results...adversely impacted by the COVID-19 pandemic and the Movement Control Order...\" (specific factual disclosure of risks)\n• Evidence 2: \"The Group would have reported a pre-tax profit...under the previous MFRS 117 accounting standard\" (objective explanation of accounting standard impact)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"For this financial year...RM632.94 million and a pre-tax loss RM8.48 million respectively\" (clear numerical presentation)\n• Evidence 2: \"The Group was restricted from operating at its full capacity\" (direct language explaining operational constraints)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group’s results...impacted by the adoption of the Malaysian Financial Reporting Standards 16\" (explains performance change due to accounting standards)\n• Evidence 2: \"significant reduction in sales...negative same-store-sales growth\" (material event disclosure affecting decision-making)"
+  }
+}

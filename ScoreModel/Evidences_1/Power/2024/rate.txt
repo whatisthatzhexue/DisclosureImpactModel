@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The majority of scoring results (8–9) highlight strong reliability through factual disclosures (e.g., compliance with MMLR, specific financial data, and neutral statements about governance processes). Lower scores (6–7) arise from neutral disclosures that lack additional value (e.g., mentioning risks without overstatement or opaque explanations about director independence). Overall, the report demonstrates high reliability due to consistent adherence to regulatory standards and transparent, verifiable information, though minor gaps in specificity slightly reduce the score."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "High scores (8–9) reflect direct relevance to investor concerns, such as risk disclosure, governance structures, and materiality (e.g., risk management frameworks, related party transactions). Lower scores (6–7) stem from less explicit connections to investor decision-making (e.g., compliance references without contextual linkage or vague statements about governance). The report generally addresses key investor priorities, but some sections lack explicit relevance to financial outcomes or strategic risks, leading to a balanced compromise score."
+  },
+  "Understandability": {
+    "score": 8.5,
+    "justification": "Most scoring results (8–9) praise clear, structured explanations (e.g., precise numerical data, logical flow of governance roles, and direct language). Lower scores (5–6) are due to formatting issues (e.g., ambiguous currency notation, garbled text) or overly complex phrasing. Despite these minor flaws, the report maintains high understandability through consistent clarity and logical organization, with only limited sections requiring additional contextual interpretation."
+  }
+}

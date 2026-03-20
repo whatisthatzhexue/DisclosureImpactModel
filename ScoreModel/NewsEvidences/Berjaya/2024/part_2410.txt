@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In a statement, the group said it was exploring a potential partnership with Skyworth Group Co Ltd...\" (direct quote from company statement)\n• Evidence 2: \"The strategic collaborations with Skyworth and Skywell herald transformative prospects...\" (quote from founder, aligns with company's official narrative)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Leveraging each other's strengths, BCorp is poised to explore using its extensive distribution network...\" (directly ties to company's strategic goals and market expansion)\n• Evidence 2: \"advance essential NEV technologies and bolster the NEV ecosystem...\" (explicitly connects to long-term value creation and industry positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"developing and implementing green energy solutions, such as residential, commercial and industrial photovoltaic systems\" (specific technical details about collaboration scope)\n• Evidence 2: \"catalyse innovation, foster sustainable development...\" (broader context of regional impact, but lacks quantitative data or historical background)"
+  }
+}

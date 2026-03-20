@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Key Risks Register are used for the identification of high residual risks which are above the risk appetite of the Group that requires the Risk Management Committee and the Board’s immediate attention\" (discloses risks and uncertainties).\n• Evidence 2: \"the Risk Management Committee and the risk owners conducted a review and assessment exercise... after taking into consideration the internal audit findings\" (supported by specific facts)."
+    "justification": "• Evidence 1: \"Risk assessment at gross and residual level, are guided by the likelihood rating and impact rating established based on the risk appetite acceptable as determined by the Board.\"\n• Evidence 2: \"The Key Risks Register are used for the identification of high residual risks which are above the risk appetite of the Group that requires the Risk Management Committee and the Board’s immediate attention\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"structured risk management process... guided by the likelihood rating and impact rating\" (clear structure and precise language).\n• Evidence 2: \"formal Board Charter... roles and responsibilities of the Board... specified to preserve the independence of the Board from the Management\" (direct and logical explanation)."
+    "score": 7,
+    "justification": "• Evidence 1: \"The structured risk management process as defined in the Risk Management Framework is employed by the Risk Management Committee and the risk owners for risk and opportunity identification, evaluation, control identification, treatment and control activities.\"\n• Evidence 2: \"The Group has a formal organisation structure in place with clear lines of reporting and accountability.\""
   },
   "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"the Risk Management Committee and risk owners review the Key Risks Register... report to the Audit Committee and Board\" (includes corporate governance and risk monitoring relevant to investors).\n• Evidence 2: \"Annual Budget... presented and approved by the Board... to monitor the actual performances\" (provides forward-looking financial oversight relevant to decision-making)."
+    "score": 8,
+    "justification": "• Evidence 1: \"The Risk Management Committee and risk owners review the Key Risks Register and assessment of emerging risks identified at strategic and operational level on an annual basis... report to the Audit Committee and Board.\"\n• Evidence 2: \"The Annual Budget for the Group is presented and approved by the Board on an annual basis and form one of the basis to monitor the actual performances\""
   }
 }

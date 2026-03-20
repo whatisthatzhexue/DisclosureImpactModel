@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"there were no whistle blowing allegations during the financial year\" (specific fact about internal controls)\n• Evidence 2: \"no significant matter of disagreement between the auditors and management\" (objective statement about audit independence)"
+    "justification": "• Evidence 1: \"The Audit Committee is pleased to report that there was no significant matter of disagreement between the auditors and management.\"\n• Evidence 2: \"The auditors performed a limited assurance review of the Statement of Risk Management and Internal Control as required under the Bursa Securities Listing Requirements.\""
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Audit Committee reviewed the quarterly and annual consolidated financial statements\" (clear, direct language)\n• Evidence 2: \"the Audit Committee is pleased to report that there was no significant matter...\" (precise structure with explicit outcomes)"
+    "justification": "• Evidence 1: \"The Audit Committee reviewed the quarterly and annual consolidated financial statements... to ascertain compliance with applicable financial reporting standards.\"\n• Evidence 2: \"The ambit of the Group Internal Audit function is defined in the Internal Audit Charter which is annually reviewed and tabled to the Audit Committee.\""
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"review and monitor the integrity of the Group's reporting process...compliance with legal, regulatory and taxation matters\" (directly relevant to investor decision-making)\n• Evidence 2: \"the amount incurred in respect of non-audit related fees...\" (specific financial information about audit committee activities)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee... reviewed and monitored the integrity of the Group's reporting process, system of internal control, audit process as well as compliance with legal, regulatory and taxation matters.\"\n• Evidence 2: \"The Audit Committee had one meeting with the auditors without the presence of management.\""
   }
 }

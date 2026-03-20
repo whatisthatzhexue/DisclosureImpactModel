@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks is now a 100% owned subsidiary of BFood.\" (specific factual statement)\n• Evidence 2: \"As at 30 June 2020, there are a total of 316 stores nationwide.\" (date-specific data)"
+    "score": 8,
+    "justification": "• Evidence 1: \"BFI disposed of its entire stake in PT Boga\" (specific factual event)\n• Evidence 2: \"BStarbucks is now a 100% owned subsidiary of BFood\" (clear ownership disclosure)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BFood acquired 100% equity interest in Jollibean Foods Pte Ltd, Singapore.\" (clear, direct statement)\n• Evidence 2: \"All unsold food products are discarded or donated.\" (precise, actionable information)"
+    "score": 9,
+    "justification": "• Evidence 1: \"11,500,000 ordinary shares of RM1.00 each\" (precise financial details)\n• Evidence 2: \"operates the world’s first Starbucks Signing Store\" (clear operational description)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"On 30 January 2018, the Company’s wholly-owned subsidiary, BFI completed the disposal of 5% equity interest in Jollibean Foods.\" (material event)\n• Evidence 2: \"As of 30 June 2020, there are 12 Starbucks Reserve stores in Malaysia.\" (operational scale data)"
+    "justification": "• Evidence 1: \"disposal of 5% equity interest in Jollibean Foods\" (material event disclosure)\n• Evidence 2: \"316 stores nationwide\" (operational scale information)"
   }
 }

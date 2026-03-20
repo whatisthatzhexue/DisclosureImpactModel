@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'Higher fuel cost' impact on MPM operations (exact quote: 'the impact of the changes in labour regulations which was compounded by the increase in the other input costs from higher fuel, electricity and ingredients')\n• Evidence 2: Disclosure of anti-bribery compliance ('Zero violation on Anti-Bribery Policy')"
+    "score": 8,
+    "justification": "• Evidence 1: 'The outlook for POCE is projected to be negative.' (Discloses a clear risk)\n• Evidence 2: 'We experienced high turnover in the workforce... maintaining the expected quality of service was a challenge.' (Acknowledges operational challenges)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: Structured sections with clear headings (e.g., 'Business Review', 'Financial Performance')\n• Evidence 2: Specific data points like '17.2% reduction in GHG intensity' provide concrete metrics"
+    "justification": "• Evidence 1: 'Revenue increased 35.2% to RM861.02 million while PBT grew marginally at 1.7% to RM43.75 million.' (Clear numerical presentation)\n• Evidence 2: 'The World Meteorological Organization updated that the El Niño phenomenon is developing...' (Direct explanation of climate impact)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: Forward-looking statements about FY2024 outlook ('Overall, the MPM business pillar will face higher operational costs...')\n• Evidence 2: Risk disclosures related to climate factors ('El Niño phenomenon is developing...')"
+    "score": 9,
+    "justification": "• Evidence 1: 'Financial Performance: The MPM business pillar performance recovered, with YoY revenue rising 15.2% to RM1.34 billion...' (Material financial data for investors)\n• Evidence 2: 'The outlook for POCE is projected to be negative.' (Forward-looking risk disclosure)"
   }
 }

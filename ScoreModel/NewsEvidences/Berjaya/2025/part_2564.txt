@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 8, "justification": "• Evidence 1: \"Let’s be honest with ourselves. Some junior leaders talk and behave as though they are as powerful as Umno at its peak, which is simply not the case\" (direct quote with factual context).\n• Evidence 2: \"Timing is everything\" (quote with historical reference to 2006 and 2018 events, providing verifiable political timeline)."},
+  "StrategicRelevance": {"score": 2, "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its operations, financials, or strategic initiatives.\n• Evidence 2: Focus on political coalition dynamics unrelated to the company's business activities or market position."},
+  "Depth": {"score": 7, "justification": "• Evidence 1: Detailed historical context of political incidents (2006 Upko exit, 1984 Usno expulsion) with specific dates and consequences.\n• Evidence 2: Analysis of political strategies and leadership advice (e.g., \"Rumah Kita, Kita Jaga\" motto) but no data on company-specific metrics or performance."}
+}

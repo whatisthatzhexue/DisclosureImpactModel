@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"As a consortium, we have put in a proposal,\" for the project, Tan told reporters on Friday. \"After MRCB’s pullout, we may bring in a new partner.\"\n• Evidence 2: \"The determinant is very much the dollars and cents,\" Rafizi said."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Berjaya Group is seeking a new partner as it bids for a proposed multi-billion dollar high-speed rail line...\" directly connects to Berjaya Group's strategic direction and financial implications.\n• Evidence 2: \"The project will now have to be fully funded by the private sector...\" highlights financial viability, a key stakeholder concern."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Plans for the 350-kilometer (218 mile) rail line... were first approved in 2013, but then scrapped seven years later...\" provides historical context and project background.\n• Evidence 2: \"The rail line, which seeks to cut travel time... was earlier estimated to cost as much as 100 billion ringgit...\" includes quantitative data and project scope."
+  }
+}

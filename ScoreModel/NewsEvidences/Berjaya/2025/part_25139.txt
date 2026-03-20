@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We had just received the instructions to charge him from the Deputy Public Prosecutor (today)\", said Sepang OCPD Asst Comm Norhizam Bahaman.\n• Evidence 2: The article provides verifiable data including dates (Dec 14, Dec 20), location (Cyberjaya), and specific evidence (60.3g of ganja, THC test results)."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or any business-related activities.\n• Evidence 2: The content focuses on a celebrity's legal issues, which have no direct connection to the company's strategic direction, financial performance, or stakeholder impact."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides specific details about the arrest, evidence discovered (60.3g of ganja), and testing results (THC positive).\n• Evidence 2: Limited contextual background is provided, and there is no analysis of broader implications or stakeholder significance related to the company."
+  }
+}

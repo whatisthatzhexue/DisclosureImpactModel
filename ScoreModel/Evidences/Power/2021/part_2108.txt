@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"All Committees have written Terms of References and the Board receives reports on their proceedings and deliberations.\" (neutral, factual disclosure)\n• Evidence 2: \"The Nominating Committee conducted evaluations and assessments... based on the pre-determined processes and evaluation/review criteria.\" (objective, specific process description)"
+    "score": 9,
+    "justification": "• Evidence 1: \"All Committees have written Terms of References and the Board receives reports on their proceedings and deliberations.\" (neutral, factual)\n• Evidence 2: \"The Nominating Committee members and their attendance records for meetings held during the financial year ended 31 March 2021 are as follows: -\" (specific, objective data)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Nominating Committee comprises exclusively of Independent Non-Executive Directors, in compliance with the MMLR.\" (clear, direct language)\n• Evidence 2: \"No. of Meetings Held Attendance\" (precise, structured presentation of data)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Nominating Committee comprises exclusively of Independent Non-Executive Directors, in compliance with the MMLR.\" (clear structure with precise terminology)\n• Evidence 2: \"The Terms of Reference for the Nominating Committee is available for download...\" (direct language with actionable information)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The Nominating Committee reported the results of all evaluations and assessments to the Board for review and deliberation.\" (relevant to investor decision-making about governance effectiveness)\n• Evidence 2: \"Further disclosure on the Remuneration Committee... can be found in Practice 6.1 and 6.2 of the CG Report.\" (references additional relevant information but lacks standalone detail)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Remuneration Committee was formed to assist the Board in determining...\" (relevant to investor understanding of governance structures)\n• Evidence 2: \"Please refer to Practice 4.4, 4.5 4.6, 4.7 and 5.1...\" (links to additional governance-related details)"
   }
 }

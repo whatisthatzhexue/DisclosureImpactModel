@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"I can confirm that one of the individuals questioned was a tenant at the house where the incident occurred. This individual took the video,\" he said.\n• Evidence 2: \"The suspect is currently under police remand,\" he said."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or any connection to the company's operations, financials, or stakeholders.\n• Evidence 2: The incident described is unrelated to the company's business activities or strategic direction."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Several videos have been circulated on social media that have allegedly been linked to the case,\" providing some context.\n• Evidence 2: The article includes basic details about the incident (knife seizure, suspect remand) but lacks broader background, timelines, or analysis of implications."
+  }
+}

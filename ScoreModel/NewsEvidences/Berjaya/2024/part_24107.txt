@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We came away feeling upbeat on the prospects the group has for its IBS products.\" (RHB Research report)\n• Evidence 2: \"RHB Research estimates Gamuda’s pre-cast orderbook to be around RM300mil as of its financial year ended July 31, 2023 (FY23).\" (Verifiable financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We view its IBS capabilities may position the group to capture data centre opportunities within the Klang Valley\" (Direct link to strategic positioning)\n• Evidence 2: \"RHB Research has a new higher target price of RM6.46... considering the Johor Baru-Singapore Rapid Transit System Link\" (Strategic market impact and financial implications)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Gamuda’s plants in Banting and Sepang have a total maximum combined production capacity of about 10,000 residential units per year\" (Specific operational data)\n• Evidence 2: \"Profit before tax margins between 10% and 12%\" (Quantifiable financial analysis)"
+  }
+}

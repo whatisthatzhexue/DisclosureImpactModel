@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Spanning 183m in length and six metres in height, the mural is part of a joint corporate social responsibility initiative between Kuala Lumpur City Hall (DBKL) and Berjaya Group Bhd.\" (verifiable project details)\n• Evidence 2: \"This mural is aimed at conveying a message of inclusivity and unity...\" (direct quote from DBKL statement, no fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Spanning 183m... joint CSR initiative between DBKL and Berjaya Group Bhd\" (mentions Berjaya Group Bhd's CSR involvement, but no direct link to Berjaya Food Berhad's business strategy)\n• Evidence 2: \"Berjaya founder Tan Sri Vincent Tan...\" (no connection to company's financial performance or strategic direction)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Titled 'Mural Batik Madani', the artwork carries a message of inclusivity...\" (context about the mural's purpose and cultural significance)\n• Evidence 2: \"Work on the mural began on Feb 11 and was completed by March 24...\" (specific timeline and project management details)"
+  }
+}

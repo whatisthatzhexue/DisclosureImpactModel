@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BRoasters recorded a revenue of RM92.7 million, a decrease of 4.8% compared to RM97.4 million in the previous financial year. This was mainly due to the closure of 8 non-performing stores during the year and a reduction in menu pricing in October 2017.\"\n• Evidence 2: \"For the financial year ended 30 April 2018, BRoasters recorded a higher loss before tax of RM6.7 million compared to the loss before tax of RM4.2 million in the previous financial year, mainly due to an increase in operating expenses and depreciation, as well as a reduction in interest income.\"\n• Evidence 3: \"Besides the closure of non-profitable stores, the management undertook a staff-restructuring exercise and increased labour productivity and efficiency which contributed to lower losses.\""
+    "justification": "• Evidence 1: \"revenue of RM92.7 million, a decrease of 4.8% compared to RM97.4 million... mainly due to the closure of 8 non-performing stores... reduction in menu pricing\"\n• Evidence 2: \"higher loss before tax... mainly due to an increase in operating expenses and depreciation... reduction in interest income\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BRoasters recorded a revenue of RM92.7 million, a decrease of 4.8% compared to RM97.4 million in the previous financial year. This was mainly due to the closure of 8 non-performing stores during the year and a reduction in menu pricing in October 2017.\"\n• Evidence 2: \"Adopting the walkthrough concept has helped KRR improve guest servicing, reduce wastage and manage resources more efficiently.\""
+    "justification": "• Evidence 1: \"revenue of RM92.7 million, a decrease of 4.8% compared to RM97.4 million\" (precise numerical comparison)\n• Evidence 2: \"adopting the walkthrough concept has helped KRR improve guest servicing, reduce wastage and manage resources more efficiently\" (clear cause-effect explanation)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BRoasters recorded a decrease in revenue to RM28.2 million from RM33.4 million in the previous financial year, mainly due to the closure of 14 non-performing stores in the financial year 2017.\"\n• Evidence 2: \"Jollibean Foods will also strengthen its brand presence among the younger generation through digital and social media channels. Jollibean Foods will also continue to develop innovative food and beverage products to attract and retain public interest.\""
+    "justification": "• Evidence 1: \"revenue decrease... mainly due to closure of 14 non-performing stores... staff-restructuring exercise\" (explains performance changes)\n• Evidence 2: \"target of opening 6-10 new stores... strengthen brand presence through digital channels\" (forward-looking information)"
   }
 }

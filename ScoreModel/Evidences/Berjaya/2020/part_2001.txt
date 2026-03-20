@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 1,
-    "justification": "• Evidence 1: No specific factual information or risk disclosures\n• Evidence 2: Text lacks objective data or neutral statements"
+    "score": 2,
+    "justification": "• Evidence 1: No specific facts or disclosures about risks, challenges, or uncertainties are provided in the text.\n• Evidence 2: The text contains typos (e.g., 'Annu A l Repo R t') and lacks objective, neutral information about the company's operations or financials."
   },
   "Understandability": {
-    "score": 2,
-    "justification": "• Evidence 1: Text lacks clear structure or logical organization\n• Evidence 2: Obscure expressions like 'Annu A l Repo R t' instead of proper formatting"
+    "score": 4,
+    "justification": "• Evidence 1: The text has typos ('Annu A l Repo R t 2020 003') and lacks clear structure or logical flow.\n• Evidence 2: The corporate profile section is overly brief and does not use precise language to convey meaningful information."
   },
   "Relevance": {
     "score": 1,
-    "justification": "• Evidence 1: No forward-looking information or material events disclosed\n• Evidence 2: No mention of corporate governance or investor-relevant data"
+    "justification": "• Evidence 1: The text provides no forward-looking information, risks, material events, or details about corporate governance/management.\n• Evidence 2: It lacks any content useful for investors' decision-making, such as performance explanations or financial context."
   }
 }

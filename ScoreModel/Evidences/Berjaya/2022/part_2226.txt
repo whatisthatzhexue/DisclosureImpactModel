@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"There were no significant cases of non-compliance discovered during our FY2022 inspections\"\n• Evidence 2: \"Potential or new suppliers are subject to an environmental risk assessment... to ensure their full compliance with our environmental standards\""
+    "score": 8,
+    "justification": "• Evidence 1: \"There were no significant cases of non-compliance discovered during our FY2022 inspections\"\n• Evidence 2: \"BFood requires food and non-food suppliers to adhere to the following standards and risk assessments...\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Supplier Standards Product Standards\" (clear section headers)\n• Evidence 2: \"The Group communicates its expectations of major suppliers through regular communication and training relevant supplier staff\" (precise language)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Supplier Standards Product Standards\" with clear categorization (Food/Non-food)\n• Evidence 2: \"Random and timely inspection audits are conducted on suppliers\" (precise language)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Group will continue to mitigate environmental impacts... through participating and collaborating in workshops and industry-specific initiatives\"\n• Evidence 2: \"BFood requires food and non-food suppliers to adhere to... ethical sourcing and security\" (includes compliance requirements relevant to investors)"
+    "justification": "• Evidence 1: \"BFood evaluates BJoybean’s suppliers... before their appointment\" (supplier risk assessment)\n• Evidence 2: \"The Group will continue to mitigate environmental impacts... through workshops and initiatives\" (forward-looking information)"
   }
 }

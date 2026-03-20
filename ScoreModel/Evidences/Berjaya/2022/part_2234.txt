@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"BFood performed separate calculations for business and economy class flights.\" (shows methodological rigor)\n• Evidence 2: \"CO2 emissions from fuel consumption were derived from the emission factor published by the IPCC Guidelines\" (references authoritative sources)"
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood’s business travel resulted in an estimated 44 tonnes of carbon dioxide equivalent in FY2022\" (specific factual data)\n• Evidence 2: \"Online tools derived from the WRI Greenhouse Gas Protocol were used to calculate the CO2 emissions from air travel\" (objective methodology)"
   },
   "Understandability": {
     "score": 5,
-    "justification": "• Evidence 1: \"BFood continued replacing traditional lighting with energy-saving LED and induction alternatives\" (clear, specific action)\n• Evidence 2: \"Ground travel, comprising car, bus and boat journeys, was calculated using:...\" (attempted clarity but lacks logical flow)"
+    "justification": "• Evidence 1: \"SCOPE 3: COVERAGE: ENTIRE GROUP (100%) 100%\" (vague phrasing without explanation)\n• Evidence 2: \"BFood commit to addressing energy use and efficiency\" (grammatical error and lack of clarity in commitment phrasing)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"BFood commit to addressing energy use and efficiency\" (directly addresses investor concerns)\n• Evidence 2: \"BFood’s business travel resulted in an estimated 44 tonnes of carbon dioxide equivalent in FY2022\" (quantifiable performance metric)"
+    "justification": "• Evidence 1: \"BFood commit to addressing energy use and efficiency\" (forward-looking statement relevant to investors)\n• Evidence 2: \"BFood’s operations team inspects every store’s energy consumption and efficiency\" (operational details relevant to sustainability performance)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood was incorporated in Malaysia on 21 October 2009.\" [specific factual date]\n• Evidence 2: \"BStarbucks is now a 100% owned subsidiary of BFood.\" [clear ownership statement]"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood completed the acquisition of 11,500,000 ordinary shares...\" [precise transaction details]\n• Evidence 2: \"Ser Vegano operates 'SALA', which is a Latin-inspired...\" [clear concept description]"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood completed the acquisition of 11,500,000 ordinary shares...\" [material event for investors]\n• Evidence 2: \"As of 30 June 2022, there are 356 stores nationwide.\" [operational performance metric]"
+  }
+}

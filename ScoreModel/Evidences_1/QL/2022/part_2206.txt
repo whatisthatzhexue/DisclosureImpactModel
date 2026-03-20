@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reviewed recurrent related party transactions of a revenue or trading nature... on normal commercial terms and within the mandate given by shareholders.\"\n• Evidence 2: \"The Board... provides reasonable assurance that risks are managed within tolerable ranges.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed and recommended to the Board for approval, the Circular to Shareholders...\" clearly outlines actions taken.\n• Evidence 2: \"The Risk Management Committee ensures the implementation...\" uses precise language to describe responsibilities."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Disclosure of related party transactions\" directly addresses investor concerns about transparency.\n• Evidence 2: \"Risk Management and Internal Control\" sections provide critical governance and operational risk information."
+  }
+}

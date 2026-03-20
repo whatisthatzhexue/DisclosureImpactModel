@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Fire and Rescue Department has deployed a fire engine with six personnel...\" (direct quote from official source)\n• Evidence 2: \"The development project...has been approved since 2022...\" (specific detail with official confirmation)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its operations\n• Evidence 2: Incident relates to infrastructure/fire safety, not company-specific business performance or strategic initiatives"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"9.8m-deep crater...21m by 24m\" (specific spatial data)\n• Evidence 2: \"75 are being treated at Hospital Sultan Idris Shah...36 others at various other hospitals\" (comprehensive casualty distribution data)"
+  }
+}

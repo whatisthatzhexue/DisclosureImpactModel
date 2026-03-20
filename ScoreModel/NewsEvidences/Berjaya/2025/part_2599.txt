@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We want young men and women to leave us at 18 years old, confident that we have discovered everything that lies within them...\" (direct quote from Gareth Pearson)\n• Evidence 2: \"Gen Z is expected to experience 16 jobs in six to 10 different countries in their lifetime...\" (specific claim supported by educational context)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or its business operations, financials, or strategic initiatives\n• Evidence 2: Focus on educational philosophy and school practices unrelated to food/beverage industry dynamics"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Pastoral care provides an environment for a child to feel happy, secure and loved so that they can thrive\" (comprehensive explanation of educational philosophy)\n• Evidence 2: \"These scholarships are designed to recognise and reward excellence...\" (specific details about school programs and their rationale)"
+  }
+}

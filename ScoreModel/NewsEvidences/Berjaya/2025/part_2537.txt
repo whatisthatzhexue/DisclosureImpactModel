@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Malaysia has a digital investment pipeline of RM59.1 billion as of April 2025\" (direct quote with specific data).\n• Evidence 2: \"US$1 billion Bersama Malaysia Initiative\" and \"US$2.2 billion GoSEA announcement\" (cited projects with verifiable figures)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or its operations, strategies, or financial performance.\n• Evidence 2: Focus on national digital infrastructure and economic projections, which are unrelated to the company's food and beverage sector."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Approved investments in data centres and cloud computing alone total RM113.8 billion\" (comprehensive financial data).\n• Evidence 2: \"Nearly 88,000 new jobs\" and \"25.5 per cent of GDP\" (contextualized impact analysis)."
+  }
+}

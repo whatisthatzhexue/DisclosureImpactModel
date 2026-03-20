@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood’s benefits schedules comply with local laws and applicable regulations.\" (specific factual compliance)\n• Evidence 2: \"BFood upholds its stand of equal pay for equal work and complies with all local laws.\" (objective statement with legal adherence)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Succession planning is one of the most crucial talent management functions...\" (clear structure with logical flow)\n• Evidence 2: \"Technical skills training: • The art of negotiation...\" (precise bullet points for clarity)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"All of these contribute to productivity and overall business performance as it matters to Sustainability.\" (links to sustainability, relevant for investors)\n• Evidence 2: \"Retaining talent is very important in the business...\" (addresses operational relevance but lacks forward-looking or risk information)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"No personally identifiable information such as IC number, name or phone number are collected,\" said MCMC deputy managing director Datuk Zurkarnain Mohd Yasin.\n• Evidence 2: \"We have no intentions to get information on individual whereabouts. MPD is considered as a new form of gathering statistical data.\""
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text focuses on MCMC's regulatory initiative and lacks direct connection to Berjaya Food Berhad's business operations, strategic direction, or market impact.\n• Evidence 2: No mention of Berjaya Food Berhad, its stakeholders, or financial implications for the company."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The data will be collected and stored on premise in MCMC for three years,\" providing context on data handling.\n• Evidence 2: \"We have started in Cyberjaya and Melaka. Then the Department of Statistics Malaysia (DOSM) will decide how it goes after that,\" offering detailed implementation phases."
+  }
+}

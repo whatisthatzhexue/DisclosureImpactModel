@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Post-mortem results have shown that the undergraduate student murdered... was not raped, said police.\" (Quotes police source with factual claim)\n• Evidence 2: \"We are conducting a thorough investigation...\" (Quotes official statement with procedural transparency)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad\" is not mentioned in the text.\n• Evidence 2: The article focuses on a university murder case unrelated to the company's operations, financials, or strategic direction."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The victim was living with five other students... leaving her alone at the hostel...\" (Provides contextual background about the incident)\n• Evidence 2: \"The university issued a statement... strengthening security procedures\" (Includes institutional response and implications for campus safety)"
+  }
+}

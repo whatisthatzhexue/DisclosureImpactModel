@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"We undertook our first materiality assessment in January 2017 to identify, prioritise, validate and review relevant sustainability issues.\"\n• Evidence 2: \"The change this year is the increased importance of Talent Management to the business.\""
+    "justification": "• Evidence 1: \"We undertook our first materiality assessment in January 2017 to identify, prioritise, validate and review relevant sustainability issues.\" (specific factual timeline)\n• Evidence 2: \"The change this year is the increased importance of Talent Management...\" (neutral acknowledgment of shifting priorities)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Under the Delivering Value through Social Collaboration, Human Capital Development & Innovation theme are: 1) Driving Economic Value; 2) Empowering Our People; and 3) Enhancing Social Well-being, and under the Managing Impacts & Conducting Business In A Responsible Manner theme are: 4) Eco-efficiency; 5) Responsible Supply Chain; and 6) Safety & Well-being.\"\n• Evidence 2: \"The F&NHB Sustainability and Risk Management Committee ensures that our business direction is guided by sustainability.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"Under the Delivering Value through Social Collaboration... theme are: 1) Driving Economic Value...\" (clear hierarchical structure)\n• Evidence 2: \"The SMC is supported by the Sustainability Development Working team...\" (precise explanation of organizational structure)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The right talent acquisition and capability building of our people are critical now more than ever, to accelerate F&NHB’s growth and innovation agenda.\"\n• Evidence 2: \"Our Sustainability Development Committee revisited the fifteen material issues identified last year and confirmed that these topics remain important.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"The right talent acquisition and capability building of our people are critical now more than ever...\" (forward-looking strategic emphasis)\n• Evidence 2: \"Sustainability is embedded in every level of operation...\" (explains operational integration for investors)"
   }
 }

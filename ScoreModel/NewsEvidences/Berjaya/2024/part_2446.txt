@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI rose 1.81 points to a fresh two-year high of 1,573.29\" (specific, verifiable data).\n• Evidence 2: \"Indicators were positive as the MACD Line hovered above the Signal Line, while the RSI firmed up above 50\" (technical analysis with factual metrics)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Top active securities were Berjaya Corp up two sen to 30.5 sen\" (mentions a company but not Berjaya Food Berhad).\n• Evidence 2: No discussion of Berjaya Food Berhad's strategic initiatives, financial performance, or competitive positioning."
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Economic wise, investors will be monitoring the release of Malaysia’s inflation data...\" (contextual market analysis).\n• Evidence 2: \"US markets turned choppy overnight...\" (broader market context but no company-specific insights)."
+  }
+}

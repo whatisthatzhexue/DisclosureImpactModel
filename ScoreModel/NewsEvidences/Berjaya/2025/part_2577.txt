@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"With this, we aim to extend our services to Asean member states and, eventually, to citizens from other developing countries,\" said Prof Zakri.\n• Evidence 2: The article cites a press release from UCSI and includes quotes from credible officials like Prof Zakri and Her Excellency Karima El Korri, with verifiable details about the MoU date (Feb 13) and location (Cyberjaya)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its operations, financials, or strategic initiatives.\n• Evidence 2: The focus on science diplomacy and academic partnerships lacks direct connection to the food and beverage industry or corporate strategy of the subject company."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of the MoU, joint master’s program, book launch, and high-level dialogue, including specific details about the initiative’s goals and participants.\n• Evidence 2: Context is given about the Asean Centre for Science Diplomacy and the book’s focus on global challenges, though it lacks financial data or stakeholder-specific insights relevant to Berjaya Food Berhad."
+  }
+}

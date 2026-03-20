@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Berjaya Food Bhd’s net loss widened to RM37.2mn for the 3QFY25 – marking its sixth straight quarterly loss – compared to RM29.8mn a year earlier, mainly due to weaker performance from its Kenny Rogers Roasters operations.\"\n• Evidence 2: \"Public Bank Bhd ... plans to raise its dividend payout to 60% of net profit in 2025, up from 57% in 2024, subject to usual factors including regulatory approval\""
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Berjaya Food Bhd’s net loss ... mainly due to weaker performance from its Kenny Rogers Roasters operations\" (directly ties to strategic performance factors).\n• Evidence 2: \"Pavilion REIT reported a 5% rise in net property income ... driven by higher rental income from Pavilion Bukit Jalil and Elite Pavilion Mall\" (strategic financial impact for stakeholders)."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Lotte Chemical Titan has secured a 10-year ethylene supply contract from PT Asahimas Chemical that is valued at more than RM743.5mn\" (specific financial context).\n• Evidence 2: \"Green Packet Bhd has proposed a share capital reduction to offset RM340mn in accumulated losses\" (quantitative detail on financial strategy)."
+  }
+}

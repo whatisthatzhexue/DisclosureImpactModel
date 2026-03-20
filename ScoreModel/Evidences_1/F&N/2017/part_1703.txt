@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board receives assurance from the CEO and Chief Financial Officer (\"CFO\") that the risk management and internal control system in place for the Group is adequate and effective...\" (neutral, objective assessment)\n• Evidence 2: \"The GRMF encompasses the risk management methodology... as described below: Risk identification and assessment...\" (specific, factual description of processes)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The RMC had held quarterly meetings to review the implementation of the risk management framework...\" (clear structure with time-specific actions)\n• Evidence 2: \"The ERM Validation Report summarises the risk management activities conducted...\" (precise terminology with defined purposes)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board is of the view that the Group's overall risk management... is sound and adequate...\" (directly addresses investor concerns about system adequacy)\n• Evidence 2: \"Recurrent related party transactions... are as follows:\" (provides material transaction details relevant to governance and transparency)"
+  }
+}

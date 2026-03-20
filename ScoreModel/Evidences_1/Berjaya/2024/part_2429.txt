@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks achieved a 98.5% SKU accuracy in the annual stock count in the warehouse as of 30 June 2024.\" (specific factual data)\n• Evidence 2: \"BFood's assessment processes for corruption and bribery risks evaluate and prioritise critical areas with high potential or likely influence over operations\" (disclosure of risk management processes)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood upholds stringent ethical standards, prioritising integrity, transparency, and accountability\" (clear, direct language)\n• Evidence 2: \"The Group actively promotes awareness of these policies through extensive communication and tailored training\" (precise explanation of implementation methods)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood's assessment processes for corruption and bribery risks evaluate and prioritise critical areas...\" (material risk disclosure relevant to investors)\n• Evidence 2: \"BFood conducts ethical training for its suppliers and contractors every two years\" (forward-looking information about compliance practices)"
+  }
+}

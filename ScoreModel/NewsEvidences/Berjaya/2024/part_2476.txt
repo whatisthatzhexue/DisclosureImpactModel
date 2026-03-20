@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Under its Sesama Mara initiative, the water utility company distributed 100 boxes of essential food items to B40 families in Flat Seri Kenari, Kajang.\"\n• Evidence 2: \"To date, 5,175 Box of Hope packages have been distributed to B40 families around Selangor, Kuala Lumpur and Putrajaya since the programme was introduced in June 2020.\"" 
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The public can contribute towards this effort through purchases at five Village Grocer outlets...\"\n• Evidence 2: \"Air Selangor also distributed bubur lambuk to orphanages, B40 families and the local community...\"" 
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Since the programme was introduced in June 2020\" provides temporal context.\n• Evidence 2: \"distributed 100 boxes of essential food items\" quantifies the initiative's scale." 
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"HR Owen plc...has become the sole British dealer partner for Danish hypercar manufacturer Zenvo Automotive.\" (verifiable factual statement)\n• Evidence 2: \"Zenvo chairman and chief commercial officer Jens Sverdrup said HR Owen’s reputation...\" (direct quote from credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"HR Owen’s approach...to work with brands that aim to redefine luxury and performance.\" (direct link to strategic direction)\n• Evidence 2: \"With production of the Aurora commencing this year...strengthen our presence in the British market.\" (market impact and forward-looking strategy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Founded in 2007, Zenvo is headquartered on the island of Zealand, in Denmark.\" (basic background context)\n• Evidence 2: \"HR Owen is a luxury automotive dealer group, with 17 dealerships across Britain.\" (quantitative detail about operations)"
+  }
+}

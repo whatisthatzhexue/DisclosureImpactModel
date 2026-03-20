@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This will spearhead our economic growth...\" (Lee Ting Han)\n• Evidence 2: \"Federal Government had approved RM144bil...\" (Lee Ting Han) with specific figures and direct quotes from officials"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Johor has the right ecosystem...\" (Lee Ting Han) [indirectly relevant to regional economic strategy]\n• Evidence 2: \"MyDigital initiative...\" (Equinix president) [government policy alignment]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"13 companies are either in discussions...\" (Lee Ting Han) [quantitative data]\n• Evidence 2: \"Two-storey JH1 facility...\" (Details on facility specifications and location)"
+  }
+}

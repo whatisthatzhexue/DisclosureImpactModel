@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Gamuda Bhd continues to anticipate its performance...\" [verifiable financial data]\n• Evidence 2: \"The group said its resilience is underpinned by an all-time-high construction order book of RM30bil...\" [specific, measurable claims with company filing source]"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Overseas earnings contribute almost half of total construction earnings...\" [direct link to strategic focus areas]\n• Evidence 2: \"On the data centre front...contract valued at RM451.4mil...\" [specific strategic initiative with financial impact]"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The results equates to an earnings per share of 7.31 sen...\" [comprehensive financial metrics]\n• Evidence 2: \"Domestic property revenue and earnings rose 33% and 389%...\" [detailed segmentation of performance]"
+  }
+}

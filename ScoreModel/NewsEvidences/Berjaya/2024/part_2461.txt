@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Tan is in talks with banks about financing for a potential deal, said the people, asking not to be named as the matter is private.\" (Unnamed sources but attributed to Bloomberg, a credible outlet)\n• Evidence 2: \"Shares of Berjaya Food... have dropped about 28%... market value of US$229mil.\" (Specific verifiable financial data provided)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Berjaya Food... owns 100% of Starbucks Corp’s Malaysian operations\" (Directly ties to company's core business and strategic assets)\n• Evidence 2: \"Deliberations are preliminary... go-private deal for Berjaya Food\" (Highlights potential strategic shift impacting long-term value creation)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"As of June 30, 2023, Starbucks Malaysia had 393 stores... Kenny Rogers Roasters had 80 stores.\" (Provides contextual operational data)\n• Evidence 2: \"Berjaya Corp... has a deemed interest of 55% in Berjaya Food\" (Explains corporate structure but lacks analysis of implications)"
+  }
+}

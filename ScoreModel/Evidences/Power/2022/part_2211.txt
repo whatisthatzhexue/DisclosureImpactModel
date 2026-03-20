@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: 'The Nominating Committee comprised exclusively Independent Non-Executive Directors, which is in compliance with the MMLR' (neutral, factual statement).\n• Evidence 2: 'The Terms of Reference for the Nominating Committee is available on the company’s website' (transparent and verifiable information)."
+    "justification": "• Evidence 1: \"The Board has delegated specific duties to four -4 Board Committees...\" (neutral, factual description of governance structure)\n• Evidence 2: \"...which is in compliance with the MMLR\" (specific regulatory reference)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: 'The Nominating Committee members and their attendance records for meetings held during the financial year ended 31 March 2022 are as follows' (clear structure and direct presentation).\n• Evidence 2: 'Redesignated as Non-Independent Non-Executive Director on 1 April 2022' (precise and unambiguous language)."
+    "justification": "• Evidence 1: \"The Terms of Reference for the Nominating Committee is available on the company’s website...\" (clearly states information location)\n• Evidence 2: \"Nominating Committee Position & Designation...\" (structured presentation of member details)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: 'The Nominating Committee is guided by written Terms of Reference duly approved by the Board' (relevant to governance structure but lacks risk or material event disclosure).\n• Evidence 2: 'Please refer to Practice 9.1... on disclosures in relation to the Audit Committee' (indirect reference to additional relevant information)."
+    "score": 7,
+    "justification": "• Evidence 1: \"...comprised exclusively Independent Non-Executive Directors...\" (material governance information for investors)\n• Evidence 2: \"The Terms of Reference...duly approved by the Board\" (relevant governance process disclosure)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The video clip uploaded on his social media platform is seen as offensive content that may violate provisions under the Communications and Multimedia Act 1998 (Act 588)\".\n• Evidence 2: \"Once the investigation paper is ready, it will be submitted to the Attorney General for further action\"."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The content focuses on a legal investigation against an unrelated individual (Aliff Syukri) and does not connect to the company's strategic direction, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The investigation was being conducted under Section 233, and if found guilty, the individual could be fined a maximum of RM50,000, or a maximum imprisonment of up to one year, or both\".\n• Evidence 2: \"MCMC added that investigating officers had seized a sim card believed to belong to the suspect and a mobile phone used to upload the video clip, to assist in the investigation\"."
+  }
+}

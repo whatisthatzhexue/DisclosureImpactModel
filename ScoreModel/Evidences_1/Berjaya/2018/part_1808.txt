@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the data collection remains limited to selected economic, environment and social indicators...\" (discloses scope limitations)\n• Evidence 2: \"The information and data disclosed in this statement were derived from internal reporting processes, systems and records.\" (supports claims with specific facts)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The scope of the inaugural sustainability statement covers material issues...\" (clear structure with specific scope definition)\n• Evidence 2: \"the Company formalised its sustainability journey with the setting up of a Sustainability Working Group...\" (precise explanation of governance processes)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the findings were then submitted to the Sustainability Working Group for evaluation...\" (shows internal decision-making process relevant to governance)\n• Evidence 2: \"the Company strives to support economic growth...\" (links sustainability approach to investor-relevant outcomes)"
+  }
+}

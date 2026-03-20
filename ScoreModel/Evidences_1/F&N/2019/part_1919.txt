@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Restated for adjustments pursuant to the adoption of MFRS 15, Revenue from Contracts with Customers. Comparatives for financial years prior to 2018 have not been restated.\"\n• Evidence 2: \"Included proposed dividend of 33.0 sen, which will only be recognised in the financial statements upon shareholders’ approval.\""
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"5-YEAR GROUP FINANCIAL HIGHLIGHTS\" section with numerical data but lacks contextual explanation for percentage changes.\n• Evidence 2: Repetitive formatting of financial figures across multiple sections without clear headings or subheadings."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"GROUP SEGMENTAL ANALYSIS\" provides geographical/business segment revenue breakdowns relevant to investors.\n• Evidence 2: \"I. BOARD RESPONSIBILITIES\" section includes corporate governance practices and risk management frameworks."
+  }
+}

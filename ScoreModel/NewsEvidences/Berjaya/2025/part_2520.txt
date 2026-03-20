@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Star Education Fair 2025 in Penang has opened with eager students and their families thronging the Setia Spice Convention Centre here on Saturday (June 14)\".\n• Evidence 2: \"Admission to the event is free with door gifts for early birds\"."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The Star Education Fair... is organised by Star Media Group\" (no mention of Berjaya Food Berhad or its strategic priorities).\n• Evidence 2: \"The fair... offers various tertiary study options and financial assistance\" (no connection to food/beverage industry or company-specific business operations)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The fair from 11am to 7pm... is offering various tertiary study options and financial assistance such as study loans and scholarships\".\n• Evidence 2: \"Among major exhibitors are... Han Chiang University College of Communication (HCUC)... [list of 57 institutions]\"."
+  }
+}

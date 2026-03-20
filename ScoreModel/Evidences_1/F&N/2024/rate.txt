@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The majority of scoring results (e.g., 9s and 8s) reflect strong reliability through specific factual disclosures (e.g., 'Audit Committee evaluations of auditors', 'quantifiable risk metrics'), neutral process descriptions, and third-party validations (e.g., LRQA). Lower scores (e.g., 1s and 6s) stem from minimal content or vague statements (e.g., section headers without explanations). The high scores dominate due to consistent objective reporting of governance processes, risk management frameworks, and compliance with standards (e.g., TCFD, GRI)."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "Scores range from 1 to 9, with higher values (e.g., 9s and 8s) reflecting direct links to investor concerns (e.g., 'climate-related risks', 'ESG initiatives', 'material corporate actions'). Lower scores (e.g., 1s and 2s) arise from sections lacking forward-looking information or material event disclosures (e.g., 'SUSTAINABILITY STATEMENT' with no substantive content). The majority of scores (7–9) indicate relevance through strategic alignment with regulatory requirements and investor interests, while exceptions highlight gaps in materiality or risk disclosure."
+  },
+  "Understandability": {
+    "score": 8.5,
+    "justification": "High scores (e.g., 9s and 8s) are driven by clear structures (e.g., 'heat maps', 'bullet points'), precise language (e.g., 'specific numerical data'), and logical segmentation (e.g., 'segmented information'). Lower scores (e.g., 1s and 2s) result from poor formatting (e.g., 'SECTION 7 1 3 2 4 5 6 8 9 151') or lack of explanation (e.g., 'no structured content'). The overall score reflects consistent clarity in most sections, with exceptions due to formatting issues or insufficient detail in specific areas."
+  }
+}

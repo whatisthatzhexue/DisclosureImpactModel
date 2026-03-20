@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "The majority of scoring results (e.g., 9, 8, 7) highlight robust reliability through specific factual disclosures (e.g., cause-effect relationships, quantitative data, risk transparency), neutral statements, and structured methodologies. Lower scores (e.g., 5, 1) are due to insufficient risk disclosure or vague statements, but these are outliers. The final score of 8 balances comprehensive evidence of factual accuracy, neutrality, and methodological rigor against occasional gaps in risk analysis."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "High scores (e.g., 9, 8) emphasize relevance through explanations of performance changes, forward-looking strategies, and material events (e.g., store expansion, cost optimization). Lower scores (e.g., 4, 5) lack contextual analysis or investor-focused insights, but these are exceptions. The score of 8 reflects strong alignment with investor needs, including risk mitigation, strategic planning, and governance mechanisms, while acknowledging minor gaps in forward-looking disclosures."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "Most scoring results (e.g., 9, 8, 7) demonstrate clear, precise language, structured formatting, and numerical clarity (e.g., precise financial data, logical section headings). Lower scores (e.g., 5, 1) cite vague phrasing or lack of structure, but these are outliers. The final score of 8 captures the dominance of direct explanations, organized content, and avoidable ambiguity, while addressing minor inconsistencies in some entries."
+  }
+}

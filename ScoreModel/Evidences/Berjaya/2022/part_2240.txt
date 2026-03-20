@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood takes every opportunity to ensure that it provides a positive working environment free from harassment and discrimination. Unfortunately, it is impossible to prevent these isolated incidents from occurring entirely.\" (acknowledges challenges without overstatement)\n• Evidence 2: \"Employees Turnover Rates (%)\" (specific metric referenced, though no actual rates provided)"
+    "score": 5,
+    "justification": "• Evidence 1: \"BStarbucks won three categories in Asia Pacific Enterprise Awards...\" (no context or risks disclosed)\n• Evidence 2: \"Employees can raise their grievances...\" (generic procedure without specific risks or challenges)"
   },
   "Understandability": {
-    "score": 4,
-    "justification": "• Evidence 1: \"Workforce Breakdown by Gender in FY2022\" (imprecise without visual context or numerical clarification)\n• Evidence 2: \"5,260 3,262 323 826 2,871 5,328 30% 21% 15%\" (fragmented numerical data without clear labels or explanations)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Workforce Breakdown by Gender...\" (clear structure but lacks contextual explanation)\n• Evidence 2: \"5,260 3,262 323 826 2,871 5,328 30% 21% 15%\" (ambiguous data presentation without labels)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"BFood values the differences and diversity of opinions, employee skills and experience. Diversity drives growth sustainably.\" (links diversity to business strategy)\n• Evidence 2: \"GRIEVANCE PROCEDURE\" (addresses internal management but lacks connection to financial or operational risks)"
+    "score": 4,
+    "justification": "• Evidence 1: \"A solid commitment to diversity...\" (no link to investor decision-making)\n• Evidence 2: \"Employees Turnover Rates (%)\" (no analysis or forward-looking information)"
   }
 }

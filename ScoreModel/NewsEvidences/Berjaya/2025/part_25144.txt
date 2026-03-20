@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MRCB has decided to withdraw from the consortium to pursue other strategic opportunities\" (verifiable factual statement).\n• Evidence 2: \"The consortium and its technical partners are recognised leaders...\" (citing consortium expertise with no bias)."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"MRCB has withdrawn... to pursue other strategic opportunities\" (directly relates to company's strategic shift).\n• Evidence 2: \"Malaysia was required to compensate Singapore S$102.8mil\" (financial implication for stakeholders)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The HSR project was formally agreed... initially slated for completion by 2026\" (historical context and timeline).\n• Evidence 2: \"The consortium and its technical partners... decades of proven expertise\" (detailed explanation of consortium capabilities)."
+  }
+}

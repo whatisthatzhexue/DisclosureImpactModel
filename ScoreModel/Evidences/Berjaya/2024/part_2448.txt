@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Generic Chemical Health Risk Assessment (\"GCHRA\") covering 400 stores across Malaysia, with physical assessment at six stores on January 2024 found no significant issues.\"\n• Evidence 2: \"BStarbucks, BFS and BRoasters have established their own set of safety guidelines... tailored to specific needs.\""
+    "justification": "• Evidence 1: \"The Generic Chemical Health Risk Assessment (\"GCHRA\") covering 400 stores across Malaysia, with physical assessment at six stores on January 2024 found no significant issues.\"\n• Evidence 2: \"All BStarbucks and BFS suppliers must adhere to the Global Food Safety Initiative (\"GFSI\")...\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Safety is a top priority and with a policy established at group level. However, BStarbucks, BFS and BRoasters have established their own set of safety guidelines.\"\n• Evidence 2: \"The event promoted ownership of food safety through engaging activities such as knowledge refreshers, games, quizzes, and interactive sessions.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"SAFETY FIRST ALWAYS\" section provides clear prioritization of safety policies.\n• Evidence 2: \"Weekly knowledge content on topics such as Personal Hygiene, Temperature Control...\" (structured bullet points)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"All BStarbucks and BFS suppliers must adhere to the Global Food Safety Initiative (\"GFSI\")...\"\n• Evidence 2: \"BFood prioritises employee (\"partner\") well-being through a range of engaging activities...\""
+    "justification": "• Evidence 1: \"Health and Safety in the Supply Chain\" section addresses supplier compliance with GFSI standards.\n• Evidence 2: \"BFood prioritises employee (\"partner\") well-being...\" (corporate governance and employee welfare)"
   }
 }

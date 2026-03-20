@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"This new line uses advanced technology that enables 40 per cent lesser PET resin packaging material use.\" (specific factual claim)\n• Evidence 2: \"We are making good progress towards having at least one healthier choice in each product category by 2020; there are currently healthier options in nine out of 12 product categories.\" (forward-looking statement with measurable progress)"
+    "score": 8,
+    "justification": "• Evidence 1: \"This new line uses advanced technology that enables 40 per cent lesser PET resin packaging material use.\" (specific fact)\n• Evidence 2: \"We believe that working as a team is the best way to achieve our aim of zero lost days due to accidents.\" (neutral statement with measurable goal)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Sponsored 10 milking tester machines to 10 milk cooperatives, helping 3,500 farmers in improving milk quality\" (clear, concise phrasing)\n• Evidence 2: \"Our 135 years of success are built on mutual trust by our customers\" (direct language but lacks contextual explanation for broader understanding)"
+    "justification": "• Evidence 1: \"Sponsored 10 milking tester machines to 10 milk cooperatives, helping 3,500 farmers in improving milk quality\" (clear, direct language)\n• Evidence 2: \"We are making good progress towards having at least one healthier choice in each product category by 2020\" (precise timeframe and metric)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"We believe that working as a team is the best way to achieve our aim of zero lost days due to accidents.\" (relevant to investor concerns about workplace safety)\n• Evidence 2: \"We will continue to innovate our products and continue our progress to achieve our 2020 target.\" (forward-looking information for strategic decision-making)"
+    "score": 7,
+    "justification": "• Evidence 1: \"We will continue to innovate our products and continue our progress to achieve our 2020 target\" (forward-looking information)\n• Evidence 2: \"Enhancing Supplier Productivity\" section (relevant to investors' assessment of operational efficiency)"
   }
 }

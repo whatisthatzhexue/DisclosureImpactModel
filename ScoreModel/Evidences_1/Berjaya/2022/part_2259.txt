@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"transactions are undertaken on an arm’s length basis, on normal commercial terms consistent with the Company’s business practices and policies\" (neutral, factual disclosure)\n• Evidence 2: \"the distribution of dividend was in accordance with the provision made under the Companies Act 2016\" (specific legal compliance reference)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reviewed and recommended to the Board for approval, the ARMC Report...\" (clear action-oriented language)\n• Evidence 2: \"total cash consideration of RM15,674,750.00 or at RM650.00 per square foot\" (precise numerical data)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the risk register covering areas such as the likelihood of occurrence...\" (directly addresses risk management)\n• Evidence 2: \"recommended to the Board for approval the revised External Auditors Policy\" (pertinent to corporate governance and oversight)"
+  }
+}

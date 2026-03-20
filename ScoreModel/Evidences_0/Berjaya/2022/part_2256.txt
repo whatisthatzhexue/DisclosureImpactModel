@@ -1,6 +1,0 @@
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 1, "justification": "• Evidence 1: No disclosure of risks, challenges, or uncertainties\n• Evidence 2: No specific facts or objective information provided"},
-  "Understandability": {"score": 2, "justification": "• Evidence 1: Simple structure with minimal content\n• Evidence 2: Vague and redundant phrases (e.g., 'STATEMENT ON RISK MANAGEMENT AND INTERNAL CONTROL')"},
-  "Relevance": {"score": 1, "justification": "• Evidence 1: No mention of risks, material events, or corporate governance\n• Evidence 2: No forward-looking information or performance explanations"}
-}

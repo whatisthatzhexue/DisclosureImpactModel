@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"THE INCREASE IN COMMODITY COSTS COMBINED WITH LINGERING EFFECTS OF THE PANDEMIC – SUCH AS SUPPLY CHAIN DISRUPTIONS AND HEIGHTENED FREIGHT COSTS – LED TO ANOTHER YEAR OF CHALLENGES...\" (discloses risks and challenges)\n• Evidence 2: \"contributed by Exports due to better region and product mix, as well as foreign exchange gain despite registering lower volume...\" (provides specific context for performance factors)"
+    "justification": "• Evidence 1: \"THE INCREASE IN COMMODITY COSTS COMBINED WITH LINGERING EFFECTS OF THE PANDEMICSUCH AS SUPPLY CHAIN DISRUPTIONS AND HEIGHTENED FREIGHT COSTS – LED TO ANOTHER YEAR OF CHALLENGES...\" (discloses risks and challenges)\n• Evidence 2: \"OUT-OF-HOME CONSUMPTION ROSE PROGRESSIVELY... F&B MALAYSIA PULLED TOGETHER VERY STRONG TOP AND BOTTOM LINE PERFORMANCE.\" (balances positive outcomes with contextual factors)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Completed the building and installation of RM20 million drinking water production plant...\" (precise, factual description)\n• Evidence 2: \"Retained market leadership in isotonic segment, condensed milk category and evaporated milk category\" (clear, specific achievement statement)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Completed the building and installation of RM20 million drinking water production plant...\" (precise, specific details)\n• Evidence 2: \"Expanded to 4 new countries: Palestine, Bhutan, Suriname & Guyana.\" (clear structure with bullet points)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"STRATEGIC OBJECTIVE 1: ENHANCE REVENUE...\" (forward-looking initiatives and performance drivers)\n• Evidence 2: \"Expanded to 4 new countries...\" (material events impacting global footprint)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Recalibrated our Export market and product mix to achieve higher profit.\" (forward-looking strategic adjustments)\n• Evidence 2: \"Retained market leadership in isotonic segment...\" (explains performance changes and market positioning)"
   }
 }

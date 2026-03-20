@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TA Research made no changes to the company’s earnings forecasts.\" (verifiable data and source cited)\n• Evidence 2: \"KIP-REIT reported a 3% decrease in its net profit... owing to higher operating expenses...\" (specific financial data with explanation)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"align with KIP-REIT’s strategy to expand operations and increase total assets under management...\" (direct link to strategic goals)\n• Evidence 2: \"committed to disciplined capital management and aims to deliver sustainable returns to unitholders\" (stakeholder-focused strategic emphasis)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"revenue for 1Q25 rose by 19.4% y-o-y... driven by higher occupancy rates...\" (specific performance metrics with context)\n• Evidence 2: \"rise in management fees was driven by higher charges from service providers...\" (detailed explanation of cost drivers)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites Bernama as the source, a credible Malaysian news agency.\n• Evidence 2: The text includes detailed legal procedures, court decisions, and quotes from judges and prosecutors, which align with factual reporting."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or any business-related activities.\n• Evidence 2: The content is entirely focused on a criminal legal case, unrelated to corporate strategy, financial performance, or market impact."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The text provides no context about Berjaya Food Berhad's operations, industry position, or stakeholder concerns.\n• Evidence 2: The article lacks data or analysis related to the company's business environment, financials, or strategic initiatives."
+  }
+}

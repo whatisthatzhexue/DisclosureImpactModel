@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: [exact quote] 'To ensure full compliance with relevant laws and regulations' (neutral, objective)\n• Evidence 2: [exact quote] 'To ensure sustainable supply of quality services and materials' (specific, factual)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: [exact quote] 'Stakeholder Group Engagement Objective(s) Preferred Engagement Method(s)' (clear structure)\n• Evidence 2: [exact quote] 'Management, operational and committee meetings' (precise, direct language)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: [exact quote] 'To improve customer’s satisfaction' (relevant to investor decision-making)\n• Evidence 2: [exact quote] 'Marketing and promotional programmes and events' (practical engagement methods)"
+  }
+}

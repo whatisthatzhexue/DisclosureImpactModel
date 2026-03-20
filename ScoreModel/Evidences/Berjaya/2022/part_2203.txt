@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Berjaya Starbucks Coffee Company Sdn Bhd (\"BStarbucks\") is a wholly-owned subsidiary of Berjaya Food Berhad (\"BFood\")\" [neutral factual statement]\n• Evidence 2: \"As at 30 June 2022, BStarbucks has 356 stores...\" [specific date and quantitative data]"
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks is a wholly-owned subsidiary of Berjaya Food Berhad\" (neutral factual statement)\n• Evidence 2: \"has 356 stores located throughout Malaysia\" (specific numerical data)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Store Location By Region\" [clear section heading]\n• Evidence 2: \"East Coast 18, Pahang 14...\" [direct numerical presentation of store distribution]"
+    "justification": "• Evidence 1: \"high-quality whole bean coffees, along with freshly brewed coffees...\" (clear product listing)\n• Evidence 2: \"Store Location By Region\" (logical categorization of data)"
   },
   "Relevance": {
-    "score": 4,
-    "justification": "• Evidence 1: \"has 356 stores located throughout Malaysia\" [basic operational information]\n• Evidence 2: \"a variety of pastries and confectioneries...\" [product offerings but no contextual analysis]"
+    "score": 5,
+    "justification": "• Evidence 1: \"356 stores located throughout Malaysia\" (useful operational data)\n• Evidence 2: Missing forward-looking information, risk disclosures, and performance analysis required for investor decision-making"
   }
 }

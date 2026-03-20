@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The shareholders of the Company approved the Proposed Renewal... during its AGM held on 25 August 2016.\" (specific factual disclosure)\n• Evidence 2: \"The Board has deliberated, reviewed and approved the Corporate Governance Statement on 7 July 2017.\" (objective, verifiable action)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The amount of audit fees and non-audit fees... RM1,124,000 RM189,000 RM327,000 RM327,000\" (specific numerical data)\n• Evidence 2: \"During the financial year under review, there were no... except as those disclose on RRPT transactions\" (neutral disclosure of compliance status)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The amount of audit fees and non-audit fees... were as follows:\" (clear structure with numerical data)\n• Evidence 2: \"The RMC... is chaired by the Group Managing Director.\" (precise, direct language about organizational structure)"
+    "justification": "• Evidence 1: \"The Board has deliberated, reviewed and approved... on 7 July 2017\" (clear temporal reference)\n• Evidence 2: \"The RMC... is chaired by the Group Managing Director\" (structured organizational description)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"In compliance with Bursa Malaysia Listing Requirements...\" (directly addresses regulatory requirements)\n• Evidence 2: \"The Board acknowledges their responsibility... to safeguard shareholders' investments\" (pertains to investor concerns)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The shareholders of the Company approved... during its AGM held on 25 August 2016\" (material governance information)\n• Evidence 2: \"In compliance with Bursa Malaysia Listing Requirements...\" (regulatory relevance for investors)"
   }
 }

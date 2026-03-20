@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RM129mil new headquarters project\" (specific financial figure)\n• Evidence 2: \"cost between RM8,000 to RM10,000 to cut down a tree\" (precise cost data)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"funded by the local council’s reserves\" (financial strategy)\n• Evidence 2: \"in line with efforts to reach the state’s 15% recycling goal by 2025\" (long-term environmental strategy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"18-storey building will be able to comfortably accommodate up to 1,500 workers\" (detailed project specifications)\n• Evidence 2: \"5.69 tonnes of recyclables have been collected\" (quantifiable outcome data)"
+  }
+}

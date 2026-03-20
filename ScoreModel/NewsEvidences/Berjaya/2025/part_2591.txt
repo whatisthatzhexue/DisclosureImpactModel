@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Critical Holdings Bhd... secured its first contract in the data-centre space, is experiencing promising growth...\" (specific factual claim)\n• Evidence 2: \"Phillip Capital Research said\" (credible source cited with verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"expanding into a high-growth sector alongside its semiconductor business\" (strategic direction and competitive positioning)\n• Evidence 2: \"target price of RM1.65 based on a 20 times price-earnings multiple\" (financial implications and market impact)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RM63.6mil project... Prai, Penang\" (specific project details and context)\n• Evidence 2: \"robust tender pipeline\" (forward-looking insight with quantitative data)"
+  }
+}

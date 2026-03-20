@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"13 road tax, 53 VOC, 13 driving licences and three commercial driving licences were reissued at the counter yesterday.\" (verifiable data)\n• Evidence 2: \"Prasarana Malaysia Bhd is providing free door-to-door shuttle services for the victims.\" (specific, credible entity cited)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Berjaya Group founder Tan Sri Vincent Tan has pledged to donate RM3,000 cash to each family.\" (indirect mention of Berjaya Group, not Berjaya Food Berhad)\n• Evidence 2: \"Proton Malaysia has also allocated RM250,000 for the victims.\" (no connection to Berjaya Food's strategic operations)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The counter began operating yesterday and will be open for two days, although it may be extended.\" (contextual detail about initiative duration)\n• Evidence 2: \"Forty vehicles are being provided to families whose cars had been destroyed or severely damaged...\" (specific data on resource allocation)"
+  }
+}

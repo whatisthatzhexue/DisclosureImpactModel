@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"contributed more than 1,000 cups of coffee to the COVID-19 frontline workers\" (specific, factual statement)\n• Evidence 2: \"raised approximately RM60,000\" (quantifiable, verifiable information)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks launched the Starbucks’ ‘Goods for Good’ campaign\" (clear structure with specific initiative name)\n• Evidence 2: \"each design was hand-drawn by Luqman himself\" (precise, direct description of artwork creation)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"donations collected will be used to fund consultation sessions for frontline health workers\" (directly links actions to impact)\n• Evidence 2: \"BFood is committed to strengthening the communities...\" (general statement about corporate responsibility, lacks specific investor-relevant metrics)"
+  }
+}

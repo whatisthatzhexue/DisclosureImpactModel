@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"We are excited to announce our strategic partnership with OCIC...\" (Kang Sovannarot, Country Head, Grab Cambodia)\n• Evidence 2: \"Koh Pich and Phnom Penh are evolving rapidly...\" (Thierry Tea, Vice-President of OCIC Group)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Partnership on mobility is just the beginning... GrabFood and GrabExpress\" (Kang Sovannarot)\n• Evidence 2: \"This collaboration represents another step forward... sustainable transportation ecosystem\" (Kang Sovannarot)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The transformation of Koh Pich has laid the foundation... 7,000 office workers\" (provides demographic context)\n• Evidence 2: \"An EV charging station in front of Connexion Community Hub... sustainable urban mobility\" (specific infrastructure detail)"
+  }
+}

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"BFood developed a structured programme with leading external and internal expertise.\" (specific fact)\n• Evidence 2: \"Suppliers must also construct and maintain facilities in compliance with applicable laws and regulations.\" (clear obligation statement)"
+    "score": 5,
+    "justification": "• Evidence 1: [exact quote] 'BFood developed a structured programme with leading external and internal expertise.' (potential overstatement of 'best employers globally')\n• Evidence 2: [exact quote] 'Suppliers must also construct and maintain facilities in compliance with applicable laws and regulations.' (specific factual requirement)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Accommodation must be clean, safe, and respectful of workers' dignity.\" (precise, direct language)\n• Evidence 2: \"PRIDE AND PURPOSE IN THE WORKPLACE\" (clear section heading)"
+    "justification": "• Evidence 1: [exact quote] 'Accommodation must be clean, safe, and respectful of workers' dignity.' (precise, direct language)\n• Evidence 2: [exact quote] 'Suppliers must also construct and maintain facilities in compliance with applicable laws and regulations.' (clear structure with bullet points)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Suppliers must also construct and maintain facilities in compliance with applicable laws and regulations.\" (relevant to operational standards)\n• Evidence 2: \"Accommodation must be clean, safe, and respectful of workers' dignity.\" (relevant to labor practices but lacks contextual explanation)"
+    "score": 4,
+    "justification": "• Evidence 1: [exact quote] 'BFood developed a structured programme with leading external and internal expertise.' (limited relevance to investor decision-making)\n• Evidence 2: [exact quote] 'Suppliers must also construct and maintain facilities in compliance with applicable laws and regulations.' (no mention of risks, material events, or corporate governance)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood’s procurement evaluates tenders in terms of pricing, credibility and other related matters such as compliance with labour law, Good Manufacturing Practice (\"GMP\"), and Hazard Analysis and Critical Control Points (\"HACCP\") requirements.\"\n• Evidence 2: \"All suppliers and vendors must agree to comply with Starbucks Global Human Rights Statements and Supplier Code of Conduct.\""
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Group’s Suppliers Code of Conduct includes the UN Global Compact principles.\"\n• Evidence 2: \"QA Supplier Approval and Compliance Verification Process\" (section header with complex process terminology)."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood requires existing suppliers to present a three-year roadmap...\" (forward-looking planning).\n• Evidence 2: \"Suppliers can notify the Group of known or suspected improper behaviour...\" (risk disclosure)."
+  }
+}

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"3 manufacturing plants have achieved ZERO waste to landfill\"\n• Evidence 2: \"Solid waste sent to landfill reduced by 54% against 2020 baseline\""
+    "justification": "• Evidence 1: \"3 manufacturing plants have achieved ZERO waste to landfill\" (specific factual claim)\n• Evidence 2: \"Third year assessment of climate-related risks and phased implementation of TCFD-based reporting\" (disclosure of risk assessment)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Converted waste to valuable resources\" (general statement, but specific examples follow)\n• Evidence 2: \"Generating over 6 million kWh of renewable energy annually\" (precise metric)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Converted waste to valuable resources\" (clear but vague phrasing)\n• Evidence 2: \"Generating over 6 million kWh of renewable energy annually\" (precise metric but lacks contextual explanation)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Third year assessment of climate-related risks and phased implementation of TCFD-based reporting\" (forward-looking risk disclosure)\n• Evidence 2: \"Introduced Internal Carbon Pricing initiative\" (strategic relevance for investors)"
+    "score": 5,
+    "justification": "• Evidence 1: \"Equivalent to CO2 emission offset by 29,000 trees\" (useful for investors but lacks performance change context)\n• Evidence 2: \"Internal Carbon Pricing initiative\" (corporate governance element but no implementation details)"
   }
 }

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Audit Committee was updated that there were no whistle blowing allegations during the financial year.\"\n• Evidence 2: \"The external auditors performed a limited assurance review of the Statement of Risk Management and Internal Control as required under the Burs. Securities Listing Requirements.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"there were no whistle blowing allegations during the financial year\"\n• Evidence 2: \"no significant matter of disagreement between the auditors and management\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Audit Committee had one meeting with the auditors without the presence of management.\"\n• Evidence 2: \"The amount incurred in respect of non-audit related fees amounted to RM220,000 (FY2017 RM213,000) and comprised the following assignments:\""
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee had one meeting with the auditors without the presence of management\" (clear structure)\n• Evidence 2: \"RM220,000 (FY2017 RM213,000)\" (precise numerical details)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Audit Committee is pleased to report that there was no significant matter of disagreement between the auditors and management.\"\n• Evidence 2: \"The external auditors performed review procedures to obtain reasonable assurance that the financial statements are free from material misstatement, whether caused by fraud or error.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"reappoint KPMG PLT for the ensuing financial year\" (decision-making context)\n• Evidence 2: \"Review of the Directors’ Statement of Risk Management and Internal Control\" (risk disclosure)"
   }
 }

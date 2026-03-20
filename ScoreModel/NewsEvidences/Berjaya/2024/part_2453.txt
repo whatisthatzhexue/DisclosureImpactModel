@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, AWC said...\" (verifiable source cited)\n• Evidence 2: \"The group’s tender-book remains healthy...\" (specific, factual data provided)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The new contracts adds to the RM142.2mil orderbook replenishment...\" (connects to financial performance and business operations)\n• Evidence 2: \"outstanding orderbook to around RM800mil\" (indicates revenue potential and market position)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"RM17.8mil\", \"RM1.59mil\", \"RM800mil\" (quantitative data provided)\n• Evidence 2: \"plumbing works at Hospital Kapar...\" (specific project details but lacks contextual analysis of strategic importance)"
+  }
+}

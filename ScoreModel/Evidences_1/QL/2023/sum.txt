@@ -1,0 +1,47 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"There is a zero-tolerance stance on bribery and corruption.\" (Discloses risks and ethical standards)\n• Evidence 2: \"we have made progress and now apply 43 out of the total 48 MCCG recommendations\" (Provides specific, verifiable compliance data)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our Board comprises six executive directors and seven independent non-executive directors, of which five are women.\" (Clear structure with specific numbers)\n• Evidence 2: \"The Board has also engaged independent experts to conduct an externally facilitated evaluation...\" (Precise language with actionable information)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our philosophy of creating value for all... is complemented by our emphasis on sustainability.\" (Relevant to stakeholder interests)\n• Evidence 2: \"The uncertain global economy is anticipated to linger...\" (Includes forward-looking context for governance decisions)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Higher fuel cost' impact on MPM operations (exact quote: 'the impact of the changes in labour regulations which was compounded by the increase in the other input costs from higher fuel, electricity and ingredients')\n• Evidence 2: Disclosure of anti-bribery compliance ('Zero violation on Anti-Bribery Policy')"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: Structured sections with clear headings (e.g., 'Business Review', 'Financial Performance')\n• Evidence 2: Specific data points like '17.2% reduction in GHG intensity' provide concrete metrics"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: Forward-looking statements about FY2024 outlook ('Overall, the MPM business pillar will face higher operational costs...')\n• Evidence 2: Risk disclosures related to climate factors ('El Niño phenomenon is developing...')"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Number of Corruption and Bribery Cases Number 0 0 0' (neutral, factual disclosure of zero incidents)\n• Evidence 2: 'Occupational Safety & Health Fatality Case 1 0 1' (specific, objective data on safety incidents)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'PERFORMANCE DATA TABLE' with clear metrics (energy consumption, emissions, etc.)\n• Evidence 2: 'Total Training Hours Hours 52,937 106,490 179,037' (precise numerical presentation)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'Direct Economic Value Generated Sale of Goods RM’000 4,308,421 4,968,001 5,935,525' (financial performance relevant to investors)\n• Evidence 2: 'Occupational Safety & Health Fatality Case 1 0 1' (risk disclosure relevant to stakeholder concerns)"
+  }
+}

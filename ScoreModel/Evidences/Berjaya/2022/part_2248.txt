@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood improved its efficiency by improving the inventory management system of stores and warehouses during this financial year.\" (specific fact)\n• Evidence 2: \"BFood’s partnership with a homegrown natural foods specialist offers healthy bread and food in BStarbucks stores and BRoasters restaurants.\" (specific partnership detail)"
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood improved its efficiency by improving the inventory management system of stores and warehouses during this financial year.\" (specific fact)\n• Evidence 2: \"Based on International Livestock Research Institute, meat production places an enormous strain on the environment...\" (cites source but lacks risk disclosure)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Joybean Soymilk is free from hormones, contains no added oil, preservatives or colouring, and guarantees 100% non-GMO Canadian soybeans.\" (precise, direct description)\n• Evidence 2: \"DISCOVER THE JOY OF PLANT-BASED PROTEIN!\" (clear section heading with logical structure)"
+    "justification": "• Evidence 1: \"BFood’s partnership with a homegrown natural foods specialist offers healthy bread and food in BStarbucks stores...\" (clear structure with specific examples)\n• Evidence 2: \"Joybean Soymilk is free from hormones, contains no added oil, preservatives or colouring...\" (precise, direct language)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"The demand for plant-based food and beverage alternatives continues to rise as more people embrace veganism, vegetarianism, or flexitarian diets...\" (forward-looking market trend)\n• Evidence 2: \"BStarbucks built on its sustainability commitment to become more resource-positive by expanding its plant-based choices...\" (strategic initiative for investors)"
+    "justification": "• Evidence 1: \"The demand for plant-based food...continues to rise...\" (forward-looking market trend)\n• Evidence 2: \"BStarbucks joined forces with Beyond Meat...starting September 2021.\" (specific strategic action relevant to investors)"
   }
 }

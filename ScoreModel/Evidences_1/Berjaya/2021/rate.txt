@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.1,
+    "justification": "The annual report demonstrates high reliability with specific factual data and neutral explanations, such as 'Starbucks recorded a profit before tax of RM90.1 million compared to RM21.3 million in the previous financial year' and 'The Company recognises the challenges of its operating environment...'. However, some entries had less detailed justifications (e.g., scores of 5 and 6), but the overall trend indicates strong reliability."
+  },
+  "Understandability": {
+    "score": 7.5,
+    "justification": "The annual report provides clear and precise numerical data, such as 'RM632.94 million...RM717.34 million' and 'BStarbucks has 327 stores located throughout Malaysia, except in the state of Perlis', which enhance clarity. However, some entries had less detailed explanations (e.g., scores of 6), which slightly lower the overall understandability score."
+  },
+  "Relevance": {
+    "score": 7.6,
+    "justification": "The annual report includes relevant information on performance changes and forward-looking initiatives, such as 'The decreased revenue was mainly due to the imposition of MCO 2.0 and MCO 3.0...' and 'BStarbucks plans to open 38 new stores...'. However, some entries had less relevant information (e.g., scores of 4 and 5), which slightly lower the overall relevance score."
+  }
+}

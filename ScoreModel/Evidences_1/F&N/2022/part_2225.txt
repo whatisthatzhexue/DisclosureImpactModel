@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The 2021 and 2022 AGMs given the COVID-19 pandemic\" (acknowledges external challenges)\n• Evidence 2: \"Detailed information about our approach to stakeholder engagement... pages 48 to 49 of Sustainability Report\" (references specific supporting documentation)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Company operates a structured investor relations programme\" (clear, direct language)\n• Evidence 2: \"The 2023 AGM is scheduled for 17 January 2023\" (precise date formatting)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Company engages regularly with its stakeholders... through a range of methods\" (relevant to investor decision-making)\n• Evidence 2: \"The annual reports are available in paper format and on our website\" (provides access to key financial information)"
+  }
+}

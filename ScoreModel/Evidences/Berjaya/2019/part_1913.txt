@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks endeavours to create a positive impact by supporting procurement...compliance to the labour law.\" (neutral, factual statement)\n• Evidence 2: \"99% of Starbucks coffee are verified as ethically sourced under C.A.F.E. Practices\" (specific fact, but claim about making coffee \"the world’s first sustainable agricultural product\" may be overstatement)"
+    "justification": "• Evidence 1: \"99% of Starbucks coffee are verified as ethically sourced under C.A.F.E. Practices\" (specific fact)\n• Evidence 2: \"RM789.0 million (FYE 2018 RM639.7 million)\" (numerical data supporting financial reliability)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Inventory Management System to increase efficiency...reduce wastages in the long run\" (clear cause-effect logic)\n• Evidence 2: \"1,186,273 (increase of 37.5%) customers used Starbucks tumblers\" (precise numerical data, but jargon like \"KRR i.Care Box\" lacks explanation)"
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks has implemented the Inventory Management System to increase efficiency\" (clear, direct language)\n• Evidence 2: \"1,186,273 (increase of 37.5%) customers used Starbucks tumblers\" (precise numerical context)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BFood’s financial performance highlights...RM789.0 million\" (material financial data for investors)\n• Evidence 2: \"global goal is to eliminate single-use straws worldwide by 2020\" (forward-looking information with strategic direction)"
+    "score": 6,
+    "justification": "• Evidence 1: \"REVENUE RM789.0 million (FYE 2018 RM639.7 million)\" (financial metrics relevant to investors)\n• Evidence 2: \"global goal to eliminate single-use straws worldwide by 2020\" (forward-looking strategic initiative)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"This will add additional water reserve margin, especially to the Klang region...\" (direct quote with verifiable data)\n• Evidence 2: \"The water reserve margin in 2023 has increased to 15.34% from 12.02% in 2022\" (specific, measurable data with clear timeframe)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This will reduce the risk to the Klang region\" (directly ties to company's strategic impact on regional water security)\n• Evidence 2: \"We have received water applications from data centres...\" (shows forward-looking strategic engagement with emerging sectors)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The completion of the Sungai Rasau treatment plant... will mitigate the impact on water supply\" (provides context for the project's significance)\n• Evidence 2: \"increase in distributable capacity of 250 million litres per day...\" (specific technical details supporting claims)"
+  }
+}

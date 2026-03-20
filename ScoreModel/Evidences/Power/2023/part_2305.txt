@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Audit Committee reviewed and approved the Annual Budget for the Group prior to its recommendation to the Board for approval.\" (objective, factual disclosure)\n• Evidence 2: \"The Audit Committee ensures the adequacy of the internal audit scope...\" (neutral, specific process description)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee reviewed and approved the Annual Budget... for its review and approval.\" (neutral factual reporting)\n• Evidence 2: \"Reviewed the solvency statements... before recommending to the Board for consideration...\" (discloses risks and decision-making process)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The internal audit function of the Group is made up of an in-house internal audit function...\" (clear structure with precise role definitions)\n• Evidence 2: \"The results of the follow-up reviews were reported to the Audit Committee for their review and deliberation.\" (direct, unambiguous language)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The in-house internal audit function and the outsourced internal audit function report directly to the Audit Committee.\" (clear structure and direct language)\n• Evidence 2: \"The approved internal audit plans are duly executed...\" (precise procedural explanation)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Reviewed the solvency statements...before recommending to the Board for consideration and approval of the distributions.\" (material financial disclosure)\n• Evidence 2: \"Further details...disclosed in the Statement on Risk Management...\" (links to governance-relevant information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the solv... for FY 2022 and 1st... dividend for FY 2023\" (material financial information)\n• Evidence 2: \"Further details... Risk Management and Internal Control\" (directly addresses investor concerns about governance)"
   }
 }

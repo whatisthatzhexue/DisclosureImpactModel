@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"A confluence of geo-political events together with intensifying competition combined to create a challenging macro environment.\" (Discloses challenges)\n• Evidence 2: \"90 per cent of our RTD products sold in Malaysia are healthier options and below 5g sugar per 100ml.\" (Specific factual claim)"
+    "score": 9,
+    "justification": "• Evidence 1: \"A confluence of geo-political events together with intensifying competition combined to create a challenging macro environment.\" (Discloses risks and challenges)\n• Evidence 2: \"Our overall sugar index for 2019 stands at 5.2g per 100ml, 41 per cent lower than when we first started measuring it in 2004.\" (Supported by specific factual data)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Our achievements were underlined by three strategic priorities: Innovation, Cost Competitiveness and Excellence in Execution (or I.C.E.).\" (Clear structure with defined priorities)\n• Evidence 2: \"RM150 million on capital expenditure (capex)\" (Precise numerical data presented clearly)"
+    "score": 8,
+    "justification": "• Evidence 1: \"90 per cent of our RTD products sold in Malaysia are healthier options and below 5g sugar per 100ml.\" (Clear, direct statement)\n• Evidence 2: \"The RM4 million system, with a capacity to produce 1MW of electricity, will be up and running in 2020.\" (Precise technical details with logical structure)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Thanks to the sweetened beverages excise duty in Malaysia... we undertook probably the biggest product innovation exercise in our history\" (Explains performance drivers)\n• Evidence 2: \"We have allocated RM20 million capex and started construction work...\" (Forward-looking capital allocation details)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Thanks to the sweetened beverages excise duty in Malaysia... we undertook probably the biggest product innovation exercise in our history.\" (Explains performance changes due to regulatory factors)\n• Evidence 2: \"Our current focus in Thailand is on expanding the range of ready-to-drink milk... especially senior citizens who are expected to make up 20 per cent of the population by the year 2022.\" (Includes forward-looking market analysis and demographic trends)"
   }
 }

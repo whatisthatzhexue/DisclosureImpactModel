@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7.3,
-    "justification": "The final Reliability score of 7.3 is derived from a balanced assessment of the scoring results. Higher scores (e.g., 8–9) are justified by specific factual disclosures (e.g., corporate structure, risk management processes, and audit committee involvement) and neutral, objective statements. Lower scores (e.g., 6–7) reflect gaps in explicit risk disclosures or limited depth in addressing uncertainties. The outlier 0 score, which lacks any risk or factual disclosures, is discounted due to its extreme deviation from the majority of results. Compromised scores (e.g., 7) are assigned for entries with mixed evidence, such as acknowledging limitations in risk management systems without overstatement."
+    "score": 8,
+    "justification": "The final score of 8 balances strong disclosures of factual information (e.g., specific risk management frameworks, ISO compliance, and audit processes) with gaps in risk acknowledgment. While some sources (score 9) highlight comprehensive risk registers and audit procedures, others (score 6) note missing risk disclosures. The majority of evidence supports reliable, structured reporting, though the lowest score (1) reflects a critical lack of risk transparency. Compromised to 8 to reflect consistent high-quality disclosures across most sections."
   },
   "Relevance": {
-    "score": 6.3,
-    "justification": "The Relevance score of 6.3 reflects a moderate level of investor-focused information. Higher scores (e.g., 7) are supported by disclosures linking governance to stakeholder interests, risk management frameworks, and compliance requirements. Lower scores (e.g., 5–6) arise from a lack of forward-looking financial details, material risk disclosures, or explicit connections to investor decision-making. While some entries mention community engagement or governance structures, these are insufficient to elevate relevance to a higher tier. The average score captures the mixed quality of disclosures across the results."
+    "score": 7,
+    "justification": "A score of 7 reflects mixed relevance. Higher scores (8) highlight forward-looking statements, financial data, and governance-related information (e.g., Board responsibilities, risk management frameworks). However, lower scores (5-6) note missing material risks, no forward-looking disclosures, and limited strategic context. The final score compromises between the presence of relevant financial and governance details and the absence of comprehensive risk and strategic relevance in some sections."
   },
   "Understandability": {
-    "score": 7.5,
-    "justification": "The Understandability score of 7.5 is based on consistent clarity in most entries. Higher scores (e.g., 8–9) are attributed to structured explanations of processes, precise terminology (e.g., risk categorization), and direct language (e.g., clear reporting lines). Lower scores (e.g., 7) reflect minor issues like verbose phrasing or repetitive headers, but these do not significantly detract from overall readability. The outlier 0 score, which lacks logical structure or direct language, is discounted. The final score emphasizes the majority of results, where information is organized and articulated with sufficient precision."
+    "score": 8,
+    "justification": "The score of 8 combines clear, structured language (e.g., precise descriptions of audit processes, defined roles) with occasional ambiguities. High scores (9) cite direct explanations and logical flow, while lower scores (6-7) point to redundant phrasing or obscure identifiers. The final score reflects dominant clarity in most sections, tempered by minor issues in structuring complex information."
   }
 }

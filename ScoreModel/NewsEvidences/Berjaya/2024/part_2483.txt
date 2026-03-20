@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites official statements from MCMC chairman Tan Sri Mohamad Salim Fateh Din and Huawei Malaysia CEO Simon Sun, with verifiable sources (Bernama).\n• Evidence 2: The content presents balanced reporting without bias, focusing on factual details of the collaboration and program objectives."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its strategic priorities, business performance, or financial implications.\n• Evidence 2: The collaboration between MCMC and Huawei Malaysia is unrelated to the company's operations in the food and beverage sector."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article provides comprehensive details about the program's structure (eight-month duration, blended learning approach, capstone project, and industry visit to China).\n• Evidence 2: It includes quotes from key stakeholders and explains the program's goals for digital transformation and leadership development."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "The final score of 8 balances strong evidence of factual transparency (e.g., specific audit fees disclosure, clear reporting structures) across most scoring results with some gaps in risk disclosure. Higher scores (9) cited neutral, factual statements about audit processes and accountability mechanisms, while lower scores (5-6) reflected insufficient risk acknowledgment. The majority of results demonstrated reliable practices through structured disclosures, justifying the mid-high score."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "The score of 8 reflects robust forward-looking strategic information (e.g., market position maintenance, risk management frameworks) and material risk disclosures in most results. Lower scores (3-7) were due to either procedural focus or lack of risk context, but the majority of scoring results included investor-relevant content like corporate governance and risk management. Compromised to 8 to reflect predominant relevance while acknowledging gaps in some entries."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "An 8 captures clear numerical data presentation (e.g., debt ratios, audit fees) and logical organizational structures (bullet points, numbered lists) across most scoring results. Lower scores (7) were attributed to procedural details without contextual clarity, but the majority of entries used precise language and structured formats. The score reflects consistent readability with minor variations in depth."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This launch marks just the beginning of Causeway Link’s premium bus operations,\" said Lim.\n• Evidence 2: \"We are also excited to announce our plans for expansion into Singapore by the third or fourth quarter of 2025.\""
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We are also excited to announce our plans for expansion into Singapore by the third or fourth quarter of 2025.\" (directly ties to long-term value creation and market expansion)\n• Evidence 2: \"This service prioritises modern amenities, privacy and convenience, ensuring an unparalleled journey for passengers.\" (aligns with competitive positioning and stakeholder value)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Causeway Link premium express bus service will operate from KSL City Mall to key destinations in Kuala Lumpur, including Berjaya Times Square, NU Sentral and Bukit Bintang.\" (specific route details)\n• Evidence 2: \"To celebrate the launch, Causeway Link is offering an exclusive flash sale...\" (promotional strategy context)"
+  }
+}

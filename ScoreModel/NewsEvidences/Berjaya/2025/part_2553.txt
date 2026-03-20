@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"For the first quarter ended March 31, 2025... revenue rose 7.7% to RM2.61bil.\" (specific financial data)\n• Evidence 2: \"It also said the net profit improvement was mainly due to higher promotional discounts...\" (transparent explanation of performance drivers)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The group is also targeting the commencement of operations for a new distribution centre...\" (strategic infrastructure investment)\n• Evidence 2: \"Expansion of its outlet network... to ensure that everyday essentials stay within reach...\" (alignment with business strategy and market positioning)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Administrative and other operating expenses rose 12.5%... due to higher depreciation...\" (comprehensive financial context)\n• Evidence 2: \"Compared to the preceding quarter... driven by festive demand and robust bulk sales...\" (temporal comparison and market factor analysis)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The Reliability scores range from 7 to 9, with most entries in the 8-9 range. Higher scores (9) are justified by detailed factual disclosures (e.g., revenue comparisons, dividend figures, and audit references) and clear explanations of financial performance. Lower scores (7) reflect missing elements such as insufficient risk disclosure or lack of quantitative context for unusually high values (e.g., 1,281.8% dividend payout). The final score of 8.5 balances the high-quality entries with the moderate ones, acknowledging the majority of robust disclosures while noting areas needing improvement."
+  },
+  "Relevance": {
+    "score": 7.7,
+    "justification": "Relevance scores range from 6 to 10, with the majority in the 7-8 range. Higher scores (e.g., 10) are supported by material event disclosures (e.g., disposal of PT Boga) and forward-looking information (e.g., brand development plans). Lower scores (6-7) lack critical elements such as risk disclosures, forward-looking context, or linkage to investor-relevant outcomes. The final score of 7.7 reflects the balance between comprehensive disclosures and gaps in linking information to strategic or financial impacts."
+  },
+  "Understandability": {
+    "score": 8.5,
+    "justification": "Understandability scores range from 6 to 10, with most entries in the 8-9 range. Higher scores (9-10) are justified by clear, structured explanations (e.g., cause-effect relationships in revenue growth, precise numerical data) and direct language. Lower scores (6-7) have issues like acronyms without definitions (e.g., MESO, SWC) or overly vague statements. The final score of 8.5 reflects the overall clarity and structured communication, with some areas needing refinement for full clarity."
+  }
+}

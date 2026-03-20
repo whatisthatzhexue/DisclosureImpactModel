@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Proper screenings are needed for off-campus accommodations, says Comm Datuk Hussein Omar Khan.\" (Quotes from credible official sources)\n• Evidence 2: \"Safety of the students must not be taken for granted,\" Comm Hussein stressed. (Balanced tone with verifiable statements from police chief)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"While focusing on the academic and business aspects, private universities should not sideline security,\" a former high-ranking police officer said. (No direct mention of Berjaya Food Berhad or its operations)\n• Evidence 2: The article focuses on university security policies, which are unrelated to the strategic direction or business performance of Berjaya Food Berhad."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The murder of 20-year-old Maniisha­priet Kaur Akhara in her hostel room at a private university...\" (Provides specific context and background)\n• Evidence 2: \"Regular security audit... police and NGOs... conduct crime prevention awareness programmes\" (Details recommendations but lacks broader analysis of systemic issues)"
+  }
+}

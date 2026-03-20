@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Berjaya Food Bhd ’s wholly-owned subsidiary...disposed of 6.6mn ordinary shares...for RM13.2mn cash, or RM2 per share.\" (specific, verifiable transaction details)\n• Evidence 2: \"Bank Islam Malaysia Bhd has secured a summary judgement...over unpaid loans totalling RM17.8mn.\" (clear factual statement with quantifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Berjaya Food Bhd ’s wholly-owned subsidiary...disposed of 6.6mn ordinary shares...\" (direct company action impacting equity structure)\n• Evidence 2: \"Binastra Corporation Bhd’s net profit jumped...driven by strong contributions from the group’s core construction segment.\" (strategic performance indicator for related entity)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Berjaya Food Bhd ’s wholly-owned subsidiary...disposed of 6.6mn ordinary shares...for RM13.2mn cash, or RM2 per share.\" (quantitative details on transaction)\n• Evidence 2: \"Astro Malaysia Holdings Bhd...reported a 20.8% drop...to RM13.5mn in its 1QFY26 earnings.\" (contextual financial performance data)"
+  }
+}

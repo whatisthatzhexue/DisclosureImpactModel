@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BLand said the projects will be in collaboration with state investment vehicle Menteri Besar Inc (MBI) Perlis.\" (source cited)\n• Evidence 2: \"Impianan Utara has secured the necessary state-level approval through its partnership with MBI Perlis.\" (specific claim with contextual support)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In line with its ambition in the rare earths sector, BLand said the partnership will undertake exploration and development activities for rare earth elements...\" (direct link to company strategy)\n• Evidence 2: \"the joint venture will also undertake a large-scale plantation project...\" (strategic diversification into agriculture)"
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: \"the partnership will undertake exploration and development activities for rare earth elements and other strategic minerals in Perlis\" (minimal technical detail)\n• Evidence 2: \"large-scale plantation project involving Napier hybrid grass and premium Blackthorn durian\" (no quantitative data or market context provided)"
+  }
+}

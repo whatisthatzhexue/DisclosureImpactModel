@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, SNS Network said...\" (verifiable source cited)\n• Evidence 2: \"customer's name was withheld for confidentiality and commercial reasons\" (standard disclosure practice)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"SNS Network expects the contract to contribute positively to the earnings...\" (direct financial impact)\n• Evidence 2: \"scalable service provided technology developers...\" (strategic positioning in AI market)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"supplying server system, with commencement on March 7 and completion targeted for April 18, 2025...\" (specific timeline details)\n• Evidence 2: \"allocating half of its computing capacity for commercial use...\" (specific operational structure explanation)"
+  }
+}

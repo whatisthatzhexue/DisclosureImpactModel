@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"excellence in execution is not only about driving more sales but also strengthening the connection with our consumers and customers\" (neutral, objective)\n• Evidence 2: \"Exports faced several headwinds... macro-economic uncertainties... reduced export competitiveness\" (discloses risks and challenges)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N sweetened condensed milk now comes in sizes from single serve ‘Stix’ pack... to 20kg flexible pouches\" (precise, direct description)\n• Evidence 2: \"operating profit for F&B Malaysia was 15.5 per cent higher compared to last year\" (clear numerical context)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"we remain committed to building Exports as our third business pillar... target Group export sales of RM800 million by 2020\" (forward-looking, investor-relevant)\n• Evidence 2: \"the impact of corporate tax payment in Thailand... following the full utilisation of the tax incentives\" (explains performance change)"
+  }
+}

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"However, as there are inherent limitations in any risk management and internal control system, such system is designed to manage, rather than eliminate risks...\" (discloses limitations and avoids overstatement)\n• Evidence 2: \"The Board does not review the risk management and internal control system of its associate company...\" (specific fact about scope of responsibility)"
+    "score": 8,
+    "justification": "• Evidence 1: \"However, as there are inherent limitations in any risk management and internal control system, such system is designed to manage, rather than eliminate risks that may impede the achievement of the Group’s business and corporate objectives. Accordingly, it can only provide reasonable but not absolute assurance against material misstatement of losses and fraud.\"\n• Evidence 2: \"The Board does not review the risk management and internal control system of its associate company as the Group does not have management control over the associate company.\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Audit Committee... provides assurance to the Board on the adequacy and effectiveness...\" (clear structure of responsibilities)\n• Evidence 2: \"The Board assumes the ultimate responsibility...\" (direct language about governance roles)"
+    "justification": "• Evidence 1: \"The Audit Committee, as a Board Committee, is governed by its terms of reference and is delegated with the duty to review the adequacy and effectiveness of the risk management and internal control system of the Group.\"\n• Evidence 2: \"The Board has established an appropriate governance, risk and internal control system that is embedded into the corporate culture, processes and strategies of the Group.\""
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"The scope of this Statement includes the Company and all operating subsidiaries\" (relevant to investor understanding of coverage)\n• Evidence 2: \"The Board has established an appropriate governance...\" (corporate governance relevance, but lacks specific risk disclosures)"
+    "justification": "• Evidence 1: \"The scope of this Statement includes the Company and all operating subsidiaries.\"\n• Evidence 2: \"The Board has established an appropriate governance, risk management and internal control system that is embedded into the corporate culture, processes and strategies of the Group.\""
   }
 }

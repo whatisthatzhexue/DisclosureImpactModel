@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The consultant’s findings will help the council better estimate the timeline for the project’s completion,\" he said.\n• Evidence 2: \"We have received RM10mil from Tourism, Arts and Culture Ministry and RM3mil from Selangor government to support the restoration,\" he said."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text focuses on a municipal council's heritage park project and cat park operations, with no direct mention of Berjaya Food Berhad or its business activities.\n• Evidence 2: No financial or strategic information related to Berjaya Food's operations, competitive position, or long-term value creation is provided."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The 5,000-tonne structure... equipped with 110 buckets and was capable of digging to a 30m depth,\" provides detailed technical specifications.\n• Evidence 2: \"The park is expected to be fully operational by 2028\" includes a clear timeline and funding details (RM10mil and RM3mil)."
+  }
+}

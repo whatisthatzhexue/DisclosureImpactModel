@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company’s quarterly financial reporting...International Accounting Standard 34...Main Market Listing Requirements of Bursa Malaysia Securities Berhad.\" (neutral, objective compliance disclosure)\n• Evidence 2: \"Discussed and considered the significant accounting adjustments...impairment of goodwill...\" (transparent risk disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the Internal Audit Reports...audit findings...Management’s responses...\" (clear process description)\n• Evidence 2: \"Risk register covering areas such as...likelihood of occurrence...risk score...\" (structured risk assessment framework)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the 2018 Circular...minority shareholders.\" (material shareholder interest disclosure)\n• Evidence 2: \"Proposed acquisition of a property unit...RM12,435,000.00\" (specific material transaction disclosure)"
+  }
+}

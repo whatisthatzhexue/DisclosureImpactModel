@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Binastra Corp Bhd's wholly-owned subsidiaries Binastra Builders Sdn Bhd has accepted a contract for the proposed construction of a data centre project in Cyberjaya, Selangor, for RM250.37mil\"\n• Evidence 2: \"In a filing with Bursa Malaysia, the group said the contract shall commence on Feb 26, 2025, and will be completed in sections between June 15, 2025 and Dec 15, 2025.\""
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The contract is expected to provide additional income stream during the financial year\"\n• Evidence 2: \"construction of a six-storey data centre, guard house and refuse room\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"construction of a six-storey data centre, guard house and refuse room\"\n• Evidence 2: \"The contract shall commence on Feb 26, 2025, and will be completed in sections between June 15, 2025 and Dec 15, 2025.\""
+  }
+}

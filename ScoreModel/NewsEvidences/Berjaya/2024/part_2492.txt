@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"I have never heard of a social media platform regulation Act...\" (direct quote from official source)\n• Evidence 2: \"Each of these social media platforms has its own community guidelines...\" (specific, verifiable policy details)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or related business activities\n• Evidence 2: Focus on government policy and Telekom Malaysia initiatives unrelated to food/beverage sector"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: Comprehensive coverage of ministerial statements, MCMC actions, and e-Farmasi initiative details\n• Evidence 2: Contextual background on previous framework reports and government grant programs"
+  }
+}

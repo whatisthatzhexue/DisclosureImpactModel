@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Finexus offers a ready-to-use payment solution platform equipped with APIs and SDKs...\" (specific technical details)\n• Evidence 2: \"attested infrastructure, which is PCI DSS compliant, RMiT compliant, ISO 27001 certified and Tier III Design certified by Uptime Institute\" (verifiable compliance certifications)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Finexus Group’s roots are in entrepreneurship... spearheading the group’s transition into the era of artificial intelligence...\" (aligns with long-term AI strategy)\n• Evidence 2: \"targeting to have more than 100 startups join... by the end of this year\" (quantifiable strategic goal)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"covering everything from software design and API integration to testing, regulatory approvals and launch\" (comprehensive feature description)\n• Evidence 2: \"free shuttle services... co-working spaces...\" (operational context but lacks market analysis or financial impact data)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Measuring 183m in length and six metres in height... completed on March 24, a month earlier than scheduled.\" (specific verifiable data)\n• Evidence 2: \"This mural is aimed at conveying a message of inclusivity and unity... cultural heritage through the use of batik.\" (direct quote from DBKL statement)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Berjaya Group Bhd\" is mentioned but no connection to food/beverage operations or business strategies.\n• Evidence 2: No discussion of financial implications, market impact, or alignment with Berjaya Food Berhad's strategic direction."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides basic event details (size, creation timeline, artist) but lacks analysis of cultural significance or broader implications.\n• Evidence 2: Mentions stakeholders (Minister, mayor, etc.) but no contextual background on Berjaya Group's involvement or the mural's relevance to their business."
+  }
+}

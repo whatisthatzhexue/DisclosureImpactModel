@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board, Audit Committee, RMC and RMU meet on a quarterly basis to discuss strategic, operational, risk and control matters raised by the Management.\"\n• Evidence 2: \"The internal audit reports, summarising the observations of control weaknesses, recommendations for improvement and Management responses were presented to the Audit Committee on quarterly basis.\""
+    "justification": "• Evidence 1: \"The internal audit reports, summarising the observations of control weaknesses, recommendations for improvement and Management responses were presented to the Audit Committee on quarterly basis.\"\n• Evidence 2: \"The authority limits delineate authorisation limits for various level of management and matters reserved for collective decision by the Board to ensure proper identification of accountabilities and segregation of duties.\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The key elements of the Group’s internal control processes are summarised as follows:\"\n• Evidence 2: \"Standard Operating Procedures are revised to meet the operational requirement, the business and statutory reporting needs when necessary.\""
+    "justification": "• Evidence 1: \"The Board, Audit Committee, RMC and RMU meet on a quarterly basis to discuss strategic, operational, risk and control matters raised by the Management.\"\n• Evidence 2: \"Standard Operating Procedures are revised to meet the operational requirement, the business and statutory reporting needs when necessary.\""
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Audit Committee assessed the overall adequacy and effectiveness of the system of internal controls of the Group and reports to the Board of Directors, in particular, the matters relating to significant risks\"\n• Evidence 2: \"Heads of business units present their strategies, annual budgets and capital expenditure proposals to the Executive Committee and the Board for deliberation and approval.\""
+    "justification": "• Evidence 1: \"The Board has delegated its responsibility to several committees and to the Management of the Company to implement and monitor designated tasks.\"\n• Evidence 2: \"The review of strategy and annual budget is undertaken by Management on half yearly basis.\""
   }
 }

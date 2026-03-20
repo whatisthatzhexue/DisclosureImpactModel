@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Klasik 3 Rasa\" at Berjaya Times Square, Kuala Lumpur, is available until March 28, priced at RM188nett per adult and RM88nett per child.\n• Evidence 2: Banquet head chef Rossham Rusli provided a direct quote about the event's purpose, which adds credibility to the promotional claims."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The mention of group packages for corporate or family functions directly ties to business performance factors and stakeholder engagement.\n• Evidence 2: The event aligns with the company's hospitality offerings, but no explicit connection to long-term value creation or competitive positioning is provided."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: The text describes the buffet's offerings (150 dishes, signature dishes) and pricing, but lacks context about market trends or consumer demand.\n• Evidence 2: No data on attendance, revenue impact, or analysis of the event's strategic importance to the company's business model is included."
+  }
+}

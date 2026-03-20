@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Sessions judge Ahmad Fuad Othman made the ruling on Friday (March 14) after finding that the prosecution had succeeded in making a prima facie case against the accused.\"\n• Evidence 2: \"The charge under Section 233(1)(a) of the Communications and Multimedia Act 1998... carries a maximum fine of RM50,000 or up to one year in jail, or both, upon conviction.\""
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"Aliff Syukri\" is a cosmetics entrepreneur, not associated with Berjaya Food Berhad.\n• Evidence 2: No mention of Berjaya Food Berhad's business operations, financials, or strategic direction."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The text provides detailed information about Aliff Syukri's legal case but does not relate to Berjaya Food Berhad's activities, market position, or stakeholder concerns.\n• Evidence 2: No contextual or financial data about Berjaya Food Berhad is included."
+  }
+}

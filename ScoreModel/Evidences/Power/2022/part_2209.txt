@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"All members of the Board have attended training programs that were organised by regulatory bodies or professional organisations.\"\n• Evidence 2: \"The training programs attended by individual Board members during the financial year under review are as follows:\"\n"
+    "score": 7,
+    "justification": "• Evidence 1: \"members of the Board received regular briefings and updates on the Group’s business and operations as well as updates on amended/ new regulations and statutory requirements\" (neutral, factual reporting)\n• Evidence 2: \"All members of the Board have attended training programs...\" (specific, objective disclosure)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The training programs attended by individual Board members during the financial year under review are as follows:\"\n• Evidence 2: \"Updates on Malaysian Code of Corporate Governance 2021 (MCCG 2021)\" (clearly structured but repetitive entries)\n"
+    "score": 9,
+    "justification": "• Evidence 1: \"Name of Directors Seminars and Briefing Attended Conducted by\" (clear structure with logical categorization)\n• Evidence 2: \"Updates on Malaysian Code of Corporate Governance 2021 (MCCG 2021)\" (precise, direct language with specific details)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"Board leadership (Cont’d)\" (corporate governance is relevant for investors)\n• Evidence 2: \"training programs organised by regulatory bodies\" (shows compliance efforts but lacks forward-looking or risk information)\n"
+    "justification": "• Evidence 1: \"PRINCIPLE A: BOARD LEADERSHIP & EFFECTIVENESS\" (directly relevant to corporate governance, which is critical for investor assessment)\n• Evidence 2: \"training programs organised by regulatory bodies or professional organisations\" (shows commitment to compliance, relevant to governance quality)"
   }
 }

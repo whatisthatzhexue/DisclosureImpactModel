@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Critical Holdings Bhd ... secured RM84.71mil worth of projects\" (specific financial data)\n• Evidence 2: \"Both projects are already underway and are expected to be completed by Oct 19, 2025, and Jan 9, 2026, respectively\" (verifiable timeline details)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The contracts are expected to contribute positively to its earnings and net assets in the coming financial years\" (direct financial implication)\n• Evidence 2: \"order book now stands at approximately RM280mil\" (indicates business growth relevance)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"RM63.61mil contract from a US-based multinational company ... for a Super Centre Factory\" (specific project context)\n• Evidence 2: \"RM21.1mil contract to instal an air conditioning and mechanical ventilation system for a data centre\" (detailed project scope)"
+  }
+}

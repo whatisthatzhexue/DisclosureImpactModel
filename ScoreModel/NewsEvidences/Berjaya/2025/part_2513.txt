@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our omnipresence is focused on areas frequented by the public,\" he said after attending the Johor police monthly assembly yesterday.\n• Evidence 2: \"This will be above and beyond our regular patrols,\" he added."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text mentions Berjaya Waterfront as one of the seven areas under police focus, which could indirectly relate to Berjaya Group's interests, though no direct connection to Berjaya Food Berhad's strategic operations is made.\n• Evidence 2: No explicit mention of Berjaya Food Berhad's business activities, financial performance, or strategic initiatives."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides specific details about the police initiative, including dates (June 14), locations, and the number of personnel (80 policemen).\n• Evidence 2: It includes quotes from Comm Datuk M. Kumar and mentions the absence of reported crime, though it lacks broader context about the company's operations or market impact."
+  }
+}

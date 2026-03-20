@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A 48-year-old man has pleaded not guilty in the Sessions Court here to 11 charges of making indecent and excessively obscene comments targeting Nurul Izzah Anwar...\" (verifiable legal charges)\n• Evidence 2: \"He was charged under Section 233(1)(a) of the Communications and Multimedia Act 1998...\" (specific legal reference)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or any business operations\" (no company connection)\n• Evidence 2: \"The case involves personal legal proceedings unrelated to corporate strategy or financial performance\" (no stakeholder impact)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The posts were accessed on Feb 4 at approximately 7am at MCMC Tower 1, Jalan Impact...\" (specific contextual details)\n• Evidence 2: \"Judge Ahmad Fuad Othman set bail at RM10,000...\" (procedural details but no analysis of broader implications)"
+  }
+}

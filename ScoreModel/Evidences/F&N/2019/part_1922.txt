@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Company Secretary advises the Board on updates relating to new statutory and regulatory requirements...\" (specific role description)\n• Evidence 2: \"The Board through the NomCom engaged an external consultant...was satisfied that the Independent Directors continued to exercise independent and objective judgement\" (third-party validation)"
+    "justification": "• Evidence 1: \"The Board believes that effective deliberation and decision-making process are highly dependent on the quality of information furnished by management.\" (Neutral assessment of information dependency)\n• Evidence 2: \"During the Financial Year 2019, the Board through the NomCom engaged an external consultant... was satisfied that the Independent Directors continued to exercise independent and objective judgement.\" (Third-party validation of independence)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Board comprises eleven Non-Executive Directors...the mix of Directors...is broadly balanced\" (clear structure with quantifiable data)\n• Evidence 2: \"Directors Training Programmes Attended\" section with bullet points and specific topics (organized, direct language)"
+    "justification": "• Evidence 1: \"The Board comprises eleven Non-Executive Directors whose varied skills... are necessary to govern the Group.\" (Clear structure of board composition)\n• Evidence 2: \"Directors Training Programmes Attended\" section with numbered lists and specific topics (Precise, direct presentation of information)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Details of the corporate sustainability of the Group are presented in the Sustainability Report\" (material event disclosure)\n• Evidence 2: \"The Board recognises that an extended time on the Board may impair a Director’s independence...\" (governance risk disclosure)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Details of the corporate sustainability of the Group are presented in the Sustainability Report.\" (Material information for investors)\n• Evidence 2: \"The Board endeavours to increase its women representation to 30% by 2020.\" (Forward-looking strategic goal relevant to governance)"
   }
 }

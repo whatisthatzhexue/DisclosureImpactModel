@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 5, "justification": "• Evidence 1: The text contains personal anecdotes and quotes from Lily Yusra without verifiable data or sources.\n• Evidence 2: The article lacks factual accuracy regarding Berjaya Food Berhad or any financial/operational details about the company." },
+  "StrategicRelevance": {"score": 0, "justification": "• Evidence 1: The text focuses on home decor and personal lifestyle, with no mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: No connection to the company's strategic direction, market position, or financial performance is present." },
+  "Depth": {"score": 3, "justification": "• Evidence 1: The article provides detailed descriptions of home decor elements and Lily's DIY projects, but this is unrelated to the company's operations.\n• Evidence 2: No contextual background or data about Berjaya Food Berhad is included, limiting depth in relation to the company." }
+}

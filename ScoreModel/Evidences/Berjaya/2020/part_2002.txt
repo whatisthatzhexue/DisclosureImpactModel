@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 5,
-    "justification": "• Evidence 1: \"BGroup’s acquisition of KRR International Corp, USA in April 2008\" (specific factual event)\n• Evidence 2: \"As at 30 June 2020, there are a total of 77 KRR restaurants\" (date-specific quantitative data)"
+    "score": 6,
+    "justification": "• Evidence 1: \"BGroup’s acquisition of KRR International Corp, USA in April 2008\" (specific factual event)\n• Evidence 2: \"As at 30 June 2020, there are a total of 77 KRR restaurants across Malaysia\" (date-specific quantitative data)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"CORPORATE PROFILE\" and \"CHAIRMAN’S STATEMENT\" sections provide clear structural headings\n• Evidence 2: \"All KRR restaurants serve their customers in a full service, mid-casual dining setting\" (precise operational description)"
+    "score": 5,
+    "justification": "• Evidence 1: \"All KRR restaurants serve their customers in a full service, mid-casual dining setting\" (clear, direct description)\n• Evidence 2: \"Starbucks Caramel Macchiato and Cocoa Macchiato\" (redundant product listing with no contextual explanation)"
   },
   "Relevance": {
-    "score": 3,
-    "justification": "• Evidence 1: \"Annual Report and Financial Statements for the financial year ended 30 June 2020\" (minimal investor-relevant context)\n• Evidence 2: Lack of forward-looking statements, risk disclosures, or performance analysis"
+    "score": 4,
+    "justification": "• Evidence 1: \"On behalf of the Board of Directors... Annual Report and Financial Statements...\" (mentions report existence but lacks substantive content)\n• Evidence 2: \"Kenny Rogers ROASTERS Seoul Sedap Chikin Promotion\" (promotional content unrelated to financial disclosure)"
   }
 }

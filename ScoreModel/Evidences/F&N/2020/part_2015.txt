@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 5,
-    "justification": "• Evidence 1: \"Restated for adjustments pursuant to the adoption of MFRS 15...\" (discloses restatement rationale)\n• Evidence 2: \"Dividend – payout (%) 55% 65% 55% 54% 54%\" (provides factual financial metrics without overt bias)"
+    "justification": "• Evidence 1: 'Our employees are the driving force behind the success of our company, therefore safeguarding their well-being during this pandemic is our number one priority.' (Positive statement without risk disclosure)\n• Evidence 2: 'Notes: (i) Restated for adjustments pursuant to the adoption of MFRS 15...' (Factual disclosure of restatement, but lacks risk or challenge information)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Profit for the year 385.4 323.3 386.5 (i) 410.2 410.1\" (clear numerical presentation)\n• Evidence 2: \"Debt to equity ratio 20.3 17.8 14.6 4.9 3.4\" (direct comparison of ratios)"
+    "score": 6,
+    "justification": "• Evidence 1: 'Revenue 4,167.6 4,101.4 3,871.0 (i) 4,077.1 3,988.5' (Clear numerical presentation)\n• Evidence 2: 'Debt to equity ratio 20.3 17.8 14.6 4.9 3.4' (Direct comparison of ratios, but repetitive formatting may confuse readers)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Revenue 4,167.6 4,101.4 3,871.0 (i) 4,077.1 3,988.5\" (provides historical financial data)\n• Evidence 2: \"PBT on revenue 10.6 8.6 11.0 (i) 13.1 13.1\" (explains performance drivers)"
+    "score": 4,
+    "justification": "• Evidence 1: 'Profit for the year 385.4 323.3 386.5 (i) 410.2 410.1' (Financial performance data relevant to investors)\n• Evidence 2: 'Notes: (ii) Included proposed dividend of 33.0 sen...' (Forward-looking information about dividends, but no explanation of performance changes or material events)"
   }
 }

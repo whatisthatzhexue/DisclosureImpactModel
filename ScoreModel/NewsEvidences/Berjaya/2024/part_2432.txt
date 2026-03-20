@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 8, "justification": "• Evidence 1: \"Turkish Aerospace took 50 years to get where it is.\" \n• Evidence 2: \"What we are doing with Turkish Aerospace can be a benchmark for other fields...\""},
+  "StrategicRelevance": {"score": 2, "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its strategic initiatives. \n• Evidence 2: Focus on aerospace industry partnerships unrelated to food and beverage sector."},
+  "Depth": {"score": 6, "justification": "• Evidence 1: Provides basic operational details about Turkish Aerospace Malaysia's 2022 launch. \n• Evidence 2: Mentions events like DSA/Natsec 2024 but lacks analysis of long-term implications for Malaysia's aerospace industry."}
+}

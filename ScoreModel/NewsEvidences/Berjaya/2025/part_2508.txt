@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"We are committed to the safety and well-being of our students, staff and community.\" (Quote from university statement, factual and verifiable)\n• Evidence 2: \"The university is fully cooperating with authorities...\" (Balanced tone, no fabrication, credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or its business operations, financials, or strategic initiatives.\n• Evidence 2: The content focuses on a university incident unrelated to the company's competitive position, market impact, or stakeholder relevance."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The victim was living with five other students who had returned home for the holidays on June 21. She was alone at the hostel...\" (Contextual details about the incident)\n• Evidence 2: \"Working closely with security experts...\" (Specific actions taken, but lacks deeper analysis of systemic issues or long-term implications)"
+  }
+}

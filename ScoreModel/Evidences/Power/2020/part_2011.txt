@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: 'fire preventive equipment and systems are installed and inspected at predetermined intervals to ensure its functionalities are not compromised' (specific factual disclosure)\n• Evidence 2: 'Number of Incidents 2 2 4' (quantitative data supporting reliability)"
+    "justification": "• Evidence 1: \"Number of Incidents 2 2 4\" (Table 3: Power Root’s Incident Records) provides specific factual data.\n• Evidence 2: \"fire preventive equipment and systems are installed and inspected... to ensure its functionalities are not compromised\" demonstrates objective risk disclosure."
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'clear escape route plans are placed at strategic locations' (precise, direct language)\n• Evidence 2: 'structured way to define and assess compensation packages' (clear organizational process description)"
+    "score": 7,
+    "justification": "• Evidence 1: \"All plants and equipment... at predetermined intervals\" uses precise language to describe maintenance protocols.\n• Evidence 2: \"gender-balanced and age-diversified workforce\" is clear but could be more specific with quantitative data."
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: 'Table 3: Power Root’s Incident Records' (material event disclosure relevant to investor risk assessment)\n• Evidence 2: 'training programmes to develop skilled employees' (forward-looking human capital development relevant to long-term performance)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Occupational safety and health performances... identify any new or recurring health and safety issues\" directly addresses investor concerns about workplace safety.\n• Evidence 2: \"fair compensation is essential in motivating... growth target\" links labor practices to business objectives."
   }
 }

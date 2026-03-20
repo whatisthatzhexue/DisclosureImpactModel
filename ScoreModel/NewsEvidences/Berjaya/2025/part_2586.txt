@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The venue features 58 stalls that offer a wide variety of dishes.\" (factual accuracy)\n• Evidence 2: \"MPSepang deputy president Muhamad Shah Osmin said the SIC Ramadan bazaar had been well-received overall.\" (credible source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or its operations, strategies, or financial performance.\" (no company-specific information)\n• Evidence 2: \"Focus on event logistics and participant experiences rather than business performance metrics or market impact.\" (no strategic relevance to the company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Detailed descriptions of stall operations, visitor behavior, and trader motivations (e.g., \"business was down by about 50% compared to previous years\").\" (context and data)\n• Evidence 2: \"Coverage of multiple perspectives (traders, visitors, officials) and event-specific details (e.g., 30,000 paper bags distributed).\" (comprehensive narrative)"
+  }
+}

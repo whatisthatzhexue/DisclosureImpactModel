@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Despite the immense challenges faced... our profit after tax this year was maintained at RM410.1 million from RM410.2 million last year.\" (specific financial figures and acknowledgment of challenges)\n• Evidence 2: \"The effects of COVID-19... made almost everyone re-evaluate what is, and should be, important to us.\" (neutral acknowledgment of external risks)"
+    "score": 7,
+    "justification": "• Evidence 1: 'our profit after tax this year was maintained at RM410.1 million from RM410.2 million last year' (specific financial figures)\n• Evidence 2: 'despite the immense challenges faced... our profit after tax this year was maintained' (acknowledges challenges while presenting factual results)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Profit Before Tax (RM million) -1.9%\" (clear numerical presentation with context)\n• Evidence 2: \"We distributed over 650,000 products...\" (precise, direct description of initiatives)"
+    "score": 8,
+    "justification": "• Evidence 1: 'final dividend of 33.0 sen per share which, if approved, would mean a total dividend for the year of 60.0 sen per share' (clear numerical presentation)\n• Evidence 2: 'RM3,988.5 million' (direct revenue figure with currency specification)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"For the financial year 2020... final dividend of 33.0 sen per share...\" (directly relevant financial information for investors)\n• Evidence 2: \"The Board continuously looks for ways to enhance our framework of integrity...\" (corporate governance relevance)"
+    "justification": "• Evidence 1: 'the Board is also proposing a final dividend of 33.0 sen per share' (directly addresses dividend policy)\n• Evidence 2: 'we maintained an interim single-tier dividend of 27.0 sen per share' (explains dividend history and continuity)"
   }
 }

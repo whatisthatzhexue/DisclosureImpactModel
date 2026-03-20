@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The ARMC also ensures that the External Auditors are independent...will review the contracts for provision of non-audit services...\" (neutral, objective disclosure of governance processes)\n• Evidence 2: \"In considering the nature and scope of non-audit fees...satisfied that they were not likely to create any conflict...\" (supported by specific facts, no overstatement)"
+    "justification": "• Evidence 1: \"The ARMC was satisfied that they were not likely to create any conflict or impair the independence and objectivity of the External Auditors.\"\n• Evidence 2: \"The recurring non-audit services were in respect of tax compliance and the annual review of the Statement of Risk Management and Internal Control.\"\n• Evidence 3: Specific numerical data on fees (e.g., \"RM 35,000\", \"33%\") are provided."
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Statutory audit fees paid/payable to: - Ernst & Young...\" (clear structure with numerical data)\n• Evidence 2: \"The internal audit function...based on the plan approved by the ARMC...\" (precise language with logical flow)"
+    "justification": "• Evidence 1: \"The Board entrusts the ARMC with the overall responsibility to regularly review and monitor risk management activities of the Group\"\" provides clear structure.\n• Evidence 2: \"The Statement on Risk Management and Internal Control set out on pages 33 to 34...\" directly references supporting documentation."
   },
   "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board entrusts the ARMC with the overall responsibility...risk management procedures...\" (directly addresses investor concerns about governance)\n• Evidence 2: \"The Statement on Risk Management...provides an overview of the state of internal controls...\" (includes material risks and corporate governance information)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Sound Framework to Manage Risks\" section addresses investor concerns about governance and risk management.\n• Evidence 2: \"The proposed appointment will be subject to shareholders’ approval at the AGM\" relates to corporate governance and decision-making processes."
   }
 }

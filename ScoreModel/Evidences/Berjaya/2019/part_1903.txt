@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The total dividend paid was approximately RM14.48 million which represented 59.40% of the attributable profit of the Group...\" (specific factual data)\n• Evidence 2: \"4.0 cents single-tier dividend per share... for the previous financial year...\" (comparative historical data)"
+    "justification": "• Evidence 1: \"The total dividend paid was approximately RM14.48 million which represented 59.40% of the attributable profit of the Group\" (specific factual data).\n• Evidence 2: No overstatement or one-sided praise is present; the text remains neutral and objective."
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The total dividend paid was approximately RM14.48 million...\" (clear numerical presentation)\n• Evidence 2: \"59.40% of the attributable profit...\" (direct percentage relationship)"
+    "score": 9,
+    "justification": "• Evidence 1: \"4.0 cents single-tier dividend per share\" (precise, direct language).\n• Evidence 2: The structure clearly separates dividend details from other sections, avoiding redundancy."
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"The total dividend paid... represented 59.40% of the attributable profit...\" (financial performance indicator)\n• Evidence 2: \"The respective brands... will continue to leverage... digital platforms...\" (forward-looking strategic context)"
+    "justification": "• Evidence 1: \"59.40% of the attributable profit\" (useful for investors' decision-making).\n• Evidence 2: No forward-looking information or risk disclosures are included in the dividend section."
   }
 }

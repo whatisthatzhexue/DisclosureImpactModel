@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Economic Census 2023 conducted by Department of Statistics Malaysia\" (verifiable data source)\n• Evidence 2: \"under AWA, the department was empowered to revoke the licence...\" (direct quote from Dr Saravanakumar Supramaniam Pillai)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or any food/beverage industry connections\n• Evidence 2: Focus on pet care sector regulations, not related to food production or business strategies"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Pet sales valued at RM699.4mil, followed by veterinary services (RM219.7mil)\" (comprehensive financial data)\n• Evidence 2: Detailed analysis of breeding practices, legal frameworks, and international comparisons (global context and regulatory depth)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The ‘Ku’ adds a personal touch...\" (direct quote from Melati Abdul Hai, a credible source within McDonald’s)\n• Evidence 2: \"The burger has now gone beyond Malaysian borders...\" (self-reported claim without third-party verification)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We believe in creating ‘delicious feel-good’ moments...\" (aligns with McDonald’s Malaysia’s brand strategy and community engagement)\n• Evidence 2: \"The growth of McDonald’s Malaysia isn’t just about expanding our presence...\" (directly ties to long-term value creation and local roots)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Prosperity Burger started as a local innovation...\" (provides historical context)\n• Evidence 2: \"It is now available for watching at McDonald’s Malaysia’s official YouTube channel\" (specific detail about distribution but lacks broader market impact data)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Bursa Malaysia Bhd has announced 19 additions to the constituents of the FTSE4Good Bursa Malaysia (F4GBM) Index\" [verifiable factual statement]\n• Evidence 2: \"All constituent changes will take effect at the start of business on June 23, 2025\" [specific, verifiable timeline]"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The F4GBM Index includes publicly listed companies (PLCs) with good liquidity and strong environmental, social, and governance (ESG) practices\" [general ESG criteria, no direct link to Berjaya Food Berhad]\n• Evidence 2: \"Berjaya Land Bhd... has been included in the F4GBM Index\" [no mention of Berjaya Food Berhad or its strategic implications]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The F4GBMS Index tracks the constituents in the F4GBM that are Shariah-compliant\" [context about index criteria]\n• Evidence 2: \"19 additions and five exclusions... resulting in a total of 125 constituents\" [quantitative details about index changes]"
+  }
+}

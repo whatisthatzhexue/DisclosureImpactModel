@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Despite a challenging year due to the COVID-19 pandemic... aided by successful execution of operational strategies as well as recovery in the Indochina and export markets.\" (acknowledges challenges and provides context)\n• Evidence 2: \"Sales of these products increased from 5,000 cases a month... to 25,000 cases in September 2020.\" (specific quantitative data supporting claims)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We continued to strengthen our distribution network and increase coverage by 2,000 new outlets\" (clear, direct language with specific metrics)\n• Evidence 2: \"TEAPOT is the market-leading brand in condensed milk market in both Cambodia and Laos\" (precise terminology with contextual clarity)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Export market performed particularly well this year, growing by 14 per cent... contributed to over RM200 million in revenue\" (material financial information for investors)\n• Evidence 2: \"We were also awarded... Zero Accident Campaign 2020 from Ministry of Labour Thailand\" (corporate governance and risk management relevance)"
+  }
+}

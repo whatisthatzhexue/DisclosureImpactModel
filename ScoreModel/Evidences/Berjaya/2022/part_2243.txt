@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Food strive to achieve zero injuries in the workplace.\" (Sets a clear goal without overstatement)\n• Evidence 2: \"Total hours 178,875\" and \"Average hours of training per year per employee 33\" (Provides specific quantitative data to support claims)"
+    "score": 5,
+    "justification": "• Evidence 1: \"Food strive to achieve zero injuries in the workplace.\" (Specific goal but lacks risk disclosure)\n• Evidence 2: \"Total hours 178,875\" and \"Average hours of training per year per employee 33\" (Quantitative data supports reliability)"
   },
   "Understandability": {
     "score": 6,
-    "justification": "• Evidence 1: \"Safety and Health Committee at each of its brand\" (Clear structure but lacks explanation of committee functions)\n• Evidence 2: \"Material Safety Data Sheets (\"MSDS\") for all chemicals on the premises\" (Technical term used without contextual explanation)"
+    "justification": "• Evidence 1: \"Safety and Health Committee at each of its brand\" (Clear structure but lacks contextual explanation)\n• Evidence 2: \"Average days of training per year per employee 4.125\" (Precise numerical data improves clarity)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Safety and Health Committee... Chairman is the Group CEO\" (Relevant corporate governance information)\n• Evidence 2: \"Average days of training per year per employee 4.125\" (Provides operational metrics relevant to investor assessment)"
+    "score": 5,
+    "justification": "• Evidence 1: \"Employees and suppliers receive training... promoting appropriate prevention behaviours\" (Relevant to operational safety)\n• Evidence 2: \"Total hours 178,875\" (Quantitative data may inform investment assessment)"
   }
 }

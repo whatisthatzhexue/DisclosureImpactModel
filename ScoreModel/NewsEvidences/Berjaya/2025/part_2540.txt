@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We will have the unofficial results by around 9pm tonight (May 23) and will be informing the candidates involved.\" (Quotes from official source)\n• Evidence 2: \"There have been no problems at either location.\" (Specific, verifiable details about voting centers)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its business activities, financials, or strategic initiatives.\n• Evidence 2: The content focuses solely on PKR's internal political process, which is unrelated to the company context provided."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"A total of 32,030 delegates are eligible to vote... 9,029 voting physically and the rest online.\" (Quantitative data about the election process)\n• Evidence 2: \"There are 251 candidates contesting 75 positions...\" (Detailed breakdown of competition structure)"
+  }
+}

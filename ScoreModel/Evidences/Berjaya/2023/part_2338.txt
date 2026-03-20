@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"there was no major issue raised during the private session\"\n• Evidence 2: \"Reviewed the Internal Audit Reports... Management’s responses... timeline taken by Management to ensure the deficiencies are addressed promptly\""
+    "justification": "• Evidence 1: \"there was no major issue raised during the private session\"\n• Evidence 2: \"Reviewed the Internal Audit Reports... Management’s responses from the respective business units\""
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Structured with clear headings (a), (b), (c) for each section\"\n• Evidence 2: \"Specific details about audit scope, risks, and internal controls\""
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed and approved the Internal Audit Plan... to ensure the scope and coverage... are adequate, comprehensive\"\n• Evidence 2: \"Assessed the adequacy of the scope, competency and performance... effectiveness of the audit processes\""
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Reviewed the 2022 Circular to Shareholders... to ensure transactions are fair and reasonable\"\n• Evidence 2: \"Assessed the adequacy of internal audit function... effectiveness of audit processes\""
+    "justification": "• Evidence 1: \"Reviewed the 2022 Circular to Shareholders... to ensure that the transactions are fair and reasonable\"\n• Evidence 2: \"Audit emphasis, audit quality, auditors’ independence, digital audit... risk of management override of controls\""
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Putrajaya Corporation (PPj), in a statement to StarMetro, said there were more than 250 stalls operating at the bazaar...\" (verifiable data from a cited source)\n• Evidence 2: \"Shoppers interviewed by StarMetro said easy parking...\" (balanced reporting with direct quotes)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The bazaar began operating on March 8...\" (no mention of Berjaya Food or its strategic operations)\n• Evidence 2: \"This year, the bazaar began operating on March 8...\" (no connection to company's business performance or market impact)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Clothing stalls made up the highest number of stalls at 175, followed by baked goods (45)...\" (quantitative data on bazaar composition)\n• Evidence 2: \"Women looking for the best bargain...\" (detailed shopper behavior analysis and context about product trends)"
+  }
+}

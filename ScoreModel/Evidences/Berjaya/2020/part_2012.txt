@@ -1,15 +1,15 @@
 {
   "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The information and data disclosed in this statement were derived from internal reporting processes, systems and records.\"\n• Evidence 2: \"The Sustainability Statement covers material issues arising from its principal subsidiary... and does not include... Brunei.\"\n• Evidence 3: \"The Group has faced disruptive changes to its business operations with significant impacts across the three main aspects...\"\n• Evidence 4: \"The information in this section focuses on the operations and management of the economic, environmental and social sustainability...\"\n• Evidence 5: \"The Group has nevertheless implemented stringent hygiene standards...\"\n• Evidence 6: \"The Sustainability Statement for Berjaya Food Berhad... is prepared in accordance with the Sustainability Reporting Guide from Bursa Malaysia Securities Berhad\""
+    "score": 7,
+    "justification": "• Evidence 1: \"The information and data disclosed in this statement were derived from internal reporting processes, systems and records.\" (supports reliability via source documentation)\n• Evidence 2: \"The Group has faced disruptive changes to its business operations with significant impacts across the three main aspects...\" (discloses challenges and uncertainties)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Sustainability Statement covers material issues arising from its principal subsidiary... and other business activities...\"\n• Evidence 2: \"The Group strives to support economic growth... guided by a long-term strategy comprising 3 main aspects: - Economic Sustainability... - Environmental Sustainability... - Social Sustainability...\"\n• Evidence 3: \"The limited edition Starbucks x Royal Selangor collaboration launched in December 2019\" (unexpectedly placed in the middle of the text, disrupting flow)\n• Evidence 4: \"The various lockdown measures implemented by governments... led to various levels of business suspension\" (clear explanation of impacts)"
+    "justification": "• Evidence 1: \"The Sustainability Statement covers material issues arising from its principal subsidiary...\" (clear scope definition)\n• Evidence 2: \"Striving towards reducing the Group’s environmental footprint...\" (precise description of sustainability goals)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The COVID-19 pandemic has brought about significant disruptions... leading to various levels of business suspension.\"\n• Evidence 2: \"The Group has faced disruptive changes to its business operations with significant impacts across the three main aspects...\"\n• Evidence 3: \"The Group has nevertheless implemented stringent hygiene standards... to ensure business continuity...\"\n• Evidence 4: \"The Sustainability Statement covers material issues arising from its principal subsidiary... and other business activities...\"\n• Evidence 5: \"The limited edition Starbucks x Royal Selangor collaboration launched in December 2019\" (potentially material event but lacks contextual relevance to sustainability)"
+    "score": 6,
+    "justification": "• Evidence 1: \"The COVID-19 pandemic has brought about significant disruptions...\" (material event impacting operations)\n• Evidence 2: \"The Group strives to support economic growth...\" (explains sustainability strategy relevance to investors)"
   }
 }

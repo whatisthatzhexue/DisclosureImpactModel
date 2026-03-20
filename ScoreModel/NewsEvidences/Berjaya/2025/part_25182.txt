@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Adeline, 24, was charged at the Sepang Sessions Court under Section 233 of the Communications and Multimedia Act\" (verifiable legal context)\n• Evidence 2: \"She pleaded guilty to the charge\" (direct quote confirming admission of guilt)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or any business operations\" (complete absence of company-related content)\n• Evidence 2: \"Focus on personal legal issues of an influencer, unrelated to corporate strategy or financial performance\" (no connection to stakeholder interests)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Provides specific details about the fine amount, legal section, and court proceedings\" (basic factual coverage)\n• Evidence 2: \"Lacks contextual analysis of legal implications for social media influencers or corporate risk management\" (insufficient depth for stakeholder analysis)"
+  }
+}

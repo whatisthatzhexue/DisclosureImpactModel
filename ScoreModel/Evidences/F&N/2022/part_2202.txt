@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"We are guided by our Environmental, Safety and Health Policy, which ensures all major plants in the group are ISO 14001:2015 (environmental management system) certified.\"\n• Evidence 2: \"Commodities and materials price risk is managed through forward purchase of key commodities, active monitoring of commodities price trends, and vigilant sales forecasting and production planning.\""
+    "justification": "• Evidence 1: \"We are guided by our Environmental, Safety and Health Policy, which ensures all major plants in the group are ISO 14001:2015 (environmental management system) certified.\" (specific fact)\n• Evidence 2: \"Commodities and materials price risk is managed through forward purchase of key commodities...\" (objective risk mitigation strategy)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Extreme weather events and other environmental concerns (Emerging Risk)\" clearly labels the risk category.\n• Evidence 2: The text uses structured headings (e.g., \"Risk Identification & Assessment\") but ends abruptly with an incomplete sentence: \"Sustainability and\"."
+    "justification": "• Evidence 1: \"Four core response strategies: Accept, Avoid, Reduce, Transfer\" (clear categorization)\n• Evidence 2: \"Typically, at least 60 per cent of our forex requirements are hedged\" (precise numerical data)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Significant increase in commodity prices (Emerging Risk)\" directly addresses investor concerns about financial impacts.\n• Evidence 2: \"Exposure to fluctuations in exchange rates\" and associated mitigation strategies provide actionable insights for assessing operational risks."
+    "score": 7,
+    "justification": "• Evidence 1: \"Significant increase in commodity prices (Emerging Risk)\" (material risk disclosure)\n• Evidence 2: \"Exports serve as additional natural hedge...\" (forward-looking operational strategy)"
   }
 }

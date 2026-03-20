@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We have already completed two data centre projects in Johor...\" (direct quote with specific project details)\n• Evidence 2: \"The group’s current order book for data centres stands at approximately RM70mil...\" (specific financial data with no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"eyes global growth\" and \"acquired a 12% stake in PT Oriental Indonesia...\" (direct link to strategic expansion)\n• Evidence 2: \"RM2.1bil order book provides earnings visibility...\" (financial implications for long-term value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In Iraq, Kuna said the group is currently working on the Baghdad Metro contract...\" (specific project details with financial metrics)\n• Evidence 2: \"We are also working on two new data centres in Cyberjaya, Infinaxis and Basis Bay...\" (multiple project examples with location context)"
+  }
+}

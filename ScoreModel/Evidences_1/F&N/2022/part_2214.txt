@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Quick response and collaboration between manufacturing and sales teams resulted in minimal disruption\" (discloses flood mitigation success)\n• Evidence 2: \"Launched in-sourced transportation service...save RM3 million - RM4 million annually\" (specific financial impact stated)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Warehouse in Kota Kinabalu Industrial Park (KKIP) was completed...reduce logistics costs\" (clear structure with specific outcomes)\n• Evidence 2: \"Use of Microsoft Power BI to gather market insights...boost sales\" (precise language with measurable goals)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Although our operating environment will continue to be challenging...optimistic of our immediate outlook\" (forward-looking statement with risk acknowledgment)\n• Evidence 2: \"Completed the integrated warehouse...shorten delivery lead-time\" (specific operational improvements relevant to investors)"
+  }
+}

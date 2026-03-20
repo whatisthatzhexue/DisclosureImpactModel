@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"transactions are undertaken on an arm’s length basis, on normal commercial terms consistent with the Company’s business practices and policies\" (neutral, factual disclosure)\n• Evidence 2: \"the distribution of dividend was in accordance with the provision made under the Companies Act 2016\" (specific legal compliance reference)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC also reviewed the transactions with related parties...pursuant to Chapter 10 of the Main Market Listing Requirements of Bursa Malaysia Securities Berhad\" (specific compliance reference).\n• Evidence 2: \"the ARMC had reviewed the related party transaction...for a total cash consideration of RM15,674,750.00\" (quantifiable, factual detail)."
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Reviewed and recommended to the Board for approval, the ARMC Report...\" (clear action-oriented language)\n• Evidence 2: \"total cash consideration of RM15,674,750.00 or at RM650.00 per square foot\" (precise numerical data)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed and recommended to the Board for approval...\" (clear action-oriented language).\n• Evidence 2: \"risk score, risk treatment, risk owner and control effectiveness\" (precise terminology for risk management context)."
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Reviewed the risk register covering areas such as the likelihood of occurrence...\" (directly addresses risk management)\n• Evidence 2: \"recommended to the Board for approval the revised External Auditors Policy\" (pertinent to corporate governance and oversight)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed and recommended to the Board the distribution of interim dividend...based on the solvency test\" (material financial decision relevance).\n• Evidence 2: \"Reviewed the risk register covering areas such as the likelihood of occurrence...\" (direct relevance to investor risk assessment)."
   }
 }

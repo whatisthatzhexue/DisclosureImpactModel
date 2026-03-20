@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"A materiality survey was administered to stakeholders, soliciting their evaluations on the significance of 19 sustainability areas.\"\n• Evidence 2: \"The Board and Senior Management Team actively participated, contributing valuable insights to BFood's comprehensive understanding.\""
+    "justification": "• Evidence 1: \"The Methodology\" section describes a materiality survey with stakeholders using a 5-point Likert scale, providing factual context (\"A materiality survey was administered to stakeholders...\").\n• Evidence 2: The text mentions Board and Senior Management participation, but lacks explicit disclosure of risks, challenges, or uncertainties beyond general statements about risk mitigation."
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"SUSTAINING SUCCESS THROUGH PRIORITISED IMPACT\" (clear section title)\n• Evidence 2: \"The table below illustrates the alignment of each material matter with the Global Reporting Initiative...\" (precise language with specific references)"
+    "score": 8,
+    "justification": "• Evidence 1: The text uses clear structure with headings like \"The Methodology\" and \"Stakeholders Contributing...\" to organize information.\n• Evidence 2: Explanations of materiality and alignment with GRI/UNSDGs are direct, though some technical terms (e.g., \"materiality assessment\") are used where necessary."
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"fostering sustainable growth and long-term value creation\" (forward-looking statement)\n• Evidence 2: \"align with broader global objectives\" (relevance to stakeholders, but lacks specific risk or performance details)"
+    "score": 7,
+    "justification": "• Evidence 1: The text explains how materiality assessment informs resource allocation and risk mitigation, which is directly relevant to investors (\"strategic focus enables BFood to allocate resources effectively, mitigate risks...\").\n• Evidence 2: Forward-looking alignment with GRI and UNSDGs is mentioned, but there is no specific information about performance changes or material events impacting stakeholders."
   }
 }

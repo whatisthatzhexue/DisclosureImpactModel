@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"All financial statements... were reviewed by the Audit Committee and approved by the Board to ensure accuracy, adequacy and completeness of information...\" (specific factual process)\n• Evidence 2: \"The Audit Committee noted that no material transactions were entered by the Group with related parties...\" (transparent disclosure of absence of material risks)"
+    "score": 8,
+    "justification": "• Evidence 1: \"All financial statements... compliance with relevant accounting standard and regulations prior to release to public and regulatory authorities.\" [Quotes specific compliance actions]\n• Evidence 2: \"Based on satisfactory results... recommended to the Board for the reappointment of the External Auditors.\" [Neutral evaluation of audit firm performance]"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Audit Committee held five -5 meetings...\" (clear numerical structure)\n• Evidence 2: \"The Board has adopted such practice for the disclosure of material information...\" (precise explanation of disclosure mechanisms)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee comprises the following members: - Chairman:...\" [Clear structure with bullet points]\n• Evidence 2: \"The meetings were conducted with the quorum of a majority...\" [Direct language explaining meeting protocols]"
   },
   "Relevance": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Board... ensures fair and equitable access by all stakeholders...\" (direct relevance to investor decision-making)\n• Evidence 2: \"The Board will seek to strengthen its diversity...\" (forward-looking governance strategy relevant to long-term risk management)"
+    "justification": "• Evidence 1: \"The Board has adopted such practice... ensure factual, accurate and consistent disclosure.\" [Directly addresses stakeholder communication]\n• Evidence 2: \"In the medium term... improve transparency in disclosing the remuneration...\" [Provides forward-looking governance plans relevant to investors]"
   }
 }

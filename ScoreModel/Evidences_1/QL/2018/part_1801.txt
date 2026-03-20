@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company meets the requirement of Paragraph 15.09 -1(c)(i) of the Listing Requirements.\" [specific regulatory compliance]\n• Evidence 2: \"The Audit Committee held two -2 meeting with the External Auditors without the presence of the executive board members and management\" [transparent disclosure of audit processes]"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed and recommended the Quarterly and Annual Financial Statements... for Board’s approval\" [clear, structured activity description]\n• Evidence 2: \"The internal audit function provided the AC on a quarterly basis...\" [precise, direct language]"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed non-recurrent related party transactions to ascertain that it was undertaken at arms’ length...\" [material risk disclosure]\n• Evidence 2: \"The Board fulfills its responsibilities in the risk governance...\" [corporate governance and risk management relevance]"
+  }
+}

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: 'The above review was to ensure that the Company's quarterly financial reporting... in compliance with the Malaysian Financial Reporting Standard... and International Accounting Standard 34' [demonstrates objective compliance verification].\n• Evidence 2: 'However, there was no major issue raised during the private session' [neutral disclosure of audit findings]."
+    "justification": "• Evidence 1: 'The above review was to ensure that the Company's quarterly financial reporting... in compliance with the Malaysian Financial Reporting Standard... and International Accounting Standard 34' [demonstrates objective compliance checks].\n• Evidence 2: 'However, there was no major issue raised during the private session' [neutral disclosure of audit findings]."
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'Reviewed the audited financial statements... to ensure that it presented a true and fair view' [precise language with clear purpose].\n• Evidence 2: 'Discussed and considered the significant accounting adjustments... key audit matters' [structured logical flow with specific audit focus]."
+    "score": 9,
+    "justification": "• Evidence 1: 'Reviewed the quarterly financial results including the draft announcements pertaining thereto' [clear, direct language].\n• Evidence 2: 'The ARMC also had private discussions with the External Auditors... to discuss any problems/issues' [logical structure with specific details]."
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: 'Reviewed the 2023 Circular to Shareholders... to ensure that the transactions are fair and reasonable to... minority shareholders' [directly addresses investor concerns about related party transactions].\n• Evidence 2: 'The ARMC also reviewed the procedures and processes... to ensure that the transactions are within the approved mandate' [corporate governance relevance]."
+    "justification": "• Evidence 1: 'Reviewed the 2023 Circular to Shareholders... to ensure that the transactions are fair and reasonable to, and are not to the detriment of, the minority shareholders' [material governance risk disclosure].\n• Evidence 2: 'Discussed and considered the significant accounting adjustments... with the External Auditors' [relevant audit risk information]."
   }
 }

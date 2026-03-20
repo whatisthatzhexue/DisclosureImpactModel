@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The tower run encapsulates our commitment to promoting a healthier lifestyle and community engagement,\" said Berjaya Corporate Communications and Sustainability deputy general manager Giam Say Khoon.\n• Evidence 2: \"The overwhelming response from the inaugural tower run has inspired us to elevate this year’s events,\" he said."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The tower run encapsulates our commitment to promoting a healthier lifestyle and community engagement,\" said Berjaya Corporate Communications and Sustainability deputy general manager Giam Say Khoon.\n• Evidence 2: Partnerships with Berjaya Starbucks Coffee Company Sdn Bhd and Berjaya Cares Foundation highlight CSR initiatives, which may align with long-term brand value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides specific details about event structure (47 storeys, 1,061 steps, categories), participation numbers (500 runners from 15 countries), and sponsorships (Berjaya Starbucks).\n• Evidence 2: Background on the inaugural event and quotes from company representatives add context, though deeper financial or market impact analysis is lacking."
+  }
+}

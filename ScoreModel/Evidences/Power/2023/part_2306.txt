@@ -1,6 +1,6 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
-  "Understandability": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
-  "Relevance": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"}
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {"score": 1, "justification": "• Evidence 1: [TEXT]audit committee report cont’d AR 2023[/TEXT] (no specific facts or neutral disclosures)\n• Evidence 2: No mention of risks, challenges, or uncertainties (0/4 criteria met)"},
+  "Understandability": {"score": 1, "justification": "• Evidence 1: [TEXT]audit committee report cont’d AR 2023[/TEXT] (vague, lacks structure/precision)\n• Evidence 2: No clear language or professional terms (0/4 criteria met)"},
+  "Relevance": {"score": 2, "justification": "• Evidence 1: [TEXT]audit committee report[/TEXT] (potentially relevant to governance but no details)\n• Evidence 2: No forward-looking info, risks, or material events (1/4 criteria met)"}
 }

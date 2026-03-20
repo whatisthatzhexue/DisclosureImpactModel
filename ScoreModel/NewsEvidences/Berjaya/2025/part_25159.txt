@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"SPAN chairman Charles Santiago has appealed to the Selangor government...\" (verifiable facts and official statements)\n• Evidence 2: \"He was later found guilty, sentenced to three months in prison...\" (specific legal outcomes and citations)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or its operations, financials, or strategic initiatives\" (complete absence of company-specific information)\n• Evidence 2: \"Focus on environmental regulation and industrial compliance, unrelated to food/beverage sector operations\" (no stakeholder relevance to the company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"SPAN recorded four out of 20 incidents of raw water pollution...\" (quantitative data and historical context)\n• Evidence 2: \"The report said importers should...\" (detailed policy recommendations and regulatory analysis)"
+  }
+}

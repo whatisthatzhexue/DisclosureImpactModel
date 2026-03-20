@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Profit After Tax (RM million) Revenue (billion) Average Training Hours per Employee\" (specific metrics with historical data)\n• Evidence 2: \"target: at least 12 training hours per employee\" (clear target with quantifiable benchmark)"
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N is focused on building a stronger and more sustainable business...\" (neutral objective statement)\n• Evidence 2: \"Refer to pages 149 to 150 for a summary of the targets and progress to date\" (acknowledges need for further detail)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"SUSTAINABLE PRACTICES... Better Planet through circularity & environmental protection initiatives\" (clear section headers and direct language)\n• Evidence 2: \"Healthier Choice Products Ratio in Portfolio (%)\" (precise metric with contextual explanation)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Profit After Tax (RM million) Revenue (billion) Average Training Hours per Employee\" (clear metric labeling)\n• Evidence 2: \"target: at least 12 training hours per employee\" (awkward phrasing with lowercase 'target')"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Objective: Maximise value creation and provide good returns to shareholder\" (directly relevant to investor concerns)\n• Evidence 2: \"Refer to pages 149 to 150 for a summary of the targets and progress to date\" (forward-looking information with reference to detailed data)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Maximise value creation and provide good returns to shareholder\" (investor-focused objective)\n• Evidence 2: \"12 F&N Group Sustainability targets to be achieved by 2025\" (forward-looking but lacks implementation details)"
   }
 }

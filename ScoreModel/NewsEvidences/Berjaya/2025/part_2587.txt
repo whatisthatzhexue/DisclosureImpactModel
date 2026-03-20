@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This feature... does not require a minimum balance to enter a parking lot.\" (specific technical detail)\n• Evidence 2: \"Payments will still work even if users lose their smartphone...\" (verifiable operational claim)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Currently, 12 locations... have support for the LPR feature.\" (indicates market expansion)\n• Evidence 2: \"Up to 10 vehicles... can be added to the app's LPR parking payment feature.\" (shows scalability of service offering)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Users will need to perform an identity verification face scan...\" (detailed implementation process)\n• Evidence 2: \"The LPR parking payment feature must be enabled for each vehicle...\" (comprehensive technical explanation)"
+  }
+}

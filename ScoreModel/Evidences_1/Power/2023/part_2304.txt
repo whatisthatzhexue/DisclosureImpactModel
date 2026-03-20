@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the Audit Committee noted that there were no other material transactions entered into by the Group with related parties during the financial year ended 31 March 2023\"\n• Evidence 2: \"the Audit Committee was satisfied with the results of the risk assessment and its responses\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the Related Party Transactions\" (clear section heading)\n• Evidence 2: \"the Audit Committee reviewed the draft circular to Shareholders to ensure the [compliance] were in compliance with the MMLR\" (precise language with context)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reviewed the Sustainability Matters Assessment Results of the Group\" (directly relevant to investor concerns about ESG)\n• Evidence 2: \"Reviewed the Draft Circular to Shareholders on the 'Proposed Renewal of Shareholders’ Mandate for RRPTs'\" (critical for governance and shareholder rights)"
+  }
+}

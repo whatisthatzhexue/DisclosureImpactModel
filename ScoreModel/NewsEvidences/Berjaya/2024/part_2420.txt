@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"It is not true and has caused alarm in the local community,\" he said.\n• Evidence 2: \"The video from the CCTV recording was uploaded on Facebook using the 'TAWAUKINI' account...\" (provides verifiable details about the incident's location and legal context)."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or its operations, financials, or stakeholders.\n• Evidence 2: The incident described is unrelated to the company's business activities or market position."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our investigation showed that the incident did not happen in Tawau but in Ayer Tawar, Perak on May 20 at 9.34pm...\" (provides specific details about the event and legal framework).\n• Evidence 2: \"The spread of false statements... has caused alarm and panic among the public\" (contextualizes the impact of misinformation)."
+  }
+}

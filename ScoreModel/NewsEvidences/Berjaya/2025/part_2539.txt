@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We appointed two staff members as producers to oversee the station’s operations\"\n• Evidence 2: \"Since its launch, the station recorded a total of 18,231 listeners by the end of March\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Radio MPSepang can be accessed at https://radiompsepang.my\"\n• Evidence 2: No direct mention of Berjaya Food Berhad or its business strategies, financial performance, or market position"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Kopi & Susu segment has seen a surge in listener numbers, reflecting strong community interest in interviews and informative discussions\"\n• Evidence 2: \"During the fasting month, dietitian Faizah Ahmad Mokhtar... shared tips on staying hydrated\""
+  }
+}

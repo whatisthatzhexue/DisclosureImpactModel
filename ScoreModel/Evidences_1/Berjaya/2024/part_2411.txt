@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2024, BKelava recorded a total revenue of RM0.4 million compared to the RM0.3 million recorded in the previous financial year. This growth was driven by...\" (specific factual comparison)\n• Evidence 2: \"This increased loss was mainly due to higher operational costs and retail outlet expenses.\" (explanation of performance change)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BKelava has approximately 50 distribution points throughout the central and west coast regions...\" (clear geographic context)\n• Evidence 2: \"Made exclusively from plant-based ingredients...\" (precise product description)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"This growth was driven by the proactive expansion...\" (explains revenue change)\n• Evidence 2: \"Made with only the finest ingredients...\" (promotional language lacking material risk disclosure)"
+  }
+}

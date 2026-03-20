@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MRCB has decided to withdraw from the consortium to pursue other strategic opportunities\" (verifiable statement from Berjaya Group).\n• Evidence 2: \"The HSR project was formally agreed between Malaysia and Singapore in February 2013\" (specific historical data with verifiable context)."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We remain steadfast in our mission to deliver a world-class HSR system...\" (directly ties to Berjaya Group's strategic priorities).\n• Evidence 2: \"The consortium and its technical partners... bring decades of proven expertise\" (connects to Berjaya Group's competitive positioning and long-term value creation)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The project was formally terminated after both countries failed to reach an agreement... Malaysia was required to compensate Singapore S$102.8mil\" (comprehensive financial and historical context).\n• Evidence 2: \"Work on the project was put on hold in September 2018...\" (detailed timeline and project status)."
+  }
+}

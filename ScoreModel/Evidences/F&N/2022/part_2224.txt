@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"An external consulting firm is engaged to carry out the evaluation to ensure that the process remains robust and thorough.\"\n• Evidence 2: \"There was no change in the remuneration policies and practices during the Financial Year 2022.\""
+    "score": 9,
+    "justification": "• Evidence 1: \"An external consulting firm is engaged to carry out the evaluation to ensure that the process remains robust and thorough.\"\n• Evidence 2: \"There was no change in the remuneration policies and practices during the Financial Year 2022.\"\n• Evidence 3: \"The Board acknowledges its overall responsibility for monitoring the Group’s risk management and internal control systems...\""
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board has established the Remuneration Committee comprising five Non-Executive Directors... to attract and retain Directors.\"\n• Evidence 2: \"The aggregate Directors’ remuneration paid to the Directors of the Company for the Financial Year 2022 is disclosed in the financial statements.\""
+    "justification": "• Evidence 1: \"Directors’ Remuneration Policy and Senior Management’s Remuneration Policy are available on the Company’s website.\"\n• Evidence 2: \"Performance against budget is monitored at business unit level and centrally, with variances being reported promptly.\"\n• Evidence 3: \"The aggregate Directors’ remuneration paid to the Directors of the Company for the Financial Year 2022 is disclosed in the financial statements.\""
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The Board acknowledges its overall responsibility for monitoring the Group’s risk management and internal control systems...\"\n• Evidence 2: \"The Company has in force Directors and Officers insurance policy...\""
+    "score": 9,
+    "justification": "• Evidence 1: \"The objectives of Board evaluations are to assess all aspects of the effectiveness of the Board as a whole and its Committees...\"\n• Evidence 2: \"The Company has in force Directors and Officers insurance policy essentially covering the acts of Directors and Officers...\"\n• Evidence 3: \"Clearly defined guidelines have been established for capital expenditure and investment decisions...\""
   }
 }

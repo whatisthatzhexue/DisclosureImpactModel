@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"DPP Nurul Faraheen Yahya had informed the Sessions judge...\" (specific legal process cited)\n• Evidence 2: \"He pleaded not guilty to the two separate charges...\" (direct quotes from the case details)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad is a food and beverage company...\" (company context provided, but no connection to article content)\n• Evidence 2: \"Consider the information needs of investors...\" (instructional context, but article is unrelated to company operations)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The first charge alleged that Along possessed 49.61 grams...\" (specific case details provided)\n• Evidence 2: \"This charge was filed under Section 15(1)(a)...\" (legal context and penalties explained)"
+  }
+}

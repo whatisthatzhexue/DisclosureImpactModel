@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MPSepang is expected to save RM105,422 in the first year.\" (specific financial claim with timeframe)\n• Evidence 2: \"The solar panels were installed in four months, between April 18 and Aug 12 of 2022\" (verifiable timeline with dates)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"This is in line with the council’s Cyberjaya Smart and Low Carbon City 2025 and vision for a clean, green, smart and sustainable municipality by 2030\" (aligns with long-term strategic goals)\n• Evidence 2: \"The solar panels installation is a 20-year contract\" (financial commitment with clear duration)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A PV system is composed of one or more solar panels combined with an inverter and other electrical and mechanical hardware\" (technical context)\n• Evidence 2: \"The solar panels were installed in four months, between April 18 and Aug 12 of 2022, while the licence to fully operate it was obtained on Dec 7 last year\" (detailed implementation timeline)"
+  }
+}

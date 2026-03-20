@@ -1,6 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 0, "justification": "• Evidence 1: [No disclosure of risks, challenges, or uncertainties]\n• Evidence 2: [No specific facts or objective statements provided]"},
-  "Understandability": {"score": 0, "justification": "• Evidence 1: [No clear structure or logical content]\n• Evidence 2: [No precise or direct language]"},
-  "Relevance": {"score": 0, "justification": "• Evidence 1: [No forward-looking information or risk disclosures]\n• Evidence 2: [No mention of material events, governance, or investor-relevant details]"}
+  "Reliability": {
+    "score": 1,
+    "justification": "• Evidence 1: [No specific risks, challenges, or uncertainties disclosed]\n• Evidence 2: [No factual support for claims in the text]"
+  },
+  "Understandability": {
+    "score": 2,
+    "justification": "• Evidence 1: [Fragmented structure with unclear continuation indication 'cont’d']\n• Evidence 2: [Obscure company identifier '733268-U' without contextual explanation]"
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: [No forward-looking information or material events disclosed]\n• Evidence 2: [No risks, governance, or decision-relevant data provided]"
+  }
 }

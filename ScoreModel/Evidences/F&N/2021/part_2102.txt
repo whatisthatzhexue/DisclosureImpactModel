@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The aggregate Directors’ remuneration paid to the Directors of the Company for the Financial Year 2021 is disclosed in the financial statements.' (Specific, factual disclosure)\n• Evidence 2: 'The Audit Committee... reviews the quarterly reports and annual financial statements focusing particularly on compliance with applicable financial reporting standards...' (Objective, risk-focused analysis)"
+    "score": 9,
+    "justification": "• Evidence 1: 'The Company has in force Directors and Officers insurance policy essentially covering the acts of Directors and Officers and personal accident insurance policy for Directors.'\n• Evidence 2: 'The Audit Committee ensures that the external auditors are independent of the activities they audit, and reviews the contracts for provision of non-audit services by the external auditors.'"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: 'The Board has established the RemCom comprising five Non-Executive Directors... to assist the Board mainly in establishing formal and transparent remuneration policies...' (Clear structure with defined roles)\n• Evidence 2: 'The Audit Committee... reviews the quarterly reports and annual financial statements...' (Precise language with specific responsibilities)"
+    "justification": "• Evidence 1: 'The Board has established the RemCom comprising five Non-Executive Directors, three of whom are Independent Directors, to assist the Board mainly in establishing formal and transparent remuneration policies and procedures.'\n• Evidence 2: 'The Audit Committee... reviews the quarterly reports and annual financial statements focusing particularly on compliance with applicable financial reporting standards and other legal requirements.'"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: 'The Company observes the Corporate Disclosure Guide issued by Bursa Securities... to ensure timely and equal dissemination of material information...' (Investor-relevant disclosure)\n• Evidence 2: 'The Audit Committee... ensures that the external auditors are independent of the activities they audit...' (Material governance risk disclosure)"
+    "score": 6,
+    "justification": "• Evidence 1: 'The Board recognises the need for and the importance of effective communication with shareholders.'\n• Evidence 2: 'The Audit Committee... reviews any related party transactions and recurrent related party transactions and the relevant procedures to ensure compliance with the Listing Requirements.'"
   }
 }

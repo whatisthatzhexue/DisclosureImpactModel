@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"On the casino license, it is untrue...That’s a lie,\" he told reporters (direct quote from Anwar Ibrahim).\n• Evidence 2: The article cites Bloomberg as a source for the discussion between Tan Sri Vincent Tan and Tan Sri Lim Kok Tay, while also presenting the government's denial, creating a balanced presentation."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: The article directly mentions Berjaya founder Tan Sri Vincent Tan's involvement in the casino discussions, linking to the company's leadership.\n• Evidence 2: It references the Forest City project's financial scale (RM478.35 bil) and licensing requirements, which could impact Berjaya's business if the project proceeds."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides context about the Forest City project's revival and licensing rules, including the RM478.35 bil figure.\n• Evidence 2: It mentions Genting Group's existing monopoly on casino licenses but lacks deeper analysis of market implications or Berjaya's strategic positioning."
+  }
+}

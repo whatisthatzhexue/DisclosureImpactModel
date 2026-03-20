@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group has documented policies and procedures that are periodically reviewed and updated...\" (neutral, factual description of controls)\n• Evidence 2: \"The Annual Budget... form one of the basis to monitor the actual performances and to identify significant variances...\" (objective explanation of monitoring processes)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Clear reporting lines are established...\" (precise language with logical structure)\n• Evidence 2: \"Computerized enterprise resources planning systems...\" (direct description of infrastructure without vague terms)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Annual Budget... for prompt actions to be taken\" (pertinent to investor decision-making)\n• Evidence 2: \"Matters that require the Board... for review...\" (relevant governance information)"
+  }
+}

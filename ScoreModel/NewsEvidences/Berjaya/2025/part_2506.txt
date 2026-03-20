@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Sports Toto, which has key businesses in automotive retailing and servicing, hospitality, gaming, property development and investment, said the three commercial units are currently tenanted and have a total floor area of about 1,637 sq ft.\" (specific factual details)\n• Evidence 2: \"In a filing with Bursa Malaysia\" (credible source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the proposed acquisition will enable the company to invest in the property which is income generating, as well as to benefit from potential future capital appreciation of the property value\" (direct link to strategic financial goals)\n• Evidence 2: \"Berjaya Corp Bhd is a major shareholder of Sports Toto and Berjaya Assets\" (connects to corporate ownership structure)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"total floor area of about 1,637 sq ft\" (quantitative detail)\n• Evidence 2: \"currently tenanted\" (context about property status)"
+  }
+}

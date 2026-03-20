@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"the risk management and internal control systems are operating satisfactory and have not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group’s annual report, except for written down of inventories and impairment loss on property, plant and equipment during the financial year under review.\"\n• Evidence 2: \"nothing has come to their attention that cause them to believe that the statement... in all material respects: a. has not been prepared in accordance with... or b. is factually inaccurate.\""
+    "justification": "• Evidence 1: \"the Board is of the view that the risk management and internal control systems are operating satisfactory and have not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group’s annual report, except for written down of inventories and impairment loss on property, plant and equipment during the financial year under review.\"\n• Evidence 2: \"nothing has come to their attention that cause them to believe that the statement intended to be included in the annual report of the Group, in all material respects: a. has not been prepared in accordance with the disclosures required by paragraphs 41 and 42...\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board is committed towards maintaining a sound system of internal control and an effective risk management throughout the Group...\" (clear structure with logical flow)\n• Evidence 2: \"AAPG 3 does not require the external auditors to consider...\" (precise technical explanation of audit scope)"
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board is committed towards maintaining a sound system of internal control and an effective risk management throughout the Group and reaffirms its commitment to continuously review and where necessary, enhance further the risk management and internal controls system.\"\n• Evidence 2: \"AAPG 3 does not require the external auditors to consider whether the Directors’ Statement... covers all risks and controls...\""
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The Board continues to take pertinent measures to review and, where necessary, improve the Group’s risk management and internal control systems...\" (includes corporate governance and risk management)\n• Evidence 2: \"written down of inventories and impairment loss on property, plant and equipment\" (discloses specific material risks)"
+    "score": 5,
+    "justification": "• Evidence 1: \"The Board continues to take pertinent measures to review and, where necessary, improve the Group’s risk management and internal control systems to meet the Group’s strategic objectives.\"\n• Evidence 2: \"written down of inventories and impairment loss on property, plant and equipment during the financial year under review.\""
   }
 }

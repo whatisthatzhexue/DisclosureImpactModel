@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"This collaboration aligns with our mission to create sustainable livelihoods for women.\" (Nuraizah Shamsul Baharin)\n• Evidence 2: \"Tackling e-waste requires community-driven solutions.\" (Mohamed Tarek El-Fatatry)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its strategic initiatives.\n• Evidence 2: The program described is unrelated to food and beverage operations or the company's business model."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The programme was designed to promote green entrepreneurship...\" (provides context but lacks historical data)\n• Evidence 2: \"The public is encouraged to support...\" (surface-level engagement details without deeper analysis)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Avaland’s commitment to sustainability is evident in its GreenRE certification for Meria and all its ongoing projects.\" (No external citations, but internal claims are specific)\n• Evidence 2: \"Last year, the developer improved its ESG rating to four stars...\" (Quotes from a COO, but lacks third-party verification)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Avaland plans to launch new projects as part of a broader RM3.4bil release over two years.\" (Directly ties to strategic financial planning and market expansion)\n• Evidence 2: \"By integrating eco-friendly infrastructure and green spaces...\" (Aligns with long-term value creation and competitive positioning in sustainable development)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The recently launched 8.1ha (20-acre) Meria Commercial Hub... boasts a 50% take-up rate...\" (Provides quantitative data on project performance)\n• Evidence 2: \"The Island @ Cybersouth... with a 15ha (37-acre) lake, vertical forests and nature trails...\" (Describes project features and environmental focus, though lacks broader market context)"
+  }
+}

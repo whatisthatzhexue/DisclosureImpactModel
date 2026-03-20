@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Nanyang Technological University in Singapore has facial recognition-based access' (specific example with verifiable data).\n• Evidence 2: 'Police urge stricter checks on off-campus housing' (cites a separate report with contextual relevance)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: 'Berjaya Food Berhad is a food and beverage company listed in Malaysia' (no direct connection to hostel security discussed).\n• Evidence 2: 'Higher Education Ministry' recommendations (no mention of Berjaya Food's operational or strategic ties)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Weak enforcement of visitor logs, under-trained guards, malfunctioning CCTV systems' (detailed analysis of systemic issues).\n• Evidence 2: 'Facial recognition-based access... emergency alert systems linked to local police' (global comparative context and technical specifics)."
+  }
+}

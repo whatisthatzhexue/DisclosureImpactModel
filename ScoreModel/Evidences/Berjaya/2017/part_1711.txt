@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: 'The Board is of the view that while promoting boardroom diversity is essential, the normal selection criteria of a Director, based on an effective blend of competencies... should remain a priority.' (neutral, factual statement)\n• Evidence 2: 'The number of Directors in office at the end of the financial year... are as follows:' (specific, verifiable data)"
+    "justification": "• Evidence 1: \"The Company does not set any specific target for boardroom diversity but will actively work towards achieving the appropriate boardroom diversity.\"\n• Evidence 2: \"A copy of the Board Diversity Policy is available on the Company’s website at www.berjaya.com.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The Board acknowledges the importance of boardroom diversity in terms of age, gender, nationality, ethnicity...' (clear, direct language)\n• Evidence 2: 'The TOR of the Remuneration Committee is available at the Company’s website...' (precise, structured information)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board acknowledges the importance of boardroom diversity in terms of age, gender, nationality, ethnicity and recognises the benefits of this diversity.\"\n• Evidence 2: \"The Remuneration Committee is also responsible to review the remuneration packages of the Non-Executive Directors...\""
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: 'The Board believes in a remuneration policy that fairly supports the Directors’ responsibilities...' (relevant to investor decision-making)\n• Evidence 2: 'The Company is committed to maintaining an environment of respect for people regardless of their gender...' (pertains to governance and corporate values)"
+    "justification": "• Evidence 1: \"The Board believes in a remuneration policy that fairly supports the Directors’ responsibilities...\"\n• Evidence 2: \"The TOR of the Remuneration Committee is available at the Company’s website...\""
   }
 }

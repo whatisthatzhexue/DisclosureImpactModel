@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The ARMC meetings were convened with proper notices and agenda and these were distributed to all members of the ARMC with sufficient notification.\"\n• Evidence 2: \"The minutes of each of the ARMC meetings were recorded and tabled for confirmation at the next ARMC meeting and tabled at the Board Meeting for the Directors’ review and notation.\"\n• Note: The text lacks explicit disclosure of risks, challenges, or uncertainties, which limits reliability."
+    "score": 8,
+    "justification": "• Evidence 1: \"The minutes of each of the ARMC meetings were recorded and tabled for confirmation at the next ARMC meeting and tabled at the Board Meeting for the Directors’ review and notation.\"\n• Evidence 2: \"The Chief Executive Officer was invited to attend all the ARMC meetings to report on the overall operations of the Company...\"\n• Evidence 3: \"The ARMC meetings were convened with proper notices and agenda...\"\n• Evidence 4: \"The duties and responsibilities of the ARMC are set out in its terms of reference...\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The ARMC held five -5 meetings during the financial year ended 30 April 2017.\"\n• Evidence 2: \"The duties and responsibilities of the ARMC are set out in its terms of reference, a copy of which is available at www.berjaya.com.\"\n• Note: The text uses clear structure, precise language, and avoids vague or redundant expressions."
+    "score": 8,
+    "justification": "• Evidence 1: \"The ARMC held five -5 meetings during the financial year ended 30 April 2017. The details of attendance of the ARMC members are as follows:--\"\n• Evidence 2: \"Date of Meetings Review of Quarterly Financial Statements...\""
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"Reviewed the quarterly financial statements including the draft announcements pertaining thereto and made recommendations to the Board for approval of the same.\"\n• Evidence 2: \"The Chief Executive Officer was invited to attend all the ARMC meetings to report on the overall operations of the Company.\"\n• Note: The text provides limited forward-looking information or details on material events, risks, or governance mechanisms beyond committee structure."
+    "justification": "• Evidence 1: \"The ARMC...undertaken the following activities and work during the year...Financial Reporting...\"\n• Evidence 2: \"The duties and responsibilities of the ARMC are set out in its terms of reference...\""
   }
 }

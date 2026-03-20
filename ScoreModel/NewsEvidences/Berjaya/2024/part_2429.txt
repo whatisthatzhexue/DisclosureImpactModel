@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sabah's volatile political environment may just see its people voting a single party into power\" (balanced tone, no clear bias)\n• Evidence 2: \"We must strengthen Warisan first ... we can't work with others (if we are) not certain about our own strengths\" (direct quote from Shafie Apdal, no fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business operations\n• Evidence 2: Focus on political parties and elections unrelated to the company's strategic direction or financial performance"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides historical context about Parti Berjaya's governance (1976-1985) and political dynamics in Sabah\n• Evidence 2: Discusses potential alliances and electoral strategies but lacks data or analysis linking to the company's operations"
+  }
+}

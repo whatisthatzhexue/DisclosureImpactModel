@@ -1,15 +1,6 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 1,
-    "justification": "• Evidence 1: [TEXT]STATEMENT ON RISK MANAGEMENT AND INTERNAL CONTROL ANNUAL REPORT 2022 77[/TEXT]\n• Evidence 2: No specific facts, risks, or challenges are disclosed in the text."
-  },
-  "Understandability": {
-    "score": 1,
-    "justification": "• Evidence 1: [TEXT]STATEMENT ON RISK MANAGEMENT AND INTERNAL CONTROL ANNUAL REPORT 2022 77[/TEXT]\n• Evidence 2: The text lacks structure, clarity, and precise language to convey meaningful information."
-  },
-  "Relevance": {
-    "score": 1,
-    "justification": "• Evidence 1: [TEXT]STATEMENT ON RISK MANAGEMENT AND INTERNAL CONTROL ANNUAL REPORT 2022 77[/TEXT]\n• Evidence 2: No forward-looking information, risks, material events, or governance details are provided."
-  }
+  "Reliability": {"score": 0, "justification": "• Evidence 1: No specific facts, risks, or challenges are disclosed in the text.\n• Evidence 2: The statement lacks objective analysis and does not address uncertainties or support claims with data." },
+  "Understandability": {"score": 2, "justification": "• Evidence 1: The text is a title without explanatory content, making it unclear what the statement entails.\n• Evidence 2: No precise or direct language is used to convey information about risk management or internal controls." },
+  "Relevance": {"score": 0, "justification": "• Evidence 1: The text does not explain performance changes, forward-looking information, or risks.\n• Evidence 2: It omits critical details about material events, corporate governance, or internal management required for investor decision-making." }
 }

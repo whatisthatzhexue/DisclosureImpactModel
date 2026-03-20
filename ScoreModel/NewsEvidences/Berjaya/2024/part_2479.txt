@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Let me get a clearer picture first before I make any comments,\" the MACC chief commissioner said when met by reporters... (direct quote from official source)\n• Evidence 2: \"They also claimed that the MACC had not provided them with the details of the investigation against their father.\" (direct quote from subject's claims)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or its business operations, financials, or strategic initiatives.\n• Evidence 2: The content focuses on political investigations unrelated to the company's competitive position or market impact."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The investigations are said to be linked to entities named in the Pandora Papers as well as the Panama Papers...\" (provides contextual background)\n• Evidence 2: \"In January, Mokhzani and Mirzan were ordered by the MACC to declare their assets dating back to 1981...\" (includes detailed timeline and procedural context)"
+  }
+}

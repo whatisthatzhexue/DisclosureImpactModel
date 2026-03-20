@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 2, "justification": "• Evidence 1: \"All eligible delegates present will cast their votes on the designated day,\" she said at a press conference... (no verifiable data or sources cited)\n• Evidence 2: \"PKR had appointed a third party to audit the election system.\" (no explanation of audit scope or credibility)"},
+  "StrategicRelevance": {"score": 1, "justification": "• Evidence 1: \"The election will take place at the Berjaya Waterfront Hotel and Danga Bay Convention Centre\" (venue mention unrelated to company operations)\n• Evidence 2: No mention of Berjaya Food's business strategies, financial performance, or stakeholder impacts"},
+  "Depth": {"score": 2, "justification": "• Evidence 1: \"Over 9,000 delegates are expected to vote in person... 20,000 online\" (basic statistics without contextual analysis)\n• Evidence 2: \"The central leadership election will use both physical and online voting methods\" (superficial description lacking strategic implications)"}
+}

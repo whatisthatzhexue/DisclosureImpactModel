@@ -2,14 +2,14 @@
   "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"the Put Options remained unexercised\" (discloses current status without overstatement)\n• Evidence 2: \"the number of Consideration Shares... will be subject to the quantum of profit contributions\" (specific factual basis for calculation)"
+    "justification": "• Evidence 1: 'The salient terms of the Put Option Agreements are, amongst others, as set out below:' (neutral, factual disclosure of contractual terms)\n• Evidence 2: 'As at the date of this Statement, the Put Options remained unexercised.' (specific, verifiable factual statement)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Step 1: Calculation of Option Ratio... Step 2: Calculation of Consideration Shares\" (clear logical structure)\n• Evidence 2: \"The issuance of new ordinary shares... is conditional upon approvals\" (precise terminology for specific governance requirements)"
+    "justification": "• Evidence 1: 'Step 1: Calculation of Option Ratio... Step 2: Calculation of Consideration Shares' (clear logical structure)\n• Evidence 2: 'The issuance of new ordinary shares... is conditional upon approvals being obtained' (precise but technical language requiring prior knowledge)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Material Contracts or Loan Involving the interests of the Directors...\" (directly addresses corporate governance relevance)\n• Evidence 2: \"subject to all the required approvals being obtained\" (includes material risks and conditions)"
+    "justification": "• Evidence 1: 'Material Contracts or Loan Involving the interests of the Directors... (directly relevant to corporate governance and investor decision-making)\n• Evidence 2: 'The entering into the Put Options is not subject to any approvals' (pertains to corporate governance and material transactions)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: Specific financial figures (RM331.7mn contract, RM42.5mn sale) are provided with no apparent fabrication.\n• Evidence 2: Events are presented factually (e.g., 'granted leave of absence', 'extended cut-off date') without editorial bias."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: Highlights strategic moves like IJM's data center contract (strategic expansion) and Northern Solar's IPO (growth funding).\n• Evidence 2: Details financial impacts (e.g., 62.7% profit surge) and market transitions (Hextar's market shift) relevant to company positioning."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Provides quantitative data (e.g., '70% net profit increase', 'RM172.5mn IPO target') to contextualize events.\n• Evidence 2: Mentions specific business drivers (e.g., 'US customer orders', 'solar street lighting systems') but lacks broader market or industry analysis."
+  }
+}

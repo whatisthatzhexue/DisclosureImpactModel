@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8.5,
-    "justification": "The majority of scoring results (11/20 entries) assigned Reliability scores of 7-8, with several entries (3/20) giving 9. Higher scores (8-9) were justified by specific factual disclosures, risk acknowledgment, and clear explanations of operational challenges. Lower scores (5-7) often lacked detailed risk disclosure or contextualization. The overall trend reflects strong reliability with some areas needing improvement, leading to a compromise score of 8.5."
+    "score": 8,
+    "justification": "The reliability scores are predominantly high (8-9) with some mid-range (7) and lower (5-6) entries. High scores are justified by specific factual disclosures (e.g., 'FFB production increased by 10% to 139,000 metric tonnes'), adherence to recognized standards (e.g., GRI Standards), and acknowledgment of risks (e.g., 'competition from new players... poor CPO prices'). Lower scores (e.g., 5) reflect limited detail or overstatement (e.g., 'QL’s Board... adequate and effective' without evidence). The majority of evidence supports strong reliability, with clear, verifiable information and transparency in risk disclosure."
   },
   "Relevance": {
-    "score": 7.5,
-    "justification": "Relevance scores ranged from 5 to 8, with 6/20 entries giving 7 and 4/20 giving 8. Higher scores were supported by forward-looking market analysis, material event disclosures, and links to investor concerns. Lower scores (5-6) lacked forward-looking statements or clear connections to financial risks. The balanced mix of strong and weaker justifications results in a compromise score of 7.5."
+    "score": 8,
+    "justification": "Relevance scores range from 4 to 9, with most entries in the high (8-9) and mid-range (7) categories. High scores are supported by forward-looking information (e.g., 'anticipate prices... to remain stable in FY2020'), material risk disclosures (e.g., 'volatility of commodity prices'), and investor-relevant strategic insights (e.g., 'QL is confident of reaping increasing returns from regional expansion'). Lower scores (e.g., 4) lack specific risk or performance details. The overall balance of evidence indicates strong relevance, with clear connections to investor priorities and material events."
   },
   "Understandability": {
     "score": 8,
-    "justification": "Understandability scores ranged from 6 to 9, with 14/20 entries giving 7 and 5/20 giving 8. Higher scores (8-9) featured clear structure, precise language, and logical flow, while lower scores (6-7) sometimes lacked contextual explanation. The prevalence of strong justifications for clarity and structure justifies a final score of 8."
+    "justification": "Understandability scores range from 5 to 9, with the majority in the high (8-9) and mid-range (7) categories. High scores are justified by clear structure (e.g., 'Table 1: Stakeholder engagement modes...'), precise numerical data (e.g., 'RM2.310 billion revenue...'), and direct language (e.g., 'QL complies with food standards...'). Lower scores (e.g., 5) reflect ambiguous phrasing or lack of contextual explanation. The overall evidence demonstrates strong clarity, with structured presentation and precise details that enhance comprehension for stakeholders."
   }
 }

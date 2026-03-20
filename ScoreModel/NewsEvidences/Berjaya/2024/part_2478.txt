@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 5,
+    "justification": "• Evidence 1: The article includes direct quotes from artists like Superdoofus and Bendi, which add credibility to the narrative.\n• Evidence 2: The text provides specific details about sales (e.g., 'sold out in under two days') and pricing (RM15 per set), but lacks verifiable data or citations for claims about market trends."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text does not mention Berjaya Food Berhad or any business activities related to the company.\n• Evidence 2: There is no connection to the company's strategic direction, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides comprehensive details about artistic trends, designer backgrounds, and consumer behavior during Hari Raya.\n• Evidence 2: It includes specific examples like Kirin Sharom's international market reach and Syazri Zamrod's collaborations, though these are unrelated to the company context."
+  }
+}

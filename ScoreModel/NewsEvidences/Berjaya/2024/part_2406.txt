@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The PAM Awards is not just about recognition but also about inspiring a dialogue on the future of architecture in Malaysia.\" (Quoted architect Razin Mahmood, establishing a balanced perspective)\n• Evidence 2: \"The unanimous agreement among the jury members reinforces the integrity and credibility of the awards...\" (Quotes from jury members, adding institutional credibility)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or any business-related activities, focusing solely on architectural awards and projects.\" (No connection to the company's strategic direction)\n• Evidence 2: \"The article contains no financial data, market impact analysis, or business performance factors related to the company context provided.\" (Irrelevant to stakeholder information needs)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Skyblox Co-Living Housing project...utilised the innovative PPVC method...reducing on-site waste and environmental impact\" (Detailed project description with technical and sustainability context)\n• Evidence 2: \"The jury hopes to see...projects that integrate aesthetics, functionality, sustainability and social impact...\" (Comprehensive coverage of award criteria and future expectations)"
+  }
+}

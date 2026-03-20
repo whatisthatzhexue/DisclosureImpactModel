@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RHB Bank reported a net profit of RM3.12bil in FY24, up from RM2.81bil in FY23.\" (specific financial data)\n• Evidence 2: \"The approval was secured after 52 court-convened meetings, and the plan is now awaiting High Court sanction.\" (contextual detail without fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"MRCB, via unit Setia Utama LRT 3 Sdn Bhd (SULRT3), has secured a RM2.47bil contract for the LRT3 project.\" (direct company mention with strategic implication)\n• Evidence 2: \"KNM, through wholly-owned subsidiary KNM Process Systems Sdn Bhd (KNMPS), has entered into a conditional sale...\" (strategic business move)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"MR D.I.Y has raised its dividend payout ratio for the fourth quarter... to 115.7%, up 80.3% year-on-year.\" (comprehensive financial context)\n• Evidence 2: \"IHH's net profit for the fourth quarter... increased to RM732mil, up from RM728mil...\" (detailed performance metrics)"
+  }
+}

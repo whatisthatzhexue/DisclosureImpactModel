@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board assumes the overall responsibility for establishing and implementing effective remuneration policies...\" (truthful, objective statement about board duties)\n• Evidence 2: \"None of the Directors participated in any way in determining his/her own remuneration\" (specific, verifiable fact about governance process)"
+    "justification": "• Evidence 1: \"The Board assumes the overall responsibility...medium to long term objectives of the Group.\"\n• Evidence 2: \"None of the Directors participated in any way...his/her own remuneration.\""
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board is of the opinion that detailed disclosure...may jeopardize the personal security of the Directors\" (clearly states rationale for disclosure limitations)\n• Evidence 2: \"Basic Salary, Bonus, Incentives...\" (structured format, though numerical data could be more clearly formatted)"
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board is of the opinion that detailed disclosure...personal security of the Directors.\"\n• Evidence 2: The table format with repeated headers (e.g., \"Basic Salary, Bonus...\") creates confusion and lacks clear column distinctions."
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Please refer to Practice 7.1 and 7.2...for details of the remuneration policy\" (links to relevant governance information)\n• Evidence 2: \"The Remuneration Committee is responsible for reviewing...\" (explains corporate governance structure relevant to investors)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Please refer to Practice 7.1 and 7.2...Remuneration Committee.\"\n• Evidence 2: \"The Board has put in place a Board Remuneration Policy...review and consideration of proposed remuneration packages.\""
   }
 }

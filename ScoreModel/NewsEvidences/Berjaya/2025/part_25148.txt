@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The Code of Conduct (Best Practice) was developed to support the regulatory framework...\" (verifiable factual statement from MCMC)\n• Evidence 2: \"The input from the public helped to ensure...\" (direct quote showing balanced reporting with no fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or any business entity\" (complete absence of direct company reference)\n• Evidence 2: \"No connection to business performance factors or financial implications\" (irrelevant to company's strategic direction)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The Code will also undergo periodic reviews...\" (basic context about implementation)\n• Evidence 2: \"No data or evidence to support claims\" (lacks quantitative analysis or detailed background)"
+  }
+}

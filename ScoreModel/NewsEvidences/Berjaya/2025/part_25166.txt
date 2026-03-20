@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reducing dependency on paper made from trees is part of PKB’s efforts in meeting the ESG framework,\" she added.\n• Evidence 2: \"The books can be produced according to school specifications such as logos printed on the covers.\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text focuses on PKB’s CSR initiative, which is unrelated to Berjaya Food Berhad’s operations or strategic direction.\n• Evidence 2: No mention of Berjaya Food Berhad’s business performance, market position, or financial metrics."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"PKB has received private sector donations to produce 600,000 books.\" (quantitative detail)\n• Evidence 2: \"PKB is projected to massively increase its income to RM300mil by the end of this year.\" (financial data)"
+  }
+}

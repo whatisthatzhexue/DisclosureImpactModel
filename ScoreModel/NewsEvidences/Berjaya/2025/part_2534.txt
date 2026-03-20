@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 5,
+    "justification": "• Evidence 1: The article mentions future awards (Asia-Pacific Property Awards 2025–2026) without verifiable data or sources, raising credibility concerns.\n• Evidence 2: Quotes from Orando Holdings' managing director are positive but lack independent verification or balanced perspectives."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article focuses on Orando Holdings' real estate project, which is unrelated to Berjaya Food Berhad's food and beverage operations.\n• Evidence 2: No direct connection to Berjaya Food's strategic direction, financial performance, or stakeholder interests is mentioned."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Detailed description of the project's features (540 units, amenities, location, and completion date) provides comprehensive coverage.\n• Evidence 2: Environmental features and infrastructure details (rainwater harvesting, EV charging, nearby schools) add context but lack financial or market impact analysis."
+  }
+}

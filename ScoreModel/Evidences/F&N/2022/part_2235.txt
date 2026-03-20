@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"100% of our plants and production processes are certified with Halal Standards.\" (specific fact)\n• Evidence 2: \"Lost time injury rate was 1.28 in FY2022, due to 6 recordable injury cases\" (discloses actual performance and context)"
+    "score": 7,
+    "justification": "• Evidence 1: \"100% of our plants and production processes are certified with Halal Standards.\" (specific factual claim)\n• Evidence 2: \"Lost time injury rate was 1.28 in FY2022, due to 6 recordable injury cases\" (discloses specific data and context)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"13% product innovation for commercialised F&N products\" (precise, direct data)\n• Evidence 2: \"11 community programmes conducted this year, with a 10% increase compared to FY2020 baseline\" (clear structure and logical comparison)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Material Issue 2025 Target 2022 Progress\" (clear table structure with direct comparisons)\n• Evidence 2: \"Provide an average of at least 18 hours of training...\" (precise numerical targets)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"F&N 2025 goals enable our Group to monitor our actual sustainability performance...\" (forward-looking information)\n• Evidence 2: \"Create Value for Society... Human Rights\" (links to stakeholder interests, though risks/material events are not explicitly disclosed)"
+    "score": 6,
+    "justification": "• Evidence 1: \"These 2025 goals strengthen our commitment to creating long-term value for our stakeholders\" (links sustainability to stakeholder value)\n• Evidence 2: \"10% increase in the number of community programmes...\" (quantifies social impact relevant to investors)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 3,
+    "justification": "• Evidence 1: No disclosure of risks, challenges, or uncertainties\n• Evidence 2: No specific facts provided about business performance or operational details"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: Clear list structure with direct naming of roles\n• Evidence 2: Minimal contextual explanation of management roles or their implications"
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: No forward-looking information or performance analysis\n• Evidence 2: No mention of risks, material events, or corporate governance"
+  }
+}

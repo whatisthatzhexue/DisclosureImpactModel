@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The not-for-profit hospital, which costs about RM300mil, began full operations on Aug 1, 2023\" [verifiable financial and operational data]\n• Evidence 2: \"As of Jan, the hospital has recorded over 130,000 patient visits and follow-up\" [specific quantitative metric]"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Berjaya Group Founder Tan Sri Vincent Tan Chee Yioun\" [direct company mention, though related to Berjaya Group rather than Berjaya Food]\n• Evidence 2: \"provision to expand by an additional 250 beds in the future\" [strategic planning detail with potential financial implications]"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The facilities include out-patient and in-patient treatment, diagnostic and treatment centres, medical and non-medical supportive services, research and education facilities\" [comprehensive coverage of hospital infrastructure]\n• Evidence 2: \"medical team comprises resident specialists in...\" [detailed description of operational capabilities]"
+  }
+}

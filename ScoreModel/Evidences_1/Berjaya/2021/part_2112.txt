@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: [Registration No. 200901032946 (876057-U)]\n• Evidence 2: [Annual Report 2021 23]"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: [CORPORATE STRUCTURE OF OPERATING COMPANIES AS AT 1 OCTOBER 2021]\n• Evidence 2: [Berjaya Starbucks Coffee Company Sdn Bhd]"
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: [CORPORATE STRUCTURE OF OPERATING COMPANIES AS AT 1 OCTOBER 2021]\n• Evidence 2: [Annual Report 2021 23]"
+  }
+}

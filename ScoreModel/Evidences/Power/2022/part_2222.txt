@@ -2,14 +2,14 @@
   "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Board has taken steps to gradually strengthen the independence and gender diversity elements at Board level by appointing a female Independent Non-Executive Director to the Board...\" (specific factual action)\n• Evidence 2: \"It is also the intent of the Board to consider further improvements in the transparency of disclosure... and the risk of loss of Key Management\" (discloses risks and uncertainties)"
+    "justification": "• Evidence 1: \"The net proceeds... working capital requirement of the Group.\"\n• Evidence 2: \"the Board has taken steps... Non-Independent Non-Executive Director on 1 April 2022.\""
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The key focus areas of the Board during the financial year under review included preservation of the governance practices...\" (clear structure with specific focus areas)\n• Evidence 2: \"the Board has taken steps to comply with the recent revision to the definition of 'Independent Director'...\" (precise language with exact policy references)"
+    "justification": "• Evidence 1: \"The key focus areas... impact of the COVID-19 pandemic on the Group.\"\n• Evidence 2: \"Moving forward... concerned Board Committee\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Moving forward, the Board intends to strengthen the independence and diversity elements...\" (forward-looking information relevant to investor decision-making)\n• Evidence 2: \"the risk of loss of Key Management\" (material risk disclosure relevant to stakeholders)"
+    "score": 8,
+    "justification": "• Evidence 1: \"the Board intends to strengthen... Board committees\"\n• Evidence 2: \"the intent of the Board... personal security of the individual directors\""
   }
 }

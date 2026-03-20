@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"No medical facilities were affected by the gas pipeline explosion...\" (Health Minister's statement, verifiable via official sources)\n• Evidence 2: \"Irresponsible parties who spread untrue comments...will be dealt with strictly according to the law\" (Ministry's official statement, citing legal action)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or its operations\" (Article focuses on unrelated healthcare incident)\n• Evidence 2: \"No connection to business performance factors, financial implications, or market impact\" (Irrelevant to company's strategic context)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"A total of 112 people have been discharged...\" (Detailed quantitative data on incident outcomes)\n• Evidence 2: \"98 individuals have received Mental Health...interventions\" (Comprehensive coverage of post-incident support measures)"
+  }
+}

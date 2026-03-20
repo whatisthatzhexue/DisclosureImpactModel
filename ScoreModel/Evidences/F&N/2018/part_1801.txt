@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Company Secretary organises and attends meetings of the Board and Board Committees and ensure meetings are properly convened...\" (specific role description)\n• Evidence 2: \"The Group also has a Whistleblowing Policy...\" (disclosure of risk mitigation mechanisms)"
+    "score": 8,
+    "justification": "• Evidence 1: 'The Company Secretary... facilitates compliance with the Listing Requirements of Bursa Malaysia Securities Berhad... promotes high standards of corporate governance' [specific role description]\n• Evidence 2: 'The Group also has a Whistleblowing Policy... to protect the revenues, assets and reputation of the Group from loss or damage due to fraud' [explicit risk mitigation mechanism]"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board is responsible for formulating on-going programmes to promote sustainability...\" (clear structure with specific responsibilities)\n• Evidence 2: \"Directors Training/Seminar Attended\" section with bullet points (organized format for information retrieval)"
+    "score": 9,
+    "justification": "• Evidence 1: 'The Board is responsible for formulating on-going programmes to promote sustainability... reports to the Board regularly' [clear structure of responsibilities]\n• Evidence 2: 'A formal agenda... are forwarded to all Directors seven days before Board... to enable them to make informed decisions' [precise procedural explanation]"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board believes that effective deliberation...\" (directly links governance to risk management)\n• Evidence 2: \"Details of the corporate sustainability...\" (forward-looking information relevant to investors)"
+    "justification": "• Evidence 1: 'Details of the corporate sustainability of the Group are presented in the Sustainability Report' [directly relevant to investor decision-making]\n• Evidence 2: 'The Board recognises that an extended time on the Board may impair a Director’s independence... will seek shareholders’ approval for retention' [material governance risk disclosure]"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The PPR project involves a collaboration with Berjaya Corporation Bhd, which has contributed 8ha of land...\" (specific factual detail with named entity)\n• Evidence 2: \"subject to ministerial approval, Prima Corporation will be appointed...\" (clear procedural context with timeline)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The article contains no direct mention of Berjaya Food Berhad's business operations, financial performance, or strategic initiatives\" (no connection to the company's core activities)\n• Evidence 2: \"Focuses on housing project logistics rather than corporate strategy or market impact\" (no stakeholder significance for the company)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"245 families... 750 to 800 square feet of space... 20x60 feet\" (specific quantitative details)\n• Evidence 2: \"Residents set a condition that any candidate... must sign a statutory declaration...\" (contextual background on political implications)"
+  }
+}

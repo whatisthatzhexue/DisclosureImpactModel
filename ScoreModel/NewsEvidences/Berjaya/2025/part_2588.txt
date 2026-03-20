@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"No casualties were reported and the cause of the fire is still under investigation\" (verifiable factual statement from official source)\n• Evidence 2: \"a total of 42 officers and firefighters... were involved\" (specific, quantifiable data from credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"food processing factory\" (partial connection to Berjaya Food's sector, but no direct company mention)\n• Evidence 2: No financial impact analysis, market impact discussion, or strategic implications for the company"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Six factories and a warehouse... were damaged\" (specific event details)\n• Evidence 2: \"42 officers and firefighters... involved\" (quantitative data, but no analysis of incident's broader implications)"
+  }
+}

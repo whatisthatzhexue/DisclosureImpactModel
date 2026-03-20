@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"To demonstrate financial sustainability\" (neutral objective statement)\n• Evidence 2: \"Annual report\" (specific disclosure method)"
+    "score": 5,
+    "justification": "• Evidence 1: \"To demonstrate financial sustainability\" (lacks risk disclosure)\n• Evidence 2: \"To ensure reporting accuracy\" (no specific factual support provided)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Table 1: Power Root’s Stakeholder Engagement\" (clear structure)\n• Evidence 2: Bullet points with specific engagement methods (precise language)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Table 1: Power Root’s Stakeholder Engagement\" (clear structure)\n• Evidence 2: \"Face-to-face meetings, Press releases\" (precise language without redundancy)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"To build up shareholder and investor confidence level\" (directly relevant to investors)\n• Evidence 2: \"Stakeholder prioritisation exercise\" (implies strategic relevance)"
+    "score": 4,
+    "justification": "• Evidence 1: \"To build up shareholder and investor confidence level\" (partially relevant)\n• Evidence 2: \"Stakeholder Prioritisation Matrix\" (no connection to financial performance or material events)"
   }
 }

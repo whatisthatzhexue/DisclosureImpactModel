@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The RM15,000 increase from the current PPR sale policy price of RM45,000 is intended to cover maintenance costs and ensure enhanced specifications are maintained regularly.\" (verifiable financial data)\n• Evidence 2: \"The Ministry, along with the Selangor government, would ensure the project is realised...\" (specific funding allocation details)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Berjaya Corporation Bhd (BCB) would provide the 8.1ha plot of land...\" (direct company mention related to project execution)\n• Evidence 2: \"The government, through the ministry, had approved...\" (links to public policy impact on stakeholders)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Minimum gross floor area for PRR units was set at 750 square feet, with a starting sale price of RM60,000 per unit...\" (quantitative details)\n• Evidence 2: \"Construction expected to commence early next year and fully completed by the end of 2026\" (timeline and project scope context)"
+  }
+}

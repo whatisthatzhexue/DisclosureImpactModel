@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Kurup, 80, passed away due to heart complications yesterday.\" (verifiable cause of death)\n• Evidence 2: \"Former PBRS secretary-general Datuk Johson Tee said Kurup... died at the National Heart Institute in Kuala Lumpur at 7pm.\" (specific, credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Kurup was among the founding members of Parti Bersatu Sabah (PBS), led by Tan Sri Joseph Pairin Kitingan, which toppled the Berjaya government in 1985.\" (historical reference with no direct business impact)\n• Evidence 2: \"After the 1994 state election, the PBS government ended...\" (no connection to Berjaya Food's current operations or strategic direction)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"During his 40 years in politics, Kurup had held numerous ministerial posts...\" (comprehensive career overview)\n• Evidence 2: \"Kurup was a former president of Parti Bersatu Rakyat Sabah (PBRS)...\" (contextual background on political influence)"
+  }
+}

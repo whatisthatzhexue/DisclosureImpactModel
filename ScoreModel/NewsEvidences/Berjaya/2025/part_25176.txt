@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The babies we’ve saved this year are the highest ever compared to before.\"\n• Evidence 2: \"It is not a crime to send unwanted babies to baby hatches or to come forward to OrphanCare for help due to unplanned pregnancies.\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The article contains no direct mention of Berjaya Food Berhad or its business operations, financials, or strategic initiatives.\"\n• Evidence 2: \"The text focuses on OrphanCare's advocacy work and baby rescue efforts, which are unrelated to the company's food and beverage industry activities.\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"A total of 635 babies have been saved through the organisation since 2008. The babies that are received by the organisation are either placed for adoption or cared for by their birth mothers.\"\n• Evidence 2: \"The organisation also provides counselling for the birth mothers and encourages them to raise their own baby, rather than put them up for adoption.\""
+  }
+}

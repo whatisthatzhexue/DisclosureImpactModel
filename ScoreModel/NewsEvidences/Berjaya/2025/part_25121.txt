@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"A joint venture between Gamuda Bhd and Ferrovial has inked an early contractor involvement agreement...\" (specific, verifiable details)\n• Evidence 2: \"The takeover... has reached 92.8%, exceeding the 90.0% threshold\" (quantifiable data with clear thresholds)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"[TEXT]\" contains no mention of Berjaya Food Berhad or its operations, rendering it irrelevant to the specified company context.\n• Evidence 2: All content focuses on unrelated entities (Gamuda, MAHB, Chin Hin, etc.), with no strategic implications for Berjaya Food Berhad."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Packaging manufacturer and developer Scientex Bhd is acquiring 528.5 acres... for RM333.8mn cash\" (specific financial and operational details)\n• Evidence 2: \"Malaysian Resources Corporation Bhd is partnering with Melaka Corporation... estimated gross development cost of RM520.0mn\" (contextual project details with monetary figures)"
+  }
+}

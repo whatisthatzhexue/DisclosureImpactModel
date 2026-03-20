@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"With this new opening, gone are the days when our Pahang friends would have to travel to other states to purchase from Harvey Norman.\" (direct quote from executive)\n• Evidence 2: \"RM88,000 worth of goods to three charity homes\" (specific verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"marked the entry of this leading Australian household retailer into Pahang and brought the company closer to its vision of establishing 80 stores nationwide by 2028\" (strategic expansion goal)\n• Evidence 2: \"connects to its partner stores\" (networking strategy for customer convenience)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"over 60 mattresses by top brands like Sealy and Serta plus designer bed frames\" (specific product details)\n• Evidence 2: \"instalments for up to 48 months on all major banks’ credit cards\" (financial service detail)"
+  }
+}

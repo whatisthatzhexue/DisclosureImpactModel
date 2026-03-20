@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The university's chancellor award is the highest accolade presented to the top student of MMU'S graduating class. It recognises outstanding academic achievements, significant extracurricular contributions, and leadership.\"\n• Evidence 2: \"Some 3,657 graduates are set to receive their diploma, Bachelor’s, Masters and Doctorate scrolls during the convocation ceremony from Nov 7 to 9.\""
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"[No mention of Berjaya Food Berhad or any business-related activities, financial performance, or strategic initiatives related to the company]\"\n• Evidence 2: \"[The text focuses on a university event and individual achievement, with no connection to corporate strategy, market impact, or stakeholder value for Berjaya Food Berhad]\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Muhammad Asif was diagnosed with early acute lymphoblastic leukaemia (ALL) when he was only 10 years old and was declared cancer-free when he was 17.\"\n• Evidence 2: \"The 23-year-old was conferred the chancellor’s award during MMU's 25th convocation ceremony at its Cyberjaya campus.\""
+  }
+}

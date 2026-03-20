@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BFood conducts materiality assessments every two years to pinpoint and prioritise significant Economic, Environmental, Social and Governance (\"EESG\") impacts, risks and opportunities\" (specific fact about process).\n• Evidence 2: \"This strategic exercise effectively prioritised and aligned actions and initiatives with stakeholder expectations and business objectives\" (neutral, objective statement without overstatement)."
+    "justification": "• Evidence 1: \"BFood conducts materiality assessments every two years to pinpoint and prioritise significant Economic, Environmental, Social and Governance (\"EESG\") impacts, risks and opportunities\" (specific factual disclosure).\n• Evidence 2: \"BFood is adjusting its pricing strategy to address rising costs\" (acknowledges risk but lacks detailed uncertainty disclosure)."
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Streamline operations, implement cost-saving measures, and diversify revenue streams\" (precise, direct language).\n• Evidence 2: \"Founded in Seoul in 1988, Paris Baguette operates 3,750 stores in South Korea and in 11 international markets\" (clear, structured factual presentation)."
+    "justification": "• Evidence 1: \"This strategic exercise effectively prioritised and aligned actions and initiatives with stakeholder expectations\" (clear, direct language).\n• Evidence 2: \"Plans to add four more in the next ten years\" (precise, specific timeframe)."
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"BFood is strategically expanding its presence with an ambitious plan involving significant investment in local and international markets\" (forward-looking information relevant to investors).\n• Evidence 2: \"Adjusting pricing strategy to address rising costs\" (directly addresses economic risk and business strategy)."
+    "justification": "• Evidence 1: \"Expanding presence... to increase market share\" (forward-looking strategic information for investors).\n• Evidence 2: \"Adjusting pricing strategy to address rising costs\" (material risk disclosure relevant to decision-making)."
   }
 }

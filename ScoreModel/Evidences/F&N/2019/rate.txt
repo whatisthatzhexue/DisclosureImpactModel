@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8.1,
-    "justification": "The final score of 8.1 is derived from a comprehensive analysis of all scoring results. High-scoring entries (e.g., 9) provide detailed risk disclosures, specific factual claims (e.g., 'operating profit for F&B Malaysia was 15.5 per cent higher'), and objective language (e.g., 'neutral, factual description of growth drivers'). Lower scores (e.g., 6) highlight gaps in risk disclosure or incomplete information (e.g., 'lacks disclosure of risks'). While most entries demonstrate strong reliability through precise data and transparency, the inclusion of some entries with missing risk context necessitates a compromise score. The overall trend reflects high reliability with minor inconsistencies."
-  },
-  "Relevance": {
-    "score": 7.7,
-    "justification": "The score of 7.7 balances strong forward-looking disclosures (e.g., 'target Group export sales of RM800 million by 2020') and material event analysis (e.g., 'impact of corporate tax payment in Thailand') against entries with limited relevance (e.g., 'minimal structure with repetitive headings'). High-scoring entries (e.g., 9) directly link initiatives to investor concerns, while lower scores (e.g., 6) lack detailed risk analysis or material event context. The majority of entries provide relevant strategic and financial insights, but some entries fall short of fully addressing investor decision-making factors."
+    "score": 8,
+    "justification": "• The majority of scoring results (14 out of 25) assigned scores of 8–9, reflecting strong reliability through specific financial metrics, risk disclosures, and third-party validations (e.g., Nielsen data, audit committee assessments). Lower scores (e.g., 5–7) were attributed to insufficient risk analysis or lack of factual support in some entries. The report generally provides transparent, neutral, and fact-based disclosures, with only minor inconsistencies in risk mitigation explanations."
   },
   "Understandability": {
-    "score": 8.1,
-    "justification": "The score of 8.1 reflects consistent clarity in most entries, such as structured bullet points (e.g., '10 out of 12 product categories have healthier choices') and precise numerical data (e.g., 'RM150 million on capital expenditure'). Lower scores (e.g., 2) cite poor formatting or minimal content, but these are outliers. The majority of entries use clear language, logical organization, and direct explanations (e.g., 'precise numerical presentation'), ensuring readability. While some entries have minor ambiguities (e.g., 'vague phrasing'), the overall trend demonstrates high understandability with limited exceptions."
+    "score": 8,
+    "justification": "• Most scoring results (16 out of 25) assigned scores of 7–9, highlighting clear numerical data, structured explanations, and precise terminology (e.g., '5g sugar per 100ml', 'RM4 million system'). Lower scores (e.g., 5–7) were due to formatting issues or vague phrasing in some sections. Overall, the report balances readability with technical details, though occasional placeholder text or unclear references slightly reduced the score."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• A majority of scoring results (14 out of 25) assigned scores of 7–8, emphasizing forward-looking strategies, material risk disclosures, and investor-relevant metrics (e.g., 'RM800 million export target', 'carbon footprint reduction'). Lower scores (e.g., 5–6) were linked to sections lacking detailed risk analysis or forward-looking information. The report effectively addresses stakeholder concerns but occasionally prioritizes operational details over strategic relevance for investors."
   }
 }

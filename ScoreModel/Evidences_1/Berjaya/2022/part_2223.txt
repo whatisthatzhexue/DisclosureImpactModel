@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Protecting the rights of all stakeholders by providing decent conditions for workers, such as eliminating excessive working hours and providing decent accommodation\"\n• Evidence 2: \"Protecting customers and other users’ data during all transactions and loyalty schemes\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Delivering clear and concise promotional materials responsible for communicating the nutrition and impact of BFood’s food and being accessible to a broad range of stakeholders\"\n• Evidence 2: \"Strengthening local communities by organising multiple corporate social responsibility programmes and collaborating with partners to raise awareness and help those with disabilities\""
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Strengthening local communities by organising multiple corporate social responsibility programmes and collaborating with partners to raise awareness and help those with disabilities\"\n• Evidence 2: \"Training staff regularly to improve customer service levels, rewarding them through the loyalty programme and continually assessing their needs to improve satisfaction levels\""
+  }
+}

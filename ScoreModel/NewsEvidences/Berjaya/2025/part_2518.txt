@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"KPJ Healthcare Bhd has awarded a total of RM32mn worth of hospital renovation works...\" (specific financial figures with no source cited)\n• Evidence 2: \"Yinson Holdings Bhd said it has closed the first tranche of US$300mn...\" (factual statement with no source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad, focusing instead on unrelated companies like KPJ, Yinson, and Berjaya Land Bhd.\n• Evidence 2: The article lacks direct reference to Berjaya Food Berhad's strategic initiatives, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"UWC Bhd remains optimistic about its business prospects... citing signs of recovery after reporting a near-doubling of net profit...\" (specific financial data but no contextual analysis)\n• Evidence 2: \"Jaycorp Bhd has posted its first quarterly loss... weighed down by sluggish furniture demand...\" (descriptive details but no deeper insight into market trends or implications)"
+  }
+}

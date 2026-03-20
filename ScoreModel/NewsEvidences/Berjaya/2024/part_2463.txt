@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The gotong-royong spirit is very exciting to watch,\" the 27-year-old said.\n• Evidence 2: \"The food is very different,\" she said."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business activities.\n• Evidence 2: Focus on student experiences unrelated to company operations, financials, or market position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Some 1,000 attendees were feted with Malaysian delicacies\" provides quantitative context.\n• Evidence 2: \"Spending Ramadan away from home is a bit hard on me\" offers cultural and personal context."
+  }
+}

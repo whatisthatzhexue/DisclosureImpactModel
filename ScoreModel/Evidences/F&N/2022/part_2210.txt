@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The solar PV system in Rojana continues to provide savings from the generation of clean energy. This was particularly significant in FY2022, when the cost of electricity increased significantly.\"\n• Evidence 2: \"Secured 100 per cent of supply needs at competitive prices\" (discloses specific mitigation outcomes without overstatement)"
+    "justification": "• Evidence 1: \"The solar PV system in Rojana continues to provide savings from the generation of clean energy. This was particularly significant in FY2022, when the cost of electricity increased significantly.\"\n• Evidence 2: \"Secured 100 per cent of supply needs at competitive prices\" (supports objective disclosure of mitigation outcomes)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Adjusted the price of products to preserve\" (clear, direct language with specific action)\n• Evidence 2: \"Hawker base increased by 32.5 per cent from 40,000 to 53,000\" (precise numerical data with clear context)"
+    "justification": "• Evidence 1: \"Logistics efficiencies• Started operations at RM52 million integrated RDC in Rojana...\" (clear structure with bullet points)\n• Evidence 2: \"Maintained market leadership in the condensed milk and evaporated milk market despite overall market decline.\"\n• Evidence 3: \"Total customer network in Thailand, Laos and Cambodia grew by 7% to over 170,000.\" (precise, direct language)"
   },
   "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Although costs in general are likely to remain high in FY2023... the team expects revenue to grow sufficiently to also ensure operating profits\" (forward-looking financial guidance)\n• Evidence 2: \"Maintained market leadership in the condensed milk and evaporated milk market despite overall market decline\" (material performance metric with contextual risk disclosure)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Mitigation Efforts Results• Hedging policy to smooth out the impact of increase of raw material prices\" (explains performance changes)\n• Evidence 2: \"Prospects... the team expects revenue to grow sufficiently to also ensure operating profits for the year.\"\n• Evidence 3: \"Maintained market leadership... despite overall market decline.\"\n• Evidence 4: \"Exploring more Export markets and strengthening its footprint in Indochina.\"\n• Evidence 5: \"Promote its new e-commerce platform more actively.\"\n• Evidence 6: \"Hawker base increased by 32.5 per cent from 40,000 to 53,000.\" (forward-looking and material event information)"
   }
 }

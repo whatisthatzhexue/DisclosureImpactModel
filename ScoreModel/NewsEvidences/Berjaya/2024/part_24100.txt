@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Starbucks has been and remains a non-political organisation.\" (Direct quote from company statement)\n• Evidence 2: \"We do not use our profits to fund any government or military operations anywhere – and never have.\" (Verifiable corporate policy statement)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Starbucks Malaysia was one of the foreign food and beverage outlets that were affected by the ongoing boycott...\" (Links to business impact)\n• Evidence 2: \"BFood has said that the loss was mainly due to the boycott.\" (Connects to financial performance and market dynamics)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Starbucks Malaysia also said that it does not have any stores in Israel, and has dissolved its partnership with Israel since 2003.\" (Provides historical context)\n• Evidence 2: \"Recently, on Feb 22, BFood posted a net loss of RM42.6mil...\" (Quantifiable data supporting claims)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MIDF Research\" is cited as the source of analysis, with specific figures like RM2.94bil project value and RM26.1bil order book cited as verifiable data.\n• Evidence 2: The article avoids fabrication, presents balanced tone, and includes details about the land swap valuation cap (RM200mil) and GDV (RM37.8bil) without bias."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"enhance MRCB’s technical standing... public-sector and sports-related infrastructure\" directly ties to strategic direction and competitive positioning.\n• Evidence 2: \"reinforces confidence in the company’s ability to consistently replenish its order book\" connects to long-term value creation and financial implications."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RM26.1bil construction order book... RM6bil growth\" provides quantitative context for project significance.\n• Evidence 2: Details about land swap mechanics (RM200mil cap) and GDV (RM37.8bil) support analytical depth, though broader market context is limited."
+  }
+}

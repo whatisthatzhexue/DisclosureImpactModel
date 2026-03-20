@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "The final score of 9 is justified by consistent high-quality evidence across all three scoring results. The first two results highlight zero-tolerance policies, compliance data (e.g., 43/48 MCCG recommendations applied, zero corruption cases), and specific operational impacts (e.g., fuel cost effects). The third result also supports reliability with factual disclosures (e.g., zero bribery violations, safety incident data). While the third result’s score is slightly lower (8), its evidence remains robust and aligns with the higher scores, warranting a final score of 9."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "The final score of 7.5 balances the high relevance in the first two results (forward-looking statements, climate risk disclosures, stakeholder-focused content) with the third result’s lower score (6). The third result’s evidence, while still relevant (e.g., financial performance data, occupational safety disclosures), appears less comprehensive compared to the first two. The compromise reflects moderate relevance, as the report addresses stakeholder interests and contextual factors but lacks deeper strategic or long-term relevance compared to the higher-scoring results."
+  },
+  "Understandability": {
+    "score": 7.3,
+    "justification": "The final score of 7.3 reflects the first result’s strong structure and precise language (e.g., clear headings, numerical metrics) alongside the second and third results’ structured sections and data presentation. The third result’s score of 7 is slightly lower due to less detailed explanations of metrics (e.g., numerical tables without contextual interpretation). The first result’s higher score (8) is offset by the second and third results’ slightly less precise language, leading to an average of 7.3. The report is generally clear but could improve with more contextual elaboration of numerical data."
+  }
+}

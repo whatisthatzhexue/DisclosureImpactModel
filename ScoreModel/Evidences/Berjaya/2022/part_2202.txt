@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The significant increase in the pre-tax profit was in tandem with the higher revenue recorded...\" (specific cause-effect relationship)\n• Evidence 2: \"While most countries...global economic outlook has deteriorated...\" (discloses macroeconomic risks)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The significant increase in the pre-tax profit was in tandem with the higher revenue recorded...\" (specific cause-effect relationship)\n• Evidence 2: \"global economic outlook has deteriorated... rising inflationary pressures... supply chain disruptions... Russia-Ukraine war\" (disclosure of risks and uncertainties)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Group declared and paid a total dividend of 5.50 cents single-tier dividend per share...\" (clear numerical specifics)\n• Evidence 2: \"The first Paris Baguette outlet...end of 2022\" (precise timeline for material event)"
+    "score": 9,
+    "justification": "• Evidence 1: \"pre-tax profit of RM188.79 million compared to... RM74.73 million\" (precise numerical comparisons)\n• Evidence 2: \"4 Bonus Shares for every 1 existing ordinary share held\" (clear share issuance terms)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Group will continue to focus on its cost optimisation efforts...\" (forward-looking operational strategies)\n• Evidence 2: \"Recognising the growing popularity...\" (market trend analysis relevant to investor decision-making)"
+    "score": 8,
+    "justification": "• Evidence 1: \"attributed to the higher same-store-sales growth... turnaround of the Kenny Rogers Roasters business performance\" (explains performance changes)\n• Evidence 2: \"global economic outlook has deteriorated... Malaysia is projected to grow between 4% and 5%...\" (forward-looking information with material risks)"
   }
 }

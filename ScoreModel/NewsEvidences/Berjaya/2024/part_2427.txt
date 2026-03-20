@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"LHDN succeeded in collecting taxes and stamp duties amounting to RM890mil from these assessments,\" he said.\n• Evidence 2: \"After SVDP ends, taxpayers can still declare voluntarily but they will be subjected to a 15% penalty while those who come under LHDN’s audit findings face a 45% penalty,\" LHDN chief executive officer told The Star yesterday."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The content focuses on general tax compliance policies rather than specific financial or strategic information relevant to the company."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"As of April 30, Abu Tariq said, 97,000 cases have been assessed under the programme.\" provides quantitative context.\n• Evidence 2: \"Of these, he said, 16,000 involved companies and 71 individuals.\" offers detailed breakdowns of program impacts."
+  }
+}

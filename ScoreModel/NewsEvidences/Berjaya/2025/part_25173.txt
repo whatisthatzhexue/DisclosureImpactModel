@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The significantly lower revenue and pre-tax loss incurred in the current quarter under review were mainly attributed to the prolonged impact from the ongoing sentiment in relation to the Middle East conflict,\" BFood said in a filing with Bursa Malaysia.\n• Evidence 2: The article presents verifiable financial data (RM33.7mil net loss, RM124.2mil revenue) and attributes the results to a specific external factor (Middle East conflict), with no apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The group is primarily engaged in developing and operating the Starbucks Coffee brand in Malaysia and Brunei, the Kenny Rogers Roasters chain in Malaysia, and producing, packaging, and distributing baked goods under the Paris Baguette brand in the Philippines.\" \n• Evidence 2: \"Looking forward, we remain cautiously optimistic that operational performance will gradually improve over the coming quarters.\" (Connects to strategic initiatives and long-term value creation.)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The overall macro environment remains challenging; however, continued positive improvement has been observed with the implementation of strategic initiatives and programs by the group.\" (Provides some context but lacks detailed analysis.)\n• Evidence 2: The article mentions revenue figures and operational impacts but does not elaborate on market trends, competitor comparisons, or granular details about the boycott's scope or duration."
+  }
+}

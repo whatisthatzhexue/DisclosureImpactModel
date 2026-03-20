@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 5,
-    "justification": "• Evidence 1: \"BFood is committed to enhancing its sustainability disclosures in line with local and international standards.\" (neutral, factual statement)\n• Evidence 2: \"The Group is proud to have achieved a FTSE4Good 4-Star rating\" (specific fact, but lacks risk disclosure or balanced perspective)"
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood is committed to enhancing its sustainability disclosures in line with local and international standards.\" (neutral statement of intent)\n• Evidence 2: \"The Group is proud to have achieved a FTSE4Good 4-Star rating\" (specific factual claim)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BFood has maintained a strong standing in the FTSE4Good Bursa Malaysia and FTSE4Good Bursa Malaysia Shariah Indices, achieving an impressive overall rating of 4.2 out of 5\" (clear numerical data)\n• Evidence 2: \"Personality of the Year Sustainability Leadership Award: Dato' Sydney Quays\" (direct, unambiguous phrasing)"
+    "justification": "• Evidence 1: \"BFood has maintained a strong standing in the FTSE4Good Bursa Malaysia... achieving an impressive overall rating of 4.2 out of 5\" (clear numerical metric)\n• Evidence 2: \"Personality of the Year Sustainability Leadership Award: Dato' Sydney Quays\" (directly identifies award recipients)"
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"The FTSE4Good Index Series evaluates companies based on their Environmental, Social, and Governance (\"ESG\") practices\" (directly relevant to investors)\n• Evidence 2: \"Company of the Year (F&B Retail) – Community Engagement Award: Starbucks Malaysia\" (specific recognition but lacks contextual explanation for investor decision-making)"
+    "justification": "• Evidence 1: \"The FTSE4Good Index Series evaluates companies based on their ESG practices\" (relevant to investor decision-making)\n• Evidence 2: \"Highest Returns to Shareholders Over Three Years\" (financial performance indicator)"
   }
 }

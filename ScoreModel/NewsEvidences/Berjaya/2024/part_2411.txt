@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"With more data centres being set up in the country...we foresee the demand for AI super servers will continue to be strong...\" [specific forecast based on market trends]\n• Evidence 2: \"As of today, SNS Network has officially transferred...1.61 billion shares...\" [verifiable factual statement about share transfer]"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Looking ahead, the future for SNS Network is bright...commercial channel remains the largest contributor...\" [direct link to strategic revenue focus]\n• Evidence 2: \"paving the way for the group to keep its plans of opening retail stores...\" [connects to long-term market expansion strategy]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Established in 1998...transformed into an ICT system and solutions provider...revenue that has surpassed the RM1bil\" [historical context and growth metrics]\n• Evidence 2: \"For FY23 and FY24...dividend payout ratio represented 9.2% and 37.8%...\" [financial performance details]"
+  }
+}

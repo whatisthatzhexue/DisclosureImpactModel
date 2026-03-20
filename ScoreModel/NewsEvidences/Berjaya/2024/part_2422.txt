@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood said in a filing with Bursa Malaysia.\" (credible source citation)\n• Evidence 2: \"The directors are of the view...\" (direct quote from company statement with verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The directors are of the view that the operating performance...\" (connects to strategic outlook)\n• Evidence 2: \"The board does not recommend any dividend...\" (directly impacts shareholder value)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue for the quarter halved to RM138.6mil...\" (specific financial details)\n• Evidence 2: \"In the first nine months...\" (comparative historical data with context)"
+  }
+}

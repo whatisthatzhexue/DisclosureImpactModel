@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The internal audit functions assess the adequacy and effectiveness of internal controls... highlights potential risks and implications... recommend improvements' (neutral, factual disclosure of risks).\n• Evidence 2: 'The in-house internal audit function and the outsourced internal audit function report to the Audit Committee directly' (specific, verifiable structure)."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The internal audit function is governed by the Internal Audit Charter with key terms including purpose and scope of works...' (clear structure but dense terminology).\n• Evidence 2: 'The internal audits are carried out by both the in-house... and outsourced... in material aspects, in accordance with the International Professional Practices Framework' (precise but technical language)."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'The Group relies on the internal audit function to provide the Board... assurance that the governance, risk management and internal control system are adequate and effective' (directly relevant to investor concerns about governance).\n• Evidence 2: 'The oversight of the in-house and outsourced internal audit function by the Audit Committee was enhanced with the review... qualification and experience/exposure' (pertains to corporate governance but lacks forward-looking info)."
+  }
+}

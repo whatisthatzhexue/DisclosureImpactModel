@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: 'The Board has assigned the ARMC with the duty of reviewing and monitoring the effectiveness of the Group's system of internal control.'\n• Evidence 2: 'The internal auditors furnish the ARMC with reports from visits conducted at various subsidiaries, as well as from the external auditors on areas for improvement identified during the course of their statutory audit.'"
+    "score": 8,
+    "justification": "• Evidence 1: \"The internal auditors furnish the ARMC with reports from visits conducted at various subsidiaries, as well as from the external auditors on areas for improvement identified during the course of their statutory audit.\"\n• Evidence 2: \"The Group and affiliated companies strictly adopt a zero-tolerance policy approach against all forms of bribery and corruption...\"\n• Evidence 3: \"The Report of the ARMC is set out on pages 114 to 118 of the Annual Report.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'Clear organisation structure with delineated reporting lines' (precise, direct language).\n• Evidence 2: 'The Report of the ARMC is set out on pages 114 to 118 of the Annual Report.' (clear reference to documentation)."
+    "score": 9,
+    "justification": "• Evidence 1: \"Clear organisation structure with delineated reporting lines\" (precise language)\n• Evidence 2: \"Scheduled operations and management meetings\" (direct and logical structure)\n• Evidence 3: \"The Adequate Procedures to Curb and Prevent Bribery and Corruption - T.R.U.S.T. Concept is published on the Company's website.\" (clear reference to external resources)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: 'The Group has a whistleblowing policy, which provides an avenue for employees... to raise genuine concerns...' (relevant to investor risk assessment).\n• Evidence 2: 'The Adequate Procedures to Curb and Prevent Bribery and Corruption - T.R.U.S.T. Concept is published on the Company's website.' (relevant to corporate governance and compliance)."
+    "score": 6,
+    "justification": "• Evidence 1: \"The Group has a whistleblowing policy... to raise genuine concerns, disclose alleged... wrongdoings...\" (relevant to corporate governance)\n• Evidence 2: \"Anti-Bribery and Corruption Policy... zero-tolerance policy approach...\" (relevant to risk management)\n• Evidence 3: \"The Board reviews the minutes of the meetings of the ARMC\" (corporate governance relevance)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: The text lacks specific metrics or data to support claims (e.g., 'using water efficiently' without quantification)\n• Evidence 2: No disclosure of risks, challenges, or uncertainties related to sustainability initiatives"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: Clear structure with bullet points and logical categorization of focus areas\n• Evidence 2: Some terms like 'partners' are ambiguous, and GRI topics are listed without contextual explanation"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: Focus areas align with investor interests (e.g., human rights, occupational safety)\n• Evidence 2: No forward-looking statements, risks, or material events explicitly mentioned"
+  }
+}

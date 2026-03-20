@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood is committed to growing with its supply chain partners.\" (neutral statement with specific commitment)\n• Evidence 2: \"The Board is primarily responsible for establishing and effectiveness of the anti-bribery and anti-corruption programme.\" (references specific governance framework)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Launched in 2004, Coffee and Farmer Equity (C.A.F.E.) Practices...\" (clear temporal reference)\n• Evidence 2: \"Starbucks purchases cocoa from UTZ certified farmers...\" (precise, direct description of sourcing practices)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Being a member of industry organisations helps strengthen collective industry-wide action\" (links to strategic partnerships relevant for investors)\n• Evidence 2: \"Effectively managing key corruption risks\" (addresses material risk factors)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The final score of 8.5 reflects a balance between high-quality disclosures (e.g., 'no significant matter of disagreement between auditors and management' [score 9]) and areas with less detailed evidence (e.g., 'system of risk management... provides only reasonable assurances' [score 7]). Higher scores emphasize objective statements about audit independence and specific factual disclosures, while lower scores highlight gaps in quantifying internal control effectiveness. The compromise score acknowledges the strength of audit-related transparency but notes the need for more concrete metrics on risk mitigation."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "The score of 8 combines clear, structured explanations (e.g., 'ERM Validation Report summarises risk management activities' [score 9]) with moderate improvements over earlier formatting issues (e.g., 'confusing formatting with missing context' [score 6]). While the highest score demonstrates precise terminology and logical flow, the lower score reflects occasional ambiguities in financial data presentation. The final score prioritizes the stronger, more coherent explanations while acknowledging the need for consistent formatting improvements."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "The score of 8 integrates direct relevance to investor decision-making (e.g., 'reviewed related party transactions... non-controlling shareholders' [score 9]) with moderate gaps in contextual depth (e.g., 'dividend payout ratio... lacks contextual explanation' [score 6]). Higher scores emphasize material disclosures about governance and performance drivers, while lower scores highlight opportunities to better connect financial data to strategic implications. The final score reflects strong alignment with investor priorities but notes areas where contextual linkage could be strengthened."
+  }
+}

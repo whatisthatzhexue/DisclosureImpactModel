@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Malaysian Youth Mental Health Index can be a vital tool for monitoring the 'psychosocial health' of youth on a periodic basis,\" said Datuk Dr Amar Singh HSS.\n• Evidence 2: \"It’s crucial to continue addressing mental health challenges and providing support to those in need and from low-income families with conflicts,\" noted Prof Dr Sharifa Ezat Wan Puteh."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The discussion focuses on public health policy and societal issues, with no connection to corporate strategy, financial performance, or market impact."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The index, he said, is vital as a critical tool or guide to periodically monitor the psychosocial health of Malaysian youth,\" providing context on the study's purpose.\n• Evidence 2: \"The reasons are complex and the action plan needs to call for long-term prevention via a transformation of cities and social life,\" offering detailed analysis of proposed solutions."
+  }
+}

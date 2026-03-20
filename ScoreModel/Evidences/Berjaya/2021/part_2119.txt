@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks and BRoasters showed an average of 5% electricity savings...\" (specific fact)\n• Evidence 2: \"Starbucks stores installed efficient water fixtures... consumed 15% less water overall.\" (quantifiable data)"
+    "justification": "• Evidence 1: \"BStarbucks and BRoasters showed an average of 5% electricity savings\" (specific fact)\n• Evidence 2: \"Dairy production also drives deforestation, causes water pollution, and consumes huge amounts of land resources\" (objective statement with measurable impacts)"
   },
   "Understandability": {
     "score": 6,
-    "justification": "• Evidence 1: \"BFood companies expanded their plant-based menu options with key initiatives below:\" (clear section heading)\n• Evidence 2: \"removed all 'dipper wells'... replaced them with auto-close water faucets\" (precise description of action)"
+    "justification": "• Evidence 1: \"7.3 Paper Usage\" and \"7.4 Water Conservation\" (clear section headings)\n• Evidence 2: \"identity-preserved (\"IP\") Canadian soy beans\" (technical term used without explanation)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood raises awareness in all its store operations in conserving water...\" (directly addresses investor concerns)\n• Evidence 2: \"BFood is also in midst of exploring ways to manage their paper usage\" (forward-looking initiative relevant to sustainability metrics)"
+    "score": 5,
+    "justification": "• Evidence 1: \"BStarbucks reduced its water consumption by removing all 'dipper wells'... replaced them with auto-close water faucets\" (specific operational initiative)\n• Evidence 2: \"BFood’s HR function is further streamlined to Employee Engagement and Well-Being...\" (internal management practices relevant to governance)"
   }
 }

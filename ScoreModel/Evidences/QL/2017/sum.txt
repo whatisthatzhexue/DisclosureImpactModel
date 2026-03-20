@@ -1,80 +1,16 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: The text provides specific ownership percentages (e.g., '95% QL AgroResources Sdn. Bhd.') without subjective claims.\n• Evidence 2: No risks, uncertainties, or challenges are explicitly disclosed in the corporate structure section."
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: The text uses clear sections (e.g., 'PALM OIL ACTIVITIES') and precise language to categorize subsidiaries.\n• Evidence 2: Ownership percentages are directly stated, though some entries include parenthetical notes (e.g., '(fka: QL Green Energy Sdn. Bhd.)') which may add minor ambiguity."
-  },
-  "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: The corporate structure is relevant for investors but lacks explanations for performance changes or forward-looking information.\n• Evidence 2: No material events, risks, or governance details are included in the disclosure."
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"QL continued our steady growth trajectory in the face of various market disruptions such as overproduction of eggs which led to changes in price equilibrium, and unpredictable weather patterns affecting fish catch and palm oil production.\"\n• Evidence 2: \"The group oversaw growth in revenue and PBT by 6% and 4% respectively against the financial year ended 31 March 2016. This represented a RM158.1 million increase in top line and RM11.03 million in PBT to close the year with RM3.012 billion revenue and RM260.5 million PBT.\""
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Corporate Structure\" section is organized by business segments (Integrated Livestock Farming, Marine Products Manufacturing, etc.) with clear ownership percentages (e.g., \"95% QL AgroResources Sdn. Bhd.\").\n• Evidence 2: \"The reception to FamilyMart has been extremely encouraging. As at 7 July 2017, 14 stores have been opened in the Klang Valley.\""
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The group has continued to adhere to our strategies of replicating proven business models domestically and regionally as well as expanding the existing value chains.\"\n• Evidence 2: \"The foray into the convenience store business is a strategic extension of the current businesses that QL operates, providing a direct avenue to the population.\""
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Integrity and ethicality are vital in the current business climate, where temptation to blur best practices in pursuit of better margins may arise.\"\n• Evidence 2: \"The weaker Ringgit brought about a thermocline effect... cold on our raw material imports with the higher exchange required.\"\n• Evidence 3: \"QL is confident that the move to extend into convenience store business via FamilyMart will strengthen the Group’s position...\"\n• Evidence 4: \"We will continue to invest prudently towards securing upstream resources...\"\n• Evidence 5: \"The rising cost of operations however will continue pressuring margins.\"\n• Evidence 6: \"The Indonesia plantation which currently accounts of almost 90% of our planted estate...\"\n• Evidence 7: \"The immediate focus is to fill the gap in the Klang Valley...\"\n• Evidence 8: \"The Audit Committee... reviewed and recommended the Statement on Corporate Governance...\""
+    "justification": "• Evidence 1: The text provides factual ownership percentages (e.g., '100% Chingsan Development Sdn. Bhd.') without overt bias.\n• Evidence 2: No risks, challenges, or uncertainties are disclosed, limiting transparency."
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Our corporate governance statement and reports can be read on pages 28 to 40.\"\n• Evidence 2: \"The financial year under review of 1 April 2016 to 31 March 2017 was a period where QL Resources Berhad remained steadfast to our three-pronged strategy...\"\n• Evidence 3: \"The Audit Committee... reviewed and recommended the Statement on Corporate Governance, AC Report and Statement on Risk Management and Internal Control, to the Board for its approval.\"\n• Evidence 4: \"The internal audit is risk-based and has incorporated the Group’s identified risks focusing on those which would have most impact to the business objectives of the Group.\"\n• Evidence 5: \"The internal audit function provided the AC on a quarterly basis, an independent and objective reports on the state of internal control...\""
+    "justification": "• Evidence 1: The text uses a clear hierarchical structure (e.g., 'PALM OIL ACTIVITIES' sections) to organize subsidiaries.\n• Evidence 2: Ownership percentages are directly stated, though abbreviations like 'SDN. Bhd.' and 'PT.' may require prior knowledge."
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Looking forward, I am optimistically confident that QL will further strengthen our market position as the leading surimi-based manufacturer and egg producer in Asia...\"\n• Evidence 2: \"The outlook for ILF in the coming year is generally optimistic...\"\n• Evidence 3: \"The global economic outlook for 2017 is generally positive...\"\n• Evidence 4: \"The Audit Committee... reviewed and recommended the Statement on Risk Management and Internal Control, to the Board for its approval.\"\n• Evidence 5: \"The rising cost of operations however will continue pressuring margins.\"\n• Evidence 6: \"The Indonesia plantation which currently accounts of almost 9,000 hectares planted estates...\"\n• Evidence 7: \"The immediate focus is to fill the gap in the Klang Valley...\"\n• Evidence 8: \"The Audit Committee... reviewed and recommended the appointment of the Company’s External Auditors for the provision of non-audit services...\""
-  }
-}
-
-{
-  "MemoryTest": "[Repeat the exact anchor sentence]",
-  "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The Board is responsible for determining the nature and extent of the principal risks it is willing to take in achieving its strategic objectives.\"\n• Evidence 2: \"The Board in line with the good governance practices... put in place the following policies...\" (references specific governance policies but lacks concrete risk disclosures or factual data)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board delegates and confers some of the Board’s authorities... on properly constituted Board Committees\" (clear structure with specific roles)\n• Evidence 2: Bullet points under \"principal responsibilities\" provide direct, organized information (precise language with logical categorization)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"to identify principal business risks faced by the Group and ensure the implementation of appropriate systems to manage these risks\" (directly addresses risk management relevant to investors)\n• Evidence 2: \"develop and implement an investor relations programme...\" (explicitly mentions investor-focused policies)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 5,
-    "justification": "• Evidence 1: The text states directors 'endeavours in adopting most environmental friendly... production process' (imprecise and lacks specific facts)\n• Evidence 2: No disclosure of risks, challenges, or uncertainties related to governance or sustainability practices"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: Clear section headings (Corporate Governance, Ethical Standards, etc.) with logical flow\n• Evidence 2: Direct language explaining director duties and code of conduct requirements without excessive jargon"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: Covers corporate governance (director duties, code of conduct) relevant to investor decision-making\n• Evidence 2: Mentions sustainability strategies but lacks forward-looking statements or specific risk disclosures"
+    "score": 4,
+    "justification": "• Evidence 1: Ownership structure is relevant for investors but lacks context on strategic rationale or performance implications.\n• Evidence 2: No forward-looking information or material events are mentioned, reducing utility for decision-making."
   }
 }
 
@@ -82,31 +18,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"ensuring that Board procedures and applicable rules are observed\" (neutral, factual description of responsibilities)\n• Evidence 2: \"Company Secretary gives clear and sound advice on the measures to be taken...\" (objective statement of advisory role)"
+    "justification": "• Evidence 1: 'QL continued our steady growth trajectory in the face of various market disruptions such as overproduction of eggs which led to changes in price equilibrium, and unpredictable weather patterns affecting fish catch and palm oil production.' (discloses risks)\n• Evidence 2: 'The group oversaw growth in revenue and PBT by 6% and 4% respectively against the financial year ended 31 March 2016.' (specific factual data)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: Clear bullet-point structure for Company Secretary responsibilities (logical organization)\n• Evidence 2: Direct language explaining electronic voting and communication channels (precise terminology without unnecessary complexity)"
+    "score": 6,
+    "justification": "• Evidence 1: '100% QL FEEDINGSTUFFS SDN. BHD.' (clear ownership structure)\n• Evidence 2: '70.59% QL Endau Marine Products Sdn. Bhd.' (precise percentage disclosure)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Corporate Disclosure Policy... in line with Main Market Listing Requirements\" (directly relevant to investor transparency)\n• Evidence 2: \"Shareholders’ Participation at General Meeting\" (pertains to shareholder engagement but lacks specific performance or risk disclosures)"
-  }
-}
-
-{
-  "MemoryTest": "[Repeat the exact anchor sentence]",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The shareholders of the Company approved the Proposed Renewal... during its AGM held on 25 August 2016.\" (specific factual disclosure)\n• Evidence 2: \"The Board has deliberated, reviewed and approved the Corporate Governance Statement on 7 July 2017.\" (objective, verifiable action)"
-  },
-  "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The amount of audit fees and non-audit fees... were as follows:\" (clear structure with numerical data)\n• Evidence 2: \"The RMC... is chaired by the Group Managing Director.\" (precise, direct language about organizational structure)"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"In compliance with Bursa Malaysia Listing Requirements...\" (directly addresses regulatory requirements)\n• Evidence 2: \"The Board acknowledges their responsibility... to safeguard shareholders' investments\" (pertains to investor concerns)"
+    "justification": "• Evidence 1: 'The group oversaw growth in revenue and PBT by 6% and 4% respectively... RM3.012 billion revenue and RM260.5 million PBT.' (material financial performance)\n• Evidence 2: 'The foray into the convenience store business is a strategic extension... providing a direct avenue to the population.' (strategic rationale for investors)"
   }
 }
 
@@ -114,14 +34,94 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Group’s ERM framework aims to facilitate the execution of strategic business action...\" (neutral, objective description of framework)\n• Evidence 2: \"The Management is wary of the cybersecurity risk and is in the process of preparing Cybersecurity risk framework...\" (acknowledges risks without overstatement)"
+    "justification": "• Evidence 1: \"QL finished FY2017 Management Discussion and Analysis on firm footing with a growth of 6% in top line and 4% in Profit Before Tax (PBT)\" [specific financial data]\n• Evidence 2: \"The weaker Ringgit brought about a thermocline effect...\" [disclosure of currency risk]"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows:...\" (clear structure with numbered list)\n• Evidence 2: \"The risk profiles’ worksheet, control procedures and status of action plans are reviewed...\" (precise, direct language with specific processes)"
+    "justification": "• Evidence 1: \"Regional replication where core activities and value chains are replicated in major Southeast Asian markets\" [clear strategic explanation]\n• Evidence 2: \"The ten ILF operations bases of QL had mixed fortunes\" [precise description of operational risks]"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Group is exposed to various financial risks relating to foreign currency rates...\" (directly addresses material risks for investors)\n• Evidence 2: \"The RMC meet to review the risk profiles’ worksheet...\" (links risk management to governance structures relevant for decision-making)"
+    "justification": "• Evidence 1: \"Looking forward, I am optimistically confident that QL will further strengthen our market position...\" [forward-looking statement]\n• Evidence 2: \"The Indonesia plantation which currently accounts of almost 90% of our planted estate...\" [material event disclosure]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board is ultimately responsible for establishing all strategies and policies relating to the running of the Company.\" (neutral, objective)\n• Evidence 2: \"The Board is responsible for determining the nature and extent of the principal risks it is willing to take...\" (discloses risks, but lacks specific factual examples)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board delegates and confers some of the Board’s authorities... on properly constituted Board Committees\" (clear structure and direct language)\n• Evidence 2: \"The principal responsibilities of the Board include the following: -\" (precise list format with logical progression)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"to identify principal business risks faced by the Group and ensure the implementation of appropriate systems to manage these risks\" (directly addresses investor concerns)\n• Evidence 2: \"develop and implement an investor relations programme...\" (explicitly links to shareholder value, relevant for decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Directors have a duty to declare immediately to the Board should they have any transactions...\" (neutral, factual disclosure of governance rules)\n• Evidence 2: \"The Board recognises the environmental sustainability role...\" (states intent but lacks specific risk disclosures)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Directors’ Code of Conduct...sets out the Board’s standard of conduct\" (clear purpose statement)\n• Evidence 2: \"The minutes of Board meeting are circulated...\" (direct explanation of process)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Company’s Strategies for Sustainability...ensuring the long term stability of the business\" (relevant to investor concerns)\n• Evidence 2: \"Access to Information and Advice...subject to a formal written request\" (pertains to governance but lacks performance context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The primary responsibilities of the Company Secretary include: ... ensuring that Board procedures and applicable rules are observed;\" (neutral, factual description of duties)\n• Evidence 2: \"The Board is regularly updated and informed of any relevant regulations and guidelines issued by the regulatory authorities.\"" (demonstrates compliance with external standards)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Company Secretary gives clear and sound advice on the measures to be taken and requirements to be observed by the Company and the Directors\" (precise language)\n• Evidence 2: \"The Company uses information technology in communicating with stakeholders, including a dedicated section for Investor Relations on the Company's website\" (clear structure and direct explanation)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Annual General Meeting (\"AGM\") is the principal forum for dialogue between the Company and its shareholders and investors\" (directly relevant to shareholder engagement)\n• Evidence 2: \"The Company has set up a website to enable an active dialogue with its investors and shareholders\" (relevant to communication channels but lacks specific risk disclosures)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The amount of audit fees and non-audit fees... RM1,124,000 RM189,000 RM327,000 RM327,000\" (specific numerical data)\n• Evidence 2: \"During the financial year under review, there were no... except as those disclose on RRPT transactions\" (neutral disclosure of compliance status)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board has deliberated, reviewed and approved... on 7 July 2017\" (clear temporal reference)\n• Evidence 2: \"The RMC... is chaired by the Group Managing Director\" (structured organizational description)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The shareholders of the Company approved... during its AGM held on 25 August 2016\" (material governance information)\n• Evidence 2: \"In compliance with Bursa Malaysia Listing Requirements...\" (regulatory relevance for investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group’s ERM framework aims to facilitate the execution of strategic business action...\" (neutral, objective description of framework purpose)\n• Evidence 2: \"The Group has no significant breakdowns or weaknesses in the system of internal control\" (direct disclosure of risk assessment results)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows:\" (clear structure with numbered list)\n• Evidence 2: \"The Board, RMC and Audit Committee meet on a quarterly basis...\" (precise, direct language about governance processes)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group is exposed to various financial risks relating to foreign currency rates...\" (material risks relevant to investors)\n• Evidence 2: \"Internal audit’s scope covered...\" (specific disclosure of audit focus areas impacting decision-making)"
   }
 }

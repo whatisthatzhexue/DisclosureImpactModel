@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Gateway Development Alliance Sdn Bhd has increased its stake in Malaysia Airports Holdings Bhd to 1.65bn shares, representing a 98.68% ownership, following the closure of its offer.\" \n• Evidence 2: \"Heineken Malaysia Bhd reported a record 4QFY24 net profit of RM140.85mn, up 42.2% YoY supported by a lower tax rate and extended festive sales.\""
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"IJM Corp Bhd, via its JV company Exio Logistics Sdn Bhd is investing RM460mn in a new logistics hub in Sungai Buloh to support supply chains and e-commerce.\" \n• Evidence 2: \"Cape EMS Bhd views its expansion into the renewable energy sector as a key growth catalyst.\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Pavilion Real Estate Investment Trust posted a lower net profit of RM409.92mn for FY2024, compared to RM431.79mn the previous year, primarily due to increased borrowing costs following additional loan drawdowns for investment property acquisitions.\" \n• Evidence 2: \"Carlsberg Brewery Malaysia Bhd has proposed a final dividend of 35 sen per share for 4QFY2024, following a net profit of RM78.8mn for the quarter.\""
+  }
+}

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board is of the opinion that the financial statements have been drawn up in accordance with Malaysian Financial Reporting Standards, International Financial Reporting Standards and the requirements of the Companies Act, 1965 in Malaysia so as to give a true and fair view...\" \n• Evidence 2: \"In cases where judgement and estimates were made, they were based on reasonableness and prudence.\""
+    "justification": "• Evidence 1: \"the Directors have made a statement expressing an opinion on the financial statements. The Board is of the opinion that the financial statements have been drawn up in accordance with Malaysian Financial Reporting Standards, International Financial Reporting Standards and the requirements of the Companies Act, 1965 in Malaysia so as to give a true and fair view of the financial position...\" \n• Evidence 2: \"the Directors have reviewed the accounting policies and practices to ensure that they were consistently applied throughout the financial year. In cases where judgement and estimates were made, they were based on reasonableness and prudence.\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Directors have reviewed the accounting policies and practices to ensure that they were consistently applied throughout the financial year.\" \n• Evidence 2: \"The details of the recurrent related party transactions entered into during the financial year...\" (clearly structured transaction listings)"
+    "justification": "• Evidence 1: \"The following information is provided in compliance with the Bursa Securities Main Market Listing Requirements:\" \n• Evidence 2: \"Mandated Related Parties Relationship Type of Transaction Actual Value Transacted RM'000\" (clear structure but some terms like \"RM'000\" may require prior knowledge)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The following information is provided in compliance with the Bursa Securities Main Market Listing Requirements:\" \n• Evidence 2: \"Recurrent related party transactions...necessary for the day-to-day operation of the F&NHB Group.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"Recurrent Related Party Transactions of a Revenue or Trading Nature\" (provides material information for investors) \n• Evidence 2: \"Utilisation of Proceeds\" (discloses financing activities relevant to investors' decision-making)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Some RM203mil worth of book vouchers issued by the Education Ministry have been redeemed nationwide\" (verifiable data)\n• Evidence 2: \"Deputy Education Minister Wong Kah Woh said...\" (direct quote from credible official source)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"This is about 71% of the total RM284mil allocated for the vouchers\" (no direct connection to Berjaya Food Berhad)\n• Evidence 2: \"Separately, Wong said his ministry was stepping up efforts...\" (focus on education ministry initiatives, not company-specific strategic direction)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A total of 789 textbooks had been uploaded onto the platform, in addition to over 12,000 teaching materials\" (specific quantitative details)\n• Evidence 2: \"On May 30, Prime Minister Datuk Seri Anwar Ibrahim announced the move...\" (contextual background on program launch)"
+  }
+}

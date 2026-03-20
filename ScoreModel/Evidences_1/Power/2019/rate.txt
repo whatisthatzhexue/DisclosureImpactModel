@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.2,
+    "justification": "The majority of scoring results demonstrate strong reliability with specific factual disclosures (e.g., 'Export sales dropped in the past year from RM204.6 million to RM173.5 million due to several reasons' and 'The Board does not recommend the payment of any final dividend...'). These entries provide clear risk disclosures, compliance details, and performance metrics. However, some entries (e.g., score 4 and 1) lack substantive content or specific facts, while others (e.g., score 6) have limited risk analysis. The final score of 8.2 reflects the balance between high-quality disclosures and the presence of weaker entries."
+  },
+  "Relevance": {
+    "score": 7.1,
+    "justification": "High-scoring entries (e.g., 8 and 9) focus on material events, strategic priorities, and investor-relevant metrics (e.g., 'Export sales dropped... due to several reasons' and 'Our participation in this exciting event helped increase awareness...'). Mid-range entries (e.g., 6-7) address corporate governance and operational risks but lack forward-looking analysis or direct links to financial performance. Lower scores (e.g., 3-5) fail to connect disclosures to investor concerns or material events. The score of 7.1 captures the dominance of relevant content while acknowledging gaps in some sections."
+  },
+  "Understandability": {
+    "score": 8.0,
+    "justification": "Most scoring results (e.g., 8-9) exhibit clear structure, precise language, and logical flow (e.g., 'Total Assets decreased by RM23.8 million as a consequence of...' and 'Stakeholder Group Engagement Objective(s) Preferred Engagement Method(s)'). Mid-range entries (e.g., 6-7) are coherent but less detailed. Lower scores (e.g., 3-5) lack structured explanations or precise terminology. The score of 8.0 reflects the prevalence of clear, direct language and well-organized information, despite some entries with limited clarity."
+  }
+}

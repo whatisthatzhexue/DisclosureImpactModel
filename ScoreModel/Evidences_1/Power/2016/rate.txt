@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The reliability score is derived from a balanced assessment of the scoring results. The first two sources (scores 9 and 9) highlight strong corporate structure details, quantified performance changes, and neutral factual disclosures. The third source (score 8) adds objective risk management criteria, while the fourth (score 7) emphasizes clear accountability and specific financial disclosures. Contradictions in scoring are resolved by prioritizing the consistency of factual precision (e.g., quantified revenue changes) and structured governance disclosures, which dominate across sources. Compromised to 8.5 to reflect high reliability with minor inconsistencies in depth."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "The relevance score reflects a middle ground between high (9) and lower (6-7) assessments. The first source (score 9) provides material event disclosures and direct investor-relevant decisions (e.g., dividend recommendations). The fourth source (score 7) addresses investor concerns through governance assurance, while the third (score 6) focuses on internal risk monitoring. The second source (score 7) balances material risk disclosures with corporate governance. Compromised to 7.5 to acknowledge strong materiality in some sections but lower emphasis on direct investor impact in others."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "The understandability score is anchored by consistent high-quality disclosures across sources. The first two sources (scores 8 and 8) emphasize clear language, structured lists, and direct explanations (e.g., audit committee reporting). The fourth source (score 8) highlights role assignments and hierarchical explanations. The third source (score 7) uses precise terminology but slightly less accessible flow. Final score of 8 reflects strong clarity in most sections, with minor trade-offs in complexity for specific risk terminology."
+  }
+}

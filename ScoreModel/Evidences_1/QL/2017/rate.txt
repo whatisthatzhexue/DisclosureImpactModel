@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7.5,
+    "justification": "The final score of 7.5 balances strong evidence from multiple sources (e.g., specific financial data, risk acknowledgment in ERM frameworks, and governance disclosures) with gaps in risk transparency and factual specificity. Higher scores (e.g., 9) highlight objective, verifiable disclosures (e.g., audit fees, strategic risk frameworks), while lower scores (e.g., 5) note missing risk disclosures and imprecise statements (e.g., vague claims about sustainability). The compromise reflects a mix of robust factual reporting and areas needing improvement in risk transparency."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "A score of 7 reflects the majority of scoring results that emphasize strategic relevance (e.g., forward-looking statements about market expansion, alignment with governance policies) while noting deficiencies in forward-looking risk analysis and material event disclosures. Higher scores (e.g., 8) highlight direct investor-focused content (e.g., strategic extensions, compliance with listing requirements), whereas lower scores (e.g., 5) lack depth in connecting disclosures to performance or risks, resulting in a balanced compromise."
+  },
+  "Understandability": {
+    "score": 8.5,
+    "justification": "The score of 8.5 captures the prevalence of clear, structured language (e.g., bullet points, precise ownership percentages) and logical organization (e.g., segmented corporate structure sections) across most scoring results. Higher scores (e.g., 9) cite direct, jargon-free explanations of processes (e.g., risk management workflows) and numerical clarity. Lower scores (e.g., 7) note minor ambiguities (e.g., parenthetical notes), but overall, the majority of evidence supports high understandability with minimal compromises."
+  }
+}

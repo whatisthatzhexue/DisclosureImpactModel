@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 6,
-    "justification": "• Evidence 1: \"Despite the challenging global economic environment, the Directors are cautiously assured that the Operating companies will make robust development...\" (balanced tone but lacks specific risk disclosures)\n• Evidence 2: \"The Company remains committed in terms of maintaining the highest standards...\" (general commitment without quantifiable metrics)"
+    "justification": "• Evidence 1: \"Despite the challenging global economic environment, the Directors are cautiously assured...\" (acknowledges external challenges but lacks specific risk disclosures)\n• Evidence 2: \"the Group is well-positioned to strengthen its position...\" (forward-looking statement without quantifiable metrics or risk mitigation details)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Berjaya Food (International) Sdn Bhd... expanded into the Nordic market by successfully earning the rights to operate in 3 countries...\" (clear, specific achievement)\n• Evidence 2: \"part of the proceeds will be channelled to support charitable causes...\" (precise explanation of campaign impact)"
+    "justification": "• Evidence 1: \"By focusing on strategic adjustments and operational enhancements, the Group is well-positioned...\" (clear cause-effect logic)\n• Evidence 2: \"part of the proceeds will be channelled to support charitable causes...\" (precise explanation of campaign impact)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"To align with the Company's dedication to spread the F&B experiences on a global scale...\" (forward-looking strategic direction)\n• Evidence 2: \"Your perseverance has been key to our success...\" (corporate governance/employee recognition relevant to operational continuity)"
+    "score": 6,
+    "justification": "• Evidence 1: \"expanded into the Nordic market by successfully earning the rights to operate in 3 countries...\" (material event relevant to investors)\n• Evidence 2: \"maximise the effectiveness of our operations by reducing production costs...\" (operational efficiency focus for decision-making)"
   }
 }

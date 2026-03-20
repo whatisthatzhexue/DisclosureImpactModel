@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The newly unveiled state-of-the-art facilities are designed to inspire and empower students to unleash their creativity.\"\n• Evidence 2: \"The faculty’s deputy dean Mohd Faiz Alias says, 'Our unique approach to education sets FCAD apart from other institutions.'\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The provided text focuses exclusively on University of Cyberjaya's academic programs and facilities, with no mention of Berjaya Food Berhad or its business strategies, financial performance, or market position.\"\n• Evidence 2: \"The content is entirely promotional for a university, unrelated to the company context provided (Berjaya Food Berhad).\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"From precision drawing tools like Wacom Intuos and HUION Kamvas Pro to high-end computers running the latest graphics processors, UoC’s Faculty of Creative Arts and Design provides students with the resources they need to excel in their craft.\"\n• Evidence 2: \"The faculty embraces an innovative interdisciplinary approach, collaborating with other faculties to expand the realm of possibilities for students.\""
+  }
+}

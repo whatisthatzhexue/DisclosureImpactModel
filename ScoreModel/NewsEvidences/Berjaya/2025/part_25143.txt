@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MRCB has withdrawn from a consortium...\" (specific factual claim with direct source)\n• Evidence 2: \"YTL Communications Sdn Bhd (YTL Comms)... cleared of any wrongdoing\" (third-party verification via MACC)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Berjaya Group... would no longer be part of the KL-SG HSR Consortium\" (direct impact on strategic positioning)\n• Evidence 2: \"Scientex posted a lower net profit...\" (financial performance affecting market perception)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"RM417.7mil contract...\" (specific financial data)\n• Evidence 2: \"US stocks plunged...\" (broader market context but limited analysis of Malaysian implications)"
+  }
+}

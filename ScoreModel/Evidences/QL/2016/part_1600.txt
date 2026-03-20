@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: 'The trust earned over the years is an asset that is invaluable and we will continue to uphold the pursuit of prudence, stringent monitoring and control of our business practices across all divisions and subsidiaries.'\n• Evidence 2: 'We are cautiously optimistic of maintaining our record of uninterrupted earnings growth since inception despite the anticipated challenging market situation and uncertainties surrounding the aftermath of the United Kingdom referendum to exit from European Union or ‘Brexit’.'"
+    "justification": "• Evidence 1: \"The trust earned over the years is an asset that is invaluable and we will continue to uphold the pursuit of prudence, stringent monitoring and control of our business practices across all divisions and subsidiaries.\"\n• Evidence 2: \"We are cautiously optimistic of maintaining our record of uninterrupted earnings growth since inception despite the anticipated challenging market situation and uncertainties surrounding the aftermath of the United Kingdom referendum to exit from European Union or ‘Brexit’.\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: 'Net debt ratio at financial year-end improved from 37.1% to 31.3%.' (clear numerical data)\n• Evidence 2: 'The MPM division with its unique business activities that span both upstream and downstream is on solid footing, with projects progressing as expected.' (precise description of business structure)"
+    "justification": "• Evidence 1: \"For FY2016, revenue at each of our five overseas operation bases in Indonesia and Vietnam improved, translating to a collective increase of RM197.1 million to enhance regional operations revenue to RM478.0 million.\"\n• Evidence 2: \"The new RM40 million chilled surimi-based products plant is being built in Hutan Melintang. Upon commissioning in two years’ time, this new state-of-the-art facility will more than double the current annual capacity of 12,000 metric tonnes to 25,000 metric tonnes.\""
   },
   "Relevance": {
     "score": 9,
-    "justification": "• Evidence 1: 'Looking forward, I am confident that QL will continue to maintain our market position as the leading egg producer and surimi manufacturer in Asia...' (forward-looking strategic goals)\n• Evidence 2: 'The impact of the weak Ringgit on farming cost was lessened when commodity prices fell.' (explains performance changes due to external factors)"
+    "justification": "• Evidence 1: \"QL is confident that this long term strategy, with a name such as FamilyMart will provide a new chapter of both excitement and growth for the Group.\"\n• Evidence 2: \"The impact of the weak Ringgit on farming cost was lessened when commodity prices fell. The ILF division was also confronted by a major egg price correction in Peninsular Malaysia after a strong egg price in the previous financial year.\""
   }
 }

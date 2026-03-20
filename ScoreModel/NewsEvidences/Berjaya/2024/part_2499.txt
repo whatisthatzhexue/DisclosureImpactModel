@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"With the complete closure of the group's NFO outlets in Kedah and Perlis...\" (specific factual statement about operational challenges)\n• Evidence 2: \"In the second quarter ended Dec 31, BCorp’s net loss widened to RM116.3mil...\" (verifiable financial data with exact figures)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the performance of the business segments...on the back of moderate consumer spending, rebound of tourism activities...\" (direct link to strategic factors impacting business performance)\n• Evidence 2: \"the group will monitor the prevailing global and local political development...\" (strategic relevance to operational risks and long-term positioning)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"For the first six months to Dec 31, BCorp posted a net loss of RM100.5mil on revenue of RM4.8bil.\" (specific financial data but limited contextual analysis)\n• Evidence 2: \"the management of NFO business segment...disheartened by the encroachment of illegal operators...\" (partial insight into operational challenges but no broader industry context)"
+  }
+}

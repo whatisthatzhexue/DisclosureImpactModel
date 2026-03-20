@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The positions of Chairman and GCEO are held by different individuals with clear division of responsibilities to ensure accountability...' [neutral, factual disclosure of governance structure]\n• Evidence 2: 'The Board has established the Directors’ Fit and Proper Policy... available on the Company’s website' [transparent disclosure of policies]"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board has established an Executive Committee... to achieve the Group’s corporate objectives.\" [neutral, factual description]\n• Evidence 2: \"The review of the Group’s system of risk management... designed to manage rather than eliminate the risk of failure.\" [discloses risks and uncertainties]"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'The Nominating Committee met three times to review and assess the following: • Board, individual Directors, Committee’s evaluation...' [clear structure with bullet points]\n• Evidence 2: 'The remuneration packages of the Executive Directors are structured to commensurate with the experience...' [precise language explaining compensation rationale]"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Nominating Committee comprises three Independent Non-Executive Directors.\" [clear structure and precise terminology]\n• Evidence 2: \"The Board’s composition should reflect an appropriate mix... diversity.\" [logical flow with specific criteria]"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: 'The Board delegates its role on risk management to the Risk Management Committee... relevant internal controls system' [directly addresses risk management relevance]\n• Evidence 2: 'The Board aims to present a balanced and understandable assessment... regulatory authorities' [explicitly states investor-focused purpose]"
+    "score": 8,
+    "justification": "• Evidence 1: \"Succession planning... critical roles.\" [directly addresses investor concerns about leadership continuity]\n• Evidence 2: \"The Audit Committee... independence of the external auditors.\" [relevant to governance and accountability]"
   }
 }

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board is committed in ensuring that the Company and its subsidiaries... carries out its business operations within the required standards of corporate governance as set out in the Malaysian Code on Corporate Governance 2012\" (explicit reference to a regulatory standard).\n• Evidence 2: \"The Board is pleased to provide the following statement... outlines the main corporate governance practices\" (neutral, factual disclosure without overstatement)."
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board is committed in ensuring that the Company and its subsidiaries...carries out its business operations within the required standards of corporate governance as set out in the Malaysian Code on Corporate Governance 2012\" (specific reference to MCCG 2012)\n• Evidence 2: \"The Board assumes the following principal roles and responsibilities...\" (clearly outlines duties without overstatement)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board assumes the following principal roles and responsibilities...\" (clear structure with numbered list).\n• Evidence 2: \"The CEO and Management meet regularly...\" (precise, direct language explaining roles and processes)."
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board is responsible for the performance and affairs of the Group and to provide leadership, guidance and setting strategic direction for the Group\" (precise and structured language)\n• Evidence 2: \"Non-Executive Directors are not involved in the day-to-day management...\" (clear distinction of roles)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Review, evaluate, adopt and approve the strategic plans and policies...\" (relevant to investor decision-making).\n• Evidence 2: \"Identify principal risks...\" (mentions risk management, but lacks forward-looking information or material event disclosures)."
+    "score": 7,
+    "justification": "• Evidence 1: \"Review and adopt budgets and financial results...monitor compliance with applicable accounting standards\" (directly relevant to financial disclosure and governance)\n• Evidence 2: \"Identify principal risks and assess the appropriate risk management systems...\" (addresses risk management, critical for investor decision-making)"
   }
 }

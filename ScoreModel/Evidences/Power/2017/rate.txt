@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8.3,
-    "justification": "The report demonstrates strong reliability through detailed financial disclosures (e.g., 'Profit After Tax (PAT) of approximately RM47.2 million') and structured governance frameworks (e.g., 'structured Risk Management Policy'). However, some scoring results highlight gaps in risk analysis (e.g., 'lacks risk analysis') and limited acknowledgment of limitations (e.g., 'acknowledges challenges but lacks risk analysis'), which slightly lower the score. The final score reflects a balance between high-quality factual reporting and areas needing improvement in risk transparency."
+    "score": 9,
+    "justification": "The majority of scorers (3 out of 4) assigned a score of 9, citing strong evidence such as specific financial data (e.g., 'Profit After Tax (PAT) of approximately RM47.2 million') and acknowledgment of systemic limitations ('However, as there are inherent limitations in any risk management...'). The single 7-point score was based on a lack of quantitative risk analysis, but this was outweighed by the comprehensive disclosures in other results, including structured governance frameworks and precise factual statements."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "Three scorers gave 8, emphasizing detailed explanations of performance drivers (e.g., 'Export growth... stemmed from the Middle East and North Africa (MENA) region') and forward-looking risk assessments. The 6-point score was attributed to limited risk context in forward-looking statements, but this was balanced by the majority's inclusion of material financial performance details and governance-related relevance (e.g., 'The Audit Committee ensures the adequacy of the internal audit scope')."
   },
   "Understandability": {
     "score": 8,
-    "justification": "The report provides clear and precise information, such as 'Revenue (RM’million) chart' and 'Dividend per share graph' for visual clarity, along with direct language about governance structures (e.g., 'The Board comprises of seven (7) members'). While some scoring results note structured explanations (e.g., 'Risk Management Policy clearly defines objectives'), others point to minor ambiguities (e.g., 'precise financial figures with context'). The final score reflects a mix of strong clarity and areas where further simplification could enhance comprehension."
-  },
-  "Relevance": {
-    "score": 7.5,
-    "justification": "The report addresses material events impacting performance (e.g., 'Export sales has shown a very encouraging rise') and includes governance-related information (e.g., 'Board is committed to ensure good corporate governance practices'). However, some scoring results criticize limited contextual explanation for forward-looking statements (e.g., 'forward-looking statement with limited contextual explanation') and insufficient linkage to investor concerns. The final score reflects a balance between relevant disclosures and gaps in contextual depth and investor-focused risk communication."
+    "justification": "Scores of 9 and 7 were averaged to 8, reflecting structured explanations (e.g., 'Export sales grew from RM141.5 million to RM183.2 million') and clear corporate structure listings, while also acknowledging the 7-point score's focus on precise numerical data and logical references (e.g., 'The areas of review conducted by the internal auditors are disclosed in the Statement on Risk Management...'). The final score balances depth of technical terminology with accessibility."
   }
 }

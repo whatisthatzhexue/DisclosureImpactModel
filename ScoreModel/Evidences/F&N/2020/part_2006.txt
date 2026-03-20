@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Contributed RM112.8 million in tax for FY2020\" (specific financial disclosure)\n• Evidence 2: \"Complied with regulation to mitigate against systemic risk\" (acknowledges regulatory compliance)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Dividend Payout Ratio: 53.6%\" (specific factual data)\n• Evidence 2: \"Total Supplier Spend: RM3.21 billion\" (quantifiable metric). The text lacks explicit disclosure of risks or uncertainties, relying heavily on positive statements without balancing potential challenges."
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Total No. of Employees: 2,616 employees\" (clear numerical disclosure)\n• Evidence 2: \"Dividend Payout Ratio: 53.6%\" (precise metric presentation)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Revenue: RM3,988.5 MILLION\" (clear numerical presentation)\n• Evidence 2: \"75% local purchase value\" (precise metric). However, repetitive headings (e.g., \"Driving economic value\") and inconsistent formatting reduce clarity, with some sections blending narrative and data without clear segmentation."
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Revenue: RM3,988.5 MILLION\" (key financial indicator for investors)\n• Evidence 2: \"Sustainability Targets 2020\" (forward-looking goals impacting long-term value)"
+    "justification": "• Evidence 1: \"Profit for the Year: RM410.1 MILLION\" (direct financial performance indicator)\n• Evidence 2: \"F&N GROUP 2020 SUSTAINABILITY TARGETS\" (forward-looking goals relevant to investors). The text emphasizes stakeholder engagement and financial metrics but lacks detailed analysis of performance drivers or material risks impacting decision-making."
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "The reliability score of 8 is justified by strong evidence of transparent governance practices, including publicly available anti-bribery policies and statements demonstrating prudent management during challenging times (e.g., FY2020). These elements reflect consistent adherence to ethical standards and accountability, which are critical for reliability."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "A relevance score of 7 is assigned based on the inclusion of mission-driven governance commitments and direct discussions about pandemic impacts on operations and finances, including specific actions like the RM500,000 donation. While these elements demonstrate materiality, the analysis could benefit from deeper linkage to stakeholder priorities or long-term strategic goals."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "The understandability score of 7 reflects clear explanations of governance practices (e.g., reference to Malaysian Code on Corporate Governance) and practical examples of market adaptation (e.g., product development based on local insights). However, some technical terms or contextual references might require additional clarification for broader comprehension."
+  }
+}

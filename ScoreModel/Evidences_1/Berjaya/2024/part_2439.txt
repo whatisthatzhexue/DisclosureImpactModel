@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Company is committed to addressing all grievance reports within two weeks of receipt, ensuring timely and effective resolution of issues.\" (specific timeframe and objective commitment)\n• Evidence 2: \"risk assessment process includes periodically reviewing the labour practices of existing and potential business and supply chain partners.\" (acknowledges risks and third-party oversight)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group's code of conduct outlines labour standards and expectations rigorously enforced across all brands.\" (clear structure and direct language)\n• Evidence 2: \"BFood fosters respect and non-discrimination in all aspects of employment...\" (precise, organized explanation of policies)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"risk assessment process includes periodically reviewing the labour practices of existing and potential business and supply chain partners.\" (relevant to investor concerns about supply chain risks)\n• Evidence 2: \"aligning with the Group's ethical standards.\" (links policies to broader governance framework)"
+  }
+}

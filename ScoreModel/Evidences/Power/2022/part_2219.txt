@@ -1,15 +1,15 @@
 {
   "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Recurrent Related Party Transactions of a Revenue or Trading Nature (\"RRPT\")\" [neutral, factual disclosure]\n• Evidence 2: \"@ Wong Tak Keong, the Chief Executive Officer who is also an Executive Director and substantial shareholder of the Company, is an Interested Director and Shareholder by virtue of his directorships, direct and indirect shareholdings in the Related Parties.\" [objective disclosure of conflict of interest]"
+    "score": 7,
+    "justification": "• Evidence 1: \"The breakdown of the aggregate value of the RRPT...\" (factual, neutral presentation)\n• Evidence 2: \"@ Wong Tak Keong...\" (clearly identifies Interested Director/Shareholder without bias)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Power Root HK-China Company Limited Sale of beverage products by Power Root Manufacturing Sdn Bhd to Power Root HK-China Company Limited\" [clear transaction structure]\n• Evidence 2: \"Wong Tak Keong @ –\" [ambiguous zero-value notation could confuse readers]"
+    "score": 8,
+    "justification": "• Evidence 1: \"Power Root HK-China Company Limited...\" (clear structure with bullet points and specific transaction details)\n• Evidence 2: \"RM’000\" (consistent formatting with numerical data presentation)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Aggregate Value of Transactions RM’000\" [material financial information for investors]\n• Evidence 2: \"Power Root HK-China Company Limited Distribution of Power Root’s products...\" [corporate governance relevance via related party transactions]"
+    "justification": "• Evidence 1: \"Recurrent Related Party Transactions...\" (material information for investors assessing conflicts of interest)\n• Evidence 2: \"@ Wong Tak Keong...\" (corporate governance relevance through disclosure of Interested Director relationships)"
   }
 }

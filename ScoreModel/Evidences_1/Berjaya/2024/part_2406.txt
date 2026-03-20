@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The decline in revenue was primarily attributed to the negative impact of the ongoing conflict in the Middle East on consumer sentiment.\"\n• Evidence 2: \"BStarbucks recorded a loss before tax of RM45.1 million compared to profit before tax of RM165.6 million in the previous financial year. The decline in profitability was primarily driven by revenue deleveraging, reinvestments in employees, and heightened promotional activities.\"\n• Evidence 3: \"The Company will continue partnerships with NGOs to provide community service, food aid, and food rescue programmes.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"As of 30 June 2024, BStarbucks operates 408 stores across Malaysia, providing a welcoming space for customers to connect, share, and enjoy quality coffee.\"\n• Evidence 2: \"BStarbucks aims to open 3 to 5 Drive-Thru concept stores in strategically locations. The Company is cautious and selective in its choice of locations for new store openings.\"\n• Evidence 3: \"The Company will enhance its loyalty programme – Starbucks Mobile Application with exclusive deals and tiered rewards aimed at driving sales.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In the financial year 2024, BStarbucks registered a revenue of RM676.0 million compared to RM1.0 billion in the previous financial year. The decline in revenue was primarily attributed to the negative impact of the ongoing conflict in the Middle East on consumer sentiment.\"\n• Evidence 2: \"Looking ahead to the financial year 2025, BStarbucks aims to open 3 to 5 Drive-Thru concept stores in strategically locations. The Company is cautious and selective in its choice of locations for new store openings.\"\n• Evidence 3: \"BStarbucks will continue partnerships with NGOs to provide community service, food aid, and food rescue programmes.\""
+  }
+}

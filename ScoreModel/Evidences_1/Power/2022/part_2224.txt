@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The principles... guided by ISO 31000:2018 – Risk Management Guidelines.' [exact quote]\n• Evidence 2: 'Risks above the risk appetite level... prioritised for internal audit activities.' [exact quote]"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The roles and responsibilities of the SRMC include the following: a. implement... b. implement... c. ensure...' [structured list with clear logic]\n• Evidence 2: 'The structured risk management process... guided by the likelihood rating and impact rating.' [precise explanation of methodology]"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Board... review and deliberation to ensure... in line with the Group’s risk appetite.' [direct link to investor decision-making]\n• Evidence 2: 'The risk owners... report to the SRMC on the emergence of new business risks.' [material risk disclosure]"
+  }
+}

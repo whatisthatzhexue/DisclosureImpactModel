@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The funds collected must only be used for tourism and nothing else...\" (Datuk Tony Goh)\n• Evidence 2: \"RM9.69mil credited into the state government’s consolidated funds\" (Wong Hon Wai)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its operations\n• Evidence 2: Article focuses on Penang tourism fees impacting hotels, unrelated to food/beverage industry strategies"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Previous reports indicated the amount collected ranged from over RM8mil to almost RM11mil per year\" (historical context)\n• Evidence 2: \"The hotel fee trust account was closed...\" (specific financial data and timeline)"
+  }
+}

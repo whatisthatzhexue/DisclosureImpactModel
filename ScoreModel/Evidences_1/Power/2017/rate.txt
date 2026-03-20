@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.3,
+    "justification": "The report demonstrates strong reliability through detailed financial disclosures (e.g., 'Profit After Tax (PAT) of approximately RM47.2 million') and structured governance frameworks (e.g., 'structured Risk Management Policy'). However, some scoring results highlight gaps in risk analysis (e.g., 'lacks risk analysis') and limited acknowledgment of limitations (e.g., 'acknowledges challenges but lacks risk analysis'), which slightly lower the score. The final score reflects a balance between high-quality factual reporting and areas needing improvement in risk transparency."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "The report provides clear and precise information, such as 'Revenue (RM’million) chart' and 'Dividend per share graph' for visual clarity, along with direct language about governance structures (e.g., 'The Board comprises of seven (7) members'). While some scoring results note structured explanations (e.g., 'Risk Management Policy clearly defines objectives'), others point to minor ambiguities (e.g., 'precise financial figures with context'). The final score reflects a mix of strong clarity and areas where further simplification could enhance comprehension."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "The report addresses material events impacting performance (e.g., 'Export sales has shown a very encouraging rise') and includes governance-related information (e.g., 'Board is committed to ensure good corporate governance practices'). However, some scoring results criticize limited contextual explanation for forward-looking statements (e.g., 'forward-looking statement with limited contextual explanation') and insufficient linkage to investor concerns. The final score reflects a balance between relevant disclosures and gaps in contextual depth and investor-focused risk communication."
+  }
+}

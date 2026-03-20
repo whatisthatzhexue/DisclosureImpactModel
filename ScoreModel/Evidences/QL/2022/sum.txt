@@ -2,15 +2,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"As at 31 March 2022, QL applied 42 out of the total of 48 recommended MCCG practices.\" (Discloses specific compliance with governance standards)\n• Evidence 2: \"Despite the robust demand, protracted supply chain disruptions, high commodity prices and inflationary pressures will pose a challenge...\" (Discloses risks and uncertainties)"
+    "justification": "• Evidence 1: 'The Board reviews its Corporate Governance (CG) practices annually to ensure alignment with the practices prescribed by the Malaysian Code on Corporate Governance (MCCG) 2021.'\n• Evidence 2: 'As at 31 March 2022, QL applied 42 out of the total of 48 recommended MCCG practices. In accordance with the comply or explain approach set out by MCCG 2021, details on the departures are disclosed in the CG Report available at https://ql.com.my/corporate-governance/.'"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Board reviews its Corporate Governance (CG) practices annually to ensure alignment with the practices prescribed by the Malaysian Code on Corporate Governance (MCCG) 2021.\" (Clear structure and precise terminology)\n• Evidence 2: \"QL is strengthening our risk management and internal control system by building a dedicated team comprising experienced personnel with diverse competency.\" (Direct language explaining governance actions)"
+    "justification": "• Evidence 1: 'QL is strengthening our risk management and internal control system by building a dedicated team comprising experienced personnel with diverse competency.'\n• Evidence 2: 'The Board has conducted a comprehensive review of the CG practices in July 2022 and conducted a Gap Analysis to identify departures.'"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board reviews its Corporate Governance (CG) practices annually...\" (Relevant to investor understanding of governance mechanisms)\n• Evidence 2: \"The performance of QL in FY2023 is reliant on the extent of the disruption caused by the war...\" (Includes forward-looking information and material risks)"
+    "justification": "• Evidence 1: 'Despite the robust demand, protracted supply chain disruptions, high commodity prices and inflationary pressures will pose a challenge for QL in the coming financial year.'\n• Evidence 2: 'The Board understands its fiduciary duty to stakeholders to promote business prosperity and corporate accountability.'"
   }
 }
 
@@ -18,47 +18,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"FY2022 revenue for the ILF business pillar rose 19.9% to RM2.79 billion. While top line grew, PBT shrank 55.8% YoY to RM32.12 million.\"\n• Evidence 2: \"Near record high feed raw material prices adversely affected all ILF activities, causing operations costs to balloon.\""
+    "justification": "• Evidence 1: \"Near record high feed raw material prices adversely affected all ILF activities, causing operations costs to balloon.\" (Discloses specific risks and challenges)\n• Evidence 2: \"The super high prices of feed raw material in particular corn and soybean adversely affected the performance...\" (Provides factual explanation for performance decline)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Integrated Livestock Farming (ILF) Revenue (RM million) PBT (RM million)\" (clear data presentation)\n• Evidence 2: \"The persisting Russia-Ukraine war... will cause commodity prices to rise.\"\n• Evidence 3: Bullet points and section headings improve structure but some technical terms (e.g., PBT) may require prior knowledge."
-  },
-  "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The super high prices of feed raw material... adversely affected the performance of every ILF activity.\"\n• Evidence 2: \"Outlook: The persisting Russia-Ukraine war... we expect a cautiously positive performance for ILF for FY2023.\"\n• Evidence 3: \"Government subsidies providing reprieve... price equilibrium in 2H FY2023\" (forward-looking risk mitigation)."
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The MCO caused operational disruptions to CE project delivery. Adding to this situation, material (steel and solar panels) cost spiked.\" (Discloses risks and challenges)\n• Evidence 2: \"PBT came in at RM45.33 million, which was 499.6% higher YoY after excluding the one-off re-measurement gain...\" (Provides specific financial facts and clarifies anomalies)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"FFB production is expected to maintain. CPO prices are on the decline...\" (Clear, direct language)\n• Evidence 2: \"QL Kitchen’s new production lines in the second central kitchen began operating in May 2022...\" (Precise timeline and operational details)"
-  },
-  "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Outlook: FFB production is expected to maintain... the lifting of export ban by Indonesia will further exert price pressure.\" (Forward-looking information)\n• Evidence 2: \"Challenges: Labour shortage, and excessive rainfall... Higher logistic cost and Indonesian windfall tax added to the challenges.\" (Material risks and events)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The World Bank noted global recovery is expected to decelerate to 4.1% in 2022...\" (specific factual statement)\n• Evidence 2: \"60% of Malaysia’s food is imported...\" (quantifiable data supporting claims)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Ringgit’s slide against the greenback is not helping matters...\" (clear cause-effect explanation)\n• Evidence 2: \"QL keeps a watchful and vigilant eye on business dynamics...\" (precise, direct language)"
+    "justification": "• Evidence 1: \"14 operating entities\" and \"0.4 MW solar energy project\" (Clear, specific data points)\n• Evidence 2: \"FY2022 revenue... rose 19.9% to RM2.79 billion.\" (Direct financial performance metrics with clear context)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Headline inflation is projected to average between 2.2% and 3.2%...\" (forward-looking info for investors)\n• Evidence 2: \"We have laid strong foundations for strategic growth...\" (material events impacting business prospects)"
+    "justification": "• Evidence 1: \"The persisting Russia-Ukraine war... will cause commodity prices to rise.\" (Forward-looking information relevant to investors)\n• Evidence 2: \"Government subsidies providing reprieve... cautiously positive performance\" (Explains factors affecting future performance)"
   }
 }
 
@@ -66,15 +34,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: 'Zero fatality and LTIFR improvement of 2.95% from FY2021' (specific performance metric)\n• Evidence 2: 'QL has not sought external assurance on the data presented in this statement' (transparent disclosure of limitations)"
+    "justification": "• Evidence 1: \"The MCO caused operational disruptions to CE project delivery. Adding to this situation, material (steel and solar panels) cost spiked.\" (Discloses risks and specific challenges)\n• Evidence 2: \"PBT came in at RM45.33 million, which was 499.6% higher YoY after excluding the one-off re-measurement gain...\" (Provides specific financial data and contextualizes performance changes)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: 'Generated over 53,061 GJ of renewable energy from solar and biogas' (clear, concise metric)\n• Evidence 2: 'Materiality Matrix' (visual structure aids comprehension of priorities)"
+    "score": 9,
+    "justification": "• Evidence 1: \"QL has 16,000 hectares of estate holding. To best utilise our natural capital, 9,000 hectares are cultivated...\" (Clear, structured explanation of operations)\n• Evidence 2: \"CVS recorded a PBT of RM43.00 million on the back of RM636.71 million revenue...\" (Precise financial metrics with direct cause-effect linkage)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: 'Assisted 13,200 beneficiaries via our Corporate Philanthropy collaborations' (investor-relevant social impact)\n• Evidence 2: 'Compliance with GRI Standards 2016' (directly relevant to ESG investment decisions)"
+    "justification": "• Evidence 1: \"The outlook for POCE is negative.\" (Includes forward-looking information and risk assessment)\n• Evidence 2: \"We have set our sight on opening another 300 FamilyMart stores...\" (Provides strategic plans relevant to investor decision-making)"
   }
 }
 
@@ -82,46 +50,78 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Board will engage independence experts to conduct the Board evaluation once in every 3 years, commencing FY2024 for the assessment of FY2023 onwards.\" (Discloses future plans and timelines)\n• Evidence 2: \"The Company conducted poll voting on all the resolutions... verified the poll results.\" (Neutral, factual reporting of processes)"
+    "justification": "• Evidence 1: \"The World Bank noted global recovery is expected to decelerate to 4.1% in 2022...\" (specific factual data)\n• Evidence 2: \"QL keeps a watchful and vigilant eye...we can adjust our sails...\" (balanced, neutral tone with no overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Ringgit’s slide against the greenback is not helping matters...\" (clear, direct language)\n• Evidence 2: \"60% of Malaysia’s food is imported...\" (precise numerical data with contextual explanation)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Bank Negara Malaysia projected growth of 5.3% to 6.3% for 2022...\" (forward-looking financial information)\n• Evidence 2: \"The Russia-Ukraine war has a domino effect...\" (material risks impacting operations)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Generated over 53,061 GJ of renewable energy from solar and biogas\" (specific factual data)\n• Evidence 2: \"In FY2022, the biogas plant performance was affected by lower processing activities in palm oil mill\" (disclosure of operational challenges)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Directors’ Fit and Proper Policy is available on the Company’s website.\" (Clear statement of accessibility)\n• Evidence 2: \"The remuneration breakdown of individual Directors...\" (Structured table with defined columns, though complex)"
+    "justification": "• Evidence 1: \"Diverted 97.0% non-hazardous waste generated away from landfill; composted over 95.3% manure into organic fertiliser\" (clear, quantifiable metrics)\n• Evidence 2: \"QL’s Board of Directors (the Board) sets the sustainability direction for the Group\" (direct explanation of governance structure)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board aims to present a balanced and understandable assessment...\" (Directly addresses investor decision-making)\n• Evidence 2: \"Stakeholder engagements in FY2022 Number of activities...\" (Quantifies engagement efforts relevant to investors)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Upgraded the fishing equipment of 914 fishermen via RM20.81 million interest-free Fishermen Financial Assistance Scheme (FFAS)\" (specific community impact)\n• Evidence 2: \"Materiality Assessment: 17 matters which are most material to our business\" (direct relevance to investor decision-making)"
   }
 }
 
 {
-  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Reviewed recurrent related party transactions of a revenue or trading nature... on normal commercial terms and within the mandate given by shareholders.\"\n• Evidence 2: \"The Board... provides reasonable assurance that risks are managed within tolerable ranges.\""
+    "justification": "• Evidence 1: 'The Board through the Nominating Committee conducts the annual assessment on effectiveness of the Board... [specific process details]'\n• Evidence 2: 'The Company conducted poll voting on all the resolutions... [specific compliance with listing requirements]'"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Reviewed and recommended to the Board for approval, the Circular to Shareholders...\" clearly outlines actions taken.\n• Evidence 2: \"The Risk Management Committee ensures the implementation...\" uses precise language to describe responsibilities."
+    "justification": "• Evidence 1: 'The Board Evaluation Process involves the following: [clearly listed steps]'\n• Evidence 2: 'The remuneration breakdown of individual Directors... [structured table with defined terms]'"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Disclosure of related party transactions\" directly addresses investor concerns about transparency.\n• Evidence 2: \"Risk Management and Internal Control\" sections provide critical governance and operational risk information."
+    "score": 9,
+    "justification": "• Evidence 1: 'The Company recognises the importance of engaging and communicating with its shareholders... [specific shareholder engagement metrics]'\n• Evidence 2: 'The Board fulfils risk governance... [directly relevant to investor decision-making]'"
   }
 }
 
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Group’s ERM framework is principally aligned with the internationally recognised COSO ERM Framework.\" (Supports objectivity and alignment with standards)\n• Evidence 2: \"There have been no significant breakdowns or weaknesses in the system of internal control...\" (Discloses system effectiveness without overstatement)"
+    "justification": "• Evidence 1: \"Reviewed recurrent related party transactions... undertaken on normal commercial terms\" (neutral, objective assessment of transactions)\n• Evidence 2: \"The Board... acknowledges their responsibility... safeguard shareholders’ investments\" (clear accountability statement)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Key aspects of the risk management process are as follows:\" (Clear structure with bullet points)\n• Evidence 2: \"Risk factors are incorporated into the risk register and individually rated as High, Significant, Moderate or Low risk.\" (Precise language with specific risk categories)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed and recommended to the Board for approval... Corporate Governance Overview Statement\" (clear action-oriented language)\n• Evidence 2: \"Risk Management Committee... ensures implementation... robust risk management process\" (structured explanation of roles)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"Principal Risks\" section details COVID-19, operational, financial, and IT risks with specific mitigation measures (directly relevant to investor decision-making)\n• Evidence 2: \"The Group’s Code of Ethics and Conduct communicates the Group’s commitment to practice business ethically...\" (Includes corporate governance and ethical standards)"
+    "justification": "• Evidence 1: \"Disclosed... related party transactions; and... significant accounting matters...\" (directly addresses investor concerns about transparency)\n• Evidence 2: \"Reviewed the Crisis Management process update... Terms of Reference of the Audit Committee\" (includes governance and operational risk factors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Group’s ERM framework is principally aligned with the internationally recognised COSO ERM Framework.' [exact quote]\n• Evidence 2: 'Key risks highlighted in the Risk Management Report will be used in developing internal audit plans.' [exact quote]"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Risk Management Committee (RMC) comprises a majority of Independent Non-Executive Directors.' [exact quote]\n• Evidence 2: 'A quarterly Risk Management Summary Report to RMC.' [exact quote]"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Principal Risks... COVID-19 Risk... Financial Risk... Information Technology Risk.' [exact quote]\n• Evidence 2: 'Internal audit function was carried out by an independent professional consulting firm.' [exact quote]"
   }
 }

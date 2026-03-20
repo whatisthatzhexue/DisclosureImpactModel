@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CelcomDigi Bhd remains committed to safeguarding its customers by raising its security standards against the risk of emerging technologies, such as artificial intelligence (AI)\" [direct quote from CEO, credible source].\n• Evidence 2: \"We believe it is a shared responsibility of the entire ecosystem...\" [balanced tone, no fabrication, credible institutional context]."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In this environment, like others, telecom operators like CelcomDigi have a crucial role in building digital trust\" [direct company mention, aligns with strategic focus on data governance].\n• Evidence 2: \"select partners with strong records of data stewardship... keep pace with evolving regulations\" [strategic priorities for long-term value creation]."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Experts from CelcomDigi, MCMC, Microsoft Malaysia... shared insights on AI trends and risks\" [comprehensive coverage of collaborative efforts].\n• Evidence 2: \"building public trust with responsible use of AI, and the role of leaders in driving accountability\" [contextual depth on stakeholder impact]."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"A lot has been happening in cancer care; it includes discovery of new medication and access to medical treatment, which will help people live longer.\" (Quotes from credible academic source)\n• Evidence 2: \"We’re also talking about (patients) surviving financially ... not only for treatment, but to put food on the table.\" (Balanced reporting with verifiable context)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business operations, strategies, or financial performance.\n• Evidence 2: The content focuses on healthcare sector discussions rather than food and beverage industry relevance."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The panel also discussed the roles of employers in supporting their workers who are diagnosed with cancer.\" (Comprehensive coverage of discussion topics)\n• Evidence 2: \"These workshops included 'Cancer Prevention, Screening and Early Detection' as well as 'Psychosocial Support and Survivorship'.\" (Contextual detail about event scope)"
+  }
+}

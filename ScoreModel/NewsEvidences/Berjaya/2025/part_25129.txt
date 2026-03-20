@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Since its inception in 2013, CLLA has been instrumental in empowering over 129 start-ups, securing more than RM263mil in investments and generating an impressive RM837mil in revenue,\" he said.\n• Evidence 2: The article cites official sources (Minister Chang Lih Kang, Bernama) and provides verifiable data without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its business operations, strategic direction, or financial performance.\n• Evidence 2: The focus is on Malaysia's startup ecosystem, which is unrelated to the company's food and beverage sector or stakeholder interests."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The text provides comprehensive details about CLLA's achievements, including specific numbers (129 start-ups, RM263mil investments, RM837mil revenue) and contextualizes its role in Malaysia's innovation ecosystem.\n• Evidence 2: It explains the significance of Cyberjaya as a tech hub and references the CLLA Cohort 19 Demo Day event, offering background on the accelerator program's impact."
+  }
+}

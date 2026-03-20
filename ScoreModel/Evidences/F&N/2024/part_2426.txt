@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"We have conducted a comprehensive climate change risk assessment aligned with the TCFD framework.\" (specific fact about risk assessment)\n• Evidence 2: \"Our projects include the installation of advanced monitoring systems and water-saving technologies, which have yielded measurable reductions in water usage.\" (quantifiable outcome)"
+    "justification": "• Evidence 1: \"we have conducted a comprehensive climate change risk assessment aligned with the TCFD framework\" (discloses specific risk assessment methodology)\n• Evidence 2: \"we have made significant strides in enhancing water efficiency\" (quantifies progress with specific actions)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"We implement comprehensive waste reduction strategies that encompass recycling, repurposing, and innovative waste conversion techniques.\" (clear structure and direct language)\n• Evidence 2: \"In FY2024, we have made significant strides in enhancing water efficiency.\" (precise time frame and clear outcome)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Our goal is to align our operations with sustainable practices\" (clearly states objectives)\n• Evidence 2: \"we implement comprehensive waste reduction strategies that encompass recycling, repurposing, and innovative waste conversion techniques\" (precise description of methods)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"By quantifying the financial impacts of these risks, we can inform our strategic planning and decision-making processes more effectively.\" (links risks to business strategy)\n• Evidence 2: \"We have embedded these insights into our ERM framework to ensure that climate considerations are integrated into our business operations.\" (directly ties to investor-relevant risk management)"
+    "score": 7,
+    "justification": "• Evidence 1: \"By quantifying the financial impacts of these risks, we can inform our strategic planning and decision-making processes\" (links risk analysis to business strategy)\n• Evidence 2: \"we are committed to working closely with local communities to ensure water security\" (addresses material environmental risks relevant to investors)"
   }
 }

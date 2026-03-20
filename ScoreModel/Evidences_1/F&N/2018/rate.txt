@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "The majority of scoring results (e.g., 8–9) highlight strong reliability through comprehensive risk management frameworks, transparent audit processes, and third-party recognition (e.g., 'zero tolerance' fraud policy, ISO31000 benchmarking). These demonstrate objective disclosure of internal controls and accountability. Lower scores (3–7) stem from insufficient detail on uncertainties or lack of risk mitigation mechanisms. Compromised to 8, reflecting balanced disclosure of systemic controls and gaps in specific risk transparency."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "Higher scores (7–9) emphasize investor-relevant forward-looking insights (e.g., 'dividend recognition uncertainty', sustainability goals), material event disclosures (e.g., related-party transactions), and governance links to risk management. Lower scores (2–6) lack these elements, such as no forward-looking info or performance context. Compromised to 7, acknowledging robust relevance in most areas but gaps in materiality and strategic context."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "High scores (7–9) reflect structured data presentation (e.g., numerical metrics, clear headings), precise terminology, and logical flow (e.g., 'Key Risk Dashboard'). Lower scores (4–6) cite vague phrasing and repetitive language. Compromised to 8, balancing clear numerical formats and organized sections against occasional ambiguity in thematic explanations."
+  }
+}

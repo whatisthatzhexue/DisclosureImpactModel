@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article includes verifiable details such as the prize amount (RM602,800), campaign dates (Aug 17–Dec 20 last year), and specific quotes from Roslizam and SMG CEO Chan Seng Fatt.\n• Evidence 2: The article presents a balanced tone, citing multiple winners and their reactions without editorial bias."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article mentions Berjaya Starbucks Coffee Company but does not discuss Berjaya Food Berhad's strategic direction, financials, or business operations.\n• Evidence 2: No direct connection to Berjaya Food Berhad's competitive position, market impact, or long-term value creation is provided."
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: The article provides surface-level details about the campaign, winners, and prizes but lacks context on Berjaya Food Berhad's business activities or stakeholder implications.\n• Evidence 2: No data, financial metrics, or analytical insights related to Berjaya Food Berhad are included."
+  }
+}

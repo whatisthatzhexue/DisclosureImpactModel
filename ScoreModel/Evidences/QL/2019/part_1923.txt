@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Scheduled waste disposal contractors are approved by the Department of Environment Malaysia... in line with both the state and national environmental regulations.\" (specific facts)\n• Evidence 2: \"The process is environmentally sound and generates income for the companies.\" (neutral, factual statement without overstatement)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Scheduled waste disposal contractors are approved by the Department of Environment Malaysia... subject to regular internal reviews and audits by DOE.\"\n• Evidence 2: \"Main environmental issues are odour pollution... waste management is a critical consideration for the long-term growth and sustainability.\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Stored scheduled waste is correctly labelled\" and \"fermentation process converts the manure into organic fertiliser\" (precise, direct language)\n• Evidence 2: Clear section headings (Solid Waste/Liquid Waste) and tables with numerical data (e.g., 56% conversion rate) (logical structure)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Stored in appropriate containers and in secured storage areas\" (precise language).\n• Evidence 2: Tables with quantitative data (e.g., \"39,600 tonnes\", \"90% conversion rate\") provide clear metrics."
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Table 6: Total amount of manure generated...\" and \"Table 7: Total amount of manure generated...\" (useful data for investors)\n• Evidence 2: \"QL Foods Sdn. Bhd. has increased their wastewater treatment capacity...\" (forward-looking operational update)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Increased wastewater treatment capacity from 2200m³/day to 3600m³/day\" (forward-looking operational adjustment).\n• Evidence 2: Tables showing manure conversion rates (56% to 90%) demonstrate performance trends relevant to investors."
   }
 }

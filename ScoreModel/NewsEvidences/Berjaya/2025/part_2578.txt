@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Any victims who need these cars can register with (this company)\" [direct quote from minister, verifiable action]\n• Evidence 2: \"At least 190 homes and an estimated 160 vehicles were damaged\" [specific, verifiable data]"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Loke also said he was contacted by Berjaya Group founder Tan Sri Vincent Tan...\" [minimal direct mention of company, no strategic context]\n• Evidence 2: \"RM3,000 cash to each family\" [one-time donation, no connection to company's business strategy]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"At least 190 homes and an estimated 160 vehicles were damaged\" [quantitative context]\n• Evidence 2: \"These documents can be reprinted for free...\" [specific procedural detail]"
+  }
+}

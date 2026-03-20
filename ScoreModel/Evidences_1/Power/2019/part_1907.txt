@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The sustainability matters management process has been established by the Board in compliance with the Guide and Toolkit...\" (shows adherence to guidelines)\n• Evidence 2: \"Sustainability issues considered material if...\" (defines materiality criteria with objective criteria)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The stakeholders identified... are prioritised in relation to its influence over and dependence on the Group\" (clear logical structure)\n• Evidence 2: \"Sustainability matters categorised in the Sustainability Matters Listing...\" (precise terminology with defined categories)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Sustainability matters identified... are refined, consolidated and categorised...\" (provides process for materiality assessment)\n• Evidence 2: \"Stakeholders’ assessment of the sustainability matters is obtained during stakeholders’ engagement...\" (links to stakeholder decision-making)"
+  }
+}

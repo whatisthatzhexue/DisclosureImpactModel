@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Angus Liew, the chairman of Vietnam operations for Gamuda Land, said the team in Vietnam has been given a mandate to acquire more land, with a budget of US$800mil (RM3.7bil) over the next five years for the whole of Vietnam.\" (verifiable financial commitment)\n• Evidence 2: \"MIDF Research is maintaining its target price of RM6.83 with a 'buy' recommendation\" (citable source and analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Gamuda’s strategy in Vietnam is to build high-end properties, which appeals to the younger generation...\" (direct strategic direction)\n• Evidence 2: \"We continue to like Gamuda for its exposure and being a front runner of crucial infrastructure projects...\" (connects to long-term value creation and market impact)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Meadow is a rare landed residential project featuring 212 townhouses and villas...\" (specific project details and context)\n• Evidence 2: \"Springville is located in the Nhon Trach District... totalling 426 townhouse and shophouse units...\" (quantitative data and location context)"
+  }
+}

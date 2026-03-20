@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"the Board was satisfied with the performance of the ARMC and its members\"\n• Evidence 2: \"they have effectively discharged their functions, duties and responsibilities\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board assessed and evaluated the performance of the Audit and Risk Management Committee...\"\n• Evidence 2: \"The latest Terms of Reference...can be viewed on the Company’s website\""
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"the Board assessed and evaluated the performance of the ARMC...\"\n• Evidence 2: \"The latest Terms of Reference...can be viewed on the Company’s website\""
+  }
+}

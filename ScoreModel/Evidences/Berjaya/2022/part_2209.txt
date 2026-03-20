@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Ser Vegano recorded revenue of RM3.0 million compared to RM1.8 million... mainly due to the 3 additional outlets opening...\" (specific cause-effect relationship)\n• Evidence 2: \"loss before tax of RM1.7 million... mainly due to the increase in raw material prices and higher operating cost...\" (discloses risks and challenges)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Ser Vegano recorded loss before tax of RM1.7 million compared to loss before tax of RM552,000 during the 10-month period in the previous financial year mainly due to the increase in raw material prices and higher operating cost incurred for creating brand awareness.\"\n• Evidence 2: \"The increase in revenue was mainly due to the 3 additional outlets opening in Avenue K, Alamanda Putrajaya, and Berjaya Times Square.\""
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2022, Ser Vegano recorded revenue of RM3.0 million...\" (precise numerical data)\n• Evidence 2: \"Hello Dolly Southern Style High Fibre Chick’n Burger\" (redundant, obscure product mention unrelated to core business explanation)"
+    "score": 6,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2022, Ser Vegano recorded revenue of RM3.0 million compared to RM1.8 million during the 10-month period in the previous financial year.\"\n• Evidence 2: \"Hello Dolly Southern Style High Fibre Chick’n Burger.\" (This sentence appears disconnected and lacks context, reducing clarity.)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Revenue... increase in revenue was mainly due to the 3 additional outlets...\" (explains performance change)\n• Evidence 2: \"Ser Vegano will open 4 more outlets... accelerate marketing efforts...\" (forward-looking information and strategic plans)"
+    "score": 7,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2022, Ser Vegano recorded revenue of RM3.0 million compared to RM1.8 million during the 10-month period in the previous financial year.\"\n• Evidence 2: \"Ser Vegano will also accelerate its marketing efforts with new products and promotional activities through local store marketing programmes, online food aggregator platforms, corporate profiling and social media channels to build brand awareness.\""
   }
 }

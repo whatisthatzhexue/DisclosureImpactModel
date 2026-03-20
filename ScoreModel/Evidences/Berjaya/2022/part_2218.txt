@@ -1,6 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 1, "justification": "• Evidence 1: [No specific facts or data provided]\n• Evidence 2: [No risks, challenges, or uncertainties disclosed]"},
-  "Understandability": {"score": 3, "justification": "• Evidence 1: [Vague phrasing: 'Relevance to BFood' lacks context]\n• Evidence 2: [Redundant/obscure terms: 'Compliance Occupational safety & health' is unclear]"},
-  "Relevance": {"score": 2, "justification": "• Evidence 1: [No forward-looking information or material events disclosed]\n• Evidence 2: [No explanation of performance changes or corporate governance]"}
+  "Reliability": {
+    "score": 1,
+    "justification": "• Evidence 1: [No specific facts or risk disclosures provided]\n• Evidence 2: [No neutral/objective statements, only vague topic headings]"
+  },
+  "Understandability": {
+    "score": 1,
+    "justification": "• Evidence 1: [No clear structure or logical flow in the text]\n• Evidence 2: [Vague expressions like 'Relevance to BFood' and run-on phrases]"
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: [No forward-looking information or risk disclosures]\n• Evidence 2: [No explanation of performance changes or material events]"
+  }
 }

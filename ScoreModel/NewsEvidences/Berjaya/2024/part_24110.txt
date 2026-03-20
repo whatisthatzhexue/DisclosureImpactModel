@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The claims are baseless, however, the citizens should accept the fact that the country must move forward with current developments, including the use of technology,\" he stated.\n• Evidence 2: \"The MyDigital ID system won’t store any of their information,\" Mimos assured, with Adil Hidayat corroborating this by explaining the system's purpose."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article focuses on government initiatives and misinformation, with no direct mention of Berjaya Food Berhad or its operations.\n• Evidence 2: While data privacy and cybersecurity are discussed, these topics are framed as general societal issues rather than specific to Berjaya Food's strategic context."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article provides comprehensive background on the MyDigital ID initiative, including its purpose, misinformation claims, and government responses.\n• Evidence 2: It analyzes the broader implications of misinformation, citing expert opinions (Dr. Joanne Lim) and historical context (MySejahtera data breach) to contextualize public concerns."
+  }
+}

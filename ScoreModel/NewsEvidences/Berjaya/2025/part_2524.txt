@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BAuto's net profit... RM155.9mil from RM345.58mil a year earlier\" (specific financial figures)\n• Evidence 2: \"JcbNext has disposed of 647,846 shares... for RM20.05mil\" (verifiable transaction details)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BLand is disposing of its entire 80% stake... for RM201.96mil\" (direct impact on company's capital structure and strategic focus)\n• Evidence 2: \"UEM Edgenta has tied up... to expand its property management presence in Dubai\" (strategic market expansion)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Thong Guan has scrapped its plan... after failing to agree on a final sale price\" (contextualizes decision-making process)\n• Evidence 2: \"CHHB is disposing of its entire stake... for RM600,000\" (quantifiable transaction details but lacks analysis of implications)"
+  }
+}

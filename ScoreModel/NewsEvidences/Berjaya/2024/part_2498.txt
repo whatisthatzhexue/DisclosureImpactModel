@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Based on a report from the Health Ministry, there has been a surge in suicide cases in Malaysia with an 81% increase...\" (verifiable data from Health Ministry)\n• Evidence 2: \"National Health and Morbidity Survey (NHMS) 2022 shows an increase...\" (cites specific survey and statistics)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"University of Cyberjaya is organising...\" (no mention of Berjaya Food Berhad or its operations)\n• Evidence 2: \"This suicide attrition initiative targets any members of the public...\" (no connection to company's business strategies or financial performance)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The suicide attrition intervention project aims to increase awareness...\" (comprehensive explanation of objectives and methods)\n• Evidence 2: \"Each workshop participant will receive a handbook and certificate...\" (specific details about event logistics and outcomes)"
+  }
+}

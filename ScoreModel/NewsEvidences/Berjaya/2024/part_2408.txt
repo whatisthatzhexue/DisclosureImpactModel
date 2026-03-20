@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Axis-REIT acquired three industrial assets...\" (specific, verifiable transactions)\n• Evidence 2: \"MIDF Research... said all six REITs under its coverage reported earnings...\" (cited source with factual data)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"expanding their asset portfolio... prospects for the real estate sector improves\" (general industry trend, no direct link to Berjaya Food)\n• Evidence 2: \"earnings growth... organic growth of positive rental reversion\" (financial performance metrics, unrelated to company-specific strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RM215mil... RM1.95bil... RM320mil\" (quantitative details supporting acquisition analysis)\n• Evidence 2: \"lower property operating expenditure... higher rental income... growth in sales\" (contextual factors explaining financial performance)"
+  }
+}

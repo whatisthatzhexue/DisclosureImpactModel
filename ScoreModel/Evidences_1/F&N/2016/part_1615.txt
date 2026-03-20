@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee comprises four Non-Executive Directors, a majority of whom are independent, which is in line with the Main Market Listing Requirements...\" (neutral factual statement)\n• Evidence 2: \"The terms of reference of the Audit Committee... is made available on the Company's corporate website\" (transparent disclosure of documentation)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee is responsible among others, to review and monitor the integrity of the Group's reporting process...\" (clearly defined responsibilities)\n• Evidence 2: \"Throughout the year, there was continuous engagement between members of the Audit Committee and Senior Management...\" (precise description of activities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee... review and monitor the integrity of the Group's reporting process, system of internal control...\" (directly relevant to investor concerns)\n• Evidence 2: \"The Chairman of the Audit Committee thereafter tabled the recommendations of the Audit Committee to the Board...\" (shows governance process relevance)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"SPAN chairman Charles Santiago said Thursday (Dec 5) that the state government...\" (verifiable quotes from official statements)\n• Evidence 2: \"He was later found guilty, sentenced to three months in prison, and fined RM240,000.\" (specific legal outcomes cited)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The text contains no mention of Berjaya Food Berhad or its operations, focusing instead on unrelated pollution incidents and regulatory actions.\" (no direct company connection)\n• Evidence 2: \"No financial data, market impact, or strategic business factors related to the company context are presented.\" (irrelevant to stated company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"SPAN recorded four out of 20 incidents of raw water pollution...\" (quantitative data on pollution incidents)\n• Evidence 2: \"The pollution was traced to a poly(methacrylic acid) chemical leak...\" (detailed technical and contextual explanation)"
+  }
+}

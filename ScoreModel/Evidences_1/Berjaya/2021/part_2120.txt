@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks had 20 reported cases of workplace injuries in this financial year.\" (discloses specific risk data)\n• Evidence 2: \"BFood invested 43,211 hours in training and development\" (provides quantifiable factual information)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Starbucks Global Academy (SGA)\" (clearly defines program name and purpose)\n• Evidence 2: \"500 Coffee Masters participated in the event\" (precise numerical data enhances clarity)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"won 3 awards:... AMCHAM Cares Recognition Achievement (Excellence in Corporate Social Responsibility) 2020\" (relevant to investor perception of CSR)\n• Evidence 2: \"various COVID-19 preventive measures\" (addresses material risk related to public health)"
+  }
+}

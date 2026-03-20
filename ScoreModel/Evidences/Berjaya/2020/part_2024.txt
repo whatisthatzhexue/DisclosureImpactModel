@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The cost incurred for the Internal Audit function... was approximately RM191,591.\" (specific factual disclosure)\n• Evidence 2: \"Conducted audit reviews and evaluated risk exposures... statutory requirements.\" (objective description of audit activities)"
+    "justification": "• Evidence 1: \"The cost incurred for the Internal Audit function... RM191,591.\" (specific fact)\n• Evidence 2: Activities are described neutrally without overstatement, e.g., \"conducted audit reviews and evaluated risk exposures\" (objective reporting)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"1. Tabled Internal Audit Plan... 7. Followed up review...\" (clear numerical structure and direct language)\n• Evidence 2: \"Provided recommendations to assist... internal control requirements\" (precise, action-oriented phrasing)"
+    "justification": "• Evidence 1: Clear structure with numbered activities and distinct sections (audit activities, cost, terms of reference).\n• Evidence 2: Direct language such as \"provided recommendations\" and \"followed up review\" (precise terminology for audit processes)."
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Compliance with established policies and procedures and statutory requirements\" (relevant governance information)\n• Evidence 2: \"Terms of reference of the ARMC... website\" (minimal corporate governance disclosure)"
+    "score": 5,
+    "justification": "• Evidence 1: Mentions internal controls and governance processes, which are relevant to corporate governance.\n• Evidence 2: No forward-looking information or material events discussed; limited relevance to investor decision-making."
   }
 }

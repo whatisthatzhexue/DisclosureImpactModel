@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Comedian Muhammad Nizamuddin Ahmad, 41, also known as Along Cham, has been charged...\" (specific factual claim with legal context)\n• Evidence 2: \"Deputy Public Prosecutor Ahmad Zuhaini Mahamad Amin did not offer bail...\" (official source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad is a food and beverage company...\" (company context provided, but article contains no relevant information about the company)\n• Evidence 2: \"Consider the information needs of investors and stakeholders...\" (no connection to company's strategic direction or financial implications)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The charge is framed under Section 6...\" (legal context and potential penalties)\n• Evidence 2: \"The accused is also expected to face another charge...\" (timeline and procedural details)"
+  }
+}

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Board has put in place a structured Risk Management Policy to govern the risk management process.\" (Truthful, objective description of governance structure)\n• Evidence 2: \"The cost incurred in maintaining the in-house and outsource Internal audit function for the financial year ended 31 March 2017 amounted to RM320,948.\" (Specific factual disclosure of audit costs)"
+    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical...\" (neutral, objective description of risk management commitment)\n• Evidence 2: \"The Audit Committee... reported to the Board...\" (specific disclosure of audit review process)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Risk Management Policy clearly defines the risk management’s objectives and processes, along with clear roles and responsibilities of the Board, Audit Committee...\" (Precise structure with defined roles)\n• Evidence 2: \"The internal audit functions... report to the Audit Committee directly and provide the Audit Committee with the assurance it requires...\" (Clear logical flow and direct language)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The roles and responsibilities of the Risk Management Committee includes the following: (a) Implementation...\" (clear structure with numbered list)\n• Evidence 2: \"Risk assessment, at gross and residual level...\" (precise terminology with necessary technical terms)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Risk Management Committee and the Management review the Key Risks Register and assessment of emerging risks... on an annual basis...\" (Material risk monitoring relevant to investors)\n• Evidence 2: \"The Board is committed towards maintaining a sound system of internal control... to manage the risks within the risk appetite of the Group\" (Direct linkage to risk management objectives)"
+    "justification": "• Evidence 1: \"The Key Risks Register are used for the identification of high residual risks...\" (direct relevance to investor risk assessment)\n• Evidence 2: \"The monitoring of the risk management process by the Group is enhanced by the internal audits...\" (disclosure of governance mechanisms)"
   }
 }

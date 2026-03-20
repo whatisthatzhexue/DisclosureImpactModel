@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The Company Secretary manages the provision of information to the Board... supported by specific facts in the text' [exact quote: 'The Company Secretary manages the provision of information to the Board at appropriate times in consultation with the Chairman...']\n• Evidence 2: 'The Board is committed to increasing the diversity of the Group’s workforce... 36% female and 64% male' [exact quote: 'The benefits of diversity and inclusion... 36% female and 64% male.']"
+    "score": 9,
+    "justification": "• Evidence 1: 'The benefits of diversity and inclusion are well documented, and the Board is committed to increasing the diversity of the Group’s workforce and of the Board itself.' (neutral, objective)\n• Evidence 2: 'The Company’s commitment to ESG and progress... is being recognised, as the Company: Is a constituent of FTSE4Good Bursa Malaysia Index...' (specific facts, no overstatement)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: 'The Board receives regular briefings and updates on the progress of the Group’s ESG initiatives' [clear structure and direct language]\n• Evidence 2: 'The Company has in force Directors and Officers insurance policy... personal accident insurance policy for Directors' [precise but includes technical terms without explanation]"
+    "justification": "• Evidence 1: 'The Company Secretary manages the provision of information to the Board at appropriate times in consultation with the Chairman...' (clear process description)\n• Evidence 2: 'The Board is kept abreast of developments in the area of Board performance assessment.' (precise language, though some jargon like 'EXCO' may require context)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: 'The Board delegates ESG oversight to the Sustainability & Risk Management Committee... compliance with the ESG requirements' [includes corporate governance and risk management]\n• Evidence 2: 'The Board acknowledges its overall responsibility for monitoring the Group’s risk management... protection of shareholders’ investments' [directly relevant to investor decision-making]"
+    "justification": "• Evidence 1: 'The Board receives regular briefings and updates on the progress of the Group’s ESG initiatives.' (material governance and risk info)\n• Evidence 2: 'The Company operates a structured investor relations programme...' (directly relevant to investor decision-making)"
   }
 }

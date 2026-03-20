@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Telekom Malaysia Bhd is setting up a joint venture... RM1.2bn.\" (specific factual details)\n• Evidence 2: \"Poh Kong Holdings Bhd 's net profit jumped 51.6% YoY...\" (quantifiable data with timeframe)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Berjaya Corporation Bhd has inked two memoranda of strategic collaboration...\" (direct mention of strategic moves relevant to long-term value creation)\n• Evidence 2: \"Malayan United Industries Bhd has secured a term loan facility...\" (financial implications for competitive positioning)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"UEM Sunrise Bhd 's subsidiary... will sell its 40.0% equity stake...\" (specific transaction details and financial figures)\n• Evidence 2: \"Nestcon Bhd has bagged two high-rise building projects... RM165.6mn.\" (comprehensive coverage of project scale and value)"
+  }
+}

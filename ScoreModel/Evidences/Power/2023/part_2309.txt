@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: 'The Board delegates the duty... to the SRMC... which reports to the Audit Committee on a periodical basis (at least on an annual basis) or when appropriate.'\n• Evidence 2: 'The Risk Management Report... was compiled and tabled to the Audit Committee and Board for review and deliberation.'"
+    "justification": "• Evidence 1: \"The Board delegates the duty...reports to the Audit Committee...\" (demonstrates clear accountability structure)\n• Evidence 2: \"The risk owners are responsible...for the final decision...\" (shows transparent risk ownership)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'The structured risk management process... is employed by the SRMC and the risk owners for risk and improvement opportunity identification, evaluation, control identification, treatment and monitoring activities.'\n• Evidence 2: 'The internal audit functions... are, in all material aspects, in accordance with the International Professional Practices Framework.'"
+    "score": 7,
+    "justification": "• Evidence 1: \"Key Risk Registers...incorporation of new or emerging risks\" (clear process description)\n• Evidence 2: \"The in-house internal audit function...International Professional Practices Framework\" (specific technical references)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: 'The Board... ensures that the risk strategies adopted are aligned with the Group’s organisational strategies... risk tolerance and risk appetite.'\n• Evidence 2: 'The risk owners are responsible for managing the risks of the business processes under their control... and for formulating and implementing effective controls to manage these risks.'"
+    "justification": "• Evidence 1: \"strategic, governance and key operational risks...sustainability, fraud and bribery-related risks\" (directly addresses investor concerns)\n• Evidence 2: \"the Audit Committee...review of the financial performance...\" (links governance to performance monitoring)"
   }
 }

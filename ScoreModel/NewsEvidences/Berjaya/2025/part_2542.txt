@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"PKR secretary-general Dr Fuziah Salleh would open both congresses...\" (specific details with named officials)\n• Evidence 2: \"Fuziah Salleh was reported to have said...\" (direct quote with verifiable data about delegate numbers)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"The 2024/2025 PKR National Congress begins...\" (no mention of Berjaya Food Berhad or business-related content)\n• Evidence 2: \"Prime Minister Datuk Seri Anwar Ibrahim...\" (political event with no connection to company strategy or financials)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Elections for the central leadership...\" (specific procedural details)\n• Evidence 2: \"nearly 10,000 delegates are expected to attend...\" (quantitative data about participation)"
+  }
+}

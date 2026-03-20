@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The consideration was arrived at on 'willing-buyer willing-seller' basis after taking into consideration, inter-alia, the indicative market valuations of the Property by the independent valuers...\" (supports objective justification)\n• Evidence 2: \"the proposed acquisition was fair, reasonable and on normal commercial terms...not detrimental to the interest of the minority shareholders\" (neutral assessment with specific rationale)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The consideration was arrived at on 'willing-buyer willing-seller' basis after taking into consideration, inter-alia, the indicative market valuations of the Property by the independent valuers...\" (specific facts and neutral justification)\n• Evidence 2: \"the proposed acquisition was fair, reasonable and on normal commercial terms...not detrimental to the interest of the minority shareholders\" (objective conclusion with supporting rationale)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Internal Audit Division...adopt a risk-based approach focusing on high risk areas\" (clear explanation of methodology)\n• Evidence 2: \"Reviewed and recommended to the Board...for inclusion in the 2018 Annual Report\" (precise description of activities)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC is of the view that the cash consideration...is justifiable based on the following grounds:\" (clear structure with numbered list)\n• Evidence 2: \"The Internal Audit Division...adopt a risk-based approach focusing on high risk areas\" (precise language explaining audit methodology)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"the proposed acquisition will facilitate...Starbucks Reserve Store...and enable...future capital appreciation\" (explains business rationale for investors)\n• Evidence 2: \"not detrimental to the interest of the minority shareholders\" (includes governance-related information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"the proposed acquisition will facilitate BFood Group to introduce the Starbucks Reserve Store...\" (forward-looking information relevant to investors)\n• Evidence 2: \"Reviewed and recommended to the Board...Statement on Risk Management and Internal Control\" (corporate governance and risk management details for decision-making)"
   }
 }

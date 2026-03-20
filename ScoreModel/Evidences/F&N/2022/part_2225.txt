@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The 2021 and 2022 AGMs given the COVID-19 pandemic\" (acknowledges external challenges)\n• Evidence 2: \"Detailed information about our approach to stakeholder engagement... pages 48 to 49 of Sustainability Report\" (references specific supporting documentation)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board is kept regularly apprised on the investor relations programme.\" (neutral, factual reporting)\n• Evidence 2: \"This changed in respect of the 2021 and 2022 AGMs given the COVID-19 pandemic.\" (acknowledges external factors without overstatement)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Company operates a structured investor relations programme\" (clear, direct language)\n• Evidence 2: \"The 2023 AGM is scheduled for 17 January 2023\" (precise date formatting)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Structured processes\" and \"dedicated in-house team\" (clear terminology)\n• Evidence 2: \"Pages 48 to 49 of Sustainability Report\" (specific reference but lacks contextual explanation)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The Company engages regularly with its stakeholders... through a range of methods\" (relevant to investor decision-making)\n• Evidence 2: \"The annual reports are available in paper format and on our website\" (provides access to key financial information)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Shareholders will have the opportunity to put their questions to the Board\" (directly relevant to investor engagement)\n• Evidence 2: \"Investor calendar, financial results, presentations\" (provides actionable information for decision-making)"
   }
 }

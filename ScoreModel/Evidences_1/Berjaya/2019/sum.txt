@@ -1,0 +1,406 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"was incorporated in Malaysia on 21 October 2009\" (specific factual dates)\n• Evidence 2: \"disposed of its entire stake in PT Boga\" (objective transaction disclosure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"11,500,000 ordinary shares of RM1.00 each, representing 50% equity interest\" (precise numerical details)\n• Evidence 2: \"world’s first Starbucks Signing Store\" (clear conceptual explanation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"there are a total of 291 stores nationwide\" (material operational data)\n• Evidence 2: \"opened the first Starbucks Reserve concept store\" (forward-looking strategic initiative)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BGroup’s acquisition of KRR International Corp, USA in April 2008\" (specific factual event)\n• Evidence 2: \"As at 30 June 2019, there are a total of 80 KRR restaurants\" (date-specific quantitative data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"All KRR restaurants serve their customers in a full service, mid-casual dining setting\" (clear, direct description)\n• Evidence 2: \"All unsold food products are discarded or donated\" (precise, unambiguous statement)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Jollibean’s signature products are its fresh daily-made ‘Jollibean’ soy milk...\" (operational detail but no financial context)\n• Evidence 2: \"In 2006, Jollibean Foods opened its first traditional kopi café concept...\" (historical event without strategic significance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"registered a higher revenue of RM788.98 million as compared to a revenue of RM639.7 million\" (specific factual comparison)\n• Evidence 2: \"mainly due to additional Starbucks cafés operating...same-store-sales growth\" (neutral explanation of performance drivers)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"For the financial period ended 30 June 2019, BFood registered a higher revenue...\" (clear temporal context)\n• Evidence 2: \"Pre-tax profit was higher at RM46.56 million...\" (precise numerical presentation)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"mainly due to additional Starbucks cafés operating...same-store-sales growth\" (explains performance change)\n• Evidence 2: No forward-looking statements or risk disclosures (lacks investor-relevant context about future uncertainties)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The total dividend paid was approximately RM14.48 million which represented 59.40% of the attributable profit of the Group...\" (specific factual data)\n• Evidence 2: \"4.0 cents single-tier dividend per share... for the previous financial year...\" (comparative historical data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The total dividend paid was approximately RM14.48 million...\" (clear numerical presentation)\n• Evidence 2: \"59.40% of the attributable profit...\" (direct percentage relationship)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The total dividend paid... represented 59.40% of the attributable profit...\" (financial performance indicator)\n• Evidence 2: \"The respective brands... will continue to leverage... digital platforms...\" (forward-looking strategic context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"BStarbucks has 291 stores located throughout Malaysia, except in the state of Perlis and Terengganu.\" (specific factual statement)\n• Evidence 2: No mention of risks, challenges, or uncertainties in operations or market conditions."
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"TOTAL : 291 Stores\" (clear summary)\n• Evidence 2: Repeated regional breakdowns (e.g., \"Central 163\" appearing twice) create redundancy."
+  },
+  "Relevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"won the following awards:\" (relevant to reputation but lacks contextual analysis)\n• Evidence 2: No discussion of financial performance, strategic initiatives, or material events impacting investors."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks registered an increase in revenue to RM650.2 million from RM504.9 million... contributed by the revenue from rapid expansion and store growth from 260 stores... to 291 stores\" (specific factual data).\n• Evidence 2: \"Profit Before Tax... attributed to additional revenue generated from stores opened during the financial period, coupled with effective cost management strategies\" (explanation of performance drivers)."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Starbucks Card Programme - My Starbucks Rewards (MSR) – registered a tender rate at 51%... contributing a total of RM374.1 million\" (clear numerical context).\n• Evidence 2: \"BStarbucks plans to open 25 new stores with an additional 3 Reserve concept stores\" (precise, direct language)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In the upcoming financial year 2020, BStarbucks plans to open 25 new stores... to create affinity and strengthen its brand presence\" (forward-looking information).\n• Evidence 2: \"BStarbucks will continue to promote the My Starbucks Rewards loyalty programme... offering more card designs and attractive benefits\" (investor-relevant strategic focus)."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFS recorded a loss before tax of BND94,000 compared to the profit before tax of BND44,000...mainly due to forex loss incurred as a result of strengthening of the US Dollar...\" (specific cause for performance change)\n• Evidence 2: \"Revenue increased by BND212,000 to BND2.4 million...mainly due to the 2 additional months of year end closing\" (neutral explanation of revenue growth)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFS has 4 Starbucks stores including one drive-thru concept store\" (clear, specific statement)\n• Evidence 2: \"Starbucks Reserve Mug and Starbucks Reserve Whole Bean Coffee Starbucks Reserve partners with BFood’s CEO\" (redundant, unclear sentence structure disrupting clarity)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue increased...mainly due to the 2 additional months of year end closing\" (explains performance change)\n• Evidence 2: \"BFS will continue to review...reduce operating and administrative costs\" (forward-looking information relevant to investors)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFT’s revenue increased to RM7.2 million from RM4 million in the previous financial year, mainly due to the expansion of its product range...\" (specific factual data)\n• Evidence 2: \"BFT will continue to grow its CPG business...\" (forward-looking statement without overtly optimistic language)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The company is in the business of distributing premium Consumer Packaged Goods...\" (clear structure with specific product examples)\n• Evidence 2: \"BFT registered a profit after tax of RM211,000...\" (precise financial figures presented in straightforward language)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Revenue...mainly due to the expansion of its product range...\" (explains performance change)\n• Evidence 2: \"This initiative will help to contribute to the company’s profit...\" (forward-looking information about strategic plans)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BRoasters recorded a similar loss before tax of RM7.0 million as with the previous financial period of 12 months, mainly due to effective controlling of administrative expenses.\"\n• Evidence 2: \"During this financial period, BRoasters opened 8 new stores and closed 9 non-performing stores.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BRoasters recorded a revenue of RM96.7 million, an increase of 4.3% compared to RM92.7 million\"\n• Evidence 2: \"Highway Rest & Relax areas and commercial hubs that have substantial footfall will be the primary target for the new locations.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BRoasters will focus on expansion and cost effectiveness by opening more KRR Express concept stores.\"\n• Evidence 2: \"In line with the popularity of online and e-commerce channels, BRoasters will embark on B2B e-voucher businesses and aggressively drive its online food delivery business.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"revenue increased by SGD207,000 to SGD9.5 million from SGD9.3 million in the financial year 30 April 2018 mainly due to the 2 additional months of year end closing.\"\n• Evidence 2: \"loss before tax... mainly due to an increase in administrative expenses, additional spending for the revamp and renovation of stores, and a rebranding exercise to grow the brand internationally for overseas franchising.\"\n• Note: The text lacks explicit disclosure of risks, challenges, or uncertainties beyond operational changes."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Jollibean Foods operates 32 outlets under the 3 brands in Singapore. During the financial period Jollibean has opened 3 new outlets and closed 2 non-performing outlets.\"\n• Evidence 2: \"concentrate on rebranding, expanding its revenue stream and driving sales growth for existing operations in Singapore.\"\n• Note: The text maintains a logical structure but includes some redundant product descriptions at the end."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"For the following financial year, Jollibean Foods will concentrate on rebranding, expanding its revenue stream and driving sales growth...\"\n• Evidence 2: \"The first overseas market retailing Joybean products will be the Philippines.\"\n• Note: The text provides forward-looking information but lacks details on corporate governance, material events, or specific risks beyond operational performance."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood recognises the challenges of its operating environment as well as the expectations of its various stakeholders...\" (acknowledges challenges and stakeholder expectations)\n• Evidence 2: \"The information and data disclosed in this statement were derived from internal reporting processes...\" (supports claims with internal data sources)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The structure and write-up of this statement are guided by Bursa Malaysia’s Sustainability Reporting Guide and Toolkits.\" (clearly explains structure)\n• Evidence 2: \"The findings were then submitted to the Sustainability Working Committee...\" (logical flow of processes)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The sustainability statement covers material issues arising from its principal business activities in Malaysia and Singapore...\" (directly addresses investor-relevant operational scope)\n• Evidence 2: \"BFood is working towards the goals set by the United Nations Sustainable Development Goals...\" (includes forward-looking strategic objectives)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Company continues to work to validate and improve its reporting efforts...\" (specific actions taken to ensure accuracy)\n• Evidence 2: \"The Board views the commitment to promote sustainability strategies...\" (clear accountability structure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Platforms\" (clear section headers with bullet points)\n• Evidence 2: \"Open communication regularly through bi-monthly Town Hall sessions\" (precise description of engagement methods)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Communications via announcements to Bursa Securities, Annual Report...\" (directly relevant to investor engagement)\n• Evidence 2: \"The core responsibilities of the governance structure rest on the Board...\" (corporate governance relevance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\"\n• Evidence 2: \"The Board and management are committed to continually refining and improving these processes over time.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The sustainability report of each operating company is provided to the Sustainability Working Committee for review\" (clear process description).\n• Evidence 2: \"Note: EES denotes Economic, Environmental and Social\" (explains acronym)."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"For more detailed information on the Company’s Corporate Governance Overview Statement and Statement on Risk Management... please refer to pages 28 to 42\" (links to relevant sections).\n• Evidence 2: \"Moving forward, the Company strives to improve its monitoring process...\" (forward-looking statement with relevance to investors)."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks endeavours to create a positive impact by supporting procurement...compliance to the labour law.\" (neutral, factual statement)\n• Evidence 2: \"99% of Starbucks coffee are verified as ethically sourced under C.A.F.E. Practices\" (specific fact, but claim about making coffee \"the world’s first sustainable agricultural product\" may be overstatement)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Inventory Management System to increase efficiency...reduce wastages in the long run\" (clear cause-effect logic)\n• Evidence 2: \"1,186,273 (increase of 37.5%) customers used Starbucks tumblers\" (precise numerical data, but jargon like \"KRR i.Care Box\" lacks explanation)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood’s financial performance highlights...RM789.0 million\" (material financial data for investors)\n• Evidence 2: \"global goal is to eliminate single-use straws worldwide by 2020\" (forward-looking information with strategic direction)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"93% of Starbucks stores diverted 248,286 kg of used coffee grounds from the landfill\" (specific factual data)\n• Evidence 2: \"Jollibean Foods has switched 5 stores to a new electrical supplier that uses renewable resources\" (verifiable action)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Grounds for Your Garden programme provides...complimentary 1kg bags of soil-enriching used coffee grounds\" (clear program description)\n• Evidence 2: \"Jollibean stores are now enjoying 18% less electricity consumption...\" (precise numerical comparison)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood acknowledges the importance of social sustainability...community development\" (relevant to investor risk assessment)\n• Evidence 2: \"Supplier Audits based on Global Food Safety Initiative (GFSI) standards\" (material to operational compliance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Jollibean Foods also sends all products for lab tests to determine their shelf life, and labels all displayed products with the correct shelf life so as to ensure customers’ safety.\"\n• Evidence 2: \"In compliance with the Personal Data Protection Act 2010, a terms of use agreement has been published...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood ensures its customers’ privacy and data are protected through the relevant guidelines and practices under its Data Protection Policy.\"\n• Evidence 2: \"BRoasters places importance on effective recruitment practices by hiring the right candidate.\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood communicates its promotional information through social media and in-store materials...\" (marketing relevance)\n• Evidence 2: \"The Group uses a non-discriminatory recruitment process...\" (corporate governance relevance)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"700 Coffee Masters (300 Coffee Masters last year) took part in this event.\" (specific factual comparison)\n• Evidence 2: \"BFood invested 149,513 hours in training and development.\" (quantifiable data)"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"BStarbucks’ mini health fair\" and \"BFood’s employee development programmes\" (inconsistent company name references)\n• Evidence 2: \"Coffee Masters inspire fellow team members to seek more knowledge...\" (vague phrasing about impact)"
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"BStarbucks was awarded a number of awards during the financial period\" (no explanation of award significance)\n• Evidence 2: \"The Company’s employee benefits and welfare are constantly enhanced...\" (no link to investor decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Effective 1 January 2019, BRoasters extended its meal incentive card...\" (specific date and program details)\n• Evidence 2: \"RM0.50 from each cup...raised RM4,060.50\" (quantifiable outcome)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Every BFood store is a part of a community...\" (clear, direct statement)\n• Evidence 2: \"The campaign successfully sold 8,121 cups...\" (precise numerical results)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"BStarbucks launched the MY Cup of Kindness campaign...\" (community impact initiative)\n• Evidence 2: \"RM0.50 from each cup...donated to the charity...\" (financial contribution details)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks contributed a total of 3,224 community service hours.\" (specific factual data)\n• Evidence 2: \"The grant enabled the community to form their own edible garden...\" (objective description of program outcomes)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Wishing Tree Programme... by visiting any KRR restaurant...\" (clear procedural explanation)\n• Evidence 2: \"The CEO holds the primary executive responsibility...\" (precise role description)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks awarded the Opportunity for Youth Grant...\" (material event for investors)\n• Evidence 2: \"The Board is committed in ensuring... corporate accountability...\" (corporate governance relevance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The presence of three (3) Independent Non-Executive Directors is sufficient to provide the required checks and balances on the decision making process of the Board.\" (neutral, factual statement about board structure)\n• Evidence 2: \"The Nomination Committee concluded that Datuk Zainun Aishah Binti Ahmad and Dato’ Mustapha Bin Abdul Hamid have satisfied the independence criteria.\" (specific, verifiable assessment of director independence)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board meets regularly on a quarterly basis.\" (clear, direct statement of meeting frequency)\n• Evidence 2: \"The Company Secretaries play an important role in facilitating the overall compliance...\" (precise explanation of roles with logical flow)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board will ensure that the strategic plans of the Company and the Group supports long term value creation...\" (forward-looking information relevant to investors)\n• Evidence 2: \"The Company Secretaries also assist the Board and Board Committees to function effectively...\" (explains internal governance mechanisms impacting operations)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"nothing has come to their attention that causes them to believe the SRMIC intended to be included in the Annual Report is not prepared, in all material respects, in accordance with the disclosures required by paragraphs 41 and 42 of the SRMIC\"\n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group’s Annual Report\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The business units are required to identify the risks relevant to their businesses. The risks are then assessed based on the probability of their occurrence and are evaluated as Low, Medium or High.\"\n• Evidence 2: \"The ARMC held six -6 meetings during the financial period ended 30 June 2019. The details of attendance of the ARMC members are as follows:...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board remains committed towards operating a sound system of internal control... to support the types of businesses and size of operations of the Group.\"\n• Evidence 2: \"The external auditors have performed limited assurance procedures on the Statement on Risk Management and Internal Control... for the year ended 30 April 2018\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [No specific facts or disclosures about risks, challenges, or uncertainties]\n• Evidence 2: [No objective or neutral statements provided]"},
+  "Understandability": {"score": 5, "justification": "• Evidence 1: [Title is clear and direct, but lacks content]\n• Evidence 2: [No precise or detailed language to explain complex concepts]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [No information about risks, material events, or corporate governance]\n• Evidence 2: [No forward-looking information or performance explanations]"}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company’s quarterly financial reporting...International Accounting Standard 34...Main Market Listing Requirements of Bursa Malaysia Securities Berhad.\" (neutral, objective compliance disclosure)\n• Evidence 2: \"Discussed and considered the significant accounting adjustments...impairment of goodwill...\" (transparent risk disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the Internal Audit Reports...audit findings...Management’s responses...\" (clear process description)\n• Evidence 2: \"Risk register covering areas such as...likelihood of occurrence...risk score...\" (structured risk assessment framework)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the 2018 Circular...minority shareholders.\" (material shareholder interest disclosure)\n• Evidence 2: \"Proposed acquisition of a property unit...RM12,435,000.00\" (specific material transaction disclosure)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The consideration was arrived at on 'willing-buyer willing-seller' basis after taking into consideration, inter-alia, the indicative market valuations of the Property by the independent valuers...\" (supports objective justification)\n• Evidence 2: \"the proposed acquisition was fair, reasonable and on normal commercial terms...not detrimental to the interest of the minority shareholders\" (neutral assessment with specific rationale)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Internal Audit Division...adopt a risk-based approach focusing on high risk areas\" (clear explanation of methodology)\n• Evidence 2: \"Reviewed and recommended to the Board...for inclusion in the 2018 Annual Report\" (precise description of activities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the proposed acquisition will facilitate...Starbucks Reserve Store...and enable...future capital appreciation\" (explains business rationale for investors)\n• Evidence 2: \"not detrimental to the interest of the minority shareholders\" (includes governance-related information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The cost incurred for the Internal Audit function... amounted to RM207,935.\" (specific factual disclosure)\n• Evidence 2: \"Conducted audit reviews and evaluated risk exposures... statutory requirements.\" (objective description of audit activities)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed and endorsed the Internal Audit Plan by ARMC.\" (clear, direct language)\n• Evidence 2: \"Provided recommendations... suggesting improvements to the control processes.\" (precise description of actions)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Conducted audit reviews... statutory requirements.\" (relevant to governance and compliance)\n• Evidence 2: \"Terms of reference of the ARMC... Company’s website.\" (corporate governance disclosure)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The directors are required by the Companies Act 2016 to prepare financial statements which give a true and fair view...\" (neutral, factual statement)\n• Evidence 2: \"ensured that applicable accounting standards have been complied with\" (specific, objective disclosure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"adopted appropriate accounting policies and applied them consistently\" (precise language)\n• Evidence 2: Bullet-point structure clarifies responsibilities (logical organization)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"taking reasonable steps to safeguard the assets...\" (corporate governance relevance)\n• Evidence 2: Lacks forward-looking information or specific risk disclosures (limited investor decision-usefulness)"
+  }
+}

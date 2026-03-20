@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Malaysian Communications and Multimedia Commission (MCMC), in collaboration with Huawei Technologies (Malaysia) Sdn Bhd (Huawei Malaysia), today launched a talent development programme...\" (source and factual accuracy)\n• Evidence 2: \"This programme, formulated by Huawei Malaysia and MCMC, is here to assist in making that possible.\" (balanced tone and verifiable collaboration details)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The initiative is aimed at empowering leaders across industries and the public sector...\" (no direct connection to Berjaya Food's strategic direction)\n• Evidence 2: \"According to Simon, the programme will engage a total of 300 participants...\" (no mention of Berjaya Food's business operations or strategic priorities)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The eight key domains of content that will be covered over 32 modules are leadership, 5G technology, artificial intelligence...\" (comprehensive coverage of programme structure)\n• Evidence 2: \"This programme hopes to achieve is to equip the current generation of organisational leaders...\" (detailed explanation of programme objectives and methodology)"
+  }
+}

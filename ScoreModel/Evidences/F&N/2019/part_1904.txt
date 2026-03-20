@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"We made a conscious decision to lower our total sugar index many years ago, and accelerated our efforts in FY2019. About 90 per cent of our ready-to-drink products sold in Malaysia today contain less than 5g of sugar per 100ml...\" (specific factual claims with measurable outcomes)\n• Evidence 2: \"Our target is to reduce our greenhouse gas emissions intensity by five per cent from 2017 to 2020.\" (clearly stated goals with timeframes)"
+    "score": 9,
+    "justification": "• Evidence 1: \"About 90 per cent of our ready-to-drink products sold in Malaysia today contain less than 5g of sugar per 100ml, meeting the healthier choice logo criteria of the Ministry of Health Malaysia.\"\n• Evidence 2: \"Our target is to reduce our greenhouse gas emissions intensity by five per cent from 2017 to 2020.\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"10 out of 12 of our RTD product categories has healthier choice...\" (concise bullet points with quantifiable data)\n• Evidence 2: \"Our production capacity: 130 million cases per year\" (direct, precise numerical information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"10 out of 12 of our RTD product categories has healthier choice\" (clear numerical summary).\n• Evidence 2: \"We educate schoolchildren on the importance of reducing waste and the 5R principles (reduce, reuse, rethink, recycle, reinvent)\" (explicit explanation of terms)."
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"We strive to reduce our carbon footprint by employing various energy-efficient processes...\" (strategic initiatives relevant to investors)\n• Evidence 2: \"Our business is built on a profitable, responsible and sustainable manner...\" (forward-looking statement linking strategy to value creation)"
+    "score": 8,
+    "justification": "• Evidence 1: \"We strive to reduce our carbon footprint by employing various energy-efficient processes...\" (forward-looking sustainability strategy).\n• Evidence 2: \"Our social 'licence to operate' is due to our reputation and the trust we have earned from key stakeholders.\" (stakeholder relationship emphasis)."
   }
 }

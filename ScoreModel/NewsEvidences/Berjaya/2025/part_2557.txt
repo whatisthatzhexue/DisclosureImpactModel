@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Preliminary investigations based on dashboard camera footage revealed that the lorry first collided with a car...\" (verifiable data and factual reporting)\n• Evidence 2: \"The case is being investigated under Section 42(1) of the Road Transport Act 1987...\" (citable legal framework)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or any business operations related to the incident\" (no direct company connection)\n• Evidence 2: \"No financial implications or market impact mentioned\" (no stakeholder significance)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"All the vehicles involved were badly damaged while the 29-year-old driver...were seriously injured\" (specific incident details)\n• Evidence 2: \"Members of the public... urged to contact...\" (contextual information about reporting channels)"
+  }
+}

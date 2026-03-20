@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"MPSepang estimates that the assessment tax hike... will generate around RM41mil extra in revenue.\" (specific numerical data)\n• Evidence 2: \"approval had been given for the new rates... capped at 25%\" (cited official decision with percentage limit)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text focuses on local council revenue and infrastructure projects, with no mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: No connection to the company's strategic direction, competitive position, or financial performance is provided."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Ten projects... costing some RM50mil in total\" (quantified project scope)\n• Evidence 2: \"development of a public park... upgrading the football field\" (specific project examples, but lacks broader context or analysis)"
+  }
+}

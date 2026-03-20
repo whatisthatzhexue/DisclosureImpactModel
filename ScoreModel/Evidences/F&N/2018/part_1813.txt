@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Water is a fundamental element of our products, and our business is dependent on a reliable water supply. A lack of effective water management can therefore have serious financial implications, as such water risk is a topic that is regularly monitored as part of our Enterprise Risk Management.\"\n• Evidence 2: \"We are committed to meeting our waste reduction targets by 2020\""
+    "score": 7,
+    "justification": "• Evidence 1: \"A lack of effective water management can therefore have serious financial implications, as such water risk is a topic that is regularly monitored as part of our Enterprise Risk Management.\"\n• Evidence 2: \"We are committed to meeting our waste reduction targets by 2020...\" (specific targets but no disclosure of risks/challenges beyond water risk)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"We have a range of water assessment and action policies that are applied across our facilities, including: daily monitoring of consumption; the recovery of effluent water using ultrafiltration; and the collection and use of rainwater.\"\n• Evidence 2: \"Recognising climate change as a significant global challenge of the 21st century, F&NHB is committed to reduce our energy consumption and GHG emissions intensity as one of the main priorities in our 2020 Vision.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"Water is a fundamental element of our products, and our business is dependent on a reliable water supply.\"\n• Evidence 2: \"We have a range of water assessment and action policies that are applied across our facilities, including: daily monitoring of consumption; the recovery of effluent water using ultrafiltration; and the collection and use of rainwater.\"" 
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"We are committed to meeting our waste reduction targets by 2020 and the company has been implementing best practice at all our operating sites.\"\n• Evidence 2: \"Recognising climate change as a significant global challenge of the 21st century, F&NHB is committed to reduce our energy consumption and GHG emissions intensity as one of the main priorities in our 2020 Vision.\""
+    "score": 6,
+    "justification": "• Evidence 1: \"Recognising climate change as a significant global challenge of the 21st century, F&NHB is committed to reduce our energy consumption and GHG emissions intensity as one of the main priorities in our 2020 Vision.\"\n• Evidence 2: \"We have a responsibility to help minimise carbon footprints across our value chain...\" (forward-looking info but no direct link to investor decision-making factors)"
   }
 }

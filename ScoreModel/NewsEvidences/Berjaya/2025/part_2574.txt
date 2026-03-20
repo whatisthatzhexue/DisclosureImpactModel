@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The Malaysian Communications and Multimedia Commission (MCMC) has recorded the statements of two main administrators...\" (verifiable factual reporting)\n• Evidence 2: \"Of the 110 requests, Facebook found that 106 items of content breached its Community Standards...\" (specific data with verifiable source)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The case is being investigated under Section 233(1)(a) of the Communications and Multimedia Act 1998...\" (no mention of Berjaya Food or its operations)\n• Evidence 2: \"MCMC advised the public not to misuse online network services...\" (general public advisory unrelated to company-specific strategic factors)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A mobile phone and SIM card were confiscated for case evidence...\" (specific procedural detail)\n• Evidence 2: \"MCMC said it had submitted 110 requests to Meta...\" (quantitative data supporting narrative completeness)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Their statements will be recorded following complaints regarding content that had been uploaded on social media that has allegedly gone against Act 588 of the Communications and Multimedia Act 1998.\" (MCMC statement)\n• Evidence 2: \"We will be there at around 3pm,\" he said. (Badrul Hisham's quote) - Direct quotes from official and individual sources enhance factual accuracy."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The focus is on MCMC legal actions against individuals, unrelated to the company's business performance or market position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The public is advised to not abuse communication services and online applications to spread unverified and fake content,\" it said in a statement yesterday. (Contextual background on legal implications)\n• Evidence 2: Details about the summoning process, alleged violations, and individuals' responses provide sufficient event coverage but lack analysis of broader implications for stakeholders."
+  }
+}

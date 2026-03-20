@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"MSCI has announced the removal of six stocks following its latest review.\"\n• Evidence 2: \"Our analysis... US$36bil as at end-April 2025,\" the research house pointed out."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The affected stocks... Berjaya Sports Toto Bhd, and UWC Bhd.\"\n• Evidence 2: \"Since non-strategic foreign shareholdings... RM146mil.\" (Note: Article focuses on MSCI index changes, not Berjaya Food Berhad's strategic direction or business performance.)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The MSCI Malaysia Small Cap Index comprises 68 stocks... about 14% of the stock market.\"\n• Evidence 2: \"daily foreign fund inflows surged... next 90 days.\" (Provides detailed context, data, and market implications.)"
+  }
+}

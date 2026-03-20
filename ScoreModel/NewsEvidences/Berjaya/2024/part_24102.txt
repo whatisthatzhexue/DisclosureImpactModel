@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Bomb Battle Elite at Atria Shopping Gallery features four interactive games...\" (factual accuracy about attraction details)\n• Evidence 2: \"Datin Sheehan Tee, CEO and founder of Mission Group...\" (direct quote from a source, though no external verification provided)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The company’s first outlet – Bomb Battle – was launched at Berjaya Times Square’s indoor theme park...\" (indirect reference to Berjaya Group, not Berjaya Food Berhad)\n• Evidence 2: No direct mention of Berjaya Food Berhad’s strategic initiatives, financials, or competitive positioning"
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: \"There are over eight games for players to experience here...\" (surface-level details about attractions)\n• Evidence 2: \"Opening hours: 10am-10pm, daily\" (basic operational information, no contextual analysis or stakeholder impact)"
+  }
+}

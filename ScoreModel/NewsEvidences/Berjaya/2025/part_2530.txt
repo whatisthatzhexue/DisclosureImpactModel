@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites Bernama as the source, a credible Malaysian news agency.\n• Evidence 2: Direct quotes from executives (Anand Sharvanandan, Tan Sri Kuna Sittampalam) and verifiable financial figures (RM70 million order book, RM2.1 billion order book) are provided without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: The article details HSS Engineers' strategic focus on global growth, including data centres, international markets (Indonesia, Iraq), and diversification into infrastructure projects.\n• Evidence 2: Financial metrics like RM2.1 billion order book and revenue targets (25% overseas revenue by 2027) directly tie to long-term value creation and competitive positioning."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: Comprehensive coverage of projects (e.g., Baghdad Metro, Najaf-Karbala HSR) and financial data (RM475 million tender book, RM65 million contract wins) provides detailed context.\n• Evidence 2: Specifics on project phases, partnerships (e.g., 50:50 joint ventures), and revenue contributions (18.8% overseas revenue) add analytical depth."
+  }
+}

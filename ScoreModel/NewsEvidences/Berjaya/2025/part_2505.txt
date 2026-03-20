@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM89.8bil approved investments... over 93% flowing into DC projects\" [verifiable data]\n• Evidence 2: \"We have surpassed our national target of RM130bil well ahead of schedule\" [specific, measurable claim]"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The text contains no mention of Berjaya Food Berhad or its business operations, financials, or strategic initiatives\" [no direct company reference]\n• Evidence 2: \"The content focuses on Malaysia's data center ecosystem rather than the company's strategic direction\" [irrelevant to company context]"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"From 2021 until March 2025, the Digital Investment Office (DIO) facilitated RM310.7bil in digital investments\" [detailed financial context]\n• Evidence 2: \"Sarawak has three or four cable landing stations... compared to Peninsular Malaysia's nine\" [specific technical and geographic analysis]"
+  }
+}

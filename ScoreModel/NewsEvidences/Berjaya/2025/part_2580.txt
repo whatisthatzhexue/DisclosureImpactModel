@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Gamuda Bhd’s construction order book touched a new record high of RM36bil\" (verifiable financial data)\n• Evidence 2: \"Net profit rose 5% y-o-y to RM424mil\" (specific, verifiable financial metric)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This demonstrates the group’s robust regional infrastructure capabilities to meet its target order book of RM40bil to RM45bil by end-2025\" (strategic growth target)\n• Evidence 2: \"Domestic construction division is primarily fuelling the growth of its revenue and earnings\" (alignment with strategic focus areas)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Six significant project awards – three international and three domestic\" (detailed project breakdown)\n• Evidence 2: \"Overseas earnings contributed 62% of total property earnings, with 38% from domestic projects\" (segmented financial analysis)"
+  }
+}

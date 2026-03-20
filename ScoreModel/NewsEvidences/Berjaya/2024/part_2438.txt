@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Inland Revenue Board (LHDN) regularly monitors its data to identify companies and individuals who do not pay taxes\" [verifiable source: official statement from LHDN CEO].\n• Evidence 2: \"Last year, LHDN recorded a tax collection of RM183.3bil...\" [specific data with numerical context]."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text focuses on LHDN's tax enforcement activities, with no direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The article discusses general tax collection trends, lacking specific connections to the company's strategic priorities, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We receive information from various sources and analyse it all year long...\" [provides methodological context for LHDN's operations].\n• Evidence 2: \"The increase in tax collection has helped to improve the Sumbangan Asas Rahmah (SARA) programme...\" [links tax data to social impact, adding contextual depth]."
+  }
+}

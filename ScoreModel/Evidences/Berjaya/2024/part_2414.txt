@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Each business unit's management reviewed and verified the accuracy and reliability of this statement, ensuring its integrity before endorsement by the Board of Directors\" [exact quote]\n• Evidence 2: \"SIRIM QAS International Sdn Bhd conducted external assurance covering the following topics: Human Resource, Greenhouse Gases, Pollution...\" [exact quote]"
+    "score": 8,
+    "justification": "• Evidence 1: 'Each business unit's management reviewed and verified the accuracy and reliability of this statement, ensuring its integrity before endorsement by the Board of Directors' [exact quote]\n• Evidence 2: 'SIRIM QAS International Sdn Bhd conducted external assurance covering the following topics: Human Resource, Greenhouse Gases, Pollution, Environmental Performance: Waste, Water & Energy' [exact quote]"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Sustainability Statement emphasises BStarbucks' coverage, given its extensive business operations, accounting for approximately 80% of BFood Group's gross revenue and headcount\" [exact quote]\n• Evidence 2: \"Performance data table on pages 84 to 88 presents comprehensive data tables...\" [exact quote]"
+    "justification": "• Evidence 1: 'Corporate Structure Of Operating Companies As At 2 October 2024' [clear section heading]\n• Evidence 2: 'The Sustainability Statement emphasises BStarbucks' coverage, given its extensive business operations, accounting for approximately 80% of BFood Group's gross revenue and headcount' [specific contextual explanation]"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"This annual disclosure offers a transparent and comprehensive insight into BFood's sustainability strategy and overall performance\" [exact quote]\n• Evidence 2: \"The Sustainability Statement includes all of BFood's principal business activities...\" [exact quote]"
+    "score": 7,
+    "justification": "• Evidence 1: 'This annual disclosure offers a transparent and comprehensive insight into BFood's sustainability strategy and overall performance' [direct relevance to investor decision-making]\n• Evidence 2: 'The Sustainability Statement features a performance table that consolidates data from the past three years' [forward-looking data for analysis]"
   }
 }

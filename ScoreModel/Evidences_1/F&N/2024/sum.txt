@@ -1,0 +1,445 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Board is firmly committed to promoting and enhancing diversity... 36% female and 64% male members.' (specific factual disclosure)\n• Evidence 2: 'The Company Secretary is responsible for managing the flow of information to the Board... ensuring it is provided at appropriate times.' (neutral, objective process description)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Board And Board Committee Meeting Attendance for Financial Year 2024' (clear section heading with specific attendance data)\n• Evidence 2: 'The financial implications of ESG initiatives are monitored by the Audit Committee...' (precise language linking committees to responsibilities)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Approved the Company’s subscription of additional equity interest in its wholly-owned subsidiary...' (material corporate action relevant to investors)\n• Evidence 2: 'The Board recognises the increasing investor interest in climate change risk...' (direct link to investor concerns and strategic considerations)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee had conducted an evaluation of the external auditors, KPMG PLT for the financial year 2024, encompassing technical competencies... independence and objectivity\" [neutral, fact-based evaluation]\n• Evidence 2: \"The external auditors’ annual audit reports... were also reviewed by the Audit Committee as part of their oversight over the accounting... procedures of the Group\" [specific, objective disclosure]"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee is chaired by Mr. David Siew Kah Toong. It comprises four Non-Executive Directors... in line with the Main Market Listing Requirements\" [clear structure and precise language]\n• Evidence 2: \"The summary of key activities undertaken by the Audit Committee... is provided below\" [logical segmentation of information]"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee reviewed the quarterly and annual consolidated financial statements... statutory requirements\" [directly relevant to investor decision-making]\n• Evidence 2: \"The re-appointment will be put to the shareholders for approval at the forthcoming Annual General Meeting\" [material governance event]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee reports that there was no significant matter of disagreement between the auditors and Management.\"\n• Evidence 2: \"During the financial year, the amount incurred in respect of non-audit services amounted to RM 912,981 (FY2023 RM 426,207)\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee had one meeting with the auditors without the presence of management.\"\n• Evidence 2: \"The Global Internal Audit Standards... would come into effect from 9 January 2025.\""
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee continually evaluated the Group Internal Audit function to ensure its activities were performed independently...\"\n• Evidence 2: \"The external auditors performed a limited assurance review of the Statement on Risk Management and Internal Control...\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the Group Internal Audit function had been effective in performing its duties\" (supports objectivity)\n• Evidence 2: \"assessment results were satisfactory, indicating that the internal audit activities had conformed to the IIA Standards and Code of Ethics\" (specific factual basis)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"operational costs incurred by Group Internal Audit for the financial year 2024 amounted to about RM2.55 million\" (precise numerical data)\n• Evidence 2: \"performed periodic audits of key subsidiaries...\" (clear structure with bullet points)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"reviewed results of the Internal Audit team’s annual quality assurance self-assessment\" (directly relevant to governance)\n• Evidence 2: \"related party transactions... were conducted on the Group’s normal commercial terms\" (material to investor decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 1, "justification": "• Evidence 1: [TEXT]AUDIT COMMITTEE REPORT[/TEXT]\n• Evidence 2: [TEXT]GOVERNANCE 6 1 3 2 4 5 7 8 9 SECTION 131[/TEXT]"},
+  "Understandability": {"score": 1, "justification": "• Evidence 1: [TEXT]GOVERNANCE 6 1 3 2 4 5 7 8 9 SECTION 131[/TEXT]\n• Evidence 2: [TEXT]AUDIT COMMITTEE REPORT[/TEXT]"},
+  "Relevance": {"score": 1, "justification": "• Evidence 1: [TEXT]AUDIT COMMITTEE REPORT[/TEXT]\n• Evidence 2: [TEXT]GOVERNANCE 6 1 3 2 4 5 7 8 9 SECTION 131[/TEXT]"}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board could only provide reasonable and not absolute assurances against material misstatements or losses.\"\n• Evidence 2: \"The systems of risk management and internal control are designed to manage and mitigate risks by lowering its possibility to occur and/or reduce its impact, rather than eliminate the risks totally.\"\n• Evidence 3: \"The Guidelines provide guidance for companies complying with paragraph 15.26 (b) of the Listing Requirements of Bursa Securities...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group adopts the Enterprise-wide Risk Management Policy (\"ERM Policy\") which is designed to manage risks in an integrated, systematic and consistent manner.\"\n• Evidence 2: \"The SRMC had held 4 meetings on a quarterly basis to: [list of specific activities]\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The objective of risk management is to create and protect value for the Group through improving performance, encouraging innovation...\"\n• Evidence 2: \"The SRMC... ensures that Management comprehensively identifies, assesses and monitors key business risks faced by the Group\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The responsibility for day-to-day risk management resides with the Management of each function/business unit where they are the risk owners and are accountable for managing the risks identified and assessed.\"\n• Evidence 2: \"Risk Management Department, together with the Management from business operations, review and ensure continuous monitoring of risks, assess the adequacy and effectiveness of its controls...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group applies the 'Three-lines of Defence' model to ensure a structured approach, clearly defining roles and responsibilities across various functions...\"\n• Evidence 2: \"Collectively, these lines of defense work in harmony to create a robust risk management and internal control system...\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Management Risk Committee... meets on a quarterly basis to share emerging and significant risks faced by the business...\"\n• Evidence 2: \"develop and implement action plans to further mitigate the risks to an acceptable level for the Group.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Risks associated in achieving these business strategies and objectives, including emerging risks, will be identified.\"\n• Evidence 2: \"A consistent approach in determining the risk likelihood and risk impact is adopted across the Group to reflect the risk appetite approved by the Board.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Risk Assessment & Risk Treatment\" section uses clear bullet points to outline process steps.\n• Evidence 2: \"The outcome of the ERM process... will then be consolidated at the Group level and updated in the risk management system, i.e. Corporate Risk Scorecard.\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Risks associated in achieving these business strategies and objectives... will be identified.\"\n• Evidence 2: \"The system enables subsidiaries... to report risks and risk status using a common platform.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The net risk level is determined after taken into consideration the effectiveness of existing controls and risk treatment plans.\" (neutral, factual disclosure of risk assessment methodology)\n• Evidence 2: \"The Board receives assurance... through ERM Validation Report and Comfort Matrix.\" (objective reporting of governance processes)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Risk profiles... are tabled to the Management Risk Committee and the SRMC in a heat map\" (clear structure with specific examples)\n• Evidence 2: \"Risks associated with... ESG matters that have negative impact on reputation...\" (precise definitions with logical categorization)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"risks... reported under the following categories: Financial/Economic... Reputational...\" (material risks disclosed for investor assessment)\n• Evidence 2: \"refer to Management Discussion & Analysis section...\" (links to additional relevant information for decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Both ERM Validation Report and Comfort Matrix are tabled at the SRMC and Audit Committee meetings respectively prior to recommendations to the Board on an annual basis.\" (specific process described)\n• Evidence 2: \"Adequate procedures system... are monitored and reported to the SRMC on a quarterly basis; as well as review of the Anti-Corruption System by the Group Internal Audit yearly...\" (supported by specific facts)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Code of Business Ethics & Conduct... defines expected behaviour for employees...\" (clear structure with direct language)\n• Evidence 2: \"Whistleblowing Policy enables the businesses... to report in good faith and in confidence...\" (precise explanation of policy purpose)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Fraud Control Policy... applies to any irregularity...\" (relevant to investor risk assessment)\n• Evidence 2: \"The above-mentioned policies/codes... are available for reference...\" (provides governance-related information for decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board delegates certain responsibilities to the Board Committees, all of which operate within defined terms of reference.\" (neutral, objective description of governance structure)\n• Evidence 2: \"Compliance with these policies and procedures is an essential element of the internal control framework.\" (explicitly links policies to internal controls)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Annual Business Plan sets the targets and objectives based on the strategic directions and initiatives of the Group\" (clear, direct explanation of planning process)\n• Evidence 2: \"Policies, standards and procedures that are available to enhance the Group’s operational efficiency and internal controls include (but not limited to):\" (structured list with clear examples)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Frequent engagements between the Board and the CEO/Management via Group Executive Committee meetings and management reports provide a platform for performance to be periodically monitored\" (directly relevant to investor decision-making)\n• Evidence 2: \"The Chart of Authority provides guidance on the division of responsibilities between the Board and Management\" (relevant to corporate governance and internal controls)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group’s pandemic preparedness was further strengthened...\" (discloses risks and challenges)\n• Evidence 2: \"External Auditors... reported to the Board that nothing has come to their attention...\" (neutral, fact-based assurance)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group operates on an enterprise resource planning system...\" (clear, direct language)\n• Evidence 2: \"The Framework... is reviewed annually...\" (logical structure with specific timelines)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Business Continuity Management... to prepare the Group’s business operations in the event of crisis\" (material risks and preparedness)\n• Evidence 2: \"The Directors... ensure that the financial statements...\" (links governance to financial reporting relevance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The report is prepared in accordance with the Global Reporting Initiative (GRI) Universal Standards 2021.\" (specific standard adherence)\n• Evidence 2: \"selected Safety, Health and Environmental (SHE) practices and indicators have also been externally validated by Lloyd’s Register Quality Assurance (LRQA).\" (third-party validation)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The farm will incorporate green technology and circularity principles throughout all operations\" (clear explanation of sustainability practices)\n• Evidence 2: \"We are conducting a materiality assessment to identify and address material ESG issues around dairy farm.\" (direct language about ESG focus)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In anticipation of Bursa Malaysia’s reporting deadline for the Task Force on Climate-Related Financial Disclosures (TCFD)... we have taken proactive steps to strengthen our alignment with TCFD.\" (direct relevance to regulatory requirements)\n• Evidence 2: \"A carbon projection study is also underway to forecast the farm’s carbon footprint...\" (forward-looking ESG-related information for investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Failure to establish transparent and robust governance represents a risk to our reputation\"\n• Evidence 2: \"Unpreparedness towards adherence to new regulations is a risk\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our material topics are closely aligned with our sustainability strategy\"\n• Evidence 2: \"Material Matters\" section with numbered categories and clear risk/opportunity distinctions"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Upon the conclusion of our 2025 goals, we will undertake a comprehensive materiality assessment\"\n• Evidence 2: \"Supply Chain Stewardship\" section detailing ESG risks and regulatory compliance implications"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 1, "justification": "• Evidence 1: [TEXT]SUSTAINABILITY STATEMENT[/TEXT]\n• Evidence 2: No specific facts, risks, or objective disclosures are provided in the text." },
+  "Understandability": {"score": 2, "justification": "• Evidence 1: [TEXT]SUSTAINABILITY STATEMENT[/TEXT]\n• Evidence 2: The text contains no structured explanation, precise language, or contextual clarity regarding sustainability practices." },
+  "Relevance": {"score": 1, "justification": "• Evidence 1: [TEXT]SUSTAINABILITY STATEMENT[/TEXT]\n• Evidence 2: No forward-looking information, material events, risks, or investor-relevant details are included in the text." }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Human rights violations in operations and supply chain lead to regulatory risks, monetary fines and reputational risk\" (neutral risk disclosure)\n• Evidence 2: \"Failure to meet stakeholders’ expectations in packaging management results in reputational risks\" (balanced presentation of risks and opportunities)"
+  },
+  "Understandability": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Developing sustainable packaging solutions to reduce the impact of packaging on the environment\" (clear, direct phrasing)\n• Evidence 2: \"Inadequate equilibrium between social, economic and environmental requirements results in financial implications\" (precise terminology with logical structure)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Minimised energy use and emissions enables F&N to reduce costs\" (directly ties sustainability to financial performance)\n• Evidence 2: \"Failure to meet stakeholders’ expectations in addressing climate change poses reputational risks\" (links sustainability to investor risk considerations)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 1,
+    "justification": "• Evidence 1: [No specific facts or disclosures about sustainability practices, risks, or challenges]\n• Evidence 2: [No objective information or neutral statements provided]"
+  },
+  "Understandability": {
+    "score": 2,
+    "justification": "• Evidence 1: [Text contains only section numbers and headings without explanatory content]\n• Evidence 2: [No clear structure or direct language to convey information]"
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: [No forward-looking information, risks, or material events disclosed]\n• Evidence 2: [No details about corporate governance or sustainability performance]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Performance in these areas has been influenced by operational expansions...\" (acknowledges external factors affecting metrics)\n• Evidence 2: \"Our commitment remains firm...\" (neutral statement about ongoing efforts without overstatement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"OUR CORE AREAS... OUR MISSION\" (clear hierarchical structure with headings)\n• Evidence 2: \"Excluding the impact of these expansions...\" (precise language clarifying performance context)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In 2020, we set ambitious sustainability performance targets...\" (forward-looking goals relevant to investor decision-making)\n• Evidence 2: \"align with the broader ESG targets set by our parent company...\" (strategic alignment relevant to long-term value creation)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"63% of our plants and production processes are certified with FSSC22000 scheme.\" (reports partial progress without overstating achievement)\n• Evidence 2: \"Our LTIFR was 0.67, with 4 lost time injury cases.\" (discloses unmet target and specific data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Conducted 34 training hours per employee in the executive category\" (precise numerical data)\n• Evidence 2: \"Group water intensity ratio has increased by 3% to 2.37\" (clear structure with percentage change and baseline comparison)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Increase the number of annual community programmes to 11\" (quantifies material sustainability goal)\n• Evidence 2: \"Group GHG intensity ratio has improved by 4%\" (provides forward-looking performance metric relevant to investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This is the third year we have disclosed our climate-related impacts in alignment with TCFD recommendations.\" (specific fact about disclosure timeline)\n• Evidence 2: \"F&N has established a robust governance framework...\" (objective description of governance structure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our engagement strategy is tailored to align with the varying degrees of interest and influence of each stakeholder group.\" (clear, direct language)\n• Evidence 2: \"We strive to enhance our resilience and capitalise on opportunities...\" (precise explanation of strategic goals)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our strategic efforts are guided by a clear understanding of material climate-related risks...\" (directly addresses investor concerns about risk management)\n• Evidence 2: \"F&N has voluntarily provided climate reporting disclosures... ahead of the timeline stipulated by Bursa Malaysia.\" (forward-looking information with regulatory context)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N employs a comprehensive risk management framework that includes the identification and quantification of climate-related risks.\" (specific risk disclosure)\n• Evidence 2: \"We have committed to reducing both energy, GHG emissions and water intensity at our plants, in line with our sustainability targets for 2025.\" (specific target with timeframe)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our efforts focus on embedding climate risk analysis into our risk management processes, ensuring that key internal stakeholders... are involved in evaluating these risks.\" (clear structure of risk management process)\n• Evidence 2: \"The Board of Directors has ultimate oversight of material sustainability issues...\" (precise explanation of governance roles)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"To measure our progress against climate-related objectives... we have committed to reducing... in line with our sustainability targets for 2025.\" (forward-looking sustainability targets relevant to investors)\n• Evidence 2: \"We work closely with relevant regulatory bodies to ensure employee safety and effective environmental management.\" (material event disclosure related to compliance and operations)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 1,
+    "justification": "• Evidence 1: [No specific facts or disclosures about sustainability practices, risks, or challenges provided]\n• Evidence 2: [Text lacks objective information and merely directs readers to another section]"
+  },
+  "Understandability": {
+    "score": 3,
+    "justification": "• Evidence 1: [Unclear structure with nonsensical section numbering 'SECTION 7 1 3 2 4 5 6 8 9 151']\n• Evidence 2: [Ambiguous reference to 'Responsible Business Practice' without contextual explanation]"
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: [No forward-looking information, risks, material events, or governance details provided]\n• Evidence 2: [Text fails to explain performance changes or investor-relevant data]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our production facilities comply with international certifications, including FSSC22000 scheme & ISO22000 Food Safety Management Systems, and Hazard Analysis and Critical Control Points (HACCP), with rigorous quality control processes in place.\" (specific factual claims)\n• Evidence 2: \"We conduct quarterly risk assessments through the SRMC, emphasizing proactive oversight and continuous improvement.\" (acknowledges risk management processes)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We ensure compliance with regulatory requirements in Malaysia and Thailand while offering detailed nutritional information to promote informed purchasing decisions.\" (clear purpose statement)\n• Evidence 2: \"In FY2024, we introduced 14 new products, emphasizing healthier options and sustainable packaging solutions...\" (directly states key initiatives)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Innovation is central to our approach, driving us to develop new offerings that align with consumer preferences while addressing sustainability challenges.\" (forward-looking information relevant to investors)\n• Evidence 2: \"We adhere to ethical advertising standards and have pledged to restrict marketing aimed at children under 12...\" (discloses material corporate governance practices)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"nearly all key suppliers have already met this commitment\" (specific fact without overstatement)\n• Evidence 2: \"employs a rigorous risk management framework\" (objective statement with actionable process)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"99.7% of our active key suppliers accepted...\" (precise numerical data)\n• Evidence 2: \"Responsible Supply Chain\" section with bullet points (clear structure for key metrics)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our ambitious goal is for 100% of active key suppliers... by 2025\" (forward-looking information for investors)\n• Evidence 2: \"Collaborating with local and global suppliers... support the growth...\" (links sustainability to business strategy)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: '2/3 of our current offerings carry the Healthier Choice Logo' (specific factual claim)\n• Evidence 2: '53% reduction in sugar per ml of our total beverages (2015 - 2024)' (time-bound, measurable data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Our strategic approach includes a robust Nutrition Charter aimed at improving our product offerings' (clear structure)\n• Evidence 2: 'Strengthened the collaboration with SWCorp through a 3+2-year MOU' (precise numerical detail)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'Our initiatives in driving human capital development focus on achieving work-life balance' (employee-related relevance)\n• Evidence 2: 'Contributed to nature conservation through tree planting initiatives' (environmental impact disclosure)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Female Representation: Total workforce 28%\" [specific factual data]\n• Evidence 2: \"Complimentary influenza vaccination provided to more than 1,200 employees\" [quantifiable claim]"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Modules for Strategic Human Capital Transformation 7\" [ambiguous phrasing with unclear reference to '7']\n• Evidence 2: \"SUSTAINABILITY AT F&N SECTION 7 1 3 2 4 5 6 8 9 155\" [incoherent numerical sequence lacking context]"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Executive Category average training hours per employee including 382 new hires average training hours per employee\" [internal HR metric potentially relevant to operational efficiency]\n• Evidence 2: \"Maintained work-related fatality work-related illness\" [lack of forward-looking information or risk disclosure]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We have conducted a comprehensive climate change risk assessment aligned with the TCFD framework.\" (specific fact about risk assessment)\n• Evidence 2: \"Our projects include the installation of advanced monitoring systems and water-saving technologies, which have yielded measurable reductions in water usage.\" (quantifiable outcome)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We implement comprehensive waste reduction strategies that encompass recycling, repurposing, and innovative waste conversion techniques.\" (clear structure and direct language)\n• Evidence 2: \"In FY2024, we have made significant strides in enhancing water efficiency.\" (precise time frame and clear outcome)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"By quantifying the financial impacts of these risks, we can inform our strategic planning and decision-making processes more effectively.\" (links risks to business strategy)\n• Evidence 2: \"We have embedded these insights into our ERM framework to ensure that climate considerations are integrated into our business operations.\" (directly ties to investor-relevant risk management)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"3 manufacturing plants have achieved ZERO waste to landfill\"\n• Evidence 2: \"Solid waste sent to landfill reduced by 54% against 2020 baseline\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Converted waste to valuable resources\" (general statement, but specific examples follow)\n• Evidence 2: \"Generating over 6 million kWh of renewable energy annually\" (precise metric)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Third year assessment of climate-related risks and phased implementation of TCFD-based reporting\" (forward-looking risk disclosure)\n• Evidence 2: \"Introduced Internal Carbon Pricing initiative\" (strategic relevance for investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"25% recycled content in beverage & dairy packaging\" (specific factual claim)\n• Evidence 2: \"98% of primary packaging is recyclable\" (quantifiable metric)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We have made a Group-wide pledge to boost the proportion of recycled materials... by 2025\" (clear timeline and objective)\n• Evidence 2: \"100% recycled paper for coagulated cartons\" (precise example of sustainable practice)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Looking ahead, we plan to introduce more products with sustainable packaging solutions\" (forward-looking information)\n• Evidence 2: \"Recognising the interconnectedness of business and environmental health\" (links sustainability to business operations)"
+  }
+}

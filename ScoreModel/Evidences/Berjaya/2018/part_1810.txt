@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"RM15.1 million (FYE 2017 – RM13.1 million)\" [specific financial figures]\n• Evidence 2: \"1,281.8% (FYE 2017 – 114.5%)\" [dividend payout rate presented without contextual explanation for unusually high value]"
+    "score": 8,
+    "justification": "• Evidence 1: RM639.7 million (FYE 2017 - RM605.4 million) [specific financial figures]\n• Evidence 2: 1,281.8% (FYE 2017 – 114.5%) [dividend payout rate with historical comparison]"
   },
   "Understandability": {
     "score": 6,
-    "justification": "• Evidence 1: \"BRoasters has introduced the i.Care Box as its on-going environmental initiative...\" [clear structure for environmental initiatives]\n• Evidence 2: \"MESO\" and \"SWC\" acronyms used without definition [reduces clarity for non-familiar readers]"
+    "justification": "• Evidence 1: 'BFood’s financial performance highlights for FYE 2018' [clear section heading]\n• Evidence 2: 'RM43,850 worth of raw bananas' [precise monetary value]"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"BFood’s financial performance highlights for FYE 2018\" [financial data relevant to investors]\n• Evidence 2: \"BStarbucks will strive to increase...\" [forward-looking statement about community initiatives]"
+    "score": 7,
+    "justification": "• Evidence 1: 'BFood is working to shrink its environmental footprint' [directly ties to investor concerns]\n• Evidence 2: 'strive to increase the number of Starbucks stores retailing mengkuang-based products' [forward-looking operational plan]"
   }
 }

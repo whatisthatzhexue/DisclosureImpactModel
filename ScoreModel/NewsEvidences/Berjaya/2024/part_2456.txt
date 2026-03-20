@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Former Parti Bersatu Rakyat Sabah (PBRS) secretary-general Datuk Johnson Tee confirmed that Kurup passed away at the National Heart Institute (IJN) in Kuala Lumpur at 7pm.\" \n• Evidence 2: \"He said Kurup has been unwell in recent months.\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The PBS government ended after a series of defections by party leaders to PBRS, which supported the Barisan Nasional government.\" \n• Evidence 2: \"Berjaya Food Berhad is a food and beverage company listed in Malaysia.\" (No direct connection to the article's content about political figures)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Over his 40 years in politics, he held numerous ministerial posts, both at state and federal levels.\" \n• Evidence 2: \"He was among the founding members of Parti Bersatu Sabah (PBS) led by Tan Sri Joseph Pairin Kitingan, who toppled the Berjaya government in 1985.\""
+  }
+}

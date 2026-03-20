@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 6,
-    "justification": "• Evidence 1: \"17 sustainability matters prioritised, with 10 identified as being most influential on stakeholders’ decisions and to the impact of the business at ILF, MPM, and POA\" (neutral factual reporting)\n• Evidence 2: \"The result of the materiality assessment, the Materiality Matrix is shown below\" (supports claims with specific reference to a visual tool)"
+    "justification": "• Evidence 1: \"17 sustainability matters prioritised, with 10 identified as being most influential on stakeholders’ decisions and to the impact of the business at ILF, MPM, and POA\" (specific facts about prioritization).\n• Evidence 2: \"Materiality Matrix is shown below\" (references a supporting tool but lacks detailed disclosure of risks or uncertainties)."
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Sustainable Business Growth, Environmental Responsibility and Workplace Management\" (clear thematic categorization)\n• Evidence 2: \"Diagram 5: Mapping of material sustainability matters across the three themes\" (explicit visual reference for context)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Sustainable Business Growth, Environmental Responsibility and Workplace Management\" (clear thematic categorization).\n• Evidence 2: \"Diagram 5: Mapping of material sustainability matters across the three themes\" (structured visual reference but lacks explanatory context)."
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"the Materiality Matrix is shown below\" (provides framework for stakeholder prioritization)\n• Evidence 2: \"discusses our policies, measures and actions and performance indicators\" (links to investor-relevant management practices)"
+    "justification": "• Evidence 1: \"Most influential on stakeholders’ decisions\" (directly links to investor concerns).\n• Evidence 2: \"Policies, measures and actions and performance indicators\" (mentions management practices but lacks specific forward-looking or risk-related details)."
   }
 }

@@ -5,11 +5,11 @@
     "justification": "• Evidence 1: \"Cross-border transactions expose QL to forex risks. We pay close attention to the market and hedge our exposure in order to maintain stability.\"\n• Evidence 2: \"The Group is in the process of implementing the cybersecurity framework.\""
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"QL equips the team with the latest know-how and best practices in biosecurity across all our operations.\"\n• Evidence 2: \"Keep an ear to the ground to ensure that we are aware of any development as they arise.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"QL keeps an eye out on the winds of change in the industry in order to navigate them accordingly to bolster our position.\"\n• Evidence 2: \"Our farms, both in ILF and MPM have their internal policies and procedures which are strictly adhered to as preventive measures.\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Cross-border transactions expose QL to forex risks. We pay close attention to the market and hedge our exposure in order to maintain stability.\"\n• Evidence 2: \"Proactive biosecurity steps are taken as a form of disease control.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"QL is cognisant of the critical need to be vigilant. In addition to the QLPCOE, identified key personnel in QL are charged with monitoring indicators and developments...\"\n• Evidence 2: \"We strive to ensure that the lawfulness and goodness of our food products are maintained at all times.\""
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We believe in the importance of care, compassion and looking out for one another...\" (direct quote from CEO, adds credibility)\n• Evidence 2: \"The fire at the gas pipeline injured more than 100 people...\" (specific factual data about the incident)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Also present were Transport Minister Anthony Loke and Berjaya Group founder Tan Sri Vincent Tan\" (mentions Berjaya Group but not Berjaya Food Berhad directly)\n• Evidence 2: No connection to company's strategic direction, business performance, or market impact is provided"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"87 houses destroyed while 148 more sustained damage...\" (specific incident details)\n• Evidence 2: \"RM3,000 each to 100 households...\" (quantitative data on donations) but lacks analysis of broader implications for the company or community"
+  }
+}

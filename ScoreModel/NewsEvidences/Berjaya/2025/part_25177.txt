@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Selangor will soon introduce a new guideline...\" (direct quote from official source)\n• Evidence 2: \"Blackberry in Cyberjaya...\" (specific entity and location cited)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"improve the efficiency of government departments...\" (general business environment impact)\n• Evidence 2: \"meet representatives from the Suzhou Industrial Park...\" (indirect reference to industrial development)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"minimise bureaucracy and red tape...\" (specific policy goal)\n• Evidence 2: \"recent establishment of a cybersecurity centre...\" (specific achievement mentioned)"
+  }
+}

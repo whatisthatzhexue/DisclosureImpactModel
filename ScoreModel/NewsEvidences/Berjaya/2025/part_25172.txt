@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Bumi Armada has signed a non-binding memorandum of understanding (MoU) with MISC to explore the possibility of merging with the latter’s offshore business through an all-share transaction.\" (specific, verifiable corporate action)\n• Evidence 2: \"BFood reported a net loss of RM33.7mil in the first quarter ended Sept 30, from a net profit of RM19.03mil a year ago.\" (direct financial data with clear timeframe)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood’s revenue more than halved to RM124.2mil in the quarter under review, down from RM278.5mil, due to the ongoing boycott related to the conflict in the Middle East.\" (directly ties financial performance to strategic risk factor)\n• Evidence 2: \"Prolintas Infra Business Trust's net profit jumped 178.1% year-on-year... thanks to a jump in toll collection and tax credit.\" (shows market dynamics impacting strategic positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sunway REIT’s net profit for the third quarter (3Q 2024) dipped to RM89.14mil from RM91.97mil last year. Revenue rose 9.3% to RM192.14mil from RM175.83mil previously.\" (specific financial metrics with comparative data)\n• Evidence 2: \"Teo Seng’s net profit rose 32.4%... however, revenue was 4.8% lower...\" (provides contrasting performance indicators for analytical context)"
+  }
+}

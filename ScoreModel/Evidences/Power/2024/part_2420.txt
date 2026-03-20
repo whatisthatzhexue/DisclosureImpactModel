@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"There was no grant of new options during the financial year ended 31 March 2024\" (neutral, factual disclosure)\n• Evidence 2: \"The maximum number of ESOS Shares to be offered... shall not exceed ten percent (10%)\" (specific, objective limit stated)"
+    "justification": "• Evidence 1: \"There was no grant of new options during the financial year ended 31 March 2024\" (neutral, factual statement)\n• Evidence 2: \"The maximum number of ESOS Shares...shall not exceed ten percent (10%)...\" (specific regulatory compliance disclosure)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"No. Options Granted (No. of Options)\" (clear column labeling)\n• Evidence 2: \"the decision of the Option Committee shall be final...\" (precise but complex phrasing requiring interpretation)"
+    "score": 6,
+    "justification": "• Evidence 1: \"No. Options Outstanding (No. of Options)\" (repetitive headers complicate readability)\n• Evidence 2: \"t &NQMPZFFT4IBSF0QUJPO4DIFNFT(cont’d)\" (garbled text obstructs comprehension)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"the total number of new shares which may be issued... must not exceed 15%\" (material governance limitation)\n• Evidence 2: \"There was no grant of new options to Directors...\" (direct relevance to equity compensation structure)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The basis of allotment...shall be final...\" (corporate governance structure relevant to investors)\n• Evidence 2: \"the total number of new shares...must not exceed 15%...\" (material compliance limits for decision-making)"
   }
 }

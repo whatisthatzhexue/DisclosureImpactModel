@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Nomination Committee is of the view that with his extensive experience... contribute objectively in the Board’s overall management...\" (neutral, fact-based assessment)\n• Evidence 2: \"Following the enforcement of the Companies Act, 2016... no more age limit for a Director.\" (specific legal reference)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Nomination Committee is of the view that with his extensive experience... contribute objectively in the Board’s overall management...\" (neutral, fact-based assessment)\n• Evidence 2: \"Following the enforcement of the Companies Act, 2016... there is no more age limit for a Director.\" (specific legal reference)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Nomination Committee reviews annually... Corporate Governance Guide – Towards Boardroom Excellence.\" (clear process description)\n• Evidence 2: \"The Director who will retire by rotation... pursuant to Article 100...\" (logical structure with specific references)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Nomination Committee reviews annually... Corporate Governance Guide – Towards Boardroom Excellence.\" (clear process description)\n• Evidence 2: \"Mr Sydney Lawrance Quays was re-designated from an Executive Director to Chief Executive Officer...\" (precise role transition)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The Nomination Committee is also responsible for recommending... re-election/re-appointment.\" (directly relevant to governance structure)\n• Evidence 2: \"Following the enforcement of the Companies Act, 2016...\" (material legal change impacting governance)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Nomination Committee is also responsible for recommending... re-election/re-appointment.\" (directly addresses governance structure)\n• Evidence 2: \"The Director who will retire by rotation... pursuant to Article 100...\" (material governance information for investors)"
   }
 }

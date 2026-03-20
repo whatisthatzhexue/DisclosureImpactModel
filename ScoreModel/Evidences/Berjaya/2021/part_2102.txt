@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 10,
-    "justification": "• Evidence 1: \"BFood registered a revenue of RM717.34 million and pre-tax profit of RM74.73 million...\" (specific factual data)\n• Evidence 2: \"...coupled with lower operating costs which resulted from effective cost management initiatives...\" (neutral explanation of performance drivers)"
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood registered a revenue of RM717.34 million and pre-tax profit of RM74.73 million...pre-tax loss of RM8.48 million\" [specific factual comparison]\n• Evidence 2: \"lower operating costs which resulted from effective cost management initiatives...COVID-19 pandemic\" [causal explanation with contextual factors]"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"With the gradual easing of the lockdown measures...\" (clear cause-effect logic)\n• Evidence 2: \"...mitigated the impact of the COVID-19 pandemic\" (precise terminology for contextual explanation)"
+    "justification": "• Evidence 1: \"With the gradual easing of the lockdown measures...higher revenue recorded\" [clear cause-effect structure]\n• Evidence 2: \"effective cost management initiatives...mitigated the impact of the COVID-19 pandemic\" [precise terminology without unnecessary complexity]"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The higher pre-tax profit was in tandem with the higher revenue...\" (explains performance changes)\n• Evidence 2: \"...mitigated the impact of the COVID-19 pandemic\" (includes material risk context)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The higher pre-tax profit was in tandem with the higher revenue...coupled with lower operating costs\" [explains performance changes]\n• Evidence 2: \"the impact of the COVID-19 pandemic\" [mentions material event but lacks forward-looking information or risk disclosures]"
   }
 }

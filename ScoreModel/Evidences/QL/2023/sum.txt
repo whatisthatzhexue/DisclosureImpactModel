@@ -1,32 +1,16 @@
 {
-  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"There is a zero-tolerance stance on bribery and corruption.\" (Discloses risks and ethical standards)\n• Evidence 2: \"we have made progress and now apply 43 out of the total 48 MCCG recommendations\" (Provides specific, verifiable compliance data)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Our Board comprises six executive directors and seven independent non-executive directors, of which five are women.\" (Clear structure with specific numbers)\n• Evidence 2: \"The Board has also engaged independent experts to conduct an externally facilitated evaluation...\" (Precise language with actionable information)"
-  },
-  "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Our philosophy of creating value for all... is complemented by our emphasis on sustainability.\" (Relevant to stakeholder interests)\n• Evidence 2: \"The uncertain global economy is anticipated to linger...\" (Includes forward-looking context for governance decisions)"
-  }
-}
-
-{
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: 'Higher fuel cost' impact on MPM operations (exact quote: 'the impact of the changes in labour regulations which was compounded by the increase in the other input costs from higher fuel, electricity and ingredients')\n• Evidence 2: Disclosure of anti-bribery compliance ('Zero violation on Anti-Bribery Policy')"
+    "justification": "• Evidence 1: \"zero-tolerance stance on bribery and corruption\" (truthful, neutral)\n• Evidence 2: \"formalised our Directors’ Fit and Proper Policy, in accordance with Bursa Malaysia’s requirements\" (objective, specific facts)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: Structured sections with clear headings (e.g., 'Business Review', 'Financial Performance')\n• Evidence 2: Specific data points like '17.2% reduction in GHG intensity' provide concrete metrics"
+    "score": 9,
+    "justification": "• Evidence 1: \"39% female representation, above the 30% mandate\" (precise, direct)\n• Evidence 2: \"17.2% GHG intensity reduction against base year FY2020\" (clear structure with quantifiable metrics)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: Forward-looking statements about FY2024 outlook ('Overall, the MPM business pillar will face higher operational costs...')\n• Evidence 2: Risk disclosures related to climate factors ('El Niño phenomenon is developing...')"
+    "justification": "• Evidence 1: \"apply 43 out of the total 48 MCCG recommendations\" (relevant governance disclosure)\n• Evidence 2: \"formalised our Directors’ Fit and Proper Policy, in accordance with Bursa Malaysia’s requirements\" (material governance practice)"
   }
 }
 
@@ -34,14 +18,30 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: 'Number of Corruption and Bribery Cases Number 0 0 0' (neutral, factual disclosure of zero incidents)\n• Evidence 2: 'Occupational Safety & Health Fatality Case 1 0 1' (specific, objective data on safety incidents)"
+    "justification": "• Evidence 1: 'The outlook for POCE is projected to be negative.' (Discloses a clear risk)\n• Evidence 2: 'We experienced high turnover in the workforce... maintaining the expected quality of service was a challenge.' (Acknowledges operational challenges)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: 'PERFORMANCE DATA TABLE' with clear metrics (energy consumption, emissions, etc.)\n• Evidence 2: 'Total Training Hours Hours 52,937 106,490 179,037' (precise numerical presentation)"
+    "justification": "• Evidence 1: 'Revenue increased 35.2% to RM861.02 million while PBT grew marginally at 1.7% to RM43.75 million.' (Clear numerical presentation)\n• Evidence 2: 'The World Meteorological Organization updated that the El Niño phenomenon is developing...' (Direct explanation of climate impact)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Financial Performance: The MPM business pillar performance recovered, with YoY revenue rising 15.2% to RM1.34 billion...' (Material financial data for investors)\n• Evidence 2: 'The outlook for POCE is projected to be negative.' (Forward-looking risk disclosure)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Number of Corruption and Bribery Cases Number 0 0 0' (neutral disclosure of zero incidents)\n• Evidence 2: 'Non-Compliance Case 3 1 7' (specific, factual reporting of non-compliance incidents)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Energy Consumption Intensity GJ/RM mil Revenue 350.38 255.66 355.29' (clear metric presentation with units)\n• Evidence 2: 'Total Training Hours Hours 52,937 106,490 179,037' (direct, numerical reporting with consistent formatting)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: 'Direct Economic Value Generated Sale of Goods RM’000 4,308,421 4,968,001 5,935,525' (financial performance relevant to investors)\n• Evidence 2: 'Occupational Safety & Health Fatality Case 1 0 1' (risk disclosure relevant to stakeholder concerns)"
+    "justification": "• Evidence 1: 'Economic Value Distributed RM’000 4,141,086 5,106,176 6,072,781' (financial performance data relevant to investors)\n• Evidence 2: 'Number of Substantiated Complaints Concerning Harassment Case 4 2 2' (material event disclosure related to governance)"
   }
 }

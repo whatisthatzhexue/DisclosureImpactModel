@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'RM5,549.50 worth of groceries and distributing 55 care packs to underprivileged communities' (specific financial figures and outcomes)\n• Evidence 2: 'The presence of three (3) Independent Non-Executive Directors is sufficient to provide the required checks and balances' (objective governance statement)"
+    "score": 7,
+    "justification": "• Evidence 1: \"collected from their central kitchen to NGOs, including Pertubuhan Kesihatan dan Kebajikan Umum Malaysia, Peace Education Centre, and Hiichiikok Home for Children Care.\"\n• Evidence 2: \"RM5,549.50 worth of groceries and distributing 55 care packs to underprivileged communities in Kajang.\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'The event attracted 800 participants of all ages and included various distances and categories' (clear, direct description of event impact)\n• Evidence 2: 'The Board has delegated the day-to-day management... to the CEO' (precise explanation of governance structure)"
+    "score": 8,
+    "justification": "• Evidence 1: \"collected from their central kitchen to NGOs, including...\"\n• Evidence 2: \"distributing 55 care packs to underprivileged communities in Kajang.\""
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: 'Sustainability Strategies... to achieve a long-term sustainability balance between meeting its business goals' (links initiatives to business objectives)\n• Evidence 2: 'The Company Secretaries play an important role in facilitating compliance with the Companies Act 2016' (mentions governance relevance)"
+    "justification": "• Evidence 1: \"collaborated with The Lost Food Project\"\n• Evidence 2: \"Zero Hunger Programme\""
   }
 }

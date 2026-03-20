@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Obtained external assurance on selected Environment and Social disclosures from Lloyd’s Register Quality Assurance' (specific fact and third-party validation)\n• Evidence 2: 'Achieved 5 of our Sustainability Targets for 2020 and made good progress on another 3' (quantifiable achievement without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Our Materiality Assessment, first carried out in 2017 and reviewed each year' (clear timeline and process)\n• Evidence 2: 'Lost time injury frequency rate (LTIFR) in 2020 is 1.97 per 1,000,000 hours worked' (precise metric with context)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Included in the FTSE4Good Bursa Malaysia Index for the second consecutive time, with higher rating for our ESG practices' (investor-relevant benchmarking)\n• Evidence 2: 'Our response to COVID-19... includes ensuring the wellbeing of our people is our top priority' (material event and risk management)"
+  }
+}

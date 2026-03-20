@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"D’Pulze Shopping Centre generated a net property income (NPI) of RM22.8mil in its previous financial year, with a yield of 7.1%\" (specific verifiable data).\n• Evidence 2: \"With its prime location in Cyberjaya and a robust tenancy profile...\" (direct quote from CEO, no apparent bias)."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"this asset is poised to contribute significantly to our income generation and further support our commitment to deliver consistent returns to our unitholders\" (direct link to stakeholder value).\n• Evidence 2: \"reinforcing our strategic focus on sustainable and long-term growth\" (explicit connection to corporate strategy)."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"D’Pulze Shopping Centre, a fully occupied seven-storey retail asset...has a lettable area of 311,499 sq ft\" (specific quantitative details).\n• Evidence 2: \"boost the group’s total net lettable area by about 15% to over 2.4 million sq ft\" (contextual impact analysis)."
+  }
+}

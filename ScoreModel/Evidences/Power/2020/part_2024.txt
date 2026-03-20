@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"the Group’s risk management and internal control system have operated adequately and effectively, in all material aspects, to meet the Group’s objectives\" (neutral, objective assessment).\n• Evidence 2: \"nothing has come to their attention that cause them to believe that the statement... is factually inaccurate\" (external auditor confirmation)."
+    "justification": "• Evidence 1: \"the Group’s risk management and internal control system have operated adequately and effectively, in all material aspects, to meet the Group’s objectives\" (neutral, objective assessment).\n• Evidence 2: \"nothing has come to their attention that cause them to believe that the statement... is factually inaccurate\" (external auditor confirmation of factual accuracy)."
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"the Board is of the view that the risk management and internal control systems are operating satisfactorily\" (clear conclusion).\n• Evidence 2: \"the external auditors have reviewed this Statement... pursuant to the scope set out in the Audit and Assurance Practice Guide\" (precise procedural explanation)."
+    "score": 7,
+    "justification": "• Evidence 1: \"the Board is of the view that the risk management and internal control systems are operating satisfactorily\" (clear, direct language).\n• Evidence 2: \"AAPG 3 does not require...\" (precise explanation of audit scope, though slightly technical)."
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"the Board continues to take pertinent measures to review and, where necessary, improve the Group’s risk management and internal control systems\" (forward-looking action plan).\n• Evidence 2: \"no material losses, contingencies or uncertainties... would require disclosure\" (directly addresses investor concerns about risks)."
+    "justification": "• Evidence 1: \"the Board continues to take pertinent measures to review and, where necessary, improve the Group’s risk management and internal control systems\" (forward-looking, relevant to investor concerns).\n• Evidence 2: \"the Board is committed towards maintaining a sound system of internal control\" (relevance to corporate governance, but lacks specific risk disclosures)."
   }
 }

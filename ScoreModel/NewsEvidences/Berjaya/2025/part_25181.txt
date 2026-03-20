@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"According to Myanmar's Ministry of Commerce, the shift to online shopping...has been growing increasingly in the post-Covid-19 period.\" (verifiable data from a government source)\n• Evidence 2: \"The official added that the ministry has also established laws and policies...\" (cites government actions with specific details)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or its business activities.\n• Evidence 2: The content focuses on Myanmar's e-commerce growth, which is unrelated to the company's strategic direction or financial performance."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"From October last year to October this year, Myanmar's Ministry of Commerce already issued approximately 8,891 online registration certificates...\" (specific data supporting claims)\n• Evidence 2: The article provides contextual background on post-Covid-19 trends, consumer behavior, and government initiatives, with multiple perspectives from individuals and officials."
+  }
+}

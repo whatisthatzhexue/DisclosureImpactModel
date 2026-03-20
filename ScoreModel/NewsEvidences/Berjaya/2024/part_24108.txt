@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We know how to educate second-class robots...\" (direct quote from OECD director Schleicher)\n• Evidence 2: \"The Trust Schools Programme...\" (specific program name and implementation details cited)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Calls for edu reforms in M’sia\" (general discussion of education policy, no mention of Berjaya Food)\n• Evidence 2: \"Malaysia Education Blueprint (MEB) 2013-2025\" (policy framework unrelated to company operations)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In the era of generative artificial intelligence (AI)...\" (detailed analysis of AI's educational impact)\n• Evidence 2: \"Replicate trust school model...\" (comprehensive explanation of specific educational initiatives)"
+  }
+}

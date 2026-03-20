@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "The majority of scoring results (5 out of 8) awarded 9, citing strong compliance with governance standards (e.g., disclosure of MCCG practices, risk disclosures), specific financial facts (e.g., PBT figures, cost spikes), and transparent reporting of processes (e.g., poll voting verification). Lower scores (8) were due to slightly less detailed risk explanations, but overall, the report consistently demonstrates high reliability through factual clarity and accountability."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "Scores ranged from 7 to 9, with 8 being the median. Higher scores (9) were justified by forward-looking information (e.g., FY2023 performance outlook) and material risk disclosures (e.g., supply chain disruptions, geopolitical impacts). Lower scores (7) reflected less detailed forward-looking analysis, but the report generally aligns with investor needs by addressing material risks and strategic priorities. Compromised to 8 to balance depth and consistency across scoring results."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "Scores varied between 7 and 9, with 8 as the average. High scores (9) were attributed to clear structure (bullet points, section headings) and direct language (e.g., \"clear cause-effect explanations\"). Lower scores (7) stemmed from technical jargon (e.g., PBT, GRI Standards) requiring prior knowledge. The report is generally understandable but could improve clarity by simplifying complex terms without sacrificing precision."
+  }
+}

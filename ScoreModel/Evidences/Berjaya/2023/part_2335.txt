@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"nothing has come to their attention that causes them to believe the SRMIC intended to be included in the Annual Report is not prepared, in all material respects, in accordance with the disclosures required by paragraphs 41 and 42 of the SRMIC: Guidelines for Directors of Listed Issuers\".\n• Evidence 2: \"the SRMIC is not factually inaccurate\"."
+    "score": 7,
+    "justification": "• Evidence 1: \"nothing has come to their attention that causes them to believe the SRMIC intended to be included in the Annual Report is not prepared, in all material respects, in accordance with the disclosures required by paragraphs 41 and 42 of the SRMIC: Guidelines for Directors of Listed Issuers, nor is the SRMIC factually inaccurate.\"\n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group’s Annual Report.\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The external auditors have performed limited assurance procedures... for the year ended 30 June 2023\" (clear temporal context).\n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses...\" (direct, concise statement)."
+    "justification": "• Evidence 1: \"The external auditors have performed limited assurance procedures on the Statement on Risk Management and Internal Control... pursuant to the scope set out in Audit and Assurance Practice Guide (\"AAPG\" 3)\".\n• Evidence 2: \"The Board remains committed towards operating a sound system of internal control... to further enhance the Group’s system of internal control.\""
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"The Board remains committed towards operating a sound system of internal control...\" (forward-looking governance commitment).\n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses...\" (materiality disclosure)."
+    "score": 6,
+    "justification": "• Evidence 1: \"The report from the external auditors was made solely to the Board in connection with their compliance with the Listing Requirements of Bursa Malaysia\".\n• Evidence 2: \"The Board, in striving for continuous improvement will put in place appropriate action plans... to further enhance the Group’s system of internal control.\""
   }
 }

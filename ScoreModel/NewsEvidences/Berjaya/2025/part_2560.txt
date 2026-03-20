@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"posted a wider net loss of RM37.2mil, compared to RM29.8mil in the same period last year\" (specific financial data with verifiable figures).\n• Evidence 2: \"lower revenue was mainly due to a reduced number of stores in operation\" (clear explanation for financial decline, though no external sources cited)."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"remains committed to growth and diversification by expanding its brand portfolio and exploring both local and international markets\" (direct link to strategic direction and long-term value creation).\n• Evidence 2: \"significant efforts are underway to reposition the business for greater resilience\" (connects to competitive positioning and stakeholder significance)."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"sixth straight quarterly loss\" and \"revenue fell to RM113.6mil, down from RM138.6mil a year ago\" (quantitative context but lacks qualitative analysis of trends).\n• Evidence 2: \"challenges faced at Starbucks\" (surface-level mention of competitive context without deeper market impact analysis)."
+  }
+}

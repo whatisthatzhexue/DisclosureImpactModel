@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"from January to March, a total of 51,638 cases were referred to online platform providers for further action\" (verifiable data).\n• Evidence 2: \"This number is high compared to 42,904 cases recorded for the whole of 2023\" (specific, factual comparison)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article focuses on social media regulation and platform compliance, with no mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: No direct connection to the company's strategic direction, financial performance, or stakeholder interests."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"TikTok and Meta were asked to provide a comprehensive improvement and strategy plan... to deal with such content effectively\" (detailed context on regulatory actions).\n• Evidence 2: \"We also revisited the efficiency of the (platforms' respective) artificial intelligence algorithm... to detect 3R content, CIB and other harmful content\" (specific technical and operational details)."
+  }
+}

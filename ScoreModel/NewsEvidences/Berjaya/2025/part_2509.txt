@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Six of the newly identified locations are in Dengkil...\" (specific, verifiable data)\n• Evidence 2: \"We have confiscated 50 lorries and issued 70 compounds...\" (quantifiable actions with clear citations)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The article contains no direct mention of Berjaya Food Berhad or its operations, focusing instead on municipal waste management efforts unrelated to the company's business activities.\n• Evidence 2: \"No financial implications, market impact, or strategic initiatives of Berjaya Food Berhad are discussed.\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Seven closed-circuit television (CCTV) cameras...\" (detailed implementation of monitoring systems)\n• Evidence 2: \"Several rezoning proposals have been included in the draft plan...\" (contextual background on long-term urban planning initiatives)"
+  }
+}

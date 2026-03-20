@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Changes such as excessive rainfall, prolonged drought and scorching temperatures affect the environment and our operations. QL vigilantly monitors global weather patterns and proactively adopt mitigative measures.\" (discloses risks and specific actions)\n• Evidence 2: \"Fluctuating cost of raw materials, biosecurity threats and eggs over-supply are the challenges in the ILF business.\" (acknowledges challenges with specific facts)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources Berhad (428915-X) Annual Report 2019\" (clearly identifies the report and entity)\n• Evidence 2: \"The moderated consumer confidence paradoxically juxtapose with consumer spending in Malaysia which is on an upward projection\" (precise language with logical structure)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The World Bank sees slowing global growth... projected to be at a meagre 2.6% this year\" (forward-looking economic data relevant to investors)\n• Evidence 2: \"QL is optimistic of reaping returns from our investment strategy\" (links corporate strategy to financial performance)"
+  }
+}

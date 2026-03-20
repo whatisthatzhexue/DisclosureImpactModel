@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8.5,
-    "justification": "The majority of scoring results (8, 9, 7, 8, 9) highlight strong adherence to governance standards, specific policy references (e.g., Malaysian Code on Corporate Governance 2017, COSO framework), and objective disclosures about internal controls and risk management. The lowest score (6) is due to repetitive information and obscure phrasing (e.g., \"Raising Defences: Section 17A, MACC Act\"), but this is an outlier. Compromised score of 8.5 reflects high reliability with minor inconsistencies."
+    "score": 8.0,
+    "justification": "The final score of 8.0 is derived from a balance of strong and moderate evidence. Higher scores (e.g., 9 and 8) highlight compliance with governance frameworks (e.g., Malaysian Code on Corporate Governance 2017, COSO ERM), specific disclosures (e.g., anti-bribery policies, internal control adequacy), and acknowledgment of limitations (e.g., \"internal controls can only provide reasonable assurance\"). Lower scores (e.g., 5 and 6) reflect gaps in risk disclosure and overstatement of internal control effectiveness. However, the majority of evidence supports robust reliability, warranting a high score."
   },
   "Relevance": {
-    "score": 8,
-    "justification": "Scores of 9, 8, and 7 emphasize direct links to investor concerns (e.g., governance structure, risk disclosures, stakeholder engagement) and material governance insights. Lower scores (5, 6) mention relevant topics like executive compensation but lack specific material event disclosures. The final score of 8 balances strong relevance for investors with gaps in detailed event-specific information."
+    "score": 7.5,
+    "justification": "The score of 7.5 reflects a mix of strong and moderate relevance. Higher scores (e.g., 9 and 8) emphasize direct ties to investor decision-making (e.g., material event disclosures, governance structure). Lower scores (e.g., 6) note insufficient forward-looking information or explanations for performance changes. While the report addresses material governance and risk factors, the lack of strategic context or stakeholder impact analysis slightly reduces the overall relevance score."
   },
   "Understandability": {
-    "score": 7,
-    "justification": "Scores of 7, 8, and 7 reflect clear structure (e.g., tabular data, bullet points) and precise language (e.g., \"Risk factors are incorporated into the risk register\"). The lowest score (4) is due to repetitive, unclear phrasing (e.g., \"Key Amendments... repeated multiple times\"). The final score of 7 acknowledges strong clarity in most sections while addressing the outlier’s issues."
+    "score": 7.5,
+    "justification": "A score of 7.5 is justified by the presence of clear structural elements (e.g., remuneration tables, role definitions) and precise language in some sections. However, inconsistencies arise from repetitive phrasing, unexplained acronyms (e.g., MCCG), and poor navigation (e.g., references to external reports without context). The high scores (e.g., 9 and 8) for structured disclosures offset the lower scores (e.g., 5), resulting in a balanced, mid-range score."
   }
 }

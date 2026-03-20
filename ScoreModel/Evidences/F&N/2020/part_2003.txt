@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"despite the inevitable delays caused by movement restrictions\" (acknowledges challenges)\n• Evidence 2: \"completed three significant capex projects during the year\" (specific factual disclosure)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Despite the inevitable delays caused by movement restrictions, we completed three significant capex projects during the year.\" (acknowledges challenges)\n• Evidence 2: \"The 30 million Baht solar roof... has reduced the plant’s energy offtake... lowering both our energy cost as well as our carbon footprint.\" (specific factual claims)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"RM182 million integrated warehouse...ASRS\" (clear numerical and technical specifics)\n• Evidence 2: \"25,000 cases per month compared to 5,000 cases at launch\" (precise performance metrics)"
+    "justification": "• Evidence 1: \"We completed three significant capex projects during the year.\" (clear, concise statement)\n• Evidence 2: \"F&N Life now offers no less than 250 product types while achieving more than 20,000 user downloads in less than a year.\" (precise numerical data)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"expected to be completed in FY2021\" (forward-looking project timelines)\n• Evidence 2: \"muted demand from general trade and foodservice channel\" (market condition disclosure)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Two other capex projects are still ongoing and expected to be completed in FY2021...\" (forward-looking information)\n• Evidence 2: \"We are No.1 in the carbonated soft drink, tea and canned milk segments.\" (performance metrics relevant to investors)"
   }
 }

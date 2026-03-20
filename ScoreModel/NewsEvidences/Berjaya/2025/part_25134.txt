@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The pursuit of knowledge is not confined to classrooms; it is a lifelong journey.\" (verifiable quote from chancellor)\n• Evidence 2: \"With over 33 years of academic experience, Siti Hawa has published over 175 technical papers...\" (specific, verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or any business-related activities\" (complete absence of company context)\n• Evidence 2: \"Focus on academic convocation details unrelated to corporate strategy or financial performance\" (no connection to stakeholder interests)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Honorary Professor of Occupational Safety and Health on Mohd Hatta Zakaria... dedicated over 30 years to public service\" (comprehensive biographical details)\n• Evidence 2: \"Siti Hawa... authored 15 books and examined more than 75 Professional Engineer candidates\" (quantitative evidence supporting claims)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Expenses for food and beverages and telecommunications have not increased and remain at 6%\" [verifiable tax policy details]\n• Evidence 2: \"We need 25,000 workers in cybersecurity by 2025\" [specific, time-bound target]"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its operations\n• Evidence 2: General economic policy discussion lacks specific connection to food/beverage industry or company strategy"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The scope of service tax is narrow, affecting only 41% of the total array of services\" [quantitative context]\n• Evidence 2: \"Malaysia has reached 80.3% coverage in populated areas\" [specific data on infrastructure]"
+  }
+}

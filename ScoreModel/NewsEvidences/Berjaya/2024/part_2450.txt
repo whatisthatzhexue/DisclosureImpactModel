@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Both said that they did not know why they had been summoned but would cooperate.\" (direct quote from subjects)\n• Evidence 2: \"According to MCMC officers there, it is estimated that the statement recording session will last around two hours.\" (third-party source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The text contains no mention of Berjaya Food Berhad or any business operations, financial performance, or strategic initiatives related to the company.\" (implicit absence of direct company reference)\n• Evidence 2: \"The article focuses on political figures and regulatory actions unrelated to food and beverage industry dynamics.\" (lack of connection to company's strategic context)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"On Tuesday (April 16) at Bukit Aman, both Badrul and Mohamad Salim were visited by a group who they claimed were from the MCMC.\" (provides temporal and contextual background)\n• Evidence 2: \"This is no longer intimidation but an abuse of power.\" (includes perspective from subject but lacks analytical depth)"
+  }
+}

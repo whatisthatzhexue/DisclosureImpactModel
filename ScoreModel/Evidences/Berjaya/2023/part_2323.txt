@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Group also intensifies its climate action initiatives through proactive waste reduction and management.\" (specific factual claim about initiatives)\n• Evidence 2: \"BRoasters collaborates with a licensed third-party vendor to repurpose its cooking oil into biodiesel.\" (third-party validation of program)"
+    "justification": "• Evidence 1: \"The Group also intensifies its climate action initiatives through proactive waste reduction and management.\"\n• Evidence 2: \"Food waste in landfills produces a large amount of greenhouse gas.\""
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood prioritises resource efficiency, particularly in water and energy usage.\" (clear topic statement)\n• Evidence 2: \"For every pouch purchased, RM1 will be channelled to YWCA KL\" (specific, measurable outcome)"
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood prioritises resource efficiency, particularly in water and energy usage.\"\n• Evidence 2: \"BRoasters collaborates with a licensed third-party vendor to repurpose its cooking oil into biodiesel.\""
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"BFood upholds a stringent policy promoting efficient and responsible water usage\" (operational relevance for investors)\n• Evidence 2: \"Starbucks Sustainable Tumbler, which uses 30% less plastic\" (forward-looking product innovation)"
+    "justification": "• Evidence 1: \"BRoasters employees with the children from Pusat Jagaan Nurul Hasanah, in conjunction of the Hari Raya festivities.\"\n• Evidence 2: \"For every pouch purchased, RM1 will be channelled to YWCA KL to support its Vocational Training Opportunity Centre.\""
   }
 }

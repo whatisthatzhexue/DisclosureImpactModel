@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"We have established and made public on our website, an Anti-Bribery Policy (ABP) and also updated our Whistle-Blowing Policy.\" (Discloses governance mechanisms)\n• Evidence 2: \"QL continues its annual reviews of practices with reference to the Malaysian Code on Corporate Governance 2017.\" (Supports claims with specific regulatory references)"
+    "justification": "• Evidence 1: \"QL continues its annual reviews of practices with reference to the Malaysian Code on Corporate Governance 2017.\" (Quotes specific governance frameworks)\n• Evidence 2: \"We have established and made public on our website, an Anti-Bribery Policy (ABP) and also updated our Whistle-Blowing Policy.\" (Discloses policies with verifiable details)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Our corporate governance is underscored by our commitment to our mission of providing nourishing products from agro resources...\" (Clear connection between governance and business purpose)\n• Evidence 2: \"The Group has made some changes to improve on our safety performance reporting.\" (Precise language about operational improvements)"
+    "justification": "• Evidence 1: \"QL's regional footprint beyond Malaysia is in Indonesia and Vietnam, two of the most populated countries in Southeast Asia.\" (Clear geographic context)\n• Evidence 2: \"The Group has a human rights and fair labour policy that respects the rights and dignity of all people.\" (Direct statement of policy without excessive jargon)"
   },
   "Relevance": {
     "score": 9,
-    "justification": "• Evidence 1: \"FY2020 saw our Senior Independent Non-Executive Director... retiring after serving QL faithfully...\" (Provides governance structure details relevant to investors)\n• Evidence 2: \"The Group has made some changes to improve on our safety performance reporting...\" (Includes operational risk management relevant to decision-making)"
+    "justification": "• Evidence 1: \"We have a comprehensive evaluation of the Board was conducted in accordance to practising good corporate governance.\" (Directly addresses governance structure)\n• Evidence 2: \"The pandemic's impact on operations and supply chains is discussed with specific financial metrics (e.g., RM500,000 donation to COVID-19 fund).\" (Material events impacting stakeholders)"
   }
 }

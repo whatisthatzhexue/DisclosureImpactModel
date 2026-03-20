@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "The final score of 8 reflects a strong overall reliability, supported by multiple entries with high scores (8-9) citing specific factual data (e.g., 'revenue impacted by COVID-19'), risk disclosures, and compliance with accounting standards. Lower scores (1-4) were due to poor data disclosure or lack of factual statements, but these are outliers. The majority of entries demonstrated clear, objective information, ensuring credibility and transparency."
+    "score": 8.2,
+    "justification": "The final score of 8.2 reflects a strong foundation in reliability, supported by multiple high-scoring entries (e.g., disclosures of pandemic impacts, specific financial data, and external verification). These justify the high reliability through factual accuracy and transparency. Lower scores (e.g., 2, 3) cited lack of risk disclosure or typos, but these were outliers. The majority of evidence (e.g., 'loss before tax of RM8.5 million' or 'external auditors confirmed compliance') aligns with high reliability standards, balancing detailed disclosures with neutral language."
   },
   "Relevance": {
-    "score": 7,
-    "justification": "A score of 7 balances the presence of high-quality entries (7-8) that included material events, forward-looking information, and strategic insights (e.g., 'impact of MFRS 16 adoption'), with lower scores (1-3) for missing key relevance elements like risk disclosures or performance analysis. The final score reflects the predominance of investor-focused content while acknowledging gaps in some reports."
+    "score": 6.8,
+    "justification": "The score of 6.8 balances material event disclosures (e.g., pandemic impacts, store closures, and strategic initiatives) with gaps in forward-looking information. Higher scores (e.g., 7-8) included explanations for performance changes and investor-relevant strategic plans, while lower scores (e.g., 1-2) lacked forward-looking content or risk analysis. The majority of evidence (e.g., 'revenue decline due to MCO' or 'plans to open 18 new stores') demonstrates relevance to investors, though some sections (e.g., corporate structure lists) were deemed insufficiently material."
   },
   "Understandability": {
-    "score": 7,
-    "justification": "The score of 7 acknowledges the majority of entries (7-8) with clear, structured language and precise numerical data (e.g., 'RM7.10 million dividend'), while lower scores (2-5) stemmed from poor formatting, ambiguous phrasing, or lack of contextual explanation. The final score emphasizes the overall clarity of most disclosures, despite some inconsistencies in presentation."
+    "score": 8.1,
+    "justification": "The score of 8.1 reflects clear numerical data (e.g., 'RM632.94 million revenue') and structured explanations (e.g., 'Store Location by Region' breakdowns). Higher scores (e.g., 9) praised precise language and logical flow, while lower scores (e.g., 4-5) cited typos or unclear phrases like 'Signing Store.' The majority of evidence (e.g., 'precise numerical disclosure' or 'tabular format for stakeholder groups') supports high understandability, with minor compromises for formatting inconsistencies in some reports."
   }
 }

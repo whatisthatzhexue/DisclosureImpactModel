@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The final score of 8.5 is derived from the majority of scoring results (8-9) which demonstrate strong reliability through specific factual data (e.g., compliance with financial reporting standards, dividend links to performance), clear disclosures (e.g., audit committee evaluations, risk management frameworks), and neutral, factual language. Lower scores (e.g., 4) are outliers due to vague statements and lack of risk disclosure, but these are exceptions. The high-quality evidence from most scoring results justifies a high reliability score."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "The final score of 7.5 reflects the balance between strong relevance (e.g., material risk disclosures, forward-looking commitments to investors, ESG oversight) and weaker elements (e.g., some scoring results with low relevance scores due to minimal connection to investor decision-making or materiality). The majority of scoring results highlight direct relevance to stakeholders, while the 3 and 6 scores are exceptions due to insufficient linkage to investor concerns or contextual gaps."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "The final score of 8 is based on consistent high-quality understandability across most scoring results (7-9), which include clear, direct language (e.g., structured headings, precise terminology), logical organization of information (e.g., risk categories, governance frameworks), and minimal ambiguity. Lower scores (e.g., 5) are due to occasional vague phrasing or lack of context, but these are exceptions. The overall clarity and structured explanations in most sections justify a high understandability score."
+  }
+}

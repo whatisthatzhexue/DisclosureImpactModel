@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The majority of scoring results (e.g., 9, 8, 7) highlight strong reliability through specific factual disclosures (e.g., \"Zero violation of Anti-Bribery Policy\"), transparent compliance statements, and verification processes (e.g., audit committee oversight). However, two extreme low scores (0 and 2) cite a lack of risk disclosure or factual analysis, which are outliers. The high scores reflect robust reliability via objective data and governance mechanisms, while the low scores represent exceptional deficiencies. A compromised score of 8.5 balances these extremes, emphasizing the report’s overall reliability."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "Most scoring results (e.g., 9, 8, 7) emphasize relevance through investor-focused metrics (e.g., \"Benefited 176 organisations...\"), forward-looking risk assessments, and governance-linked disclosures (e.g., \"Board oversees sustainability risks\"). However, two low scores (0, 2) note a lack of material event disclosures or investor insights. The high scores demonstrate alignment with investor priorities, while the low scores highlight gaps. An 8 reflects the report’s strong relevance in most areas, with room for improvement in addressing all material risks."
+  },
+  "Understandability": {
+    "score": 8.5,
+    "justification": "The majority of scoring results (e.g., 9, 8, 7) praise clear structure (e.g., tabular formats, bullet points), precise language (e.g., \"QL Materiality Matrix\"), and logical flow. However, two low scores (0, 2) cite overly simplistic or non-existent structure (e.g., only page headers). The high scores indicate effective communication of complex information, while the low scores reflect exceptional poor clarity. An 8.5 captures the report’s generally strong understandability, with notable exceptions in some sections."
+  }
+}

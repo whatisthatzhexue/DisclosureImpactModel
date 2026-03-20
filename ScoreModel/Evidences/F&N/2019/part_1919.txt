@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Restated for adjustments pursuant to the adoption of MFRS 15, Revenue from Contracts with Customers. Comparatives for financial years prior to 2018 have not been restated.\"\n• Evidence 2: \"Included proposed dividend of 33.0 sen, which will only be recognised in the financial statements upon shareholders’ approval.\""
+    "justification": "• Evidence 1: \"(i) Restated for adjustments pursuant to the adoption of MFRS 15, Revenue from Contracts with Customers. Comparatives for financial years prior to 2018 have not been restated.\"\n• Evidence 2: \"(ii) Included proposed dividend of 33.0 sen, which will only be recognised in the financial statements upon shareholders’ approval.\"\n• Evidence 3: \"Notes: (i) Comprise deferred tax assets, current tax assets and derivative financial assets. (ii) Comprise employee benefits, deferred tax liabilities, current tax liabilities and derivative financial liabilities.\""
   },
   "Understandability": {
     "score": 6,
-    "justification": "• Evidence 1: \"5-YEAR GROUP FINANCIAL HIGHLIGHTS\" section with numerical data but lacks contextual explanation for percentage changes.\n• Evidence 2: Repetitive formatting of financial figures across multiple sections without clear headings or subheadings."
+    "justification": "• Evidence 1: \"5-YEAR GROUP FINANCIAL HIGHLIGHTS\" section with clear headings and numerical data.\n• Evidence 2: \"GROUP SEGMENTAL ANALYSIS\" with percentages and geographical/business segment breakdowns.\n• Evidence 3: Repeated formatting of financial figures across multiple sections without clear contextual explanations."
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"GROUP SEGMENTAL ANALYSIS\" provides geographical/business segment revenue breakdowns relevant to investors.\n• Evidence 2: \"I. BOARD RESPONSIBILITIES\" section includes corporate governance practices and risk management frameworks."
+    "justification": "• Evidence 1: \"performance review > 5-YEAR GROUP FINANCIAL HIGHLIGHTS\" provides historical performance metrics.\n• Evidence 2: \"PROFIT FOR THE YEAR (RM million) +6.1%\" shows growth trends.\n• Evidence 3: \"Corporate Governance Report 2019\" section addresses governance practices relevant to investors."
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article defines the M40 group with specific income ranges (RM5,251 to RM11,819) and cites government initiatives like Padu, which are verifiable facts.\n• Evidence 2: Quotes from individuals like Gangeshwaran and Rozaidi provide firsthand accounts, and the article acknowledges differing perspectives (e.g., experts criticizing Padu's limitations)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article discusses economic pressures on the M40 group, which could indirectly impact consumer spending for food and beverage companies like Berjaya Food Berhad.\n• Evidence 2: No direct mention of Berjaya Food Berhad or its business strategies, financial performance, or market position is present."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides detailed narratives of four households, including specific expenses (e.g., RM60 electricity bill, RM400 diesel cost) and contextual factors like SST tax changes and housing market trends.\n• Evidence 2: It includes data on household income ranges, government policies, and expert opinions, offering comprehensive analysis of the M40 group's financial challenges."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"China has been Malaysia's largest trading partner for 16 consecutive years since 2009.\"\n• Evidence 2: \"In 2024, total trade between the two countries was valued at RM484.12bil, accounting for 16.8 per cent of Malaysia's global trade of RM2.88 trillion.\"\n• Evidence 3: The article cites Bernama as the source and provides verifiable data points (dates, trade figures) without bias or fabrication."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no direct mention of Berjaya Food Berhad or its operations.\n• Evidence 2: While it discusses Malaysia-China trade relations (which could indirectly impact a food company), there is no explicit connection to Berjaya's strategic direction, competitive position, or financial performance."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The visit was part of the Chinese President's three-nation tour of Southeast Asia, which had taken him to Vietnam earlier. It is his first series of state visits this year.\"\n• Evidence 2: \"Malaysia and China established diplomatic relations on May 31, 1974, and commemorated the 50th anniversary of this milestone last year.\"\n• Evidence 3: Detailed context on trade figures (RM484.12bil), historical relations, and specific events (state banquets, MoUs) are provided."
+  }
+}

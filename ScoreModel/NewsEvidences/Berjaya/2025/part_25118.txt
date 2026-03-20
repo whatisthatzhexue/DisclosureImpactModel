@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Over 50,000 responses were analysed, with the final winners endorsed by the Association of Accredited Advertising Agents Malaysia (4As) board of governors in October.\"\n• Evidence 2: \"The awards organising chairman and 4As senior adviser Datuk Johnny Mun highlighted the significance of consumer engagement.\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or its business activities, strategies, or financial performance.\"\n• Evidence 2: \"Focus on general brand awards without direct connection to the company's strategic direction or market position.\""
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Detailed description of the awards process, categories, and participation by organizations like 4As and SMG.\"\n• Evidence 2: \"Lack of specific data or context related to Berjaya Food Berhad's operations, market position, or stakeholder impact.\""
+  }
+}

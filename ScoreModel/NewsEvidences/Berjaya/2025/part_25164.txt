@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The great apes like the gorillas, orang utans and chimpanzees are all protected.\" (accurate factual statement about conservation status)\n• Evidence 2: \"All are categorised as endangered under the International Union for Conservation of Nature’s Red List of Threatened Species.\" (verifiable data from a credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Organised by Roots and Shoots Malaysia (Rasma) and co-organised by Berjaya Corporation Bhd...\" (mentions Berjaya Corporation Bhd, not Berjaya Food Berhad)\n• Evidence 2: \"The programme aims to upskill local communities...\" (no direct link to Berjaya Food Berhad's business strategy or financial performance)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"There are five species of gibbons in Malaysia...\" (comprehensive species listing with context)\n• Evidence 2: \"Through the SLAY programme...\" (detailed explanation of program objectives and collaboration structure)"
+  }
+}

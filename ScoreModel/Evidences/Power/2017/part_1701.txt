@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Weak consumer sentiment and margin pressure on raw materials did not deter us from thriving\" (acknowledges challenges while presenting positive outcomes)\n• Evidence 2: \"Profit After Tax (PAT) of approximately RM47.2 million\" (specific financial figures support factual claims)"
+    "justification": "• Evidence 1: \"Weak consumer sentiment and margin pressure on raw materials did not deter us from thriving\" (neutral tone with factual disclosure of challenges).\n• Evidence 2: \"Profit After Tax (PAT) of approximately RM47.2 million\" (specific financial data supporting performance claims)."
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Revenue (RM’million)\" chart and \"Dividend per share\" graph provide visual clarity (structured presentation)\n• Evidence 2: \"The Board comprises of seven (7) members\" (clear, direct language about governance structure)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Export sales grew from RM141.5 million to RM183.2 million\" (precise numerical data with clear context).\n• Evidence 2: \"Board Charter outlines duties and responsibilities of directors\" (structured explanation of governance framework)."
   },
   "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Export sales has shown a very encouraging rise from RM141.5 million to RM183.2 million\" (explains performance drivers)\n• Evidence 2: \"The Board is committed to ensure that good corporate governance practices are applied\" (includes governance-related information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Export growth... stemmed from the Middle East and North Africa (MENA) region\" (explains performance drivers).\n• Evidence 2: \"Competition is expected to remain intense...\" (includes forward-looking risk assessment)."
   }
 }

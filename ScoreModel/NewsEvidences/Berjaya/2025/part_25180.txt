@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Mah Sing said in a filing with Bursa Malaysia yesterday.\" (verifiable source cited)\n• Evidence 2: \"With 30 years of development experience, our track record for rapid execution further strengthens this collaboration,\" said the group." (direct quote from company statement)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The data centre is aimed at established artificial intelligence and hyperscale customers, with the first phase anticipated to be operational by 2026.\" (directly ties to strategic customer focus)\n• Evidence 2: \"This partnership is just the beginning of potential collaborations... demonstrating the group’s commitment to leveraging its assets for long-term growth.\" (explicitly links to strategic value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The land parcels measured 35.68 acres, and the development would be for 200 megawatt (MW) power capacity... total power capacity of the project will increase to 300MW.\" (specific quantitative details)\n• Evidence 2: \"Southville City, located approximately 20km apart from both Cyberjaya and Bukit Jalil... creating a robust triangle of data centre hubs for the Klang Valley region.\" (contextual geographic analysis)"
+  }
+}

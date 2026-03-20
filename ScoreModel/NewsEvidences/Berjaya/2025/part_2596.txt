@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Consumers have every right to speak up about misleading ads, especially when AI-generated photos are involved,\" she emphasises during an interview... (Nur Asyikin Aminuddin, Fomca).\n• Evidence 2: \"AI-generated images might not appeal to all consumers, but Ridoan sees them as a valuable tool for merchants,\" he explains... (Dr Ridoan Karim, Monash University Malaysia)."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"This could harm not only their trust in specific platforms or vendors but also affect the food delivery industry as a whole,\" Nur Asyikin states... (indirectly relevant to Berjaya's industry).\n• Evidence 2: \"BNPL services to spread their purchases into instalment plans,\" Nur Asyikin notes... (financial implications for consumer behavior)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The BNPL industry’s outstanding balance reached RM1.42bil in Q1 2024...\" (specific financial data).\n• Evidence 2: \"AI can serve as a great equaliser, enabling smaller businesses to stand out in a competitive market,\" Ridoan explains... (comprehensive analysis of AI's impact)."
+  }
+}

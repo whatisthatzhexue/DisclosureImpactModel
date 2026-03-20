@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"provide the ARMC with independent and objective reports on the state of the governance, risk management, and internal controls...\" \n• Evidence 2: \"The cost incurred for the Internal Audit function... was approximately RM241,144.\""
+    "justification": "• Evidence 1: \"provide the ARMC with independent and objective reports on the state of the governance, risk management, and internal controls...\" (neutral, objective language)\n• Evidence 2: \"weaknesses in the systems and controls to the ARMC\" (discloses risks without overstatement)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The activities of Internal Audit are guided by Internal Audit Charter and the Internal Audit Division adopts a risk-based approach...\" \n• Evidence 2: \"The directors are required by the Companies Act 2016 to prepare financial statements...\""
+    "justification": "• Evidence 1: \"The activities of Internal Audit are guided by Internal Audit Charter...\" (clear structure with direct explanation)\n• Evidence 2: \"cost incurred... RM241,144\" (precise numerical data presented clearly)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Conducted audit reviews and evaluated risk exposures relating to the Group’s governance process...\" \n• Evidence 2: \"The directors are responsible for ensuring that the Group and the Company keep proper accounting records...\""
+    "justification": "• Evidence 1: \"directors are required by the Companies Act 2016 to prepare financial statements...\" (relevant to investor decision-making)\n• Evidence 2: \"safeguard the assets... prevent and detect other irregularities\" (covers corporate governance and risk management)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Judge Diana Md Razali passed the sentence to the developer Monarch Lodge Development after the defence failed to raise reasonable doubt against the prosecution's case.\" (Verifiable court action)\n• Evidence 2: \"The Malaysian Communications and Multimedia Commission (MCMC) in a statement on Thursday (May 16) said...\" (Credible source cited with specific details)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad is a food and beverage company listed in Malaysia.\" (Company context provided, but article is about unrelated developer)\n• Evidence 2: \"The article contains no mention of Berjaya Food Berhad or its business activities, financials, or strategic initiatives.\" (No direct company connection)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The results of an investigation found that the damage...\" (Detailed cause and impact analysis)\n• Evidence 2: \"MCMC views this issue seriously...\" (Comprehensive context about regulatory guidelines and preventive measures)"
+  }
+}

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks has a 'Bring Your Own Tumbler' programme which rewards its customers with a RM2 discount... 803,217 customers\" (specific factual data)\n• Evidence 2: \"For the financial year ended 30 June 2021, 93% of Starbucks stores diverted 185,524kg of used coffee grounds...\" (quantifiable achievement)"
+    "justification": "• Evidence 1: \"BStarbucks has a 'Bring Your Own Tumbler' programme which rewards its customers with a RM2 discount... 803,217 customers brought their own Starbucks tumblers\" (specific factual data).\n• Evidence 2: \"For the financial year ended 30 June 2021, 93% of Starbucks stores diverted 185,524kg of used coffee grounds from the landfill\" (quantifiable, verifiable information)."
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The Grounds for Your Garden Programme provides complimentary 1kg bags of soil-enriching used coffee grounds...\" (clear purpose)\n• Evidence 2: \"FYE 2021 : 185,524 • FYE 2020 : 180,086\" (numeric comparisons, though repetitive)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Grounds for Your Garden Programme provides complimentary 1kg bags of soil-enriching used coffee grounds...\" (clear, direct explanation of program benefits).\n• Evidence 2: \"FYE 2021 : 185,524 • FYE 2020 : 180,086\" (consistent formatting for comparative data)."
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Starbucks operates nine Farmer Support Centers worldwide... improve their livelihoods\" (relevance to stakeholders)\n• Evidence 2: \"Due to COVID-19 restrictions... supporting the health and safety...\" (material event impact)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Starbucks employees (partners) mask-up adhering to the SOP\" (operational compliance detail, but not directly tied to investor decision-making).\n• Evidence 2: \"Due to COVID-19 restrictions... continue these efforts\" (contextualizes program adjustments, but lacks forward-looking financial or strategic information)."
   }
 }

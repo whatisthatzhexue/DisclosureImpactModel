@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Farhash brings with him more than a decade's worth of experience in the field of business, consultancy and advisory across construction, technology, hotel, food and beverage sectors.\" (verifiable professional background)\n• Evidence 2: \"He was also named Malaysia Outstanding National Entrepreneur Bumiputera in Business in 2018...\" (specific awards and citations from credible organizations like SEBA and TERAJU)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Farhash... has experience in the food and beverage sectors\" (potential relevance to Berjaya Food Berhad, though not explicitly tied to Key Alliance's strategy)\n• Evidence 2: \"He was an independent non-executive director of Bluemont Group Limited...\" (no direct connection to Key Alliance's strategic direction or financial implications)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Farhash received a Bachelor of Arts in Business Administration... and an Executive Certificate in Public Leadership from Harvard Kennedy School\" (comprehensive educational background)\n• Evidence 2: \"Farhash holds directorships in public companies and listed issuers...\" (detailed list of corporate affiliations and roles)"
+  }
+}

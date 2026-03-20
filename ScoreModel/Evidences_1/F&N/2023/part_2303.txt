@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee reports that there was no significant matter of disagreement between the auditors and Management.\"\n• Evidence 2: \"During the financial year 2023, the amount incurred in respect of non-audit services amounted to RM 426,207 (FY2022 RM 356,198)\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee continually evaluated the Group Internal Audit function to ensure its activities were performed independently and with impartiality and due professional care.\"\n• Evidence 2: \"The operational costs incurred by Group Internal Audit for the financial year 2023 amounted to about RM2.0 million (FY2022 was RM1.7 million)\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The related party transactions entered into by the Group were reviewed by the Audit Committee to ensure that they were conducted on the Group’s normal commercial terms...\"\n• Evidence 2: \"The Audit Committee also reviewed the declaration of interim dividend and recommendation of final dividend...\""
+  }
+}

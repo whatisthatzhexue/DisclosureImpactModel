@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Reviewed recurrent related party transactions of a revenue or trading nature... on normal commercial terms and within the mandate given by shareholders.\"\n• Evidence 2: \"The Board... provides reasonable assurance that risks are managed within tolerable ranges.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed recurrent related party transactions... undertaken on normal commercial terms\" (neutral, objective assessment of transactions)\n• Evidence 2: \"The Board... acknowledges their responsibility... safeguard shareholders’ investments\" (clear accountability statement)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Reviewed and recommended to the Board for approval, the Circular to Shareholders...\" clearly outlines actions taken.\n• Evidence 2: \"The Risk Management Committee ensures the implementation...\" uses precise language to describe responsibilities."
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed and recommended to the Board for approval... Corporate Governance Overview Statement\" (clear action-oriented language)\n• Evidence 2: \"Risk Management Committee... ensures implementation... robust risk management process\" (structured explanation of roles)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"Disclosure of related party transactions\" directly addresses investor concerns about transparency.\n• Evidence 2: \"Risk Management and Internal Control\" sections provide critical governance and operational risk information."
+    "justification": "• Evidence 1: \"Disclosed... related party transactions; and... significant accounting matters...\" (directly addresses investor concerns about transparency)\n• Evidence 2: \"Reviewed the Crisis Management process update... Terms of Reference of the Audit Committee\" (includes governance and operational risk factors)"
   }
 }

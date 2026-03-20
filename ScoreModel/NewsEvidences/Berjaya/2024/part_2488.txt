@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"As of now, the contract is still in force based on the terms agreed upon between the government and Spanco,\" said the ministry in a written reply dated March 12.\n• Evidence 2: \"The government’s agreement with Spanco was 'hurting' the country,\" said Prime Minister Datuk Seri Anwar Ibrahim in February."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"When the contract ended in 2019, an open tender was launched, and a letter of intent (LOI) was awarded to a consortium formed by Berjaya Group and Naza Sdn Bhd.\" (direct mention of Berjaya Group).\n• Evidence 2: The article connects Berjaya Group's involvement in the tender process to the ongoing contract, implying potential strategic implications for the company."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Spanco has held the concession to supply and maintain government vehicles since 1993\" provides historical context.\n• Evidence 2: \"The Malaysian Anti-Corruption Commission had said that it was investigating a RM4.5bil contract\" adds detail about regulatory scrutiny and financial scale."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Air Selangor has distributed 4,975 Boxes of Hope... since the \"Sesama Mara\" initiative was introduced in June 2020.\" (verifiable data)\n• Evidence 2: \"Box of Hope contributions can be made through purchases at five Village Grocer outlets.\" (specific, actionable information)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The \"Sesama Mara\" programme is a grassroots initiative aimed at assisting the surrounding community while strengthening Air Selangor’s relationships with local community... non-governmental organisations.\" (links CSR to stakeholder engagement)\n• Evidence 2: \"A team of Hydro Heroes volunteers... decorated the charity homes...\" (shows operational alignment with CSR goals)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Air Selangor donated necessities such as food, daily clothes and household items besides providing plumbing assistance...\" (comprehensive event details)\n• Evidence 2: \"These locations are Tamarind Square Cyberjaya...\" (specific context for donor engagement)"
+  }
+}

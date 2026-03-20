@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, the property developer said its unbilled sales as at end-September 2024 of RM1.5bil will provide some visibility on the group's cashflow in the near term.\" (verifiable data from official filing)\n• Evidence 2: \"The lower profit attributable to shareholders during the quarter was owing to the higher tax expenses.\" (clear cause-effect explanation without bias)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The improvements were underpinned by the higher sales and the more advanced stage of completion of certain projects.\" (direct link to strategic project progress)\n• Evidence 2: \"The board of directors has declared a second interim dividend...\" (stakeholder significance and financial strategy disclosure)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The group's undeveloped land as at end-September 2023 stood at 379.4 acres.\" (contextual land holdings data)\n• Evidence 2: \"The three projects anchoring the 3Q2024 revenue...\" (specific project details supporting revenue analysis)"
+  }
+}

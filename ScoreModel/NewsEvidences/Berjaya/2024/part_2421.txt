@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This makes us quite prone to NCDs and increases the risk of kidney, liver and heart diseases.\" (Prof Dr Sharifa Ezat Wan Puteh)\n• Evidence 2: \"With insufficient resources and budgets, healthcare is moving more towards privatisation and precision medicine.\" (Prof Sharifa Ezat)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"People who prepare food should also be educated to ensure there isn’t too much oil or sugar in food, among others.\" (Dr Kuljit Singh) [indirectly relates to food industry practices]\n• Evidence 2: \"Invest a small amount of money (on health screenings) and you will at least safeguard yourself from a huge catastrophe.\" (Dr Kuljit) [no direct link to Berjaya Food]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Cancer is also on the rise and is expected to cause significant loss to quality of life, other than loss of life,\" said Prof Dr Sharifa Ezat Wan Puteh. [specific data on NCD trends]\n• Evidence 2: \"There was also a rise in deaths due to ischaemic heart disease, from 11.6% in 2016 to 17% in 2020.\" [quantitative evidence supporting claims]"
+  }
+}

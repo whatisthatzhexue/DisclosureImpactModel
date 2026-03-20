@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Berjaya Food Bhd has inked a deal with Abu Dhabi-based Samaya Food Investments L.L.C to bring Paris Baguette bakery café brand to the United Arab Emirates.\" (specific partnership details)\n• Evidence 2: \"Malayan Banking Bhd’s net profit rose 6% YoY...\" (quantifiable financial data with clear timeframe)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Berjaya Food Bhd...to bring Paris Baguette bakery café brand to the United Arab Emirates\" (strategic market expansion)\n• Evidence 2: \"Axiata Group Bhd made a turnaround with a net profit of RM946.8mn...\" (financial performance impacting long-term value)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Sapura Energy Bhd’s drilling arm...secured multiple contracts with a combined value of approximately RM3.2bn\" (specific quantitative detail)\n• Evidence 2: \"Public Bank Bhd’s net profit rose 11.4% YoY...supported by higher net interest income...\" (contextual factors behind financial performance)"
+  }
+}

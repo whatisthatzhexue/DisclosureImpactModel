@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"In partnership with chargeEV by Yinson Greentech, EV chargers are now available at selected Starbucks stores.\"\n• Evidence 2: The text lacks disclosure of risks, challenges, or uncertainties related to sustainability initiatives."
+  },
+  "Understandability": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Greener Store located in Kuchai Lama, Kuala Lumpur.\"\n• Evidence 2: The phrase \"selected Starbucks stores\" is vague and lacks specific details about the scope or impact of the EV charger initiative."
+  },
+  "Relevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Sustainability Statement\" indicates relevance to ESG factors, but no forward-looking information or risk disclosures are provided.\n• Evidence 2: The text does not explain performance changes, material events, or corporate governance aspects."
+  }
+}

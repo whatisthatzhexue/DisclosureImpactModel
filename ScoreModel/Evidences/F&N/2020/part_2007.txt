@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"High investment costs in R&D and equipment with uncertain commercial returns.\" (Discloses risks)\n• Evidence 2: \"We engaged department heads, the C-suite and board directors in a materiality workshop.\" (Supported by specific facts about validation processes)"
+    "justification": "• Evidence 1: \"High investment costs in R&D and equipment with uncertain commercial returns.\" (discloses risks)\n• Evidence 2: \"The workshop involved an in-depth discussion of each identified sustainability issue... prioritised on a scale of 'moderate' to 'high'.\" (neutral, objective process description)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"STEP 1: IDENTIFICATION\", \"STEP 2: PRIORITISATION\", \"STEP 3: VALIDATION\" (Clear structure with logical progression)\n• Evidence 2: \"Our most significant material topic 'Consumer Health and Safety' is extremely relevant this year amidst the COVID-19 pandemic\" (Precise explanation of relevance)"
+    "score": 9,
+    "justification": "• Evidence 1: \"STEP 1: IDENTIFICATION\", \"STEP 2: PRIORITISATION\" headings create clear structure.\n• Evidence 2: \"Innovation is critical to maintaining leadership...\" (precise, direct explanation of importance)"
   },
   "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"'Consumer Health and Safety' is extremely relevant this year amidst the COVID-19 pandemic... 'Economic Performance' is vital... 'Occupational Health and Safety' issue is also increasingly important\" (Directly links material issues to investor concerns)\n• Evidence 2: \"Risks... Opportunities... OUR RESPONSE\" (Provides forward-looking information critical for decision-making)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Our most significant material topic 'Consumer Health and Safety'... relevant this year amidst the COVID-19 pandemic.\" (forward-looking, stakeholder-relevant)\n• Evidence 2: \"Risks... Balancing between the risk of non-acceptance by consumers...\" (investor-focused risk disclosure)"
   }
 }

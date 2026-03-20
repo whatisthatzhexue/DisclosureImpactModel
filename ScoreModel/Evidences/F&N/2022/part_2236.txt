@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Group’s energy intensity ratio has reduced by 1% to 860.29 (compared to FY2020 baseline at 868.56), contributed by the various energy improvement initiatives...\" (neutral factual reporting of progress vs target)\n• Evidence 2: \"Our total solid waste sent to landfill increased 31%... due to the additional sludge...\" (transparent disclosure of negative outcome with cause)"
+    "justification": "• Evidence 1: \"Group’s energy intensity ratio has reduced by 1% to 860.29 (compared to FY2020 baseline at 868.56), contributed by the various energy improvement initiatives at our plants.\"\n• Evidence 2: \"Our total solid waste sent to landfill increased 31% to 1,471 MT (as compared to FY2020 baseline at 1,122 MT), due to the additional sludge from the maintenance of our wastewater treatment plant at our Shah Alam plant.\"\n• Evidence 3: \"We have gone beyond the compliance of laws and regulations.\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Reduce the Group’s energy intensity ratio at our plants by 8% from a 2020 baseline\" (clear target statement)\n• Evidence 2: \"100% of plants and production processes are certified with Halal Standard\" (precise metric with context)"
+    "justification": "• Evidence 1: \"Group’s GHG intensity ratio has reduced by 4% to 0.0633 (as compared to FY2020 baseline at 0.0661)\" (clear numerical comparison).\n• Evidence 2: \"We identify stakeholder groups with which to engage through consideration of individuals or groups which may have an interest in our business, and/ or have influence over the functioning of our business.\" (somewhat convoluted phrasing)."
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Affected by the Ukraine-Russia war... key supply chain risk factors\" (material event impacting business)\n• Evidence 2: \"Our Board has the ultimate oversight... sustainability-related strategic initiatives\" (corporate governance relevance)"
+    "justification": "• Evidence 1: \"Affected by the Ukraine-Russia war, the global supply has faced massive disruptions.\" (material risk disclosure).\n• Evidence 2: \"Our Board has the ultimate oversight of all sustainability issues, and they are guided by sustainability principles when making decision for long-term strategy planning.\" (corporate governance relevance)."
   }
 }

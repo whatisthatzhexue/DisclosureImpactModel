@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks recorded a profit before tax of RM165.6 million compared to RM193.5 million in the previous financial year. The recorded lower profit before tax was primarily driven by elevated product cost and supply chain expenses...\" (specific cause-effect explanation)\n• Evidence 2: \"These financial challenges were partially mitigated by strategic pricing adjustments.\" (neutral acknowledgment of challenges)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks introduced the Syrup Deconstruction Program. This Program allows customers to customise the sweetness level...\" (clear explanation of initiative)\n• Evidence 2: \"BStarbucks will continue to prioritise business optimisation and operation efficiency concurrently investing in the labour workforce...\" (somewhat convoluted phrasing with 'concurrently investing')"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In the financial year 2024, BStarbucks will capitalise on store expansion...\" (forward-looking strategic plans)\n• Evidence 2: \"Profit Before Tax... primarily driven by elevated product cost and supply chain expenses...\" (explanation of performance changes relevant to investors)"
+  }
+}

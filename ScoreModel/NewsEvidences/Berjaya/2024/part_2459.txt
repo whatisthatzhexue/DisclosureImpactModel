@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Ruang Pokok opened about seven months ago to introduce the local community to the art of arranging plants in glass jars...\" (verifiable timeline and purpose)\n• Evidence 2: \"Maintenance is straightforward...\" (specific, actionable details with no fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or any business operations related to food and beverage production.\n• Evidence 2: The text focuses on a personal hobby-turned-business unrelated to the company context provided."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Materials needed... leca balls, charcoal, sphagnum moss and organic soil\" (specific technical details)\n• Evidence 2: \"Time taken is also around 30 minutes to an hour...\" (quantifiable process description)"
+  }
+}

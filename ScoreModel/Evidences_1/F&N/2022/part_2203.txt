@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Product & Service Labelling\" (specific risk identified)\n• Evidence 2: \"Corruption, Fraud, Pilferage & Ethical Risks\" (specific risk identified)"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Economic, Social, Environment, Governance & Ethics\" (clear categories)\n• Evidence 2: \"Product Quality & Standards\" and \"Product Quality & Safety\" (redundant phrasing)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Supply Chain Risks\" (material risk for investors)\n• Evidence 2: \"Governance & Ethics\" (corporate governance element)"
+  }
+}

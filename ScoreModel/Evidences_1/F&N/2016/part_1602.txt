@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BASIC EARNINGS PER SHARE (sen) +1.5% +32.7% 57.5 sen per share\" (specific factual data presented neutrally)\n• Evidence 2: No overstatement or one-sided praise detected in the disclosure"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"57.5 sen per share\" (precise numerical information)\n• Evidence 2: \"DIVIDEND FOR THE YEAR\" (clear label, though formatting could improve readability)"
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"DIVIDEND FOR THE YEAR\" (material financial information for investors)\n• Evidence 2: No explanation of performance changes, forward-looking information, or risk disclosures present"
+  }
+}

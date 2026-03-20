@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"AmanahRaya REIT said there is no significant impact on the trust's performance as of Dec 31, 2024.\" (verifiable data and factual statement)\n• Evidence 2: \"The termination occurred because the purchaser failed to meet the required condition within the agreed period\" (specific cause and timeline, balanced tone)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"intended to contribute to AmanahRaya REIT’s strategic portfolio realignment\" (direct link to strategic direction)\n• Evidence 2: \"in the process of acquiring a sustainable asset to enhance the distribution per unit\" (forward-looking strategic action and stakeholder impact)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"valued at RM42.5mil\" (quantitative data supporting the transaction)\n• Evidence 2: \"signed on June 6, 2024... ended on Dec 26, 2024\" (contextual timeline, but lacks deeper analysis of market implications or prior strategic decisions)"
+  }
+}

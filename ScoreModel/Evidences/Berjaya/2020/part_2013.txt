@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The engagement activities with the different stakeholder groups are conducted on an ongoing basis.\" (neutral, factual description)\n• Evidence 2: \"The materiality assessment was conducted by engaging relevant stakeholders through various channels which resulted in the identification of 17 material issues.\" (specific, objective disclosure of process)"
+    "justification": "• Evidence 1: 'Determining materiality assists the Group to identify and prioritise the most relevant and important material issues across the business units' [neutral, factual statement]\n• Evidence 2: 'The materiality assessment was conducted by engaging relevant stakeholders through various channels which resulted in the identification of 17 material issues' [specific, verifiable process]"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Stakeholder Groups\" and \"Engagement Platforms\" are clearly labeled with bullet points (structured, direct language)\n• Evidence 2: \"Materiality assessment was conducted... resulting in the identification of 17 material issues\" (precise, logical flow of information)"
+    "justification": "• Evidence 1: 'Stakeholder Groups' and 'Engagement Platforms' are clearly listed in a tabular format [structured, logical presentation]\n• Evidence 2: 'The 17 material issues identified were mapped to the relevant sustainability pillars as illustrated on pages 023 to 029' [precise reference to supporting information]"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Determining materiality assists the Group to identify and prioritise the most relevant... material issues\" (directly links to investor-relevant sustainability priorities)\n• Evidence 2: \"Communications via announcements to Bursa Securities... for analysts, fund managers and potential investors\" (mentions investor engagement channels)"
+    "score": 8,
+    "justification": "• Evidence 1: 'Material matters are defined as elements that are expected to have a significant effect on and are related to the Group’s stakeholders' [directly ties to investor concerns]\n• Evidence 2: 'Communications via announcements to Bursa Securities, General Meetings, the Company’s website as well as conducting briefings and updates for analysts, fund managers and potential investors' [explicitly links to investor decision-making]"
   }
 }

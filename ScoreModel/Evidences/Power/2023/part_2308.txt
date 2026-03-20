@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical...\" (neutral, objective)\n• Evidence 2: \"principles... guided by ISO 31000:2018... COSO\" (specific standards referenced)"
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board has put in place a formal Group Risk Management Framework to govern the risk management process.\"\n• Evidence 2: \"The principles... are guided by ISO 31000:2018... and the updated Enterprise Risk Management... (COSO).\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"clearly defines the risk management objectives and processes... roles and responsibilities\" (logical structure)\n• Evidence 2: \"ISO 31000:2018 – Risk Management Guidelines\" (precise terminology)"
+    "justification": "• Evidence 1: \"The Group Risk Management Framework clearly defines the risk management objectives and processes...\" (clear structure)\n• Evidence 2: \"roles and responsibilities of the Board, Audit Committee...\" (precise language)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"defines the risk management objectives and processes... roles and responsibilities\" (relevant to governance)\n• Evidence 2: \"statement on risk management and internal control\" (implies connection to investor concerns)"
+    "justification": "• Evidence 1: \"The Board... maintains an on-going commitment to identifying, evaluating and managing the significant risks...\" (risks and governance)\n• Evidence 2: \"clear roles and responsibilities of the Board...\" (internal management)"
   }
 }

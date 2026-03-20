@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board of Directors... recognises the importance of continuously developing and improving the business operations of the Group in a sustainable and responsible manner.\" (neutral, objective)\n• Evidence 2: \"The Board is pleased to present this Sustainability Statement... prepared pursuant to paragraph 6.1, 6.2 and 6.3...\" (supports disclosure requirements but lacks specific risk disclosures)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board affirms its overall responsibility for the integration of the recommended sustainable economic, environmental and social practices...\" (clear structure and direct language)\n• Evidence 2: \"The Group’s commitment towards sustainable business practices is imputed throughout all levels of its organisation.\" (precise explanation of policy implementation)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The Board of Power Root Berhad acknowledges that businesses are not solely judged by its financial performance...\" (addresses investor concerns about non-financial factors)\n• Evidence 2: \"The duties for the identification, management and reporting of sustainability matters and performance are delegated to the Sustainability and Risk Management Committee.\" (includes governance structure but lacks performance-linked analysis)"
+  }
+}

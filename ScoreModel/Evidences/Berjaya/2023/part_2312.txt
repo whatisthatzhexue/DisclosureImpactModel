@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"BFood ensures well-defined responsibilities through essential training.\" (neutral statement with specific fact)\n• Evidence 2: \"Monitoring sustainability performance involves utilising data from diverse sustainability tools and activities, including internal audits and compliance processes.\" (objective description with specific methods)"
+    "score": 5,
+    "justification": "• Evidence 1: \"The Board leads the Group’s sustainability agenda, supervising the execution of sustainability strategy and evaluating significant sustainability matters.\"\n• Evidence 2: \"Monitoring sustainability performance involves utilising data from diverse sustainability tools and activities, including internal audits and compliance processes.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Sustainability Governance Structure\" section with clear hierarchical levels (Board of Directors, SWG, MESO, etc.)\n• Evidence 2: \"Harmonise & Standardise\" and \"Manage & Control\" provide direct, precise descriptors of governance functions"
+    "score": 7,
+    "justification": "• Evidence 1: \"Sustainability Governance Structure\" section with clear hierarchical roles (Board of Directors, CEO, SWG, etc.)\n• Evidence 2: \"BFood's brands apply global guiding principles, such as the Quality, Environmental, Health and Safety (\"QESH\") and the Code of Conduct.\""
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"The Board leads the Group’s sustainability agenda... evaluating significant sustainability matters.\" (corporate governance relevance)\n• Evidence 2: \"BFood's brands apply global guiding principles... promote a harmonised way of working towards sustainable development.\" (strategic relevance for investors)"
+    "justification": "• Evidence 1: \"The Board leads the Group’s sustainability agenda... evaluating significant sustainability matters.\"\n• Evidence 2: \"BFood's management approach covers procedures, processes and systems to manage and monitor material topics.\""
   }
 }

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board has established an effective risk management and internal control framework within the Group. The Board, through the SRMCom and AuditCom, continually reviews and ensures the adequacy and effectiveness of the Group’s risk management and internal control system.\" (Truthful, objective, and specific).\n• Evidence 2: \"The AuditCom reviews and assesses the adequacy of the internal control system based on reports presented by management, external and internal auditors during its meetings.\" (Neutral disclosure of processes)."
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board has established an effective risk management and internal control framework within the Group.\" (specific fact about framework)\n• Evidence 2: \"The AuditCom reviews and assesses the adequacy of the internal control system based on reports presented by management...\" (objective process description)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board acknowledges its responsibility to maintain a sound risk management and internal control system to manage and mitigate significant risks across the Group\" (Clear structure and direct language).\n• Evidence 2: \"The SRMCom, at its quarterly meeting, reviews the implementation of the risk management framework as well as deliberates on the business risks and the mitigating controls to address the risks identified.\" (Precise and logical explanation)."
+    "score": 8,
+    "justification": "• Evidence 1: \"The SRMCom, at its quarterly meeting, reviews the implementation of the risk management framework...\" (clear structure of responsibilities)\n• Evidence 2: \"The Audit Committee is chaired by Mr. David Siew Kah Toong...\" (precise role definitions)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board has established an effective risk management and internal control framework within the Group\" (Relevant to investor decision-making).\n• Evidence 2: \"The Company observes the Corporate Disclosure Guide issued by Bursa Securities as well as the disclosure requirements of the Listing Requirements of Bursa Securities\" (Includes regulatory relevance)."
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board acknowledges its responsibility to maintain a sound risk management and internal control system to manage and mitigate significant risks...\" (direct relevance to investor concerns)\n• Evidence 2: \"The Company maintains a corporate website... which provides information relating to annual reports, quarterly financial reports...\" (material information accessibility)"
   }
 }

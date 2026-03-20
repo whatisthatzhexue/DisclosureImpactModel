@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"nothing has come to their attention that causes them to believe the SRMIC intended to be included in the Annual Report is not prepared, in all material respects, in accordance with the disclosures required by paragraphs 41 and 42 of the SRMIC\"\n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group’s Annual Report\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The business units are required to identify the risks relevant to their businesses. The risks are then assessed based on the probability of their occurrence and are evaluated as Low, Medium or High.\"\n• Evidence 2: \"The ARMC held six -6 meetings during the financial period ended 30 June 2019. The details of attendance of the ARMC members are as follows:...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board remains committed towards operating a sound system of internal control... to support the types of businesses and size of operations of the Group.\"\n• Evidence 2: \"The external auditors have performed limited assurance procedures on the Statement on Risk Management and Internal Control... for the year ended 30 April 2018\""
+  }
+}

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"This is the third year we have disclosed our climate-related impacts in alignment with TCFD recommendations.\" (specific fact about disclosure timeline)\n• Evidence 2: \"F&N has established a robust governance framework...\" (objective description of governance structure)"
+    "justification": "• Evidence 1: \"This is the third year we have disclosed our climate-related impacts in alignment with TCFD recommendations. F&N has voluntarily provided climate reporting disclosures based on the recommendations of the TCFD, a year ahead of the timeline stipulated by Bursa Malaysia.\"\n• Evidence 2: \"Our engagement strategy is tailored to align with the varying degrees of interest and influence of each stakeholder group.\"\n• Evidence 3: \"We have a dedicated Sustainability & Risk Management Committee (SRMC) that supports the Board by reviewing key sustainability issues...\"\n• Evidence 4: \"By proactively identifying and managing climate-related impacts, we strive to enhance our resilience...\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Our engagement strategy is tailored to align with the varying degrees of interest and influence of each stakeholder group.\" (clear, direct language)\n• Evidence 2: \"We strive to enhance our resilience and capitalise on opportunities...\" (precise explanation of strategic goals)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Our stakeholders at F&N encompass individuals and groups... this relationship is reciprocal. Building and maintaining strong relationships... is fundamental to our business.\"\n• Evidence 2: \"Our strategic efforts are guided by a clear understanding of material climate-related risks... through ongoing scenario analysis across various time horizons.\"\n• Evidence 3: \"We have a dedicated Sustainability & Risk Management Committee (SRMC)... ensuring that climate considerations are escalated within our Enterprise Risk Management (ERM) framework.\"\n• Evidence 4: \"F&N is committed to developing a decarbonisation roadmap for our Scope 1 and 2 greenhouse gas (GHG) emissions.\""
   },
   "Relevance": {
     "score": 9,
-    "justification": "• Evidence 1: \"Our strategic efforts are guided by a clear understanding of material climate-related risks...\" (directly addresses investor concerns about risk management)\n• Evidence 2: \"F&N has voluntarily provided climate reporting disclosures... ahead of the timeline stipulated by Bursa Malaysia.\" (forward-looking information with regulatory context)"
+    "justification": "• Evidence 1: \"This commitment allows us to assess and mitigate the potential impacts of our operations...\"\n• Evidence 2: \"Our strategic efforts are guided by a clear understanding of material climate-related risks and opportunities...\"\n• Evidence 3: \"F&N is committed to developing a decarbonisation roadmap... to integrate climate considerations into our operational and financial planning.\"\n• Evidence 4: \"The Board of Directors plays a pivotal role by monitoring these sustainability-related topics... approving the company’s climate-related goals and strategies.\"\n• Evidence 5: \"This structured governance approach ensures that climate-related decisions are effectively aligned with our business objectives and risk management practices.\""
   }
 }

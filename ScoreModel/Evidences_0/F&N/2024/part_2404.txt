@@ -1,6 +1,0 @@
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 0, "justification": "• Evidence 1: [TEXT]AUDIT COMMITTEE REPORT[/TEXT] contains no specific facts, risks, or objective disclosures\n• Evidence 2: No neutral statements or evidence-based claims are present in the text"},
-  "Understandability": {"score": 0, "justification": "• Evidence 1: [TEXT]GOVERNANCE 6 1 3 2 4 5 7 8 9 SECTION 131[/TEXT] lacks clear structure, logic, or precise language\n• Evidence 2: Obscure numerical sequences and section references without contextual explanation"},
-  "Relevance": {"score": 0, "justification": "• Evidence 1: No forward-looking information, risks, or material events are disclosed\n• Evidence 2: The text does not address investor decision-making or corporate governance elements"}
-}

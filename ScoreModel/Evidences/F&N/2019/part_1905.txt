@@ -1,15 +1,15 @@
 {
   "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Maintaining a strong balance sheet to take advantage of opportunities as they arise and protect against unforeseen risks\"\n• Evidence 2: \"Dividend Payout Ratio: 53.6%\" (specific factual disclosure with no overstatement)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Maintaining a strong balance sheet to take advantage of opportunities as they arise and protect against unforeseen risks\" (discloses risks)\n• Evidence 2: \"Dividend Payout Ratio: 53.6%\" (specific factual disclosure)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"RM4,077.1 million\" (clear numerical presentation)\n• Evidence 2: Structured bullet points for employee data and social investments (logical organization)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Basic Earnings per Share: 111.9 sen\" (precise numerical data)\n• Evidence 2: \"N G OI y T c C ne U ci fi D N f E O -oc R E K P I R O W M D E A n M R i a K h A C E y R l T p I D p F u N S G e Y l b T & si I A n S o L p A s I e L R B E A S N I - A g T ni e S B U ll e G W S N & E I y R t C fe U a R S O U O U H S T\" (confusing placeholder text affecting readability)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Profit for the year: RM410.2 million\" (key financial metric for investors)\n• Evidence 2: \"Complied with regulation to mitigate against systemic risk\" (material risk disclosure)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Profit for the year: RM410.2 million\" (key financial metric for investors)\n• Evidence 2: \"Launched various innovative solutions to address the needs of our consumers in 75 countries worldwide\" (forward-looking strategic initiative)"
   }
 }
