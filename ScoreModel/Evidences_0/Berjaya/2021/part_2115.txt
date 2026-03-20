@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\" (supports objectivity)\n• Evidence 2: \"The Board and management are committed to continually refining and improving these processes over time.\" (shows self-criticism and continuous improvement)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Materiality Matrix displays the position of the 12 material issues relative to the degree of importance...\" (clear explanation of concept)\n• Evidence 2: \"Sustainability Governance Structure\" diagram with labeled roles (visual clarity, though some terms like EES require contextual understanding)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"For more detailed information on the Company’s Statement on Corporate Governance...\" (directly links to relevant investor materials)\n• Evidence 2: \"The Group reviews the Materiality Matrix on an annual basis.\" (provides context for stakeholder impact assessment)"
+  }
+}

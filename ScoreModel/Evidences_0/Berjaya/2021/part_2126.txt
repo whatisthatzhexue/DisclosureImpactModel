@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed and verified the allocation and movement of the Employees’ Share Scheme... according to the criteria and matrix stipulated in the ESS’s By-Laws.\"\n• Evidence 2: \"the distribution of dividend was in accordance with the provision made under the Companies Act 2016.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Internal Audit Division... adopts a risk-based approach focusing on high risk areas.\"\n• Evidence 2: \"Reviewed and recommended to the Board for approval, the policies and procedures to prevent bribery and corruption pursuant to Section 17A...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed and recommended to the Board the distribution of interim dividend... based on the solvency test conducted.\"\n• Evidence 2: \"The activities of Internal Audit... focusing on high risk areas.\""
+  }
+}

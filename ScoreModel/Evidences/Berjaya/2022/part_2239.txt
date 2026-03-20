@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"BFood has aligned its hiring practices with local laws and established a formal principle to prevent child, forced and compulsory labour across all brands.\"\n• Evidence 2: \"The Code of Conduct outlines stringent labour standards.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"All hiring practices are non-discriminatory, objective and solely based on merit.\" (specific, factual statement)\n• Evidence 2: \"Labour standards of existing and potential business and supply chain partners are reviewed periodically as part of due diligence.\" (objective process description)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"BFood’s people are the greatest asset and are critical for the long-term success of its business.\"\n• Evidence 2: \"Periodically, BFood participates in workshops... improve industry solutions on labour standards in Malaysia.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood has aligned its hiring practices with local laws\" (clear, direct statement)\n• Evidence 2: \"Periodically, BFood participates in workshops...\" (precise language with temporal clarity)"
   },
   "Relevance": {
-    "score": 3,
-    "justification": "• Evidence 1: \"BFood’s care for their stakeholders is at the core of its purpose as a business... bringing greater value to all its stakeholders.\"\n• Evidence 2: \"The Group also held a town hall meeting... annual awards ceremony at each subsidiary company.\""
+    "score": 6,
+    "justification": "• Evidence 1: \"The Group embraces fair employment standards\" (relevant to investor risk assessment)\n• Evidence 2: \"Participates in workshops... improve industry solutions on labour standards\" (shows corporate governance engagement)"
   }
 }

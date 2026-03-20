@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Group’s ERM framework is based on the internationally recognised COSO (Committee of Sponsoring Organizations).\" (objective standard)\n• Evidence 2: \"There have been no significant breakdowns or weaknesses in the system of internal control of the Group for the financial year under review.\" (neutral disclosure of system adequacy)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group’s ERM framework is based on the internationally recognised COSO (Committee of Sponsoring Organizations)\" (objective standard cited).\n• Evidence 2: \"The priority is to ensure the health and safety of our employees and customers\" (discloses risk mitigation focus without overstatement)."
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Risk Management Unit (“RMU”) of QL Resources Berhad comprises the Executive Committee, Chief Financial Officer, Group Risk Management Manager, and is chaired by Executive Chairman.\" (clear structure of roles)\n• Evidence 2: \"The key aspects of the risk management process are as follows:\" (logical segmentation of information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Risk factors are incorporated into the risk register and individually rated as High, Significant, Moderate or Low risk\" (clear categorization).\n• Evidence 2: \"The RMU undertakes the following responsibilities: • To communicate board vision...\" (structured bullet points with precise language)."
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Group is exposed to various financial risks relating to foreign currency exchanges and credit risks.\" (material risk disclosure)\n• Evidence 2: \"The Board has delegated its responsibility to several committees and to the Management of the Company to implement and monitor designated tasks.\" (corporate governance relevance)"
+    "justification": "• Evidence 1: \"The Group is exposed to various financial risks relating to foreign currency exchanges and credit risks\" (material risk disclosure).\n• Evidence 2: \"The members of the Risk Management Committee... provide guidance to the business unit’s risk appetite\" (corporate governance structure relevant to investors)."
   }
 }

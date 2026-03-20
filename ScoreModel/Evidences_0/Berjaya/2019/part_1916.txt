@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"700 Coffee Masters (300 Coffee Masters last year)\" (specific factual comparison)\n• Evidence 2: \"BFood invested 149,513 hours in training and development\" (quantifiable data)"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"BFood’s employee development programmes provide learning opportunities...\" (redundant repetition of BFood/BStarbucks)\n• Evidence 2: \"Coffee Masters inspire fellow team members...\" (vague about impact metrics)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"In total, BFood invested 149,513 hours in training and development\" (relevant to workforce management)\n• Evidence 2: \"The Company’s employee benefits and welfare are constantly enhanced...\" (moderately relevant to investor concerns)"
+  }
+}

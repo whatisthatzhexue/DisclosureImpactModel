@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The decrease in revenue was due to the discontinuation of the Starbucks RTD products.\" (BFT revenue decline)\n• Evidence 2: \"The loss before tax was mainly due to inflationary product costs... supply chain disruption... discontinuation of Starbucks RTD products.\" (BFT loss explanation)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFT will continue to focus on diversifying the portfolio of Joybean’s house-brand products.\" (Clear strategic focus)\n• Evidence 2: \"BRoasters opened 7 new stores and closed 5 non-performing stores.\" (Precise operational data)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Revenue was reduced by 11.6%... attributed to weakening consumer sentiment... reduced foot traffic... increasing cost of living.\" (Performance change explanation)\n• Evidence 2: \"Jollibean Foods aims to entice customers with an attractive and affordable monthly subscription programme...\" (Forward-looking strategy)"
+  }
+}

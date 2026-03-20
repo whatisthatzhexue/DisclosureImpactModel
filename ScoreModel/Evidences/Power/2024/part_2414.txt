@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Option Committee may, for the purpose of administering this ESOS, enter into any transactions...\" (specific functions and authority)\n• Evidence 2: \"During the financial year, the Option Committee met five -5 times...\" (quantifiable fact about meetings)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Option Committee may, for the purpose of administering this ESOS, enter into any transactions...\" (specific functions and authority)\n• Evidence 2: \"During the financial year, the Option Committee met five -5 times...\" (quantifiable factual statement)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The functions of the Option Committee are:\" (clear section heading)\n• Evidence 2: \"FNQMPZFFT JO BDDPSEBODF\" (incoherent placeholder text suggesting potential formatting errors)"
+    "score": 5,
+    "justification": "• Evidence 1: \"t 0QUJPO$PNNJUUFF(cont’d)\" (unclear placeholder text suggesting formatting errors)\n• Evidence 2: \"The sustainability management of the Group is governed by the Sustainability Framework...\" (complex sentence structure with jargon)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board is responsible for regularly evaluating the economic, environmental and social issues...\" (material governance responsibility)\n• Evidence 2: \"Please refer to... for the governance structure...\" (direct link to additional relevant information)"
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board is responsible for regularly evaluating the economic, environmental and social issues...\" (directly relevant to investor concerns)\n• Evidence 2: \"During the financial year, the Option Committee met five -5 times...\" (corporate governance activity relevant to accountability)"
   }
 }

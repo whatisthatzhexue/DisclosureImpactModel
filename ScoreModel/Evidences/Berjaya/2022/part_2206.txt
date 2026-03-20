@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"BJoybean’s sales was negatively impacted by the Government mandated COVID-19 restrictions\"\n• Evidence 2: \"The lower loss before tax during the financial year under review was due to the strategies adopted to increase cost efficiency and productivity as well as closure of underperforming stores\""
+    "score": 8,
+    "justification": "• Evidence 1: \"Revenue... negatively impacted by the Government mandated COVID-19 restrictions.\"\n• Evidence 2: \"lower loss before tax... due to the strategies adopted to increase cost efficiency and productivity as well as closure of underperforming stores.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BJoybean will downscale and change its business model to a ‘Production and Supply’ concept\"\n• Evidence 2: \"With the new business model, BJoybean is anticipated to improve its business performance in the year ahead\""
+    "score": 7,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2022, BJoybean registered a lower revenue of RM0.22 million compared to RM0.39 million in the previous financial year.\"\n• Evidence 2: \"BJoybean will downscale and change its business model to a 'Production and Supply' concept in the upcoming financial year 2023.\""
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2022, BJoybean registered a lower revenue... compared to RM0.39 million in the previous financial year\"\n• Evidence 2: \"BJoybean will downscale and change its business model... in the upcoming financial year 2023\""
+    "justification": "• Evidence 1: \"Revenue... negatively impacted by the Government mandated COVID-19 restrictions.\"\n• Evidence 2: \"BJoybean will downscale... anticipated to improve its business performance in the year ahead.\""
   }
 }

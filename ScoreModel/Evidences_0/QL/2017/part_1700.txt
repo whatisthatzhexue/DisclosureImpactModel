@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: The text provides factual ownership percentages (e.g., '100% Chingsan Development Sdn. Bhd.') without overt bias.\n• Evidence 2: No risks, challenges, or uncertainties are disclosed, limiting transparency."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: The text uses a clear hierarchical structure (e.g., 'PALM OIL ACTIVITIES' sections) to organize subsidiaries.\n• Evidence 2: Ownership percentages are directly stated, though abbreviations like 'SDN. Bhd.' and 'PT.' may require prior knowledge."
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: Ownership structure is relevant for investors but lacks context on strategic rationale or performance implications.\n• Evidence 2: No forward-looking information or material events are mentioned, reducing utility for decision-making."
+  }
+}

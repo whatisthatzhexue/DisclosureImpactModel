@@ -2,14 +2,14 @@
   "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: 'Dividend per Share: 60.0 sen' (specific financial disclosure)\n• Evidence 2: 'We conducted our inaugural Human Rights Due Diligence process' (transparent risk disclosure)"
+    "justification": "• Evidence 1: 'Group revenue grew by 3.6 per cent from RM3.99 billion in FY2020 to RM4.13 billion despite the tough environment.' (specific financial data)\n• Evidence 2: 'However, increasing costs attributed to commodity and freight, restructuring and COVID-related expenses, and a lower share of profit from an associate – were reflected in our bottom line.' (disclosure of risks and challenges)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: 'Group revenue grew by 3.6 per cent from RM3.99 billion in FY2020 to RM4.13 billion' (clear numerical data)\n• Evidence 2: 'Our 10MWp solar PV systems will replace 20 per cent of our electricity needs' (precise technical explanation)"
+    "justification": "• Evidence 1: 'F&NHB established a Group Halal Council in 2016 to embed the Halalan Toyyiban guidelines...' (clear explanation of internal governance structure)\n• Evidence 2: 'Our 10MWp solar PV systems will supply renewable energy in Shah Alam, Pulau Indah and Bentong manufacturing plants.' (precise technical description with context)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: 'Excluding one-off/non-operating items... Group profit before tax declined by 3.9 per cent' (material financial performance explanation)\n• Evidence 2: 'We are excited about the potential of building Halal Packaged Food into another growth pillar' (forward-looking strategic information)"
+    "justification": "• Evidence 1: 'We conducted our inaugural Human Rights Due Diligence process to understand potential human rights issues...' (material event disclosure)\n• Evidence 2: 'Our 2025 targets will drive our ambition for Better Business through responsible business fundamentals...' (forward-looking information and strategic priorities)"
   }
 }

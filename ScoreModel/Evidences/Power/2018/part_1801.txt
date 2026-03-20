@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"we put words into action by wholeheartedly integrating these virtues into our CSR programme\" (specific factual statement about CSR implementation)\n• Evidence 2: \"we contributed Ah Huat products to the food and fund carnival...\" (concrete example of CSR activity)"
+    "score": 7,
+    "justification": "• Evidence 1: \"We also contributed Ah Huat products to the food and fund carnival organised by House of Joy...\" (specific factual action)\n• Evidence 2: \"The decrease in PAT were due to several factors...\" (acknowledges financial challenges)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"During the year, we visited several children’s homes and old folks home...\" (clear, structured description of activities)\n• Evidence 2: \"The measures we have taken this year...\" (precise language explaining operational strategies)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group increased our manufacturing capability...\" (clear, direct explanation of operational changes)\n• Evidence 2: \"The Audit Committee meets with the External Auditors at least twice a year...\" (precise description of governance process)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"we believe that this challenging environment will continue to persist...\" (forward-looking statement about business environment)\n• Evidence 2: \"Revenue (RM’million)...\" (financial data relevant to investors)"
+    "score": 6,
+    "justification": "• Evidence 1: \"We also participated in S.J.K (C) Bukit Tangga’s sports day...\" (community engagement relevant to stakeholder relations)\n• Evidence 2: \"The Board is to undertake step during the financial year...\" (links governance to future compliance requirements)"
   }
 }

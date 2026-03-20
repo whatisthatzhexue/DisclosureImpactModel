@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BFood completed the acquisition of 11,500,000 ordinary shares...for a cash consideration of RM71.7 million.\" (specific factual transaction)\n• Evidence 2: \"On 24 November 2017, Berjaya Food (International) Sdn Bhd...disposed of its entire stake in PT Boga.\" (clear disclosure of material event)"
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood was incorporated in Malaysia on 21 October 2009.\"\n• Evidence 2: \"On 24 November 2017, Berjaya Food (International) Sdn Bhd disposed of its entire stake in PT Boga.\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"All KRR restaurants serve their customers in a full service, mid-casual dining setting...\" (precise description of operations)\n• Evidence 2: \"Jollibean Foods was incorporated in November 1993.\" (direct statement of factual information)"
+    "score": 10,
+    "justification": "• Evidence 1: \"BFood completed the acquisition of 11,500,000 ordinary shares... for a cash consideration of RM71.7 million.\"\n• Evidence 2: \"Jollibean Foods was incorporated in November 1993.\""
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"As at 30 April 2018, there are a total of 260 stores nationwide...\" (useful for assessing market presence)\n• Evidence 2: \"On 7 September 2014, BStarbucks opened its first drive-thru concept store...\" (historical operational milestones)"
+    "score": 8,
+    "justification": "• Evidence 1: \"As at 30 April 2018, there are a total of 260 stores nationwide...\"\n• Evidence 2: \"On 16 February 2014, BStarbucks opened its first store in Brunei Darussalam...\""
   }
 }

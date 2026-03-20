@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BFood follows the Industrial Relations Act 1967, respects local laws that protect workers’ rights...\" (specific legal compliance)\n• Evidence 2: \"The Group recorded no human rights incidents during this reporting period.\" (quantifiable fact)"
+    "justification": "• Evidence 1: \"BFood follows the Industrial Relations Act 1967, respects local laws that protect workers’ rights...\" (specific legal adherence)\n• Evidence 2: \"The Group recorded no human rights incidents during this reporting period.\" (specific factual disclosure)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Employees or their representatives can openly communicate...\" (clear, direct language)\n• Evidence 2: \"Superiors and heads of department are responsible...\" (precise responsibility allocation)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Employees or their representatives can openly communicate...\" (clear statement of rights)\n• Evidence 2: \"Superiors and heads of department are responsible...\" (direct language about overtime policies)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"BFood adheres to all applicable employment and human rights regulations...\" (material compliance information)\n• Evidence 2: \"The Group’s Whistleblowing channel...\" (corporate governance mechanism)"
+    "justification": "• Evidence 1: \"The Group recorded no human rights incidents...\" (material event relevant to investors)\n• Evidence 2: \"In a work situation, limited overtime...\" (operational policy impacting labor practices)"
   }
 }

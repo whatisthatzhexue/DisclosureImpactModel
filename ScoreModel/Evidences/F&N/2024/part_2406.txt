@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The responsibility for day-to-day risk management resides with the Management...\" (neutral, objective description of roles)\n• Evidence 2: \"develop and implement action plans to further mitigate the risks...\" (discloses risk management processes without overstatement)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The responsibility for day-to-day risk management resides with the Management of each function/business unit where they are the risk owners and are accountable for managing the risks identified and assessed.\"\n• Evidence 2: \"Risk Management Department, together with the Management from business operations, review and ensure continuous monitoring of risks, assess the adequacy and effectiveness of its controls...\""
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Three-lines of Defence\" model with clear hierarchical structure (logical segmentation of responsibilities)\n• Evidence 2: \"Day-to-day management of risk from key activities...\" (precise language explaining roles)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group applies the 'Three-lines of Defence' model to ensure a structured approach, clearly defining roles and responsibilities across various functions...\"\n• Evidence 2: \"Collectively, these lines of defense work in harmony to create a robust risk management and internal control system...\""
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"meets on a quarterly basis to share emerging and significant risks...\" (addresses investor concerns about risk exposure)\n• Evidence 2: \"fostering a culture of accountability...\" (implies governance relevance but lacks specific material event disclosures)"
+    "justification": "• Evidence 1: \"The Management Risk Committee... meets on a quarterly basis to share emerging and significant risks faced by the business...\"\n• Evidence 2: \"develop and implement action plans to further mitigate the risks to an acceptable level for the Group.\""
   }
 }

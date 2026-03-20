@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"no major transactions were entered by the Group with related parties during the financial year ended 31 March 2019\"\n• Evidence 2: \"the Audit Committee conducted a formal evaluation... via the Internal Audit Function Evaluation Checklist\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee reviewed the Corporate Governance Report... and other information required for disclosure\"\n• Evidence 2: \"the status of agreed management action plans for the previous internal audit findings\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the Statements and Reports Disclosed in Annual Report\" (covers governance and disclosure requirements)\n• Evidence 2: \"Reviewed the Updated Enterprise Risk Management Report\" (addresses material risks)"
+  }
+}

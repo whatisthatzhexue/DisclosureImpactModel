@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 3,
-    "justification": "• Evidence 1: The text lists ownership percentages (e.g., '100% Berjaya Starbucks Coffee') without contextualizing risks or uncertainties.\n• Evidence 2: No discussion of financial performance, challenges, or objective analysis is provided."
+    "score": 2,
+    "justification": "• Evidence 1: No discussion of financial performance, risks, or uncertainties\n• Evidence 2: Text contains only ownership structure details without factual substantiation"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: The structure is a clear list of entities and ownership percentages, which is direct.\n• Evidence 2: The language is precise but lacks explanation of the significance of the listed entities or percentages."
+    "score": 5,
+    "justification": "• Evidence 1: Clear listing of entities with percentages\n• Evidence 2: Lacks contextual explanation for ownership structure"
   },
   "Relevance": {
     "score": 1,
-    "justification": "• Evidence 1: The text contains no forward-looking information, risk disclosures, or analysis of financial performance.\n• Evidence 2: It focuses solely on corporate structure rather than investor-relevant factors like strategic initiatives or market risks."
+    "justification": "• Evidence 1: No forward-looking information or risk disclosures\n• Evidence 2: No material events, governance, or performance analysis"
   }
 }

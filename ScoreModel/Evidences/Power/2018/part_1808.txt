@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"the Audit Committee is satisfied that...\" (neutral, objective assessment based on review)\n• Evidence 2: \"cost incurred... RM338,189.00\" (specific factual disclosure)"
+    "score": 8,
+    "justification": "• Evidence 1: \"the Audit Committee is satisfied that... adequate and effective\" [neutral, objective assessment]\n• Evidence 2: \"the cost incurred... amounted to RM338,189.00\" [specific factual disclosure]"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"structured sections (INTERNAL AUDIT FUNCTION, Risk-based internal audit plan...)\" (clear logical flow)\n• Evidence 2: \"specific examples of audit areas...\" (precise, direct language)"
+    "score": 7,
+    "justification": "• Evidence 1: \"the internal audit procedures applied principally consisted of process evaluations through interviews...\" [clear procedural description]\n• Evidence 2: \"the Audit Committee reports the results... for regulatory compliance\" [logical flow of responsibilities]"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Risk-based internal audit plan... key business risks\" (directly addresses risk management relevance)\n• Evidence 2: \"cost incurred...\" (financial information relevant to investors)"
+    "justification": "• Evidence 1: \"Risk-based internal audit plan... identified in the Group’s key risk profile\" [direct risk disclosure]\n• Evidence 2: \"management responses and action plans... for regulatory compliance\" [material governance information]"
   }
 }

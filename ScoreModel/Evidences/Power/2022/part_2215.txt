@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Audit Committee had also considered the nature of other non-audit services provided during the year by the External Auditors and the quantum of the fees... and was satisfied that the provision of these non-audit services did not in any way compromise their independence.\"\n• Evidence 2: \"The audit and non-audit fees incurred for services rendered by KPMG PLT... were as follows: Company Group Description Audit Fees (RM) 58,000 223,500 Non-Audit Fees (RM) 11,500 94,000...\""
+    "score": 8,
+    "justification": "• Evidence 1: \"was satisfied that the provision of these non-audit services did not in any way compromise their independence\"\n• Evidence 2: \"audit and non-audit fees incurred for services rendered by KPMG PLT... were as follows: [specific figures]\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Audit Committee had also considered the nature of other non-audit services provided during the year by the External Auditors...\" (clear, direct language)\n• Evidence 2: \"The state of the internal control system and Internal Audit Function of the Group is explained in greater detail in the Statement...\" (precise reference to supporting documents)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee had also considered the nature of other non-audit services... and was satisfied...\" (clear structure and logical flow)\n• Evidence 2: \"The in-house Internal Audit Function and the outsourced Internal Audit Function report directly to the Audit Committee...\" (precise language with clear responsibilities)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board affirms its overall responsibility for maintaining a sound risk management and internal control system...\" (directly addresses corporate governance and risk management)\n• Evidence 2: \"The summary of the Audit Committees’ activities and oversight... is set out in the Audit Committee Report...\" (provides investor-relevant governance information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board affirms its overall responsibility for maintaining a sound risk management...\" (directly addresses corporate governance and risk management)\n• Evidence 2: \"The state of the internal control system... is explained in greater detail...\" (provides material information for investor assessment)"
   }
 }

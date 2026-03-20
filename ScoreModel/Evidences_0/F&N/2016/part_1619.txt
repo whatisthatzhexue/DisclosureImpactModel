@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The GRMF provides for the identification and management of risks using a top-down and bottom-up approach, and is embedded in the corporate culture, processes and structures of the Group.\"\n• Evidence 2: \"The RMC had held 4 meetings on a quarterly basis to review the implementation of the risk management framework...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Enterprise Risk Management (\"ERM\") Process\" section clearly outlines risk identification, assessment, reporting, and review with numbered sub-sections.\n• Evidence 2: \"The risks identified are reported under the following categories: 1 Corporate & Strategic...6 Information Technology\" provides a structured, direct breakdown of risk types."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board regards risk management as an integral part of the operations and processes of the Group\" directly addresses investor concerns about governance and risk oversight.\n• Evidence 2: \"Risk appetite statements...are reviewed by the RMC annually\" provides material information about risk tolerance and governance processes."
+  }
+}

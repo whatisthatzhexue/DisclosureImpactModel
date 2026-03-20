@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Launched in April 2022, pioneering a first as sweet potato has never been used to flavour condensed milk before.\" (specific factual claim)\n• Evidence 2: \"The new product was made available exclusively at Makro in September 2022 and will be rolled out nationwide in December 2022\" (forward-looking statement with timeline)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"TEAPOT Purple Sweet Potato Flavoured SCM Tube comes in 150g tubes, making it perfect for small and frequent treats.\" (clear product description)\n• Evidence 2: \"The product is available in 385g cans, like other evaporated milk products.\" (comparative clarity)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&B Thailand launched TEAPOT Evaporated Milk Product for Cooking & Bakery in May 2022\" (material event with business impact)\n• Evidence 2: \"TEAPOT rolled out a nationwide consumer programme... to win grand prizes\" (forward-looking marketing strategy)"
+  }
+}

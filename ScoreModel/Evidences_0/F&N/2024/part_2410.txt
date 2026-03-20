@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The authority limits...periodically reviewed and updated to reflect changes in the business...\" (specific fact about process)\n• Evidence 2: \"Compliance with these policies...internal control framework.\" (objective statement about framework)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Annual Business Plan sets the targets...actual achievement against the Group’s targets\" (clear structure of performance monitoring)\n• Evidence 2: \"Policies, standards and procedures...when new business requirements need to be met.\" (precise explanation of review process)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Annual Business Plans and Performance Monitoring...platform for performance to be periodically monitored\" (directly relevant to investor decision-making)\n• Evidence 2: \"Human Capital...succession planning\" (links governance to business objectives)"
+  }
+}

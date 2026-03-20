@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Group has a whistleblowing policy...without fear of any form of victimisation, harassment, retribution or retaliation.\" (neutral, factual statement)\n• Evidence 2: \"The Adequate Procedures...published on the Company’s website.\" (specific, verifiable information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group has a whistleblowing policy... published on the Company’s website.\"\n• Evidence 2: \"The Group and affiliated companies strictly adopt a zero-tolerance policy approach... not participate in any corrupt activities for its advantage or benefit.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Group and affiliated companies strictly adopt a zero-tolerance policy...corrupt activities for its advantage or benefit.\" (clear, direct language)\n• Evidence 2: \"The whistleblowing policy is published on the Company’s website.\" (precise, unambiguous statement)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The whistleblowing policy is published on the Company’s website.\"\n• Evidence 2: \"strictly adopt a zero-tolerance policy approach... take all reasonable and appropriate measures\" (clear, direct language)."
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"In response to Section 17A of the Malaysian Anti-Corruption Commission Act 2009...\" (links policy to regulatory requirements)\n• Evidence 2: \"take all reasonable and appropriate measures...not participate in any corrupt activities\" (pertains to corporate governance and risk management)"
+    "score": 7,
+    "justification": "• Evidence 1: \"In response to Section 17A... the Group has established its Anti-Bribery and Corruption Policy\" (links to regulatory requirements).\n• Evidence 2: \"strictly adopt a zero-tolerance policy approach... ensure directors and employees act professionally and with integrity\" (relevant to corporate governance and risk management)."
   }
 }

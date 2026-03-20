@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 2,
-    "justification": "• Evidence 1: No specific risks, challenges, or uncertainties disclosed\n• Evidence 2: No factual support provided for principles referenced"
+    "score": 1,
+    "justification": "• Evidence 1: No specific facts or risk disclosures are provided in the text.\n• Evidence 2: The text only references principles without elaborating on risks, challenges, or uncertainties."
   },
   "Understandability": {
-    "score": 4,
-    "justification": "• Evidence 1: Fragmented structure with incomplete sentences (e.g., 'Sustainability &')\n• Evidence 2: Acronyms (EXCO, AuditCom, etc.) used without explanation"
+    "score": 2,
+    "justification": "• Evidence 1: The text uses clear headings but lacks substantive content to explain concepts.\n• Evidence 2: The structure is minimal and does not provide precise information about risk management or governance."
   },
   "Relevance": {
-    "score": 3,
-    "justification": "• Evidence 1: No substantive content on risks, material events, or governance structures\n• Evidence 2: References to principles without contextual explanation for investor decision-making"
+    "score": 1,
+    "justification": "• Evidence 1: No forward-looking information or material events are disclosed.\n• Evidence 2: The text does not address investor decision-making or corporate governance details."
   }
 }

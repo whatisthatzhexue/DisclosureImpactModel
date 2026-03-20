@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Encik Azahar Bin Baharudin, who has served as an Independent Non-Executive Director since 28 April 2014 which exceeds the cumulative term of nine -9 years, will be subject to shareholders’ approval via the two-tier voting process in the forthcoming Annual General Meeting to continue as an Independent Non-Executive Director.\"\n• Evidence 2: \"All Directors (including the Chief Executive Officer who is an Executive Director) shall retire at regular intervals by rotation at least once every three (3) years and shall be eligible for re-election.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The process for the nomination and selection of new Directors per the Policy and Procedures on Nomination and Selection of Directors entails identification of potential candidates... final deliberation by the Nominating Committee and recommendation to the Board.\"\n• Evidence 2: \"The Nominating Committee may seek independent professional advice, at the Company’s expense, to perform its responsibilities in the nomination and selection of new Directors.\""
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Recommendations for re-appointment of retiring Directors... are made in the notes to the agenda of the General Meeting.\"\n• Evidence 2: \"Disclosures on the interest, position and relationship of such Directors as well as the Nomin. Committee and Board’s evaluation and recommendation to the shareholders are made in the notes to the agenda of the General Meeting.\""
+  }
+}

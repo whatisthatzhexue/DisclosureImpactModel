@@ -2,14 +2,14 @@
   "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"developing and implement the risk management process which includes the identification of key risks and devising appropriate additional action plan in cases where existing controls are ineffective, inadequate or non-existent\" \n• Evidence 2: \"Key Risks Register are used for the identification of high residual risks which are above the risk appetite of the Group that requires the Risk Management Committee and the Board’s immediate attention\""
+    "justification": "• Evidence 1: \"develop and implement the risk management process which includes the identification of key risks and devising appropriate additional action plan in cases where existing controls are ineffective, inadequate or non-existent\" \n• Evidence 2: \"Key Risks Register are used for the identification of high residual risks which are above the risk appetite of the Group that requires the Risk Management Committee and the Board’s immediate attention\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Periodic review and update of the Key Risks Register of the Group and determination of corrective management action plan, if required\" \n• Evidence 2: \"Risk assessment, at gross and residual level, are guided by the likelihood rating and impact rating established based on the risk appetite approved by the Board\""
+    "justification": "• Evidence 1: \"structured risk management process as defined in the Risk Management Framework is employed by the Risk Management Committee and the Head of Departments for risk identification, risk assessment, control identification, risk treatment and control activities\" \n• Evidence 2: \"periodic review and update of the Key Risks Register of the Group and determination of corrective management action plan, if required\""
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Key Risks Register are used for the identification of high residual risks which are above the risk appetite of the Group that requires the Risk Management Committee and the Board’s immediate attention\" \n• Evidence 2: \"roles and responsibilities of the Risk Management Committee includes the following: a) Implement the risk management framework...\""
+    "score": 7,
+    "justification": "• Evidence 1: \"Key Risks Register are used for the identification of high residual risks which are above the risk appetite of the Group that requires the Risk Management Committee and the Board’s immediate attention\" \n• Evidence 2: \"risk assessment, at gross and residual level, are guided by the likelihood rating and impact rating established based on the risk appetite approved by the Board\""
   }
 }

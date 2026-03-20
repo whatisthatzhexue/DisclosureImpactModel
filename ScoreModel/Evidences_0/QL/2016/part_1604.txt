@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Such minutes shall be conclusive evidence without further proof of the facts thereon stated;\" (demonstrates objective procedural standards)\n• Evidence 2: \"A majority of members present must be Independent Directors\" (neutral factual statement about quorum requirements)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Meetings shall be held at least every quarter in a calendar year\" (precise, direct language)\n• Evidence 2: \"Such minutes shall be signed by the Chairman... or by the Chairman of the next succeeding meeting\" (clear procedural structure)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The external auditor may request a meeting if they consider one necessary\" (moderate relevance to governance processes)\n• Evidence 2: \"Quorum... Independent Directors\" (corporate governance relevance, but lacks direct investor decision-making context)"
+  }
+}

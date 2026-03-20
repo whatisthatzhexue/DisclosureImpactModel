@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The activities undertaken by internal auditors are in conformance with the International Professional Practice Framework (IPPF) on Internal Auditing issued by the Institute of Internal Auditors (IIA)\" (specific standard adherence).\n• Evidence 2: \"Significant issues were identified and discussed with Management and proposed remedial actions were deliberated and monitored\" (objective disclosure of audit findings)."
+    "justification": "• Evidence 1: \"The internal audit function provided the AC on a quarterly basis, an independent and objective report...\" (neutral, factual reporting)\n• Evidence 2: \"Significant issues were identified and discussed with Management and proposed remedial actions were deliberated and monitored.\" (shows accountability but lacks explicit risk disclosure)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The scope of the planned independent audit assignments covered the following: -\" (clear structure with bullet points).\n• Evidence 2: \"The total cost incurred for the internal audit function is RM179,000\" (precise numerical disclosure)."
+    "justification": "• Evidence 1: \"The scope of the planned independent audit assignments covered the following:\" (clear structure with bullet points)\n• Evidence 2: \"During the financial year, the total cost incurred...\" (precise, direct language with specific figures)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"The internal audit function provided the AC on a quarterly basis, an independent and objective report on the state of internal control...\" (corporate governance relevance).\n• Evidence 2: \"The extent of compliance with the Group’s established policies and procedures as well as relevant statutory requirements\" (policy compliance disclosure)."
+    "score": 6,
+    "justification": "• Evidence 1: \"The internal audit function provided the AC...state of internal control...compliance with the Group’s established policies\" (relevant to governance but lacks material event disclosure)\n• Evidence 2: \"Cost control management...asset management\" (operational relevance but no forward-looking information)"
   }
 }

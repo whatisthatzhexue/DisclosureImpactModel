@@ -1,6 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 2, "justification": "• Evidence 1: [No specific facts or risk disclosures provided]\n• Evidence 2: [No neutral or objective statements about risks or uncertainties]"},
-  "Understandability": {"score": 4, "justification": "• Evidence 1: [Listed categories lack explanation or structure]\n• Evidence 2: [No precise language or professional terms used]"},
-  "Relevance": {"score": 2, "justification": "• Evidence 1: [No forward-looking information or investor-relevant details]\n• Evidence 2: [No connection to financial performance or governance]"}
+  "Reliability": {
+    "score": 2,
+    "justification": "• Evidence 1: [No specific facts or risks disclosed]\n• Evidence 2: [No neutral/objective statements provided]"
+  },
+  "Understandability": {
+    "score": 3,
+    "justification": "• Evidence 1: [Run-on sentence: 'Compliance Employee wellness, engagement & satisfaction']\n• Evidence 2: [Unclear structure with mixed categories]"
+  },
+  "Relevance": {
+    "score": 2,
+    "justification": "• Evidence 1: [No investor-focused information provided]\n• Evidence 2: [No forward-looking statements or risk explanations]"
+  }
 }

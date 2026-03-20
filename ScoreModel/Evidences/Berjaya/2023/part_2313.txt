@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Following a comprehensive review of the results this year, the management of BFood confirmed the continued relevance and significance of the identified material aspects.\" (supports factual disclosure of review process)\n• Evidence 2: \"Insights gleaned from this study guide BFood's decision-making processes...\" (neutral, objective explanation of stakeholder influence)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The management of BFood confirmed the continued relevance and significance of the identified material aspects\" (no explicit risks disclosed, but shows objective assessment)\n• Evidence 2: \"Maintaining transparent and continuous communication... shaping its business strategy\" (neutral, fact-based description of practices)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Stakeholder Group Engagement Platforms\" table (clear structure with direct categorization)\n• Evidence 2: \"Engagement with stakeholders is an ongoing and pervasive practice...\" (precise description of engagement frequency)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Stakeholder Group Engagement Platforms\" table with clear categorization and specific interaction methods\n• Evidence 2: \"Annual discussions to more frequent monthly or weekly engagements\" (precise language describing engagement frequency)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"This review reaffirmed the Group's commitment to addressing these key factors, aligning its business strategies with stakeholder expectations...\" (directly links stakeholder engagement to business strategy)\n• Evidence 2: \"Sustainable supply chain...Customer service\" (lists material sustainability topics relevant to investors)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Insights gleaned from this study guide BFood's decision-making processes... long-term sustainability objectives\" (directly links disclosures to strategic decisions)\n• Evidence 2: \"Aligning its business strategies with stakeholder expectations\" (explicitly connects disclosures to investor-relevant strategic alignment)"
   }
 }

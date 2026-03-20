@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"three Signing Stores across Malaysia employ 18 Deaf and Hard of Hearing employees (\"partners\")\" [specific factual claim]\n• Evidence 2: \"Fourteen Deaf employees (\"partners\") are certified through Starbucks' Coffee Master programme\" [verifiable data]"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Starbucks Signing Store is an innovative concept designed to meet the needs of the Deaf and Hard of Hearing community\" [clear purpose statement]\n• Evidence 2: \"Offering an extended training period ensures Deaf and Hard of Hearing partners can learn comfortably\" [direct explanation of policy]"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"collaborates closely with Deaf NGOs for training and development\" [corporate governance/management insight]\n• Evidence 2: \"foster a supportive environment where experienced Deaf partners... provide on-the-job training\" [internal management practices]"
+  }
+}

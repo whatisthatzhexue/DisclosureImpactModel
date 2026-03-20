@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee reports that there was no significant matter of disagreement between the auditors and Management.\"\n• Evidence 2: \"The amount incurred in respect of non-audit related fees amounted to RM192,000 (FY2019: RM284,000)\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee is responsible among others, to review and monitor the integrity of the Group’s reporting process...\"\n• Evidence 2: \"The operational costs incurred by Group Internal Audit for the financial year 2020 amounted to about RM1.4 million\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee had reviewed the performance of the Group Internal Audit function during the financial year 2020...\"\n• Evidence 2: \"The related party transactions entered into by the Group were reviewed by the Audit Committee...\""
+  }
+}

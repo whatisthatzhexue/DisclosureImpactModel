@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8.2,
-    "justification": "The majority of scoring results (e.g., 8–9) highlight strong reliability through specific factual data (e.g., \"RM789.0 million (FYE 2018 RM639.7 million)\", \"external auditors performed limited assurance procedures\") and neutral, objective language. Lower scores (e.g., 6–7) reflect gaps in risk disclosure or vague statements (e.g., \"no mention of risks, material events, or corporate governance\"). The highest score (10) emphasizes compliance with accounting standards, while the lowest (1) stems from lack of substantive content. Compromised to 8.2 to balance high-quality disclosures with occasional gaps in risk transparency."
+    "score": 8,
+    "justification": "The majority of scoring results (e.g., 7–9) highlight strong reliability through specific factual data (e.g., precise revenue figures, transaction disclosures, and neutral explanations of performance drivers). These entries provide verifiable details like dates, numerical comparisons, and cause-effect relationships. However, a few lower scores (e.g., 5–6) note gaps in risk disclosures or overstatements (e.g., claims about sustainability). The compromise score of 8 reflects the prevalence of objective, factual disclosures while acknowledging the need for improved transparency on risks and uncertainties."
   },
   "Relevance": {
-    "score": 6.5,
-    "justification": "Higher scores (e.g., 7–8) reflect forward-looking strategic plans (e.g., \"plans to open 25 new stores\", \"align with UN Sustainable Development Goals\") and investor-focused disclosures (e.g., \"59.40% of attributable profit\"). Lower scores (e.g., 5–6) indicate insufficient context for material events, lack of risk analysis, or limited connection to financial performance (e.g., \"no forward-looking information\", \"awards lists without context\"). Compromised to 6.5 to reflect mixed relevance between strategic insights and gaps in material event analysis."
+    "score": 7,
+    "justification": "Higher scores (e.g., 7–9) reflect forward-looking strategic initiatives (e.g., store expansion plans, digital transformation) and material financial data (e.g., revenue growth, profit metrics) directly relevant to investors. Lower scores (e.g., 3–5) lack such context, focusing instead on operational details without linking to investor priorities (e.g., no risk disclosures, historical events without strategic significance). The score of 7 balances the dominance of investor-relevant information with the need for stronger forward-looking and risk-related content."
   },
   "Understandability": {
-    "score": 7.6,
-    "justification": "Most scores (e.g., 7–9) praise clear numerical context (e.g., \"precise temporal reference\", \"direct terminology with technical explanations\") and structured presentation (e.g., \"bullet points and headings\"). Lower scores (e.g., 5–6) cite ambiguous phrasing (e.g., \"misplaced/ambiguous sentence\") or repetitive content (e.g., \"redundant repetition of BFood/BStarbucks\"). Compromised to 7.6 to emphasize strong clarity in most sections while acknowledging occasional structural or linguistic issues."
+    "score": 8,
+    "justification": "Most entries (e.g., 7–9) demonstrate clarity through precise numerical data, logical structure, and direct language (e.g., clear temporal context, percentage relationships). However, some lower scores (e.g., 5–6) cite redundancy, vague phrasing, or jargon (e.g., unexplained acronyms like \"KRR i.Care Box\"). The score of 8 reflects the prevalence of clear, structured explanations while noting areas for improvement in avoiding redundancy and enhancing precision."
   }
 }

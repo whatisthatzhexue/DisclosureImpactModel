@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The ARMC held five -5 meetings during the financial year ended 30 June 2022. The details of attendance of the ARMC members are as follows:...\" (shows factual transparency)\n• Evidence 2: \"The ARMC... had private discussions with the External Auditors... to discuss any problems/issues...\" (acknowledges potential issues but lacks explicit risk disclosure)"
+    "justification": "• Evidence 1: \"The Chairman of the Board should not be a member of the ARMC.\" (Discloses governance compliance)\n• Evidence 2: \"The ARMC meetings were convened with proper notices and agenda...\" (Objective process description)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The ARMC meetings were convened with proper notices and agenda...\" (clear process description)\n• Evidence 2: \"The duties and responsibilities of the ARMC are set out in its terms of reference...\" (direct reference to documentation)"
+    "justification": "• Evidence 1: \"The ARMC held five -5 meetings...\" (Clear numerical structure)\n• Evidence 2: \"Reviewed the quarterly financial statements...\" (Precise, direct language)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"Reviewed the quarterly financial statements... to ensure compliance with MFRS 134...\" (financial reporting relevance)\n• Evidence 2: \"Discussed... key audit matters...\" (audit relevance but lacks forward-looking information)"
+    "justification": "• Evidence 1: \"Compliance with Malaysian Financial Reporting Standard...\" (Relevant regulatory context)\n• Evidence 2: \"Discussed significant accounting adjustments...\" (Material audit issues)"
   }
 }

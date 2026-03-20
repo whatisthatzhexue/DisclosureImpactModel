@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"QL is certified as a palm oil cultivator who employs environmentally sustainable methods under the Indonesian Sustainable Palm Oil (ISPO) system.\" (specific certification and method)\n• Evidence 2: \"FFB production in FY2019 increased by about 10% to 139,000 metric tonnes\" (quantifiable data with context)\n• Evidence 3: \"competition from new players... reduced harvest... poor CPO prices caused many players... to fatigue\" (disclosure of risks and challenges)"
+    "justification": "• Evidence 1: \"QL is certified as a palm oil cultivator who employs environmentally sustainable methods under the Indonesian Sustainable Palm Oil (ISPO) system.\" (specific certification and method)\n• Evidence 2: \"FFB production in FY2019 increased by about 10% to 139,000 metric tonnes...\" (quantifiable performance data with comparison)\n• Evidence 3: \"competition from new players... reduced harvest... poor CPO prices caused many players... to fatigue.\" (disclosure of risks and challenges)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"FFB production increased by about 10% to 139,000 metric tonnes\" (clear numerical comparison)\n• Evidence 2: \"16,000 hectares located in East Malaysia and Northern Kalimantan\" (precise location data)\n• Evidence 3: \"Boilermech complements the plantation and milling activities\" (somewhat vague phrasing, but contextually clear)"
+    "justification": "• Evidence 1: \"FFB production in FY2019 increased by about 10% to 139,000 metric tonnes...\" (clear numerical data)\n• Evidence 2: \"44%-equity stake in one of the largest biomass boiler manufacturers...\" (precise ownership detail)\n• Evidence 3: Repetition of location names (East Malaysia, Northern Kalimantan) may cause redundancy, but overall structure is logical"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The developments in this pillar in FY2019 were as anticipated in the previous annual report\" (explains performance context)\n• Evidence 2: \"competition from new players... reduced harvest... poor CPO prices\" (material risks affecting operations)\n• Evidence 3: \"FFB production... increased by about 10%\" (performance change explanation)"
+    "justification": "• Evidence 1: \"The developments in this pillar in FY2019 were as anticipated in the previous annual report...\" (explains performance continuity)\n• Evidence 2: \"competition from new players... reduction in FFB supply... poor CPO prices...\" (material risks affecting operations)\n• Evidence 3: Lack of forward-looking statements or governance details limits relevance for investor decision-making"
   }
 }

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"There were no significant cases of non-compliance discovered during our FY2022 inspections.\"\n• Evidence 2: \"BFood has integrated its social supply chain policy and practices into buyer training...\""
+    "score": 8,
+    "justification": "• Evidence 1: [exact quote]There were no significant cases of non-compliance discovered during our FY2022 inspections.\n• Evidence 2: [exact quote]BFood has integrated its social supply chain policy and practices into buyer training... suppliers’ contracts."
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Policies• Preventing child labour...\"\n• Evidence 2: \"BFood informally assesses all suppliers, through physical inspection audits.\""
+    "score": 7,
+    "justification": "• Evidence 1: [exact quote]BFood ensures that its major supply chain partners adhere to all social standards stipulated by the Malaysian Labour Law and the International Labour Organisation.\n• Evidence 2: [exact quote]The Group engages with its major suppliers in building capacity in areas that include social and environmental issues."
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"The Group engages with its major suppliers in building capacity...\"\n• Evidence 2: \"All suppliers are welcome to voice their concerns through Whistleblowing...\""
+    "justification": "• Evidence 1: [exact quote]BFood has a goal of helping its suppliers improve their performance sustainably through dedicated learning on risk issues...\n• Evidence 2: [exact quote]All suppliers are welcome to voice their concerns through Whistleblowing the supply chain team channel."
   }
 }

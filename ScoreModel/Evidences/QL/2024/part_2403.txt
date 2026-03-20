@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Number of work-related fatalities C5(a) No. of fatalities 1\" [specific factual data]\n• Evidence 2: \"The outcome of the above review had been tabled as a report to the Audit Committee for their review and approval\" [internal verification process]"
+    "justification": "• Evidence 1: \"The review procedures applied primarily comprises process evaluation, documentary reviews & sampling test on data. Internal auditors selected samples...\" (shows verification process)\n• Evidence 2: \"The outcome of the above review had been tabled as a report to the Audit Committee for their review and approval.\" (demonstrates oversight mechanism)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Energy consumption C4(a) Gigajoules (GJ) 2,161,706.80 GJ\" [clear metrics with units]\n• Evidence 2: \"Procedures Adopted... internal auditors selected samples...\" [structured explanation of review process]"
+    "score": 7,
+    "justification": "• Evidence 1: \"Matters Common Indicators Ref UOM Final Outcome\" (clear section headers)\n• Evidence 2: \"Scope of Work and Limitation\" (explicitly defines review boundaries)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"Spending on local suppliers C7(a) % of spending 51.5%\" [material financial metric]\n• Evidence 2: \"The review does not carry out any procedures with respect to any other elements...\" [limits scope but lacks forward-looking info]"
+    "justification": "• Evidence 1: \"Data Privacy & Security Breaches of customer privacy and losses of customer data\" (material risk disclosure)\n• Evidence 2: \"The review does not carry out any procedures with respect to any other elements...\" (limits scope of disclosure)"
   }
 }

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Code, Whistleblowing and Fraud Control Policies are available for reference at the Company’s website at www.fn.com.my.\" (provides verifiable source)\n• Evidence 2: \"Where fraud is suspected, investigations will be conducted and where fraud has been established, appropriate actions will be taken in line with existing policies and procedures.\" (specific process description)"
+    "justification": "• Evidence 1: \"The Group adopts a 'zero tolerance' stance towards fraud.\" (Specific policy stance)\n• Evidence 2: \"Allegations of improprieties which are reported via the whistle-blowing channel... will be reported at the Audit Committee meetings.\" (Transparent follow-up process)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Chart of Authority provides guidance on the division of responsibilities between the Board and Management\" (clear explanation of governance structure)\n• Evidence 2: \"Performance Management System which provides rating criteria for the assessment of employees’ performance based on agreed Key Result Areas and competencies defined\" (precise description of evaluation process)"
+    "justification": "• Evidence 1: \"The Chart of Authority provides guidance on the division of responsibilities between the Board and Management.\" (Clear structure)\n• Evidence 2: \"Performance Management System which provides rating criteria for the assessment of employees' performance...\" (Precise terminology for defined processes)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Board and Board Committees provide oversight function and ascertain the adequacy of the internal control framework in the Group\" (corporate governance relevance)\n• Evidence 2: \"Annual Business Plans and Performance... provide a platform for performance to be periodically monitored and followed up\" (investor-relevant operational tracking)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Board and Board Committees provide oversight function...\" (Corporate governance relevance)\n• Evidence 2: \"Annual Business Plans and Performance... provide a platform for performance to be periodically monitored.\" (Investor-relevant operational transparency)"
   }
 }

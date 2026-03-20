@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "The majority of scoring results (e.g., 8–9) highlight strong reliability through specific factual disclosures, transparency about risks, and adherence to standards (e.g., ISO certifications, dividend disclosures, and risk mitigation strategies). Lower scores (e.g., 1–3) are outliers due to lack of risk disclosure or incomplete information, but these are exceptions. The balanced approach reflects the high-quality disclosures in most sections, such as conditional dividend recognition, third-party validations, and objective risk assessments."
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "High scores (e.g., 7–9) emphasize clear numerical presentation, structured formatting (e.g., bullet points, tables), and precise language (e.g., \"RM128 million investment\"). Lower scores (e.g., 3–5) stem from fragmented or unclear data (e.g., mixed numbering, lack of contextual explanation). The final score reflects the dominance of well-structured, precise information while acknowledging minor inconsistencies in some sections."
+    "score": 8.5,
+    "justification": "The final score of 8.5 reflects strong reliability, supported by consistent disclosure of risks, uncertainties, and factual statements across multiple scoring results. High-scoring entries (e.g., 9) highlight transparency in financial reporting (e.g., \"Adjusted PBT (iv)\"), third-party validations (e.g., \"selected Safety, Health and Environment (SHE) disclosure has been externally validated by Lloyds Register Quality Assurance (LRQA)\"), and clear risk acknowledgment (e.g., \"The exposure in product quality and standards may bring serious ramifications\"). Lower scores (e.g., 6) were attributed to insufficient risk disclosure or overoptimistic phrasing (e.g., \"NONA POSITIONS ITSELF TO ENABLING CONSUMERS TO SERVE UP A GREAT MEAL DESPITE A BUSY WORK SCHEDULE\"). Compromised scores (e.g., 7) balanced factual disclosures with gaps in contextual explanation."
   },
   "Relevance": {
-    "score": 8,
-    "justification": "Most scoring results (e.g., 7–9) demonstrate strong relevance through forward-looking strategies (e.g., market expansion, sustainability goals), material event disclosures (e.g., rebranding, dividend policies), and investor-focused metrics (e.g., profit growth, risk mitigation). Lower scores (e.g., 0–5) are due to missing context or lack of forward-looking information, but these are exceptions. The final score balances the majority of relevant, investor-focused content with the need to address gaps in some sections."
+    "score": 8.2,
+    "justification": "The score of 8.2 indicates high relevance, driven by forward-looking strategic goals (e.g., \"STRATEGIC OBJECTIVE 1: ENHANCE REVENUE...\") and material event disclosures (e.g., \"Expanded to 4 new countries...\"). High-scoring entries (e.g., 9) provided direct links to investor interests, such as ESG initiatives (e.g., \"Proactive stakeholder engagements...\") and financial performance metrics (e.g., \"RM382.3 million PROFIT FOR THE YEAR\"). Lower scores (e.g., 5) lacked forward-looking information or material event analysis, while mid-range scores (e.g., 7) balanced relevance with limited contextualization of risks or governance practices."
+  },
+  "Understandability": {
+    "score": 8.0,
+    "justification": "The score of 8.0 reflects strong understandability, with clear numerical presentation (e.g., \"RM454.1 million PROFIT BEFORE TAX\") and structured explanations (e.g., \"Structured sections with clear headings...\"). High-scoring entries (e.g., 9) used precise terminology and logical organization (e.g., \"Grow manufacturing capacity• Invested RM128 million...\"). Lower scores (e.g., 5) were attributed to fragmented data or vague phrasing (e.g., \"Economic, Social, Environment, Governance & Ethics\"). Mid-range scores (e.g., 7) balanced clarity with minor ambiguities, such as incomplete sentences or redundant phrasing."
   }
 }

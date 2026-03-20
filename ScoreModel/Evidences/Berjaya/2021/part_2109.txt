@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, BFT recorded a revenue of RM10.1 million compared to RM4.3 million in the financial year 2020.\"\n• Evidence 2: \"The profit before tax was mainly due to business recovery from the COVID-19 pandemic, and reduction in stocks returned as compared to the previous financial year.\""
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, BFT recorded a revenue of RM10.1 million compared to RM4.3 million in the financial year 2020. The increase in revenue was due to the increase in product distribution, as well as the launch of several new products...\" (specific factual explanation)\n• Evidence 2: \"Profit before tax was mainly due to business recovery from the COVID-19 pandemic, and reduction in stocks returned...\" (specific cause for performance change)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Berjaya Food Trading Sdn Bhd (\"BFT\")... was incorporated in Malaysia on 24 July 2013.\"\n• Evidence 2: \"BFT will launch a new series of Joybean products to provide more variety to the market.\""
+    "justification": "• Evidence 1: \"BFT has also expanded to other countries such as Myanmar, Singapore and Vietnam.\" (clear, direct statement)\n• Evidence 2: \"BFT will launch a new series of Joybean products...\" (precise language with logical progression)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The increase in revenue was due to the increase in product distribution, as well as the launch of several new products...\"\n• Evidence 2: \"BFT will launch a new series of Joybean products...\""
+    "score": 7,
+    "justification": "• Evidence 1: \"The increase in revenue was due to...launch of several new products...\" (explains performance change)\n• Evidence 2: \"BFT also has plans to bring in more well-known premium CPG...\" (forward-looking information for investors)"
   }
 }

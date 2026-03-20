@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 6,
-    "justification": "• Evidence 1: \"Revenue increased to B$2.3 million from B$2.0 million in the financial year 2020, mainly due to the gradual recovery from the global COVID-19 pandemic.\"\n• Evidence 2: \"recorded a profit before tax of B$529,000 compared to a loss before tax of B$124,000 in the previous financial year due to improved revenue from higher domestic spending and the initiative to keep operating costs low.\""
+    "justification": "• Evidence 1: \"Revenue increased to B$2.3 million from B$2.0 million...mainly due to the gradual recovery from the global COVID-19 pandemic.\"\n• Evidence 2: \"Profit before tax of B$529,000 compared to a loss before tax of B$124,000...due to improved revenue from higher domestic spending and the initiative to keep operating costs low.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, BFS’s revenue increased to B$2.3 million from B$2.0 million in the financial year 2020, mainly due to the gradual recovery from the global COVID-19 pandemic.\"\n• Evidence 2: \"BFS will continue to effectively manage its operational and administrative procedures to reduce operating and administrative costs.\""
+    "score": 6,
+    "justification": "• Evidence 1: \"The first Starbucks retail store in Brunei was opened in Mabohai Shopping Complex on 16 February 2014.\"\n• Evidence 2: \"A Starbucks outlet in Brunei.\" (redundant and vague concluding statement)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, BFS recorded a profit before tax of B$529,000 compared to a loss before tax of B$124,000 in the previous financial year due to improved revenue from higher domestic spending and the initiative to keep operating costs low.\"\n• Evidence 2: \"the company will offer innovative food and beverage products and merchandise to maintain its brand name as one of the leading coffee retail chains in Brunei.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue...mainly due to the gradual recovery from the global COVID-19 pandemic. The closed borders and travel restriction in Brunei helped spurred higher domestic consumption...\"\n• Evidence 2: \"BFS will continue to effectively manage...to maintain its brand name as one of the leading coffee retail chains in Brunei.\""
   }
 }

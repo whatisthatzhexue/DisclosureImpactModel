@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The composition of Independent Non-Executive Directors is in compliance with Paragraph 15.02(1) of the MMLR...\" (objective compliance statement)\n• Evidence 2: \"the Board is of the opinion that an adequate degree of independence is maintained...\" (neutral acknowledgment of departure from practice)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The composition of Independent Non-Executive Directors is in compliance with Paragraph 15.02(1) of the MMLR...\" \n• Evidence 2: \"The Board is of the opinion that an adequate degree of independence is maintained...\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board currently has eleven -11 members comprising two -2 Independent Non-Executive Co-Chairmen...\" (clear numerical structure)\n• Evidence 2: \"appointments to the Board and Key Senior Management should be based on the merit of the candidates...\" (precise, direct explanation of selection criteria)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board currently has eleven -11 members comprising two -2 Independent Non-Executive Co-Chairmen...\" \n• Evidence 2: \"The Board established the Board Diversity Policy on 26 November 2020.\""
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"the Board is satisfied that... the current Board’s composition represents an appropriate mix of knowledge...\" (directly addresses governance effectiveness)\n• Evidence 2: \"Please refer to Practice 5.5... for detailed disclosures on Boardroom Diversity...\" (links to relevant governance information)"
+    "justification": "• Evidence 1: \"The Board’s responsibility to ensure diversity...\" \n• Evidence 2: \"Please refer to Practice 5.5...for detailed disclosures on Boardroom Diversity...\""
   }
 }

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BStarbucks has successfully certified 4 deaf partners (employees) as Coffee Masters and promoted 1 deaf partner to a Shift Manager.\" (specific factual claims)\n• Evidence 2: \"As at 30 April 2018, there are a total of 9 deaf partners (employees) at its Signing Store in Bangsar.\" (date-specific data)"
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks has successfully certified 4 deaf partners (employees) as Coffee Masters...\" (specific factual claim)\n• Evidence 2: \"To date, BStarbucks has successfully certified...\" (quantifiable achievement)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Starbucks Outreach Community Programme at the Starbucks Signing Store, Bangsar Village 2 from September 2016 until October 2017.\" (clear temporal context)\n• Evidence 2: \"A total of 984 meal boxes were contributed during the financial year under review.\" (precise numerical summary)"
+    "justification": "• Evidence 1: \"The Starbucks Signing Store provides a platform...\" (clear purpose statement)\n• Evidence 2: \"A total of 984 meal boxes were contributed...\" (precise numerical data)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"BStarbucks is considering the opening of a second Signing Store.\" (forward-looking information)\n• Evidence 2: \"BRoasters’ annual Wishing Tree campaign has fulfilled a total of 20,000 children’s Christmas wishes.\" (quantifiable impact but lacks direct financial or strategic context for investors)"
+    "justification": "• Evidence 1: \"BStarbucks is considering the opening of a second Signing Store.\" (forward-looking information)\n• Evidence 2: \"The project has benefitted 1,060 people.\" (quantifiable impact for investors)"
   }
 }

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"624,947 beverage purchased using Starbucks tumblers.\" (specific factual data)\n• Evidence 2: \"few stores may still be using plastic bags to deplete their stock-on-hand\" (acknowledges challenges without overstatement)"
+    "score": 7,
+    "justification": "• Evidence 1: \"BRoasters sells its used cooking oil to a licensed third-party vendor for recycling into biodiesel...\" (specific fact)\n• Evidence 2: \"Charges are applied when straws and paper shopper bags are requested.\" (objective statement with measurable impact)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"rewards customers with a RM2 discount\" (precise language)\n• Evidence 2: \"replaced single-use three-compartment plastic boxes with its i-care eco-friendly paper alternatives\" (clear, direct description)"
+    "justification": "• Evidence 1: \"624,947 beverage purchased using Starbucks tumblers\" (precise numerical data)\n• Evidence 2: \"replacing single-use three-compartment plastic boxes with i-care eco-friendly paper alternatives\" (clear, direct language)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"partnered with Citta Mall for the H.O.P.E. campaign\" (material event related to sustainability)\n• Evidence 2: \"donated 84 kg of used coffee grounds\" (forward-looking initiative with community impact)"
+    "score": 5,
+    "justification": "• Evidence 1: \"Starbucks and BFS supported their 17th and 10th Earth Hour...\" (relevant to sustainability goals)\n• Evidence 2: \"Employees (Partners) from BStarbucks Citta Mall packed and donated used coffee grounds...\" (limited forward-looking information)"
   }
 }

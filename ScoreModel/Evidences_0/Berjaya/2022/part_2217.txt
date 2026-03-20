@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood calculated an average score for all areas within each stakeholder group to ensure all stakeholders are represented equally\" (neutral, objective method)\n• Evidence 2: \"The results helped BFood address gaps in its sustainability disclosure\" (acknowledges limitations without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"THE RESULTS\" section provides clear structure with specific mention of materiality matrix analysis\n• Evidence 2: Direct language explaining the purpose of the materiality assessment without vague terminology"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The results helped BFood address gaps in its sustainability disclosure\" (directly links analysis to organizational improvement)\n• Evidence 2: Mentions materiality matrix but lacks specific details about risks, forward-looking information, or investor decision-making implications"
+  }
+}

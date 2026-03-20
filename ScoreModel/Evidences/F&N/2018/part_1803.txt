@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 3,
-    "justification": "• Evidence 1: [No mention of risks, challenges, or uncertainties]\n• Evidence 2: [No specific factual disclosures beyond dates and committee activity]"
+    "justification": "• Evidence 1: \"The Board is pleased to present the following report...\" (lacks specific facts or risks)\n• Evidence 2: No disclosure of challenges, uncertainties, or objective analysis"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: [Clear structure with title and brief statement]\n• Evidence 2: [Direct language without redundancy or vague expressions]"
+    "score": 6,
+    "justification": "• Evidence 1: Clear structure with direct language about the report's purpose\n• Evidence 2: Minimal redundancy but lacks detailed explanation of committee activities"
   },
   "Relevance": {
-    "score": 3,
-    "justification": "• Evidence 1: [No mention of performance changes, forward-looking info, or material events]\n• Evidence 2: [Lacks details on corporate governance or risks]"
+    "score": 2,
+    "justification": "• Evidence 1: No forward-looking information or risk disclosures\n• Evidence 2: No material events, governance details, or performance change explanations"
   }
 }

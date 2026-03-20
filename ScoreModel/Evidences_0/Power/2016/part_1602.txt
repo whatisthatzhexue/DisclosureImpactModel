@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical in the pursuit of its strategic objectives\" (neutral, objective statement)\n• Evidence 2: \"key risk profile is used for the identification of high residual risks which are above the risk appetite of the Group\" (discloses specific risks and thresholds)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Systematic risk management process is employed by the Executive Directors and the Management for risk identification, risk assessment, control identification, risk treatment and control activities\" (clear structure of processes)\n• Evidence 2: \"review the risk registers... on an annual basis or on more frequent basis (if circumstances required)\" (precise language with conditional clarification)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"high residual risks which are above the risk appetite of the Group that require the Management and the Board’s immediate attention\" (directly relevant to investor concerns about risk exposure)\n• Evidence 2: \"report to the Audit Committee on the results of the review and assessment\" (links to corporate governance and oversight mechanisms)"
+  }
+}

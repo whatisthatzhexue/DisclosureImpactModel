@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7.5,
-    "justification": "• High-scoring entries (8–9) cite specific factual disclosures (e.g., material events, risk factors, compliance with regulations) and neutral, objective language (e.g., \"BFood recorded no human rights incidents\"). These demonstrate transparency and accountability. Lower scores (5–7) often lack specific risks, overstate claims, or omit critical disclosures (e.g., \"no specific facts or risks disclosed\"). Compromised score of 7.5 reflects balanced disclosure of material information while acknowledging gaps in some sections."
+    "score": 8,
+    "justification": "The majority of scoring results (e.g., 9, 8, 7) highlight robust reliability through specific factual disclosures (e.g., cause-effect relationships, quantitative data, risk transparency), neutral statements, and structured methodologies. Lower scores (e.g., 5, 1) are due to insufficient risk disclosure or vague statements, but these are outliers. The final score of 8 balances comprehensive evidence of factual accuracy, neutrality, and methodological rigor against occasional gaps in risk analysis."
   },
   "Relevance": {
-    "score": 7.0,
-    "justification": "• High scores (8–9) include forward-looking strategies (e.g., \"accelerating store expansion\"), material event disclosures (e.g., \"flood relief contributions\"), and investor-focused analysis (e.g., \"sustainability performance metrics\"). Lower scores (5–6) lack these elements, focusing instead on vague statements or operational details without linking to investor decision-making. Compromised score of 7.0 reflects substantial relevance to stakeholders but inconsistencies in addressing forward-looking risks and governance."
+    "score": 8,
+    "justification": "High scores (e.g., 9, 8) emphasize relevance through explanations of performance changes, forward-looking strategies, and material events (e.g., store expansion, cost optimization). Lower scores (e.g., 4, 5) lack contextual analysis or investor-focused insights, but these are exceptions. The score of 8 reflects strong alignment with investor needs, including risk mitigation, strategic planning, and governance mechanisms, while acknowledging minor gaps in forward-looking disclosures."
   },
   "Understandability": {
-    "score": 7.5,
-    "justification": "• High-scoring entries (8–9) feature clear structure (e.g., bullet points, headings), precise numerical data (e.g., \"RM193.5 million profit\"), and direct language (e.g., \"cost optimisation initiatives\"). Lower scores (5–6) suffer from vague phrasing (e.g., \"reducing waste\" without context), ambiguous data (e.g., \"5,260 3,262 323 826 2,871 5,328 30% 21% 15%\"), or overly technical jargon. Compromised score of 7.5 balances clarity with occasional ambiguities in less structured sections."
+    "score": 8,
+    "justification": "Most scoring results (e.g., 9, 8, 7) demonstrate clear, precise language, structured formatting, and numerical clarity (e.g., precise financial data, logical section headings). Lower scores (e.g., 5, 1) cite vague phrasing or lack of structure, but these are outliers. The final score of 8 captures the dominance of direct explanations, organized content, and avoidable ambiguity, while addressing minor inconsistencies in some entries."
   }
 }

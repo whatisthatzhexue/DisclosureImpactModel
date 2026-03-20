@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board has put in place a formal Group Risk Management Framework to govern the risk management process.\"\n• Evidence 2: \"The principles... are guided by ISO 31000:2018... and the updated Enterprise Risk Management... (COSO).\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group Risk Management Framework clearly defines the risk management objectives and processes...\" (clear structure)\n• Evidence 2: \"roles and responsibilities of the Board, Audit Committee...\" (precise language)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board... maintains an on-going commitment to identifying, evaluating and managing the significant risks...\" (risks and governance)\n• Evidence 2: \"clear roles and responsibilities of the Board...\" (internal management)"
+  }
+}

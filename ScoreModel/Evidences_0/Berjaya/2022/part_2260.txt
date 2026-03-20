@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 1,
+    "justification": "• Evidence 1: No specific facts or disclosures about risks, challenges, or uncertainties are present in the text.\n• Evidence 2: The text contains no objective information or neutral statements about the company's operations or financial status."
+  },
+  "Understandability": {
+    "score": 3,
+    "justification": "• Evidence 1: The text has a minimal structure with only a title and registration number, lacking logical flow or clarity.\n• Evidence 2: No precise or direct language is used to explain concepts, as the text contains no substantive content."
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text does not provide any information useful for investors' decision-making or explain performance changes.\n• Evidence 2: No forward-looking information, risks, material events, or governance details are included."
+  }
+}

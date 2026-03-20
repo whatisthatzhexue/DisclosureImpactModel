@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee continually evaluated the Group Internal Audit function to ensure its activities are performed independently and with impartiality and due professional care.\"\n• Evidence 2: \"The related party transactions entered into by the Group were reviewed by the Audit Committee to ensure that they were conducted on the Group’s normal commercial terms...\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The ambit of the Group Internal Audit function is defined in the Internal Audit Charter which is reviewed by the Audit Committee annually.\"\n• Evidence 2: \"The key activities carried out by Group Internal Audit included the following:• Performed periodic audits...\" (clear structure but some formatting issues like split words)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee also reviewed the declaration of interim dividend and recommendation of final dividend...\"\n• Evidence 2: \"The Statement on Corporate Governance...were reviewed by the Audit Committee prior to Board’s approval.\""
+  }
+}

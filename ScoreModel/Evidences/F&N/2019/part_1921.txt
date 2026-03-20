@@ -1,6 +1,6 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
-  "Reliability": {"score": 1, "justification": "• Evidence 1: [No specific facts or disclosures about risks, challenges, or uncertainties]\n• Evidence 2: [No objective statements or neutral language provided]"},
-  "Understandability": {"score": 2, "justification": "• Evidence 1: [Repetitive labeling of principles without contextual explanation]\n• Evidence 2: [Lack of precise language or logical structure]"},
-  "Relevance": {"score": 1, "justification": "• Evidence 1: [No forward-looking information or material events disclosed]\n• Evidence 2: [No corporate governance or risk-related content provided]"}
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: No disclosure of risks, challenges, or uncertainties\n• Evidence 2: No specific facts or objective information provided"},
+  "Understandability": {"score": 2, "justification": "• Evidence 1: Minimal structure with repetitive headings (e.g., 'PRINCIPLE A')\n• Evidence 2: No clear logic or explanation of concepts"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: No mention of investor decision-making or material events\n• Evidence 2: No forward-looking information or governance details provided"}
 }

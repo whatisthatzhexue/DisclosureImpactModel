@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the Audit Committee conducted an evaluation of the performance, independence and objectivity of the External Auditors via the External Auditor Performance and Independence Checklist\" (neutral, objective assessment)\n• Evidence 2: \"the External Auditors reaffirmed their independence of the Group and the Company... their commitment to communicate to the Audit Committee on their independence status on an ongoing manner\" (specific facts supporting objectivity)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee received internal audit reports... on a quarterly basis... contained the findings, recommendations and agreed management action plans\" (clear structure and precise language)\n• Evidence 2: \"the Audit Committee conducted a formal evaluation of the performance... via the In-House Internal Audit Function Evaluation Checklist\" (logical flow with specific terminology where necessary)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the Audit Committee recommended the reappointment of the External Auditors to the Board\" (directly relevant to governance and accountability)\n• Evidence 2: \"the oversight role of the Audit Committee on the internal audit function is detailed in the Statement on Risk Management...\" (links to corporate governance and internal controls)"
+  }
+}

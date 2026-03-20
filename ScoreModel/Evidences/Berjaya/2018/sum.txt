@@ -1,64 +1,32 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BFood completed the acquisition of 11,500,000 ordinary shares...for a cash consideration of RM71.7 million.\" (specific factual transaction)\n• Evidence 2: \"On 24 November 2017, Berjaya Food (International) Sdn Bhd...disposed of its entire stake in PT Boga.\" (clear disclosure of material event)"
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood was incorporated in Malaysia on 21 October 2009.\"\n• Evidence 2: \"On 24 November 2017, Berjaya Food (International) Sdn Bhd disposed of its entire stake in PT Boga.\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"All KRR restaurants serve their customers in a full service, mid-casual dining setting...\" (precise description of operations)\n• Evidence 2: \"Jollibean Foods was incorporated in November 1993.\" (direct statement of factual information)"
+    "score": 10,
+    "justification": "• Evidence 1: \"BFood completed the acquisition of 11,500,000 ordinary shares... for a cash consideration of RM71.7 million.\"\n• Evidence 2: \"Jollibean Foods was incorporated in November 1993.\""
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"As at 30 April 2018, there are a total of 260 stores nationwide...\" (useful for assessing market presence)\n• Evidence 2: \"On 7 September 2014, BStarbucks opened its first drive-thru concept store...\" (historical operational milestones)"
+    "score": 8,
+    "justification": "• Evidence 1: \"As at 30 April 2018, there are a total of 260 stores nationwide...\"\n• Evidence 2: \"On 16 February 2014, BStarbucks opened its first store in Brunei Darussalam...\""
   }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
+    "score": 9,
     "justification": "• Evidence 1: \"registered a higher revenue of RM639.7 million as compared to a revenue of RM605.4 million recorded in the previous financial year\" (specific factual comparison)\n• Evidence 2: \"mainly due to the exceptional loss arising from the disposal of PT Boga\" (discloses specific reason for profit decline)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BFood registered a higher revenue...\" (clear structure with date and metric)\n• Evidence 2: \"same-store-sales growth recorded in Malaysia\" (precise explanation of revenue driver)"
+    "justification": "• Evidence 1: \"registered a higher revenue...mainly due to additional Starbucks cafés operating...same-store-sales growth\" (clear cause-effect explanation)\n• Evidence 2: \"Pre-tax profit was lower...mainly due to...exceptional loss\" (direct, structured explanation of financial performance)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"mainly due to additional Starbucks cafés operating...same-store-sales growth\" (explains performance change)\n• Evidence 2: \"exceptional loss arising from the disposal of PT Boga\" (includes material event impact)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The total dividend paid was approximately RM15.06 million which represented 1,282% of the attributable profit of the Group\" (specific factual disclosure).\n• Evidence 2: The text provides neutral descriptions of corporate actions (e.g., disposal of stake, sustainability reporting) without overtly positive or negative bias."
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Group will leverage on the strength of BStarbucks and proactively continue with its expansion plans\" (clear, direct language).\n• Evidence 2: The structure divides content into sections (Dividend, Corporate Development, etc.), but some paragraphs (e.g., the final BRoasters/Dodgeball line) lack contextual clarity."
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Malaysian economy recorded a growth of 5.4%... expected to remain favourable\" (forward-looking material event).\n• Evidence 2: The significant corporate development section details a major transaction (disposal of stake) relevant to investor decision-making."
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks recorded a higher profit before tax of RM58.7 million as compared to RM53.3 million... coupled with effective cost management strategies.\"\n• Evidence 2: \"The improvement in GP margin was due to more store openings, constant cost management strategies, and the strengthening of the Malaysian Ringgit...\""
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"BStarbucks has 260 stores located throughout Malaysia...\" (clear numerical data)\n• Evidence 2: \"The Starbucks Card Programme - My Starbucks Rewards (MSR) registered its highest ever tender rate...\" (direct explanation of program performance)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Revenue... mainly contributed by the revenue from rapid expansion, and store growth from 239 stores... to 260 stores...\"\n• Evidence 2: \"During the financial year under review, BStarbucks adopted various tactical programmes to drive sales...\" (forward-looking initiatives)"
+    "score": 8,
+    "justification": "• Evidence 1: \"registered a higher revenue...mainly due to additional Starbucks cafés...same-store-sales growth\" (explains revenue growth drivers)\n• Evidence 2: \"exceptional loss arising from the disposal of PT Boga\" (discloses material event impacting financial results)"
   }
 }
 
@@ -66,15 +34,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Revenue decreased to RM6.7 million from RM7.5 million in the financial year 2017... mainly due to overall slower retail market conditions in Brunei and the weakening of local consumer purchasing power.\"\n• Evidence 2: \"Profit before tax of RM134,000 compared to the loss before tax of RM321,000... mainly due to effective controlling of administrative expenses and efficient ongoing cost management strategies.\""
+    "justification": "• Evidence 1: \"the Group had declared and paid a total dividend of 4.0 sen single-tier dividend per share (3.50 sen single-tier dividend per share for the previous financial year ended 30 April 2017)\" (specific factual disclosure)\n• Evidence 2: \"total dividend paid was approximately RM15.06 million which represented 1,282% of the attributable profit\" (quantitative data without subjective language)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"In order to create affinity and strengthen its brand presence, BStarbucks will use unique and elevated store designs with relevant local motifs as its main focus for its new stores.\"\n• Evidence 2: \"BFS will continue to review its operational and administrative procedures to reduce operating and administrative costs.\""
+    "justification": "• Evidence 1: \"the Group will leverage on the strength of BStarbucks and proactively continue with its expansion plans\" (clear action-oriented language)\n• Evidence 2: \"BRoasters has introduced a new walkthrough dining concept for Kenny Rogers Roasters...\" (precise description of operational changes)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BFS’s revenue decreased... mainly due to overall slower retail market conditions in Brunei...\"\n• Evidence 2: \"BFS will continue to strengthen its brand name as one of the leading coffee retail chains in Brunei by offering innovative food, beverage and merchandise products which resonate with its customers’ demand.\""
+    "score": 9,
+    "justification": "• Evidence 1: \"The Malaysian economy recorded a growth of 5.4%...expected to remain favourable throughout the year\" (forward-looking economic context)\n• Evidence 2: \"Significant Corporate Development...disposed of its entire 99.9% stake in PT Boga\" (material event disclosure with financial impact)"
   }
 }
 
@@ -82,31 +50,111 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BFT’s revenue increased by RM200,000 to RM4 million from RM3.8 million in the previous financial year, mainly due to the expansion of its product range...\" (specific factual explanation)\n• Evidence 2: \"The staggered change of the company’s business model...also contributed to the higher profit.\" (neutral cause-effect explanation)"
+    "justification": "• Evidence 1: \"BStarbucks recorded a higher profit before tax of RM58.7 million as compared to RM53.3 million in the previous financial year, mainly attributed to additional revenue generated from stores opened during the financial year, coupled with effective cost management strategies.\"\n• Evidence 2: \"The improvement in GP margin was due to more store openings, constant cost management strategies, and the strengthening of the Malaysian Ringgit against the US Dollar...\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"BFT has a distribution network of more than 1,000 retailer outlets across Malaysia.\" (precise, direct statement)\n• Evidence 2: \"The ROTM’s catering service is an ideal choice for any occasion...\" (clear, structured explanation of service value)"
+    "justification": "• Evidence 1: \"BStarbucks registered an increase in revenue of RM54.1 million to RM504.9 million in the financial year under review from RM450.8 million in the previous financial year, mainly contributed by the revenue from rapid expansion, and store growth from 239 stores in the previous financial year to 260 stores in the financial year under review.\"\n• Evidence 2: \"As at 30 April 2018, there are more than 2 million (FY17: 1 million) registered MSR members and a total of 7.8 million (FY17: 5.9 million) Starbucks Cards in active circulation nationwide.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks adopted various tactical programmes to drive sales in a competitive environment such as the production of the Starbucks Malaysia Signature Planner 2018...\"\n• Evidence 2: \"The Starbucks Card Programme - My Starbucks Rewards (MSR) - registered its highest ever tender rate at 53% since its launch in 2011...\""
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BFS’s revenue decreased to RM6.7 million from RM7.5 million in the financial year 2017. The decrease in revenue was mainly due to overall slower retail market conditions in Brunei and the weakening of local consumer purchasing power.\"\n• Evidence 2: \"BFS recorded a profit before tax of RM134,000 compared to the loss before tax of RM3,21,000 in the previous financial year, mainly due to effective controlling of administrative expenses and efficient ongoing cost management strategies.\"\n"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks plans to open 25 new stores with an additional 2 Reserve concept stores.\"\n• Evidence 2: \"Through its Signing Store, BStarbucks will continue to support the deaf community by creating job opportunities and encouraging career development.\"\n"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BFS’s revenue decreased to RM6.7 million from RM7.5 million in the financial year 2017. The decrease in revenue was mainly due to overall slower retail market conditions in Brunei and the weakening of local consumer purchasing power.\"\n• Evidence 2: \"BFS will continue to review its operational and administrative procedures to reduce operating and administrative costs.\"\n"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BFT’s revenue increased by RM200,000 to RM4 million from RM3.8 million in the previous financial year, mainly due to the expansion of its product range...\" (specific factual explanation)\n• Evidence 2: \"The staggered change of the company’s business model...also contributed to the higher profit.\" (neutral cause-effect statement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFT has a distribution network of more than 1,000 retailer outlets across Malaysia.\" (precise, direct statement)\n• Evidence 2: \"The ROTM’s catering service is an ideal choice for any occasion...\" (clear, structured explanation of service offering)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFT will continue to grow its CPG business by launching new products periodically...\" (forward-looking information for investors)\n• Evidence 2: \"KRR also introduced several side dishes...to complement the signature rotisserie chicken...\" (explanations for performance changes)"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BRoasters recorded a revenue of RM92.7 million, a decrease of 4.8% compared to RM97.4 million in the previous financial year. This was mainly due to the closure of 8 non-performing stores during the year and a reduction in menu pricing in October 2017.\"\n• Evidence 2: \"For the financial year ended 30 April 2018, BRoasters recorded a higher loss before tax of RM6.7 million compared to the loss before tax of RM4.2 million in the previous financial year, mainly due to an increase in operating expenses and depreciation, as well as a reduction in interest income.\"\n• Evidence 3: \"Besides the closure of non-profitable stores, the management undertook a staff-restructuring exercise and increased labour productivity and efficiency which contributed to lower losses.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BRoasters recorded a revenue of RM92.7 million, a decrease of 4.8% compared to RM97.4 million in the previous financial year. This was mainly due to the closure of 8 non-performing stores during the year and a reduction in menu pricing in October 2017.\"\n• Evidence 2: \"Adopting the walkthrough concept has helped KRR improve guest servicing, reduce wastage and manage resources more efficiently.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BRoasters recorded a decrease in revenue to RM28.2 million from RM33.4 million in the previous financial year, mainly due to the closure of 14 non-performing stores in the financial year 2017.\"\n• Evidence 2: \"Jollibean Foods will also strengthen its brand presence among the younger generation through digital and social media channels. Jollibean Foods will also continue to develop innovative food and beverage products to attract and retain public interest.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"100% Berjaya Food (International) Sdn Bhd\" (neutral factual statement)\n• Evidence 2: No risks, challenges, or uncertainties disclosed (lacks required elements)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"100% Berjaya Food Trading Sdn Bhd\" (clear ownership structure)\n• Evidence 2: Direct language with precise percentages (no vague expressions)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"BFT will continue to grow its CPG business by launching new products...to reach out to 2,000 retailer outlets nationwide.\" (forward-looking information)\n• Evidence 2: \"KRR’s new walkthrough concept allows guests to view and select their meal...\" (specific operational detail, but lacks risk/material event disclosures)"
+    "justification": "• Evidence 1: \"CORPORATE STRUCTURE\" (provides basic organizational context)\n• Evidence 2: No forward-looking info, risks, or governance details (lacks investor-focused elements)"
   }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"revenue of RM92.7 million, a decrease of 4.8% compared to RM97.4 million... mainly due to the closure of 8 non-performing stores... reduction in menu pricing\"\n• Evidence 2: \"higher loss before tax... mainly due to an increase in operating expenses and depreciation... reduction in interest income\""
+    "score": 8,
+    "justification": "• Evidence 1: \"the data collection remains limited to selected economic, environment and social indicators...\" (discloses scope limitations)\n• Evidence 2: \"The information and data disclosed in this statement were derived from internal reporting processes, systems and records.\" (supports claims with specific facts)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"revenue of RM92.7 million, a decrease of 4.8% compared to RM97.4 million\" (precise numerical comparison)\n• Evidence 2: \"adopting the walkthrough concept has helped KRR improve guest servicing, reduce wastage and manage resources more efficiently\" (clear cause-effect explanation)"
+    "justification": "• Evidence 1: \"The scope of the inaugural sustainability statement covers material issues...\" (clear structure with specific scope definition)\n• Evidence 2: \"the Company formalised its sustainability journey with the setting up of a Sustainability Working Group...\" (precise explanation of governance processes)"
   },
   "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the findings were then submitted to the Sustainability Working Group for evaluation...\" (shows internal decision-making process relevant to governance)\n• Evidence 2: \"the Company strives to support economic growth...\" (links sustainability approach to investor-relevant outcomes)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"revenue decrease... mainly due to closure of 14 non-performing stores... staff-restructuring exercise\" (explains performance changes)\n• Evidence 2: \"target of opening 6-10 new stores... strengthen brand presence through digital channels\" (forward-looking information)"
+    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\"\n• Evidence 2: \"Audits and compliance are conducted regularly to ensure that local regulatory hygiene practices are in place.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Platforms\" section with clear headings and bullet points.\n• Evidence 2: \"The Company’s key stakeholders and engagement platforms are as listed below:\" provides structured clarity."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Company believes that the approach of stakeholder engagement is integral to the development of its sustainability strategy\" directly ties engagement to strategic goals.\n• Evidence 2: \"BFood is committed to empowering local Malaysian communities...\" links economic sustainability to investor-relevant community impact."
   }
 }
 
@@ -114,111 +162,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"100% Berjaya Food (International) Sdn Bhd\" [specific ownership percentage]\n• Evidence 2: \"95% Jollibean Foods Pte Ltd\" [specific ownership percentage]"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"100% Berjaya Food Trading Sdn Bhd\" [clear ownership structure]\n• Evidence 2: \"80% Berjaya Food Supreme Sdn Bhd\" [precise ownership percentage]"
-  },
-  "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Corporate Structure\" [basic organizational information]\n• Evidence 2: No mention of risks, forward-looking statements, or governance details"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"This is the first sustainability statement released by Berjaya Food Berhad... which highlights the Company’s commitment to undertaking business in a responsible and sustainable manner.\" (Transparent about the statement's purpose)\n• Evidence 2: \"the data collection remains limited to selected economic, environment and social indicators...\" (Honest about data scope and limitations)"
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The scope of the inaugural sustainability statement covers material issues arising from the daily business operations...\" (Clear structure and direct explanation of scope)\n• Evidence 2: \"The findings were then submitted to the Sustainability Working Group...\" (Logical flow of processes with precise language)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Company formalised its sustainability journey with the setting up of a Sustainability Working Group...\" (Relevant governance structure for investors)\n• Evidence 2: \"a series of meetings were conducted with the key executives...\" (Shows materiality identification process relevant to decision-making)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\" (External verification supports objectivity)\n• Evidence 2: \"Suppliers are required to self-declare and provide an updated certification. Audits and compliance are conducted regularly.\" (Specific facts about compliance processes)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Platforms\" section uses clear headings and bullet points for structured information.\n• Evidence 2: \"The Company believes that the approach of stakeholder engagement is integral to the development of its sustainability strategy\" (Precise language explaining strategic importance)"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Communications via announcements to Bursa Securities, General Meetings...\" (Relevant to investor decision-making)\n• Evidence 2: \"For more information about the Company’s financial performance...\" (References financial data, though not included in the text itself)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: RM639.7 million (FYE 2017 - RM605.4 million) [specific financial figures]\n• Evidence 2: 1,281.8% (FYE 2017 – 114.5%) [dividend payout rate with historical comparison]"
+    "justification": "• Evidence 1: \"RM15.1 million (FYE 2017 – RM13.1 million)\" [specific financial figures]\n• Evidence 2: \"1,281.8% (FYE 2017 – 114.5%)\" [dividend payout rate presented without contextual explanation for unusually high value]"
   },
   "Understandability": {
     "score": 6,
-    "justification": "• Evidence 1: 'BFood’s financial performance highlights for FYE 2018' [clear section heading]\n• Evidence 2: 'RM43,850 worth of raw bananas' [precise monetary value]"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: 'BFood is working to shrink its environmental footprint' [directly ties to investor concerns]\n• Evidence 2: 'strive to increase the number of Starbucks stores retailing mengkuang-based products' [forward-looking operational plan]"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"reduced energy consumption by 20%\" (specific factual claim)\n• Evidence 2: \"managed to reduce the consumption of paper bags by 13.6%\" (quantifiable data)"
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"reduced energy consumption by 20%\" (precise numerical statement)\n• Evidence 2: \"consolidated its distribution network... reducing from 12 trucks to 6 trucks\" (clear cause-effect explanation)"
+    "justification": "• Evidence 1: \"BRoasters has introduced the i.Care Box as its on-going environmental initiative...\" [clear structure for environmental initiatives]\n• Evidence 2: \"MESO\" and \"SWC\" acronyms used without definition [reduces clarity for non-familiar readers]"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"diverted 237,919 kg of used coffee grounds from the landfill\" (material event with quantifiable impact)\n• Evidence 2: \"celebrating Earth Hour over the past 11 years\" (historical initiative with potential investor relevance)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood develops its employees’ capabilities...Halal requirements by JAKIM\" (specific factual claim about compliance)\n• Evidence 2: \"Starbucks Supplier Audits are based on GFSI standards\" (objective statement with reference to external standards)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Employees are required to attend the Food Handler’s class\" (clear, direct instruction)\n• Evidence 2: \"Good Catering Practice (GCP) audits are conducted every quarter\" (precise terminology with explanation)"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Supplier Audits...based on GFSI standards\" (relevant to operational risk management)\n• Evidence 2: \"Data Protection Policy\" (pertains to investor/customer concerns) but lacks direct financial performance or governance disclosures"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood invested 192,000 hours in training and development.\" (specific factual data)\n• Evidence 2: \"300 Coffee Masters took part in this event.\" (quantifiable achievement)"
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood employee development programmes provide learning opportunities which maximise the potential of its employees.\" (clear structure)\n• Evidence 2: \"RM1 from each purchased cup was contributed to EcoKnights’ efforts\" (precise wording)"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"BStarbucks was awarded a number of awards during the financial year under review.\" (investor-relevant recognition)\n• Evidence 2: \"Plans in the pipeline involve an area that opens up further...\" (forward-looking initiative)"
+    "justification": "• Evidence 1: \"BFood’s financial performance highlights for FYE 2018\" [financial data relevant to investors]\n• Evidence 2: \"BStarbucks will strive to increase...\" [forward-looking statement about community initiatives]"
   }
 }
 
@@ -226,15 +178,79 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"BStarbucks has successfully certified 4 deaf partners (employees) as Coffee Masters and promoted 1 deaf partner to a Shift Manager.\" (specific factual claims)\n• Evidence 2: \"As at 30 April 2018, there are a total of 9 deaf partners (employees) at its Signing Store in Bangsar.\" (date-specific data)"
+    "justification": "• Evidence 1: \"reduced energy consumption by 20%\" (specific fact)\n• Evidence 2: \"diverted 237,919 kg of used coffee grounds from the landfill\" (quantifiable outcome)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Starbucks Outreach Community Programme at the Starbucks Signing Store, Bangsar Village 2 from September 2016 until October 2017.\" (clear temporal context)\n• Evidence 2: \"A total of 984 meal boxes were contributed during the financial year under review.\" (precise numerical summary)"
+    "justification": "• Evidence 1: \"reduced energy consumption by 20%\" (precise metric)\n• Evidence 2: \"13.6% reduction in paper bags\" (clear percentage change)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"BStarbucks is considering the opening of a second Signing Store.\" (forward-looking information)\n• Evidence 2: \"BRoasters’ annual Wishing Tree campaign has fulfilled a total of 20,000 children’s Christmas wishes.\" (quantifiable impact but lacks direct financial or strategic context for investors)"
+    "justification": "• Evidence 1: \"initiatives to save energy in its head office\" (operational detail)\n• Evidence 2: \"Grounds For Your Garden programme\" (community impact initiative)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Starbucks stores are audited twice a year unannounced by external auditors and internal Quality Assurance.\" (specific audit frequency and methodology)\n• Evidence 2: \"Supplier Audits are based on Global Food Safety Initiative (\"GFSI\") standards\" (references an external standard)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Employees of all BFood outlets are required to attend the Food Handler’s class\" (clear directive)\n• Evidence 2: \"Good Catering Practice (\"GCP\") audits are also conducted every quarter\" (structured section headers with definitions in parentheses)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"All Starbucks stores are audited twice a year unannounced by external auditors\" (operational compliance relevant to investor risk assessment)\n• Evidence 2: \"BRoasters encourages its customers to provide feedback through various channels\" (customer engagement metrics relevant to brand management)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood invested 192,000 hours in training and development.\" (specific fact)\n• Evidence 2: \"300 Coffee Masters took part in this event.\" (quantifiable data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood employee development programmes provide learning opportunities which maximise the potential of its employees.\" (clear structure)\n• Evidence 2: \"150 people participated...\" (precise numerical data)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks contributed a total of 2,078 community service hours...\" (relevant to CSR but not financial performance)\n• Evidence 2: \"Received two awards at the ACES Awards 2017.\" (non-financial recognition)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks has successfully certified 4 deaf partners (employees) as Coffee Masters...\" (specific factual claim)\n• Evidence 2: \"To date, BStarbucks has successfully certified...\" (quantifiable achievement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Starbucks Signing Store provides a platform...\" (clear purpose statement)\n• Evidence 2: \"A total of 984 meal boxes were contributed...\" (precise numerical data)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks is considering the opening of a second Signing Store.\" (forward-looking information)\n• Evidence 2: \"The project has benefitted 1,060 people.\" (quantifiable impact for investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board is satisfied that the Company has substantially complied with the MCCG throughout the FYE 2018 save for the exceptions which are fully described in the CG Report.\"\n• Evidence 2: \"The Company Secretaries have also been continuously attending the necessary training programmes... to keep themselves abreast with the current regulatory changes.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board has delegated the day-to-day affairs of the Group’s business to the CEO... The CEO may delegate appropriate functions to any member of the Senior Management reporting to the CEO.\"\n• Evidence 2: \"The Company Secretaries play an important role in facilitating the overall compliance with the Companies Act 2016... and other relevant laws and regulations.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board has delegated to the Nomination Committee the responsibility of making recommendations on any potential candidate for the appointment as a new Director.\"\n• Evidence 2: \"The ARMC assists the Board to discharge its duties in financial reporting by ensuring the reliability and integrity of the Group’s accounting and financial reporting process.\""
   }
 }
 
@@ -242,30 +258,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Board is satisfied that the Company has substantially complied with the MCCG throughout the FYE 2018 save for the exceptions which are fully described in the CG Report.\"\n• Evidence 2: \"The Company Secretaries... are qualified under the Companies Act 2016.\""
+    "justification": "• Evidence 1: \"nothing has come to their attention that causes them to believe the SRMIC intended to be included in the Annual Report is not prepared, in all material respects, in accordance with the disclosures required by paragraphs 41 and 42 of the SRMIC\"\n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group’s Annual Report\""
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board has delegated the day-to-day affairs... to the CEO...\" (clear role delineation)\n• Evidence 2: \"The Company Secretaries... assist the Board... in accordance with their respective TOR\" (precise terminology for governance processes)"
+    "justification": "• Evidence 1: \"The business units are required to identify the risks relevant to their businesses. The risks are then assessed based on the probability of their occurrence and are evaluated as Low, Medium or High.\"\n• Evidence 2: \"The ARMC held five -5 meetings during the financial year ended 30 April 2018. The details of attendance of the ARMC members are as follows:‑\""
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board views the commitment to promote sustainability strategies... as part of its broader responsibility...\" (directly ties governance to stakeholder interests)\n• Evidence 2: \"The Board has delegated to the Nomination Committee... to ensure appointments are made on merits\" (relevant to investor concerns about board composition)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The external auditors ... nothing has come to their attention that causes them to believe the SRMIC ... is not prepared, in all material respects, in accordance with the disclosures required by paragraphs 41 and 42 of the SRMIC\".\n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group’s Annual Report.\""
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The risks are then assessed based on the probability of their occurrence and are evaluated as Low, Medium or High\" (precise risk categorization).\n• Evidence 2: \"The ARMC held five -5 meetings during the financial year ... minutes of each of the ARMC meetings were recorded and tabled for confirmation\" (clear procedural description)."
-  },
-  "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows\" (directly addresses investor concerns about risk mitigation).\n• Evidence 2: \"Disclosures will be made in the annual report on the breakdown of the aggregate value of the RRPT ...\" (material event transparency for investors)."
+    "score": 10,
+    "justification": "• Evidence 1: \"The external auditors have performed limited assurance procedures on the Statement on Risk Management and Internal Control (\"SRMIC\")... for the year ended 30 April 2018\"\n• Evidence 2: \"The ARMC reviewed the risk management activities on the Company’s subsidiaries... to ensure the business activities and risk areas are re-aligned and enhanced on an on-going basis\""
   }
 }

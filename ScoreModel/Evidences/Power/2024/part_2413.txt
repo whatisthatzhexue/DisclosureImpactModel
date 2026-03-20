@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The interested Non-Executive Director was abstained from all discussions and decision relating to his fees.\" (neutral, objective disclosure of conflict)\n• Evidence 2: \"Their attendance records are as follows:\" (specific factual data presented without embellishment)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The interested Non-Executive Director was abstained from all discussions and decision relating to his fees.\" (specific fact about conflict of interest)\n• Evidence 2: \"Remuneration Committee met during the financial year... submitted to the Board for review, approval and recommendation to shareholders for approval, as applicable.\" (neutral, factual process description)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Remuneration Committee met during the financial year... submitted to the Board for review, approval and recommendation to shareholders for approval, as applicable.\" (clear procedural explanation)\n• Evidence 2: \"Option Committee consisted of two -2 Executive Directors...\" (numeric formatting aids comprehension but lacks contextual explanation)"
+    "score": 6,
+    "justification": "• Evidence 1: \"t 3FNVOFSBUJPO$PNNJUUFF(cont’d)\" (non-standard formatting and placeholder text)\n• Evidence 2: \"ESOS Y2019\", \"ESOS Y2022\" (abbreviated references without full explanation)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Remuneration Committee... proposed remuneration package of Executive Directors\" (material governance information for investors)\n• Evidence 2: \"ESOS established on 11 June 2019... expiring on 10 June 2029\" (specific details about compensation schemes relevant to shareholder oversight)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Option Committee... administering the existing Employees’ Share Option Scheme (\"ESOS\")\" (material corporate governance information)\n• Evidence 2: \"Non-Independent Non-Executive Director... primary responsibility of administering...\" (relevant to investor understanding of compensation structures)"
   }
 }

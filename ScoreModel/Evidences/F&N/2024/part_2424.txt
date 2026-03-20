@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"2/3 of our current offerings carry the Healthier Choice Logo\" (specific fact)\n• Evidence 2: \"53% reduction in sugar per ml of our total beverages (2015 - 2024)\" (specific timeframe and metric)"
+    "score": 8,
+    "justification": "• Evidence 1: '2/3 of our current offerings carry the Healthier Choice Logo' (specific factual claim)\n• Evidence 2: '53% reduction in sugar per ml of our total beverages (2015 - 2024)' (time-bound, measurable data)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Our strategic approach includes a robust Nutrition Charter aimed at improving our product offerings\" (clear structure)\n• Evidence 2: \">90% of the RTD beverages sold are healthier options with less sugar\" (precise numerical data)"
+    "score": 7,
+    "justification": "• Evidence 1: 'Our strategic approach includes a robust Nutrition Charter aimed at improving our product offerings' (clear structure)\n• Evidence 2: 'Strengthened the collaboration with SWCorp through a 3+2-year MOU' (precise numerical detail)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Our initiatives in driving human capital development focus on achieving work-life balance...\" (employee-related but lacks investor-focused risk analysis)\n• Evidence 2: \"Positively impacted the lives of beneficiaries...\" (community impact without financial or strategic context for investors)"
+    "score": 6,
+    "justification": "• Evidence 1: 'Our initiatives in driving human capital development focus on achieving work-life balance' (employee-related relevance)\n• Evidence 2: 'Contributed to nature conservation through tree planting initiatives' (environmental impact disclosure)"
   }
 }

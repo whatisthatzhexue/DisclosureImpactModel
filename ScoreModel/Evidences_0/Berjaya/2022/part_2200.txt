@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood was incorporated in Malaysia on 21 October 2009.\" (specific factual date)\n• Evidence 2: \"On 24 November 2017, Berjaya Food (International) Sdn Bhd disposed of its entire stake in PT Boga.\" (disclosure of material event)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"As of 30 June 2022, there are a total of 356 stores nationwide.\" (precise numerical data)\n• Evidence 2: \"Ser Vegano operates 'SALA', which is a Latin-inspired...\" (clear description of business concept)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"On 19 July 2012, BFood completed the acquisition of 11,500,000 ordinary shares...\" (material acquisition details)\n• Evidence 2: \"As of 30 June 2022, there are 15 Starbucks Reserve™️ stores...\" (operational performance metrics)"
+  }
+}

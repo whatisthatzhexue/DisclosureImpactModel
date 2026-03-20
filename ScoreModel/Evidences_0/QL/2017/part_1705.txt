@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The primary responsibilities of the Company Secretary include: ... ensuring that Board procedures and applicable rules are observed;\" (neutral, factual description of duties)\n• Evidence 2: \"The Board is regularly updated and informed of any relevant regulations and guidelines issued by the regulatory authorities.\"" (demonstrates compliance with external standards)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Company Secretary gives clear and sound advice on the measures to be taken and requirements to be observed by the Company and the Directors\" (precise language)\n• Evidence 2: \"The Company uses information technology in communicating with stakeholders, including a dedicated section for Investor Relations on the Company's website\" (clear structure and direct explanation)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Annual General Meeting (\"AGM\") is the principal forum for dialogue between the Company and its shareholders and investors\" (directly relevant to shareholder engagement)\n• Evidence 2: \"The Company has set up a website to enable an active dialogue with its investors and shareholders\" (relevant to communication channels but lacks specific risk disclosures)"
+  }
+}

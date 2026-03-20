@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In line with the Malaysian Code of Corporate Governance...\" (neutral, objective description of governance alignment)\n• Evidence 2: \"the ARMC held -4 meetings... recommended certain measures to be adopted\" (specific factual disclosure of actions taken)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The business units are required to identify the risks relevant to their businesses.\" (clear, direct language)\n• Evidence 2: \"quarterly basis... prepare a report summarising the significant risks\" (structured, logical progression of processes)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the ARMC held -4 meetings... unlisted operating subsidiary companies\" (material event disclosure relevant to investors)\n• Evidence 2: \"quarterly basis... review and deliberation\" (operational transparency for decision-making)"
+  }
+}

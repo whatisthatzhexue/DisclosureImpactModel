@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed recurrent related party transactions... undertaken on normal commercial terms\" (neutral, objective assessment of transactions)\n• Evidence 2: \"The Board... acknowledges their responsibility... safeguard shareholders’ investments\" (clear accountability statement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed and recommended to the Board for approval... Corporate Governance Overview Statement\" (clear action-oriented language)\n• Evidence 2: \"Risk Management Committee... ensures implementation... robust risk management process\" (structured explanation of roles)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Disclosed... related party transactions; and... significant accounting matters...\" (directly addresses investor concerns about transparency)\n• Evidence 2: \"Reviewed the Crisis Management process update... Terms of Reference of the Audit Committee\" (includes governance and operational risk factors)"
+  }
+}

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board has assigned the ARMC with the duty of reviewing and monitoring the effectiveness of the Group’s system of internal control.\"\n• Evidence 2: \"The internal auditors furnish the ARMC with reports from visits conducted at various subsidiaries, as well as from the external auditors on areas for improvement identified during the course of their statutory audit.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board has assigned the ARMC with the duty of reviewing and monitoring the effectiveness of the Group’s system of internal control.\" (neutral, factual description of responsibilities)\n• Evidence 2: \"The internal auditors furnish the ARMC with reports...\" (specific, objective reporting of audit processes)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Clear organisation structure with delineated reporting lines\" (precise language)\n• Evidence 2: \"Centralised procurement function that ensures approval procedures are adhered to, as well as to leverage on the Group’s purchasing power\" (direct and specific explanation)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Clear organisation structure with delineated reporting lines\" (precise, direct language)\n• Evidence 2: \"Scheduled operations and management meetings\" (clear structure and logical grouping of control features)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board recognises that effective monitoring on a continuous basis is a vital component of a sound internal control system\" (corporate governance relevance)\n• Evidence 2: \"The Report of the ARMC is set out on Pages 73 to 78 of the Annual Report\" (direct reference to disclosure location)"
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board recognises that effective monitoring...\" (relevant to investor concerns about governance)\n• Evidence 2: \"Report of the ARMC is set out on Pages 73 to 78...\" (links to broader report, but lacks direct risk or performance explanations)"
   }
 }

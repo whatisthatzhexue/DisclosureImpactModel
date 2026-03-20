@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Coffee beans’ profitability and production capacity face severe climate risks as yields can be directly affected by temperature increases, unstable precipitation and increases in pests...\" (specific risk disclosure)\n• Evidence 2: \"The consumption increased from FY2021 to FY2022 as businesses normalised.\" (objective explanation of performance change)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"86% of Starbucks stores have switched to LED lights\" (precise, direct statement)\n• Evidence 2: \"BFood is in the process of determining the reduction of expenses attributed from energy and water savings\" (ambiguous phrasing requiring additional context)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood understands the threat of climate change on business operations...\" (material risk disclosure)\n• Evidence 2: \"The consumption of electricity and fuel decreased from FY2020 to FY2021 due to the COVID-19 pandemic\" (explains performance change with external factor)"
+  }
+}

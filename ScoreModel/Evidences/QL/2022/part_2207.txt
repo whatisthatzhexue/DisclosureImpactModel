@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'The Group’s ERM framework is principally aligned with the internationally recognised COSO ERM Framework.' [exact quote]\n• Evidence 2: 'Key risks highlighted in the Risk Management Report will be used in developing internal audit plans.' [exact quote]"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group’s ERM framework is principally aligned with the internationally recognised COSO ERM Framework.\" (Supports objectivity and alignment with standards)\n• Evidence 2: \"There have been no significant breakdowns or weaknesses in the system of internal control...\" (Discloses system effectiveness without overstatement)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: 'The Risk Management Committee (RMC) comprises a majority of Independent Non-Executive Directors.' [exact quote]\n• Evidence 2: 'A quarterly Risk Management Summary Report to RMC.' [exact quote]"
+    "justification": "• Evidence 1: \"Key aspects of the risk management process are as follows:\" (Clear structure with bullet points)\n• Evidence 2: \"Risk factors are incorporated into the risk register and individually rated as High, Significant, Moderate or Low risk.\" (Precise language with specific risk categories)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: 'Principal Risks... COVID-19 Risk... Financial Risk... Information Technology Risk.' [exact quote]\n• Evidence 2: 'Internal audit function was carried out by an independent professional consulting firm.' [exact quote]"
+    "justification": "• Evidence 1: \"Principal Risks\" section details COVID-19, operational, financial, and IT risks with specific mitigation measures (directly relevant to investor decision-making)\n• Evidence 2: \"The Group’s Code of Ethics and Conduct communicates the Group’s commitment to practice business ethically...\" (Includes corporate governance and ethical standards)"
   }
 }

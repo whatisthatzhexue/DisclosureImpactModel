@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group performs various acts of Corporate Social Responsibility across the country.\" (neutral, factual statement)\n• Evidence 2: \"87 packets of Hari Raya cookies... as part of an initiative to reduce food waste\" (specific, verifiable action)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group performs various acts... NGOs to find ways to serve those in need\" (clear, direct language)\n• Evidence 2: \"visited Rumah Charis... Deepavali to treat the kids...\" (structured, chronological examples)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"reflecting the Group’s commitment to sustainability and social responsibility\" (links activities to broader goals)\n• Evidence 2: \"demonstrate ongoing community support\" (implies long-term strategy, but lacks financial/quantitative metrics)"
+  }
+}

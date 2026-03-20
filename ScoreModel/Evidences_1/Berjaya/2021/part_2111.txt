@@ -1,6 +1,0 @@
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 0, "justification": "• Evidence 1: [No text provided for evaluation]\n• Evidence 2: [No text provided for evaluation]"},
-  "Understandability": {"score": 0, "justification": "• Evidence 1: [No text provided for evaluation]\n• Evidence 2: [No text provided for evaluation]"},
-  "Relevance": {"score": 0, "justification": "• Evidence 1: [No text provided for evaluation]\n• Evidence 2: [No text provided for evaluation]"}
-}

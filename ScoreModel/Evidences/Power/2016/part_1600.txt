@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: 'Power Root ME FZCO shall receive all profits or ownerships of assets and liable for all losses or liabilities of P.R. Manufacturing ME LLC' (neutral factual disclosure)\n• Evidence 2: 'The Group recorded a Profit After Tax (PAT) of approximately RM45.2 million for the FYE 2016' (specific numerical data without overstatement)"
+    "score": 9,
+    "justification": "• Evidence 1: 'Power Root ME FZCO shall receive all profits or ownerships of assets and liable for all losses or liabilities of P.R. Manufacturing ME LLC' (specific corporate structure details)\n• Evidence 2: 'The Group recorded a revenue of RM367.5 million, a decrease of approximately 4.1% from the revenue of RM383.2 million' (quantified performance change with neutral tone)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: 'Over the FYE 2016, the Group intensified its efforts in activating numerous ground activities' (clear but repetitive phrasing)\n• Evidence 2: 'The Board is satisfied that, through the formal Policy... the current board composition fairly reflects the investment of minority shareholders' (complex sentence structure with nested clauses)"
+    "score": 8,
+    "justification": "• Evidence 1: 'The Group participated in international food exhibitions such as (i) the World Food Fair 2015 in Singapore...' (clearly structured list of events)\n• Evidence 2: 'The Board is committed to select and appoint a capable and suitable individual as the independent non-executive Chairman' (direct language with logical flow)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The Group recorded promising growth for its export markets by recording RM140.1 million revenue' (material financial information for investors)\n• Evidence 2: 'The Board is committed to select and appoint a capable and suitable individual as the independent non-executive Chairman' (corporate governance relevance)"
+    "score": 9,
+    "justification": "• Evidence 1: 'The Group did not record any operating activity for this segment for the FYE 2016. Going forward, it is the Group’s intention to wind down this operating segment' (material event disclosure)\n• Evidence 2: 'The Board does not recommend the payment of any final dividend in respect of the FYE 2016' (directly relevant to investor decision-making)"
   }
 }

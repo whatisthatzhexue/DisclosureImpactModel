@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"THE YEAR CONTINUED TO BE VERY CHALLENGING FOR FOOD & BEVERAGES THAILAND... ESCALATION IN COST OF COMMODITIES... DEPRECIATION OF THE THAI BAHT...\" (discloses risks and challenges)\n• Evidence 2: \"Invested RM128 million in a new liquid milk...\" (specific factual investment data)"
+    "justification": "• Evidence 1: \"THE YEAR CONTINUED TO BE VERY CHALLENGING FOR FOOD & BEVERAGES THAILAND... ESCALATION IN COST OF COMMODITIES SUCH AS PALM OIL, MILK POWDER AND TIN CANS AND FREIGHT COSTS, TOGETHER WITH A DEPRECIATION OF THE THAI BAHT IN THE FACE OF THE STRONG US DOLLAR.\"\n• Evidence 2: \"Invested RM128 million in a new liquid milk and plant-based beverage manufacturing facility in Wang Muang.\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Key Initiatives Achievements\" section with bullet points and clear categorization (STRATEGIC OBJECTIVE 1: ENHANCE REVENUE) (logical structure)\n• Evidence 2: \"Launched e-commerce platform, F&N Nom-Aroi, in May 2022.\" (precise, direct language)"
+    "justification": "• Evidence 1: \"Grow manufacturing capacity• Invested RM128 million in a new liquid milk and plant-based beverage manufacturing facility in Wang Muang.\"\n• Evidence 2: \"Launched e-commerce platform, F&N Nom-Aroi, in May 2022.\""
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"Despite the macro challenges... contributed to revenue growth...\" (explains performance changes and includes forward-looking growth)\n• Evidence 2: \"Strengthen the supply chain through digital systems...\" (includes operational strategies relevant to investors)"
+    "justification": "• Evidence 1: \"Despite the macro challenges, the recovery in out-of-home channels, new product innovations, effective loyalty campaigns and double-digit growth in exports to Cambodia contributed to revenue growth in F&B Thailand.\"\n• Evidence 2: \"Our new plant in Wang Muang, which is fully operational since October 2022, will enable us expanding our presence in the liquid milk and building our brand in the plant-based beverages segment in Thailand.\""
   }
 }

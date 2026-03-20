@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'The proposed audit and non-audit fees were presented by the External Auditor for review by Audit Committee to ensure that the proposed fees commensurate with the work to be performed by the External Auditors and the independence and objectivity of the External Auditors were not compromised by the proposed non-audit fees' [neutral, objective assessment of fees].\n• Evidence 2: 'Based on satisfactory results of the performance, independence and objectivity of the External Auditors, the Audit Committee recommended to the Board for the reappointment of the External Auditors' [transparent evaluation of auditors' performance]."
+    "score": 8,
+    "justification": "• Evidence 1: \"The proposed audit and non-audit fees were presented by the External Auditor for review by Audit Committee to ensure that the proposed fees commensurate with the work to be performed by the External Auditors and the independence and objectivity of the External Auditors were not compromised by the proposed non-audit fees\".\n• Evidence 2: \"Based on satisfactory results of the performance, independence and objectivity of the External Auditors, the Audit Committee recommended to the Board for the reappointment of the External Auditors\"."
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The audit plan presented included the engagement team, audit scope, materiality, audit methodology and timing of audit, involvement of component auditors, other independent auditors, significant accounting policies and disclosures, audit focus areas (including changes in MFRS), emerging issues and key milestones' [clear structure with specific details].\n• Evidence 2: 'The Audit Committee met twice on 27 May 2019 and 27 February 2020 with the External Auditors without the presence of the Executive Directors and Management' [precise description of meetings]."
+    "score": 9,
+    "justification": "• Evidence 1: \"The audit plan presented included the engagement team, audit scope, materiality, audit methodology and timing of audit, involvement of component auditors, other independent auditors, significant accounting policies and disclosures, audit focus areas (including changes in MFRS), emerging issues and key milestones\".\n• Evidence 2: \"The Audit Committee reviewed the Corporate Governance Report, Corporate Governance Overview Statement, Audit Committee Report, Statement on Risk Management and Internal Control...\"."
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The Audit Committee reviewed the Corporate Governance Report, Corporate Governance Overview Statement, Audit Committee Report, Statement on Risk Management and Internal Control, Management Discussion and Analysis, Sustainability Statement... to ensure compliance with the MMLR, MCCG and other guidelines' [directly addresses investor decision-making needs].\n• Evidence 2: 'The Audit Committee reviewed the Updated Enterprise Risk Management Report of the Group... on its adequacy and effectiveness' [includes risk assessment and governance information]."
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee reviewed the Updated Enterprise Risk Management Report of the Group... on its adequacy and effectiveness\".\n• Evidence 2: \"The Audit Committee recommended for the Board’s approval and adoption of the audited statutory financial statements... after it was satisfied that the audit had been carried out in accordance with the approved audit plan and approved auditing standards\"."
   }
 }

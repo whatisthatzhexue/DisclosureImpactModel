@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Group is exposed to the risks associated with product quality and standards as product safety and quality are of paramount importance to the Group.\" (neutral disclosure of risk)\n• Evidence 2: \"Compliance with stringent quality systems in place such as ISO22000, Food Safety System Certification 22000 and HACCP Certification by Ministry of Health.\" (specific factual support)"
+    "justification": "• Evidence 1: \"The exposure in product quality and standards may bring serious ramifications in terms of financial impact as well as reputational impact.\" (Discloses risks and consequences objectively)\n• Evidence 2: \"Compliance with stringent quality systems in place such as ISO22000...\" (Supports claims with specific standards and procedures)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"• Prioritise Research & Development initiatives on developing new products...\" (clear, structured bullet points)\n• Evidence 2: \"Regular engagement with internal and external stakeholders...\" (precise language with actionable steps)"
+    "justification": "• Evidence 1: \"Structured sections with clear headings (e.g., 'Product quality and standards') and bullet points for mitigation actions\" (Logical organization)\n• Evidence 2: \"Prioritise Research & Development initiatives...\" (Direct language with actionable strategies)"
   },
   "Relevance": {
     "score": 9,
-    "justification": "• Evidence 1: \"Consumers are becoming more informed on nutritional facts...\" (forward-looking risk analysis relevant to investor decision-making)\n• Evidence 2: \"Proactive stakeholder engagements including shareholders & investors...\" (directly addresses material events and governance)"
+    "justification": "• Evidence 1: \"Consumers are becoming more informed... This risk relates to the Group’s ability to stay competitive...\" (Forward-looking risk analysis for investors)\n• Evidence 2: \"Proactive stakeholder engagements...\" (Addresses ESG and corporate governance relevance)"
   }
 }

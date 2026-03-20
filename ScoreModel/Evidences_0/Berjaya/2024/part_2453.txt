@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"68 partners volunteered and contributed 54,4 community service hours to prepare 1,420 packs of bubur lambuk...\" (specific factual claims)\n• Evidence 2: \"Starbucks Malaysia donated unused furniture for the café and classrooms.\" (objective description of actions)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BStarbucks collaborated with Soroptimist International... to establish an organic farm...\" (clear structure with specific partnerships)\n• Evidence 2: \"Fifty-seven volunteers contributed 171 community service hours.\" (precise numerical details)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Since 2016, Starbucks Malaysia has partnered with The Society of Interpreters...\" (limited relevance to corporate social responsibility)\n• Evidence 2: \"BStarbucks donated 250 kg of used coffee grounds...\" (no financial performance or risk disclosures)"
+  }
+}

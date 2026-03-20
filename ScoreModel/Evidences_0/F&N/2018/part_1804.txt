@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"there were no whistle blowing allegations during the financial year\"\n• Evidence 2: \"no significant matter of disagreement between the auditors and management\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee had one meeting with the auditors without the presence of management\" (clear structure)\n• Evidence 2: \"RM220,000 (FY2017 RM213,000)\" (precise numerical details)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"reappoint KPMG PLT for the ensuing financial year\" (decision-making context)\n• Evidence 2: \"Review of the Directors’ Statement of Risk Management and Internal Control\" (risk disclosure)"
+  }
+}

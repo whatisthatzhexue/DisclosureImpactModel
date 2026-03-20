@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Recorded a total revenue of RM257,000 compared to the RM122,000 recorded in the previous financial year\" (specific factual data)\n• Evidence 2: \"The increase in loss was due to rising operational expenditures and the preliminary cost for the opening of the first retail outlet\" (explains performance changes with causal factors)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BKelava distributes its products primarily via the wholesale market, which include the modern trade supermarkets and hotel-restaurant-cafe (HORECA) business segments\" (clear explanation of distribution channels)\n• Evidence 2: \"Since December 2022, BKelava also operates one retail outlet selling scoops directly to the public\" (precise, direct description of business operations)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The notable growth in revenue was attributed to proactive FMCG distribution point expansion as well as the opening of the first retail outlet\" (explains performance drivers)\n• Evidence 2: \"BKelava is set to make its debut in international markets during the upcoming financial year\" (forward-looking information relevant to investors)"
+  }
+}

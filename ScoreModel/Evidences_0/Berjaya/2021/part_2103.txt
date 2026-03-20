@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Malaysian economy grew by 7.1 per cent...\" (specific fact about economic growth)\n• Evidence 2: \"The Directors are cautiously optimistic...\" (balanced forward-looking statement with uncertainty)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Outlets in areas with reduced footfalls...\" (clear explanation of operational adjustments)\n• Evidence 2: \"Starbucks partners mask-up as part of the COVID-19 SOPs.\" (precise, direct statement)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The acceleration of the National COVID-19 Immunisation Programme...\" (material event impacting future prospects)\n• Evidence 2: \"The Directors are cautiously optimistic...\" (forward-looking information for investor decision-making)"
+  }
+}

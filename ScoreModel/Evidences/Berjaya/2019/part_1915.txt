@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Jollibean Foods also sends all products for lab tests to determine their shelf life, and labels all displayed products with the correct shelf life so as to ensure customers’ safety.\" (specific factual claim about product safety)\n• Evidence 2: \"BFood employees are diverse...\" (neutral description of workforce diversity without overstatement)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Jollibean Foods also sends all products for lab tests to determine their shelf life, and labels all displayed products with the correct shelf life so as to ensure customers’ safety.\"\n• Evidence 2: \"In compliance with the Personal Data Protection Act 2010, a terms of use agreement has been published...\""
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood communicates its promotional information through social media and in-store materials...\" (clear, direct description of marketing methods)\n• Evidence 2: \"BRoasters employs a total of six Senior Citizens...\" (precise numerical data presented clearly)"
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood ensures its customers’ privacy and data are protected through the relevant guidelines and practices under its Data Protection Policy.\"\n• Evidence 2: \"BRoasters places importance on effective recruitment practices by hiring the right candidate.\""
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"BFood ensures its customers’ privacy and data are protected...\" (relevant to investor concerns about data security)\n• Evidence 2: \"BRoasters runs an ongoing Internship Programme...\" (limited relevance to financial performance, lacks connection to business impact)"
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood communicates its promotional information through social media and in-store materials...\" (marketing relevance)\n• Evidence 2: \"The Group uses a non-discriminatory recruitment process...\" (corporate governance relevance)"
   }
 }

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The AuditCom ensures that the external auditors are independent of the activities they audit...\" (neutral, objective disclosure of independence checks)\n• Evidence 2: \"There was no significant matter of disagreement between the auditors and management\" (transparent disclosure of audit outcomes)"
+    "justification": "• Evidence 1: 'The AuditCom ensures that the external auditors are independent of the activities they audit...' [neutral, objective disclosure of independence checks]\n• Evidence 2: 'The AuditCom had met with the external auditors once without the presence of the CEO and senior management.' [specific factual disclosure of audit process]"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The AuditCom conducts an annual assessment of the external auditors. Areas of assessment include...\" (clear structure and logical flow)\n• Evidence 2: \"The Board has established an effective risk management and internal control framework...\" (precise explanation of governance structures)"
+    "justification": "• Evidence 1: 'The Board has established an effective risk management and internal control framework...' [clear structure with specific framework description]\n• Evidence 2: 'The Audit Committee reviews and assesses the adequacy of the internal control system...' [precise language with defined processes]"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Board acknowledges its responsibility to maintain a sound risk management...\" (directly relevant to investor concerns about governance)\n• Evidence 2: \"The Company maintains a corporate website...\" (provides material information for stakeholder engagement)"
+    "justification": "• Evidence 1: 'The Company observes the Corporate Disclosure Guide issued by Bursa Securities...' [directly relevant to investor communication and governance]\n• Evidence 2: 'The Audit Committee... reviews the quarterly and annual consolidated financial statements...' [material financial reporting disclosure]"
   }
 }

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"F&N employs a comprehensive risk management framework that includes the identification and quantification of climate-related risks.\" (specific facts about risk management)\n• Evidence 2: \"We have committed to reducing both energy, GHG emissions and water intensity at our plants, in line with our sustainability targets for 2025.\" (specific targets and metrics)"
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N employs a comprehensive risk management framework that includes the identification and quantification of climate-related risks.\" (specific risk disclosure)\n• Evidence 2: \"We have committed to reducing both energy, GHG emissions and water intensity at our plants, in line with our sustainability targets for 2025.\" (specific target with timeframe)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Our efforts focus on embedding climate risk analysis into our risk management processes, ensuring that key internal stakeholders... are involved in evaluating these risks.\" (clear structure and direct language)\n• Evidence 2: \"The Board of Directors has ultimate oversight of material sustainability issues...\" (precise explanation of governance roles)"
+    "justification": "• Evidence 1: \"Our efforts focus on embedding climate risk analysis into our risk management processes, ensuring that key internal stakeholders... are involved in evaluating these risks.\" (clear structure of risk management process)\n• Evidence 2: \"The Board of Directors has ultimate oversight of material sustainability issues...\" (precise explanation of governance roles)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"To measure our progress against climate-related objectives... we have committed to reducing... in line with our sustainability targets for 2025.\" (forward-looking metrics relevant to investors)\n• Evidence 2: \"The Board receives annual assurance from the Chief Financial Officer... regarding the effectiveness of our risk management...\" (corporate governance and risk management relevance)"
+    "justification": "• Evidence 1: \"To measure our progress against climate-related objectives... we have committed to reducing... in line with our sustainability targets for 2025.\" (forward-looking sustainability targets relevant to investors)\n• Evidence 2: \"We work closely with relevant regulatory bodies to ensure employee safety and effective environmental management.\" (material event disclosure related to compliance and operations)"
   }
 }

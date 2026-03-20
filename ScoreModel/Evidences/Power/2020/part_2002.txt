@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"we expect a similar impact when the KSA raises its value-added tax from 5% to 15% beginning from 1 July 2020\" (acknowledges potential future risk)\n• Evidence 2: \"Profit after tax (PAT) of RM51.7million, an increase of 84.0% from the PAT of RM28.1 million in FYE 2019\" (specific factual data)"
+    "justification": "• Evidence 1: \"We expect a similar impact when the KSA raises its value-added tax from 5% to 15% beginning from 1 July 2020.\" (forward-looking statement with specific timeframe)\n• Evidence 2: \"Profit after tax (PAT) of RM51.7million, an increase of 84.0% from the PAT of RM28.1 million in FYE 2019.\" (specific financial figures with comparative data)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"annual output to 2.7 million cartons\" (precise numerical data)\n• Evidence 2: \"revenue of RM386.1 million, an increase of approximately 14.2%\" (clear percentage change explanation)"
+    "score": 8,
+    "justification": "• Evidence 1: \"We recorded revenue of RM386.1 million, an increase of approximately 14.2% from the revenue of RM338.0 million recorded in the previous FYE 2019.\" (clear numerical comparison)\n• Evidence 2: \"The Group is also increasing its sales presence in non-GCC countries, particularly in North African countries.\" (specific geographic focus with clear terminology)"
   },
   "Relevance": {
     "score": 9,
-    "justification": "• Evidence 1: \"The PAT increase was a result of higher sales, a favourable sales mix, as well as a reversal of the impairment loss\" (explains performance drivers)\n• Evidence 2: \"We are stepping up our exploration of export growth options outside MENA\" (forward-looking strategic initiative)"
+    "justification": "• Evidence 1: \"We are taking some initiatives to mitigate the impact of these taxes... stepping up our exploration of export growth options outside MENA.\" (strategic actions addressing material risks)\n• Evidence 2: \"The PAT increase was a result of higher sales, a favourable sales mix, as well as a reversal of the impairment loss on trade receivables\" (explanation of performance drivers for investor decision-making)"
   }
 }

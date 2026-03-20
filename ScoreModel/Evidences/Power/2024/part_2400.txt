@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: 'Power Root’s Oligo donation initiative was divided into two phases... total amount raised of RM397,787 was presented to Tabung Kemanusiaan Palestin Media Prima on 15 April 2024' (specific financial disclosure).\n• Evidence 2: 'The Group’s financial position remains sound' with 'low gearing of 0.171' (balanced view of financial health)."
+    "justification": "• Evidence 1: 'Power Root’s Oligo donation initiative was divided into two phases... total amount raised of RM397,787 was presented to Tabung Kemanusiaan Palestin Media Prima on 15 April 2024.' (specific financial disclosure)\n• Evidence 2: 'The Group’s financial position remains sound... with a low gearing of 0.171 as at 31 March 2024.' (objective financial statement)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: 'The Group has focused its sustainability efforts in its home base of Malaysia... before decisions are made to expand them to our overseas offices' (clear structure).\n• Evidence 2: 'Total energy consumption... 11,515.93 Megawatt' (precise data presentation)."
+    "score": 9,
+    "justification": "• Evidence 1: 'The Group’s on-going efficiency drive was at the forefront of improvements in production during this financial year...' (clear, direct explanation of operational focus)\n• Evidence 2: 'The Group has focused its sustainability efforts in its home base of Malaysia...' (logical structure with clear regional focus)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The Group’s financial position remains sound' and 'revenue decreased by 8.0%' (financial performance context).\n• Evidence 2: 'Geopolitical concerns... added to global unpredictability' (material risks disclosed)."
+    "score": 7,
+    "justification": "• Evidence 1: 'The Group’s financial position remains sound... with a low gearing of 0.171 as at 31 March 2024.' (financial relevance for investors)\n• Evidence 2: 'Geopolitical concerns... have added to global unpredictability on the economic and trade fronts.' (material risk disclosure)"
   }
 }

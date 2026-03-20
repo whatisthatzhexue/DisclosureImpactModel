@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BFS’s revenue increased by BND212,000 to BND2.4 million from BND2.2 million... mainly due to the 2 additional months of year end closing.\"\n• Evidence 2: \"mainly due to forex loss incurred as a result of strengthening of the US Dollar against Brunei Dollar\""
+    "score": 7,
+    "justification": "• Evidence 1: \"BFS recorded a loss before tax of BND94,000 compared to the profit before tax of BND44,000...mainly due to forex loss incurred as a result of strengthening of the US Dollar...\" (specific cause for performance change)\n• Evidence 2: \"Revenue increased by BND212,000 to BND2.4 million...mainly due to the 2 additional months of year end closing\" (neutral explanation of revenue growth)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"For the financial period ended 30 June 2019, BFS recorded a loss before tax of BND94,000 compared to the profit before tax of BND44,000...\"\n• Evidence 2: The text contains a misplaced/ambiguous sentence: \"Starbucks Reserve Mug and Starbucks Reserve Whole Bean Coffee Starbucks Reserve partners with BFood’s CEO\""
+    "score": 6,
+    "justification": "• Evidence 1: \"BFS has 4 Starbucks stores including one drive-thru concept store\" (clear, specific statement)\n• Evidence 2: \"Starbucks Reserve Mug and Starbucks Reserve Whole Bean Coffee Starbucks Reserve partners with BFood’s CEO\" (redundant, unclear sentence structure disrupting clarity)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"For the financial period ended 30 June 2019, BFS’s revenue increased... mainly due to the 2 additional months of year end closing.\"\n• Evidence 2: \"the company will continue to review its operational... to reduce operating and administrative costs\""
+    "justification": "• Evidence 1: \"Revenue increased...mainly due to the 2 additional months of year end closing\" (explains performance change)\n• Evidence 2: \"BFS will continue to review...reduce operating and administrative costs\" (forward-looking information relevant to investors)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks has 291 stores located throughout Malaysia, except in the state of Perlis and Terengganu.\" (specific factual data)\n• Evidence 2: No mention of risks, challenges, or uncertainties related to operations or market conditions."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The first Starbucks retail store in Malaysia was opened in KL Plaza... on 17 December 1998.\" (clear temporal reference)\n• Evidence 2: \"Store Location by Region\" section provides categorized data but contains repeated entries (e.g., \"Southern 42\") which may cause confusion."
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"BStarbucks won the following awards:\" lists recognition but lacks context for investor decision-making.\n• Evidence 2: \"TOTAL : 291 Stores\" provides operational scale but no analysis of growth trends or strategic implications."
+  }
+}

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: The text describes stakeholder engagement methods without overstatement (e.g., \"Continuous efforts to serve customers...\").\n• Evidence 2: No explicit risks, challenges, or uncertainties are disclosed, limiting transparency on potential negative factors."
+    "score": 5,
+    "justification": "• Evidence 1: \"Stakeholders are instrumental in BFood’s success as a sustainable business.\" (neutral, factual statement)\n• Evidence 2: \"Stakeholder mapping is a core component... continuously evolving, updated process.\" (descriptive but lacks risk disclosure)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: Clear structure with bullet points and headings (e.g., \"Stakeholder Group Engagement Platforms\").\n• Evidence 2: Direct language explaining engagement methods (e.g., \"Regular meetings with suppliers...\")."
+    "justification": "• Evidence 1: \"Continuous efforts to serve customers more effectively using various feedback channels and initiatives\" (precise language)\n• Evidence 2: \"The following table summarises BFood’s stakeholder universe...\" (clear structural indicator)"
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: Mentions shareholder communication channels (e.g., \"Communications via announcements to Bursa Securities...\") relevant to investors.\n• Evidence 2: Lacks forward-looking information, risk disclosures, or material events impacting decision-making."
+    "justification": "• Evidence 1: \"Communications via announcements to Bursa Securities, general meetings and BFood’s website\" (relevant to investors)\n• Evidence 2: \"Volunteering opportunities and charitable events\" (limited relevance to decision-making)"
   }
 }

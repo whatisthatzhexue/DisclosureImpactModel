@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks accounts for 96% of BFood’s net profit.\" (specific factual claim)\n• Evidence 2: \"Despite rising production costs and the inflationary environment, BFood managed input costs to future-proof the business.\" (acknowledges challenges but lacks quantification of risks)"
+    "justification": "• Evidence 1: \"BFood recorded a healthy growth in FY2022 as COVID-19 restrictions eased...\" (specific factual context)\n• Evidence 2: \"BStarbucks accounts for 96% of BFood’s net profit.\" (quantifiable data, though lacks risk disclosure)"
   },
   "Understandability": {
     "score": 6,
-    "justification": "• Evidence 1: \"BFood recorded a healthy growth in FY2022 as COVID-19 restrictions eased...\" (clear cause-effect explanation)\n• Evidence 2: \"VENTURING INTO SOMETHING CHILLY ON THE OUTSIDE THAT FEELS GOOD ON THE INSIDE\" (vague marketing slogan with no contextual explanation)"
+    "justification": "• Evidence 1: \"Generating customer interest through switching outlet formats; and Leveraging third-party delivery services...\" (clear structure but vague phrasing)\n• Evidence 2: \"Derived from combining the words ‘Kelapa’ (coconut) and ‘love’...\" (informative but narrative style may obscure clarity)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"In view of the increasing cost of raw materials, BFood actively improves its product portfolio...\" (explains performance drivers)\n• Evidence 2: \"Moving forward, BStarbucks is accelerating its store expansion...\" (forward-looking strategy relevant to investors)"
+    "justification": "• Evidence 1: \"Moving forward, BStarbucks is accelerating its store expansion...\" (forward-looking strategy)\n• Evidence 2: \"In view of the increasing cost of raw materials...\" (explains performance drivers)"
   }
 }

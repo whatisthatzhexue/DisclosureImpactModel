@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "The final score of 8 is justified by consistent high-quality disclosures across all sources. Evidence includes neutral factual statements (e.g., 'The Group recorded a Profit After Tax (PAT) of approximately RM45.2 million'), specific numerical data (e.g., 'cost incurred... amounted to RM303,061'), and detailed risk management frameworks (e.g., 'key risk profile is used for the identification of high residual risks'). While one source (score 7) noted 'satisfactory' internal controls, the overall alignment of precise, non-overstated disclosures supports the high score."
+    "score": 8.5,
+    "justification": "The reliability score is derived from a balanced assessment of the scoring results. The first two sources (scores 9 and 9) highlight strong corporate structure details, quantified performance changes, and neutral factual disclosures. The third source (score 8) adds objective risk management criteria, while the fourth (score 7) emphasizes clear accountability and specific financial disclosures. Contradictions in scoring are resolved by prioritizing the consistency of factual precision (e.g., quantified revenue changes) and structured governance disclosures, which dominate across sources. Compromised to 8.5 to reflect high reliability with minor inconsistencies in depth."
   },
   "Relevance": {
-    "score": 7,
-    "justification": "The score of 7 reflects a balance between strong material disclosures and moderate gaps. High relevance is demonstrated by financial performance data (e.g., 'RM140.1 million revenue'), risk exposure details (e.g., 'high residual risks above risk appetite'), and governance mechanisms (e.g., 'report to the Audit Committee'). However, some sources (scores 6 and 7) highlighted less direct relevance, such as related party transactions (score 6) and budget monitoring (score 7), which are still important but less immediately material to investors compared to explicit financial and risk disclosures."
+    "score": 7.5,
+    "justification": "The relevance score reflects a middle ground between high (9) and lower (6-7) assessments. The first source (score 9) provides material event disclosures and direct investor-relevant decisions (e.g., dividend recommendations). The fourth source (score 7) addresses investor concerns through governance assurance, while the third (score 6) focuses on internal risk monitoring. The second source (score 7) balances material risk disclosures with corporate governance. Compromised to 7.5 to acknowledge strong materiality in some sections but lower emphasis on direct investor impact in others."
   },
   "Understandability": {
-    "score": 7,
-    "justification": "A score of 7 acknowledges both clarity and complexity. Strong examples include structured process descriptions (e.g., 'Systematic risk management process...') and precise language (e.g., 'precise role definition'). However, some sections exhibit repetitive phrasing (e.g., 'intensified its efforts in activating numerous ground activities') and nested clauses (e.g., 'Board is satisfied that...'). These inconsistencies slightly lower the score, but the overall coherence of key sections maintains a relatively high level of understandability."
+    "score": 8,
+    "justification": "The understandability score is anchored by consistent high-quality disclosures across sources. The first two sources (scores 8 and 8) emphasize clear language, structured lists, and direct explanations (e.g., audit committee reporting). The fourth source (score 8) highlights role assignments and hierarchical explanations. The third source (score 7) uses precise terminology but slightly less accessible flow. Final score of 8 reflects strong clarity in most sections, with minor trade-offs in complexity for specific risk terminology."
   }
 }

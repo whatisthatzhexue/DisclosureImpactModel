@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group also intensifies its climate action initiatives through proactive waste reduction and management.\"\n• Evidence 2: \"Food waste in landfills produces a large amount of greenhouse gas.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood prioritises resource efficiency, particularly in water and energy usage.\"\n• Evidence 2: \"BRoasters collaborates with a licensed third-party vendor to repurpose its cooking oil into biodiesel.\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BRoasters employees with the children from Pusat Jagaan Nurul Hasanah, in conjunction of the Hari Raya festivities.\"\n• Evidence 2: \"For every pouch purchased, RM1 will be channelled to YWCA KL to support its Vocational Training Opportunity Centre.\""
+  }
+}

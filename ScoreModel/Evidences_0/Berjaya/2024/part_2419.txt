@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood fosters strong partnerships...by upholding fairness, transparency and mutual respect in all business interactions.\" (No specific risks or challenges mentioned)\n• Evidence 2: \"BFood is committed to providing transparent and accurate information...\" (Positive commitment without quantifiable evidence)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Transparent contracting processes\", \"Clear communications on expectations\" (Precise language)\n• Evidence 2: Bullet-point structure with clear headings for stakeholder groups (Logical organization)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Communications via announcements to Bursa Securities...\" (Investor communication)\n• Evidence 2: \"Transparent governance, sustainable growth, and robust financial performance\" (Relevance to shareholder value)"
+  }
+}

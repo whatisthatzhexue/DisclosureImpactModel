@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "The report demonstrates strong reliability through consistent factual disclosures (e.g., specific legal references to MCCG 2012, transparent adjustments like net remeasurement gains, and precise numerical data). While some entries (e.g., one scoring 7) noted non-compliance with best practices, the majority of evidence supports high reliability. The balanced score of 8 reflects robust transparency and factual accuracy, with minor gaps in addressing governance risks."
+    "justification": "The final Reliability score of 8 balances strong evidence of compliance with legal and regulatory standards (e.g., references to Malaysian Code on Corporate Governance 2012, Companies Act 1965, and specific factual disclosures about dividend policies and audit procedures) with moderate concerns. While some entries (e.g., one scoring 9) highlight precise legal references and neutral, factual statements, others (e.g., a 7) note non-compliance with best practices (e.g., 'not in compliance with the best practices of the MCCG 2012'). These contradictions are resolved by prioritizing explicit legal adherence and factual transparency, which dominate most scoring results."
   },
   "Relevance": {
     "score": 7,
-    "justification": "The report addresses key investor concerns such as governance structures, dividend policies, and risk management, with clear relevance to financial disclosure quality. However, some entries (e.g., scores of 6) lacked forward-looking insights or contextualized material risks. The score of 7 acknowledges strong alignment with regulatory requirements but notes areas where deeper strategic or risk-related relevance could be enhanced."
+    "justification": "The Relevance score of 7 reflects a mix of directly relevant information (e.g., governance structure, dividend policies, and risk disclosures) and gaps in forward-looking or material event details. High-scoring entries (e.g., 9) emphasize investor-relevant governance decisions and risk management, while lower scores (e.g., 6) cite missing forward-looking statements or limited risk disclosure. The compromise score acknowledges the report’s focus on governance and compliance but notes insufficient depth in addressing material events or strategic priorities."
   },
   "Understandability": {
     "score": 8,
-    "justification": "The report maintains high understandability through structured explanations (e.g., clear cause-effect links for revenue growth, precise numerical data presentation, and logical process descriptions). While a few entries (e.g., scores of 7) had less clarity in certain sections, the overall coherence and direct phrasing across most sections justify a score of 8, reflecting effective communication of complex governance and financial information."
+    "justification": "The Understandability score of 8 is based on clear structural elements (e.g., numbered lists, precise language about board roles and procedures) and direct explanations of governance processes. However, one entry (scoring 6) includes an obscure phrase ('Ke arah pengukuhan agenda berpaksikan rakyat') that lacks contextual clarity. The final score emphasizes the report’s generally clear language and logical segmentation of information while noting the isolated instance of ambiguity."
   }
 }

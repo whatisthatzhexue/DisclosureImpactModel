@@ -1,6 +1,6 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 0, "justification": "• Evidence 1: No specific facts or disclosures about risks, challenges, or uncertainties are provided.\n• Evidence 2: The text lacks truthfulness, neutrality, or objective information."}, 
-  "Understandability": {"score": 1, "justification": "• Evidence 1: The heading is clear and direct, but no substantive content is provided.\n• Evidence 2: The text contains no explanations or elaboration to clarify corporate governance details."}, 
-  "Relevance": {"score": 0, "justification": "• Evidence 1: No information is provided that would be useful for investors' decision-making.\n• Evidence 2: The text does not include risks, material events, or corporate governance details as required."}
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [No content provided]\n• Evidence 2: [No specific facts or disclosures]"},
+  "Understandability": {"score": 0, "justification": "• Evidence 1: [No content provided]\n• Evidence 2: [No precise language or structure]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [No content provided]\n• Evidence 2: [No investor-focused information]"}
 }

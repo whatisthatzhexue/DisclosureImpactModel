@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Board is responsible for ensuring that financial statements are prepared in accordance with the Companies Act, 1965 and applicable approved accounting standards in Malaysia so as to give a true and fair view of the state of affairs of the Company and the Group.\"\n• Evidence 2: \"Note: Y.Bhg. Datuk Chin Kwai Yoong who retired... did not participate in any training programme for directors during the period...\""
+    "justification": "• Evidence 1: \"Note: Y.Bhg. Datuk Chin Kwai Yoong who retired... did not participate in any training programme for directors during the period...\" (discloses factual limitations)\n• Evidence 2: \"The Audit Committee conducts an annual assessment...\" (objective process description)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"PRINCIPLE 5 : UPHOLD INTEGRITY IN FINANCIAL REPORTING\" (clear section headings)\n• Evidence 2: \"The Audit Committee conducts an annual assessment of the external auditors. Areas of assessment include...\" (structured bullet points)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board is responsible for ensuring that financial statements are prepared...\" (clear responsibility assignment)\n• Evidence 2: \"The Company maintains a corporate website...\" (precise information access details)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Company observes the Corporate Disclosure Guide... as well as the disclosure requirements of the Listing Requirements of Bursa Securities.\"\n• Evidence 2: \"The Audit Committee ensures that the external auditors are independent... reviews the contracts for provision of non-audit services...\""
+    "justification": "• Evidence 1: \"The Company observes the Corporate Disclosure Guide...\" (directly addresses investor disclosure requirements)\n• Evidence 2: \"The Audit Committee ensures that the external auditors are independent...\" (pertinent to governance and risk management)"
   }
 }

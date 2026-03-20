@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"On 8 May 2024, BPB distributed food to the community...\" (specific date and action)\n• Evidence 2: \"BStarbucks donated 51 care packs to Kechara Kitchen Soup...\" (quantifiable donation details)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BRoasters marked festive occasions by spreading joy...\" (clearly structured initiative)\n• Evidence 2: \"BStarbucks sponsored rental centres for HOPE worldwide Malaysia...\" (precise description of partnership)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"For the fifth consecutive year, BStarbucks has initiated the 'Zero Hunger' campaign...\" (material event with historical context)\n• Evidence 2: \"BStarbucks supported HOPEww Malaysia at the grand opening...\" (community impact relevant to CSR)"
+  }
+}

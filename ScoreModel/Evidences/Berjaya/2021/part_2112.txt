@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 4,
-    "justification": "• Evidence 1: The text provides factual ownership percentages (e.g., '100%', '50%') without overstatement.\n• Evidence 2: No risks, challenges, or uncertainties are disclosed, limiting reliability."
+    "score": 5,
+    "justification": "• Evidence 1: [Registration No. 200901032946 (876057-U)]\n• Evidence 2: [Annual Report 2021 23]"
   },
   "Understandability": {
-    "score": 4,
-    "justification": "• Evidence 1: The structure is a list of entities with percentages, but formatting is inconsistent (e.g., '100% 65%').\n• Evidence 2: The lack of contextual explanation for percentages reduces clarity."
+    "score": 6,
+    "justification": "• Evidence 1: [CORPORATE STRUCTURE OF OPERATING COMPANIES AS AT 1 OCTOBER 2021]\n• Evidence 2: [Berjaya Starbucks Coffee Company Sdn Bhd]"
   },
   "Relevance": {
-    "score": 3,
-    "justification": "• Evidence 1: The corporate structure is relevant for understanding ownership but lacks details on risks or governance.\n• Evidence 2: No forward-looking information or material events are included, limiting investor utility."
+    "score": 4,
+    "justification": "• Evidence 1: [CORPORATE STRUCTURE OF OPERATING COMPANIES AS AT 1 OCTOBER 2021]\n• Evidence 2: [Annual Report 2021 23]"
   }
 }

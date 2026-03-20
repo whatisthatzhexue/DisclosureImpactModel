@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The programme raises awareness about upcycling used coffee bags while supporting the B40 community through income-generating sewing projects.\" (specific facts about program impact)\n• Evidence 2: \"543.71 kg of used coffee grounds donated to YWCA KL's urban edible garden\" (quantifiable data supporting claims)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Starbucks Flavorlock™ donated by customers since FY2019\" (clear numerical data presentation)\n• Evidence 2: \"The session exposed the volunteers to pouch processing...\" (precise description of activities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Empowering Women in Addressing Critical Issues\" (relevant to stakeholder impact)\n• Evidence 2: \"Donation of used Starbucks FlavorlockTM whole bean bags by customers...\" (shows community engagement relevant to investors)"
+  }
+}

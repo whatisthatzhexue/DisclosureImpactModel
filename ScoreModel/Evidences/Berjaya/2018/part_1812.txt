@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood develops its employees’ capabilities...Halal requirements by JAKIM\" (specific factual claim about compliance)\n• Evidence 2: \"Starbucks Supplier Audits are based on GFSI standards\" (objective statement with reference to external standards)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Starbucks stores are audited twice a year unannounced by external auditors and internal Quality Assurance.\" (specific audit frequency and methodology)\n• Evidence 2: \"Supplier Audits are based on Global Food Safety Initiative (\"GFSI\") standards\" (references an external standard)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Employees are required to attend the Food Handler’s class\" (clear, direct instruction)\n• Evidence 2: \"Good Catering Practice (GCP) audits are conducted every quarter\" (precise terminology with explanation)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Employees of all BFood outlets are required to attend the Food Handler’s class\" (clear directive)\n• Evidence 2: \"Good Catering Practice (\"GCP\") audits are also conducted every quarter\" (structured section headers with definitions in parentheses)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Supplier Audits...based on GFSI standards\" (relevant to operational risk management)\n• Evidence 2: \"Data Protection Policy\" (pertains to investor/customer concerns) but lacks direct financial performance or governance disclosures"
+    "score": 7,
+    "justification": "• Evidence 1: \"All Starbucks stores are audited twice a year unannounced by external auditors\" (operational compliance relevant to investor risk assessment)\n• Evidence 2: \"BRoasters encourages its customers to provide feedback through various channels\" (customer engagement metrics relevant to brand management)"
   }
 }

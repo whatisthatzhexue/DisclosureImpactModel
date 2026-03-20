@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Company observes the Corporate Disclosure Guide issued by Bursa Securities as well as the disclosure requirements of the Listing Requirements of Bursa Securities.\"\n• Evidence 2: \"The Board has established an effective risk management and internal control framework within the Group.\"\n• Evidence 3: \"The AuditCom reviews and assesses the adequacy of the risk management and internal control systems mainly based on reports presented by management, external and internal auditors during its meetings.\""
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company observes the Corporate Disclosure Guide issued by Bursa Securities as well as the disclosure requirements of the Listing Requirements of Bursa Securities.\"\n• Evidence 2: \"An independent scrutineer is appointed to validate the votes cast at general meetings.\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Company holds two briefing sessions in each financial year for fund managers, investment analysts and media...\"\n• Evidence 2: \"The Board has in place a Shareholder Communication Policy, which is published on the Company’s website.\"\n• Evidence 3: \"The annual Board evaluation is based on Board composition, Board role and functioning, information management...\""
+    "justification": "• Evidence 1: \"The Company holds two briefing sessions in each financial year for fund managers, investment analysts and media...\"\n• Evidence 2: \"The AuditCom reviews and assesses the adequacy of the risk management and internal control systems...\""
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Company maintains a corporate website at www.fn.com.my which provides information relating to annual reports, quarterly financial reports...\"\n• Evidence 2: \"The Board recognises the need for and the importance of effective communication with shareholders.\"\n• Evidence 3: \"The Statement on Risk Management and Internal Control provides an overview of the Group’s risk management and internal control framework...\""
+    "justification": "• Evidence 1: \"The Board acknowledges its responsibility to maintain a sound risk management and internal control system...\"\n• Evidence 2: \"The NomCom reviews the term of office and performance of the AuditCom and its members...\""
   }
 }

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The external auditors ... nothing has come to their attention that causes them to believe the SRMIC ... is not prepared, in all material respects, in accordance with the disclosures required by paragraphs 41 and 42 of the SRMIC\".\n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group’s Annual Report.\""
+    "justification": "• Evidence 1: \"nothing has come to their attention that causes them to believe the SRMIC intended to be included in the Annual Report is not prepared, in all material respects, in accordance with the disclosures required by paragraphs 41 and 42 of the SRMIC\"\n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group’s Annual Report\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The risks are then assessed based on the probability of their occurrence and are evaluated as Low, Medium or High\" (precise risk categorization).\n• Evidence 2: \"The ARMC held five -5 meetings during the financial year ... minutes of each of the ARMC meetings were recorded and tabled for confirmation\" (clear procedural description)."
+    "score": 8,
+    "justification": "• Evidence 1: \"The business units are required to identify the risks relevant to their businesses. The risks are then assessed based on the probability of their occurrence and are evaluated as Low, Medium or High.\"\n• Evidence 2: \"The ARMC held five -5 meetings during the financial year ended 30 April 2018. The details of attendance of the ARMC members are as follows:‑\""
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows\" (directly addresses investor concerns about risk mitigation).\n• Evidence 2: \"Disclosures will be made in the annual report on the breakdown of the aggregate value of the RRPT ...\" (material event transparency for investors)."
+    "score": 10,
+    "justification": "• Evidence 1: \"The external auditors have performed limited assurance procedures on the Statement on Risk Management and Internal Control (\"SRMIC\")... for the year ended 30 April 2018\"\n• Evidence 2: \"The ARMC reviewed the risk management activities on the Company’s subsidiaries... to ensure the business activities and risk areas are re-aligned and enhanced on an on-going basis\""
   }
 }

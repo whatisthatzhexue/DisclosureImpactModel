@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"nothing has come to their attention that causes them to believe the SRMIC intended to be included in the Annual Report is not prepared, in all material respects, in accordance with the disclosures required by paragraphs 41 and 42...\"\n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group's Annual Report.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC comprises three -3 members and all of them are Non-Executive Directors with a majority of them being independent directors.\"\n• Evidence 2: \"The minutes of each of the ARMC meetings were recorded and tabled for confirmation at the next ARMC meeting and thereafter tabled at the Board Meeting for the Directors' review and notation.\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board remains committed towards operating a sound system of internal control... to further enhance the Group's system of internal control.\"\n• Evidence 2: \"The composition of the ARMC has complied with Paragraph 15.09 -1 and -2 of the Main Market Listing Requirements...\""
+  }
+}

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Group has continued to abide with all governance guidelines issued by regulators in the countries where we are based.\"\n• Evidence 2: \"We were commended by the Asian Corporate Governance Association (ACGA) in its CG Watch 2016 for disclosure on the sugar content of our products.\""
+    "score": 6,
+    "justification": "• Evidence 1: \"the Group has continued to abide with all governance guidelines issued by regulators in the countries where we are based\"\n• Evidence 2: \"we developed a new Group Chart of Authority (COA) aligning our restructured business units with authority limits based on their scope and functions\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"We developed a new Group Chart of Authority (COA) aligning our restructured business units with authority limits based on their scope and functions.\"\n• Evidence 2: \"We announced over RM300 million in capital expenditure that will give us greater capacity for economies of scale; minimise our cost structure; enhance our innovative and competitive abilities; and reduce our carbon footprint.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"Our governance structures are not static, but evolve along with the external business environment and our responses to it\"\n• Evidence 2: \"We also introduced a new Group Procurement Policy to ensure consistency and transparency across the entire organisation\""
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"We announced over RM300 million in capital expenditure... reduce our carbon footprint.\"\n• Evidence 2: \"Our commitment to operating at the highest level of integrity... has drawn numerous industry accolades.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"We announced over RM300 million in capital expenditure that will give us greater capacity for economies of scale...\"\n• Evidence 2: \"we were honoured by three prestigious awards that reflect the quality of our people, our principles and our business\""
   }
 }

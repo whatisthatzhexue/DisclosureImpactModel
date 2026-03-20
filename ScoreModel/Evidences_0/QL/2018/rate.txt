@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The final score of 8.5 reflects a balanced assessment of the evidence. Higher scores (9) from the second and third results highlight strong compliance with listing requirements, detailed risk management disclosures, and audit committee effectiveness. The fourth result (8) adds specific factual disclosures about compliance and internal controls. The first result (7) provides foundational accountability statements but lacks the granular detail of the higher scores. Compromising between these, 8.5 captures the overall reliability, acknowledging robust compliance and risk management practices while noting the lower score's less detailed justification."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "The score of 8 is derived from averaging the four results (6, 8, 9, 7). The third result (9) and second result (8) emphasize material governance risks and audit independence, directly addressing stakeholder concerns. The fourth result (7) ties relevance to stakeholder engagement and materiality assessments, while the first result (6) focuses on corporate governance details. These diverse justifications collectively indicate strong relevance, particularly in addressing material risks and audit processes, warranting a rounded score of 8."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "The score of 8 is based on averaging the four results (8, 8, 8, 7). Three results (8) highlight clear organizational frameworks, tabular presentations, and action-oriented language, enhancing readability. The fourth result (7) notes structured sections and tabular information but slightly lower clarity. The consistent emphasis on structured communication and precise descriptions across most results justifies a score of 8, reflecting good clarity with minor variations in detail."
+  }
+}

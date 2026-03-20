@@ -6,10 +6,10 @@
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: 'The ambit of the Group Internal Audit function is defined in the Internal Audit Charter which is reviewed by the Audit Committee annually.'\n• Evidence 2: 'The Board recognises that the system of risk management and internal control are designed to manage and mitigate risks rather than eliminate risks.'"
+    "justification": "• Evidence 1: 'The ambit of the Group Internal Audit function is defined in the Internal Audit Charter which is reviewed by the Audit Committee annually.'\n• Evidence 2: 'The Audit Committee also reviewed the declaration of interim dividend and recommendation of final dividend...' (clear structure with specific responsibilities)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The related party transactions entered into by the Group were reviewed by the Audit Committee to ensure that they were conducted on the Group’s normal commercial terms...' \n• Evidence 2: 'The Statement on Risk Management and Internal Control... provides sufficient and meaningful information about the adequacy and current state of the Group’s system of risk management and internal control.'"
+    "score": 7,
+    "justification": "• Evidence 1: 'The related party transactions entered into by the Group were reviewed by the Audit Committee to ensure that they were conducted on the Group’s normal commercial terms...' (directly relevant to investor concerns)\n• Evidence 2: 'The Statement on Corporate Governance... were reviewed by the Audit Committee prior to Board’s approval.' (includes governance and internal control details)"
   }
 }

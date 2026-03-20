@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"To review and manage principal risks affecting the Group through a sound framework\" (neutral, factual disclosure of risk management responsibilities)\n• Evidence 2: \"The Board has not nominated a Senior Independent Non-Executive Director...\" (transparent disclosure of governance structure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Chairmen are responsible for the governance...while the Chief Executive Officer is responsible for implementing...\" (clear role separation with direct language)\n• Evidence 2: \"The Code of Conduct, Anti-Bribery and Corruption Policy...are available for download...\" (precise information delivery with actionable details)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"To ensure compliance with applicable laws and regulations...\" (directly relevant to investor concerns about regulatory adherence)\n• Evidence 2: \"Whistleblowing Policy with a direct incident-reporting avenue...\" (material governance information impacting risk assessment)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Revenue decreased to RM6.7 million from RM7.5 million in the financial year 2017... mainly due to overall slower retail market conditions in Brunei and the weakening of local consumer purchasing power.\"\n• Evidence 2: \"Profit before tax of RM134,000 compared to the loss before tax of RM321,000... mainly due to effective controlling of administrative expenses and efficient ongoing cost management strategies.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In order to create affinity and strengthen its brand presence, BStarbucks will use unique and elevated store designs with relevant local motifs as its main focus for its new stores.\"\n• Evidence 2: \"BFS will continue to review its operational and administrative procedures to reduce operating and administrative costs.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"For the financial year ended 30 April 2018, BFS’s revenue decreased... mainly due to overall slower retail market conditions in Brunei...\"\n• Evidence 2: \"BFS will continue to strengthen its brand name as one of the leading coffee retail chains in Brunei by offering innovative food, beverage and merchandise products which resonate with its customers’ demand.\""
+  }
+}

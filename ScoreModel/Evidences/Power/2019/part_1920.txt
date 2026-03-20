@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Audit Committee reported to and updated the Board on significant issues and matters discussed during the Committee’s meetings...\" (neutral, factual reporting)\n• Evidence 2: \"the Audit Committee recommended for the Board’s approval... after it was satisfied that the audit had been adequately planned...\" (objective, supported by specific audit criteria)"
+    "justification": "• Evidence 1: \"The audit findings on the significant risk areas, deficiencies in internal control and status of the audit were presented to the Audit Committee.\"\n• Evidence 2: \"Based on satisfactory results of the performance, independence and objectivity of the External Auditors, the Audit Committee recommended to the Board for the reappointment of the External Auditors.\""
   },
   "Understandability": {
-    "score": 10,
-    "justification": "• Evidence 1: \"Reviewed the External Auditors’ Audit Plan, Scope of Work and Audit Fee\" (precise, direct language)\n• Evidence 2: \"Private Sessions with External Auditors\" (clear structure with numbered sections and logical flow)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee carried out its duties in accordance with its terms of reference during the financial year under review.\"\n• Evidence 2: \"The audit plan presented included the engagement team, audit scope, materiality, audit methodology and timing of audit, involvement of IT specialists, other independent auditors, significant accounting policies and disclosures, audit focus areas (including changes in MFRS), emerging issues and key milestones.\""
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Reviewed the Independence and Objectivity of the External Auditors\" (material governance information)\n• Evidence 2: \"deficiencies in internal control\" (discloses operational risks relevant to investors)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee recommended for the Board’s approval and adoption of the audited statutory financial statements of the Company and the Group after it was satisfied that the audit had been adequately planned...\"\n• Evidence 2: \"The Audit Committee met twice... with the External Auditors without the presence of the Executive Directors and Management in order for the Audit Committee and the External Auditors to freely exchange observations and opinion between both parties as well as discuss any significant audit issues.\""
   }
 }

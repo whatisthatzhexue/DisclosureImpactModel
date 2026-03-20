@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BJoybean incurred a loss before tax of RM0.6 million during the financial year under review, slightly higher than the RM0.4 million loss in the previous year. The higher losses were mainly due to inter-company interest charges on advances from the holding company to support working capital.\"\n• Evidence 2: \"BPBP recorded a loss before tax of PHP32.4 million for the financial year ended 30 June 2024. This loss was primarily due to pre-operating expenses, such as media launch campaigns, training costs, and marketing efforts.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2024, BJoybean registered a higher revenue of RM0.6 million, compared to RM0.4 million in the previous financial year. This growth was primarily driven by the expansion of distribution points, particularly through partnerships with 7CAFés and convenience stores nationwide.\"\n• Evidence 2: \"The Company will focus on leveraging the insights gained over the past months to better understand consumer preferences and capitalise on opportunities for expanding the product mix.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BJoybean is optimistic about improving business performance in the coming year. The Company plans to enhance brand visibility by participating in events and expos, and forming new partnerships to expand its distribution channels.\"\n• Evidence 2: \"BPBP will implement business strategies aimed at optimising processes, including improving supply chain efficiency, enhancing inventory management, and controlling warehousing, logistics, and importation costs.\""
+  }
+}

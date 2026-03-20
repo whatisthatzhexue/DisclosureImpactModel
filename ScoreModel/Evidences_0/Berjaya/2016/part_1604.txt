@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company has a Nomination Committee, which comprises exclusively of Non-Executive Directors, with a majority of them being independent.\" (specific factual disclosure)\n• Evidence 2: \"Pursuant to Section 129(6) of the Companies Act, 1965...\" (legal reference supporting procedural transparency)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Nomination Committee meets as and when required, and at least once a year.\" (clear, direct statement)\n• Evidence 2: \"The process for the appointment of a new Director is summarised in the sequence as follows:\" (logical structure with numbered steps)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"develop, maintain and review criteria for recruitment and annual assessment of Directors\" (directly relevant to investor concerns about governance)\n• Evidence 2: \"at least one-third of the Directors are subject to retirement by rotation...\" (material governance risk disclosure)"
+  }
+}

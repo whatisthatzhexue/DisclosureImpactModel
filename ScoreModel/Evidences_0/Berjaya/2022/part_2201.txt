@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The financial year under review was another arduous year marked by macroeconomic and operational headwinds coupled with the prolonged effects of the COVID-19 pandemic\" (discloses challenges and uncertainties).\n• Evidence 2: \"Overall, the Group registered a commendable performance...\" (neutral assessment without overstatement)."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The financial year ended 30 June 2022\" (clear temporal reference).\n• Evidence 2: \"relentless commitment to cost optimisation and operational efficiency\" (precise, direct language)."
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"meets the increasing demands and elevating our customer experiences\" (explains performance drivers).\n• Evidence 2: Lacks forward-looking information, material events, or corporate governance details (missing key investor-relevant elements)."
+  }
+}

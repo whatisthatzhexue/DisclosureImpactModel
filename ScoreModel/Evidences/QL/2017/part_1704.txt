@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The Directors have a duty to declare immediately to the Board should they have any transactions...\" (neutral, factual disclosure of governance rules)\n• Evidence 2: \"The Board recognises the environmental sustainability role...\" (states intent but lacks specific risk disclosures)"
+    "score": 5,
+    "justification": "• Evidence 1: The text states directors 'endeavours in adopting most environmental friendly... production process' (imprecise and lacks specific facts)\n• Evidence 2: No disclosure of risks, challenges, or uncertainties related to governance or sustainability practices"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Directors’ Code of Conduct...sets out the Board’s standard of conduct\" (clear purpose statement)\n• Evidence 2: \"The minutes of Board meeting are circulated...\" (direct explanation of process)"
+    "score": 8,
+    "justification": "• Evidence 1: Clear section headings (Corporate Governance, Ethical Standards, etc.) with logical flow\n• Evidence 2: Direct language explaining director duties and code of conduct requirements without excessive jargon"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Company’s Strategies for Sustainability...ensuring the long term stability of the business\" (relevant to investor concerns)\n• Evidence 2: \"Access to Information and Advice...subject to a formal written request\" (pertains to governance but lacks performance context)"
+    "score": 6,
+    "justification": "• Evidence 1: Covers corporate governance (director duties, code of conduct) relevant to investor decision-making\n• Evidence 2: Mentions sustainability strategies but lacks forward-looking statements or specific risk disclosures"
   }
 }

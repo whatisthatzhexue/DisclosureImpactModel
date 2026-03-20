@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BStarbucks announced the collaboration of Starbucks and YWCA Vocational Training Opportunity Centre... A total of RM374,400 was channelled from the Starbucks Foundation\" (specific financial details and partnerships)\n• Evidence 2: \"For FY2022, BStarbucks raised RM5500 for TLFP...\" (quantifiable outcomes and timeframes)"
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks announced the collaboration of Starbucks and YWCA Vocational Training Opportunity Centre... RM374,400 was channelled from the Starbucks Foundation\" (specific factual details)\n• Evidence 2: \"For FY2022, BStarbucks raised RM5500...\" (quantifiable data without overstatement)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Company treated residents at these homes with Kenny Rogers meals\" (clear, direct description of action)\n• Evidence 2: \"Nine underprivileged families also received care packs containing essential food and goods\" (precise, unambiguous language)"
+    "justification": "• Evidence 1: \"The Company donated RM7,000 to three needy families...\" (precise language with clear subject-action-object structure)\n• Evidence 2: \"TLFP redistributes this food...\" (direct explanation of program function)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"BStarbucks worked with The Lost Food Project... to prevent quality, nutritious food... from going to landfill\" (material event related to sustainability)\n• Evidence 2: \"For FY2022, BStarbucks raised RM5500...\" (financial disclosure with contextual impact on communities)"
+    "score": 4,
+    "justification": "• Evidence 1: \"The programme provides training with support... financial independence\" (focus on CSR initiatives rather than financial performance)\n• Evidence 2: No mention of material events, risks, or governance structures relevant to investor decision-making"
   }
 }

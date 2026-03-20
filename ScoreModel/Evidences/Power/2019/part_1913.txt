@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 5,
-    "justification": "• Evidence 1: \"We aim to operate sustainably by minimising waste and using resources efficiently. We are constantly looking for ways to reduce environmental impacts of our operations, which in turn lower our costs, increase operational efficiencies and enhance our corporate reputation.\"\n• Evidence 2: \"We have implemented various initiatives to manage our water consumption such as monitoring our water bills for leakage control.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"We aim to operate sustainably by minimising waste and using resources efficiently.\" (Specific factual statement about operational practices)\n• Evidence 2: \"We have implemented various initiatives to manage our water consumption...\" (Concrete examples of actions taken)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Energy and Water Our facility was designed and constructed in a way that reduces demand for energy resource and has lower carbon emissions than other typical buildings.\"\n• Evidence 2: \"Water is crucial to our business. We rely on clean water for our production processes.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"Water is crucial to our business. We rely on clean water for our production processes.\" (Clear, direct explanation of water's importance)\n• Evidence 2: \"Conversion of conventional lightings to LED lights...\" (Precise description of energy-saving measures)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"We aim to operate sustainably by minimising waste and using resources efficiently. We are constantly looking for ways to reduce environmental impacts of our operations, which in turn lower our costs, increase operational efficiencies and enhance our corporate reputation.\"\n• Evidence 2: \"Compliance with Laws and Regulations (Environment) As a responsible business, we strive to make positive contributions to minimise the environmental impact of our operations in moving towards a greener sustainable future.\""
+    "score": 6,
+    "justification": "• Evidence 1: \"We aim to reduce environmental impacts of our operations, which in turn lower our costs...\" (Forward-looking information relevant to investors)\n• Evidence 2: \"We have in place a water treatment plant to treat our waste water...\" (Specific initiatives impacting operational sustainability)"
   }
 }

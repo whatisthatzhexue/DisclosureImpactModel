@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC held -4 meetings where it reviewed and evaluated the adequacy of risk management activities...\" (specific factual disclosure of meetings and actions)\n• Evidence 2: \"nothing has come to their attention that causes them to believe the SRMIC... is not prepared, in all material respects...\" (neutral, objective audit finding)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The business units are required to identify the risks relevant to their businesses.\" (clear, direct language)\n• Evidence 2: \"The minutes of each of the ARMC meetings were recorded and tabled...\" (precise description of procedural clarity)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows:\" (directly addresses investor concerns about risk management)\n• Evidence 2: \"The Board remains committed towards operating a sound system of internal control...\" (links governance to operational risks)"
+  }
+}

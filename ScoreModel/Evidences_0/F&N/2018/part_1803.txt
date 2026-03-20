@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 3,
+    "justification": "• Evidence 1: [No mention of risks, challenges, or uncertainties]\n• Evidence 2: [No specific factual disclosures beyond dates and committee activity]"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: [Clear structure with title and brief statement]\n• Evidence 2: [Direct language without redundancy or vague expressions]"
+  },
+  "Relevance": {
+    "score": 3,
+    "justification": "• Evidence 1: [No mention of performance changes, forward-looking info, or material events]\n• Evidence 2: [Lacks details on corporate governance or risks]"
+  }
+}

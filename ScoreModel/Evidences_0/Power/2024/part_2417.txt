@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Directors are responsible for ensuring that the annual financial statements... give a true and fair view...\" (neutral, factual responsibility statement)\n• Evidence 2: \"The number of Consideration Shares... is a function of the Option Ratio\" (specific, formula-based disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Option Ratio = Audited PAT of Subsidiary...\" (clear formula structure)\n• Evidence 2: \"The Directors are responsible for taking reasonable steps...\" (precise, direct language)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Material contracts involving the interests of the Directors...\" (relevant to stakeholder relationships)\n• Evidence 2: \"Put Option(s)\" (material event affecting ownership structure)"
+  }
+}

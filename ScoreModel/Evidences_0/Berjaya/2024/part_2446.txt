@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Currently, 15 employees ('partners') are participating in the SMART 1 talent pool programme, which is scheduled to conclude in January 2025.\"\n• Evidence 2: \"The SMART 2 is a 15-month accelerated development programme... scheduled to begin in the first quarter of 2025.\""
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Developing a manager mindset, Effective communication, Leading high-performance teams...\" (clearly structured topics)\n• Evidence 2: \"BERJAYA FOOD BERHAD  ANNUAL REPORT 2024 63\" (confusing formatting with page number)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Starbucks Managers Acceleration & Readiness Training 2 (SMART 2)... scheduled to begin in the first quarter of 2025\" (forward-looking information)\n• Evidence 2: No mention of financial performance changes, risks, or material events impacting investors"
+  }
+}

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The decrease in revenue was due to the discontinuation of the Starbucks RTD products.\" (BFT revenue decline)\n• Evidence 2: \"The loss before tax was mainly due to inflationary product costs... supply chain disruption... discontinuation of Starbucks RTD products.\" (BFT loss explanation)"
+    "justification": "• Evidence 1: \"The decrease in revenue was due to the discontinuation of the Starbucks RTD products.\"\n• Evidence 2: \"The loss before tax was mainly due to inflationary product costs due to supply chain disruption in tandem with the discontinuation of Starbucks RTD products during the year.\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BFT will continue to focus on diversifying the portfolio of Joybean’s house-brand products.\" (Clear strategic focus)\n• Evidence 2: \"BRoasters opened 7 new stores and closed 5 non-performing stores.\" (Precise operational data)"
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2023, BFT recorded a revenue of RM8.7 million compared to RM13.7 million in the financial year 2022.\"\n• Evidence 2: \"BRoasters registered a loss before tax of RM4.7 million during the financial year ended 30 June 2023, compared to the profit before tax of RM6.2 million in the previous financial year.\""
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Revenue was reduced by 11.6%... attributed to weakening consumer sentiment... reduced foot traffic... increasing cost of living.\" (Performance change explanation)\n• Evidence 2: \"Jollibean Foods aims to entice customers with an attractive and affordable monthly subscription programme...\" (Forward-looking strategy)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The lower revenue was mainly due to a decline in footfalls and subdued consumer sentiment in the second half of the financial year, attributed to the rising cost of living and interest rates.\"\n• Evidence 2: \"Jollibean Foods aims to strengthen brand awareness through active digital marketing by sharing compelling content regularly and engaging with sustainable Key Opinion Leaders (KOL) to reach out to the younger generation.\""
   }
 }

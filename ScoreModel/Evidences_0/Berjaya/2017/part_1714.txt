@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board will, on a continuous basis, evaluate and determine the training needs of its members...\" (neutral, factual statement)\n• Evidence 2: \"* Denotes Dato’ Lee Kok Chuan has resigned...\" (specific, neutral disclosure of a material event)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Corporate Governance Breakfast Series with Directors: \"The Cybersecurity Threat and How Boards Should Mitigate The Risks\"\" (clear, direct language)\n• Evidence 2: \"FTSE4GOOD Bursa Malaysia Index Briefing\" (precise terminology for specific events)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sustainability Forum for Directors/ Chief Executive Officers: \"The Velocity of Global Change & Sustainability-The New Business Model\"\" (relevant to investor concerns about sustainability)\n• Evidence 2: \"* Denotes Dato’ Lee Kok Chuan has resigned...\" (material event disclosure)"
+  }
+}

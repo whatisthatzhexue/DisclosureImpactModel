@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BFood derived its CO2 emissions from fuel consumption from the emission factor published by the IPCC Guidelines for National Greenhouse Gas Inventories.\" (objective methodology)\n• Evidence 2: \"This reduction was also partly attributed to a decrease in workforce size.\" (acknowledges external factors affecting results)"
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood derived its CO2 emissions from fuel consumption from the emission factor published by the IPCC Guidelines for National Greenhouse Gas Inventories.\" (objective methodology)\n• Evidence 2: \"total yearly CO2 emissions from employee ("partner") commuting dropped from 7,397 tonnes in FY2023 to 3,405 tonnes in FY2024, representing a 54% reduction.\" (specific factual claim)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Typical Methods of Transport for BFood Employees\" table organizes data logically (clear structure)\n• Evidence 2: \"BFood turns off items such as copiers, printers, and shredders at the end of the day.\" (precise, direct language)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Typical Methods of Transport for BFood Employees\" table with clear columns (structure)\n• Evidence 2: \"In FY2024, 1,442 employees ("partners"), representing 40% of the total workforce participated in the survey...\" (precise, direct language)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"the total distance travelled for commuting decreased significantly... representing a 54% reduction.\" (explains performance changes)\n• Evidence 2: \"In FY2024, 1,442 employees... representing 40% of the total workforce participated in the survey.\" (provides context for data)"
+    "justification": "• Evidence 1: \"the total distance travelled for commuting decreased significantly, from 28,052,067 kilometers in FY2023 to 18,634,397 kilometers in FY2024.\" (performance change explanation)\n• Evidence 2: \"This reduction was also partly attributed to a decrease in workforce size.\" (reason for change, but lacks forward-looking or governance details)"
   }
 }

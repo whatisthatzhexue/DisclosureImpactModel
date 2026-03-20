@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC also reviewed the transactions with related parties...pursuant to Chapter 10 of the Main Market Listing Requirements of Bursa Malaysia Securities Berhad\" (specific compliance reference).\n• Evidence 2: \"the ARMC had reviewed the related party transaction...for a total cash consideration of RM15,674,750.00\" (quantifiable, factual detail)."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed and recommended to the Board for approval...\" (clear action-oriented language).\n• Evidence 2: \"risk score, risk treatment, risk owner and control effectiveness\" (precise terminology for risk management context)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed and recommended to the Board the distribution of interim dividend...based on the solvency test\" (material financial decision relevance).\n• Evidence 2: \"Reviewed the risk register covering areas such as the likelihood of occurrence...\" (direct relevance to investor risk assessment)."
+  }
+}

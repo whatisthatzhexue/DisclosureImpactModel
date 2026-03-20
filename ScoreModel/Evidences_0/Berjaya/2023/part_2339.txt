@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The ARMC is to provide a statement that it has reviewed the terms of the RRPT to ensure that such transactions are undertaken based on terms not more favourable to the related parties than those generally available to the public\".\n• Evidence 2: \"During the financial year ended 30 June 2023, the ARMC had reviewed the related party transaction on the proposed acquisition...\"."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The ARMC also reviewed the procedures and processes with regards to the RRPT on a half yearly basis...\".\n• Evidence 2: \"The cost incurred for the Internal Audit function... was approximately RM270,500.00\"."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Risk Management Activities (a) Reviewed the risk management activities on the Company’s subsidiaries...\".\n• Evidence 2: \"Disclosures will be made in the annual report on the breakdown of the aggregate value of the RRPT...\"."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Productivity loss from injuries, occupational diseases, lost days and fatalities.\" (Discloses specific risks)\n• Evidence 2: \"Comply with relevant laws and regulations... supported by appropriate Safety, Health and Environmental Management policies\" (Provides concrete actions and frameworks)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RISKS\", \"OPPORTUNITIES\", \"OUR RESPONSE\" section headers with bullet points (Clear structure and logic)\n• Evidence 2: \"Annual health screening\" and \"ISO 14001 and ISO 45001\" (Precise, direct language with necessary professional terms)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Workplace safety issue may impact business continuity and the company’s license to operate\" (Material risk relevant to investors)\n• Evidence 2: \"Robust employee compensation... maintain our competitive edge\" (Talent management strategy linked to investor concerns)"
+  }
+}

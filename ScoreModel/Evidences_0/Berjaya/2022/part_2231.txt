@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group has introduced processes to ensure full compliance with the Personal Data Protection Act 2010 (\"PDPA\").\"\n• Evidence 2: \"There have been no disciplinary cases reported for corrupt practices which resulted in the dismissal of employees.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood makes all products from fresh ingredients and displays allergens and nutrition information on every food packet sold and on the menu.\"\n• Evidence 2: \"BFood’s Environmental Management System (\"EMS\") helps the Group manage its environmental actions in a comprehensive, systematic and documented approach aligned with ISO 14001.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFood received zero fines and penalties from the authorities during the recent years and reporting period, demonstrating the effectiveness of these stringent anti-corruption policies and practices.\"\n• Evidence 2: \"BFood took bold action toward reducing its carbon emissions in FY2022 by: Initiating its first GHG inventory; and Formalising a comprehensive data collection process for reporting scopes 1, 2 and 3.\""
+  }
+}

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Directors are responsible for keeping accounting records which disclosed with reasonable accuracy...\" (neutral, factual statement about responsibilities)\n• Evidence 2: \"The External Auditors have provided the declaration in their annual audit plan...\" (specific, verifiable action related to independence)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Directors are responsible for keeping accounting records which disclosed with reasonable accuracy...\" (neutral, objective description of responsibilities)\n• Evidence 2: \"The External Auditors have provided the declaration in their annual audit plan...\" (specific fact about compliance with By-Laws)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The ARMC invites External Auditors to attend its meetings at least twice a year...\" (clear, direct explanation of process)\n• Evidence 2: \"The areas of assessment include among others...\" (structured list of evaluation criteria)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The ARMC invites External Auditors to attend its meetings at least twice a year...\" (clear, direct explanation of processes)\n• Evidence 2: \"The areas of assessment include among others...\" (precise listing of evaluation criteria)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Directors are responsible for safeguarding the assets of the Group...\" (directly relevant to investor concerns about governance)\n• Evidence 2: \"The ARMC also ensures that the External Auditors are independent...\" (critical for assessing audit quality and transparency)"
+    "justification": "• Evidence 1: \"The Directors are responsible for safeguarding the assets...\" (material governance information)\n• Evidence 2: \"The recurring non-audit services were in respect of tax compliance...\" (specific risk disclosure)"
   }
 }

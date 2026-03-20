@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"QL talent retention approach includes providing employees with a competitive remuneration package and offering a suite of benefits that are benchmarked against market practices.\" (specific fact)\n• Evidence 2: \"The Company applied/adopted 32 out of the total of 36 recommended practices in the MCCG 2017.\" (quantifiable disclosure)"
+    "score": 8,
+    "justification": "• Evidence 1: \"QL’s sustained business success relies on having capable and competent employees equipped with the relevant knowledge, skills and experiences.\" (Neutral, factual statement about business reliance on employees)\n• Evidence 2: \"The rewards given to deserving and performing employees are merits-based, with inputs of the performance review.\" (Specific, objective description of reward criteria)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"QL’s sustained business success relies on having capable and competent employees equipped with the relevant knowledge, skills and experiences.\" (clear, direct language)\n• Evidence 2: \"The LEAD Programme has been designed around the concept of managing self, managing people and managing the business.\" (precise structure and logic)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Leadership Development (LEAD) Programme and Accelerated Learning Process continues to form the cornerstone of our employees’ soft skill and talent development.\" (Clear, direct explanation of program purpose)\n• Evidence 2: \"All full-time permanent local employees ranging from Non-Executive to Senior Management are required to undergo the structured appraisal process.\" (Precise language specifying scope of appraisal)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"QL endeavours to improve and enhance our people practices, to achieve a long term and sustainable success for the entire QL group.\" (forward-looking investment-relevant information)\n• Evidence 2: \"The structured appraisal process performed annually encourages a more formal two-way communication between Managers and Employees.\" (material governance practice)"
+    "justification": "• Evidence 1: \"QL endeavours to improve and enhance our people practices, to achieve a long term and sustainable success for the entire QL group.\" (Links HR practices to long-term business goals)\n• Evidence 2: \"The Company’s detailed application of each practice is disclosed in the CG Report which is available on QL’s website.\" (References to corporate governance disclosures relevant to investors)"
   }
 }

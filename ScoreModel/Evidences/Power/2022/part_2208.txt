@@ -2,14 +2,14 @@
   "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The detailed disclosure...may jeopardise their personal security and increases the risk of loss of key personnel...\" (neutral explanation of rationale)\n• Evidence 2: \"Please refer to Practice 8.2...for the explanation on the departure...\" (directs to supporting documentation)"
+    "justification": "• Evidence 1: \"The detailed disclosure on a named basis... may jeopardise their personal security and increases the risk of loss of key personnel...\" \n• Evidence 2: \"Please refer to Practice 8.2... for the explanation on the departure...\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"All members of the Board have completed the Mandatory Accreditation Program...\" (clear, direct statement)\n• Evidence 2: \"On an annual basis...pursuant to Paragraph 15.08(2)...\" (specific reference to regulatory framework)"
+    "justification": "• Evidence 1: \"All members of the Board have completed the Mandatory Accreditation Program...\" \n• Evidence 2: \"On an annual basis, the Board through the Nominating Committee...\""
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The number of Directors...are as follows:\" (material governance information)\n• Evidence 2: \"The detailed disclosure...may jeopardise their personal security...\" (risk disclosure related to governance)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The detailed disclosure... may jeopardise their personal security...\" \n• Evidence 2: \"Audit Committee members shall undertake... accounting and auditing standards...\""
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"91% of 408 BStarbucks stores are Halal certified 372 of 4 Berjaya Food Supreme stores Halal certified in Brunei\" (specific factual data)\n• Evidence 2: \"723 number of audits were conducted in BStarbucks and BFS stores\" (quantifiable verification of compliance efforts)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks and BFS also perform Food Safety Assessments... categorises areas by food safety principles and controls\" (clear structure with defined categories)\n• Evidence 2: \"biannual assessment... breaks them down into critical, major and minor risks\" (precise risk classification terminology)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Supporting these events reinforces BStarbucks' dedication to environmental stewardship\" (sustainability initiatives relevant to investors)\n• Evidence 2: \"No mention of risks, material events, or forward-looking statements\" (lack of critical investor-focused disclosures)"
+  }
+}

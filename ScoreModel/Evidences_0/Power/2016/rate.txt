@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "The final score of 8 is justified by consistent high-quality disclosures across all sources. Evidence includes neutral factual statements (e.g., 'The Group recorded a Profit After Tax (PAT) of approximately RM45.2 million'), specific numerical data (e.g., 'cost incurred... amounted to RM303,061'), and detailed risk management frameworks (e.g., 'key risk profile is used for the identification of high residual risks'). While one source (score 7) noted 'satisfactory' internal controls, the overall alignment of precise, non-overstated disclosures supports the high score."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "The score of 7 reflects a balance between strong material disclosures and moderate gaps. High relevance is demonstrated by financial performance data (e.g., 'RM140.1 million revenue'), risk exposure details (e.g., 'high residual risks above risk appetite'), and governance mechanisms (e.g., 'report to the Audit Committee'). However, some sources (scores 6 and 7) highlighted less direct relevance, such as related party transactions (score 6) and budget monitoring (score 7), which are still important but less immediately material to investors compared to explicit financial and risk disclosures."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "A score of 7 acknowledges both clarity and complexity. Strong examples include structured process descriptions (e.g., 'Systematic risk management process...') and precise language (e.g., 'precise role definition'). However, some sections exhibit repetitive phrasing (e.g., 'intensified its efforts in activating numerous ground activities') and nested clauses (e.g., 'Board is satisfied that...'). These inconsistencies slightly lower the score, but the overall coherence of key sections maintains a relatively high level of understandability."
+  }
+}

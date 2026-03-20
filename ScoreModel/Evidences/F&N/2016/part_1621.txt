@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Group's overall risk management and internal control system is sound and adequate in all material aspects\" (concludes without overstatement).\n• Evidence 2: \"Compliance with these procedures is an essential element of the internal control framework\" (specific fact about procedural compliance)."
+    "score": 9,
+    "justification": "• Evidence 1: \"The procedures are also subject to review as processes change or when new business requirements need to be met.\"\n• Evidence 2: \"The Board is of the view that the Group's overall risk management and internal control system is sound and adequate in all material aspects, and has received the same assurance from both the CEO and CFO of the Group.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Group operates on an information system platform which enables transactions to be captured, compiled and reported in accordance with the business requirements\" (clear, direct explanation).\n• Evidence 2: \"Business continuity management (BCM)\" (precise terminology used consistently)."
+    "score": 9,
+    "justification": "• Evidence 1: \"Talent plays a pivotal role in achieving the business objectives of the Group.\"\n• Evidence 2: \"The information system provides management with data, analysis, variations, exceptions and other input relevant to the Group's performance.\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board is cognizant of the importance of business continuity management... to enhance shareholders' values\" (links risk management to stakeholder interests).\n• Evidence 2: \"Audit Committee and Group Internal Audit\" (includes governance and internal management details)."
+    "score": 9,
+    "justification": "• Evidence 1: \"Business continuity management... enables the Group's operations to be prepared in the event of emergencies: [list of BCM components]\"\n• Evidence 2: \"Group Internal Audit... highlights areas of improvement on control design and implementation to the Audit Committee and Management\""
   }
 }

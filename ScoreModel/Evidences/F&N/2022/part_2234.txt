@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: 'We continue to be guided by the GRI standards to ensure the relevance and completeness of the report.'\n• Evidence 2: 'Selected Safety, Health and Environment (SHE) disclosure has been externally validated by Lloyds Register Quality Assurance (LRQA).'"
+    "justification": "• Evidence 1: \"Achieved 94th percentile in our second S&P Global Corporate Sustainability Assessment\" (specific factual achievement)\n• Evidence 2: \"selected Safety, Health and Environment (SHE) disclosure has been externally validated by Lloyds Register Quality Assurance (LRQA)\" (third-party validation)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: 'F&N MATERIALITY MATRIX' is structured with clear categories and numerical rankings.\n• Evidence 2: 'Human Rights, Product & Service Labelling, Governance & Ethics...' are explicitly listed, though the quadrant visualization may require additional context for full clarity."
+    "justification": "• Evidence 1: \"F&N MATERIALITY MATRIX\" (clear section heading with visual structure)\n• Evidence 2: \"Human Rights, Product & Service Labelling... were shifted upward\" (precise explanation of materiality shifts)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: 'Achieved 94th percentile in our second S&P Global Corporate Sustainability Assessment' provides investor-relevant performance metrics.\n• Evidence 2: 'Material Matters' section aligns with stakeholder priorities, though specific financial risks or governance details are limited."
+    "justification": "• Evidence 1: \"Ranked TOP 10 companies out of 89 assessed in the beverages industry\" (investor-relevant ranking)\n• Evidence 2: \"aligned with GRI 13: Agriculture... and FTSE4Good\" (materiality assessment relevant to investors)"
   }
 }

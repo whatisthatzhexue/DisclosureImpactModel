@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 3,
-    "justification": "• Evidence 1: No disclosure of risks, challenges, or uncertainties\n• Evidence 2: Data presented as percentages without context or specific factual explanations"
+    "justification": "• Evidence 1: The text lacks disclosure of risks, challenges, or uncertainties (no mention of operational risks, market risks, or financial uncertainties).\n• Evidence 2: Percentages are presented without context (e.g., '11% 5%' under FY2022/FY2021) or explanation of what they represent (e.g., revenue, profit margins, asset allocation)."
   },
   "Understandability": {
-    "score": 5,
-    "justification": "• Evidence 1: Fragmented structure with unclear percentage references (e.g., \"11% 5%\")\n• Evidence 2: Notes (i) and (ii) clarify some terms but lack contextual explanation for financial metrics"
+    "score": 4,
+    "justification": "• Evidence 1: The text contains fragmented data (e.g., 'Others' at the end) and unclear categorization (e.g., 'Total equity' and 'Loans and borrowings' listed without clear numerical context).\n• Evidence 2: Notes (i) and (ii) provide partial clarification but are insufficient to resolve ambiguities in the main data table."
   },
   "Relevance": {
-    "score": 4,
-    "justification": "• Evidence 1: Segmental revenue breakdowns provide some investor-relevant data\n• Evidence 2: No explanation of performance changes or forward-looking information"
+    "score": 5,
+    "justification": "• Evidence 1: Segmental revenue and operating profit data (e.g., 'F&B Malaysia Property F&B Thailand') may be useful for investors but lack contextual analysis or explanations for performance changes.\n• Evidence 2: No forward-looking information, material events, corporate governance details, or internal management discussions are included."
   }
 }

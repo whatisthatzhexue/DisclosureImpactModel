@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Directors are responsible for ensuring that the annual financial statements... give a true and fair view...\" (neutral, factual responsibility statement)\n• Evidence 2: \"The number of Consideration Shares... is a function of the Option Ratio\" (specific, formula-based disclosure)"
+    "justification": "• Evidence 1: \"The Directors are responsible for ensuring that the annual financial statements... give a true and fair view...\" (neutral, objective)\n• Evidence 2: \"The Directors are also responsible for taking reasonable steps to safeguard... detect and prevent fraud...\" (discloses risks/uncertainties)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Option Ratio = Audited PAT of Subsidiary...\" (clear formula structure)\n• Evidence 2: \"The Directors are responsible for taking reasonable steps...\" (precise, direct language)"
+    "justification": "• Evidence 1: \"Consideration Shares = Option Ratio x Total number of shares...\" (precise formula)\n• Evidence 2: \"(individually referred to as 'Subsidiary' and collectively referred to as 'Subsidiaries')\" (clear terminology)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Material contracts involving the interests of the Directors...\" (relevant to stakeholder relationships)\n• Evidence 2: \"Put Option(s)\" (material event affecting ownership structure)"
+    "score": 7,
+    "justification": "• Evidence 1: \"material contracts involving the interests of the Directors... major shareholders\" (relevant to investor decision-making)\n• Evidence 2: \"Put Option Agreements... basis for the calculation for the Consideration Shares\" (specific governance/contract details)"
   }
 }

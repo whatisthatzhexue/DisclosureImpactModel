@@ -2,18 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "The reliability score of 8 is justified by the consistent presence of specific factual disclosures (e.g., \"BFood completed the acquisition of 11,500,000 ordinary shares... for a cash consideration of RM71.7 million\"), verifiable data (e.g., \"As at 30 June 2024, there are 408 stores nationwide\"), and objective risk assessments (e.g., \"The decline in revenue was primarily attributed to the negative impact of the ongoing conflict in the Middle East on consumer sentiment\"). While some entries scored lower due to missing risk disclosures (e.g., one entry scored 5 for lacking specific factual claims), the majority of evidence supports high reliability through precise, neutral language and verifiable metrics."
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "The understandability score of 8 is supported by clear, direct language (e.g., \"RM750.70 million\" and \"RM89.06 million\" for numerical clarity), structured bullet points (e.g., \"The brand introduced its unique fusion of French-inspired South Korean pastries...\"), and logical organization (e.g., clear section headers for sustainability and governance). While some entries had vague phrasing (e.g., one scored 5 for terms like \"temporary challenges\" without context), the majority provided precise explanations and actionable information, ensuring clarity for readers."
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "The understandability score of 8 is supported by clear, direct language (e.g., \"RM750.70 million\" and \"RM89.06 million\" for numerical clarity), structured bullet points (e.g., \"The brand introduced its unique fusion of French-inspired South Korean pastries...\"), and logical organization (e.g., clear section headers for sustainability and governance). While some entries had vague phrasing (e.g., one scored 5 for terms like \"temporary challenges\" without context), the majority provided precise explanations and actionable information, ensuring clarity for readers."
+    "justification": "• Most scoring results highlight robust reliability with specific factual data (e.g., revenue figures, transaction dates, compliance disclosures) and neutral explanations of financial performance. High scores (9-10) cite verifiable metrics and objective risk management processes, while lower scores (e.g., 5-7) lack detailed risk disclosures or overstate claims. Compromised score of 8 reflects majority of strong, neutral disclosures balanced with some gaps in risk transparency."
   },
   "Relevance": {
     "score": 7,
-    "justification": "The relevance score of 7 reflects the inclusion of material events (e.g., \"BFood's holding company... effectively holds the worldwide KRR franchise\"), forward-looking strategies (e.g., \"BFood aims to open 3 to 5 Drive-Thru concept stores...\"), and investor-focused disclosures (e.g., \"The decline in profitability was primarily driven by...\"). However, some entries lacked direct links to financial performance or governance (e.g., one scored 3 for missing forward-looking information), while others provided sufficient context for relevance. The balance of material and strategic information justifies the mid-range score."
+    "justification": "• High relevance scores (8-9) focus on material events, forward-looking strategies, and investor-linked disclosures (e.g., dividend trends, sustainability initiatives). Lower scores (e.g., 4-6) lack direct ties to financial performance or governance. Final score of 7 reflects balanced coverage of strategic relevance and materiality, with room for improvement in linking disclosures to investor decision-making."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Most scoring results emphasize clear structure, precise language, and logical flow (e.g., numerical data, bullet points, direct explanations). Lower scores (e.g., 4-6) cite vague phrasing or redundant formatting. Final score of 8 captures dominant clarity and precision while acknowledging minor inconsistencies in some entries."
   }
 }

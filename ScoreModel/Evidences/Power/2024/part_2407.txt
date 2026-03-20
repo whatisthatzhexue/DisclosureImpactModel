@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board has implemented a process... for further improvement.\" (neutral, process-focused)\n• Evidence 2: \"the Board is of the opinion that the Audit Committee... effectively discharged their duties.\" (specific, objective assessment)"
+    "justification": "• Evidence 1: \"the Board, based on the recommendations of the Nominating Committee and after due deliberations, was satisfied with the composition, competency and effectiveness of the present Board...\" (neutral assessment with specific rationale)\n• Evidence 2: \"None of the Directors participated in any way in determining his/her own remuneration\" (objective statement with factual disclosure)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Nominating Committee reviews the required mix of skills...\" (clear structure with specific responsibilities)\n• Evidence 2: \"Individual Directors abstained from all deliberation...\" (precise, direct language)"
+    "justification": "• Evidence 1: \"The Nominating Committee reviews the required mix of skills...\" (clear structure with precise terminology)\n• Evidence 2: \"Sufficient time is given to all the Directors...\" (direct language explaining process)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"the Board, through the Nominating Committee... self and peer evaluation...\" (directly addresses governance mechanisms)\n• Evidence 2: \"remuneration policies... to attract, retain and motivate Directors...\" (links governance to investor-relevant outcomes)"
+    "score": 7,
+    "justification": "• Evidence 1: \"the Board assumes the overall responsibility for establishing...remuneration policies...\" (directly relevant to investor concerns about governance)\n• Evidence 2: \"Please refer to Practice 6.1...for details on the performance evaluation...\" (links to additional relevant information)"
   }
 }

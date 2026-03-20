@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Group is exposed to various financial risks relating to foreign currency rates, credit risks, interest rate risks and commodity price fluctuations. These financial risks are mitigated through internal control processes and constant monitoring.\"\n• Evidence 2: \"The Board is of the view that the risk management and internal control systems... is adequate and effective to safeguard the shareholders’ investment and the Group’s assets.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board has put in place on an Enterprise Risk Management... in accordance with the Malaysian Code on Corporate Governance 2017\" (specific regulatory compliance)\n• Evidence 2: \"There have been no significant breakdowns or weaknesses...\" (explicit statement about system adequacy)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows:• Emerging and existing risks are identified by respective business unit...\"\n• Evidence 2: \"The Board, RMU, RMC and Audit Committee meet on a quarterly basis...\""
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group’s ERM framework aims to facilitate the execution of strategic business action...\" (clear purpose statement)\n• Evidence 2: \"The RMU and RMC meet on a quarterly basis...\" (precise process description)"
   },
   "Relevance": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Group is exposed to various financial risks... commodity price fluctuations.\"\n• Evidence 2: \"The Audit Committee assessed the overall adequacy and effectiveness of the system of internal controls... reports to the Board of Directors.\""
+    "justification": "• Evidence 1: \"The Group is exposed to various financial risks...\" (material risk disclosure)\n• Evidence 2: \"The Group’s system of internal control applies to QL Resources Berhad...\" (direct relevance to investors' concerns)"
   }
 }

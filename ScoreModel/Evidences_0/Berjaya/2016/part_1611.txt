@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the ARMC was satisfied that they were not likely to create any conflict or impair the independence and objectivity of the External Auditors\"\n• Evidence 2: \"* included the Accountants Report issued for the acquisition of Berjaya Starbucks Coffee Company Sdn Bhd.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Statutory audit fees paid/payable to: - Ernst & Young (\"EY\") Malaysia 35,000 25,000 173,000 153,000\"\" (clear numerical structure)\n• Evidence 2: \"The Statement on Risk Management and Internal Control set out on pages 32 to 34...\" (explicit reference to supplementary information)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"the proposed appointment will be subject to shareholders’ approval at the AGM\" (directly relevant to governance and investor decision-making)\n• Evidence 2: \"* included the Accountants Report issued for the acquisition...\" (material event disclosure)"
+  }
+}

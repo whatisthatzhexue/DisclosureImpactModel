@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"BFood calculated an average score for all areas within each stakeholder group to ensure all stakeholders are represented equally\" (neutral, objective method)\n• Evidence 2: \"The results helped BFood address gaps in its sustainability disclosure\" (acknowledges limitations without overstatement)"
+    "score": 5,
+    "justification": "• Evidence 1: [exact quote] \"BFood calculated an average score for all areas...\" (neutral, objective calculation)\n• Evidence 2: [exact quote] \"...address gaps in its sustainability disclosure\" (acknowledges limitations but lacks specific risk disclosures)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"THE RESULTS\" section provides clear structure with specific mention of materiality matrix analysis\n• Evidence 2: Direct language explaining the purpose of the materiality assessment without vague terminology"
+    "justification": "• Evidence 1: [exact quote] \"THE RESULTS\" (clear section heading)\n• Evidence 2: [exact quote] \"The following materiality matrix...\" (direct reference to visual aid for clarity)"
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"The results helped BFood address gaps in its sustainability disclosure\" (directly links analysis to organizational improvement)\n• Evidence 2: Mentions materiality matrix but lacks specific details about risks, forward-looking information, or investor decision-making implications"
+    "justification": "• Evidence 1: [exact quote] \"...address gaps in its sustainability disclosure\" (relevant to investor concerns)\n• Evidence 2: [exact quote] \"The results helped BFood...\" (links disclosure to organizational improvement, but lacks specific forward-looking information)"
   }
 }

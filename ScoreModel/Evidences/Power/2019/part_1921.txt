@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"no major transactions were entered by the Group with related parties during the financial year ended 31 March 2019\"\n• Evidence 2: \"the Audit Committee conducted a formal evaluation... via the Internal Audit Function Evaluation Checklist\""
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee received internal audit reports...management action plans for the internal audits conducted based on the approved internal audit plan.\"\n• Evidence 2: \"the Audit Committee had assessed the adequacy and effectiveness...Continuous professional development of the Internal Audit Function\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Audit Committee reviewed the Corporate Governance Report... and other information required for disclosure\"\n• Evidence 2: \"the status of agreed management action plans for the previous internal audit findings\""
+    "justification": "• Evidence 1: \"Reviewed the Internal Audit Function...status of agreed management action plans...approved internal audit plan\"\n• Evidence 2: \"The oversight role of the Audit Committee...located on pages 67 to 68 of this Annual Report.\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Reviewed the Statements and Reports Disclosed in Annual Report\" (covers governance and disclosure requirements)\n• Evidence 2: \"Reviewed the Updated Enterprise Risk Management Report\" (addresses material risks)"
+    "score": 8,
+    "justification": "• Evidence 1: \"no major transactions were entered by the Group with related parties...31 March 2019.\"\n• Evidence 2: \"Reviewed the Updated Enterprise Risk Management Report...key risk profile, key risk registers...proposed internal audit plan derived therefrom\""
   }
 }

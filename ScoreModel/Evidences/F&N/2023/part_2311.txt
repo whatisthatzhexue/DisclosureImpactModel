@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 3,
-    "justification": "• Evidence 1: \"Converted to organiser fertiliser\" (ambiguous terminology and lack of specificity)\n• Evidence 2: No mention of risks, challenges, or uncertainties in sludge conversion process"
+    "score": 4,
+    "justification": "• Evidence 1: [TEXT]100% of sludge from dairy production @ 1,652 MT Converted to organiser fertiliser and distributed to local farmers[/TEXT] (lacks disclosure of risks, challenges, or uncertainties)\n• Evidence 2: [TEXT]Read our 2023 Sustainability Report here:[/TEXT] (no specific facts provided about the sustainability practices beyond the link)"
   },
   "Understandability": {
-    "score": 3,
-    "justification": "• Evidence 1: \"Converted to organiser fertiliser\" (non-standard terminology and possible typo)\n• Evidence 2: Fragmented structure with unclear relationships between plant locations and activities"
+    "score": 5,
+    "justification": "• Evidence 1: [TEXT]Converted to organiser fertiliser[/TEXT] (ambiguous phrasing and potential typo may confuse readers)\n• Evidence 2: [TEXT]Pulau Indah Plant & Rajana Plant[/TEXT] (brief plant names without contextual explanation reduce clarity)"
   },
   "Relevance": {
-    "score": 2,
-    "justification": "• Evidence 1: \"Read our 2023 Sustainability Report here:\" (single forward-looking reference with no contextual explanation)\n• Evidence 2: No disclosure of material events, corporate governance, or risk factors related to sustainability practices"
+    "score": 3,
+    "justification": "• Evidence 1: [TEXT]Read our 2023 Sustainability Report here:[/TEXT] (no direct relevance to the current statement's content)\n• Evidence 2: [TEXT]Converted to organiser fertiliser and distributed to local farmers[/TEXT] (lacks connection to investor decision-making or material events)"
   }
 }

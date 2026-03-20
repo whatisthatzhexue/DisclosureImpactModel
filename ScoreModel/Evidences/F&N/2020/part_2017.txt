@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 5,
-    "justification": "• Evidence 1: \"Notes: (i) Employee benefit expenses comprise of wages...\" [specific factual disclosure]\n• Evidence 2: \"The Company has complied with the principal Practices set out in the Malaysian Code...\" [compliance statement]"
+    "justification": "• Evidence 1: The text provides specific numerical data (e.g., 'RM2,167.6 million', 'RM2,044.7 million') which supports factual disclosures.\n• Evidence 2: It clarifies that 'community investments are not included' in economic value retained, showing some transparency."
   },
   "Understandability": {
     "score": 4,
-    "justification": "• Evidence 1: \"ECONOMIC VALUE RETAINED – – – – =\" [ambiguous formatting with missing logic]\n• Evidence 2: \"FY2020 FY2019 FY2020 FY2019...\" [repetitive, fragmented data presentation]"
+    "justification": "• Evidence 1: The text repeats identical numerical blocks multiple times, creating confusion and redundancy.\n• Evidence 2: The formula for 'economic value retained' is presented without clear explanation or logical flow."
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"We have been included in the FTSE4Good Bursa Malaysia (F4GBM) Index...\" [corporate governance relevance]\n• Evidence 2: \"Our ability to do this has largely been premised on these important principles...\" [strategic context]"
+    "justification": "• Evidence 1: Financial metrics (revenue, dividends, expenses) are provided, which are relevant to investors.\n• Evidence 2: Corporate governance disclosures (e.g., FTSE4Good inclusion, NACRA award) are included, though lacking detailed context."
   }
 }

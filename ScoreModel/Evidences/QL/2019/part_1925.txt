@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"GHG emissions have increased dramatically over the last century...\" (specific factual statement)\n• Evidence 2: \"This initiative is in line with the national target set by the Malaysian government for 50% of energy consumed to be derived from renewable energy sources by 2050.\" (specific policy reference)"
+    "justification": "• Evidence 1: \"The rest of the energy generated is sold to the local grid at a significantly higher tariff than energy sourced from non-renewable energy.\" (specific factual claim about biogas plant operations)\n• Evidence 2: \"GHG emissions are generated in the course of our operations... Scope 1 and Scope 2 emissions.\" (clearly defines emission scopes but lacks risk disclosure about potential emission increases or regulatory changes)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Scope 1 emissions are generated primarily from fuel consumed by our machinery and vehicles, while Scope 2 emissions are generated mostly from electricity consumption.\" (clear definition of technical terms)\n• Evidence 2: \"Methane captured is converted into energy... sold to the local grid at a significantly higher tariff...\" (precise description of operational details)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Scope 1 emissions are generated primarily from fuel consumed by our machinery and vehicles, while Scope 2 emissions are generated mostly from electricity consumption.\" (precise definition of emission categories)\n• Evidence 2: \"40,000 - 30,000 - 20,000 - 10,000 - 0 -\" (ambiguous numerical presentation without clear labels or units for diagrams)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Climate change is exacerbating the challenges faced by the agriculture sector...\" (directly links to business impacts)\n• Evidence 2: \"We ensure our operations are well-equipped and informed to respond efficiently to extreme weather patterns...\" (forward-looking operational planning)"
+    "score": 5,
+    "justification": "• Evidence 1: \"Climate change is exacerbating the challenges faced by the agriculture sector... affecting the health of our poultry layers, and FFB production.\" (explains operational impacts but lacks direct link to financial risks)\n• Evidence 2: \"This initiative is in line with the national target set by the Malaysian government...\" (forward-looking information without connection to investor decision factors)"
   }
 }

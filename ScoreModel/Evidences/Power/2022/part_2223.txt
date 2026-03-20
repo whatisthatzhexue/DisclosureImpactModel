@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The composition of the Audit Committee is in compliance with paragraph 15.09 of the MMLR...\" (neutral, objective compliance statement)\n• Evidence 2: \"The Audit Committee reported to and updated the Board on significant issues...\" (disclosure of risks and responsibilities)"
+    "justification": "• Evidence 1: 'The composition of the Audit Committee is in compliance with paragraph 15.09 of the Main Market Listing Requirements of Bursa Malaysia Securities Berhad...'\n• Evidence 2: 'The Audit Committee reported to and updated the Board on significant issues and matters discussed during the Committee’s meetings'"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The meetings were conducted with the quorum of a majority of the members present...\" (clear structure and precise language)\n• Evidence 2: \"The Audit Committee also meets the requirement under Step Up Practice 9.4...\" (direct explanation of governance requirements)"
+    "score": 9,
+    "justification": "• Evidence 1: 'The Audit Committee held five -5 meetings. Details of each member’s meeting attendances are as follows: [specific attendance data]'\n• Evidence 2: 'The meetings were conducted with the quorum of a majority of the members present at all of these meetings as required under the Audit Committee’s Terms of Reference.'"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"Reviewed the Company’s Compliance with Regulatory, Statutory and Accounting Standards...\" (material governance disclosure)\n• Evidence 2: \"No material transactions were entered into by the Group with related parties...\" (risk disclosure relevant to investors)"
+    "justification": "• Evidence 1: 'The Audit Committee reviewed the Company’s Compliance with Regulatory, Statutory and Accounting Standards...'\n• Evidence 2: 'The Audit Committee also considered information in the Annual Transparency Report presented by the External Auditors during the meeting as part of the criteria to guide the Audit Committee in its assessment on the reappointment of the External Auditors.'"
   }
 }

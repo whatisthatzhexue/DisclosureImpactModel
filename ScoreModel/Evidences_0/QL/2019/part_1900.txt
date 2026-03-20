@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We are faced with numerous events driven by external factors, from changing weather patterns...uncertainty arising from the growing concerns due to the ongoing trade war between the United States (US) and China.\"\n• Evidence 2: \"Our financial performance indicators are all in the green...RM359 million increase in revenue...RM272 million\" (specific numerical disclosures)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL is committed to fulfilling our commitment and responsibility to sustainability, both financial and non-financial.\"\n• Evidence 2: \"The Board holds ourselves accountable for upholding and propagating responsible business practices.\"" 
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our strategy and steadfastness to create value to benefit all is built on a foundation of sustainable growth.\"\n• Evidence 2: \"The inclusion into the MSCI Global Index also helped elevate the attractiveness of QL as an investment\" (forward-looking information)"
+  }
+}

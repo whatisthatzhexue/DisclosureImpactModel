@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"As at the date of this Statement, the Put Options remained unexercised.\" (specific fact without overstatement)\n• Evidence 2: \"The salient terms of the Put Option Agreements are, amongst others, as set out below:\" (neutral disclosure of contractual terms)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The breakdown of the aggregate value of the RRPT...\" (clear structure for related party transactions)\n• Evidence 2: \"Power Root HK-China Company Limited...\" (direct identification of parties and transactions)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Corporate Governance Overview\" section (material corporate governance disclosure)\n• Evidence 2: Related party transaction breakdown (critical for investor decision-making)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• The majority of scoring results (14 out of 25) assigned scores of 8–9, reflecting strong reliability through specific financial metrics, risk disclosures, and third-party validations (e.g., Nielsen data, audit committee assessments). Lower scores (e.g., 5–7) were attributed to insufficient risk analysis or lack of factual support in some entries. The report generally provides transparent, neutral, and fact-based disclosures, with only minor inconsistencies in risk mitigation explanations."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Most scoring results (16 out of 25) assigned scores of 7–9, highlighting clear numerical data, structured explanations, and precise terminology (e.g., '5g sugar per 100ml', 'RM4 million system'). Lower scores (e.g., 5–7) were due to formatting issues or vague phrasing in some sections. Overall, the report balances readability with technical details, though occasional placeholder text or unclear references slightly reduced the score."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• A majority of scoring results (14 out of 25) assigned scores of 7–8, emphasizing forward-looking strategies, material risk disclosures, and investor-relevant metrics (e.g., 'RM800 million export target', 'carbon footprint reduction'). Lower scores (e.g., 5–6) were linked to sections lacking detailed risk analysis or forward-looking information. The report effectively addresses stakeholder concerns but occasionally prioritizes operational details over strategic relevance for investors."
+  }
+}

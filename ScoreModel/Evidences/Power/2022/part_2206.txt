@@ -1,15 +1,15 @@
 {
   "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Recommendations for re-appointment are based on the satisfactory results of independence assessments (for Independent Directors) and performance evaluations of such Directors.\"\n• Evidence 2: \"Disclosures on the interest, position and relationship of such Directors that might influence their independent judgement or influence their acting in the best interests of the Group were made in the notes to the agenda of the General Meeting.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"Recommendations for re-appointment are based on the satisfactory results of independence assessments (for Independent Directors) and performance evaluations of such Directors.\" (neutral and objective)\n• Evidence 2: \"Disclosures on the interest, position and relationship of such Directors that might influence their independent judgement... were made in the notes to the agenda.\" (transparent and factual)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Nominating Committee reviews the required mix of skills, competencies, experience and other qualities on an annual basis...\"\n• Evidence 2: \"Sufficient time is given to all the Directors to read, comprehend, complete and return the assessment forms/checklists in advance of the meeting of the Nominating Committee.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"The Nominating Committee reviews the required mix of skills, competencies, experience... on an annual basis.\" (clear structure and direct language)\n• Evidence 2: \"The assessment/evaluation results are then collated and summarised for the Nominating Committee’s review...\" (logical flow and precise terminology)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Please refer to Practice 6.1 of the CG Report for details on the performance evaluation of the Board, Board Committees, individual Directors and Key Senior Management.\"\n• Evidence 2: \"the Board is of the opinion that the Audit Committee and its members had effectively discharged their duties in accordance with its terms of reference.\""
+    "score": 6,
+    "justification": "• Evidence 1: \"Please refer to Practice 6.1... for details on the performance evaluation of the Board...\" (provides context for investor decision-making)\n• Evidence 2: \"the Board is of the opinion that the Audit Committee... had effectively discharged their duties\" (relevant to governance but lacks forward-looking risk disclosures)"
   }
 }

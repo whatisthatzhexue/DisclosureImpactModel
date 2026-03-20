@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Comply with the Occupational Safety and Health standards issued in the OSHA Act\" (specific fact)\n• Evidence 2: \"Report any unsafe workplace conditions to the safety and health committee\" (actionable disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Provide and maintain a safe and healthy work environment for all employees\" (clear objective)\n• Evidence 2: \"Embedding human rights in policies, activities and training courses\" (structured approach)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Good governance ensures equality and prevents human rights violations\" (corporate governance mention)\n• Evidence 2: \"BFood focuses on its entire value chain in its work to ensure respect for human rights\" (value chain relevance)"
+  }
+}

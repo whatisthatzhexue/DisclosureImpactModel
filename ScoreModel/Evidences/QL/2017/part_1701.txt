@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: 'QL continued our steady growth trajectory in the face of various market disruptions such as overproduction of eggs which led to changes in price equilibrium, and unpredictable weather patterns affecting fish catch and palm oil production.' (discloses risks)\n• Evidence 2: 'The group oversaw growth in revenue and PBT by 6% and 4% respectively against the financial year ended 31 March 2016.' (specific factual data)"
+    "score": 8,
+    "justification": "• Evidence 1: \"QL continued our steady growth trajectory in the face of various market disruptions such as overproduction of eggs which led to changes in price equilibrium, and unpredictable weather patterns affecting fish catch and palm oil production.\"\n• Evidence 2: \"The group oversaw growth in revenue and PBT by 6% and 4% respectively against the financial year ended 31 March 2016. This represented a RM158.1 million increase in top line and RM11.03 million in PBT to close the year with RM3.012 billion revenue and RM260.5 million PBT.\""
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: '100% QL FEEDINGSTUFFS SDN. BHD.' (clear ownership structure)\n• Evidence 2: '70.59% QL Endau Marine Products Sdn. Bhd.' (precise percentage disclosure)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Corporate Structure\" section is organized by business segments (Integrated Livestock Farming, Marine Products Manufacturing, etc.) with clear ownership percentages (e.g., \"95% QL AgroResources Sdn. Bhd.\").\n• Evidence 2: \"The reception to FamilyMart has been extremely encouraging. As at 7 July 2017, 14 stores have been opened in the Klang Valley.\""
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The group oversaw growth in revenue and PBT by 6% and 4% respectively... RM3.012 billion revenue and RM260.5 million PBT.' (material financial performance)\n• Evidence 2: 'The foray into the convenience store business is a strategic extension... providing a direct avenue to the population.' (strategic rationale for investors)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The group has continued to adhere to our strategies of replicating proven business models domestically and regionally as well as expanding the existing value chains.\"\n• Evidence 2: \"The foray into the convenience store business is a strategic extension of the current businesses that QL operates, providing a direct avenue to the population.\""
   }
 }

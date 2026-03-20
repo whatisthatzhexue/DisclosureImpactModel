@@ -9,7 +9,7 @@
     "justification": "• Evidence 1: \"The tumbler is made from recycled coffee grounds and recycled polypropylene.\"\n• Evidence 2: \"Replaced plastic bags with biodegradable alternatives for takeaway at all restaurants.\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"In FY2022, 93% of Starbucks stores diverted 188,718 kg of used coffee grounds from landfills.\"\n• Evidence 2: \"Every year, BStarbucks and BRoasters stores join the global countdown to celebrate Earth Hour...\""
+    "score": 6,
+    "justification": "• Evidence 1: \"This programme positively impacts the planet while helping members of the B40 community improve their livelihoods...\"\n• Evidence 2: \"2022 marked BStarbucks’ 14th year of supporting the Earth Hour movement.\""
   }
 }

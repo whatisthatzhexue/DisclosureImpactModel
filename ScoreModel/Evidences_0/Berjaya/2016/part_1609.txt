@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board will, on a continuous basis, evaluate and determine the training needs of its members to assist them in the discharge of their duties as Directors.\" (neutral, factual statement)\n• Evidence 2: \"Compliance with Applicable Financial Reporting Standards\" (specific fact about governance responsibility)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Directors Training Programmes/Seminars/Conferences/Forum\" (clear section heading)\n• Evidence 2: \"The Game Changer for Boardroom\" (specific, albeit technical term used consistently)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board is also responsible for ensuring the annual financial statements are prepared in accordance with...\" (directly relevant to investor concerns)\n• Evidence 2: \"Opportunities for Public Listed Companies in Shariah-compliant Landscape\" (specific governance-related context)"
+  }
+}

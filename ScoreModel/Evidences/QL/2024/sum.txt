@@ -1,55 +1,55 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"One fatality and LTIFR deterioration of 31.5% from FY2023\" (discloses risks and specific metrics)\n• Evidence 2: \"Zero violation of Anti-Bribery Policy\" (objective statement supported by factual data)"
+    "score": 9,
+    "justification": "• Evidence 1: \"One fatality and LTIFR deterioration of 31.5% from FY2023\" (specific risk disclosure)\n• Evidence 2: \"Zero violation of Anti-Bribery Policy\" (objective factual statement)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Sustainability Statement... prepared based on the Sustainability Reporting Guide (3rd Edition)\" (clear structure with framework references)\n• Evidence 2: Stakeholder engagement table with defined focus areas and engagement channels (organized but dense formatting)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Sustainability Statement discloses activities and performance for QL’s identified material matters\" (clear purpose statement)\n• Evidence 2: \"QL Materiality Matrix\" (structured visual representation of complex information)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"Materiality assessment... to ensure relevance to local and global trends\" (directly addresses investor decision-making)\n• Evidence 2: \"Stakeholder engagement... to identify crucial sustainability concerns\" (includes governance and material event disclosures)"
+    "justification": "• Evidence 1: \"Benefited 176 organisations and 11,656 individuals via Corporate Philanthropy collaborations\" (investor-relevant impact metric)\n• Evidence 2: \"Board of Directors... reviews the Group’s sustainability performance in addressing material sustainability risks\" (governance risk disclosure)"
   }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 2, "justification": "• Evidence 1: No specific facts or disclosures about risks, challenges, or uncertainties are provided.\n• Evidence 2: The text contains only headings without substantive content to support reliability claims."},
-  "Understandability": {"score": 7, "justification": "• Evidence 1: The structure is clear with concise, direct headings.\n• Evidence 2: No vague or redundant expressions are present, though the lack of content limits depth."},
-  "Relevance": {"score": 2, "justification": "• Evidence 1: No information is provided about risks, material events, or governance to aid investor decision-making.\n• Evidence 2: Forward-looking statements or explanations for performance changes are entirely absent."}
+  "Reliability": {"score": 0, "justification": "• Evidence 1: No specific facts or risks disclosed\n• Evidence 2: No challenges, uncertainties, or objective analysis provided"},
+  "Understandability": {"score": 5, "justification": "• Evidence 1: Clear list structure but lacks detail\n• Evidence 2: Precise headings but no explanatory context"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: No investor decision-making insights provided\n• Evidence 2: No forward-looking information or risk explanations included"}
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"We observed a 26.5% decrease in rainwater volume...\" (specific factual data)\n• Evidence 2: \"No reported cases of non-compliance...\" (transparent disclosure of compliance status)"
+    "justification": "• Evidence 1: \"We observed a 26.5% decrease in rainwater volume...attributable to reduced rainfall in the region.\" (neutral, factual explanation of a challenge)\n• Evidence 2: \"There were no reported cases of non-compliance with environmental laws...\" (transparent disclosure of compliance status)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Occupational Safety and Health\" section with clear headings and bullet points\n• Evidence 2: \"LTIFR performance experienced a decline of 21.4%\" (precise metric presentation)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Our LTIFR performance experienced a decline of 21.4%...\" (clear metric with contextual explanation)\n• Evidence 2: \"We have set a goal to achieve an 8% improvement in LTIFR in FY2025.\" (precise forward-looking target)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Board oversees safety and health management...\" (corporate governance relevance)\n• Evidence 2: \"Diverted 95.3% of wastes from landfills...\" (material environmental impact disclosure)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board oversees the safety and health management...\" (directly links governance to operational risks)\n• Evidence 2: \"We have set a goal to achieve an 8% improvement in LTIFR in FY2025.\" (forward-looking information relevant to investor risk assessment)"
   }
 }
 
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Number of work-related fatalities C5(a) No. of fatalities 1\" [specific factual data]\n• Evidence 2: \"The outcome of the above review had been tabled as a report to the Audit Committee for their review and approval\" [internal verification process]"
+    "justification": "• Evidence 1: \"The review procedures applied primarily comprises process evaluation, documentary reviews & sampling test on data. Internal auditors selected samples...\" (shows verification process)\n• Evidence 2: \"The outcome of the above review had been tabled as a report to the Audit Committee for their review and approval.\" (demonstrates oversight mechanism)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Energy consumption C4(a) Gigajoules (GJ) 2,161,706.80 GJ\" [clear metrics with units]\n• Evidence 2: \"Procedures Adopted... internal auditors selected samples...\" [structured explanation of review process]"
+    "score": 7,
+    "justification": "• Evidence 1: \"Matters Common Indicators Ref UOM Final Outcome\" (clear section headers)\n• Evidence 2: \"Scope of Work and Limitation\" (explicitly defines review boundaries)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"Spending on local suppliers C7(a) % of spending 51.5%\" [material financial metric]\n• Evidence 2: \"The review does not carry out any procedures with respect to any other elements...\" [limits scope but lacks forward-looking info]"
+    "justification": "• Evidence 1: \"Data Privacy & Security Breaches of customer privacy and losses of customer data\" (material risk disclosure)\n• Evidence 2: \"The review does not carry out any procedures with respect to any other elements...\" (limits scope of disclosure)"
   }
 }
 
@@ -57,70 +57,79 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Company applied 42 out of the total of 48 recommended MCCG practices including Step-Up practices.\"\n• Evidence 2: \"Explanations on departures and non-adoptions are disclosed in the CG Report.\""
+    "justification": "• Evidence 1: \"The latest review was conducted in July 2024.\" (specific timeline)\n• Evidence 2: \"Applied 42 out of the total of 48 recommended MCCG practices\" (quantifiable disclosure)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board is responsible for formulating and reviewing the Group’s strategic plans and key policies...\"\n• Evidence 2: \"The Company’s detailed application of each practice is disclosed therein and is available on QL’s website.\""
+    "justification": "• Evidence 1: \"Board delegates specific responsibilities to relevant Board Committees...\" (clear structure)\n• Evidence 2: \"Aligning with QL’s vision and mission statements\" (precise language)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board actively incorporates environmental, social and governance (ESG) considerations into QL’s strategy...\"\n• Evidence 2: \"This statement is to be read together with the Company’s CG Report.\""
+    "justification": "• Evidence 1: \"Explains reasons for performance changes\" (strategic alignment with vision/mission)\n• Evidence 2: \"Incorporates ESG considerations\" (material corporate governance factor)"
   }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board has established an Executive Committee... to achieve the Group’s corporate objectives.\" [neutral, factual description]\n• Evidence 2: \"The review of the Group’s system of risk management... designed to manage rather than eliminate the risk of failure.\" [discloses risks and uncertainties]"
+    "score": 8,
+    "justification": "• Evidence 1: 'The positions of Chairman and GCEO are held by different individuals with clear division of responsibilities to ensure accountability...' [neutral, factual disclosure of governance structure]\n• Evidence 2: 'The Board has established the Directors’ Fit and Proper Policy... available on the Company’s website' [transparent disclosure of policies]"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Nominating Committee comprises three Independent Non-Executive Directors.\" [clear structure and precise terminology]\n• Evidence 2: \"The Board’s composition should reflect an appropriate mix... diversity.\" [logical flow with specific criteria]"
-  },
-  "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Succession planning... critical roles.\" [directly addresses investor concerns about leadership continuity]\n• Evidence 2: \"The Audit Committee... independence of the external auditors.\" [relevant to governance and accountability]"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: 'the Audit Committee brings transparency, focus and independent judgment needed to oversee the financial reporting.' (neutral, objective description of role)\n• Evidence 2: 'internal controls can only provide reasonable and not absolute assurance against material misstatements' (acknowledges limitations, supports reliability)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'Reviewed and recommended the Quarterly and Annual Financial Statements... for the Board’s approval' (clear, direct language)\n• Evidence 2: 'The firm has an internal policy that requires their personnel to declare their professional independence' (precise structure with specific details)"
+    "justification": "• Evidence 1: 'The Nominating Committee met three times to review and assess the following: • Board, individual Directors, Committee’s evaluation...' [clear structure with bullet points]\n• Evidence 2: 'The remuneration packages of the Executive Directors are structured to commensurate with the experience...' [precise language explaining compensation rationale]"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: 'Reviewed and recommended the Corporate Governance Overview Statement... to the Board for approval' (directly addresses governance relevance)\n• Evidence 2: 'The Group’s ERM framework enhances the Group’s ability to make better decisions' (links risk management to strategic outcomes)"
+    "justification": "• Evidence 1: 'The Board delegates its role on risk management to the Risk Management Committee... relevant internal controls system' [directly addresses risk management relevance]\n• Evidence 2: 'The Board aims to present a balanced and understandable assessment... regulatory authorities' [explicitly states investor-focused purpose]"
   }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 0, "justification": "• Evidence 1: [No disclosure of risks, challenges, or uncertainties]\n• Evidence 2: [No specific facts provided in the text]"},
-  "Understandability": {"score": 0, "justification": "• Evidence 1: [No clear structure or logical explanation]\n• Evidence 2: [No precise or direct language provided]"},
-  "Relevance": {"score": 0, "justification": "• Evidence 1: [No information about risks, material events, or corporate governance]\n• Evidence 2: [No forward-looking information or performance explanations]"}
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"nothing has come to their attention that cause them to believe that the statement intended to be included in the Annual Report of the Group, in all material respects: ... is factually inaccurate.\" (External auditors' neutral confirmation)\n• Evidence 2: \"The Board is of the view that the risk management and internal control systems ... is adequate and effective\" (Board's objective assessment of controls)"
+    "justification": "• Evidence 1: 'the Audit Committee members are financially literate, competent and possess a wide range of skills necessary to discharge their duties' (neutral, factual description)\n• Evidence 2: 'the firm did not highlight any conflict of interest matters with regards to its personnel' (disclosure of risks and specific facts)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Audit Committee comprises four -4 Independent Non-Executive Directors' (clear structure and precise language)\n• Evidence 2: 'Reviewed and recommended the Corporate Governance Overview Statement...' (logical flow with direct explanations)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'the Group’s ERM framework enhances the Group’s ability to make better decisions...' (relevant to investor decision-making)\n• Evidence 2: 'Reviewed Non-Assurance Services provided by external auditors...' (material governance and compliance information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 2,
+    "justification": "• Evidence 1: [No specific risks, challenges, or uncertainties disclosed]\n• Evidence 2: [No factual details or objective analysis provided]"
+  },
+  "Understandability": {
+    "score": 0,
+    "justification": "• Evidence 1: [No content to evaluate clarity or structure]\n• Evidence 2: [Text contains only page headers and section titles]"
+  },
+  "Relevance": {
+    "score": 2,
+    "justification": "• Evidence 1: [No investor-focused information or forward-looking statements]\n• Evidence 2: [No material events, governance details, or risk disclosures]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The external auditors have reviewed this Statement... nothing has come to their attention that cause them to believe that the statement... in all material respects: a. has not been prepared in accordance with the disclosures required... or b. is factually inaccurate.\"\n• Evidence 2: \"The Board is of the view that the risk management and internal control systems... is adequate and effective to safeguard shareholders’ investment...\""
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Standard Operating Procedures (SOPs) for business processes are formalised to govern the Group’s business operations.\" (Clear definition of control mechanisms)\n• Evidence 2: \"Quarterly Board and Board Committee Meetings ... to review business performance, discuss strategic matters\" (Logical structure with specific processes)"
+    "justification": "• Evidence 1: \"The key elements of the Group’s internal control processes are summarised as follows:\" (clear structure)\n• Evidence 2: \"Standard Operating Procedures (SOPs) for business processes are formalised...\" (precise language)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Anti-Bribery Framework ... reflects the Group’s zero tolerance stance against all forms of bribery and corruption\" (Material risk disclosure)\n• Evidence 2: \"Annual Budget and Periodic Performance Review ... to ensure that the business remains on track to achieve the Group’s strategic direction\" (Investor-relevant performance monitoring)"
+    "justification": "• Evidence 1: \"The Group’s Sustainability Roadmap has included a plan to obtain certification for ISO 45001:2018...\"\n• Evidence 2: \"Quarterly Board and Board Committee Meetings... discuss strategic matters, deliberate on key risks...\""
   }
 }
 
@@ -128,14 +137,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 6,
-    "justification": "• Evidence 1: \"In compliance with the Main Market Listing Requirements... no material contracts...\" (neutral, factual disclosure of compliance)\n• Evidence 2: \"Audit fees Non-audit fees... KPMG PLT Malaysia 2,032 169 132 30\" (specific numerical data supporting transparency)"
+    "justification": "• Evidence 1: \"In compliance with the Main Market Listing Requirements of Bursa Malaysia Securities Berhad, the following additional information is provided:...\" (neutral, factual disclosure)\n• Evidence 2: \"The Directors are responsible...to prevent and detect fraud or any other irregularities.\" (objective accountability statement)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The shareholders of the Company approved...\" (clear structure with numbered sections)\n• Evidence 2: \"Audit fees Non-audit fees...\" (precise numerical formatting, though lacks contextual explanation)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Audit fees Non-audit fees Group Company Group Company RM’000 RM’000 RM’000 RM’000\" (clear tabular structure)\n• Evidence 2: \"Directors are required by Companies Act 2016...\" (precise, direct language with statutory reference)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Share Buy-Back Authority...\" (material corporate governance information for investors)\n• Evidence 2: \"no material contracts...\" (relevant to investor risk assessment)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The shareholders of the Company approved...\" (material shareholder approval disclosures)\n• Evidence 2: \"The amount of audit fees...\" (financial transparency relevant to investors)"
   }
 }

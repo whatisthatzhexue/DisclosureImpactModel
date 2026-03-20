@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The designated stores have successfully fulfilled all the required criteria for Greener Stores certification, a validation independently verified by SCS Global Services, a reputable third-party verification entity.\"\n• Evidence 2: \"These stores have demonstrated exceptional compliance with the Greener Stores program across various critical dimensions...\""
+    "score": 8,
+    "justification": "• Evidence 1: 'The designated stores have successfully fulfilled all the required criteria for Greener Stores certification, a validation independently verified by SCS Global Services, a reputable third-party verification entity.'\n• Evidence 2: 'These stores have demonstrated exceptional compliance with the Greener Stores program across various critical dimensions'"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Store Name City Certification Status\" section with specific store details and dates provides clear structure.\n• Evidence 2: \"BFood reinvests its success into its people. Crafting tailored training...\" contains some vague phrasing like \"invaluable education\" and \"demanding job roles\"."
+    "score": 7,
+    "justification": "• Evidence 1: 'Store Name City Certification Status' table provides clear structure but lacks contextual explanation.\n• Evidence 2: 'BFood reinvests its success into its people. Crafting tailored training and educational resources attracts and retains top talent.' (vague phrasing)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks plans to open its first Signing Store in Borneo in Q1FY24...\" provides forward-looking information.\n• Evidence 2: \"The fund raised through this event shall be fully channelled to sustain and expand HOPE worldwide Health & Medical programs...\" links activities to material community impact."
+    "justification": "• Evidence 1: 'BStarbucks plans to open its first Signing Store in Borneo in Q1FY24.' (forward-looking information)\n• Evidence 2: 'The fund raised through this event shall be fully channelled to sustain and expand HOPE worldwide Health & Medical programs for the underprivileged community in Malaysia.' (material event impact)"
   }
 }

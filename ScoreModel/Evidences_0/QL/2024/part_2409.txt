@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"In compliance with the Main Market Listing Requirements... no material contracts...\" (neutral, factual disclosure of compliance)\n• Evidence 2: \"Audit fees Non-audit fees... KPMG PLT Malaysia 2,032 169 132 30\" (specific numerical data supporting transparency)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The shareholders of the Company approved...\" (clear structure with numbered sections)\n• Evidence 2: \"Audit fees Non-audit fees...\" (precise numerical formatting, though lacks contextual explanation)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Share Buy-Back Authority...\" (material corporate governance information for investors)\n• Evidence 2: \"no material contracts...\" (relevant to investor risk assessment)"
+  }
+}

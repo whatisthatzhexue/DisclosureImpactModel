@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"BStarbucks contributed a total of 3,224 community service hours.\" (specific factual data)\n• Evidence 2: \"The community now works together to plant and harvest crops...\" (quantifiable outcomes)"
+    "justification": "• Evidence 1: \"BStarbucks contributed a total of 3,224 community service hours.\" (specific factual data)\n• Evidence 2: \"The grant enabled the community to form their own edible garden...\" (objective description of program outcomes)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Starbucks Green Outreach Programme raised awareness on recycling...\" (clear, direct language)\n• Evidence 2: \"The Board is committed in ensuring...\" (structured explanation of governance roles)"
+    "justification": "• Evidence 1: \"The Wishing Tree Programme... by visiting any KRR restaurant...\" (clear procedural explanation)\n• Evidence 2: \"The CEO holds the primary executive responsibility...\" (precise role description)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"The CG Report provides the details on how the Company has applied each Practice...\" (corporate governance relevance)\n• Evidence 2: \"BRoasters’ employees also contributed...\" (community impact details for investors)"
+    "justification": "• Evidence 1: \"BStarbucks awarded the Opportunity for Youth Grant...\" (material event for investors)\n• Evidence 2: \"The Board is committed in ensuring... corporate accountability...\" (corporate governance relevance)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group’s export sales increased from RM173.5 million to RM208.7 million in the past year. This rise was led by distribution channel improvements and sales force efficiency and effectiveness.\" (specific factual data)\n• Evidence 2: \"We set up two subsidiaries... to improve the supply chain management of our goods.\" (objective operational description)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"From March to May 2019, 45 billboards...\" (precise temporal and quantitative details)\n• Evidence 2: \"Contestants were offered the chance to win a 4-days, 3-nights Phuket Luxury Cruise Trip...\" (clear, direct explanation of contest incentives)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group’s export sales increased...\" (explains performance change with causal factors)\n• Evidence 2: \"We have repositioned each individual online channel for more robust growth.\" (forward-looking strategic information)"
+  }
+}

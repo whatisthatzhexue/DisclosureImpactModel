@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2022, BKelava recorded revenue of RM122,000...\" (specific financial data)\n• Evidence 2: \"mainly due to the impact arising from the COVID-19 pandemic and the increase in administrative expenses...\" (discloses risks and specific causes of loss)"
+    "justification": "• Evidence 1: \"For the financial period ended 30 June 2022, BKelava recorded loss before tax of RM170,000 for the 8-month period mainly due to the impact arising from the COVID-19 pandemic and the increase in administrative expenses...\" (discloses specific risks and causes)\n• Evidence 2: \"Revenue... RM122,000 for the 8-month period from November 2021 to 30 June 2022\" (specific factual data)"
   },
   "Understandability": {
     "score": 6,
-    "justification": "• Evidence 1: \"Containing only plant-based ingredients in the ice cream base, BKelava brings smooth indulgence to ice-cream lovers.\" (clear but repetitive phrasing)\n• Evidence 2: \"such as Klang Valley, Perak, and Pahang.\" (imprecise regional description with vague 'central and northern region')"
+    "justification": "• Evidence 1: \"Containing only plant-based ingredients in the ice cream base, BKelava brings smooth indulgence to ice-cream lovers\" (clear but somewhat promotional language)\n• Evidence 2: \"approximately 50 distribution points...\" (vague phrasing with 'approximately')"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"For the financial period ended 30 June 2022, BKelava recorded loss before tax of RM170,000...\" (financial performance explanation)\n• Evidence 2: \"focus on maximising its ice cream production capacity and expand its distribution point...\" (forward-looking information for investors)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Moving into the financial year 2023, BKelava will focus on maximising its ice cream production capacity...\" (forward-looking information)\n• Evidence 2: \"recorded loss before tax... mainly due to... COVID-19 pandemic\" (explains performance changes)"
   }
 }

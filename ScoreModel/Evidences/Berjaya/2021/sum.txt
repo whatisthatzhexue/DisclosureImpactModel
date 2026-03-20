@@ -1,48 +1,48 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BFI disposed of its entire stake in PT Boga\" (specific transaction with date and parties)\n• Evidence 2: \"BStarbucks is now a 100% owned subsidiary of BFood\" (clear ownership statement)"
+    "justification": "• Evidence 1: \"disposed of its entire stake in PT Boga\" (specific factual disclosure)\n• Evidence 2: \"acquired 100% equity interest in Jollibean Foods... for a cash consideration of RM19.02 million\" (objective transaction details)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"On 19 July 2012, BFood completed the acquisition of 11,500,000 ordinary shares...\" (precise transaction details)\n• Evidence 2: \"As at 30 June 2021, there are a total of 327 stores nationwide\" (clear, quantified information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"11,500,000 ordinary shares of RM1.00 each... representing 50% equity interest\" (precise financial terminology)\n• Evidence 2: \"operating a Latin-inspired, Tex-Mex, plant-based vegan restaurant\" (clear operational description)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"As at 30 June 2021, there are a total of 56 Starbucks drive-thru concept stores...\" (material operational data)\n• Evidence 2: \"BFI completed the disposal of 5% equity interest...\" (significant corporate action)"
+    "justification": "• Evidence 1: \"As at 30 June 2021, there are a total of 327 stores nationwide\" (material operational data)\n• Evidence 2: \"entered into a subscription cum shareholders agreement... for a total cash subscription price of RM250,000\" (significant transaction disclosure)"
   }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"In November 2019, it opened its second Starbucks Signing Store...\" (specific factual dates)\n• Evidence 2: \"All KRR restaurants serve their customers in a full service...\" (neutral, objective description)"
+    "score": 7,
+    "justification": "• Evidence 1: \"In November 2019, it opened its second Starbucks Signing Store...\" (specific factual dates)\n• Evidence 2: \"All of Jollibean’s products are prepared fresh at the start of each day.\" (objective operational detail)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"As of 30 June 2021, there are 4 Starbucks stores in Brunei.\" (clear temporal and quantitative data)\n• Evidence 2: \"Jollibean’s signature product is its fresh daily-made soy milk...\" (precise, direct product description)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Jollibean Foods also operates Joybean in Malaysia...\" (clear section separation)\n• Evidence 2: \"Its Sushi Deli outlets serve an array of...\" (precise product description)"
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: No financial performance metrics or risk disclosures (e.g., revenue figures, market risks)\n• Evidence 2: Focus on operational details (store locations, product offerings) without contextualizing strategic implications for investors"
+    "justification": "• Evidence 1: \"As at 30 June 2021, there are 4 Starbucks stores in Brunei.\" (operational data)\n• Evidence 2: \"The Chairman’s Statement...\" (minimal investor-focused context)"
   }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BFood registered a revenue of RM717.34 million and pre-tax profit of RM74.73 million...pre-tax loss of RM8.48 million\" [specific factual comparison]\n• Evidence 2: \"lower operating costs which resulted from effective cost management initiatives...COVID-19 pandemic\" [causal explanation with contextual factors]"
+    "score": 10,
+    "justification": "• Evidence 1: \"BFood registered a revenue of RM717.34 million and pre-tax profit of RM74.73 million...\" (specific factual data)\n• Evidence 2: \"...coupled with lower operating costs which resulted from effective cost management initiatives...\" (neutral explanation of performance drivers)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"With the gradual easing of the lockdown measures...higher revenue recorded\" [clear cause-effect structure]\n• Evidence 2: \"effective cost management initiatives...mitigated the impact of the COVID-19 pandemic\" [precise terminology without unnecessary complexity]"
+    "justification": "• Evidence 1: \"With the gradual easing of the lockdown measures...\" (clear cause-effect logic)\n• Evidence 2: \"...mitigated the impact of the COVID-19 pandemic\" (precise terminology for contextual explanation)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The higher pre-tax profit was in tandem with the higher revenue...coupled with lower operating costs\" [explains performance changes]\n• Evidence 2: \"the impact of the COVID-19 pandemic\" [mentions material event but lacks forward-looking information or risk disclosures]"
+    "score": 8,
+    "justification": "• Evidence 1: \"The higher pre-tax profit was in tandem with the higher revenue...\" (explains performance changes)\n• Evidence 2: \"...mitigated the impact of the COVID-19 pandemic\" (includes material risk context)"
   }
 }
 
@@ -50,15 +50,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Malaysian economy grew by 7.1 per cent...\" (specific fact about economic growth)\n• Evidence 2: \"The Directors are cautiously optimistic...\" (balanced forward-looking statement with uncertainty)"
+    "justification": "• Evidence 1: \"The Malaysian economy grew by 7.1 per cent...\" (specific factual statement about economic growth)\n• Evidence 2: \"The Directors are cautiously optimistic...\" (neutral forward-looking statement without overstatement)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Outlets in areas with reduced footfalls...\" (clear explanation of operational adjustments)\n• Evidence 2: \"Starbucks partners mask-up as part of the COVID-19 SOPs.\" (precise, direct statement)"
+    "score": 6,
+    "justification": "• Evidence 1: \"RM632.94 million...RM717.34 million\" (clear numerical data presentation)\n• Evidence 2: \"Starbucks partners mask-up as part of the COVID-19 SOPs.\" (somewhat vague phrasing about operational procedures)"
   },
   "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The acceleration of the National COVID-19 Immunisation Programme...\" (material event impacting future prospects)\n• Evidence 2: \"The Directors are cautiously optimistic...\" (forward-looking information for investor decision-making)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The acceleration of the National COVID-19 Immunisation Programme...\" (material event impacting future prospects)\n• Evidence 2: \"the Directors are cautiously optimistic...\" (forward-looking information relevant to investor decision-making)"
   }
 }
 
@@ -66,95 +66,47 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"despite the continuous negative impact of the COVID-19 pandemic and the imposition of Movement Control Order (\\\"MCO\\\") 2.0 and 3.0 on the retail industry\" (discloses risks and challenges)\n• Evidence 2: \"registered a revenue of RM625.4 million compared to RM533.2 million\" (specific factual data)"
+    "justification": "• Evidence 1: \"despite the continuous negative impact of the COVID-19 pandemic and the imposition of Movement Control Order (\"MCO\") 2.0 and 3.0 on the retail industry\" (discloses challenges)\n• Evidence 2: \"registered a revenue of RM625.4 million compared to RM533.2 million\" (specific factual data)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The first Starbucks retail store in Malaysia was opened in Fahrenheit 88, Kuala Lumpur... on 17 December 1998\" (clear temporal context)\n• Evidence 2: \"58 stores with 6 new drive-thru stores opened\" (precise numerical information)"
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks has 327 stores located throughout Malaysia, except in the state of Perlis\" (clear, direct statement)\n• Evidence 2: \"The number of drive-thru stores is 58 stores with 6 new drive-thru stores opened\" (precise numerical details)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, BStarbucks registered a revenue... despite the continuous negative impact of the COVID-19 pandemic\" (explains performance changes)\n• Evidence 2: \"new store openings included two Starbucks Reserve Stores...\" (forward-looking information about expansion)"
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, BStarbucks registered a revenue of RM625.4 million\" (material financial information)\n• Evidence 2: \"new store openings included two Starbucks Reserve Stores\" (explains performance changes)"
   }
 }
 
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Starbucks recorded a profit before tax of RM90.1 million compared to RM21.3 million in the previous financial year.\" (specific factual comparison)\n• Evidence 2: \"During MCO 2.0 and 3.0, outlets... were temporarily closed... to minimize operating costs.\" (disclosure of pandemic-related risks)"
-  },
-  "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"There were approximately 3.7 million (30 June 2020: 3.3 million) registered Starbucks Rewards members.\" (clear numerical context)\n• Evidence 2: \"BRoasters recorded a revenue of RM55.3 million, a decrease of 19.5% compared to RM68.7 million.\" (precise performance metric with context)"
+    "justification": "• Evidence 1: \"Starbucks recorded a profit before tax of RM90.1 million compared to RM21.3 million in the previous financial year.\" (specific financial data)\n• Evidence 2: \"During MCO 2.0 and 3.0, outlets... were temporarily closed... to minimize operating costs.\" (discloses operational risks and challenges)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"There were approximately 3.7 million (30 June 2020: 3.3 million) registered Starbucks Rewards members.\" (clear numerical comparison)\n• Evidence 2: \"BRoasters opened the second cloud kitchen... during the financial year under review.\" (precise description of operational changes)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"The decreased revenue was mainly due to the imposition of MCO 2.0 and MCO 3.0...\" (explains performance change)\n• Evidence 2: \"BStarbucks plans to open 38 new stores... and promote digital innovations.\" (forward-looking information with strategic focus)"
+    "justification": "• Evidence 1: \"The decreased revenue was mainly due to the imposition of MCO 2.0 and MCO 3.0...\" (explains performance change)\n• Evidence 2: \"BStarbucks plans to open 38 new stores... and a store in Perlis...\" (forward-looking strategic initiatives)"
   }
 }
 
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Revenue decreased by 9.72% to S$6.5 million from S$7.2 million in the previous financial year. The results reflected a contraction in demand during lockdown...\" \n• Evidence 2: \"Loss before tax... improved by 14.6%... due to the adoption of several cost-saving initiatives...\""
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Revenue decreased by 9.72% to S$6.5 million...\" \n• Evidence 2: \"targets to open 6 new stores... pivot to digital channels...\""
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Revenue decreased... due to lockdown imposed by the Singapore Government...\" \n• Evidence 2: \"company will pivot to digital channels... aims to emerge stronger from the current economic crisis\""
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Due to the COVID-19 pandemic and imposition of the MCO which caused major impacts to the business, Joybean had to close four kiosks during the financial year under review.\"\n• Evidence 2: \"The higher loss before tax was due to high capital expenditures in opening kiosks in prime locations coupled with low walk-in traffic due to the significantly smaller footfalls in these locations during the MCOs.\"\n• Evidence 3: \"Joybean was able to increase its cost efficiency and productivity while minimising labour costs to manage its business operations.\""
-  },
-  "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, Joybean registered a revenue of RM0.39 million compared to RM0.22 million in the previous financial year.\"\n• Evidence 2: \"Joybean will downscale and change its business model to a cart concept with core offerings in the upcoming financial year 2022, mirroring the 'street-food' concept which operates with minimal capital and operating expenditure.\""
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The increased revenue was due to the annualised full year revenue impact for stores opened in the last financial year.\"\n• Evidence 2: \"Joybean will centralised the food production and purchasing for its raw and packaging materials. In addition, Joybean will have more branding activities to communicate the goodness of its high quality imported non-GMO soy beans.\"\n• Evidence 3: \"Joybean plans to open a total of five additional carts in high traffic areas in the financial year 2022.\""
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Revenue increased to B$2.3 million from B$2.0 million in the financial year 2020, mainly due to the gradual recovery from the global COVID-19 pandemic.\"\n• Evidence 2: \"recorded a profit before tax of B$529,000 compared to a loss before tax of B$124,000 in the previous financial year due to improved revenue from higher domestic spending and the initiative to keep operating costs low.\""
+    "justification": "• Evidence 1: \"Revenue decreased by 9.72% to S$6.5 million from S$7.2 million...due to the adoption of several cost-saving initiatives...\" (specific facts and neutral explanation)\n• Evidence 2: \"The company does not expect a full return to normality...\" (disclosure of uncertainty and risk)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, BFS’s revenue increased to B$2.3 million from B$2.0 million in the financial year 2020, mainly due to the gradual recovery from the global COVID-19 pandemic.\"\n• Evidence 2: \"BFS will continue to effectively manage its operational and administrative procedures to reduce operating and administrative costs.\""
+    "justification": "• Evidence 1: \"Jollibean Foods operates 33 outlets...opened 4 new outlets and closed 4 non-performing outlets\" (clear, structured statement)\n• Evidence 2: \"targets to open 6 new stores in the financial year 2022\" (precise, direct language)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, BFS recorded a profit before tax of B$529,000 compared to a loss before tax of B$124,000 in the previous financial year due to improved revenue from higher domestic spending and the initiative to keep operating costs low.\"\n• Evidence 2: \"the company will offer innovative food and beverage products and merchandise to maintain its brand name as one of the leading coffee retail chains in Brunei.\""
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, BFT recorded a revenue of RM10.1 million compared to RM4.3 million in the financial year 2020.\"\n• Evidence 2: \"The profit before tax was mainly due to business recovery from the COVID-19 pandemic, and reduction in stocks returned as compared to the previous financial year.\""
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Berjaya Food Trading Sdn Bhd (\"BFT\")... was incorporated in Malaysia on 24 July 2013.\"\n• Evidence 2: \"BFT will launch a new series of Joybean products to provide more variety to the market.\""
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The increase in revenue was due to the increase in product distribution, as well as the launch of several new products...\"\n• Evidence 2: \"BFT will launch a new series of Joybean products...\""
+    "score": 9,
+    "justification": "• Evidence 1: \"Revenue decreased...due to lockdown...CBD or office areas took the biggest impact\" (explains performance change)\n• Evidence 2: \"pivot to digital channels...build on its capabilities...mitigating risks\" (forward-looking strategies and risk management)"
   }
 }
 
@@ -162,38 +114,102 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, Ser Vegano recorded a loss before tax of RM552,000 for the 10-month period mainly due to the COVID-19 pandemic and imposition of the MCO...\" (discloses specific risks and causes)\n• Evidence 2: \"Ser Vegano recorded a revenue of RM1.8 million for the 10-month period...\" (provides factual, measurable data)"
+    "justification": "• Evidence 1: \"Due to the COVID-19 pandemic and imposition of the MCO which caused major impacts to the business, Joybean had to close four kiosks during the financial year under review.\"\n• Evidence 2: \"The higher loss before tax was due to high capital expenditures in opening kiosks in prime locations coupled with low walk-in traffic due to the significantly smaller footfalls in these locations during the MCOs.\""
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Sala’s ingredients are 100% plant-based, which are lower in calories and cholesterol while being higher in clean protein.\" (clear, direct description of product attributes)\n• Evidence 2: \"In August 2020, Berjaya Food (International) Sdn Bhd completed the acquisition of 50% equity interest in Ser Vegano Sdn Bhd.\" (precise, structured statement of ownership change)"
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, Joybean registered a revenue of RM0.39 million compared to RM0.22 million in the previous financial year. The increased revenue was due to the annualised full year revenue impact for stores opened in the last financial year.\"\n• Evidence 2: \"Joybean will downscale and change its business model to a cart concept with core offerings in the upcoming financial year 2022, mirroring the ‘street-food’ concept\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Moving into the financial year 2022, Ser Vegano plans to open 4 new outlets...\" (forward-looking information for investors)\n• Evidence 2: \"The company’s operating expenses had also increased with the opening of the 4 new outlets.\" (explains performance changes related to expansion)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Joybean recorded a loss before tax of RM1.5 million during the financial year under review, as compared to a loss before tax of RM0.5 million in the previous financial year. The higher loss before tax was due to high capital expenditures...\"\n• Evidence 2: \"Joybean will centralised the food production... aggressively collaborate with food delivery aggregators on various promotions\""
   }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 1, "justification": "• Evidence 1: [No relevant content in text]\n• Evidence 2: [No relevant content in text]"},
-  "Understandability": {"score": 1, "justification": "• Evidence 1: [No relevant content in text]\n• Evidence 2: [No relevant content in text]"},
-  "Relevance": {"score": 1, "justification": "• Evidence 1: [No relevant content in text]\n• Evidence 2: [No relevant content in text]"}
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Revenue increased to B$2.3 million from B$2.0 million...mainly due to the gradual recovery from the global COVID-19 pandemic.\"\n• Evidence 2: \"Profit before tax of B$529,000 compared to a loss before tax of B$124,000...due to improved revenue from higher domestic spending and the initiative to keep operating costs low.\""
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The first Starbucks retail store in Brunei was opened in Mabohai Shopping Complex on 16 February 2014.\"\n• Evidence 2: \"A Starbucks outlet in Brunei.\" (redundant and vague concluding statement)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue...mainly due to the gradual recovery from the global COVID-19 pandemic. The closed borders and travel restriction in Brunei helped spurred higher domestic consumption...\"\n• Evidence 2: \"BFS will continue to effectively manage...to maintain its brand name as one of the leading coffee retail chains in Brunei.\""
+  }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, BFT recorded a revenue of RM10.1 million compared to RM4.3 million in the financial year 2020. The increase in revenue was due to the increase in product distribution, as well as the launch of several new products...\" (specific factual explanation)\n• Evidence 2: \"Profit before tax was mainly due to business recovery from the COVID-19 pandemic, and reduction in stocks returned...\" (specific cause for performance change)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFT has also expanded to other countries such as Myanmar, Singapore and Vietnam.\" (clear, direct statement)\n• Evidence 2: \"BFT will launch a new series of Joybean products...\" (precise language with logical progression)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The increase in revenue was due to...launch of several new products...\" (explains performance change)\n• Evidence 2: \"BFT also has plans to bring in more well-known premium CPG...\" (forward-looking information for investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, Ser Vegano recorded a loss before tax of RM552,000 for the 10-month period mainly due to the COVID-19 pandemic and imposition of the MCO, which resulted in the closure of dine-in facilities at Sala outlets.\"\n• Evidence 2: \"Ser Vegano plans to open 4 new outlets\" (specific, factual forward-looking statement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sala’s ingredients are 100% plant-based, which are lower in calories and cholesterol while being higher in clean protein\" (clear, direct explanation)\n• Evidence 2: \"As at 30 June 2021, Sala has 5 outlets, which are in...\" (structured list of locations)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2021, Ser Vegano recorded a revenue of RM1.8 million for the 10-month period...\" (financial performance data)\n• Evidence 2: \"Ser Vegano plans to open 4 new outlets...introduce new plant-based food and beverage offerings\" (forward-looking strategic information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [No text provided for evaluation]\n• Evidence 2: [No text provided for evaluation]"},
+  "Understandability": {"score": 0, "justification": "• Evidence 1: [No text provided for evaluation]\n• Evidence 2: [No text provided for evaluation]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [No text provided for evaluation]\n• Evidence 2: [No text provided for evaluation]"}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: [Registration No. 200901032946 (876057-U)]\n• Evidence 2: [Annual Report 2021 23]"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: [CORPORATE STRUCTURE OF OPERATING COMPANIES AS AT 1 OCTOBER 2021]\n• Evidence 2: [Berjaya Starbucks Coffee Company Sdn Bhd]"
+  },
+  "Relevance": {
     "score": 4,
-    "justification": "• Evidence 1: The text provides factual ownership percentages (e.g., '100%', '50%') without overstatement.\n• Evidence 2: No risks, challenges, or uncertainties are disclosed, limiting reliability."
+    "justification": "• Evidence 1: [CORPORATE STRUCTURE OF OPERATING COMPANIES AS AT 1 OCTOBER 2021]\n• Evidence 2: [Annual Report 2021 23]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Company recognises the challenges of its operating environment...\" (acknowledges risks and uncertainties)\n• Evidence 2: \"This Sustainability Statement does not include... Brunei.\" (discloses scope limitations)"
   },
   "Understandability": {
-    "score": 4,
-    "justification": "• Evidence 1: The structure is a list of entities with percentages, but formatting is inconsistent (e.g., '100% 65%').\n• Evidence 2: The lack of contextual explanation for percentages reduces clarity."
+    "score": 8,
+    "justification": "• Evidence 1: \"Economic Sustainability: Creation of long-term value...\" (clear section headings with direct language)\n• Evidence 2: \"The Sustainability Statement covers material issues...\" (precise description of scope)"
   },
   "Relevance": {
-    "score": 3,
-    "justification": "• Evidence 1: The corporate structure is relevant for understanding ownership but lacks details on risks or governance.\n• Evidence 2: No forward-looking information or material events are included, limiting investor utility."
+    "score": 6,
+    "justification": "• Evidence 1: \"The uncertainty caused by the pandemic...\" (explains operational impacts relevant to investors)\n• Evidence 2: \"Supporting conservation efforts.\" (specific sustainability initiatives with potential financial implications)"
   }
 }
 
@@ -201,31 +217,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Company recognises the challenges of its operating environment...\" (discloses risks and uncertainties)\n• Evidence 2: \"This Sustainability Statement does not include...Brunei.\" (specific disclosure of scope limitations)"
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Economic Sustainability, Environmental Sustainability, Social Sustainability\" (clear section headings)\n• Evidence 2: \"Creation of long-term value for shareholders...\" (precise definitions of sustainability aspects)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The uncertainty caused by the pandemic...significant impacts across the three main aspects\" (explains pandemic impact on sustainability)\n• Evidence 2: \"Striving towards reducing the Company’s environmental footprint...\" (directly addresses investor-relevant sustainability metrics)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The engagement activities with the different stakeholder groups are conducted on an ongoing basis.\"\n• Evidence 2: \"The materiality assessment was conducted by engaging relevant stakeholders through various channels which resulted in the identification of 12 material issues\""
+    "justification": "• Evidence 1: \"The materiality assessment was conducted by engaging relevant stakeholders through various channels which resulted in the identification of 12 material issues\" (specific facts about process and outcomes).\n• Evidence 2: \"The Company believes that the approach of stakeholder engagement is integral to the development of its sustainability strategy\" (neutral, objective statement without overstatement)."
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Platforms\" section uses clear headings and bullet points.\n• Evidence 2: \"The 12 material issues identified are mapped to the relevant sustainability pillars as illustrated on page 25.\""
+    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Platforms\" section uses bullet points and clear categorization (e.g., Government and Regulators, Employees) for direct comprehension.\n• Evidence 2: \"The 12 material issues identified are mapped to the relevant sustainability pillars as illustrated on page 25\" (precise language with reference to supporting documentation)."
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Determining materiality assists the Group to identify and prioritise the most relevant and important material issues\" directly addresses investor concerns.\n• Evidence 2: \"Communications via announcements to Bursa Securities, General Meetings...\" shows engagement with investors, but lacks forward-looking information or risk disclosures."
+    "score": 7,
+    "justification": "• Evidence 1: \"Determining materiality assists the Group to identify and prioritise the most relevant and important material issues\" (directly relevant to investor concerns about strategic focus).\n• Evidence 2: \"Communications via announcements to Bursa Securities, General Meetings...\" (relevant to investor engagement but lacks forward-looking information or risk disclosures)."
   }
 }
 
@@ -233,15 +233,31 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\" (supports objectivity)\n• Evidence 2: \"The Board and management are committed to continually refining and improving these processes over time.\" (shows self-criticism and continuous improvement)"
+    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\"\n• Evidence 2: \"The Company continues to strive to further improve its monitoring process on the implementation of its internal control measures and sustainability initiatives.\""
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Materiality Matrix displays the position of the 12 material issues relative to the degree of importance...\" (clear explanation of concept)\n• Evidence 2: \"Sustainability Governance Structure\" diagram with labeled roles (visual clarity, though some terms like EES require contextual understanding)"
+    "score": 5,
+    "justification": "• Evidence 1: \"Materiality Matrix displays the position of the 12 material issues relative to the degree of importance to the Group’s business operation and its stakeholders.\"\n• Evidence 2: \"Sustainability Governance Structure\" section with unclear hierarchical relationships and abbreviations (e.g., MESO) without definition."
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"For more detailed information on the Company’s Statement on Corporate Governance...\" (directly links to relevant investor materials)\n• Evidence 2: \"The Group reviews the Materiality Matrix on an annual basis.\" (provides context for stakeholder impact assessment)"
+    "justification": "• Evidence 1: \"For more detailed information on the Company’s Statement on Corporate Governance and Statement on Risk Management and Internal Control, please refer to pages 35 to 52...\"\n• Evidence 2: \"The Group reviews the Materiality Matrix on an annual basis.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"For every cookie purchased by Starbucks customers, RM1 will be donated to the Silent Teddies Bakery.\" (specific factual claim)\n• Evidence 2: \"The monthly volunteering programme... temporarily halted due to the COVID-19 pandemic.\" (acknowledges a challenge without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Inventory Management System was further improved to increase the efficiency...\" (clear, direct statement)\n• Evidence 2: \"Revenue RM717million FYE 2020 - RM633 million\" (precise numerical presentation with context)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BStarbucks has raised a total of RM73,260 for the Silent Teddies Bakery...\" (material event impacting stakeholders)\n• Evidence 2: \"Profit / (Loss) Before Tax... Return on Equity 12.5%\" (financial performance data relevant to investors)"
   }
 }
 
@@ -249,79 +265,47 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BFood ensures that its food products and services adhere to the 'Halal' requirements from JAKIM. Suppliers are required to self-declare and provide updated certification.\" (specific factual claims with regulatory context)\n• Evidence 2: \"The monthly volunteering programme...was temporarily halted due to the COVID-19 pandemic.\" (acknowledges external challenges but lacks broader risk disclosures)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Inventory Management System was further improved to increase the efficiency for Starbucks stores and warehouse in East Malaysia.\" (clear cause-effect relationship)\n• Evidence 2: \"FY 2021 : RM 31,943 • FY 2020 : RM 18,501\" (precise numerical comparisons with contextual years)"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Revenue RM717million...Profit Before Tax RM74.7million\" (financial performance metrics critical for investor assessment)\n• Evidence 2: \"BStarbucks has raised a total of RM73,260 for the Silent Teddies Bakery...\" (specific CSR impact data relevant to stakeholder interests)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks has a 'Bring Your Own Tumbler' programme which rewards its customers with a RM2 discount... 803,217 customers brought their own Starbucks tumblers\" (specific factual data).\n• Evidence 2: \"For the financial year ended 30 June 2021, 93% of Starbucks stores diverted 185,524kg of used coffee grounds from the landfill\" (quantifiable, verifiable information)."
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Grounds for Your Garden Programme provides complimentary 1kg bags of soil-enriching used coffee grounds...\" (clear, direct explanation of program benefits).\n• Evidence 2: \"FYE 2021 : 185,524 • FYE 2020 : 180,086\" (consistent formatting for comparative data)."
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Starbucks employees (partners) mask-up adhering to the SOP\" (operational compliance detail, but not directly tied to investor decision-making).\n• Evidence 2: \"Due to COVID-19 restrictions... continue these efforts\" (contextualizes program adjustments, but lacks forward-looking financial or strategic information)."
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"During the financial year ended 30 June 2021, 3,340 customers brought their KRR i.care Box... lower compared to FYE 2020 due to dine-in restrictions from the COVID-19 pandemic.\" (specific facts and risk disclosure)\n• Evidence 2: \"All proceeds raised from the sale of recyclables went towards Tzu Chi Foundation Malaysia’s...\" (neutral, objective disclosure of financial allocation)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The reusable ‘i.care’ range is also designed to support healthy eating habits through portion control guidance.\" (clear, direct explanation of product purpose)\n• Evidence 2: \"70% of Starbucks stores have switched to LED lightings.\" (precise, structured data presentation)"
-  },
-  "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"FYE 2021 : 3,340 • FYE 2020 : 20,606\" (explains performance change due to pandemic impact)\n• Evidence 2: \"BFood strives towards a more efficient sustainable management strategy... to reduce its carbon footprint.\" (material event relevant to investor decision-making)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks and BRoasters showed an average of 5% electricity savings\" (specific fact)\n• Evidence 2: \"Dairy production also drives deforestation, causes water pollution, and consumes huge amounts of land resources\" (objective statement with measurable impacts)"
+    "justification": "• Evidence 1: \"BStarbucks has a 'Bring Your Own Tumbler' programme which rewards its customers with a RM2 discount... 803,217 customers\" (specific factual data)\n• Evidence 2: \"For the financial year ended 30 June 2021, 93% of Starbucks stores diverted 185,524kg of used coffee grounds...\" (quantifiable achievement)"
   },
   "Understandability": {
     "score": 6,
-    "justification": "• Evidence 1: \"7.3 Paper Usage\" and \"7.4 Water Conservation\" (clear section headings)\n• Evidence 2: \"identity-preserved (\"IP\") Canadian soy beans\" (technical term used without explanation)"
+    "justification": "• Evidence 1: \"The Grounds for Your Garden Programme provides complimentary 1kg bags of soil-enriching used coffee grounds...\" (clear purpose)\n• Evidence 2: \"FYE 2021 : 185,524 • FYE 2020 : 180,086\" (numeric comparisons, though repetitive)"
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"BStarbucks reduced its water consumption by removing all 'dipper wells'... replaced them with auto-close water faucets\" (specific operational initiative)\n• Evidence 2: \"BFood’s HR function is further streamlined to Employee Engagement and Well-Being...\" (internal management practices relevant to governance)"
+    "justification": "• Evidence 1: \"Starbucks operates nine Farmer Support Centers worldwide... improve their livelihoods\" (relevance to stakeholders)\n• Evidence 2: \"Due to COVID-19 restrictions... supporting the health and safety...\" (material event impact)"
   }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"BStarbucks had 20 reported cases of workplace injuries in this financial year.\" (specific factual disclosure)\n• Evidence 2: \"All training workshops are conducted online\" (acknowledges operational challenges due to physical distancing) "
+    "score": 8,
+    "justification": "• Evidence 1: 'During the financial year ended 30 June 2021, 3,340 customers brought their KRR i.care Box... lower compared to FYE 2020 due to dine-in restrictions from the COVID-19 pandemic.' (specific fact with context)\n• Evidence 2: 'All proceeds raised from the sale of recyclables went towards Tzu Chi Foundation Malaysia’s “Kita1Keluarga” initiative...' (neutral, factual disclosure)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"43,211 hours in training and development\" (precise numerical data)\n• Evidence 2: \"Starbucks Global Academy (SGA)\" (clearly defined platform with specific functions) "
+    "score": 6,
+    "justification": "• Evidence 1: 'The reusable ‘i.care’ range is also designed to support healthy eating habits through portion control guidance.' (clear, direct statement)\n• Evidence 2: '70% of Starbucks stores have switched to LED lightings.' (precise data but lacks contextual explanation of impact)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Won 3 awards: CXP Best Customer Experience Awards 2020...\" (investor-relevant recognition)\n• Evidence 2: \"20 reported cases of workplace injuries\" (material risk disclosure) "
+    "justification": "• Evidence 1: 'FYE 2021 : 3,340 • FYE 2020 : 20,606' (explains performance change with context)\n• Evidence 2: 'BRoasters and Jollibean Foods have replaced the use of plastic bags with biodegradable bags...' (forward-looking initiatives relevant to investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks and BRoasters showed an average of 5% electricity savings...\" (specific fact)\n• Evidence 2: \"Starbucks stores installed efficient water fixtures... consumed 15% less water overall.\" (quantifiable data)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood companies expanded their plant-based menu options with key initiatives below:\" (clear section heading)\n• Evidence 2: \"removed all 'dipper wells'... replaced them with auto-close water faucets\" (precise description of action)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood raises awareness in all its store operations in conserving water...\" (directly addresses investor concerns)\n• Evidence 2: \"BFood is also in midst of exploring ways to manage their paper usage\" (forward-looking initiative relevant to sustainability metrics)"
   }
 }
 
@@ -329,31 +313,63 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"BStarbucks contributed more than 1,000 cups of coffee...donated 300 boxes of disposable masks...\" (specific factual claims)\n• Evidence 2: \"The campaign raised approximately RM60,000...\" (quantifiable outcome)"
+    "justification": "• Evidence 1: \"BStarbucks had 20 reported cases of workplace injuries in this financial year.\" (discloses specific risk data)\n• Evidence 2: \"BFood invested 43,211 hours in training and development\" (provides quantifiable factual information)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The 50-foot tall ‘Wall of Gratitude’ mural...\" (clear description of physical feature)\n• Evidence 2: \"BFood subsidiaries contributed food & drinks to frontliners...\" (direct statement of action)"
+    "justification": "• Evidence 1: \"Starbucks Global Academy (SGA)\" (clearly defines program name and purpose)\n• Evidence 2: \"500 Coffee Masters participated in the event\" (precise numerical data enhances clarity)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"won 3 awards:... AMCHAM Cares Recognition Achievement (Excellence in Corporate Social Responsibility) 2020\" (relevant to investor perception of CSR)\n• Evidence 2: \"various COVID-19 preventive measures\" (addresses material risk related to public health)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"contributed more than 1,000 cups of coffee to the COVID-19 frontline workers\" (specific, factual statement)\n• Evidence 2: \"raised approximately RM60,000\" (quantifiable, verifiable information)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BStarbucks launched the Starbucks’ ‘Goods for Good’ campaign\" (clear structure with specific initiative name)\n• Evidence 2: \"each design was hand-drawn by Luqman himself\" (precise, direct description of artwork creation)"
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"As part of its ongoing efforts to support communities...\" (contextualizes CSR activities)\n• Evidence 2: \"The donations collected will be used to fund consultation sessions...\" (links actions to measurable outcomes)"
+    "justification": "• Evidence 1: \"donations collected will be used to fund consultation sessions for frontline health workers\" (directly links actions to impact)\n• Evidence 2: \"BFood is committed to strengthening the communities...\" (general statement about corporate responsibility, lacks specific investor-relevant metrics)"
   }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: 'BStarbucks successfully collected more than 7,000 books' (specific factual claim)\n• Evidence 2: 'The Board is satisfied that the Company has substantially complied with the MCCG' (neutral, objective statement)"
+    "score": 8,
+    "justification": "• Evidence 1: 'BFood subsidiaries only engage with vendors who comply with ethical sourcing requirements through its procurement and sourcing policy.'\n• Evidence 2: 'The Board is satisfied that the Company has substantially complied with the MCCG throughout the FYE 2021 save for the exceptions which are fully described in the CG Report.'"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: 'The T.R.U.S.T Concept was formulated to set out the guidelines on adequate procedures to curb and prevent bribery and corruption' (clear explanation of a complex policy)\n• Evidence 2: 'The Company Secretaries play an important role in facilitating the overall compliance' (precise language with professional terms)"
+    "score": 7,
+    "justification": "• Evidence 1: 'The Board has delegated the day-to-day management of the Group’s affairs and business to the CEO...' (clear structure)\n• Evidence 2: 'The T.R.U.S.T. Concept was formulated to set out the guidelines on adequate procedures to curb and prevent bribery and corruption' (precise definition)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: 'The Board views the commitment to promote sustainability strategies... as part of its broader responsibility to all its various stakeholders' (directly links to stakeholder interests)\n• Evidence 2: 'The Nomination Committee reviews annually the effectiveness of the Board and Board Committees' (relevant governance information for investors)"
+    "justification": "• Evidence 1: 'The Board is pleased to provide an overview of the corporate governance practices... which made reference to the three key CG principles' (corporate governance relevance)\n• Evidence 2: 'The Company continues to maintain and review its risk management and internal control procedures to ensure... the protection of its assets and shareholders’ investments' (risk management relevance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The external auditors ... reported to the Board that nothing has come to their attention that causes them to believe the SRMIC ... is not prepared, in all material respects, in accordance with the disclosures required by paragraphs 41 and 42 ...\" \n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses, contingencies or uncertainties that would require disclosure in the Group’s Annual Report.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows: • The business units are required to identify the risks relevant to their businesses. • The risks are then assessed based on the probability of their occurrence and are evaluated as Low, Medium or High.\" \n• Evidence 2: \"The ARMC held five -5 meetings during the financial year ... The minutes of each of the ARMC meetings were recorded and tabled for confirmation at the next ARMC meeting.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The business units are required to update their risk profiles and review their processes in monitoring the risks periodically.\" \n• Evidence 2: \"The external auditors have performed limited assurance procedures on the Statement on Risk Management and Internal Control ... for the year ended 30 June 2021.\""
   }
 }
 
@@ -361,15 +377,47 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The ARMC held -4 meetings where it reviewed and evaluated the adequacy of risk management activities...\" (specific factual disclosure of meetings and actions)\n• Evidence 2: \"nothing has come to their attention that causes them to believe the SRMIC... is not prepared, in all material respects...\" (neutral, objective audit finding)"
+    "justification": "• Evidence 1: \"The above review is to ensure that the Company’s quarterly financial reporting and disclosures present a true and fair view...\" (neutral, objective, supports reliability)\n• Evidence 2: \"However, there was no major issue raised during the private session.\" (discloses absence of significant problems)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The business units are required to identify the risks relevant to their businesses.\" (clear, direct language)\n• Evidence 2: \"The minutes of each of the ARMC meetings were recorded and tabled...\" (precise description of procedural clarity)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Reviewed the quarterly financial statements including the draft announcements pertaining thereto...\" (precise, direct language)\n• Evidence 2: \"Discussed and considered the significant accounting adjustments...\" (clear structure with specific audit processes)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows:\" (directly addresses investor concerns about risk management)\n• Evidence 2: \"The Board remains committed towards operating a sound system of internal control...\" (links governance to operational risks)"
+    "justification": "• Evidence 1: \"Cybersecurity, Covid-19 preventive measures...\" (includes material risks and governance issues)\n• Evidence 2: \"Audit fees of the External Auditors\" (relevant to investor decision-making about audit independence)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The ARMC also reviewed the audit findings, Internal Auditors’ recommendations to improve any weaknesses or non-compliance together with the Management’s responses from the respective business units and the timeline taken by Management to ensure the deficiencies are addressed promptly.\"\n• Evidence 2: \"The framework set up for identifying and monitoring the RRPT includes inter-alia, the following:... (specific criteria on fair pricing, notification procedures, and disclosure requirements)\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Internal Auditors monitored the implementation of Management’s action plan on outstanding issues through follow up reports to ensure that all key risks and control weaknesses are being properly addressed.\"\n• Evidence 2: \"The risk register covering areas such as the likelihood of occurrence, the impact of the risks, risk score, risk treatment, risk owner and control effectiveness\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Reviewed the risk management activities... to ensure the business activities and risk areas are re-aligned and enhanced on an on-going basis.\"\n• Evidence 2: \"Disclosures will be made in the annual report on the breakdown of the aggregate value of the RRPT... based on the following information:...\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed and verified the allocation and movement of the Employees’ Share Scheme… according to the criteria and matrix stipulated in the ESS’s By-Laws.\"\n• Evidence 2: \"the distribution of dividend was in accordance with the provision made under the Companies Act 2016.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reviewed and assessed the key observation on the overall effectiveness of Internal Audit… covering the following seven (7) criteria: -\" (clear structure with numbered list)\n• Evidence 2: \"The Internal Audit Division… adopts a risk-based approach focusing on high risk areas.\"" 
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed and recommended to the Board the distribution of interim dividend… based on the solvency test conducted\" (relevant to investor decision-making)\n• Evidence 2: \"assessed the adequacy of the scope… internal audit function\" (relevant to governance and risk management)"
   }
 }
 
@@ -377,62 +425,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"presented a true and fair view of the Group’s financial position and performance and are in compliance with the Malaysian Financial Reporting Standard (\"MFRS\") 134...\" \n• Evidence 2: \"having been satisfied with the independence, suitability and performance of Messrs Ernst & Young PLT...had recommended to the Board the re-appointment of EY\""
+    "justification": "• Evidence 1: \"Provided recommendations to assist the operating unit and the Group in accomplishing its internal control requirements by suggesting improvements to the control processes.\" (neutral, objective)\n• Evidence 2: \"The cost incurred for the Internal Audit function... was approximately RM248,564.\" (specific factual disclosure)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Reviewed the quarterly financial statements including the draft announcements pertaining thereto...made recommendations to the Board for approval of the same as follows:...\" \n• Evidence 2: \"Discussed and considered the significant accounting adjustments and auditing issues...key audit matters which were raised in the external auditors’ report\""
+    "justification": "• Evidence 1: \"Conducted audit reviews and evaluated risk exposures relating to the Group’s governance process...\" (precise language)\n• Evidence 2: \"Presented internal audit reports to the ARMC for review.\" (clear structure with numbered points)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Discussed...Cybersecurity, Covid-19 preventive measures...Going Concern and the Financing Structure...\" \n• Evidence 2: \"Reviewed...audit plan for the financial year end...fraud considerations and the risk of management override...\""
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Internal Auditors monitored the implementation of Management’s action plan on outstanding issues through follow up reports to ensure that all key risks and control weaknesses are being properly addressed.\"\n• Evidence 2: \"The ARMC also reviewed the procedures and processes with regards to the RRPT on a half yearly basis to ensure that the transactions are within the approved mandate.\""
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The framework set up for identifying and monitoring the RRPT includes inter-alia, the following: -\" (clear structure with numbered list)\n• Evidence 2: \"Reviewed the summary of the risk register covering areas such as the likelihood of occurrence, the impact of the risks, risk score...\" (precise terminology for risk management)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Reviewed the 2020 Circular to Shareholders in connection with the Recurrent Related Party Transactions... to ensure that the transactions are fair and reasonable...\" (relevant to corporate governance and shareholder interests)\n• Evidence 2: \"Reviewed the risk management activities... to ensure the business activities and risk areas are re-aligned and enhanced...\" (directly relevant to risk management for investors)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Reviewed and verified the allocation and movement of the Employees’ Share Scheme... according to the criteria and matrix stipulated in the ESS’s By-Laws.\"\n• Evidence 2: \"the distribution of dividend was in accordance with the provision made under the Companies Act 2016.\""
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Internal Audit Division... adopts a risk-based approach focusing on high risk areas.\"\n• Evidence 2: \"Reviewed and recommended to the Board for approval, the policies and procedures to prevent bribery and corruption pursuant to Section 17A...\""
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Reviewed and recommended to the Board the distribution of interim dividend... based on the solvency test conducted.\"\n• Evidence 2: \"The activities of Internal Audit... focusing on high risk areas.\""
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'Provided recommendations to assist the operating unit and the Group in accomplishing its internal control requirements by suggesting improvements to the control processes.'\n• Evidence 2: 'Disclosed weaknesses in the systems and controls to the ARMC and the management of the respective operations.'"
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'Clear structure with numbered activities (1-7) and distinct sections for audit reports, terms of reference, and directors' responsibilities.'\n• Evidence 2: 'Precise language such as \"conducted audit reviews,\" \"evaluated risk exposures,\" and \"safeguarding of assets.\"'"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: 'Disclosed risks related to governance processes, internal controls, and statutory compliance.'\n• Evidence 2: 'Included directors' responsibilities for financial statements and asset safeguarding, relevant to investor decision-making.'"
+    "justification": "• Evidence 1: \"Evaluated risk exposures relating to the Group’s governance process and system of internal controls... statutory requirements.\" (relevant to investor concerns)\n• Evidence 2: \"The directors are responsible for taking reasonable steps to safeguard the assets...\" (corporate governance relevance)"
   }
 }

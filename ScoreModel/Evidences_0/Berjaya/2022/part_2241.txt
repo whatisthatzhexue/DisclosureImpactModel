@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood has zero tolerance for discrimination...any other legally protected status.\" (neutral, factual policy statement)\n• Evidence 2: \"BFood has 25 disabled employees (0.467%)...\" (specific numerical data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood strives to create a more inclusive workplace values all employees for their strengths.\" (concise, direct language)\n• Evidence 2: \"All the store’s staff are certified by Starbucks’s Coffee Master programme...\" (clear structure with specific qualifications)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"To comply with the Government COVID-19 guidelines...\" (links policy to external regulatory context)\n• Evidence 2: \"Currently, there are more than six Starbucks Signing stores...\" (specific project data with potential investor interest)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"zero-tolerance stance on bribery and corruption\" (truthful, neutral)\n• Evidence 2: \"formalised our Directors’ Fit and Proper Policy, in accordance with Bursa Malaysia’s requirements\" (objective, specific facts)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"39% female representation, above the 30% mandate\" (precise, direct)\n• Evidence 2: \"17.2% GHG intensity reduction against base year FY2020\" (clear structure with quantifiable metrics)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"apply 43 out of the total 48 MCCG recommendations\" (relevant governance disclosure)\n• Evidence 2: \"formalised our Directors’ Fit and Proper Policy, in accordance with Bursa Malaysia’s requirements\" (material governance practice)"
+  }
+}

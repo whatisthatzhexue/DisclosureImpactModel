@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"internal controls can only provide reasonable and not absolute assurance against material misstatement or loss\"\n• Evidence 2: \"the Board recognises the review...is a concerted and continuous process, designed to manage rather than eliminate the risk of failure to achieve business objectives\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board of Directors...acknowledges their responsibility...to safeguard shareholders' investments and the Group's assets\"\n• Evidence 2: \"the Board has received assurance from the Executive Committee...in all material aspects\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"the Board's responsibilities...risk management and internal control system\"\n• Evidence 2: \"the Executive Committee consists of...heads of business units\""
+  }
+}

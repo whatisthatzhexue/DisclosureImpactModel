@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Export sales dropped in the past year from RM204.6 million to RM173.5 million due to several reasons.\" (Discloses performance change with specific figures)\n• Evidence 2: \"We have exercised prudence by making a provision for doubtful debt amounting to RM5.6 million despite the fact that the debt is insured.\" (Transparent about risks and financial prudence)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group shifted our UAE production facility plan to Bahrain after signing the lease agreement and implementing the handover of the industrial plot in February 2019.\" (Clear timeline and action)\n• Evidence 2: \"The New Alicafe French Roast Cappuccino Series consists of...\" (Specific product details with precise terminology)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our strategic decision to focus on ROI resulted in a drop in A&P investment and consequently in sales...\" (Explains performance drivers for investors)\n• Evidence 2: \"We implemented our retail audit system...\" (Forward-looking operational improvement relevant to decision-making)"
+  }
+}

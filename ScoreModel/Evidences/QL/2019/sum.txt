@@ -1,128 +1,128 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"We are faced with numerous events driven by external factors, from changing weather patterns...uncertainty arising from the growing concerns due to the ongoing trade war between the United States (US) and China.\"\n• Evidence 2: \"Our financial performance indicators are all in the green...RM359 million increase in revenue...RM272 million\" (specific numerical disclosures)"
+    "justification": "• Evidence 1: \"We are faced with numerous events driven by external factors, from changing weather patterns...uncertainty arising from the growing concerns due to the ongoing trade war between the United States (US) and China.\"\n• Evidence 2: \"Our financial performance indicators are all in the green...RM359 million increase in revenue...RM272 million profit before tax\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"QL is committed to fulfilling our commitment and responsibility to sustainability, both financial and non-financial.\"\n• Evidence 2: \"The Board holds ourselves accountable for upholding and propagating responsible business practices.\"" 
+    "justification": "• Evidence 1: \"The Board holds ourselves accountable for upholding and propagating responsible business practices\" (clear responsibility statement)\n• Evidence 2: \"RM272 million Profit before tax Revenue RM3.619 billion\" (numerical clarity but lacks contextual explanation)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Our strategy and steadfastness to create value to benefit all is built on a foundation of sustainable growth.\"\n• Evidence 2: \"The inclusion into the MSCI Global Index also helped elevate the attractiveness of QL as an investment\" (forward-looking information)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Our strategy and steadfastness to create value to benefit all is built on a foundation of sustainable growth\" (investor-relevant strategy)\n• Evidence 2: \"The inclusion into the MSCI Global Index also helped elevate the attractiveness of QL as an investment\" (forward-looking market relevance)"
   }
 }
 
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"we remain vigilant as we now gain better understanding of the regional challenges faced in these two neighbouring countries\"\n• Evidence 2: \"RM646 million in revenue, which is a slight decrease of 1% from the RM654 million posted in FY2018 due to lower crude palm oil price\""
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"RM2.310 billion revenue recorded by the segment marked 17% improvement (RM339 million) over restated FY2018’s\"\n• Evidence 2: \"the two countries account for more than 55% of the population in Southeast Asia whilst the Southeast Asia region as a whole has 8.59% of the world population\""
-  },
-  "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The third revenue pillar, POA, bore the brunt of the adverse operating conditions due to excessive rainfall in Indonesia and also shortage of labour in the Malaysian plantation\"\n• Evidence 2: \"QL is confident of reaping increasing returns from our regional expansion, in particular MPM and ILF activities\""
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"QL has consistently retained its largest surimi producer in Southeast Asia title.\" (specific factual claim)\n• Evidence 2: \"Downstream production facilities are HACCP certified... comply with the US Department of Agriculture or EU regulations.\" (objective, verifiable information)"
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Our business in MPM spans the entire value chain from source to customers.\" (clear structure)\n• Evidence 2: \"The chilled surimi plant doubled production capacity to 25,000 metric tonnes a year\" (precise numerical data)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"QL is setting aside approximately RM7 million to explore... higher quality fishmeal\" (forward-looking investment information)\n• Evidence 2: \"New RM100-million investment... completed in March 2018\" (material event with quantitative details)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The fate of prawn aquaculture units... having been affected by EMS and EHP in FY2017 and FY2018.\" (discloses past challenges)\n• Evidence 2: \"plans are in place to operate at larger capacity with full commercialisation depending on results of the pilot project.\" (acknowledges uncertainty)"
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The expanded capacity provides room to cater to the increasing overseas and domestic demand.\" (clear and direct)\n• Evidence 2: \"Eight coastal vessels will be disposed off in Sabah; two were already sold as end of FY2019.\" (precise with specific numbers)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Export sales of surimi-based products to North America remains strong.\" (material market information)\n• Evidence 2: \"We anticipate prices... to remain stable in FY2020 due to...\" (forward-looking financial outlook)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"QL continues to be a leading egg producer in Malaysia, laying a total of 5.7 million eggs per day across all ILF operations in Malaysia, Indonesia and Vietnam.\" (specific factual data)\n• Evidence 2: \"Our established network, wide customer base... places QL at the forefront of the ILF industry.\" (neutral statement with supporting details)"
-  },
-  "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Eggs, DOC and broiler production activities are undertaken at various farm sites in Malaysia, Indonesia and Vietnam.\" (clear structure)\n• Evidence 2: \"From breakfast to cakes, the egg is a much loved food and important ingredient.\" (redundant explanation of common knowledge)"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"QL is ensuring as much weightage is given to build the 'QL Eggs' brand... to aid its goal to be the eggs of choice among consumers.\" (strategic relevance for investors)\n• Evidence 2: \"In FY2019, QL continues to be a leading egg producer... outputted 22 million broilers.\" (operational performance data)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The lower prices of eggs...due to oversupply.\" (discloses market challenges)\n• Evidence 2: \"QL utilises a leading Farm Management Software...\" (specific operational detail)"
-  },
-  "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The new integrated layer farm will reach its full capacity...\" (clear production target)\n• Evidence 2: \"Work has commenced to build a new layer farm...\" (direct description of expansion)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The volatility of commodity prices...\" (material risk factor)\n• Evidence 2: \"ILF has a fair outlook...\" (forward-looking statement with context)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"QL is certified as a palm oil cultivator who employs environmentally sustainable methods under the Indonesian Sustainable Palm Oil (ISPO) system.\" (specific certification and method)\n• Evidence 2: \"FFB production in FY2019 increased by about 10% to 139,000 metric tonnes\" (quantifiable data with context)\n• Evidence 3: \"competition from new players... reduced harvest... poor CPO prices caused many players... to fatigue\" (disclosure of risks and challenges)"
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"FFB production increased by about 10% to 139,000 metric tonnes\" (clear numerical comparison)\n• Evidence 2: \"16,000 hectares located in East Malaysia and Northern Kalimantan\" (precise location data)\n• Evidence 3: \"Boilermech complements the plantation and milling activities\" (somewhat vague phrasing, but contextually clear)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The developments in this pillar in FY2019 were as anticipated in the previous annual report\" (explains performance context)\n• Evidence 2: \"competition from new players... reduced harvest... poor CPO prices\" (material risks affecting operations)\n• Evidence 3: \"FFB production... increased by about 10%\" (performance change explanation)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The palm oil industry was severely challenged by CPO prices that dropped to RM2,100 per metric tonne in FY2019 from last year’s average of RM2,600 per metric tonne.\"\n• Evidence 2: \"Overall the outlook of POA is bearish.\""
-  },
-  "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"FamilyMart’s central kitchen... received the halal certification from Jabatan Kemajuan Islam Malaysia (JAKIM).\"\n• Evidence 2: \"We are on track towards fulfilling our promise of 300 stores in five years (FY2022).\""
+    "justification": "• Evidence 1: \"...a slight decrease of 1% from the RM654 million posted in FY2018 due to lower crude palm oil price.\" (specific factual explanation)\n• Evidence 2: \"The third revenue pillar, POA, bore the brunt of the adverse operating conditions due to excessive rainfall...\" (disclosure of risks and challenges)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"RM2.310 billion revenue recorded by the segment marked 17% improvement (RM339 million)...\" (clear numerical context)\n• Evidence 2: \"Our convenience store business in FamilyMart is on track to meet our initial target set in 2016...\" (precise statement with specific goal)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"The halal compliance at QL Kitchen is monitored by a permanent halal executive...\"\n• Evidence 2: \"we anticipate the year average price for CPO to continue range bound at RM1,900 to RM2,200 per metric tonne.\""
+    "justification": "• Evidence 1: \"...the strategic investment into downstream capacity...translated to a year-on-year increase of 11.5%\" (explains performance changes)\n• Evidence 2: \"QL is confident of reaping increasing returns from our regional expansion...\" (forward-looking information about future prospects)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL has consistently retained its largest surimi producer in Southeast Asia title\" (specific factual claim)\n• Evidence 2: \"downstream production facilities are Hazard Analysis and Critical Control Point (HACCP) certified\" (objective technical disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our business in MPM spans the entire value chain from source to customers\" (clear structural overview)\n• Evidence 2: \"doubled production capacity to 25,000 metric tonnes a year\" (precise quantitative data)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL is setting aside approximately RM7 million to explore...higher quality fishmeal\" (material investment disclosure)\n• Evidence 2: \"comply with the US Department of Agriculture or EU regulations\" (regulatory relevance)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The fate of prawn aquaculture units in Badong and Pekan were similar to that of the Kudat unit, having been affected by EMS and EHP in FY2017 and FY2018. The measures taken to overcome these diseases have resulted in improvement in FY2019 and is expected to stabilise further in the coming year.\"\n• Evidence 2: \"QL is setting aside approximately RM7 million to explore, develop and install relevant technologies at our facilities to produce higher quality fishmeal that meets higher international standard for aquaculture feed.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Production Capacity: 25,000 metric tonnes a year for chilled surimi plant / 35,000 metric tonnes per annum for frozen products\" (clear numerical structure).\n• Evidence 2: \"Eight coastal vessels will be disposed off in Sabah; two were already sold as end of FY2019.\" (precise, direct language with specific figures)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We anticipate prices especially for fishmeal, surimi and surimi-based products to remain stable in FY2020 due to the favourable Ringgit and regulated fish catch in South America and North Pacific.\"\n• Evidence 2: \"Export sales of surimi-based products to North America remains strong... we are looking towards increasing the supply capacity in Kota Belud.\" (forward-looking info and market relevance)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'QL continues to be a leading egg producer in Malaysia, laying a total of 5.7 million eggs per day across all ILF operations in Malaysia, Indonesia and Vietnam' (specific factual claims)\n• Evidence 2: 'outputted 22 million broilers' (quantifiable production data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Our established network, wide customer base...best practices and high standards in farm management' (clear structure with logical progression)\n• Evidence 2: 'Eggs, DOC and broiler production activities are undertaken at various farm sites' (precise description of operations)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'QL is ensuring as much weightage is given to build the ‘QL Eggs’ brand' (strategic focus relevant to investors)\n• Evidence 2: 'Across board worldwide, eggs can be found in many households...' (market context but lacks direct financial/operational risk disclosures)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"lower prices of eggs in Peninsular Malaysia continued into the second half... due to oversupply\" (discloses market challenges)\n• Evidence 2: \"unexpected poultry diseases such as Low Pathogenic Avian Influenza (LPAI) and Newcastle Disease...\" (discloses specific risks)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL utilises a leading Farm Management Software (FMS)...\" (clear technical explanation)\n• Evidence 2: \"production will reach 800,000 eggs per day in FY2020...\" (precise numerical targets)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"ILF Outlook... competition in feed raw material...\" (forward-looking market analysis)\n• Evidence 2: \"threat of eggs oversupply may persist...\" (explains performance change drivers)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL is certified as a palm oil cultivator who employs environmentally sustainable methods under the Indonesian Sustainable Palm Oil (ISPO) system.\" (specific certification and method)\n• Evidence 2: \"FFB production in FY2019 increased by about 10% to 139,000 metric tonnes...\" (quantifiable performance data with comparison)\n• Evidence 3: \"competition from new players... reduced harvest... poor CPO prices caused many players... to fatigue.\" (disclosure of risks and challenges)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"FFB production in FY2019 increased by about 10% to 139,000 metric tonnes...\" (clear numerical data)\n• Evidence 2: \"44%-equity stake in one of the largest biomass boiler manufacturers...\" (precise ownership detail)\n• Evidence 3: Repetition of location names (East Malaysia, Northern Kalimantan) may cause redundancy, but overall structure is logical"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The developments in this pillar in FY2019 were as anticipated in the previous annual report...\" (explains performance continuity)\n• Evidence 2: \"competition from new players... reduction in FFB supply... poor CPO prices...\" (material risks affecting operations)\n• Evidence 3: Lack of forward-looking statements or governance details limits relevance for investor decision-making"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The palm oil industry was severely challenged by CPO prices that dropped to RM2,100 per metric tonne in FY2019 from last year’s average of RM2,600 per metric tonne.\" (specific factual data)\n• Evidence 2: \"Overall the outlook of POA is bearish.\" (neutral assessment of future prospects)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"FamilyMart’s central kitchen... received the halal certification...\" (clear explanation of certification process)\n• Evidence 2: \"We are on track towards fulfilling our promise of 300 stores in five years (FY2022).\" (precise numerical target)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"FamilyMart creates job opportunities for locals... staff strength of 1,582\" (material event with financial impact)\n• Evidence 2: \"we anticipate the year average price for CPO to continue range bound...\" (forward-looking market analysis)"
   }
 }
 
@@ -133,60 +133,60 @@
     "justification": "• Evidence 1: \"Cross-border transactions expose QL to forex risks. We pay close attention to the market and hedge our exposure in order to maintain stability.\"\n• Evidence 2: \"The Group is in the process of implementing the cybersecurity framework.\""
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"QL keeps an eye out on the winds of change in the industry in order to navigate them accordingly to bolster our position.\"\n• Evidence 2: \"Our farms, both in ILF and MPM have their internal policies and procedures which are strictly adhered to as preventive measures.\""
-  },
-  "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"QL is cognisant of the critical need to be vigilant. In addition to the QLPCOE, identified key personnel in QL are charged with monitoring indicators and developments...\"\n• Evidence 2: \"We strive to ensure that the lawfulness and goodness of our food products are maintained at all times.\""
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"QL vigilantly monitors global weather patterns and proactively adopt mitigative measures.\" (Discloses climate risks with specific actions)\n• Evidence 2: \"The World Bank sees slowing global growth... projected to be at a meagre 2.6%...\" (Provides factual economic projections and acknowledges uncertainties)"
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"QL complies with food standards, both local and international.\" (Clear, direct statement of compliance)\n• Evidence 2: \"Our operations in MPM stand to benefit from the improving fish catch...\" (Precise explanation of operational advantages)"
-  },
-  "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The moderated consumer confidence paradoxically juxtapose with consumer spending...\" (Provides forward-looking economic insights relevant to investors)\n• Evidence 2: \"Fluctuating cost of raw materials... are the challenges in the ILF business.\" (Highlights material risks impacting performance)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
     "score": 6,
-    "justification": "• Evidence 1: \"QL’s Board of Directors takes an active role in setting the direction of sustainability, dovetailing the active role they play at each of the group’s business pillars.\" (neutral, factual description)\n• Evidence 2: \"The SRW reports directly to the SPT.\" (specific organizational structure)"
+    "justification": "• Evidence 1: \"QL equips the team with the latest know-how and best practices in biosecurity across all our operations.\"\n• Evidence 2: \"Keep an ear to the ground to ensure that we are aware of any development as they arise.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Cross-border transactions expose QL to forex risks. We pay close attention to the market and hedge our exposure in order to maintain stability.\"\n• Evidence 2: \"Proactive biosecurity steps are taken as a form of disease control.\""
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Changes such as excessive rainfall, prolonged drought and scorching temperatures affect the environment and our operations. QL vigilantly monitors global weather patterns and proactively adopt mitigative measures.\" (discloses risks and specific actions)\n• Evidence 2: \"Fluctuating cost of raw materials, biosecurity threats and eggs over-supply are the challenges in the ILF business.\" (acknowledges challenges with specific facts)"
   },
   "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources Berhad (428915-X) Annual Report 2019\" (clearly identifies the report and entity)\n• Evidence 2: \"The moderated consumer confidence paradoxically juxtapose with consumer spending in Malaysia which is on an upward projection\" (precise language with logical structure)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The World Bank sees slowing global growth... projected to be at a meagre 2.6% this year\" (forward-looking economic data relevant to investors)\n• Evidence 2: \"QL is optimistic of reaping returns from our investment strategy\" (links corporate strategy to financial performance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Incorporate sustainability into QL’s Risk Management and Corporate Strategies;\" (clear, direct language)\n• Evidence 2: \"Monitor QL’s sustainability performance for reporting.\" (precise statement of responsibility)"
+    "justification": "• Evidence 1: \"QL’s Board of Directors takes an active role in setting the direction of sustainability, dovetailing the active role they play at each of the group’s business pillars.\"\n• Evidence 2: \"The SRW reports directly to the SPT.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The following entails the core responsibilities of the SPT:\"\n• Evidence 2: \"• Incorporate sustainability into QL’s Risk Management and Corporate Strategies;\""
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"Oversee the management of material sustainability matters as identified;\" (includes materiality, relevant to investors)\n• Evidence 2: \"Includes risks, material events, corporate governance, internal management (if mentioned)\" (mentions governance structure but lacks specific risk disclosures or performance metrics)"
+    "justification": "• Evidence 1: \"Oversee the management of material sustainability matters as identified;\"\n• Evidence 2: \"Monitor QL’s sustainability performance for reporting.\""
   }
 }
 
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"SRW proactively undertakes the following core responsibilities...\" (specific roles are outlined)\n• Evidence 2: \"QL planned an engagement approach...\" (transparent stakeholder engagement process)"
+    "score": 8,
+    "justification": "• Evidence 1: 'SRW proactively undertakes the following core responsibilities' [neutral, factual description of duties]\n• Evidence 2: 'Refer to Bursa Malaysia Securities Berhad’s Sustainability Reporting Guide and Toolkits, Global Reporting Initiative Sustainability Reporting Standards' [specific references to credible standards]"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The process began by reviewing...\" (clear procedural description)\n• Evidence 2: \"Our materiality process is illustrated as follows...\" (structured flowchart reference)"
+    "score": 7,
+    "justification": "• Evidence 1: 'The process began by reviewing and updating the material sustainability matters' [clear process description]\n• Evidence 2: 'Our materiality process is illustrated as follows: Diagram 2' [attempted visual structure]"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Ways are sought to incorporate industry best practices...\" (aligns with investor interests)\n• Evidence 2: \"Governance processes are assessed regularly\" (corporate governance relevance)"
+    "score": 7,
+    "justification": "• Evidence 1: 'Ways are sought to incorporate industry best practices... into our sustainability-related responsibilities' [links to governance and operational relevance]\n• Evidence 2: 'Stakeholders engaged and the process are outlined in Section 3.4' [direct reference to stakeholder engagement]"
   }
 }
 
@@ -194,15 +194,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"This report is prepared based on Bursa Malaysia Securities Berhad’s Sustainability Reporting Guide and Toolkits/GRI framework.\" (supports objective methodology)\n• Evidence 2: \"QL reviewed and updated 17 sustainability matters... including international sustainability reporting standards, e.g. GRI Standards.\" (demonstrates adherence to recognized standards)"
+    "justification": "• Evidence 1: \"QL reviewed and updated 17 sustainability matters which are relevant to QL’s business... including international sustainability reporting standards, e.g. GRI Standards.\"\n• Evidence 2: \"Basis of the reporting scope includes considerations of magnitude of revenue contribution and/or impact to QL.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Business Pillars\" section with clear headings and bullet points for subsidiaries (structured presentation)\n• Evidence 2: \"Basis of the reporting scope includes considerations of magnitude of revenue contribution and/or impact to QL.\" (precise explanation of methodology)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Business Pillars\" section with clear categorization of subsidiaries and activities.\n• Evidence 2: \"Diagram 3: Scope of reporting\" (though diagram absent, structure is logically organized)."
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"QL reviewed and updated 17 sustainability matters which are relevant to QL’s business... global, national and industrial trends; and international sustainability reporting standards\" (connects to business context)\n• Evidence 2: \"For this year, the indicators disclosed included those in FY2017 and FY2018 for baseline comparison of data.\" (provides historical context for analysis)"
+    "justification": "• Evidence 1: \"This report is prepared based on Bursa Malaysia Securities Berhad’s Sustainability Reporting Guide and Toolkits/GRI framework.\"\n• Evidence 2: \"For this year, the indicators disclosed included those in FY2017 and FY2018 for baseline comparison of data.\""
   }
 }
 
@@ -210,15 +210,253 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"QL remains cognisant of the 17 United Nations Sustainable Development Goals...\" (specific reference to SDGs)\n• Evidence 2: \"Our strategies and approaches are established with the concerns of human rights, labour, environment, and anti-corruption in mind\" (objective statement without overstatement)"
+    "justification": "• Evidence 1: \"We are acutely aware that our business and operations have significant impact and are interdependent on the security and livelihood of our people, business partners and communities.\" (acknowledges interdependence but lacks specific risk disclosure)\n• Evidence 2: \"Our objective is to ensure that in all that we do... QL delivers benefits to shareholders...\" (forward-looking statement without quantifiable metrics or risk mitigation details)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Table 1: Stakeholder engagement modes, focus areas & responses\" (clear structure with defined categories)\n• Evidence 2: \"Safe and quality products for customers\" (precise, direct language despite some generality)"
+    "justification": "• Evidence 1: \"Table 1: Stakeholder engagement modes, focus areas & responses\" (clear structure with categorized information)\n• Evidence 2: \"Stakeholder Groups Engagement Channels Focus Areas How do we respond?\" (direct, tabular format simplifies complex information)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"plan for long-term success, we uphold our responsibilities to people and planet\" (forward-looking strategic focus relevant to investors)\n• Evidence 2: \"Stakeholder Engagement... channels to proactively consult... key stakeholders\" (demonstrates governance and management practices relevant to decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [No specific facts or disclosures provided]\n• Evidence 2: [No risks, challenges, or uncertainties mentioned]"},
+  "Understandability": {"score": 0, "justification": "• Evidence 1: [No clear structure or logic present]\n• Evidence 2: [No precise or direct language used]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [No forward-looking information or material events described]\n• Evidence 2: [No corporate governance or risk-related content included]"}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Stakeholders from MPM operations were engaged at Endau, Kulai and Hutan Melintang...\" (specific stakeholder engagement details)\n• Evidence 2: \"Guided by Burs, Malaysia Securities Berhad’s Sustainability Reporting Guide...\" (reference to external standards)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Key stakeholder groups engaged across ILF, MPM, and POA were: Customers, Shareholders, Management...\" (clearly listed groups)\n• Evidence 2: \"Discussions with key internal stakeholders were held to evaluate the materiality levels...\" (direct explanation of process)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Identification of materiality is essential in any business...\" (direct relevance to investor concerns)\n• Evidence 2: \"Engagement was conducted with identified SPT members...\" (mention of stakeholder input process)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"17 sustainability matters prioritised, with 10 identified as being most influential on stakeholders’ decisions and to the impact of the business at ILF, MPM, and POA\" (neutral factual reporting)\n• Evidence 2: \"The result of the materiality assessment, the Materiality Matrix is shown below\" (supports claims with specific reference to a visual tool)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sustainable Business Growth, Environmental Responsibility and Workplace Management\" (clear thematic categorization)\n• Evidence 2: \"Diagram 5: Mapping of material sustainability matters across the three themes\" (explicit visual reference for context)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"the Materiality Matrix is shown below\" (provides framework for stakeholder prioritization)\n• Evidence 2: \"discusses our policies, measures and actions and performance indicators\" (links to investor-relevant management practices)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"We are prudent when undertaking and implementing expansion plans. Agro-food sector is a demanding business... challenges that range from business and climate change, consumer sentiments and perception, food quality and safety to availability of resources.\"\n• Evidence 2: \"The growth experienced to-date is due to the investment undertaken previously.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL subscribes to the philosophy of continued business growth. We regularly evaluate the key areas across our business pillars...\" (clear structure with logical progression)\n• Evidence 2: \"Table 2: Total amount of Capex\" (direct labeling of data presentation)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"We strive to drive long-term corporate growth and profitability while considering EES impacts\" (forward-looking information)\n• Evidence 2: \"Further reading on this can be found on page 28 to 37\" (reference to detailed risk disclosures)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'We have obtained food quality and safety certifications across various production lines' (specific facts about certifications)\n• Evidence 2: 'Our processes are subject to regular internal reviews and external assurance' (objective disclosure of controls)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Table 3: List of current certifications' (clear structure)\n• Evidence 2: 'GMP requires sanitary considerations in food processing...' (precise explanation of certification requirements)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'Our responsibility as an agro-producer is to ensure that the quality of our products are safe for consumption' (directly relevant to investor concerns)\n• Evidence 2: 'ISO 22000:2005 is applied worldwide' (global relevance for stakeholders)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Managing food safety and quality is not an easy feat...\" (neutral statement with no overstatement)\n• Evidence 2: \"Third parties... against specified criteria\" (specific fact about audits)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Base = 424 respondents...\" (clearly defines survey scope)\n• Evidence 2: \"Almost 100% of consumers...\" (direct statement of survey results)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Consumer demographic segments...\" (useful for understanding target market)\n• Evidence 2: \"Third parties... health and safety\" (relevant to corporate governance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"we have taken precautionary measures by assigning Biosecurity Level 4 for QL Poultry Farms Sdn. Bhd. for the period from September 2018 – December 2018\" (specific temporal context and factual assignment).\n• Evidence 2: \"QLPCOE audit report was tabled and discussed with the farm management\" (neutral disclosure of compliance checks and no overstatement)."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"There are four levels in the rating system\" (clear structure with numbered levels).\n• Evidence 2: \"Farm premises will be disinfected weekly, while the empty house will be disinfected twice\" (precise, direct language for procedural steps)."
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"Our objective is to ensure that in all that we do...QL delivers benefits to shareholders...\" (forward-looking and investor-relevant)\n• Evidence 2: \"Stakeholder engagement modes, focus areas & responses\" (detailed stakeholder interaction information for decision-making)"
+    "justification": "• Evidence 1: \"Due to the Low Pathogenicity Avian Influenza (LPAI) 10km away from our farm, we have taken precautionary measures...\" (material event disclosure and risk mitigation).\n• Evidence 2: \"QLPCOE audit report was tabled and discussed with the farm management\" (internal governance and compliance relevance for investors)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In FY2019, there were no reported cases.\" (specific factual disclosure)\n• Evidence 2: \"The code of conduct is communicated to all employees.\" (objective statement with no overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL has provided interest free financial assistance to over 2,500 fishermen\" (precise numerical data)\n• Evidence 2: \"The scheme is also believed to have inadvertently created...\" (clear logical structure with direct language)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Our major suppliers...contractually agree to comply with these policies\" (corporate governance relevance)\n• Evidence 2: \"QL Group contributed RM1 million...to restore the nation’s economy\" (material event with investor-relevant impact)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 1, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Understandability": {"score": 3, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Scheduled waste disposal contractors are approved by the Department of Environment Malaysia... in line with both the state and national environmental regulations.\" (specific facts)\n• Evidence 2: \"The process is environmentally sound and generates income for the companies.\" (neutral, factual statement without overstatement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Stored scheduled waste is correctly labelled\" and \"fermentation process converts the manure into organic fertiliser\" (precise, direct language)\n• Evidence 2: Clear section headings (Solid Waste/Liquid Waste) and tables with numerical data (e.g., 56% conversion rate) (logical structure)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Table 6: Total amount of manure generated...\" and \"Table 7: Total amount of manure generated...\" (useful data for investors)\n• Evidence 2: \"QL Foods Sdn. Bhd. has increased their wastewater treatment capacity...\" (forward-looking operational update)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In FY2019, our operations generated 249,973 tonnes of POME.\" (specific factual data)\n• Evidence 2: \"we test the quality of our discharge and report the results to DOE to ensure the readings are within regulatory limits.\" (objective compliance disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The plant captures methane released by POME during anaerobic digestion and converts the gas into a source of fuel in the form of biogas.\" (clear explanation of process)\n• Evidence 2: \"Diagram 7: Average reading of BOD in POME (mg/L) at QL Plantation Sdn. Bhd.\" (structured visual reference, though data presentation is ambiguous)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL Plantation Sdn. Bhd. has made significant strides in the management of POME...\" (operational performance insight)\n• Evidence 2: \"Further information on the energy generated from our biogas plant is under the greenhouse gas emissions section.\" (cross-referenced forward-looking information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The rest of the energy generated is sold to the local grid at a significantly higher tariff than energy sourced from non-renewable energy.\" (specific factual claim about biogas plant operations)\n• Evidence 2: \"GHG emissions are generated in the course of our operations... Scope 1 and Scope 2 emissions.\" (clearly defines emission scopes but lacks risk disclosure about potential emission increases or regulatory changes)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Scope 1 emissions are generated primarily from fuel consumed by our machinery and vehicles, while Scope 2 emissions are generated mostly from electricity consumption.\" (precise definition of emission categories)\n• Evidence 2: \"40,000 - 30,000 - 20,000 - 10,000 - 0 -\" (ambiguous numerical presentation without clear labels or units for diagrams)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Climate change is exacerbating the challenges faced by the agriculture sector... affecting the health of our poultry layers, and FFB production.\" (explains operational impacts but lacks direct link to financial risks)\n• Evidence 2: \"This initiative is in line with the national target set by the Malaysian government...\" (forward-looking information without connection to investor decision factors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our efforts in Odour Management are recognised and acknowledged by Ministry of Agriculture and Agro-based Industry Malaysia.\" (specific recognition)\n• Evidence 2: \"We utilise fermentation technology to convert the manure into organic fertiliser.\" (specific factual statement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Closed House System adopted by all our farms with ventilation system consists of fan system, air inlets, evaporative cooling system, temperature control and thermostats.\" (structured technical description)\n• Evidence 2: \"Believing that there is strength in diversity...\" (clearly defined policy statement)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Our poultry farm in Negeri Sembilan was awarded...\" (specific achievement relevant to investors)\n• Evidence 2: \"We ensure our compliance with the minimum wage act...\" (labor practices relevant to corporate governance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Male 62%\", \"Female 38%\" (factual data presented without context or risk disclosure)\n• Evidence 2: \"Permanent 84%\", \"Contract (Temporary, Part-time) 16%\" (statistical data lacks explanation of implications or uncertainties)"
+  },
+  "Understandability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"ILF Gender\", \"MPM Gender\" (clear categorization but lacks contextual explanation)\n• Evidence 2: \">50 years old 11%\", \"<30 years old 40%\" (precise data presentation but fragmented without logical flow)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"POA Workforce 34%\", \"Foreign Workforce 66%\" (employee demographics may inform investor assessment but lack performance linkage)\n• Evidence 2: \"Permanent 47%\", \"Contract (Temporary, Part-time) 53%\" (data is descriptive but absent forward-looking insights or risk factors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL is fully committed to ensuring... minimal disruption to daily operations\" (neutral commitment without overstatement)\n• Evidence 2: \"Using or being under the influence... strictly prohibited\" (specific policy but lacks risk disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Safe and healthy environment is a key emphasis... Code of Conduct\" (clear structure with direct language)\n• Evidence 2: \"Safety committee... monitoring and ensuring compliance\" (precise description of governance mechanisms)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Safety committee... local regulations\" (corporate governance mention)\n• Evidence 2: \"Strive to build... workplace culture\" (lacks specific investor-relevant metrics or risks)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The average incident rate in the ILF and POA business pillars has registered reductions' (specific factual data).\n• Evidence 2: 'we continue to have zero fatality' (objective statement supported by data)."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The formula of incident rate computation is as per the Notification of Accident...' (clear reference to methodology).\n• Evidence 2: Tables 10 and 11 organize complex information with headings and bullet points (structured logic)."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'The change of reporting incident rate is to provide more detailed insights...' (explains performance metric shift).\n• Evidence 2: 'QL Group remains committed to ensuring that all QL sites are accident-free workplace' (forward-looking commitment)."
   }
 }
 
@@ -233,47 +471,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Direct engagement via survey forms allowed for the proper collation of sustainability matters that QL should prioritise.\" (Discloses stakeholder engagement methods and prioritization)\n• Evidence 2: \"Guided by Burs, Malaysia Securities Berhad’s Sustainability Reporting Guide and Toolkits, QL maintained a structured materiality assessment approach.\" (Supports objectivity with reference to external guidelines)"
+    "justification": "• Evidence 1: \"QL’s sustained business success relies on having capable and competent employees equipped with the relevant knowledge, skills and experiences.\" (Neutral, factual statement about business reliance on employees)\n• Evidence 2: \"The rewards given to deserving and performing employees are merits-based, with inputs of the performance review.\" (Specific, objective description of reward criteria)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Channels Focus Areas How do we respond?\" (Clear section headers with direct language)\n• Evidence 2: \"Sustainability is a long-term process that requires commitment and continuous reviews and evaluations.\" (Precise explanation of sustainability approach)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Leadership Development (LEAD) Programme and Accelerated Learning Process continues to form the cornerstone of our employees’ soft skill and talent development.\" (Clear, direct explanation of program purpose)\n• Evidence 2: \"All full-time permanent local employees ranging from Non-Executive to Senior Management are required to undergo the structured appraisal process.\" (Precise language specifying scope of appraisal)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"To better understand the full range of risks and opportunities, as an organisation, we must align our risk management and materiality assessment processes.\" (Relevant to investor decision-making by addressing risk management)\n• Evidence 2: \"Discussions with key internal stakeholders were held to evaluate the materiality levels they would place on identified sustainability matters.\" (Relevant to corporate governance and stakeholder priorities)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"17 sustainability matters prioritised, with 10 identified as being most influential on stakeholders’ decisions and to the impact of the business at ILF, MPM, and POA\" (specific facts about prioritization).\n• Evidence 2: \"Materiality Matrix is shown below\" (references a supporting tool but lacks detailed disclosure of risks or uncertainties)."
-  },
-  "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Sustainable Business Growth, Environmental Responsibility and Workplace Management\" (clear thematic categorization).\n• Evidence 2: \"Diagram 5: Mapping of material sustainability matters across the three themes\" (structured visual reference but lacks explanatory context)."
-  },
-  "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Most influential on stakeholders’ decisions\" (directly links to investor concerns).\n• Evidence 2: \"Policies, measures and actions and performance indicators\" (mentions management practices but lacks specific forward-looking or risk-related details)."
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"We are also prudent when undertaking and implementing expansion plans. Agro-food sector is a demanding business. It exacts capital, care and caution with its numerous challenges that range from business and climate change, consumer sentiments and perception, food quality and safety to availability of resources.\"\n• Evidence 2: \"The growth experienced to-date is due to the investment undertaken previously.\""
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"We regularly evaluate the key areas across our business pillars, looking at demand against a backdrop of market direction to identify segments which have greater room for growth, and segment which we are optimistic positively contribute to QL’s business growth vision.\"\n• Evidence 2: \"The table below outlines Capex in the last five years to ensure uninterrupted business growth.\""
-  },
-  "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"We strive to drive long-term corporate growth and profitability while considering EES impacts.\"\n• Evidence 2: \"Further reading on this can be found on page 28 to 37\" (indicates material information for investors)"
+    "justification": "• Evidence 1: \"QL endeavours to improve and enhance our people practices, to achieve a long term and sustainable success for the entire QL group.\" (Links HR practices to long-term business goals)\n• Evidence 2: \"The Company’s detailed application of each practice is disclosed in the CG Report which is available on QL’s website.\" (References to corporate governance disclosures relevant to investors)"
   }
 }
 
@@ -281,15 +487,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Our responsibility as an agro-producer is to ensure that the quality of our products are safe for consumption...\" (neutral, factual statement)\n• Evidence 2: \"The certification indicates that the food we produce is compliant with Islamic Law...\" (specific regulatory reference)"
+    "justification": "• Evidence 1: \"The Audit Committee (AC) was established on 15 January 2000 by the Board of Directors...\" (specific factual date and role)\n• Evidence 2: \"With three (3) AC members being members of the Malaysian Institute of Accountants, the Company meets the requirement of Paragraph 15.09 -1(c)(i) of the Listing Requirements.\" (objective compliance statement)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Table 3: List of current certifications\" (clear structural organization)\n• Evidence 2: \"GMP requires sanitary considerations in food processing...\" (precise, direct explanation of certification requirements)"
+    "justification": "• Evidence 1: \"The present members of the Audit Committee comprise the following members...\" (clear structure with named individuals)\n• Evidence 2: \"The Executive Chairman...were present by invitation in all meetings.\" (precise language explaining meeting participation)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"We have obtained food quality and safety certifications...\" (useful for assessing safety standards)\n• Evidence 2: \"The certification is offered under the jurisdiction of the Ministry of Health Malaysia\" (relevant regulatory context)"
+    "justification": "• Evidence 1: \"In the financial year under review, the Audit Committee held two -2 meetings with the External Auditors...\" (relevant governance information)\n• Evidence 2: \"Details of attendance of the Committee members are as follows:\" (useful for assessing committee effectiveness)"
   }
 }
 
@@ -297,15 +503,54 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: 'Managing food safety and quality is not an easy feat...' (acknowledges challenges)\n• Evidence 2: 'our operations are audited by third parties...against specified criteria' (objective third-party verification)"
+    "justification": "• Evidence 1: \"Reviewed and recommended the Quarterly and Annual Financial Statements... focusing particularly on... compliance with financial reporting standards...\" (neutral, objective review of compliance)\n• Evidence 2: \"Assessed the objectivity, and independence of the External Auditors...\" (explicit evaluation of auditor independence)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: 'Base = 424 respondents...' (clearly defines survey scope)\n• Evidence 2: 'Diagram 6: Consumer Ratings' (referential clarity despite missing visual context)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Reviewed recurrent related party transactions... to ascertain that these transactions were undertaken on normal commercial terms...\" (clear, structured language)\n• Evidence 2: \"The internal audit is risk-based and has incorporated the Group’s identified risks...\" (precise explanation of audit focus)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed non-current related party transactions to ascertain that it was undertaken at arms’ length...\" (material governance risk disclosure)\n• Evidence 2: \"Includes risks, material events, corporate governance...\" (covers key investor concerns but lacks forward-looking statements)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The internal audit function provided the AC on a quarterly basis, an independent and objective report...\" (neutral, factual reporting)\n• Evidence 2: \"Significant issues were identified and discussed with Management and proposed remedial actions were deliberated and monitored.\" (shows accountability but lacks explicit risk disclosure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The scope of the planned independent audit assignments covered the following:\" (clear structure with bullet points)\n• Evidence 2: \"During the financial year, the total cost incurred...\" (precise, direct language with specific figures)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: 'almost 100% of consumers rate our products...' (market perception relevant to investors)\n• Evidence 2: 'No forward-looking information or risk disclosures' (lack of material event context)"
+    "justification": "• Evidence 1: \"The internal audit function provided the AC...state of internal control...compliance with the Group’s established policies\" (relevant to governance but lacks material event disclosure)\n• Evidence 2: \"Cost control management...asset management\" (operational relevance but no forward-looking information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 1, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Understandability": {"score": 1, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Relevance": {"score": 1, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board... acknowledges their responsibility... to safeguard shareholders' investments and the Group's assets.\"\n• Evidence 2: \"internal controls can only provide reasonable and not absolute assurance against material misstatement or loss.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"There is an on-going review process by the Board... in accordance with the Statement on Risk Management and Internal Control: Guidelines for Directors of Listed Issuers.\"\n• Evidence 2: \"The Executive Committee consists of the Executive Chairman, Group Managing Director, Executive Directors and the heads of business units.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the Board recognises the review... is a concerted and continuous process, designed to manage rather than eliminate the risk of failure to achieve business objectives.\"\n• Evidence 2: \"The Board has received assurance... operates effectively, in all material aspects.\""
   }
 }
 
@@ -313,102 +558,31 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Due to the Low Pathogenicity Avian Influenza (LPAI) 10km away from our farm, we have taken precautionary measures by assigning Biosecurity Level 4...\"\n• Evidence 2: \"QL Poultry Farms Sdn. Bhd. received a score of 86% while QL Breeder Farm Sdn. Bhd. received a score of 78%\""
+    "justification": "• Evidence 1: \"The Group’s policy is to assume operational risks that are manageable within its core business competencies.\" (Discloses specific risks without overstatement)\n• Evidence 2: \"The Group is in the process of implementing the cybersecurity framework.\" (Acknowledges ongoing actions and uncertainties)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The terms of reference of RMU among others, are to: - Identify and communicate to the RMC...\" (Structured bullet points clarify responsibilities)\n• Evidence 2: \"The RMU of QL Resources Berhad comprises Executive Committee...\" (Clear, direct description of organizational structure)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group is exposed to various financial risks relating to foreign currency exchanges and credit risks.\" (Material risks relevant to investor decision-making)\n• Evidence 2: \"Going forward, the RMU and RMC will continuously be deliberating...\" (Forward-looking information about risk management enhancements)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board, Audit Committee, RMC and RMU meet on a quarterly basis to discuss strategic, operational, risk and control matters raised by the Management.\"\n• Evidence 2: \"The internal audit reports, summarising the observations of control weaknesses, recommendations for improvement and Management responses were presented to the Audit Committee on quarterly basis.\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"There are four levels in the rating system. At the lowest Level 1...\"\n• Evidence 2: \"Farm premises will be disinfected weekly, while the empty house will be disinfected twice...\""
-  },
-  "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"We gather information on poultry disease outbreak...\"\n• Evidence 2: \"QLPCOE audit report was tabled and discussed with the farm management.\""
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"In FY2019, there were no reported cases.\" (specific factual disclosure)\n• Evidence 2: \"The code of conduct is communicated to all employees.\" (objective, neutral statement with verifiable process)"
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"We do not accept a business if it means putting people at risk\" (precise, direct language)\n• Evidence 2: \"Table 4: Total amount of interest-free financial assistance\" (clear structure with quantitative data)"
+    "justification": "• Evidence 1: \"The key elements of the Group’s internal control processes are summarised as follows:\"\n• Evidence 2: \"Standard Operating Procedures are revised to meet the operational requirement, the business and statutory reporting needs when necessary.\""
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"QL Group contributed RM1 million to the trust fund\" (material event relevant to investors)\n• Evidence 2: \"The code of conduct is communicated to all employees\" (corporate governance detail)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 0, "justification": "• Evidence 1: [No specific facts or disclosures about sustainability practices, risks, or challenges]\n• Evidence 2: [No objective statements or neutral language provided]"},
-  "Understandability": {"score": 0, "justification": "• Evidence 1: [No precise, direct, or clear language explaining sustainability efforts]\n• Evidence 2: [No professional terms or structured explanations provided]"},
-  "Relevance": {"score": 0, "justification": "• Evidence 1: [No forward-looking information or risk disclosures]\n• Evidence 2: [No material events, corporate governance, or performance explanations provided]"}
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Scheduled waste disposal contractors are approved by the Department of Environment Malaysia... subject to regular internal reviews and audits by DOE.\"\n• Evidence 2: \"Main environmental issues are odour pollution... waste management is a critical consideration for the long-term growth and sustainability.\""
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Stored in appropriate containers and in secured storage areas\" (precise language).\n• Evidence 2: Tables with quantitative data (e.g., \"39,600 tonnes\", \"90% conversion rate\") provide clear metrics."
-  },
-  "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Increased wastewater treatment capacity from 2200m³/day to 3600m³/day\" (forward-looking operational adjustment).\n• Evidence 2: Tables showing manure conversion rates (56% to 90%) demonstrate performance trends relevant to investors."
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: 'In FY2019, our operations generated 249,973 tonnes of POME.' (specific factual data)\n• Evidence 2: 'Further information on the energy generated from our biogas plant is under the greenhouse gas emissions section.' (direct reference to supporting documentation)"
-  },
-  "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: 'The effluent from POA operations are discussed in the section shown below.' (clear reference to related content)\n• Evidence 2: 'Diagram 7: Average reading of BOD in POME (mg/L) at QL Plantation Sdn. Bhd.' (ambiguous diagram description lacking data points)"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: 'QL Plantation Sdn. Bhd. has made significant strides in the management of POME...' (practical operational information)\n• Evidence 2: 'Prior to discharge, we test the quality of our discharge and report the results to DOE...' (regulatory compliance relevance)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"GHG emissions have increased dramatically over the last century...\" (specific factual statement)\n• Evidence 2: \"This initiative is in line with the national target set by the Malaysian government for 50% of energy consumed to be derived from renewable energy sources by 2050.\" (specific policy reference)"
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Scope 1 emissions are generated primarily from fuel consumed by our machinery and vehicles, while Scope 2 emissions are generated mostly from electricity consumption.\" (clear definition of technical terms)\n• Evidence 2: \"Methane captured is converted into energy... sold to the local grid at a significantly higher tariff...\" (precise description of operational details)"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Climate change is exacerbating the challenges faced by the agriculture sector...\" (directly links to business impacts)\n• Evidence 2: \"We ensure our operations are well-equipped and informed to respond efficiently to extreme weather patterns...\" (forward-looking operational planning)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Odour pollution from manure is a significant area of concern at ILF.\" (acknowledges a challenge)\n• Evidence 2: \"Our efforts in Odour Management are recognised and acknowledged by Ministry of Agriculture and Agro-based Industry Malaysia.\" (specific factual recognition)"
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Closed House System adopted by all our farms with ventilation system consists of fan system, air inlets, evaporative cooling system, temperature control and thermostats.\" (clear structure but slightly technical)\n• Evidence 2: \"We utilise fermentation technology to convert the manure into organic fertiliser.\" (precise and direct explanation)"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Our poultry farm in Negeri Sembilan was awarded \"Outstanding Environmentally Friendly Farm...\" (material event relevant to investors)\n• Evidence 2: \"We work towards observing and complying with the following human right practices:\" (corporate governance relevance)"
+    "justification": "• Evidence 1: \"The Audit Committee assessed the overall adequacy and effectiveness of the system of internal controls of the Group and reports to the Board of Directors, in particular, the matters relating to significant risks\"\n• Evidence 2: \"Heads of business units present their strategies, annual budgets and capital expenditure proposals to the Executive Committee and the Board for deliberation and approval.\""
   }
 }
 
@@ -416,182 +590,15 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 5,
-    "justification": "• Evidence 1: The text provides specific percentages (e.g., 'Male 62%', 'Female 38%') without contextual verification or methodology, which limits reliability.\n• Evidence 2: No disclosure of risks, challenges, or uncertainties related to sustainability practices is present."
-  },
-  "Understandability": {
-    "score": 5,
-    "justification": "• Evidence 1: The text uses direct language but lacks clear structure (e.g., repeated headings like 'ILF Gender' and 'MPM Gender' without contextual explanation).\n• Evidence 2: Incomplete data entries (e.g., 'Contract (Temporary, Part-time) 16%' vs. 'Contract (Temporary, Part-time) 34%') and missing diagram references reduce clarity."
-  },
-  "Relevance": {
-    "score": 4,
-    "justification": "• Evidence 1: Employee demographics may be relevant to investors but lack explanation of how they relate to business performance or sustainability goals.\n• Evidence 2: No forward-looking information, risks, material events, or corporate governance details are included."
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"We are committed to providing a drug-free, safe and healthy work environment.\" (Specific factual statement about policy)\n• Evidence 2: \"Our employees are being periodically reminded of their responsibility to comply with our health and safety regulations.\" (Objective description of operational practice)"
+    "justification": "• Evidence 1: \"The Board is of the view that the risk management and internal control systems...adequate and effective\" (neutral assessment without overstatement)\n• Evidence 2: \"There have been no significant breakdowns or weaknesses...\" (discloses absence of issues but lacks specific risk details)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Safe and healthy environment is a key emphasis that is outlined in the QL Code of Conduct.\" (Clear connection between policy and code)\n• Evidence 2: \"The safety committee in the respective subsidiary plays an active role...\" (Direct explanation of governance structure)"
+    "justification": "• Evidence 1: \"The Group's system of internal control applies to QL Resources Berhad and its subsidiaries...\" (clear structure and direct explanation)\n• Evidence 2: \"the Group's interest is served through representations on the boards...\" (precise language with logical flow)"
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"Our employees are being periodically reminded...\" (Operational practice relevant to risk management)\n• Evidence 2: \"The safety committee... monitoring and ensuring compliance with local regulations.\" (Internal governance relevance, but lacks direct investor impact analysis)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The average incident rate in the ILF and POA business pillars has registered reductions.\" (specific factual data)\n• Evidence 2: \"we continue to have zero fatality\" (neutral, objective statement with verifiable outcome)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Incident Rate by Business Pillars\" table (clear structure with defined metrics)\n• Evidence 2: \"Safety Awareness Training\" section with purpose-of-training explanations (precise, direct language)"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The change of reporting incident rate is to provide more detailed insights\" (explains performance metric change)\n• Evidence 2: \"actions taken by the various businesses to improve workplace safety\" (relevant to investor risk assessment)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 0, "justification": "• Evidence 1: [No content provided]\n• Evidence 2: [No content provided]"},
-  "Understandability": {"score": 0, "justification": "• Evidence 1: [No content provided]\n• Evidence 2: [No content provided]"},
-  "Relevance": {"score": 0, "justification": "• Evidence 1: [No content provided]\n• Evidence 2: [No content provided]"}
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"QL talent retention approach includes providing employees with a competitive remuneration package and offering a suite of benefits that are benchmarked against market practices.\" (specific fact)\n• Evidence 2: \"The Company applied/adopted 32 out of the total of 36 recommended practices in the MCCG 2017.\" (quantifiable disclosure)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"QL’s sustained business success relies on having capable and competent employees equipped with the relevant knowledge, skills and experiences.\" (clear, direct language)\n• Evidence 2: \"The LEAD Programme has been designed around the concept of managing self, managing people and managing the business.\" (precise structure and logic)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"QL endeavours to improve and enhance our people practices, to achieve a long term and sustainable success for the entire QL group.\" (forward-looking investment-relevant information)\n• Evidence 2: \"The structured appraisal process performed annually encourages a more formal two-way communication between Managers and Employees.\" (material governance practice)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Audit Committee (AC) was established on 15 January 2000...\" (specific factual statement)\n• Evidence 2: \"With three (3) AC members...\" (compliance with listing requirements)"
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The present members of the Audit Committee comprise the following members...\" (clear structure and direct listing)\n• Evidence 2: \"The Executive Chairman...were present by invitation in all meetings.\" (precise role descriptions)"
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The Audit Committee...to assist the Board in its oversight of the Company’s financial reporting...\" (corporate governance relevance)\n• Evidence 2: \"held two -2 meetings with the External Auditors...\" (oversight process transparency)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'Reviewed and recommended the Quarterly and Annual Financial Statements... focusing particularly on... compliance with financial reporting standards and other regulatory or legal requirements' (neutral, objective disclosure of compliance checks)\n• Evidence 2: 'Assessed the objectivity, and independence of the External Auditors... including their appointment for non-audit services' (transparent evaluation of auditor independence)"
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The internal audit is risk-based and has incorporated the Group’s identified risks focusing on those which would have most impact to the business objectives' (clear structure and direct language)\n• Evidence 2: 'Reviewed non-current related party transactions to ascertain that it was undertaken at arms’ length' (precise explanation of transaction review criteria)"
-  },
-  "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: 'Reviewed and recommended the Statement on Corporate Governance, AC Report and Statement on Risk Management and Internal Control' (directly addresses investor-relevant governance and risk factors)\n• Evidence 2: 'Discussed with Internal Auditor pertaining to follow-up review and corresponding corrective actions taken by Management' (provides insight into internal control effectiveness for decision-making)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The activities undertaken by internal auditors are in conformance with the International Professional Practice Framework (IPPF) on Internal Auditing issued by the Institute of Internal Auditors (IIA)\" (specific standard adherence).\n• Evidence 2: \"Significant issues were identified and discussed with Management and proposed remedial actions were deliberated and monitored\" (objective disclosure of audit findings)."
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The scope of the planned independent audit assignments covered the following: -\" (clear structure with bullet points).\n• Evidence 2: \"The total cost incurred for the internal audit function is RM179,000\" (precise numerical disclosure)."
-  },
-  "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"The internal audit function provided the AC on a quarterly basis, an independent and objective report on the state of internal control...\" (corporate governance relevance).\n• Evidence 2: \"The extent of compliance with the Group’s established policies and procedures as well as relevant statutory requirements\" (policy compliance disclosure)."
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 1,
-    "justification": "• Evidence 1: No specific facts or disclosures about audit processes, risks, or uncertainties are provided.\n• Evidence 2: The text merely references a report title without substantive content."
-  },
-  "Understandability": {
-    "score": 2,
-    "justification": "• Evidence 1: The text contains no content to evaluate clarity or structure.\n• Evidence 2: The absence of substantive information prevents assessment of precise language or logical organization."
-  },
-  "Relevance": {
-    "score": 1,
-    "justification": "• Evidence 1: No investor-relevant information (e.g., risks, performance changes, governance) is included.\n• Evidence 2: The text only references a report title without any actionable or explanatory content."
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"internal controls can only provide reasonable and not absolute assurance against material misstatement or loss\"\n• Evidence 2: \"the Board recognises the review...is a concerted and continuous process, designed to manage rather than eliminate the risk of failure to achieve business objectives\""
-  },
-  "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board of Directors...acknowledges their responsibility...to safeguard shareholders' investments and the Group's assets\"\n• Evidence 2: \"the Board has received assurance from the Executive Committee...in all material aspects\""
-  },
-  "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"the Board's responsibilities...risk management and internal control system\"\n• Evidence 2: \"the Executive Committee consists of...heads of business units\""
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board has put in place an Enterprise Risk Management... in accordance with the Malaysian Code on Corporate Governance 2017\" (truthful, objective, and supported by specific facts).\n• Evidence 2: \"The Group is in the process of implementing the cybersecurity framework\" (discloses uncertainties and ongoing actions without overstatement)."
-  },
-  "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The terms of reference of RMU among others, are to: - Identify...\" (clear structure with bullet points for roles).\n• Evidence 2: \"The key aspects of the risk management process are as follows: - Emerging...\" (logical flow with precise, direct language)."
-  },
-  "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Group’s activities expose it to the following principal risks: - Operational Risk...\" (material risks relevant to investors' decision-making).\n• Evidence 2: \"Enterprise Risk Management refresher trainings... as part of the ERM awareness enhancement activity\" (forward-looking information and governance relevance)."
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The internal audit reports, summarising the observations of control weaknesses, recommendations for improvement and Management responses were presented to the Audit Committee on quarterly basis.\"\n• Evidence 2: \"The authority limits delineate authorisation limits for various level of management and matters reserved for collective decision by the Board to ensure proper identification of accountabilities and segregation of duties.\""
-  },
-  "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board, Audit Committee, RMC and RMU meet on a quarterly basis to discuss strategic, operational, risk and control matters raised by the Management.\"\n• Evidence 2: \"Standard Operating Procedures are revised to meet the operational requirement, the business and statutory reporting needs when necessary.\""
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board has delegated its responsibility to several committees and to the Management of the Company to implement and monitor designated tasks.\"\n• Evidence 2: \"The review of strategy and annual budget is undertaken by Management on half yearly basis.\""
+    "justification": "• Evidence 1: \"The Group's system of internal control applies to QL Resources Berhad and its subsidiaries...\" (relevant to corporate governance)\n• Evidence 2: \"the Group continues to take the necessary measures...\" (addresses ongoing internal control relevance)"
   }
 }
 
@@ -599,30 +606,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 6,
-    "justification": "• Evidence 1: \"The Board is of the view that the risk management and internal control systems... adequate and effective\" (overstates effectiveness without evidence).\n• Evidence 2: \"There have been no significant breakdowns or weaknesses...\" (specific fact but lacks risk disclosure)."
+    "justification": "• Evidence 1: \"The shareholders of the Company approved the Proposed Renewal of Shareholders’ Mandate for RRPT...\" (neutral factual disclosure)\n• Evidence 2: \"In compliance with Main Market Listing Requirements...\" (objective compliance statement)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Group's system of internal control applies to QL Resources Berhad and its subsidiaries\" (clear structure).\n• Evidence 2: \"This Statement... approved by the Board on 5 July 2019\" (precise date but lacks contextual explanation)."
-  },
-  "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"The Group continues to take the necessary measures...\" (implies ongoing governance relevance).\n• Evidence 2: \"Associated companies have been excluded...\" (corporate governance detail but no material event/risk disclosure)."
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The shareholders of the Company approved the Proposed Renewal of Shareholders’ Mandate for RRPT...\" (neutral factual disclosure)\n• Evidence 2: \"During the financial year under review, there were no...\" (specific factual statement)"
-  },
-  "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The amount of audit fees and non-audit fees...\" (clear numerical structure)\n• Evidence 2: \"Directors are required by Companies Act 2016...\" (direct language with legal reference)"
+    "justification": "• Evidence 1: \"The amount of audit fees and non-audit fees...\" (clear numerical structure)\n• Evidence 2: \"Directors are required by Companies Act 2016...\" (precise legal reference)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Company is also seeking shareholders’ approval...\" (forward-looking information)\n• Evidence 2: \"In compliance with Main Market Listing Requirements...\" (material event disclosure)"
+    "justification": "• Evidence 1: \"The details of the RRPT entered into...are included in the Circular to Shareholders\" (material transaction disclosure)\n• Evidence 2: \"During the financial year under review, there were no...\" (risk-related absence of material contracts)"
   }
 }

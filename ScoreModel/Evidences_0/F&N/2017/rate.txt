@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.25,
+    "justification": "The Reliability score is calculated by averaging the four evaluations. The first two scorers assigned 9, citing audit committee reports and specific financial figures, while the third scorer gave 7, emphasizing specific factual disclosures and acknowledgment of limitations. The fourth scorer provided an 8, referencing neutral assessments and verifiable documentation. The final score of 8.25 reflects the majority of high scores and the inclusion of detailed, verifiable information, while balancing the third scorer's lower score due to perceived gaps in risk disclosure."
+  },
+  "Relevance": {
+    "score": 7.75,
+    "justification": "The Relevance score averages the four evaluations. The first and fourth scorers gave 8 and 9, respectively, due to direct relevance to investor concerns (e.g., explanations of performance changes, related party disclosures). The second and third scorers gave 7, citing risk management information and governance actions. The score of 7.75 reflects the high relevance in critical areas like material disclosures and moderate relevance in other sections, with a compromise between conflicting assessments."
+  },
+  "Understandability": {
+    "score": 7.5,
+    "justification": "The Understandability score averages the four evaluations. The first and third scorers gave 7 and 8, highlighting structured breakdowns and precise terminology. The second and fourth scorers gave 8 and 7, emphasizing logical flow and defined processes. The score of 7.5 acknowledges clarity in sections like the Management Discussion & Analysis while noting the density of technical language in governance sections, which slightly reduced the overall score."
+  }
+}

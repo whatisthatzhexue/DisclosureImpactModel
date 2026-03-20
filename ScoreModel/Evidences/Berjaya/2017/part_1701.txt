@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"registered a higher revenue of RM605.44 million as compared to a revenue of RM554.36 million recorded in the previous financial year mainly due to additional cafes operating in the financial year under review\"\n• Evidence 2: \"pre-tax profit was lower...mainly due to weaker consumer sentiments which impacted the expansion plans...and Consequently, the Group incurred losses relating to the impairment of fixed assets and intangible assets\""
+    "justification": "• Evidence 1: \"registered a higher revenue of RM605.44 million as compared to a revenue of RM554.36 million\" (specific factual comparison)\n• Evidence 2: \"weaker consumer sentiments which impacted the expansion plans... and Consequently, the Group incurred losses relating to the impairment of fixed assets and intangible assets\" (discloses risks and objective outcomes)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"higher revenue...RM605.44 million as compared to...RM554.36 million\" (precise numerical comparisons)\n• Evidence 2: \"weaker consumer sentiments which impacted the expansion plans...and Consequently, the Group incurred losses\" (clear logical flow)"
+    "score": 8,
+    "justification": "• Evidence 1: \"For the financial year ended 30 April 2017, BFood registered a higher revenue...\" (clear temporal context and direct language)\n• Evidence 2: \"pre-tax profit was lower... mainly due to weaker consumer sentiments\" (precise cause-effect explanation with specific figures)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"pre-tax profit was lower...mainly due to weaker consumer sentiments which impacted the expansion plans...\" (explains performance change)\n• Evidence 2: \"the Group incurred losses relating to the impairment of fixed assets and intangible assets\" (discloses material risks)"
+    "justification": "• Evidence 1: \"mainly due to additional cafes operating... and Consequently, the Group incurred losses...\" (explains performance changes with material factors)\n• Evidence 2: \"weaker consumer sentiments which impacted the expansion plans...\" (includes risks affecting future performance)"
   }
 }

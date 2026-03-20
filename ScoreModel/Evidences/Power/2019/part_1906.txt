@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Board has formalised the sustainability principles...\" (specific factual statement about governance structure)\n• Evidence 2: \"The SRMC... is tasked with the following duties:\" (clearly defined responsibilities without overstatement)"
+    "justification": "• Evidence 1: \"The Board has formalised the sustainability principles...\" (neutral, factual description of governance structure)\n• Evidence 2: \"The SRMC... is tasked with the following duties:\" (specific roles without overstatement)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The governance structure defines clearly on the roles and responsibilities...\" (precise language with logical structure)\n• Evidence 2: \"To conduct periodic review...\" (direct, actionable descriptions with clear hierarchy)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The governance structure defines clearly on the roles and responsibilities...\" (direct explanation of responsibilities)\n• Evidence 2: Bullet points under SRMC duties (logical structure with precise language)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"The SRMC... implements the material indicators on sustainability matters...\" (relevant to investor decision-making about performance metrics)\n• Evidence 2: \"Board of Directors... Audit Committee\" (corporate governance structure relevant to accountability)"
+    "justification": "• Evidence 1: \"Board assumes the ultimate responsibility...\" (corporate governance relevance)\n• Evidence 2: \"To implement the material indicators...\" (sustainability performance monitoring relevant to investors)"
   }
 }

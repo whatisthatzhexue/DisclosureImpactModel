@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"100% Berjaya Food (International) Sdn Bhd\" (specific factual ownership details)\n• Evidence 2: No subjective language or overstatements, but lacks disclosure of risks/challenges (as required by criteria)"
+    "justification": "• Evidence 1: \"100% Berjaya Food (International) Sdn Bhd\" (specific factual ownership details)\n• Evidence 2: \"51% PT Boga Lestari Sentosa\" (precise ownership percentage disclosure)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"100% Berjaya Food Trading Sdn Bhd\" (clear ownership percentages)\n• Evidence 2: Direct structure showing parent-subsidiary relationships without redundant or obscure expressions"
+    "score": 8,
+    "justification": "• Evidence 1: \"100% Berjaya Food Trading Sdn Bhd\" (clear ownership structure)\n• Evidence 2: \"80% Berjaya Food Supreme Sdn Bhd\" (precise percentage formatting)"
   },
   "Relevance": {
-    "score": 4,
-    "justification": "• Evidence 1: No explanation of performance changes or forward-looking information\n• Evidence 2: Lacks disclosure of risks, material events, or corporate governance elements required for investor decision-making"
+    "score": 5,
+    "justification": "• Evidence 1: \"Corporate Structure\" section (basic ownership disclosure relevant to investors)\n• Evidence 2: No mention of risks, material events, or governance (missing key relevance elements)"
   }
 }

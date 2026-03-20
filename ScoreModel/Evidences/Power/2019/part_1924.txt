@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The principles... guided by ISO 31000:2018 – Risk Management Guidelines\" [specific standard referenced]\n• Evidence 2: \"Key Risks Register are used for the identification of high residual risks... requires the Risk Management Committee and the Board’s immediate attention\" [transparent disclosure of risk thresholds]"
+    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical...\" (neutral, objective disclosure of risk management importance)\n• Evidence 2: \"Risk assessment at gross and residual level are guided by the likelihood rating...\" (specific facts about risk evaluation methodology)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The roles and responsibilities of Risk Management Committee includes the following: a) Implement...\" [clear structure with numbered list]\n• Evidence 2: \"Risk assessment at gross and residual level are guided by the likelihood rating and impact rating\" [precise terminology with contextual explanation]"
+    "justification": "• Evidence 1: \"The roles and responsibilities of Risk Management Committee includes the following:\" (clear structure with numbered list)\n• Evidence 2: \"Key Risks Register are used for the identification of high residual risks...\" (precise explanation of risk register purpose)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Explains reasons for performance changes\" [indirectly addresses risk management processes affecting performance]\n• Evidence 2: \"Includes risks, material events, corporate governance...\" [explicit mention of governance structures and risk monitoring]"
+    "score": 7,
+    "justification": "• Evidence 1: \"The roles and responsibilities of Head of Departments...\" (explains risk ownership structure relevant to investors)\n• Evidence 2: \"Review the Key Risks Register...report to the Audit Committee and Board\" (directly relevant to corporate governance and risk oversight)"
   }
 }

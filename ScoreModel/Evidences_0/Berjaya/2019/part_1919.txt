@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The presence of three (3) Independent Non-Executive Directors is sufficient to provide the required checks and balances on the decision making process of the Board.\" (Specific factual statement about board structure)\n• Evidence 2: \"The Board will periodically review the Code of Conduct.\" (Demonstrates ongoing transparency and accountability)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board has established the following Board Committees which consist of a majority of Non-Executive Directors to support the Board in discharging its oversight function.\" (Clear structure with explicit roles)\n• Evidence 2: \"The Board meets regularly on a quarterly basis.\" (Precise, direct language about meeting frequency)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board will ensure that the strategic plans of the Company and the Group supports long term value creation...\" (Forward-looking information relevant to investors)\n• Evidence 2: \"The Company is committed to maintaining an environment of respect for people regardless of their gender...\" (Material governance policy relevant to stakeholders)"
+  }
+}

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"BJoybean registered a higher revenue of RM0.40 million compared to RM0.22 million in the previous financial year.\" (specific factual comparison)\n• Evidence 2: \"The slight reduction in loss before tax... was due to the strategic closure of all non-performing outlets and a comprehensive restructuring...\" (causal explanation with specific actions)"
+    "score": 8,
+    "justification": "• Evidence 1: \"BJoybean incurred a loss before tax of RM0.42 million during the financial year under review, showing a slight improvement compared to a loss before tax of RM0.46 million in the previous financial year.\" (specific factual comparison)\n• Evidence 2: \"The slight reduction in loss before tax... was due to the strategic closure of all non-performing outlets and a comprehensive restructuring of the business model.\" (disclosure of operational challenges)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BJoybean embarked on a successful venture, launching and commencing supply operations to selected 7CAFés...\" (clear, direct explanation of operational changes)\n• Evidence 2: \"This approach aligns with our growth objectives...\" (precise linkage between strategy and goals)"
+    "score": 9,
+    "justification": "• Evidence 1: \"For the financial year ended 30 June 2023, BJoybean registered a higher revenue of RM0.40 million compared to RM0.22 million in the previous financial year.\" (precise numerical data)\n• Evidence 2: \"Our strategy ahead involves the ongoing supply to the 7CAFés as well as actively exploring opportunities for distribution point expansion...\" (clear, direct language)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Revenue growth was due to distribution point expansion... optimisation of production capacity.\" (explains performance drivers)\n• Evidence 2: \"anticipates an improved business performance... actively exploring opportunities for distribution point expansion\" (forward-looking information with strategic focus)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue growth was due to distribution point expansion... optimisation of production capacity.\" (explains performance change)\n• Evidence 2: \"Anticipates an improved business performance... actively exploring opportunities for distribution point expansion\" (forward-looking information)"
   }
 }

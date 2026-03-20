@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Group adopts an Enterprise Risk Management (\"ERM\") framework, in accordance with the Malaysian Code on Corporate Governance 2012\" (specific regulatory reference)\n• Evidence 2: \"The Group has a Risk Management Department (\"RM\")... that acts as a central contact and guide for ERM issues\" (neutral description of structure)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group has a Risk Management Department... reports functionally to the RMC and Audit Committee.\" (specific structure and accountability)\n• Evidence 2: \"There have been no significant breakdowns...\" (explicit statement of system adequacy, though lacks balance with risks)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows:\" (clear subheading structure)\n• Evidence 2: \"The RM reports functionally to the RMC and Audit Committee\" (precise role description)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows:\" (clear structure with numbered list)\n• Evidence 2: \"The RM facilitates and supervises implementation...\" (precise description of roles)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Group is exposed to various financial risks relating to foreign currency risks, credit risks, interest rate risks, liquidity risks and commodity prices\" (material risk disclosure)\n• Evidence 2: \"The RMC meets to review the status of risk reviews... and presents to the Audit Committee\" (governance process relevance)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group is exposed to various financial risks...\" (material risks disclosure)\n• Evidence 2: \"Utilising ERM Software System...\" (forward-looking strategic plans for risk management)"
   }
 }

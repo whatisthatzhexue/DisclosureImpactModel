@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BFood was incorporated in Malaysia on 21 October 2009.\" (specific factual dates)\n• Evidence 2: \"BStarbucks is now a 100% owned subsidiary of BFood.\" (clear ownership disclosure)"
+    "score": 7,
+    "justification": "• Evidence 1: \"was incorporated in Malaysia on 21 October 2009\" (specific factual dates)\n• Evidence 2: \"disposed of its entire stake in PT Boga\" (objective transaction disclosure)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"On 24 November 2017, Berjaya Food (International) Sdn Bhd disposed of its entire stake in PT Boga.\" (precise, direct language)\n• Evidence 2: \"As of 30 June 2019, there are 10 Starbucks Reserve stores in Malaysia.\" (clear numerical data)"
+    "score": 8,
+    "justification": "• Evidence 1: \"11,500,000 ordinary shares of RM1.00 each, representing 50% equity interest\" (precise numerical details)\n• Evidence 2: \"world’s first Starbucks Signing Store\" (clear conceptual explanation)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"BStarbucks opened the first Starbucks Reserve concept store as part of its commitment to push the premium coffee experience.\" (forward-looking intent)\n• Evidence 2: \"The company also operates the world’s first Starbucks Signing Store...\" (material event with social impact)"
+    "justification": "• Evidence 1: \"there are a total of 291 stores nationwide\" (material operational data)\n• Evidence 2: \"opened the first Starbucks Reserve concept store\" (forward-looking strategic initiative)"
   }
 }

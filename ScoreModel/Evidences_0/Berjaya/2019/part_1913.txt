@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"99% of Starbucks coffee are verified as ethically sourced under C.A.F.E. Practices\" (specific fact)\n• Evidence 2: \"RM789.0 million (FYE 2018 RM639.7 million)\" (numerical data supporting financial reliability)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks has implemented the Inventory Management System to increase efficiency\" (clear, direct language)\n• Evidence 2: \"1,186,273 (increase of 37.5%) customers used Starbucks tumblers\" (precise numerical context)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"REVENUE RM789.0 million (FYE 2018 RM639.7 million)\" (financial metrics relevant to investors)\n• Evidence 2: \"global goal to eliminate single-use straws worldwide by 2020\" (forward-looking strategic initiative)"
+  }
+}

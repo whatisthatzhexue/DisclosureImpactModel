@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Wong Tak Keong @ 585\" (specific transaction value)\n• Evidence 2: \"the decision of the Option Committee shall be final...\" (objective procedural description)"
+  },
+  "Understandability": {
+    "score": 4,
+    "justification": "• Evidence 1: \"t 3FDVSSFOU3FMBUFE1BSUZ5SBOTBDUJPOTPGB3FWFOVFPS5SBEJOH (cont’d)\" (garbled text)\n• Evidence 2: \"the total number of new shares... must not exceed 15%\" (complex percentage requirement)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Name of Related Party Nature of RRPT\" (material related party disclosure)\n• Evidence 2: \"the total number of new shares... must not exceed 15%\" (share issuance restriction relevant to investors)"
+  }
+}

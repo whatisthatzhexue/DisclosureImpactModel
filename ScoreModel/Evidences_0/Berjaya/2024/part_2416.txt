@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"In July 2024, BFood introduced a leaner governance structure with clear accountability.\" (specific fact)\n• Evidence 2: \"Insights gleaned from various sustainability tools and activities, including internal audits and compliance processes, are pivotal in effectively monitoring the Group's sustainability performance.\" (objective description without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board of Directors remains the highest governance body that provides advisory and approves BFood's sustainability development strategy and targets.\" (clear role definition)\n• Evidence 2: \"Heads of operating entities are accountable for coordinating and achieving Group sustainable development targets...\" (precise responsibility allocation)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The Board Sustainability Committee... delivers proposals within its scope of action.\" (governance structure relevant to investors)\n• Evidence 2: \"Crucial instructions and training on the Code of Conduct... reinforce clearly defined responsibilities.\" (internal management practices relevant to decision-making)"
+  }
+}

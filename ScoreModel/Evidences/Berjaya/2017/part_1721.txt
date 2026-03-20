@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Company’s quarterly financial reporting... in compliance with the Malaysian Financial Reporting Standard 134...\" (truthful, objective disclosure of compliance)\n• Evidence 2: \"However, there was no major issue raised during the private session.\" (neutral, factual reporting of audit findings)"
+    "justification": "• Evidence 1: \"The Company’s quarterly financial reporting...compliance with the Malaysian Financial Reporting Standard 134...International Accounting Standard 34...Listing Requirements\" (neutral, objective, specific standards)\n• Evidence 2: \"there was no major issue raised during the private session\" (discloses challenges, factual)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Reviewed and made recommendations... for the financial year ended 30 April 2016\" (clear, direct language about audit processes)\n• Evidence 2: \"The framework set up for identifying...\" (structured explanation of RRPT monitoring)"
+    "justification": "• Evidence 1: \"Reviewed the Internal Audit Reports...audit findings and recommendations...Management’s responses thereto\" (clear structure, precise language)\n• Evidence 2: \"fraud consideration and the risk of management override\" (specific terms used where necessary)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Reviewed the 2016 Circular... minority shareholders\" (material information about related party transactions)\n• Evidence 2: \"Discussed and considered the significant accounting adjustments...\" (relevant audit risk disclosures)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the 2016 Circular to Shareholders...not to the detriment of, the minority shareholders\" (material risks, corporate governance)\n• Evidence 2: \"audit materiality, areas of focus...new and revised auditors reporting standards\" (regulatory compliance, investor decision-making)"
   }
 }

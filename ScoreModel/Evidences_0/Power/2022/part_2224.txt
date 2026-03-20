@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The principles, practices and processes of the Group Risk Management Framework established by the Board are, in all material aspects, guided by ISO 31000:2018 – Risk Management Guidelines.\"\n• Evidence 2: \"The Group Risk Management Framework clearly defines the risk management objectives and processes, along with clear roles and responsibilities of the Board, Audit Committee, Internal Audit Function, SRMC and risk owners.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The roles and responsibilities of the SRMC include the following: a. implement the Group Risk Management Framework... b. implement the risk management process...\"\n• Evidence 2: \"The structured risk management process as defined in the Group Risk Management Framework is employed by the SRMC and the risk owners for risk and improvement opportunity identification, evaluation, control identification, treatment and monitoring activities.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical in the pursuit of its strategic objectives...\"\n• Evidence 2: \"The risk owners are responsible for managing the risks under their responsibilities... Changes in the key risks or emergence of new risks are identified through daily operational management...\""
+  }
+}

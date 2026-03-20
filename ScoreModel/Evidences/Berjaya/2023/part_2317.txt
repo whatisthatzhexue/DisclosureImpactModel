@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 4,
-    "justification": "• Evidence 1: \"BFood ensures that its sustainability practices contribute to local stakeholders and towards larger goals.\" (Vague claim with no supporting data)\n• Evidence 2: \"In compliance with the Malaysian Code on Corporate Governance\" (Specific fact but lacks contextual depth)"
+    "score": 3,
+    "justification": "• Evidence 1: \"BFood ensures that its sustainability practices contribute to local stakeholders and towards larger goals.\" (General statement with no specific facts)\n• Evidence 2: \"In compliance with the Malaysian Code on Corporate Governance\" (Single compliance mention without risk disclosure)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Sustainability Pillar Focus Area What it means to BFood GRI Topics Corresponding UNSDGs\" (Poorly formatted table headers)\n• Evidence 2: \"Non-GRI topic\" (Clear but isolated technical term without explanation)"
+    "score": 5,
+    "justification": "• Evidence 1: \"Sustainability Pillar\", \"Focus Area\", \"GRI Topics\" (Clear table structure headers)\n• Evidence 2: \"Non-GRI topic\" (Ambiguous classification requiring contextual knowledge)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Corporate governance Manage its business strategy...\" (Relevant to investor concerns about governance)\n• Evidence 2: \"Malaysian Code on Corporate Governance\" (Relevant regulatory context but no material event disclosures)"
+    "score": 4,
+    "justification": "• Evidence 1: \"maps each material matter against the GRI and corresponding United Nations Sustainable Development Goals\" (Relevant for investor assessment)\n• Evidence 2: \"Corporate governance\" (Governance-related information relevant to investors)"
   }
 }

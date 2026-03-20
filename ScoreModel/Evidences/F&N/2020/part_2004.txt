@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"F&NHB concluded FY2020 with a resilient performance sustained by stronger performance in the first quarter and recovery in the fourth quarter, as well as a generally robust Exports performance.\" (specific performance metrics)\n• Evidence 2: \"Profit after tax (PAT), meanwhile, came in at RM410.1 million, almost mirroring the RM410.2 million achieved in FY2019 despite continuing uncertainty and commodity price pressures.\" (discloses risks and challenges)"
+    "justification": "• Evidence 1: \"revenue contracted minimally by 2.2 per cent, from RM4.08 billion in FY2019 to RM3.99 billion\" (specific financial data)\n• Evidence 2: \"continuing uncertainty and commodity price pressures\" (disclosure of risks and challenges)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Revenue contracted minimally by 2.2 per cent, from RM4.08 billion in FY2019 to RM3.99 billion.\" (precise numerical data)\n• Evidence 2: \"We aim to set up more international offices, following the Dubai model.\" (clear, direct language)"
+    "score": 7,
+    "justification": "• Evidence 1: \"F&NHB concluded FY2020 with a resilient performance sustained by stronger performance in the first quarter and recovery in the fourth quarter\" (clear explanation of performance drivers)\n• Evidence 2: \"Exports accounted for 20 per cent of the Group’s total revenue in FY2020\" (precise numerical context)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Exports accounted for 20 per cent of the Group’s total revenue in FY2020, up from 18 per cent in FY2019.\" (material financial information)\n• Evidence 2: \"Our goal is to be more significant in significant markets.\" (forward-looking strategic direction)"
+    "justification": "• Evidence 1: \"We would have overachieved our target Group export sales of RM800 million in FY2020 under normal circumstances\" (explains performance context)\n• Evidence 2: \"aim to set up more international offices, following the Dubai model\" (forward-looking strategic information)"
   }
 }

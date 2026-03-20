@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Any inappropriate restrictions on audit scope are to be reported to the Committee.\"\n• Evidence 2: \"To review the quarterly and annual financial statements... focusing particularly on... compliance with accounting standards and other legal requirements\""
+    "justification": "• Evidence 1: \"the Internal Auditor shall report directly to the Committee\" (neutral, factual description of reporting lines)\n• Evidence 2: \"Any inappropriate restrictions on audit scope are to be reported to the Committee\" (transparent disclosure of accountability mechanisms)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"To review the quarterly and annual financial statements of the Company, before the approval of the Board of Directors, focusing particularly on...\" (clear structure with specific tasks)\n• Evidence 2: \"To ensure that the system of internal control is soundly conceived and in place...\" (precise language with actionable objectives)"
+    "justification": "• Evidence 1: \"To review the quarterly and annual financial statements... focusing particularly on...\" (clear, structured explanation of responsibilities)\n• Evidence 2: \"To ensure that the system of internal control is soundly conceived...\" (precise language with logical progression of requirements)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"To review any related party transaction and conflict of interest situation...\" (directly addresses governance and risk)\n• Evidence 2: \"To review, on an annual basis, the principal risks identified by Management...\" (provides insight into risk management processes)"
+    "score": 8,
+    "justification": "• Evidence 1: \"To review any related party transaction and conflict of interest...\" (directly addresses corporate governance and risk factors)\n• Evidence 2: \"To review, on an annual basis, the principal risks...\" (provides material risk disclosure relevant to investor decision-making)"
   }
 }

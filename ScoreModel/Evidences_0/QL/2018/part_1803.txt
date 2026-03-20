@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"This Statement has been prepared in accordance with the Main Market Listing Requirements...\" (neutral, objective compliance statement)\n• Evidence 2: \"QL Poultry Farm Sdn Bhd and QL Breeder Farm Sdn Bhd offer different types of poultry farming activities...\" (specific factual disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Statement is structured into four sections...\" (clear organizational framework)\n• Evidence 2: \"Table 1: Stakeholder engagement modes, focus areas & responses\" (direct, tabular presentation of information)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL acknowledges that stakeholders significantly contribute towards the sustainable growth of QL...\" (stakeholder focus relevant to investors)\n• Evidence 2: \"Our materiality process is presented as follows: Diagram 2...\" (materiality assessment relevant to risk evaluation)"
+  }
+}

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The ERM Validation Report summarises the risk management activities conducted and implementation of GRMF during the financial year...\" (specific process and documentation)\n• Evidence 2: \"Changes to risk profiles and emerging risks are also identified and promptly brought to the attention of the Board...\" (disclosure of risks and transparency)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The ERM Validation Report summarises the risk management activities conducted and implementation of GRMF during the financial year whilst the Comfort Matrix sets out the key financial, compliance, operational, and information technology risks of the Group...\" \n• Evidence 2: \"The Board receives assurance from the CEO and Chief Financial Officer (\"CFO\") that the risk management and internal control system in place for the Group is adequate and effective...\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Risk identification and assessment• The ERM process begins with the business strategies and objectives setting...\" (clear structure with bullet points)\n• Evidence 2: \"Key Risk Indicators (\"KRIs\"), presented in the form of Key Risk Dashboard...\" (precise terminology with explanations)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Risk appetite and risk tolerance statements...are reviewed by the SRMC and approved by the Board annually.\" \n• Evidence 2: \"Key Risk Indicators (\"KRIs\"), presented in the form of Key Risk Dashboard...\""
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"For discussion on assessment of key risk areas...refer to Management Discussion & Analysis section...\" (direct linkage to investor-relevant analysis)\n• Evidence 2: \"The risks identified are reported under the following categories: Corporate & Strategic...\" (material risk categorization for decision-making)"
+    "justification": "• Evidence 1: \"The risks identified are reported under the following categories: Corporate & Strategic Compliance Operational Financial Information Technology Reputational.\" \n• Evidence 2: \"For discussion on assessment of key risk areas and the controls in place...refer to Management Discussion & Analysis section of the Annual Report.\""
   }
 }

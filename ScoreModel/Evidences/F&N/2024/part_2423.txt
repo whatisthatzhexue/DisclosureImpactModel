@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"nearly all key suppliers have already met this commitment\" (specific fact with quantifiable progress).\n• Evidence 2: \"rigorous risk management framework\" (objective statement supported by screening, audits, and capacity-building activities)."
+    "score": 7,
+    "justification": "• Evidence 1: \"nearly all key suppliers have already met this commitment\" (specific fact without overstatement)\n• Evidence 2: \"employs a rigorous risk management framework\" (objective statement with actionable process)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: Clear structure with headings (e.g., \"Responsible Supply Chain\") and bullet points for key metrics (e.g., 99.7% supplier compliance).\n• Evidence 2: Direct language explaining initiatives like SEDEX, RSPO, and FSC certifications without excessive jargon."
+    "justification": "• Evidence 1: \"99.7% of our active key suppliers accepted...\" (precise numerical data)\n• Evidence 2: \"Responsible Supply Chain\" section with bullet points (clear structure for key metrics)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: Forward-looking goals (e.g., 100% SCOP compliance by 2025) and initiatives aligned with investor interests (e.g., ESG projects, supplier awards).\n• Evidence 2: Metrics on supplier compliance and local procurement (e.g., 93% of expenditure to local suppliers) provide actionable insights for stakeholders."
+    "justification": "• Evidence 1: \"Our ambitious goal is for 100% of active key suppliers... by 2025\" (forward-looking information for investors)\n• Evidence 2: \"Collaborating with local and global suppliers... support the growth...\" (links sustainability to business strategy)"
   }
 }

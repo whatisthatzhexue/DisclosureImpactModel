@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The outlook for POCE is projected to be negative.' (Discloses a clear risk)\n• Evidence 2: 'We experienced high turnover in the workforce... maintaining the expected quality of service was a challenge.' (Acknowledges operational challenges)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Revenue increased 35.2% to RM861.02 million while PBT grew marginally at 1.7% to RM43.75 million.' (Clear numerical presentation)\n• Evidence 2: 'The World Meteorological Organization updated that the El Niño phenomenon is developing...' (Direct explanation of climate impact)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Financial Performance: The MPM business pillar performance recovered, with YoY revenue rising 15.2% to RM1.34 billion...' (Material financial data for investors)\n• Evidence 2: 'The outlook for POCE is projected to be negative.' (Forward-looking risk disclosure)"
+  }
+}

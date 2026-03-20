@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"endorsed by the Ministry of Health’s Healthier Choice Logo (HCL)\" (specific factual claim)\n• Evidence 2: \"F&N 25% Reduced Sugar Sweetened Creamer... 4.3g of protein per 100g\" (quantifiable nutritional data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N MAGNOLIA PASTEURISED FULL CREAM MILK 1L... MAXIMISES CALCIUM ABSORPTION\" (clear product description)\n• Evidence 2: \"reached six million Consumer Reach Points... 45 per cent increase\" (precise metric presentation)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N Teh Tarik ORI Troopers went around Klang Valley... distributing the product\" (market engagement details)\n• Evidence 2: \"Top Growing Brand in the Dairy Sector 2022... 45 per cent increase\" (forward-looking growth metrics)"
+  }
+}

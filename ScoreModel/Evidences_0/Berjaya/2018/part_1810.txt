@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: RM639.7 million (FYE 2017 - RM605.4 million) [specific financial figures]\n• Evidence 2: 1,281.8% (FYE 2017 – 114.5%) [dividend payout rate with historical comparison]"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: 'BFood’s financial performance highlights for FYE 2018' [clear section heading]\n• Evidence 2: 'RM43,850 worth of raw bananas' [precise monetary value]"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'BFood is working to shrink its environmental footprint' [directly ties to investor concerns]\n• Evidence 2: 'strive to increase the number of Starbucks stores retailing mengkuang-based products' [forward-looking operational plan]"
+  }
+}

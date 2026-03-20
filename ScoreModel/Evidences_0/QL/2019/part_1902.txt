@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL has consistently retained its largest surimi producer in Southeast Asia title.\" (specific factual claim)\n• Evidence 2: \"Downstream production facilities are HACCP certified... comply with the US Department of Agriculture or EU regulations.\" (objective, verifiable information)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our business in MPM spans the entire value chain from source to customers.\" (clear structure)\n• Evidence 2: \"The chilled surimi plant doubled production capacity to 25,000 metric tonnes a year\" (precise numerical data)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL is setting aside approximately RM7 million to explore... higher quality fishmeal\" (forward-looking investment information)\n• Evidence 2: \"New RM100-million investment... completed in March 2018\" (material event with quantitative details)"
+  }
+}

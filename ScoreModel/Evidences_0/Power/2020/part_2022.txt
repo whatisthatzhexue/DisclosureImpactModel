@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The in-house internal audit function and the outsourced internal audit function reports to the Audit Committee directly...\" (neutral, factual description of reporting structure)\n• Evidence 2: \"the Audit Committee is satisfied that...\" (objective conclusion based on evaluation, no overstatement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The in-house internal audit function comprises one (1) Senior Internal Audit Manager and four Internal Audit Executives.\" (clear structure with specific numbers)\n• Evidence 2: \"Internal audits are carried out by both... in accordance with the International Professional Practices Framework...\" (precise language with reference to established standards)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group relies on the internal audit function to provide the Board...\" (directly addresses corporate governance and risk management, relevant to investors)\n• Evidence 2: \"the Audit Committee conducted a formal evaluation... per Corporate Governance Guide...\" (shows compliance with regulatory requirements, relevant to investor decision-making)"
+  }
+}

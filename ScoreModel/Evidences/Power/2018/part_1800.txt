@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Power Root ME FZCO shall receive all profits or ownerships of assets and liable for all losses or liabilities of P.R. Manufacturing ME LLC\" (factual statement with no overstatement)\n• Evidence 2: No risks, challenges, or uncertainties are explicitly disclosed in the text"
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root ME FZCO shall receive all profits or ownerships of assets and liable for all losses or liabilities of P.R. Manufacturing ME LLC\" (specific factual statement about corporate structure)\n• Evidence 2: No explicit risks or uncertainties are disclosed, limiting depth of reliability"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Customised motorbikes were the main prizes in our Beli & Menang give-away\" (clear, direct language)\n• Evidence 2: \"We played our part in cultivating a reading habit...\" (precise description of event purpose)"
+    "score": 7,
+    "justification": "• Evidence 1: Clear section headings (e.g., \"Corporate Structure\", \"Significant Events\") organize information logically\n• Evidence 2: Some repetitive \"cont’d\" headers and verbose phrasing (e.g., \"With extensive on-screen branding time...\") may reduce clarity"
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"Marketing activities this year were built around... MENA\" (relevant to investor understanding of market strategy)\n• Evidence 2: No forward-looking information or material risks are explicitly included"
+    "justification": "• Evidence 1: Marketing activities and sponsorships (e.g., \"Alicafe and Extra Power Root were the main sponsors...\") provide insight into brand exposure\n• Evidence 2: Lacks forward-looking information, financial performance details, or risk disclosures critical for investor decision-making"
   }
 }

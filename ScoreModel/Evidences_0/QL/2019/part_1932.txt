@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee (AC) was established on 15 January 2000...\" (specific factual statement)\n• Evidence 2: \"With three (3) AC members...\" (compliance with listing requirements)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The present members of the Audit Committee comprise the following members...\" (clear structure and direct listing)\n• Evidence 2: \"The Executive Chairman...were present by invitation in all meetings.\" (precise role descriptions)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Audit Committee...to assist the Board in its oversight of the Company’s financial reporting...\" (corporate governance relevance)\n• Evidence 2: \"held two -2 meetings with the External Auditors...\" (oversight process transparency)"
+  }
+}

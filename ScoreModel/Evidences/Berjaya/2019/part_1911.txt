@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The Company continues to work to validate and improve its reporting efforts, so it can consistently and accurately report on its performance.\" (shows ongoing validation but lacks risk disclosure)\n• Evidence 2: \"the engagement activities are on an ongoing basis, depending on the purpose and needs.\" (lacks specific risks or uncertainties)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Company continues to work to validate and improve its reporting efforts...\" (specific actions taken to ensure accuracy)\n• Evidence 2: \"The Board views the commitment to promote sustainability strategies...\" (clear accountability structure)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Platforms\" section with clear bullet points and headings (structured and logical)\n• Evidence 2: \"The Board views the commitment to promote sustainability strategies... as part of its broader responsibility\" (precise language with clear logical flow)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Platforms\" (clear section headers with bullet points)\n• Evidence 2: \"Open communication regularly through bi-monthly Town Hall sessions\" (precise description of engagement methods)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Communications via announcements to Bursa Securities, Annual Report...\" (mentions investor communication but lacks forward-looking info)\n• Evidence 2: \"Sustainability Governance is one of the core elements...\" (addresses governance but no specific risks or material events)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Communications via announcements to Bursa Securities, Annual Report...\" (directly relevant to investor engagement)\n• Evidence 2: \"The core responsibilities of the governance structure rest on the Board...\" (corporate governance relevance)"
   }
 }

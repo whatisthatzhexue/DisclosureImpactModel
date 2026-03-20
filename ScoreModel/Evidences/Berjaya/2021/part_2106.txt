@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Revenue decreased by 9.72% to S$6.5 million from S$7.2 million in the previous financial year. The results reflected a contraction in demand during lockdown...\" \n• Evidence 2: \"Loss before tax... improved by 14.6%... due to the adoption of several cost-saving initiatives...\""
+    "score": 9,
+    "justification": "• Evidence 1: \"Revenue decreased by 9.72% to S$6.5 million from S$7.2 million...due to the adoption of several cost-saving initiatives...\" (specific facts and neutral explanation)\n• Evidence 2: \"The company does not expect a full return to normality...\" (disclosure of uncertainty and risk)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Revenue decreased by 9.72% to S$6.5 million...\" \n• Evidence 2: \"targets to open 6 new stores... pivot to digital channels...\""
+    "justification": "• Evidence 1: \"Jollibean Foods operates 33 outlets...opened 4 new outlets and closed 4 non-performing outlets\" (clear, structured statement)\n• Evidence 2: \"targets to open 6 new stores in the financial year 2022\" (precise, direct language)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Revenue decreased... due to lockdown imposed by the Singapore Government...\" \n• Evidence 2: \"company will pivot to digital channels... aims to emerge stronger from the current economic crisis\""
+    "score": 9,
+    "justification": "• Evidence 1: \"Revenue decreased...due to lockdown...CBD or office areas took the biggest impact\" (explains performance change)\n• Evidence 2: \"pivot to digital channels...build on its capabilities...mitigating risks\" (forward-looking strategies and risk management)"
   }
 }

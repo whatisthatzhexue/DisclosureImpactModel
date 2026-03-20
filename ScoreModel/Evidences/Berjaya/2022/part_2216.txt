@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BFood commissioned an external consultant to conduct a comprehensive study...secured the anonymity of the respondents.\"\n• Evidence 2: \"Using a 5-point Likert Symmetric Scale allowed respondents to specify their level of agreement...\""
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood commissioned an external consultant to conduct a comprehensive study... secured the anonymity of the respondents.\" (neutral, objective methodology)\n• Evidence 2: \"The materiality assessment is a crucial, ongoing part of sustainability management.\" (acknowledges continuous process without overstatement)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The materiality assessment is a crucial, ongoing part of sustainability management.\"\n• Evidence 2: \"Stakeholder Group Engagement Platforms\" section with clear bullet points and headings."
+    "score": 8,
+    "justification": "• Evidence 1: \"Stakeholder Group Engagement Platforms\" section clearly categorizes groups with bullet points (structured, direct language)\n• Evidence 2: \"Using a 5-point Likert Symmetric Scale allowed respondents to specify their level of agreement...\" (precise explanation of measurement tool)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Examining local and global trends...Identifying key risks; and Establishing the importance...to its business and stakeholders.\"\n• Evidence 2: \"This approach helps identify new topics...dedicate resources to the areas that matter most.\""
+    "justification": "• Evidence 1: \"This approach helps identify new topics... dedicate resources to the areas that matter most.\" (directly links sustainability efforts to business priorities)\n• Evidence 2: \"Responsible and sustainable businesses employ stakeholder engagement to refine the business strategy.\" (forward-looking statement relevant to investors)"
   }
 }

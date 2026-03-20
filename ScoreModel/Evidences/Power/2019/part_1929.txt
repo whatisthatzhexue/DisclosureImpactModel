@@ -1,6 +1,6 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 0, "justification": "• Evidence 1: [no specific facts disclosed]\n• Evidence 2: [no risks or uncertainties mentioned]"},
-  "Understandability": {"score": 0, "justification": "• Evidence 1: [no clear structure or logic]\n• Evidence 2: [no precise or direct language]"},
-  "Relevance": {"score": 0, "justification": "• Evidence 1: [no investor-focused information]\n• Evidence 2: [no risks, governance, or forward-looking details]"}
+  "Reliability": {"score": 1, "justification": "• Evidence 1: [TEXT]Statement on Risk Management and Internal Control Cont’d 69 Annual Report 2019 69[/TEXT]\n• Evidence 2: No specific facts, risks, or objective disclosures are provided; the text only contains page numbers and a continuation note."},
+  "Understandability": {"score": 3, "justification": "• Evidence 1: [TEXT]Statement on Risk Management and Internal Control Cont’d 69 Annual Report 2019 69[/TEXT]\n• Evidence 2: The text lacks structure, logic, and precise language to convey meaningful information."},
+  "Relevance": {"score": 1, "justification": "• Evidence 1: [TEXT]Statement on Risk Management and Internal Control Cont’d 69 Annual Report 2019 69[/TEXT]\n• Evidence 2: No forward-looking information, risks, material events, or governance details are disclosed."}
 }

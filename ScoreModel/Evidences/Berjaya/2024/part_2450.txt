@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Group complies with all applicable employment and human rights regulations in its operating regions and expects its suppliers to do the same.\"\n• Evidence 2: \"BFood conducts market pay research to ensure compensation exceeds the living wage.\""
+    "justification": "• Evidence 1: \"The Group complies with all applicable employment and human rights regulations in its operating regions\" (specific compliance statement)\n• Evidence 2: \"BFood strictly rejects forced, prison, bonded or involuntary labour\" (clear, factual commitment)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood promotes an inclusive culture and ensures that its hiring, training, promotion, and career opportunities are free from discrimination based on race, gender, sexual orientation or age.\"\n• Evidence 2: \"Well-defined structures and targets support this commitment to employee engagement, encompassing regular feedback mechanisms, open communication channels, performance reviews, mentoring programmes, and team-building activities.\""
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood supports children's rights through stringent anti-child labour practices that comply with local laws\" (precise, direct language)\n• Evidence 2: \"Comprehensive safety protocols and wellness programmes promote physical and mental health\" (clear structure with specific terms)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"BFood is committed to upholding ethical labour practices. The Group adheres to local labour and immigration laws when employing foreign or migrant workers and strictly rejects forced, prison, bonded or involuntary labour.\"\n• Evidence 2: \"BFood upholds the principle of 'equal pay for equal work' following local laws.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood enhances employee satisfaction scores, reduces turnover rates\" (directly relevant to investor concerns)\n• Evidence 2: \"Adheres to Industrial Relations Act 1967 and respects local laws protecting workers' rights\" (corporate governance relevance)"
   }
 }

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\" (External verification supports objectivity)\n• Evidence 2: \"Suppliers are required to self-declare and provide an updated certification. Audits and compliance are conducted regularly.\" (Specific facts about compliance processes)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\"\n• Evidence 2: \"Audits and compliance are conducted regularly to ensure that local regulatory hygiene practices are in place.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Platforms\" section uses clear headings and bullet points for structured information.\n• Evidence 2: \"The Company believes that the approach of stakeholder engagement is integral to the development of its sustainability strategy\" (Precise language explaining strategic importance)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Platforms\" section with clear headings and bullet points.\n• Evidence 2: \"The Company’s key stakeholders and engagement platforms are as listed below:\" provides structured clarity."
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Communications via announcements to Bursa Securities, General Meetings...\" (Relevant to investor decision-making)\n• Evidence 2: \"For more information about the Company’s financial performance...\" (References financial data, though not included in the text itself)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Company believes that the approach of stakeholder engagement is integral to the development of its sustainability strategy\" directly ties engagement to strategic goals.\n• Evidence 2: \"BFood is committed to empowering local Malaysian communities...\" links economic sustainability to investor-relevant community impact."
   }
 }

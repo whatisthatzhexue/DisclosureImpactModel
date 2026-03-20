@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 4,
+    "justification": "• Evidence 1: The text lacks specific factual data or metrics to support claims (e.g., no water usage figures or biodiversity conservation metrics).\n• Evidence 2: No mention of risks, challenges, or uncertainties related to sustainability initiatives."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: Clear structure with headings and bullet points organizes the content logically.\n• Evidence 2: Direct language explains initiatives (e.g., 'minimising water consumption'), though some terms like 'UNSDGs' could be clarified for broader understanding."
+  },
+  "Relevance": {
+    "score": 3,
+    "justification": "• Evidence 1: No direct linkage to investor decision-making or financial impacts of sustainability efforts.\n• Evidence 2: Missing forward-looking information, risks, or material events relevant to stakeholders."
+  }
+}

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Total Workforce\" figures (e.g., 5,184 5,325) provide specific data but lack contextual explanation for changes.\n• Evidence 2: The text avoids overstatement by focusing on factual benefits (e.g., \"comprehensive benefits package\") without speculative claims."
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood provides competitive benefits and remuneration to its employees...\" (specific factual claims)\n• Evidence 2: \"The Human Resources team... benefits and remuneration packages exceed industry standards\" (supported by market comparisons)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: Clear headings (e.g., \"Workforce by Age\") and bullet points organize information logically.\n• Evidence 2: The phrase \"five-day work week for retail staff\" is direct, though repetitive use of \"employees (\"partners\")\" could be streamlined."
+    "score": 6,
+    "justification": "• Evidence 1: \"Workforce by Age >50 <30 30-50\" (ambiguous formatting without clear labels)\n• Evidence 2: \"BPB employees...\" (abbreviations without explanation for non-familiar readers)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: Forward-looking info about \"five-day work week\" and training programs aligns with investor interests.\n• Evidence 2: No mention of risks, material events, or financial performance metrics directly impacting investment decisions."
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood prioritises comprehensive internal and external training programmes...\" (relevant to investor assessment of workforce development)\n• Evidence 2: \"The Group offers separate housing...\" (pertains to employee retention but lacks forward-looking risk disclosures)"
   }
 }

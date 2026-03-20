@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: 'Reviewed the Internal Audit Reports... and the timeline taken by Management to ensure the deficiencies are addressed promptly.'\n• Evidence 2: 'The ARMC is to provide a statement... are in the best interest of the BFood Group.'"
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the Internal Audit Reports... to ensure the deficiencies are addressed promptly.\"\n• Evidence 2: \"The ARMC is to provide a statement... are in the best interest of the BFood Group.\"\n• Evidence 3: \"The ARMC also reviewed the procedures... to ensure the transactions are within the approved mandate.\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: 'Reviewed and approved the Internal Audit Plan... to ensure that the scope and coverage... are audited annually.'\n• Evidence 2: 'Disclosures will be made in the annual report... based on the following information:'"
+    "justification": "• Evidence 1: \"The framework set up for identifying... includes inter-alia, the following: -\"\n• Evidence 2: \"Disclosures will be made in the annual report... based on the following information: -\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: 'Reviewed the 2021 Circular to Shareholders... to ensure that the transactions are fair and reasonable to, and are not to the detriment of, the minority shareholders.'\n• Evidence 2: 'The ARMC also reviewed the procedures and processes... to ensure that the transactions are within the approved mandate.'"
+    "score": 9,
+    "justification": "• Evidence 1: \"Reviewed the 2021 Circular... to ensure that the transactions are fair and reasonable...\"\n• Evidence 2: \"Disclosures will be made in the annual report... based on the following information: -\""
   }
 }

@@ -1,6 +1,6 @@
 {
-  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
-  "Reliability": {"score": 1, "justification": "• Evidence 1: [TEXT]AUDIT AND RISK MANAGEMENT COMMITTEE REPORT[/TEXT] lacks specific facts, risks, or challenges disclosed\n• Evidence 2: No objective analysis or neutral statements are present in the text"},
-  "Understandability": {"score": 2, "justification": "• Evidence 1: The text is a title only, providing no substantive content to assess clarity\n• Evidence 2: No precise language or structured information is present to evaluate understandability"},
-  "Relevance": {"score": 1, "justification": "• Evidence 1: [TEXT]AUDIT AND RISK MANAGEMENT COMMITTEE REPORT[/TEXT] contains no forward-looking information or material events\n• Evidence 2: No risks, governance details, or investor-relevant data is disclosed in the text"}
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Understandability": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [no content provided]\n• Evidence 2: [no content provided]"}
 }

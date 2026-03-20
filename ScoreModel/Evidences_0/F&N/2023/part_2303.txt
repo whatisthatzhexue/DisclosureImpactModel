@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"There was no significant matter of disagreement between the auditors and Management.\"\n• Evidence 2: \"They reported that they did not note any instance indicating existence of fraud that might result in a material misstatement in the financial statements.\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee had one meeting with the auditors without the presence of management.\"\n• Evidence 2: \"The audits were performed using a risk-based approach and were consistent with the Group’s established framework...\""
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The related party transactions... were conducted on the Group’s normal commercial terms...\"\n• Evidence 2: \"The Audit Committee also reviewed the declaration of interim dividend... prior to Board’s approval.\""
+  }
+}

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Direct engagement via survey forms allowed for the proper collation of sustainability matters that QL should prioritise.\" (Discloses stakeholder engagement methods and prioritization)\n• Evidence 2: \"Guided by Burs, Malaysia Securities Berhad’s Sustainability Reporting Guide and Toolkits, QL maintained a structured materiality assessment approach.\" (Supports objectivity with reference to external guidelines)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Stakeholders from MPM operations were engaged at Endau, Kulai and Hutan Melintang...\" (specific stakeholder engagement details)\n• Evidence 2: \"Guided by Burs, Malaysia Securities Berhad’s Sustainability Reporting Guide...\" (reference to external standards)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Stakeholder Groups Engagement Channels Focus Areas How do we respond?\" (Clear section headers with direct language)\n• Evidence 2: \"Sustainability is a long-term process that requires commitment and continuous reviews and evaluations.\" (Precise explanation of sustainability approach)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Key stakeholder groups engaged across ILF, MPM, and POA were: Customers, Shareholders, Management...\" (clearly listed groups)\n• Evidence 2: \"Discussions with key internal stakeholders were held to evaluate the materiality levels...\" (direct explanation of process)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"To better understand the full range of risks and opportunities, as an organisation, we must align our risk management and materiality assessment processes.\" (Relevant to investor decision-making by addressing risk management)\n• Evidence 2: \"Discussions with key internal stakeholders were held to evaluate the materiality levels they would place on identified sustainability matters.\" (Relevant to corporate governance and stakeholder priorities)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Identification of materiality is essential in any business...\" (direct relevance to investor concerns)\n• Evidence 2: \"Engagement was conducted with identified SPT members...\" (mention of stakeholder input process)"
   }
 }

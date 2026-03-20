@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board acknowledges that businesses are not judged solely on its financial performance but also, not to a lesser extent, on its conducts in respect of governance, economic, environment and social aspects\" (neutral, objective assessment).\n• Evidence 2: \"The Group is subject to periodic assessments by the Department of Environment Malaysia...\" (specific fact about regulatory compliance)."
+    "justification": "• Evidence 1: \"The Board of Directors... is committed to continuously promote and update the sustainability practices...\" (neutral commitment without overstatement)\n• Evidence 2: \"The Group is subject to periodic assessments by the Department of Environment Malaysia...\" (disclosure of regulatory risks)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The materiality assessment process... is as follows:\" (clear structure with step-by-step explanation).\n• Evidence 2: \"The Board assumes ultimate responsibility for sustainability management...\" (precise language with defined roles)."
+    "score": 7,
+    "justification": "• Evidence 1: \"The material sustainability matters assessment process employed by the Group entails the following major steps...\" (clear procedural structure)\n• Evidence 2: \"The Board assumes ultimate responsibility for sustainability management...\" (precise role definition)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Group focuses on the initiatives of sustainability in accordance with Environmental, Economic and Social (EES) risks and opportunities\" (directly relevant to investor decision-making).\n• Evidence 2: \"The SRMC will perform identification of the sustainability matters...\" (includes governance and internal management processes)."
+    "justification": "• Evidence 1: \"prepared pursuant to Main Market Listing Requirements...\" (directly relevant to investor compliance expectations)\n• Evidence 2: \"the Group is subject to periodic assessments...\" (material risk disclosure for investors)"
   }
 }

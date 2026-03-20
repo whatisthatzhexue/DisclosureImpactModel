@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 4,
-    "justification": "• Evidence 1: \"The following sustainability matters are considered material both by the Group and the stakeholder groups\" (neutral, objective statement)\n• Evidence 2: No specific facts, risks, or data are provided to substantiate claims (lack of supporting details)"
+    "justification": "• Evidence 1: \"The following sustainability matters are considered material both by the Group and the stakeholder groups\" (neutral, objective statement)\n• Evidence 2: \"Risk Register 22\" (no specific facts or risk details provided)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Aspect Boundary\", \"Relevant SDGs\", and \"Risk Register Number\" are clearly labeled in a structured format (precise categorization)\n• Evidence 2: Terms like \"Compliance identifies the adherence...\" are defined, but overall structure lacks contextual explanations for technical terms"
+    "score": 5,
+    "justification": "• Evidence 1: \"Aspect Boundary\", \"Sustainability Matter\", \"Definition\" columns (clear structure)\n• Evidence 2: \"Compliance with laws and regulations (Environment)\" (precise but minimal explanation)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Risk Register 22\" indicates mention of risks (useful for investors)\n• Evidence 2: No forward-looking information, performance changes, corporate governance, or material events are disclosed (limited relevance to decision-making)"
+    "score": 3,
+    "justification": "• Evidence 1: \"The following sustainability matters are considered material both by the Group and the stakeholder groups\" (relevance to stakeholders)\n• Evidence 2: \"Risk Register 22\" (no connection to investor decision-making or performance changes)"
   }
 }

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"zero-tolerance stance on bribery and corruption\" (truthful, neutral)\n• Evidence 2: \"formalised our Directors’ Fit and Proper Policy, in accordance with Bursa Malaysia’s requirements\" (objective, specific facts)"
+    "justification": "• Evidence 1: \"There is a zero-tolerance stance on bribery and corruption.\" (Discloses risks and ethical standards)\n• Evidence 2: \"we have made progress and now apply 43 out of the total 48 MCCG recommendations\" (Provides specific, verifiable compliance data)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"39% female representation, above the 30% mandate\" (precise, direct)\n• Evidence 2: \"17.2% GHG intensity reduction against base year FY2020\" (clear structure with quantifiable metrics)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Our Board comprises six executive directors and seven independent non-executive directors, of which five are women.\" (Clear structure with specific numbers)\n• Evidence 2: \"The Board has also engaged independent experts to conduct an externally facilitated evaluation...\" (Precise language with actionable information)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"apply 43 out of the total 48 MCCG recommendations\" (relevant governance disclosure)\n• Evidence 2: \"formalised our Directors’ Fit and Proper Policy, in accordance with Bursa Malaysia’s requirements\" (material governance practice)"
+    "justification": "• Evidence 1: \"Our philosophy of creating value for all... is complemented by our emphasis on sustainability.\" (Relevant to stakeholder interests)\n• Evidence 2: \"The uncertain global economy is anticipated to linger...\" (Includes forward-looking context for governance decisions)"
   }
 }

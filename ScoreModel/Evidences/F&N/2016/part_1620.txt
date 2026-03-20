@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Changes to risk profiles and emerging risks are also identified and promptly brought to the attention of the Board and Board Committees.\" (Discloses risks and monitoring processes)\n• Evidence 2: \"The Board receives assurance from the CEO and CFO that the risk management... is adequate and effective.\" (Neutral statement supported by specific assurance mechanisms)"
+    "justification": "• Evidence 1: \"Key Risk Indicators... are material to the Group\" (discloses risks)\n• Evidence 2: \"Board receives assurance... through the ERM Validation Report and Comfort Matrix\" (supported by specific documents)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The ERM Validation Report summarises the risk management activities...\" (Clear structure with specific document descriptions)\n• Evidence 2: \"A framework which consists of Code of Business Ethics & Conduct...\" (Precise language explaining policy components)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Chart of Authority provides guidance on the division of responsibilities\" (clear structure)\n• Evidence 2: \"Fraud Control Policy defines a process focussing on prevention, detection...\" (precise language)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Both ERM Validation Report and Comfort Matrix are tabled at the RMC and Audit Committee meetings...\" (Relevant to governance and risk oversight)\n• Evidence 2: \"The Annual Business Plan sets the targets...\" (Connects to strategic objectives and performance tracking)"
+    "justification": "• Evidence 1: \"Changes to risk profiles and emerging risks... brought to the attention of the Board\" (material risks)\n• Evidence 2: \"Annual Business Plan sets targets... key performance indicators\" (performance tracking)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Group revenue rose by 5.3 per cent to RM4.08 billion while profit before tax increased by 25.7 per cent to RM533.0 million' (specific financial metrics)\n• Evidence 2: 'The latter was driven primarily by the introduction of TEAPOT Sweetened Beverage Creamer Squeeze Tubes which have been well received' (specific cause-effect explanation)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Differentiated product packaging further boosted sales by catering to customers’ and consumers’ new needs' (clear, direct language)\n• Evidence 2: 'Excluding one-off and non-operating items, operating profit for F&B Malaysia was 15.5 per cent higher compared to last year' (precise terminology with contextual clarification)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Moving forward, we remain committed to building Exports as our third business pillar and achieving target Group export sales of RM800 million by 2020' (forward-looking strategic goal)\n• Evidence 2: 'The combination of factors including the introduction of value packs... led to a marginal increase in F&B Malaysia’s revenue' (explanation of performance changes)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The aim is eventually to house 20,000 milking cows and produce 200 million litres of fresh milk per annum.\" (specific factual claim with no risk disclosure)\n• Evidence 2: \"However, the consumer sentiment index is normalising following an extraordinary peak post-general elections...\" (acknowledges macroeconomic uncertainty but lacks detailed risk analysis)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We are proud of this programme and will keep growing it as we seek to enhance Malaysia’s overall recycling rate.\" (clear, direct statement)\n• Evidence 2: \"Digital platforms as opportunities to engage more personally with consumers...\" (precise explanation of strategic focus)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our goal is to eventually embrace a circular economy...\" (forward-looking strategy relevant to investors)\n• Evidence 2: \"The Malaysian economy has maintained a steady momentum...\" (macroeconomic context critical for investment decision-making)"
+  }
+}

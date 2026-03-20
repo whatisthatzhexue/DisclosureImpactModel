@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Board holds ourselves accountable for upholding and propagating responsible business practices.\" \n• Evidence 2: \"growth metrics that companies are measured by now encompass financial and non-financial aspects, and QL is committed to fulfilling our commitment and responsibility.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"The growth metrics... non-financial aspects, and QL is committed to fulfilling our commitment and responsibility.\" (Discloses responsibility without overstatement)\n• Evidence 2: \"Profit before tax (PBT) experienced a 2% contraction... due in part to several factors affecting the three business pillars...\" (Supports claims with specific financial data and risk factors)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"prudent risk management and good governance.\" \n• Evidence 2: \"international best practices.\""
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a diversified consumer group with three main business pillars...\" (Clear structure with precise categorization)\n• Evidence 2: \"The production of chilled and frozen surimi-based products is expected to rise...\" (Direct language with specific metrics and logical progression)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Board holds ourselves accountable for upholding and propagating responsible business practices.\" \n• Evidence 2: \"Details of our corporate governance is outlined on pages 31 to 33.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board holds ourselves accountable for upholding and propagating responsible business practices.\" (Relevant corporate governance information)\n• Evidence 2: \"We expect to face the challenge of international fishmeal prices trending downwards...\" (Forward-looking information with material risk disclosure)"
   }
 }

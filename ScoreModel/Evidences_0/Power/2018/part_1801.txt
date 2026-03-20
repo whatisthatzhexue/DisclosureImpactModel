@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"we put words into action by wholeheartedly integrating these virtues into our CSR programme\" (specific factual statement about CSR implementation)\n• Evidence 2: \"we contributed Ah Huat products to the food and fund carnival...\" (concrete example of CSR activity)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"During the year, we visited several children’s homes and old folks home...\" (clear, structured description of activities)\n• Evidence 2: \"The measures we have taken this year...\" (precise language explaining operational strategies)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"we believe that this challenging environment will continue to persist...\" (forward-looking statement about business environment)\n• Evidence 2: \"Revenue (RM’million)...\" (financial data relevant to investors)"
+  }
+}

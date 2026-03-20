@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"review and evaluate factors related to the independence of the External Auditors in performing non-audit services...\" (neutral, objective assessment of auditor independence)\n• Evidence 2: \"review the External Auditors’ findings... to be satisfied that the level of co-operations given is appropriate\" (verifiable process for evaluating audit quality)"
+    "score": 6,
+    "justification": "• Evidence 1: \"To review and evaluate factors related to the independence of the External Auditors in performing non-audit services...\" (neutral, objective description of responsibilities)\n• Evidence 2: \"To prepare the annual Audit Committee Report...\" (specific, factual disclosure of procedural requirements)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"To review and approve when applicable, significant use of the External Auditors...\" (clear, direct language with specific responsibilities)\n• Evidence 2: \"The minutes shall be kept by the secretarial department...\" (precise procedural description without ambiguity)"
+    "score": 8,
+    "justification": "• Evidence 1: \"(8) To consider and recommend the nomination...\" (clear, direct language with numbered structure)\n• Evidence 2: \"The minutes shall be kept by the secretarial department...\" (precise, unambiguous procedural description)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"To assist the review of the Board’s statements on compliance with the Malaysian Code of Corporate Governance...\" (relevant to corporate governance but lacks specific risk disclosures)\n• Evidence 2: \"To review the assistance given by the employees of the Company to the External Auditors\" (pertains to operational processes but not material events or performance changes)"
+    "score": 7,
+    "justification": "• Evidence 1: \"To assist the review of the Board’s statements on compliance with the Malaysian Code of Corporate Governance...\" (directly relevant to corporate governance)\n• Evidence 2: \"To review the External Auditors’ findings...\" (pertains to audit quality and investor concerns)"
   }
 }

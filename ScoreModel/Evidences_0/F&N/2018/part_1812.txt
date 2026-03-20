@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"F&NHB received the Malaysian Enterprise Innovation Award 2018 by Asia IoT Business Platform (AIBP) in recognition of companies who are embarking on digitally transforming their businesses through the adoption of technology\" (specific factual claim).\n• Evidence 2: \"We have developed four main thematic areas...\" (clear, verifiable description of initiatives)."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We are striving to enhance social well-being through our community outreach programmes...\" (clear structure with logical flow).\n• Evidence 2: \"Over the past year, we have expanded this programme to 364 schools...\" (precise, direct language with specific numbers)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"DELIVERING VALUE THROUGH SOCIAL COLLABORATION, HUMAN CAPITAL DEVELOPMENT & INNOVATION\" (forward-looking strategic focus relevant to investors).\n• Evidence 2: \"We are proud that 100% of our senior management...are hired from the local community\" (material information about corporate governance and workforce practices)."
+  }
+}

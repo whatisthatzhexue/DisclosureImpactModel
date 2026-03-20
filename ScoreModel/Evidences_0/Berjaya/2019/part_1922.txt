@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ARMC, having been satisfied with the independence, suitability and performance of Messrs Ernst & Young... had recommended to the Board the re-appointment of EY...\" (neutral, factual reporting)\n• Evidence 2: \"However, there was no major issue raised during the private session.\" (transparent disclosure of findings)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The framework set up for identifying and monitoring the RRPT includes inter-alia...\" (clear structure with numbered list)\n• Evidence 2: \"Reviewed the risk register covering areas such as the likelihood of occurrence...\" (precise terminology with defined categories)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the 2018 Circular to Shareholders... to ensure that the transactions are fair and reasonable...\" (directly addresses shareholder interests)\n• Evidence 2: \"Disclosures will be made in the annual report on the breakdown of the aggregate value...\" (explicitly mentions disclosure requirements for investors)"
+  }
+}

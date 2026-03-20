@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BFI disposed of its entire stake in PT Boga\" (specific factual event)\n• Evidence 2: \"BStarbucks is now a 100% owned subsidiary of BFood\" (clear ownership disclosure)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"11,500,000 ordinary shares of RM1.00 each\" (precise financial details)\n• Evidence 2: \"operates the world’s first Starbucks Signing Store\" (clear operational description)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"disposal of 5% equity interest in Jollibean Foods\" (material event disclosure)\n• Evidence 2: \"316 stores nationwide\" (operational scale information)"
+  }
+}

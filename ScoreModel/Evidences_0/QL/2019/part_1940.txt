@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The shareholders of the Company approved the Proposed Renewal of Shareholders’ Mandate for RRPT...\" (neutral factual disclosure)\n• Evidence 2: \"During the financial year under review, there were no...\" (specific factual statement)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The amount of audit fees and non-audit fees...\" (clear numerical structure)\n• Evidence 2: \"Directors are required by Companies Act 2016...\" (direct language with legal reference)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Company is also seeking shareholders’ approval...\" (forward-looking information)\n• Evidence 2: \"In compliance with Main Market Listing Requirements...\" (material event disclosure)"
+  }
+}

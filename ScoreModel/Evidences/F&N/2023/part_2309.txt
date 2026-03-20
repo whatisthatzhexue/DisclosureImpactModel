@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"83% of employees participated in annual safety, health and well-being programmes\" (specific factual data)\n• Evidence 2: \"Maintained 0 high-consequence work-related injury, 0 work-related fatality, 0 lost time injury\" (quantifiable risk mitigation)"
+    "score": 8,
+    "justification": "• Evidence 1: \"0 work-related fatality\" \n• Evidence 2: \"85% of our employees underwent ESG-related training since 2022\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Flexi working hours, in-house gym facilities and extended health insurance\" (clear, direct language)\n• Evidence 2: \"Strategic Talent Acquisition & On-boarding\" (precise terminology with contextual explanation)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Flexi working hours, in-house gym facilities and extended health insurance\" \n• Evidence 2: \"Modules for Strategic Human Capital Transformation\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Unpredictable supply chain issues and volatile weather and climate conditions\" (material risk disclosure)\n• Evidence 2: \"Human Rights Due Diligence process... to identify and mitigate human rights violations\" (forward-looking governance commitment)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Navigating through an increasingly complex world characterised by geopolitical conflicts...\" \n• Evidence 2: \"Our Human Rights Due Diligence process...\""
   }
 }

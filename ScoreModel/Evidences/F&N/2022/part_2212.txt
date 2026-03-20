@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Carnation ran a nationwide campaign from March to August 2022 to reward consumers...\" (specific factual campaign details)\n• Evidence 2: \"This has helped to double the market share...\" (quantifiable outcome stated without overstatement)"
+    "justification": "• Evidence 1: \"To maintain its leadership... No.1 brand.\" (specific campaign details)\n• Evidence 2: \"This has helped to double the market share...\" (quantifiable outcome)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"F&N Magnolia UHT Milk offers a unique sweet milky taste combined with the goodness of milk fortified with vitamin D...\" (precise product description)\n• Evidence 2: \"available nationwide in 180ml plain and chocolate flavours\" (clear, direct language)"
+    "justification": "• Evidence 1: \"F&N Magnolia UHT Milk offers a unique sweet milky taste...\" (precise product description)\n• Evidence 2: \"Special packs were created for Songkran...\" (clear marketing initiative explanation)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"To maintain its leadership in the condensed milk market...\" (explains strategy for market position)\n• Evidence 2: \"market share increase by 2%\" (performance metric relevant to investors)"
+    "score": 7,
+    "justification": "• Evidence 1: \"BEAR BRAND Gold saw its market share increase by 2%\" (material performance metric)\n• Evidence 2: \"Marketing was conducted online as well as in-store sampling...\" (forward-looking strategy details)"
   }
 }

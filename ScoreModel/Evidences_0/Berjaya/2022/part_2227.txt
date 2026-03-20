@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"There were no significant cases of non-compliance discovered during our FY2022 inspections.\"\n• Evidence 2: \"BFood has integrated its social supply chain policy and practices into buyer training...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Policies• Preventing child labour...\"\n• Evidence 2: \"BFood informally assesses all suppliers, through physical inspection audits.\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Group engages with its major suppliers in building capacity...\"\n• Evidence 2: \"All suppliers are welcome to voice their concerns through Whistleblowing...\""
+  }
+}

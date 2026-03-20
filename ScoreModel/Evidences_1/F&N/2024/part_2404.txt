@@ -1,6 +1,0 @@
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 1, "justification": "• Evidence 1: [TEXT]AUDIT COMMITTEE REPORT[/TEXT]\n• Evidence 2: [TEXT]GOVERNANCE 6 1 3 2 4 5 7 8 9 SECTION 131[/TEXT]"},
-  "Understandability": {"score": 1, "justification": "• Evidence 1: [TEXT]GOVERNANCE 6 1 3 2 4 5 7 8 9 SECTION 131[/TEXT]\n• Evidence 2: [TEXT]AUDIT COMMITTEE REPORT[/TEXT]"},
-  "Relevance": {"score": 1, "justification": "• Evidence 1: [TEXT]AUDIT COMMITTEE REPORT[/TEXT]\n• Evidence 2: [TEXT]GOVERNANCE 6 1 3 2 4 5 7 8 9 SECTION 131[/TEXT]"}
-}

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"BFood's zero-tolerance policy evinces a proactive commitment to addressing and mitigating corruption risks, including bribery. Endorsed by the Board of Directors, the policy fulfils the requirements in the Guidelines on Adequate Procedures pursuant to Section 17A (5) of the Malaysian Anti-Corruption Commission Act 2009 (\"MACC\").\"\n• Evidence 2: \"BFood conducts periodic assessments with at least one full-scale assessment and review every two years.\""
+    "justification": "• Evidence 1: \"BFood's zero-tolerance policy evinces a proactive commitment to addressing and mitigating corruption risks, including bribery. Endorsed by the Board of Directors, the policy fulfils the requirements in the Guidelines on Adequate Procedures pursuant to Section 17A (5) of the Malaysian Anti-Corruption Commission Act 2009 (\"MACC\").\"\n• Evidence 2: \"The Group has introduced processes to ensure full compliance with the Personal Data Protection Act 2010 (\"PDPA\").\""
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Starbucks Zero Tolerance Standards\" section uses clear headings but includes technical terms like \"due diligence\" and \"risk register\" without explicit definitions.\n• Evidence 2: \"BFood screens new and existing business partners for corruption and bribery is also part of its due diligence.\" (slightly awkward phrasing)"
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood requires all suppliers and business partners to demonstrate a commitment to continuous improvement and engage in improvement processes.\" (clear, direct statement)\n• Evidence 2: \"Corruption and Bribery Risk Assessment... This keen understanding helps the Group design high-level prevention assessments...\" (complex structure with some clarity)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Corruption and Bribery Risk Assessment\" section explains material risks and mitigation strategies relevant to investors.\n• Evidence 2: \"The Group invested heavily in a data protection management system...\" (links to privacy risks but lacks connection to financial performance or strategic priorities)."
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood conducts periodic assessments with at least one full-scale assessment and review every two years.\" (material governance practice)\n• Evidence 2: \"The Group is committed to ensuring that all released information on product labels empowers customers to make healthy choices.\" (consumer relevance)"
   }
 }

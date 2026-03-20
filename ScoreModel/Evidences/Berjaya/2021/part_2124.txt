@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"presented a true and fair view of the Group’s financial position and performance and are in compliance with the Malaysian Financial Reporting Standard (\"MFRS\") 134...\" \n• Evidence 2: \"having been satisfied with the independence, suitability and performance of Messrs Ernst & Young PLT...had recommended to the Board the re-appointment of EY\""
+    "justification": "• Evidence 1: \"The above review is to ensure that the Company’s quarterly financial reporting and disclosures present a true and fair view...\" (neutral, objective, supports reliability)\n• Evidence 2: \"However, there was no major issue raised during the private session.\" (discloses absence of significant problems)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Reviewed the quarterly financial statements including the draft announcements pertaining thereto...made recommendations to the Board for approval of the same as follows:...\" \n• Evidence 2: \"Discussed and considered the significant accounting adjustments and auditing issues...key audit matters which were raised in the external auditors’ report\""
+    "score": 9,
+    "justification": "• Evidence 1: \"Reviewed the quarterly financial statements including the draft announcements pertaining thereto...\" (precise, direct language)\n• Evidence 2: \"Discussed and considered the significant accounting adjustments...\" (clear structure with specific audit processes)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Discussed...Cybersecurity, Covid-19 preventive measures...Going Concern and the Financing Structure...\" \n• Evidence 2: \"Reviewed...audit plan for the financial year end...fraud considerations and the risk of management override...\""
+    "score": 8,
+    "justification": "• Evidence 1: \"Cybersecurity, Covid-19 preventive measures...\" (includes material risks and governance issues)\n• Evidence 2: \"Audit fees of the External Auditors\" (relevant to investor decision-making about audit independence)"
   }
 }

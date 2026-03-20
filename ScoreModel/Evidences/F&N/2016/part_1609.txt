@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Business partners of the Group share the responsibilities in applying the fundamental principles of integrity, respect and excellence in all aspects of the Group business practices.\" (neutral, objective description of responsibilities)\n• Evidence 2: \"The Board has put in place a Fraud Control Policy to protect the revenues, assets and reputation of the Group from loss or damage due to fraud.\" (specific factual statement about policy implementation)"
+    "score": 6,
+    "justification": "• Evidence 1: \"They are refrained from all improper conduct, dishonest or unethical behaviour in their business dealings with all parties including employees of the Group.\"\n• Evidence 2: \"The Board has put in place a Fraud Control Policy to protect the revenues, assets and reputation of the Group from loss or damage due to fraud.\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"A formal agenda together with meeting papers are forwarded to all Directors seven days before Board and Board Committees meetings\" (clear, precise procedural description)\n• Evidence 2: \"The role, composition and responsibilities of the Board embodying the principles of the CG Code are set out in the Board Charter\" (direct, structured explanation of governance framework)"
+    "justification": "• Evidence 1: \"The Board's rights to all information pertaining to the Group and independent access to senior management for information and clarification in furtherance of its duties are set out in the Board Charter.\"\n• Evidence 2: \"Management team and external advisers are normally invited to attend meetings to provide insights and professional views, advice and explanation on specific items on the meeting agenda.\""
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Details of the corporate sustainability programmes of the Group are presented in the Corporate Sustainability section of the Annual Report\" (links to material information for investors)\n• Evidence 2: \"The Board's rights to all information pertaining to the Group and independent access to senior management... are set out in the Board Charter\" (directly relevant to governance and accountability)"
+    "justification": "• Evidence 1: \"The Board is responsible for formulating on-going programmes to promote sustainability, where attention is given to environmental, social and governance aspects of business which underpins sustainability.\"\n• Evidence 2: \"Directors have unrestricted access to senior management for information or updates regarding the Group.\""
   }
 }

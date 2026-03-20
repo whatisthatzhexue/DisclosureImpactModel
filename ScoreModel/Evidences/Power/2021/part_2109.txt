@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Remuneration Committee members comprise three -3 Independent and Non-Executive Directors and their attendance records are as follows: -\" (specific factual data)\n• Evidence 2: \"The Terms of Reference of the Remuneration Committee is available for download...\" (provides verifiable source)"
+    "score": 6,
+    "justification": "• Evidence 1: \"The Terms of Reference of the Remuneration Committee is available for download...\" (provides verifiable source)\n• Evidence 2: \"The Remuneration Committee met two times... submitted to the Board for review...\" (specific factual details)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Option Committee... consists of two -2 Executive Directors and one -1 Independent Non-Executive Director...\" (clear structure with numerical details)\n• Evidence 2: \"The functions of the Option Committee are:...\" (bullet points with precise responsibilities)"
+    "justification": "• Evidence 1: \"No. of Meetings Held Attendance\" format (clear structure)\n• Evidence 2: \"The Option Committee shall be vested with such powers...\" (precise legal language with specific functions)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Option Committee... shall be vested with such powers and duties as conferred upon it by the Board...\" (explains governance structure relevant to investors)\n• Evidence 2: \"The new ESOS established on 11 June 2019...\" (specific details about employee incentives)"
+    "justification": "• Evidence 1: \"administer the existing Employees’ Share Option Scheme...\" (corporate governance detail relevant to investors)\n• Evidence 2: \"expiring on 22 July 2022... expiring on 10 June 2029\" (forward-looking information about ESOS terms)"
   }
 }

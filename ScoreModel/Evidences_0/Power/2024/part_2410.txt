@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides specific factual details about seminars attended by directors (e.g., 'MIA Webinar Series : Integrating Environmental, Social and Governance (ESG) into Organisational Financial Reporting Framework')\n• Evidence 2: It lists neutral, objective information about training programs without overstatement or one-sided praise"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: The text uses clear structure with headings and bullet points to organize information about directors' training\n• Evidence 2: Language is precise and direct, with no vague or redundant expressions (e.g., specific seminar names and conductors are clearly listed)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The information about directors' training is relevant to corporate governance and investor assessment of board preparedness\n• Evidence 2: It lacks forward-looking information or explicit links to financial performance, material events, or risk disclosures required for higher relevance"
+  }
+}

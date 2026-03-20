@@ -1,15 +1,15 @@
 {
   "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: The text provides specific facts about board meeting frequency (\"met five -5 times during the financial year ended 31 March 2021\") and attendance details, supporting objective disclosure.\n• Evidence 2: It mentions the Company Secretary's role in recording minutes and maintaining statutory records, demonstrating procedural transparency."
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board meets regularly to perform its main functions...effectiveness of risk management.\" (truthful, neutral description of board responsibilities)\n• Evidence 2: \"The Company Secretary ensures that all Board meetings are properly convened...maintained in the statutory register.\" (specific factual documentation of processes)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: The text uses clear headings (e.g., \"Board Meetings\", \"Supply of Information\") and direct language to explain governance processes.\n• Evidence 2: Specific details like \"at least seven -7 days before the meeting\" are precise, though some terms like \"statutory register\" could be more explicitly defined."
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board plans to meet at least four (4) times a year...additional meetings convened when urgent...\" (clear structure with specific numbers and logic)\n• Evidence 2: \"All meetings of the Board are duly recorded...statutory register.\" (precise, direct language with professional terminology appropriately used)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: The text includes corporate governance details (board structure, meeting procedures) relevant to investors' understanding of management oversight.\n• Evidence 2: It mentions supply of information and access to advisers, which relates to governance but lacks direct links to financial performance, risks, or material events."
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board is mindful of the importance of business sustainability...\" (corporate governance relevance)\n• Evidence 2: \"The Board members...timely basis in the form and quality necessary...\" (directly relevant to investor decision-making about governance effectiveness)"
   }
 }

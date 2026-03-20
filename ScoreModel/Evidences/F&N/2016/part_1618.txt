@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"the system of risk management and internal control are designed to manage and mitigate risks rather than eliminate the risks...\" (acknowledges limitations and avoids overstatement)\n• Evidence 2: \"provide only reasonable and not absolute assurances against material misstatements or losses\" (neutral and objective disclosure of system constraints)"
+    "justification": "• Evidence 1: \"the system of risk management and internal control are designed to manage and mitigate risks rather than eliminate the risks which may hinder the achievement of the Group's objectives and would therefore provide only reasonable and not absolute assurances against material misstatements or losses.\"\n• Evidence 2: \"associated companies have been excluded from the Group.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BOARD'S RESPONSIBILITY AND ACCOUNTABILITY\" (clear section headings improve structure)\n• Evidence 2: \"Management plays an integral role...\" (precise language explaining roles without unnecessary complexity)"
+    "score": 6,
+    "justification": "• Evidence 1: \"BOARD'S RESPONSIBILITY AND ACCOUNTABILITY\" clearly separates the Board's role from Management's role.\n• Evidence 2: \"the Board recognises that the system of risk management and internal control are designed to manage and mitigate risks rather than eliminate the risks...\" (complex sentence structure with nested clauses)."
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"intended to provide our stakeholders...sufficient and meaningful information\" (directly addresses investor relevance)\n• Evidence 2: \"corporate governance\" (includes governance-related content, but lacks specific risk examples or forward-looking statements)"
+    "score": 7,
+    "justification": "• Evidence 1: \"address all key risks which the Group considers relevant and material to its operations\" directly ties risk management to operational impact.\n• Evidence 2: \"the Board recognises that effective risk management...are fundamental to good corporate governance\" links risk management to governance, relevant for investors."
   }
 }

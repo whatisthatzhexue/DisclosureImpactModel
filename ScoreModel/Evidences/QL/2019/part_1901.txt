@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"we remain vigilant as we now gain better understanding of the regional challenges faced in these two neighbouring countries\"\n• Evidence 2: \"RM646 million in revenue, which is a slight decrease of 1% from the RM654 million posted in FY2018 due to lower crude palm oil price\""
+    "score": 9,
+    "justification": "• Evidence 1: \"...a slight decrease of 1% from the RM654 million posted in FY2018 due to lower crude palm oil price.\" (specific factual explanation)\n• Evidence 2: \"The third revenue pillar, POA, bore the brunt of the adverse operating conditions due to excessive rainfall...\" (disclosure of risks and challenges)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"RM2.310 billion revenue recorded by the segment marked 17% improvement (RM339 million) over restated FY2018’s\"\n• Evidence 2: \"the two countries account for more than 55% of the population in Southeast Asia whilst the Southeast Asia region as a whole has 8.59% of the world population\""
+    "justification": "• Evidence 1: \"RM2.310 billion revenue recorded by the segment marked 17% improvement (RM339 million)...\" (clear numerical context)\n• Evidence 2: \"Our convenience store business in FamilyMart is on track to meet our initial target set in 2016...\" (precise statement with specific goal)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"The third revenue pillar, POA, bore the brunt of the adverse operating conditions due to excessive rainfall in Indonesia and also shortage of labour in the Malaysian plantation\"\n• Evidence 2: \"QL is confident of reaping increasing returns from our regional expansion, in particular MPM and ILF activities\""
+    "justification": "• Evidence 1: \"...the strategic investment into downstream capacity...translated to a year-on-year increase of 11.5%\" (explains performance changes)\n• Evidence 2: \"QL is confident of reaping increasing returns from our regional expansion...\" (forward-looking information about future prospects)"
   }
 }

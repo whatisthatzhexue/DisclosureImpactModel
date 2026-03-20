@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The minutes of each of the ARMC meetings were recorded and tabled for confirmation at the next ARMC meeting and tabled at the Board Meeting for the Directors’ review and notation.\"\n• Evidence 2: \"The Chief Executive Officer was invited to attend all the ARMC meetings to report on the overall operations of the Company...\"\n• Evidence 3: \"The ARMC meetings were convened with proper notices and agenda...\"\n• Evidence 4: \"The duties and responsibilities of the ARMC are set out in its terms of reference...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The ARMC held five -5 meetings during the financial year ended 30 April 2017. The details of attendance of the ARMC members are as follows:--\"\n• Evidence 2: \"Date of Meetings Review of Quarterly Financial Statements...\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The ARMC...undertaken the following activities and work during the year...Financial Reporting...\"\n• Evidence 2: \"The duties and responsibilities of the ARMC are set out in its terms of reference...\""
+  }
+}

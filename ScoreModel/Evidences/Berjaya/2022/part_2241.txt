@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"BFood has zero tolerance for discrimination...any other legally protected status.\" (neutral, factual policy statement)\n• Evidence 2: \"BFood has 25 disabled employees (0.467%)...\" (specific numerical data)"
+    "score": 7,
+    "justification": "• Evidence 1: \"BFood has zero tolerance for discrimination...any other legally protected status.\" (specific policy statement)\n• Evidence 2: \"BFood has 25 disabled employees (0.467%)\" (quantifiable data)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BFood strives to create a more inclusive workplace values all employees for their strengths.\" (concise, direct language)\n• Evidence 2: \"All the store’s staff are certified by Starbucks’s Coffee Master programme...\" (clear structure with specific qualifications)"
+    "score": 6,
+    "justification": "• Evidence 1: \"The Group provides similar compensation for male and female employees with a ratio of 1:1.\" (precise statement)\n• Evidence 2: \"Collaborating with The Society of Interpreters for the Deaf...\" (clear structure with subheadings)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"To comply with the Government COVID-19 guidelines...\" (links policy to external regulatory context)\n• Evidence 2: \"Currently, there are more than six Starbucks Signing stores...\" (specific project data with potential investor interest)"
+    "score": 4,
+    "justification": "• Evidence 1: \"To comply with the Government COVID-19 guidelines...\" (mentions regulatory compliance)\n• Evidence 2: \"Currently, there are more than six Starbucks Signing stores, globally.\" (forward-looking statement about expansion)"
   }
 }

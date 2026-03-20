@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Number of work-related fatalities C5(a) No. of fatalities 1\" [specific factual data]\n• Evidence 2: \"The outcome of the above review had been tabled as a report to the Audit Committee for their review and approval\" [internal verification process]"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Energy consumption C4(a) Gigajoules (GJ) 2,161,706.80 GJ\" [clear metrics with units]\n• Evidence 2: \"Procedures Adopted... internal auditors selected samples...\" [structured explanation of review process]"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Spending on local suppliers C7(a) % of spending 51.5%\" [material financial metric]\n• Evidence 2: \"The review does not carry out any procedures with respect to any other elements...\" [limits scope but lacks forward-looking info]"
+  }
+}

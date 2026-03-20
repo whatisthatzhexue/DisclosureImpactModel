@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee... was satisfied that they are able to exercise independent and objective judgement...\" (neutral, fact-based assessment)\n• Evidence 2: \"There was no significant matter of disagreement between the auditors and Management\" (objective disclosure of audit independence)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee continually evaluated... to ensure its activities were performed independently...\" (clear, direct language)\n• Evidence 2: \"Group Internal Audit had adopted and complied with the International Standards...\" (precise technical terms used appropriately)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee... reviewed the quarterly and annual consolidated financial statements...\" (directly relevant to investor decision-making)\n• Evidence 2: \"The Audit Committee... assessed the adequacy of the internal control system...\" (material governance information for investors)"
+  }
+}

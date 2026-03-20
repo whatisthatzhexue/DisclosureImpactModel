@@ -1,0 +1,159 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Dividend per Share: 60.0 sen' (specific financial disclosure)\n• Evidence 2: 'We conducted our inaugural Human Rights Due Diligence process' (transparent risk disclosure)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Group revenue grew by 3.6 per cent from RM3.99 billion in FY2020 to RM4.13 billion' (clear numerical data)\n• Evidence 2: 'Our 10MWp solar PV systems will replace 20 per cent of our electricity needs' (precise technical explanation)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Excluding one-off/non-operating items... Group profit before tax declined by 3.9 per cent' (material financial performance explanation)\n• Evidence 2: 'We are excited about the potential of building Halal Packaged Food into another growth pillar' (forward-looking strategic information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board through the NomCom engaged an external consultant... satisfied that the Independent Directors continued to exercise independent and objective judgement...\"\n• Evidence 2: \"The Board recognises that an extended time on the Board may impair a Director’s independence...\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board comprises eleven Non-Executive Directors whose varied skills and vast experience are relevant to the business operations of the Group.\"\n• Evidence 2: \"The Board Skills Matrix has been used as reference for the Directors’ improvement and succession planning.\""
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board is responsible for formulating on-going programmes to promote sustainability... integration of ESG factors in their decision-making process...\"\n• Evidence 2: \"The Group has in place a Code of Business Ethics and Conduct... to manage bribery and corruption risks...\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Company has in force Directors and Officers insurance policy essentially covering the acts of Directors and Officers and personal accident insurance policy for Directors.'\n• Evidence 2: 'The Audit Committee ensures that the external auditors are independent of the activities they audit, and reviews the contracts for provision of non-audit services by the external auditors.'"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Board has established the RemCom comprising five Non-Executive Directors, three of whom are Independent Directors, to assist the Board mainly in establishing formal and transparent remuneration policies and procedures.'\n• Evidence 2: 'The Audit Committee... reviews the quarterly reports and annual financial statements focusing particularly on compliance with applicable financial reporting standards and other legal requirements.'"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'The Board recognises the need for and the importance of effective communication with shareholders.'\n• Evidence 2: 'The Audit Committee... reviews any related party transactions and recurrent related party transactions and the relevant procedures to ensure compliance with the Listing Requirements.'"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board recognises that the system of risk management and internal control are designed to manage and mitigate risks rather than eliminate risks... provide only reasonable and not absolute assurances against material misstatements or losses.\"\n• Evidence 2: \"The ERM policy was reviewed and updated to benchmarked against the ISO31000:2018 Risk Management – Guidelines.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group adopts the Enterprise-wide Risk Management Policy (\"ERM Policy\")...\" (clear structure with defined terminology).\n• Evidence 2: \"The SRMC also maintains a close relationship with the Audit Committee...\" (direct explanation of roles)."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"This Statement... provide our stakeholders... information about the adequacy and current state of... system of risk management and internal control.\"\n• Evidence 2: \"The SRMC... determines the nature and extent of significant risks...\" (links to governance and risk factors)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 1,
+    "justification": "• Evidence 1: [No specific risks, challenges, or uncertainties disclosed]\n• Evidence 2: [No factual support or objective analysis provided]"
+  },
+  "Understandability": {
+    "score": 2,
+    "justification": "• Evidence 1: [Headings lack explanatory content or logical flow]\n• Evidence 2: [No precise language or contextual clarification]"
+  },
+  "Relevance": {
+    "score": 1,
+    "justification": "• Evidence 1: [No forward-looking information or material events mentioned]\n• Evidence 2: [No investor-focused details or governance explanations]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Key Risk Indicators (\"KRIs\"), presented in the form of Key Risk Dashboard, are also established to monitor risks...\"\n• Evidence 2: \"Changes to risk profiles and emerging risks are also identified and promptly brought to the attention of the Board...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The following areas of governance contained clearly defined corporate values...\"\n• Evidence 2: \"The Group operates on an enterprise resource planning system which integrates various facets of the Group’s operations.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"For discussion on assessment of key risk areas...refer to Management Discussion & Analysis section...\"\n• Evidence 2: \"The risk management process in the Group is reviewed on a periodic basis by Internal Audit team...\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board is of the view that the Group’s overall risk management and internal control system is sound and adequate in all material aspects...\" (neutral, supported by external auditor confirmation)\n• Evidence 2: \"The External Auditors... have reported to the Board that nothing has come to their attention that has caused them to believe that the Statement has not been prepared in accordance with the disclosures required...\" (objective, third-party validation)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Framework and the BCM plans developed are reviewed on an annual basis and tested periodically...\" (clear structure with specific actions)\n• Evidence 2: \"The Directors... have the responsibility to ensure that a system of internal control is in place...\" (precise language, though some technical terms like 'Murabahah' may require contextual knowledge)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group’s pandemic preparedness was further strengthened... collaboration and coordination with our external stakeholders...\" (material event with risk disclosure)\n• Evidence 2: \"The Directors... are responsible for ensuring that proper accounting and other records are kept...\" (corporate governance and internal control relevance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Sustainability metrics are aligned with F&N Group’s targets and with all executives’ annual variable compensation... weighted at 15% of the annual variable compensation plan' (specific factual disclosure).\n• Evidence 2: '13 new products introduced of non-compliance with laws and regulations in the social and economic area resulting in a fine, penalty or warning' (disclosure of risks, though the phrasing is unclear)."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Our sustainability metrics are aligned with F&N Group’s targets and with all executives’ annual variable compensation...' (clear structure and direct language).\n• Evidence 2: 'Zero INCIDENT' repeated twice with no contextual explanation (redundant and vague phrasing)."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'F&NHB maintained a resilient economic performance in the face of external shocks... depends upon all six capitals' (material risk and performance context for investors).\n• Evidence 2: 'Community investment for the year... >RM2,500,000' (quantifiable social impact relevant to stakeholder decision-making)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"zero Loss Time injury case for employees\" (specific factual claim)\n• Evidence 2: \"100% of our operations have been subjected to human rights reviews\" (quantifiable, verifiable statement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"5. EMPOWER OUR PEOPLE\" (clear section heading)\n• Evidence 2: \"Estimated carbon avoidance of 9,000 tonnes CO2e per year\" (precise numerical data)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our approach is guided by our Energy Management policy with five focus areas\" (forward-looking strategic planning)\n• Evidence 2: \"Water is an important resource... future\" (explicit risk disclosure related to operational sustainability)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"97% of packaging is recyclable\" (specific fact)\n• Evidence 2: \"Over 91% solid waste reused, recycled or recovered\" (quantifiable data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our focus is on designing for the environment – striving to leave a minimum impact on the environment\" (clear, direct language)\n• Evidence 2: \"22% recycled content in beverage and dairy packaging\" (precise, measurable statement)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Acting on this change could allow F&N to reduce our resource intensity in packaging\" (forward-looking information)\n• Evidence 2: \"100% industrial sludge 1,247 MT converted to organic fertiliser and distributed to local farmers\" (specific operational impact)"
+  }
+}

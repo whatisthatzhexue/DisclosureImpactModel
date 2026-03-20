@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\" (External verification supports objectivity)\n• Evidence 2: \"The Group strives to review the Materiality Matrix on an annual basis.\" (Demonstrates commitment to ongoing assessment)"
+    "justification": "• Evidence 1: \"The financial figures in this Sustainability Statement have been externally verified.\"\n• Evidence 2: \"Compliance audits are conducted regularly to ensure suppliers comply with the local regulatory hygiene practices.\""
   },
   "Understandability": {
     "score": 6,
-    "justification": "• Evidence 1: \"The Sustainability Working Committee oversees the overall planning...\" (Clear role definition)\n• Evidence 2: \"For every cookie purchased...RM1 will be donated...\" (Specific example clarifies impact, though formatting issues may reduce clarity)"
+    "justification": "• Evidence 1: \"Head of SWG Harmonize & Standardize\" (ambiguous role description)\n• Evidence 2: \"Annu A l Repo R t 2020 023\" (typographical error indicating poor formatting)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Board and management are committed to continually refining...\" (Relevant to corporate governance and management processes)\n• Evidence 2: \"Compliance audits are conducted regularly...\" (Directly addresses risk management and regulatory compliance)"
+    "justification": "• Evidence 1: \"The Board and management are committed to continually refining and improving these processes over time.\"\n• Evidence 2: \"For every cookie purchased by Starbucks customers, RM1 will be donated to the Silent Teddies Bakery.\""
   }
 }

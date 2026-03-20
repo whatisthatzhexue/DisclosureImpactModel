@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"This Statement has been prepared in accordance with the Main Market Listing Requirements...\" (neutral, objective compliance statement)\n• Evidence 2: \"QL Poultry Farm Sdn Bhd and QL Breeder Farm Sdn Bhd offer different types of poultry farming activities...\" (specific factual disclosure)"
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Poultry Farm Sdn Bhd and QL Breeder Farm Sdn Bhd offer different types of poultry farming activities... poultry mortality rate at QL Breeder Farm Sdn Bhd increased by 0.13%\" (discloses risks and specific data).\n• Evidence 2: \"Our materiality process is presented as follows: Diagram 2: Flowchart of materiality assessment process\" (supports claims with visual aids and structured methodology)."
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Statement is structured into four sections...\" (clear organizational framework)\n• Evidence 2: \"Table 1: Stakeholder engagement modes, focus areas & responses\" (direct, tabular presentation of information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Statement is structured into four sections: • The first section gives an overview... • The final section reports on the practices...\" (clear logical structure).\n• Evidence 2: \"Table 2: List of current certifications...\" (uses tables to present complex information concisely)."
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"QL acknowledges that stakeholders significantly contribute towards the sustainable growth of QL...\" (stakeholder focus relevant to investors)\n• Evidence 2: \"Our materiality process is presented as follows: Diagram 2...\" (materiality assessment relevant to risk evaluation)"
+    "justification": "• Evidence 1: \"QL acknowledges that stakeholders significantly contribute towards the sustainable growth of QL...\" (addresses stakeholder concerns relevant to investors).\n• Evidence 2: \"Climate change and emissions... regulatory requirements impose discharge limits...\" (includes risks and compliance factors critical for decision-making)."
   }
 }

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Generated over 53,061 GJ of renewable energy from solar and biogas\" (specific factual data)\n• Evidence 2: \"In FY2022, the biogas plant performance was affected by lower processing activities in palm oil mill\" (disclosure of operational challenges)"
+    "justification": "• Evidence 1: 'Zero fatality and LTIFR improvement of 2.95% from FY2021' (specific performance metric)\n• Evidence 2: 'QL has not sought external assurance on the data presented in this statement' (transparent disclosure of limitations)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Diverted 97.0% non-hazardous waste generated away from landfill; composted over 95.3% manure into organic fertiliser\" (clear, quantifiable metrics)\n• Evidence 2: \"QL’s Board of Directors (the Board) sets the sustainability direction for the Group\" (direct explanation of governance structure)"
+    "justification": "• Evidence 1: 'Generated over 53,061 GJ of renewable energy from solar and biogas' (clear, concise metric)\n• Evidence 2: 'Materiality Matrix' (visual structure aids comprehension of priorities)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Upgraded the fishing equipment of 914 fishermen via RM20.81 million interest-free Fishermen Financial Assistance Scheme (FFAS)\" (specific community impact)\n• Evidence 2: \"Materiality Assessment: 17 matters which are most material to our business\" (direct relevance to investor decision-making)"
+    "score": 8,
+    "justification": "• Evidence 1: 'Assisted 13,200 beneficiaries via our Corporate Philanthropy collaborations' (investor-relevant social impact)\n• Evidence 2: 'Compliance with GRI Standards 2016' (directly relevant to ESG investment decisions)"
   }
 }

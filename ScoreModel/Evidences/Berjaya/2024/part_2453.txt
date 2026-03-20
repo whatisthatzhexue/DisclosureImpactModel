@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"68 partners volunteered and contributed 54,4 community service hours to prepare 1,420 packs of bubur lambuk...\" (specific factual claims)\n• Evidence 2: \"Starbucks Malaysia donated unused furniture for the café and classrooms.\" (objective description of actions)"
+    "justification": "• Evidence 1: \"With WaW, 68 partners volunteered and contributed 544 community service hours to prepare 1,420 packs of bubur lambuk...\" (specific quantitative data)\n• Evidence 2: \"Starbucks Malaysia donated unused furniture for the café and classrooms. Twenty-eight employees...volunteered 84 hours\" (objective, verifiable actions)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"BStarbucks collaborated with Soroptimist International... to establish an organic farm...\" (clear structure with specific partnerships)\n• Evidence 2: \"Fifty-seven volunteers contributed 171 community service hours.\" (precise numerical details)"
+    "score": 8,
+    "justification": "• Evidence 1: \"544 community service hours\" (precise numerical expression)\n• Evidence 2: \"BStarbucks collaborated with Soroptimist...to establish an organic farm...\" (clear structure with direct language)"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Since 2016, Starbucks Malaysia has partnered with The Society of Interpreters...\" (limited relevance to corporate social responsibility)\n• Evidence 2: \"BStarbucks donated 250 kg of used coffee grounds...\" (no financial performance or risk disclosures)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Starbucks Malaysia has partnered with The Society of Interpreters for the Deaf...to support their Community Service Center\" (investor-relevant CSR initiatives)\n• Evidence 2: \"donated 250 kg of used coffee grounds...to support all 25 farmers\" (material impact on stakeholders)"
   }
 }

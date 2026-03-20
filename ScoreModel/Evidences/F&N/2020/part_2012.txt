@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"F&N ICE MOUNTAIN sparked greater sales\" (no risk disclosure)\n• Evidence 2: \"No. 1* in Total Malaysia...\" (specific factual claims with Nielsen data)"
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N ICE MOUNTAIN sparked greater sales with the introduction of a carbonated range in November 2019.\" (specific factual claim)\n• Evidence 2: \"No. 1* in Total Malaysia in Carbonated Soft Drink category\" (supported by Nielsen data citation)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"recyclable paper featuring caps made from sugar cane\" (clear product description)\n• Evidence 2: \"easy-grip packaging...convenient for consumers of all ages\" (precise technical explanation)"
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N ICE MOUNTAIN is now available in an eco-friendly packaging option, made of recyclable paper featuring caps made from sugar cane.\" (precise, direct description)\n• Evidence 2: \"The easy-grip packaging, which is convenient for consumers of all ages...\" (clear structure with specific details)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"launch of F&N Ready-to-drink Teh Tarik...enjoyed anytime, anywhere\" (forward-looking usage context)\n• Evidence 2: \"No. 1* in Total Malaysia...\" (market position relevant to investors)"
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N Ready-to-drink Teh Tarik... can be enjoyed anytime, anywhere.\" (forward-looking convenience claim)\n• Evidence 2: \"No. 1* in Total Malaysia in Evaporated Milk category\" (market position relevant to investors)"
   }
 }

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"We are also prudent when undertaking and implementing expansion plans. Agro-food sector is a demanding business. It exacts capital, care and caution with its numerous challenges that range from business and climate change, consumer sentiments and perception, food quality and safety to availability of resources.\"\n• Evidence 2: \"The growth experienced to-date is due to the investment undertaken previously.\""
+    "score": 6,
+    "justification": "• Evidence 1: \"We are prudent when undertaking and implementing expansion plans. Agro-food sector is a demanding business... challenges that range from business and climate change, consumer sentiments and perception, food quality and safety to availability of resources.\"\n• Evidence 2: \"The growth experienced to-date is due to the investment undertaken previously.\""
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"We regularly evaluate the key areas across our business pillars, looking at demand against a backdrop of market direction to identify segments which have greater room for growth, and segment which we are optimistic positively contribute to QL’s business growth vision.\"\n• Evidence 2: \"The table below outlines Capex in the last five years to ensure uninterrupted business growth.\""
+    "justification": "• Evidence 1: \"QL subscribes to the philosophy of continued business growth. We regularly evaluate the key areas across our business pillars...\" (clear structure with logical progression)\n• Evidence 2: \"Table 2: Total amount of Capex\" (direct labeling of data presentation)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"We strive to drive long-term corporate growth and profitability while considering EES impacts.\"\n• Evidence 2: \"Further reading on this can be found on page 28 to 37\" (indicates material information for investors)"
+    "score": 6,
+    "justification": "• Evidence 1: \"We strive to drive long-term corporate growth and profitability while considering EES impacts\" (forward-looking information)\n• Evidence 2: \"Further reading on this can be found on page 28 to 37\" (reference to detailed risk disclosures)"
   }
 }

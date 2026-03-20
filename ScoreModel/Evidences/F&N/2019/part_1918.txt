@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: Notes disclose restatements for MFRS 15 adoption and clarify that prior-year comparatives are not restated, ensuring transparency about accounting changes.\n• Evidence 2: The (ii) note explicitly states the proposed dividend is conditional on shareholder approval, avoiding overstatement of confirmed figures."
+    "score": 7,
+    "justification": "• Evidence 1: The text discloses restatements for MFRS 15 adoption (i) and notes proposed dividends (ii), indicating transparency.\n• Evidence 2: Numerical data (e.g., earnings, dividend cover) is presented without overt bias, though risks/challenges are not explicitly detailed."
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: Data is organized in clear sections (e.g., 'Dividend per share,' 'Ratio (%)'), but units like 'sen' are not defined, risking confusion.\n• Evidence 2: The note about 'proposed dividend of 33.0 sen' is specific but lacks contextual explanation for less familiar readers."
+    "score": 5,
+    "justification": "• Evidence 1: Data is presented in a table-like format with numerical values, but lacks clear headings or explanations for each line.\n• Evidence 2: Abbreviations like 'sen' and unclear formatting (e.g., '– – – – –') may confuse readers without additional context."
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: Includes material events (restatements, proposed dividend) and financial ratios relevant to investor decision-making.\n• Evidence 2: Lacks explanation of performance changes (e.g., why earnings fluctuated) or forward-looking information beyond the proposed dividend."
+    "score": 5,
+    "justification": "• Evidence 1: Includes forward-looking info (proposed dividend note ii) and financial ratios relevant to investors.\n• Evidence 2: Lacks explanations for performance changes (e.g., earnings trends) and material events beyond restatements."
   }
 }

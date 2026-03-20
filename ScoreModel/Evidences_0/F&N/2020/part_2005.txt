@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Ministry of Finance in its Economic Report published in November 2020 has predicted a contraction in the economy of 4.5 per cent for the year.\"\n• Evidence 2: \"We did not proceed to launch a healthier choice for 'Energy' category. F&N takes the position that reducing the sugar level of our energy drinks drastically would result in a loss of its functionality and purpose to our consumers.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The economy contracted drastically in the second quarter, improving in the third quarter along with an easing of lockdown measures.\"\n• Evidence 2: \"Our sales teams worked closely with customers such as supermarket/hypermarket chains to ensure they always had enough stock of our products.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Both our key markets – Malaysia and Thailand – have been significantly impacted by the global COVID-19 pandemic, which has severely curtailed economic activity as well as trade.\"\n• Evidence 2: \"Malaysia’s e-commerce market is expected to grow by 24.7 per cent in 2020 and to exceed RM51 billion by 2024.\"\n• Evidence 3: \"We achieved a milestone in 2020 by installing our first solar panel roof, at our plant in Rojana, Thailand.\""
+  }
+}

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 2,
-    "justification": "• Evidence 1: The text contains numerical percentages (e.g., '39%') without contextual explanation or risk disclosure, violating reliability criteria.\n• Evidence 2: No discussion of risks, uncertainties, or objective analysis is present, lacking neutrality and factual support."
+    "score": 3,
+    "justification": "• Evidence 1: No disclosure of risks, challenges, or uncertainties\n• Evidence 2: Data presented without contextual explanation or verification"
   },
   "Understandability": {
     "score": 4,
-    "justification": "• Evidence 1: The text lacks clear labeling for percentages (e.g., '39%' under 'TOTAL ASSETS' without specifying what the percentage represents).\n• Evidence 2: Mixed formatting (e.g., 'F&B Malaysia' vs. 'Property/Others') creates confusion without contextual clarification."
+    "justification": "• Evidence 1: Fragmented structure with unclear groupings of percentages\n• Evidence 2: Repetitive formatting without clear headings or definitions"
   },
   "Relevance": {
-    "score": 1,
-    "justification": "• Evidence 1: No analysis of performance changes, forward-looking statements, or material events is provided.\n• Evidence 2: The segmental revenue data is presented without explanation of its significance to investors or business context."
+    "score": 3,
+    "justification": "• Evidence 1: No explanation of performance changes or forward-looking information\n• Evidence 2: Missing material events, corporate governance, or risk factors"
   }
 }

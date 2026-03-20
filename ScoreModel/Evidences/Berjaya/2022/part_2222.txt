@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 5,
-    "justification": "• Evidence 1: The text lacks specific facts or metrics to support claims (e.g., no data on waste reduction rates or employee satisfaction scores).\n• Evidence 2: No mention of risks, challenges, or uncertainties related to sustainability efforts."
+    "score": 7,
+    "justification": "• Evidence 1: \"Minimising waste and managing its disposal responsibly according to requirements by the authorities\" (specific, objective statement)\n• Evidence 2: \"Upholding workplace safety for injury prevention\" (neutral, factual description)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: Clear structure with bullet points and logical categorization (e.g., Pillar, Focus Area, GRI Topics).\n• Evidence 2: Direct language explaining sustainability initiatives without excessive jargon."
+    "score": 9,
+    "justification": "• Evidence 1: Clear structure with distinct sections for Pillar, Focus Area, and corresponding GRI topics/UNSDGs\n• Evidence 2: Direct language like \"Prioritising employees’ health and well-being\" without vague or redundant expressions"
   },
   "Relevance": {
-    "score": 5,
-    "justification": "• Evidence 1: The text provides general information on sustainability priorities but lacks forward-looking statements or risk disclosures relevant to investors.\n• Evidence 2: No mention of material events, corporate governance, or internal management factors."
+    "score": 4,
+    "justification": "• Evidence 1: No mention of financial performance, material events, or risks impacting investors\n• Evidence 2: Focus on general sustainability initiatives rather than forward-looking statements or governance mechanisms"
   }
 }

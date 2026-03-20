@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Group announced and paid a total dividend of 3.50 sen single-tier dividend per share for the financial year ended 30 June 2023 as compared to 1.10 sen single-tier dividend per share for the preceding financial year ended 30 June 2022.\"\n• Evidence 2: \"The International Monetary Fund (IMF) is forecasting global growth of 2.3% in 2023, a 0.4% increase over the January 2023 prediction.\""
+    "score": 7,
+    "justification": "• Evidence 1: 'The Group announced and paid a total dividend of 3.50 sen single-tier dividend per share for the financial year ended 30 June 2023' (specific, factual disclosure)\n• Evidence 2: 'The International Monetary Fund (IMF) is forecasting global growth of 2.3% in 2023' (cites a credible source but lacks quantitative risk analysis)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Group will continue to offer innovative products and services.\"\n• Evidence 2: \"The Board is pleased to announce that BStarbucks has achieved unprecedented levels of efficiency in its promotional efforts and brand consistency.\""
+    "score": 6,
+    "justification": "• Evidence 1: 'RM148.73 million (2022: RM187.99 million)' (clear numerical comparison)\n• Evidence 2: 'The velvety Starbucks Nitro Cold Brew, one of Starbucks Malaysia’s many specialty offerings' (sudden, unrelated product mention disrupts flow)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The global economy is still facing significant challenges such as rising inflation, higher interest rates, and slower economic growth...\"\n• Evidence 2: \"The Group will continue to offer innovative products and services to tap into and capture this growth segment.\""
+    "score": 6,
+    "justification": "• Evidence 1: 'Global growth of 2.3% in 2023, a 0.4% increase over the January 2023 prediction' (forward-looking economic context relevant to investors)\n• Evidence 2: 'BStarbucks has achieved unprecedented levels of efficiency in its promotional efforts' (corporate performance metrics relevant to stakeholders)"
   }
 }

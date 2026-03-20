@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Group Profit Before Tax (RM million) FY2016 333.8 FY2017 353.7 442.9' (specific financial figures)\n• Evidence 2: 'Foreign currency exchange exposure Commodity prices' (disclosure of risks and uncertainties)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Management Discussion & Analysis' section provides structured breakdown of financial performance (clear logical flow)\n• Evidence 2: 'Corporate Governance' section outlines board structure and committees (precise but dense technical terminology)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'F&NHB's transformation... enabled the Group to absorb most of the commodity price increases' (explains performance changes)\n• Evidence 2: 'Risk Management Committee... to identify and rectify significant deficiencies' (includes risk management information)"
+  }
+}

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 3,
-    "justification": "• Evidence 1: [Risk management] (no specific risks, challenges, or uncertainties disclosed)\n• Evidence 2: [Cybersecurity & data privacy] (no supporting facts or neutral statements provided)"
+    "score": 1,
+    "justification": "• Evidence 1: No specific risks, challenges, or uncertainties are disclosed in the text.\n• Evidence 2: The text contains only topic headings without factual support or objective analysis."
   },
   "Understandability": {
     "score": 5,
-    "justification": "• Evidence 1: [Energy & climate change management] (clear heading but lacks explanatory context)\n• Evidence 2: [Employee wellness engagement & satisfaction] (precise term but no elaboration on meaning)"
+    "justification": "• Evidence 1: The text uses clear, direct language with a structured list format.\n• Evidence 2: However, the lack of detail and explanation reduces clarity for understanding the disclosed information."
   },
   "Relevance": {
-    "score": 3,
-    "justification": "• Evidence 1: [Diversity, inclusion & talent development] (no link to investor decision-making or performance changes)\n• Evidence 2: [Human rights] (no forward-looking information or material event disclosure)"
+    "score": 2,
+    "justification": "• Evidence 1: The topics are relevant to investors (e.g., cybersecurity, diversity), but no connection to performance or decision-making is explained.\n• Evidence 2: No forward-looking information, risks, or governance details are provided."
   }
 }

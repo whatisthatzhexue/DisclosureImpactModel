@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Included proposed dividend of 33.0 sen, which will only be recognised in the financial statements upon shareholders’ approval.\" (Discloses conditional recognition of dividend)\n• Evidence 2: \"For the fourth year in a row, we are offering an interim single-tier dividend of 27.0 sen per share...\" (Provides specific, factual dividend figures)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Included proposed dividend of 33.0 sen, which will only be recognised in the financial statements upon shareholders’ approval.\" (explicitly states conditional recognition)\n• Evidence 2: \"Despite having gone through two-and-a-half years of a pandemic and continuing headwinds, the Group has been able to maintain our dividend.\" (acknowledges challenges while stating dividend continuity)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Final dividend of 33.0 per share (amounting to RM121.0 million)\" (Clear, direct language with numerical specifics)\n• Evidence 2: \"Proposed dividend of 33.0 sen... will only be recognised...\" (Simple structure explaining conditional recognition)"
+    "justification": "• Evidence 1: \"Final dividend of 33.0 per share (amounting to RM121.0 million)\" (clear numerical specifics)\n• Evidence 2: \"Interim single-tier dividend of 27.0 sen per share\" (precise terminology for dividend types)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"Despite having gone through two-and-a-half years of a pandemic... the Group has been able to maintain our dividend\" (Relevant context for investor decision-making)\n• Evidence 2: \"Shareholders’ approval\" (Links to corporate governance and shareholder rights)"
+    "score": 7,
+    "justification": "• Evidence 1: \"For the fourth year in a row, we are offering an interim single-tier dividend...\" (provides historical context for dividend policy)\n• Evidence 2: \"look forward to meeting our shareholders again in person during our AGM in January 2023\" (includes material event timing relevant to shareholder engagement)"
   }
 }

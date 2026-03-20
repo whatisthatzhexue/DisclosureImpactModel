@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Code of Conduct, Anti-Bribery and Corruption Policy, Whistleblowing Policy and Grievance Procedures are available at the company’s website...\" (specific fact)\n• Evidence 2: \"The Board met five -5 times during the financial year...\" (quantifiable data)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board meets regularly to perform its main functions...\" (clear structure and direct language)\n• Evidence 2: \"Prior to each Board meeting, all Board members are furnished with relevant documents...\" (precise explanation of processes)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Board meets regularly to perform its main functions of developing and monitoring of strategic plans...\" (corporate governance relevance)\n• Evidence 2: \"attendance of each Director at the Board Meetings was as follows:\" (material information for investors)"
+  }
+}

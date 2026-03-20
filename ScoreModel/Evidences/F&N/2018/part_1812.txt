@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"F&NHB received the Malaysian Enterprise Innovation Award 2018 by Asia IoT Business Platform (AIBP) in recognition of companies who are embarking on digitally transforming their businesses through the adoption of technology\" (specific factual claim).\n• Evidence 2: \"We have developed four main thematic areas...\" (clear, verifiable description of initiatives)."
+    "score": 7,
+    "justification": "• Evidence 1: \"RM294.4 million\" (specific financial figures)\n• Evidence 2: \"received the Malaysian Enterprise Innovation Award 2018\" (third-party recognition)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"We are striving to enhance social well-being through our community outreach programmes...\" (clear structure with logical flow).\n• Evidence 2: \"Over the past year, we have expanded this programme to 364 schools...\" (precise, direct language with specific numbers)."
+    "score": 8,
+    "justification": "• Evidence 1: \"Empowering our People\" section with clear subheadings\n• Evidence 2: \"more than 389 at Montfort Town have gained the certification\" (precise numerical data)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"DELIVERING VALUE THROUGH SOCIAL COLLABORATION, HUMAN CAPITAL DEVELOPMENT & INNOVATION\" (forward-looking strategic focus relevant to investors).\n• Evidence 2: \"We are proud that 100% of our senior management...are hired from the local community\" (material information about corporate governance and workforce practices)."
+    "score": 6,
+    "justification": "• Evidence 1: \"creating and launching new products with lower sugar content\" (forward-looking initiative)\n• Evidence 2: \"expanded this programme to 364 schools\" (material event disclosure)"
   }
 }

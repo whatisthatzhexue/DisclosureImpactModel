@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"QL finished FY2017 Management Discussion and Analysis on firm footing with a growth of 6% in top line and 4% in Profit Before Tax (PBT)\" [specific financial data]\n• Evidence 2: \"The weaker Ringgit brought about a thermocline effect...\" [disclosure of currency risk]"
+    "score": 8,
+    "justification": "• Evidence 1: \"Integrity and ethicality are vital in the current business climate, where temptation to blur best practices in pursuit of better margins may arise.\"\n• Evidence 2: \"The weaker Ringgit brought about a thermocline effect... cold on our raw material imports with the higher exchange required.\"\n• Evidence 3: \"QL is confident that the move to extend into convenience store business via FamilyMart will strengthen the Group’s position...\"\n• Evidence 4: \"We will continue to invest prudently towards securing upstream resources...\"\n• Evidence 5: \"The rising cost of operations however will continue pressuring margins.\"\n• Evidence 6: \"The Indonesia plantation which currently accounts of almost 90% of our planted estate...\"\n• Evidence 7: \"The immediate focus is to fill the gap in the Klang Valley...\"\n• Evidence 8: \"The Audit Committee... reviewed and recommended the Statement on Corporate Governance...\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Regional replication where core activities and value chains are replicated in major Southeast Asian markets\" [clear strategic explanation]\n• Evidence 2: \"The ten ILF operations bases of QL had mixed fortunes\" [precise description of operational risks]"
+    "score": 7,
+    "justification": "• Evidence 1: \"Our corporate governance statement and reports can be read on pages 28 to 40.\"\n• Evidence 2: \"The financial year under review of 1 April 2016 to 31 March 2017 was a period where QL Resources Berhad remained steadfast to our three-pronged strategy...\"\n• Evidence 3: \"The Audit Committee... reviewed and recommended the Statement on Corporate Governance, AC Report and Statement on Risk Management and Internal Control, to the Board for its approval.\"\n• Evidence 4: \"The internal audit is risk-based and has incorporated the Group’s identified risks focusing on those which would have most impact to the business objectives of the Group.\"\n• Evidence 5: \"The internal audit function provided the AC on a quarterly basis, an independent and objective reports on the state of internal control...\""
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Looking forward, I am optimistically confident that QL will further strengthen our market position...\" [forward-looking statement]\n• Evidence 2: \"The Indonesia plantation which currently accounts of almost 90% of our planted estate...\" [material event disclosure]"
+    "score": 7,
+    "justification": "• Evidence 1: \"Looking forward, I am optimistically confident that QL will further strengthen our market position as the leading surimi-based manufacturer and egg producer in Asia...\"\n• Evidence 2: \"The outlook for ILF in the coming year is generally optimistic...\"\n• Evidence 3: \"The global economic outlook for 2017 is generally positive...\"\n• Evidence 4: \"The Audit Committee... reviewed and recommended the Statement on Risk Management and Internal Control, to the Board for its approval.\"\n• Evidence 5: \"The rising cost of operations however will continue pressuring margins.\"\n• Evidence 6: \"The Indonesia plantation which currently accounts of almost 9,000 hectares planted estates...\"\n• Evidence 7: \"The immediate focus is to fill the gap in the Klang Valley...\"\n• Evidence 8: \"The Audit Committee... reviewed and recommended the appointment of the Company’s External Auditors for the provision of non-audit services...\""
   }
 }

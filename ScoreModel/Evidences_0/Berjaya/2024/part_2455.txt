@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Twenty-one BStarbucks employees... contributed 63 community service hours.\" (specific factual data)\n• Evidence 2: \"HOPEww recognises BStarbucks as its long-time partner.\" (third-party validation)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The event fostered community unity and raised awareness...\" (clear, direct language)\n• Evidence 2: \"131 participants... attended the workshops...\" (precise numerical details)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Company sponsored 200 grande-sized frappuccinos... raised approximately RM150,000.\" (financial impact for investors)\n• Evidence 2: \"The event... raised nearly RM100,000 in funds.\" (quantifiable community impact)"
+  }
+}

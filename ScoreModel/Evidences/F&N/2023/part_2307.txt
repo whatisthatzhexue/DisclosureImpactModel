@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Regulatory risks (e.g. sugar tax) from the markets we operate in; focusing on Nutrition helps mitigate this\"\n• Evidence 2: \"We achieved 0 LTIFR this year\" (specific factual achievement)"
+    "score": 10,
+    "justification": "• Evidence 1: \"100% of our plants and production processes are certified with Halal Standards.\" (specific fact)\n• Evidence 2: \"Human rights violations in operations and supply chain lead to regulatory risks, monetary fines and reputational risk.\" (discloses risks and challenges)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"SUSTAINABILITY FRAMEWORK\" section with clear headings and mapped material issues\n• Evidence 2: \"32.9 training hours per employee in the executive category\" (precise numerical data)"
+    "justification": "• Evidence 1: \"Helping consumers lead healthy lives by developing nutritious and accessible products.\" (clear, direct language)\n• Evidence 2: \"Reduce the Lost Time Injury Frequency Rate (LTIFR) to 0\" (defines acronyms for clarity)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"2025 Target Material Issue\" section with specific performance metrics (e.g., 64% of products endorsed with Healthier Choice Logo)\n• Evidence 2: \"Absence of community programmes... impacts employee morale\" (direct link to stakeholder impact)"
+    "justification": "• Evidence 1: \"To be a stable and sustainable Food & Beverage leader in the ASEAN region.\" (forward-looking strategic goal)\n• Evidence 2: \"Inadequate equilibrium between social, economic and environmental requirements results in financial implications.\" (links sustainability to financial risks)"
   }
 }

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"All meetings of the Board were duly recorded in the Board minutes by the Company Secretary.\" (Truthful, objective disclosure of procedural compliance)\n• Evidence 2: \"The Board’s approval is sought via circular resolutions... accompanied with sufficient and relevant information\" (Neutral description of decision-making processes)"
+    "score": 8,
+    "justification": "• Evidence 1: 'The Board plans to meet at least four -4 times a year...' (specific frequency details)\n• Evidence 2: 'All meetings of the Board were duly recorded...' (objective description of procedures)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board plans to meet at least four -4 times a year at quarterly intervals\" (Clear, direct statement of frequency)\n• Evidence 2: \"The Company Secretary ensures that all Board meetings are properly convened...\" (Logical flow with precise responsibilities)"
+    "score": 9,
+    "justification": "• Evidence 1: 'The Board members in their individual capacity have unrestricted access...' (clear, direct language)\n• Evidence 2: 'The Company Secretary also attended all Board Meetings...' (precise description of roles)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Supply of Information... unrestricted access to complete information...\" (Directly relevant to investor decision-making)\n• Evidence 2: \"Board Composition... review of Board composition\" (Material governance disclosure for stakeholders)"
+    "justification": "• Evidence 1: 'Audit Committee meetings were not combined with the Board Meetings...' (corporate governance detail relevant to investors)\n• Evidence 2: 'The Directors also have access to the advice...' (internal management structure relevant to oversight)"
   }
 }

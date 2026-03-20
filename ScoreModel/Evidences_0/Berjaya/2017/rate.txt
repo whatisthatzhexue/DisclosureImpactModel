@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "Most scoring results (e.g., 9 and 8) highlight robust reliability through specific factual disclosures (e.g., precise revenue figures, impairment explanations, compliance with governance standards) and neutral, objective language. However, some entries (e.g., score 7) lack risk disclosure or overstate findings, while one entry (score 0) contains no content. The final score of 8 reflects strong reliability across most sections, with minor inconsistencies in risk transparency and one outlier."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "High-quality entries (e.g., scores 8 and 9) provide material event disclosures (e.g., performance changes, dividend sustainability, governance compliance) and forward-looking information relevant to investors. Lower scores (e.g., 4 and 5) lack explanations of performance changes or risk disclosures. The score of 7 balances the majority of relevant, investor-focused content with exceptions where strategic or risk-related details are absent."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "Most entries (e.g., scores 9 and 8) demonstrate clear, precise language (e.g., numerical comparisons, structured headings, logical flow) that enhances readability. Lower scores (e.g., 7) still maintain clarity with direct explanations, while the zero-score entry is an outlier. The final score of 8 reflects consistent clarity and structured presentation across the majority of sections, with minor variations in detail depth."
+  }
+}

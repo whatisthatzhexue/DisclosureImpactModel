@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 1, "justification": "• Evidence 1: [no specific facts or disclosures of risks/challenges/uncertainties]\n• Evidence 2: [text lacks objective information and overstates with vague commitments]"},
+  "Understandability": {"score": 2, "justification": "• Evidence 1: [text contains vague and redundant phrases 'Employers Commitment Employees Commitment']\n• Evidence 2: [no clear structure or logical flow]"},
+  "Relevance": {"score": 1, "justification": "• Evidence 1: [no forward-looking information or material events disclosed]\n• Evidence 2: [no risks, governance, or investor-relevant details provided]"}
+}

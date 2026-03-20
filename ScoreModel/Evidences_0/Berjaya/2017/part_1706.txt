@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"100% Berjaya Food (International) Sdn Bhd\" (specific factual ownership details)\n• Evidence 2: No subjective language or overstatements, but lacks disclosure of risks/challenges (as required by criteria)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"100% Berjaya Food Trading Sdn Bhd\" (clear ownership percentages)\n• Evidence 2: Direct structure showing parent-subsidiary relationships without redundant or obscure expressions"
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: No explanation of performance changes or forward-looking information\n• Evidence 2: Lacks disclosure of risks, material events, or corporate governance elements required for investor decision-making"
+  }
+}

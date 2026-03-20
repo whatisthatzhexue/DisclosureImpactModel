@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"36% Female\" (specific factual data)\n• Evidence 2: \"Male 64%\" (specific factual data)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Formulating strategic direction...\" (clear, direct language)\n• Evidence 2: Bullet points structure (logical organization of responsibilities)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Facilitating faster decision-making...\" (relevant to governance structure)\n• Evidence 2: \"strategic direction and initiatives...\" (pertains to investor-relevant governance functions)"
+  }
+}

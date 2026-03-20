@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The programme raises awareness about upcycling used coffee bags while supporting the B40 community through income-generating sewing projects.\" (specific facts about program impact)\n• Evidence 2: \"543.71 kg of used coffee grounds donated to YWCA KL's urban edible garden\" (quantifiable data supporting claims)"
+    "score": 10,
+    "justification": "• Evidence 1: \"The Company organised 15 volunteering sessions with 343 volunteers contributing 804 community service hours.\" (specific, factual data)\n• Evidence 2: \"Funds will be used to establish and expand farms and provide additional support for complementary activities...\" (discloses purpose and risks like food insecurity)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"Starbucks Flavorlock™ donated by customers since FY2019\" (clear numerical data presentation)\n• Evidence 2: \"The session exposed the volunteers to pouch processing...\" (precise description of activities)"
+    "justification": "• Evidence 1: \"Starbucks Flavorlock™ donated by customers since FY2019\" (clear, direct phrasing)\n• Evidence 2: \"The session exposed the volunteers to pouch processing...\" (precise description of activities)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Empowering Women in Addressing Critical Issues\" (relevant to stakeholder impact)\n• Evidence 2: \"Donation of used Starbucks FlavorlockTM whole bean bags by customers...\" (shows community engagement relevant to investors)"
+    "score": 8,
+    "justification": "• Evidence 1: \"addressing critical issues like food insecurity and limited economic opportunities\" (material risks for investors)\n• Evidence 2: \"This effort provided healthy food options...\" (links activities to community welfare, relevant for stakeholder impact analysis)"
   }
 }

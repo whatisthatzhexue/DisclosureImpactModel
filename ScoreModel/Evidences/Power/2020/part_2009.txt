@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 5,
-    "justification": "• Evidence 1: \"we define material sustainability matters as those that cause significant EES impact and are able to substantively influence the decisions of our key stakeholders\"\n• Evidence 2: \"A materiality reassessment workshop was conducted with key internal stakeholders\" (neutral description without overstatement)"
+    "justification": "• Evidence 1: \"we define material sustainability matters as those that cause significant EES impact and are able to substantively influence the decisions of our key stakeholders\"\n• Evidence 2: \"A materiality reassessment workshop was conducted with key internal stakeholders\" (lacks specific factual data or risk disclosures)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Materiality Assessment Process\" section with clear 3-step summary\n• Evidence 2: \"Compliance with laws and regulations... Occupational Safety & Healthy\" (precise categorization with percentages)"
+    "justification": "• Evidence 1: \"Materiality Assessment Process\" section with numbered steps and diagram references (clear structure)\n• Evidence 2: \"Compliance with laws and regulations (Environment)\" section with specific categories (precise language)"
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"Material sustainability matters form the focus of this Statement\" (directly relevant to investor concerns)\n• Evidence 2: \"The materiality matrix is described\" (provides framework but lacks specific risk disclosures)"
+    "justification": "• Evidence 1: \"form the focus of this Statement and the basis for the indicators that we use to track and measure our sustainability performance\" (links to investor concerns)\n• Evidence 2: \"explains reasons for performance changes\" (no specific performance data provided)"
   }
 }

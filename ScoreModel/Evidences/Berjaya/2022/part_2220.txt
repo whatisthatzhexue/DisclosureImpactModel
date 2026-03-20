@@ -1,6 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {"score": 2, "justification": "• Evidence 1: [No specific facts or risks disclosed]\n• Evidence 2: [Text lacks objective data on corporate governance or sustainability metrics]"},
-  "Understandability": {"score": 4, "justification": "• Evidence 1: [Structure mentions 'Sustainability Pillar' but lacks clear definitions]\n• Evidence 2: [Incomplete text cuts off at 'Economic' without contextual explanation]"},
-  "Relevance": {"score": 3, "justification": "• Evidence 1: [Mentions 'Importance to Stakeholders' but no performance data]\n• Evidence 2: [References GRI/UNSDGs without linking to material events or risks]"}
+  "Reliability": {
+    "score": 2,
+    "justification": "• Evidence 1: [No specific facts or data provided about risks, challenges, or uncertainties]\n• Evidence 2: [Incomplete table with no substantive content to support claims]"
+  },
+  "Understandability": {
+    "score": 4,
+    "justification": "• Evidence 1: [Fragmented structure with headings like 'Economic Sustainability Pillar' but no coherent explanation]\n• Evidence 2: [Unclear reference to 'BFood' and incomplete table format]"
+  },
+  "Relevance": {
+    "score": 3,
+    "justification": "• Evidence 1: [Mentions 'Importance to Stakeholders' but lacks detailed investor-focused analysis]\n• Evidence 2: [Incomplete table with no forward-looking information or risk disclosures]"
+  }
 }

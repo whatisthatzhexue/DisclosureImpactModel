@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We are proud that 100% of our senior management in Thailand...\" (specific fact without overstatement)\n• Evidence 2: \"Female representation in our workforce: 32% of total employees\" (quantifiable data)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"7 MODULES FOR STRATEGIC HUMAN CAPITAL TRANSFORMATION\" (clear structure)\n• Evidence 2: \"More than 2.35 million kg of recyclables were collected\" (precise numerical data)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Social investment in FY2019: > RM 1 million children...\" (financial metrics relevant to investors)\n• Evidence 2: \"We believe that sustainable business development occurs when our communities develop alongside us\" (strategic relevance but lacks risk disclosure)"
+  }
+}

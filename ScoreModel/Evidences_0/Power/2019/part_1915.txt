@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We maintain Hazard Analysis Critical Control Point (\"HACCP\") system at our plants...\" (specific system mentioned)\n• Evidence 2: \"In 2018, we have complied with all the relevant national and international food regulations...\" (specific compliance statement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our production processes are monitored by our quality control and assurance team...\" (clear structure)\n• Evidence 2: \"Safety and health audits are conducted by Safety and Health Committee...\" (precise language)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Product Recall 0 0\" (material event disclosure)\n• Evidence 2: \"The Group believes that the safety and well-being of its employees is the foundation of its success...\" (investor-relevant operational focus)"
+  }
+}

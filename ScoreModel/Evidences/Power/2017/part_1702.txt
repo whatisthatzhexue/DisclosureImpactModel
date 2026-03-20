@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"However, as there are inherent limitations in any risk management and internal control system, such system is designed to manage, rather than eliminate risks...\" (acknowledges limitations)\n• Evidence 2: \"The cost incurred in connection with the internal audit functions during the financial year amounted to RM320,948.\" (specific factual disclosure)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Committee carried out its duties in accordance with its terms of reference during the financial year under review.\" (neutral, factual reporting)\n• Evidence 2: \"However, as there are inherent limitations in any risk management and internal control system...\" (acknowledges limitations, objective tone)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Reviewed the Quarterly Financial Reports\" (clear, direct language)\n• Evidence 2: \"The areas of review conducted by the internal auditors are disclosed in the Statement on Risk Management and Internal Control...\" (logical structure with clear reference)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the Quarterly Financial Reports\" (precise, direct language)\n• Evidence 2: \"The cost incurred in connection with the internal audit functions during the financial year amounted to RM320,948.\" (clear numerical specificity)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Audit Committee ensures the adequacy of the internal audit scope...\" (directly relevant to investor concerns about governance)\n• Evidence 2: \"The Board delegates its review role to the Audit Committee...\" (highly relevant to corporate governance and risk management)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the Proposed Fraud Policy\" (material risk disclosure)\n• Evidence 2: \"Statement on Risk Management and Internal Control... for the financial year under review\" (directly addresses investor concerns about governance)"
   }
 }

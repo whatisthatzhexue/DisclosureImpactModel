@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Board had via the Nominating Committee evaluated the training needs of Directors, and identified the training topics required by the Directors.\" (neutral, factual statement)\n• Evidence 2: No mention of risks, challenges, or uncertainties, limiting depth of disclosure"
+    "score": 6,
+    "justification": "• Evidence 1: The text lists specific training programs attended by directors (e.g., 'Corporate Governance Series: Board Reward & Recognition') without overstatement.\n• Evidence 2: No risks, challenges, or uncertainties are disclosed, limiting reliability."
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"Directors Training/seminar attended\" (clear section heading)\n• Evidence 2: \"Board Education Series p.97\" (ambiguous reference to a page number, reducing clarity)"
+    "justification": "• Evidence 1: Clear structure with bullet points separates directors and their attended programs.\n• Evidence 2: Precise language (e.g., 'Directors' Continuing Education Programme 2016 on Sustainability') avoids vague terms."
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"STATEMENT ON CORPORATE GOVERNANCE\" (directly relevant to governance structure)\n• Evidence 2: No explanation of performance changes, forward-looking information, or material events, limiting investor utility"
+    "justification": "• Evidence 1: Mentions corporate governance-related programs (e.g., 'Future of Auditor Reporting') relevant to investor concerns.\n• Evidence 2: Lacks forward-looking information or detailed risks/material events, reducing relevance."
   }
 }

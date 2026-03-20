@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 7,
+    "score": 8,
     "justification": "• Evidence 1: \"All members of the Board have completed the Mandatory Accreditation Programme prescribed by Bursa Securities...\" (neutral, factual statement)\n• Evidence 2: \"The training programmes attended by individual Board members during the financial year under review are as follows:\" (specific, verifiable data)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Board through the Nominating Committee reviews and identifies training programmes...\" (clear process description)\n• Evidence 2: \"Name of Directors Seminars and Briefing Attended Conducted by\" (structured format for information retrieval)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board through the Nominating Committee reviews and identifies training programmes...\" (clear structure and direct language)\n• Evidence 2: \"All Executive Directors have been with the Company for several years...\" (precise, straightforward explanation)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"updates on amended/new regulations and statutory requirements\" (material event disclosure)\n• Evidence 2: \"Audit Committee members shall undertake continuous professional development...\" (corporate governance relevance)"
+    "justification": "• Evidence 1: \"Includes corporate governance, internal management (if mentioned)\" (directly addresses governance structure)\n• Evidence 2: \"Discloses risks, challenges, uncertainties\" (no explicit risks/challenges mentioned, but training requirements imply compliance focus)"
   }
 }

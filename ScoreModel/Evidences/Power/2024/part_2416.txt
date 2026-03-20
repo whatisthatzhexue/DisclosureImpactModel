@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board acknowledges its overall responsibility...system of internal control in managing the principal risks of the Group.\"\n• Evidence 2: \"All financial statements...compliance with relevant accounting standards and regulations prior to their release to the public...\""
+    "score": 8,
+    "justification": "• Evidence 1: \"All financial statements... were reviewed by the Audit Committee and thereafter recommended to the Board for approval... compliance with relevant accounting standards and regulations\" (neutral, fact-based).\n• Evidence 2: \"The state of the internal control system... is explained in greater detail in the Statement on Risk Management and Internal Control\" (acknowledges limitations and directs to additional information)."
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Internal Audit Function of the Group comprises an in-house Internal Audit Function...and an outsourced Internal Audit Function...\"\n• Evidence 2: \"The Board has adopted such practice...timely, factual, accurate, and complete.\""
+    "score": 9,
+    "justification": "• Evidence 1: \"The in-house Internal Audit Function and the outsourced Internal Audit Function report directly to the Audit Committee\" (clear structure and direct language).\n• Evidence 2: \"The corporate disclosure process and mechanism is guided by the Corporate Disclosure Policy approved by the Board\" (precise and logical explanation)."
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board strives to ensure that a balanced, clear and meaningful assessment...financial positions and prospects of the Group...\"\n• Evidence 2: \"The Board observes all disclosure requirements...timely basis to ensure fair and equitable access by all stakeholders...\""
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board observes all disclosure requirements as laid down by the MMLR... to ensure fair and equitable access by all stakeholders\" (directly addresses investor relevance).\n• Evidence 2: \"A summary of the work of the Audit Committee... is set out in the Audit Committee Report\" (provides context for governance mechanisms relevant to investors)."
   }
 }

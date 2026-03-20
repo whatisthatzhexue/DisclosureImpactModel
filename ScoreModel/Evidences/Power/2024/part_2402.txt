@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"To review and manage the principal risks affecting the Group through a sound risk management framework\" (discloses risks)\n• Evidence 2: \"The Board Charter was last reviewed and updated on 8 May 2024\" (provides specific factual updates)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board Charter was last reviewed and updated on 8 May 2024.\"\n• Evidence 2: \"To ensure compliance with applicable laws and regulations relevant to the Group’s operations;\""
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Board has delegated specific duties to Board Committees which operate within clearly defined Terms of Reference approved by the Board\" (clear structure of responsibilities)\n• Evidence 2: \"The Board Charter sets out the composition, roles, functions, responsibilities and authorities of the Board\" (precise definition of governance framework)"
+    "score": 8,
+    "justification": "• Evidence 1: \"PRINCIPLE A: BOARD LEADERSANTS & EFFECTIVENESS (cont’d)\" clearly structures the content.\n• Evidence 2: \"The Co-Chairmen are responsible for the governance... while the Chief Executive Officer is responsible for implementing...\" explicitly defines roles."
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"To ensure compliance with applicable laws and regulations relevant to the Group’s operations\" (directly relevant to investor concerns)\n• Evidence 2: \"The Anti-Bribery & Corruption Policy... sets out the Group’s stance against bribery, corruption and conflict of interest\" (material governance disclosure)"
+    "score": 9,
+    "justification": "• Evidence 1: \"To review and manage the principal risks affecting the Group...\" directly addresses risk disclosure.\n• Evidence 2: \"To approve the policies relating to investor relations and shareholder communication programmes;\" highlights relevance to investor decision-making."
   }
 }

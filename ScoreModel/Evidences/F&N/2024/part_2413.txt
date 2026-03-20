@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Failure to establish transparent and robust governance represents a risk to our reputation\"\n• Evidence 2: \"We will undertake a comprehensive materiality assessment to refine our understanding of emerging issues\""
+    "score": 8,
+    "justification": "• Evidence 1: \"Failure to establish transparent and robust governance represents a risk to our reputation\"\n• Evidence 2: \"Unpreparedness towards adherence to new regulations is a risk\""
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Material Matters\" section with clear headings and numbered priorities (e.g., 1 Packaging, 2 Water Stewardship)\n• Evidence 2: \"Our material topics are closely aligned with our sustainability strategy\" (direct linkage between topics and strategy)"
+    "justification": "• Evidence 1: \"Our material topics are closely aligned with our sustainability strategy\"\n• Evidence 2: \"Material Matters\" section with numbered categories and clear risk/opportunity distinctions"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Forward-looking information\" about 2025 goals and future materiality assessments\n• Evidence 2: \"Supply Chain Stewardship\" section detailing risks like \"disruption to operations\" and \"price fluctuation\""
+    "score": 7,
+    "justification": "• Evidence 1: \"Upon the conclusion of our 2025 goals, we will undertake a comprehensive materiality assessment\"\n• Evidence 2: \"Supply Chain Stewardship\" section detailing ESG risks and regulatory compliance implications"
   }
 }

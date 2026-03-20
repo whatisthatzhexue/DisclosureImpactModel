@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The Group is guided by the Group Treasury Policy which outlines the policy in hedging the identified and committed foreign exchange exposure.\" (specific policy reference)\n• Evidence 2: \"Profit After Tax: RM410.2 million\" (quantifiable financial disclosure)"
+    "justification": "• Evidence 1: \"Commodities and materials price risk is managed through forward purchase of key commodities...\" (discloses risk mitigation with specific actions)\n• Evidence 2: \"Profit After Tax RM410.2 million\" (supported by specific financial facts)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Commodities and material prices are influenced by the global & local supply and demand, weather conditions as well as regulatory changes\" (clear causal explanation)\n• Evidence 2: \"F&N Life now offers no less than 250 product types\" (precise numerical disclosure)"
+    "justification": "• Evidence 1: \"The Group is guided by the Group Treasury Policy...\" (clear structure with specific policy references)\n• Evidence 2: \"F&N Life now offers no less than 250 product types...\" (precise numerical data enhances clarity)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"We maintained full Year profit after tax of RM410 million... despite higher commodity cost\" (performance context)\n• Evidence 2: \"Our partnerships with small businesses... to continue to put a smile on your face\" (stakeholder impact disclosure)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Revenue decreased by 5.7% to RM2.04 billion...\" (explains performance changes)\n• Evidence 2: \"Continued emphasis on meeting consumers’ expectations...\" (forward-looking strategic priorities for investor decision-making)"
   }
 }

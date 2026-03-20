@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 5,
-    "justification": "• Evidence 1: \"This past year has been very challenging for the Company and its subsidiaries and we acknowledge this.\" (Discloses challenges)\n• Evidence 2: \"the new strategies put together by the board and the management team will improve our position\" (Forward-looking statement without specific factual support)"
+    "justification": "• Evidence 1: \"This past year has been very challenging for the Company and its subsidiaries and we acknowledge this.\"\n• Evidence 2: \"I’m certain the new strategies... will improve our position in the near future.\"" 
   },
   "Understandability": {
-    "score": 5,
-    "justification": "• Evidence 1: \"Dear Shareholders,\" (Clear salutation)\n• Evidence 2: \"On behalf of the board, I am pleased to present...\" (Direct structure, but vague on strategy specifics)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Dear Shareholders, This past year has been very challenging...\"\n• Evidence 2: \"On behalf of the board, I am pleased to present the Annual Report...\""
   },
   "Relevance": {
-    "score": 3,
-    "justification": "• Evidence 1: \"This past year has been very challenging...\" (Mentions challenges but lacks performance change analysis)\n• Evidence 2: \"the new strategies... will improve our position\" (Forward-looking info without risk or material event details)"
+    "score": 4,
+    "justification": "• Evidence 1: \"This past year has been very challenging...\"\n• Evidence 2: \"the new strategies... will improve our position in the near future.\"" 
   }
 }

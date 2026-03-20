@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"existing controls are ineffective, inadequate or non-existent\" (acknowledges potential weaknesses)\n• Evidence 2: \"determine corrective management action plan, if required\" (shows proactive risk mitigation approach)"
+    "justification": "• Evidence 1: \"Implement the risk management framework as approved by the Audit Committee and the Board\" (neutral, objective description of responsibilities)\n• Evidence 2: \"If controls are deemed ineffective, inadequate or non-existent, to implement controls to reduce the likelihood and/or impact\" (discloses risks and mitigation actions)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Implement the risk management framework as approved by the Audit Committee and the Board\" (clear, direct language)\n• Evidence 2: \"Periodic review and update of the Key Risks Register\" (precise procedural description)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Periodic review and update of the Key Risks Register of the Group\" (clear, specific action item)\n• Evidence 2: \"Assist and report to the Risk Management Committee of the emergence of any new business risks\" (precise language with defined responsibilities)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"aligned with the Group’s organisational strategies\" (connects risk management to strategic goals)\n• Evidence 2: \"perform SWOT Analysis for all options of the proposed strategies\" (includes forward-looking risk assessment)"
+    "justification": "• Evidence 1: \"Ensure that risk strategies adopted are aligned with the Group’s organisational strategies\" (links risk management to corporate strategy)\n• Evidence 2: \"Perform SWOT Analysis for all options of the proposed strategies\" (includes forward-looking risk assessment for decision-making)"
   }
 }

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"BFI disposed of its entire stake in PT Boga\" (specific transaction with date and parties)\n• Evidence 2: \"BStarbucks is now a 100% owned subsidiary of BFood\" (clear ownership statement)"
+    "justification": "• Evidence 1: \"disposed of its entire stake in PT Boga\" (specific factual disclosure)\n• Evidence 2: \"acquired 100% equity interest in Jollibean Foods... for a cash consideration of RM19.02 million\" (objective transaction details)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"On 19 July 2012, BFood completed the acquisition of 11,500,000 ordinary shares...\" (precise transaction details)\n• Evidence 2: \"As at 30 June 2021, there are a total of 327 stores nationwide\" (clear, quantified information)"
+    "score": 8,
+    "justification": "• Evidence 1: \"11,500,000 ordinary shares of RM1.00 each... representing 50% equity interest\" (precise financial terminology)\n• Evidence 2: \"operating a Latin-inspired, Tex-Mex, plant-based vegan restaurant\" (clear operational description)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"As at 30 June 2021, there are a total of 56 Starbucks drive-thru concept stores...\" (material operational data)\n• Evidence 2: \"BFI completed the disposal of 5% equity interest...\" (significant corporate action)"
+    "justification": "• Evidence 1: \"As at 30 June 2021, there are a total of 327 stores nationwide\" (material operational data)\n• Evidence 2: \"entered into a subscription cum shareholders agreement... for a total cash subscription price of RM250,000\" (significant transaction disclosure)"
   }
 }

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"A total of 22 employees...programme.\" (specific factual data)\n• Evidence 2: \"Forty-five participants finished...Managing Ordering Development.\" (quantifiable program details)"
+    "score": 8,
+    "justification": "• Evidence 1: \"A total of 22 employees...programme.\" (specific numerical data)\n• Evidence 2: \"Revamping mandatory first-aid kit items...pending implementation in stores.\" (discloses planned changes and status)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Each restaurant receives...ordering management expertise.\" (clear structure with direct language)\n• Evidence 2: \"Introducing cabinet warning stickers...pending implementation in stores.\" (precise, actionable information)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Each restaurant receives facilitator guides...ordering management expertise.\" (clear explanation of program support)\n• Evidence 2: \"Introducing cabinet warning stickers...prevent falls due to overloading\" (direct language with specific purpose)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"Providing nitrile gloves...handling chemicals\" (employee safety relevant to investors)\n• Evidence 2: \"Revamping mandatory first-aid kit items...FY2025\" (forward-looking operational changes)"
+    "justification": "• Evidence 1: \"Shift Management Programme training...run their shifts more efficiently\" (employee development relevant to operational efficiency)\n• Evidence 2: \"Providing nitrile gloves...handling chemicals\" (safety measures relevant to workforce protection)"
   }
 }

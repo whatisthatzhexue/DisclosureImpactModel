@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Power Root has seen an opportunity to tap into this mass premium market with the launch of two lines...\" (specific factual claim about market expansion)\n• Evidence 2: \"This is an annual award...\" (neutral description of an award without overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Warung line does not contain Tongkat Ali or Ginseng...\" (clear distinction of product lines)\n• Evidence 2: \"French-roasting technique which yields a more robust blend...\" (precise explanation of product uniqueness)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Our new brand Frenché Roast is a coffee range targeted at increasingly sophisticated...\" (relevant to investor understanding of market positioning)\n• Evidence 2: \"This year’s highlights include: Youtube Malaysia...\" (forward-looking branding achievement, but lacks financial performance context)"
+  }
+}

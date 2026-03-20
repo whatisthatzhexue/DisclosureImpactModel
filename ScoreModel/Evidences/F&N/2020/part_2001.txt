@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"* Included proposed dividend of 33.0 sen, which will only be recognised in the financial statements upon shareholders' approval.\" (discloses conditional nature of dividend)\n• Evidence 2: \"PROFIT BEFORE TAX (PBT): RM522.9 million\" (specific numerical data without overtone)"
+    "justification": "• Evidence 1: \"* Included proposed dividend of 33.0 sen, which will only be recognised in the financial statements upon shareholders' approval.\" (discloses uncertainty about dividend recognition)\n• Evidence 2: \"PROFIT BEFORE TAX (PBT): RM522.9 million\" (specific factual data without overstatement)"
   },
   "Understandability": {
     "score": 6,
-    "justification": "• Evidence 1: \"BASIC EARNINGS PER SHARE: 111.9 sen\" (clear metric presentation)\n• Evidence 2: \"REVENUE: RM2.0 billion\" (direct numerical disclosure)"
+    "justification": "• Evidence 1: \"BASIC EARNINGS PER SHARE: 111.9 sen\" (precise numerical data)\n• Evidence 2: \"F&B Malaysia F&B Thailand Property/Others\" (fragmented structure with repeated section headings causing confusion)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"PROFIT FOR THE YEAR: RM410.1 million\" (key financial metric for investor assessment)\n• Evidence 2: \"BY BUSINESS SEGMENTS\" (segmentation provides operational context)"
+    "score": 7,
+    "justification": "• Evidence 1: \"PROFIT FOR THE YEAR: RM410.1 million\" (key financial metric for investor assessment)\n• Evidence 2: \"* Included proposed dividend of 33.0 sen...\" (forward-looking information about dividend policy)"
   }
 }

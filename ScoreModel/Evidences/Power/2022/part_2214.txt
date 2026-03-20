@@ -1,15 +1,15 @@
 {
   "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Group upholds the principle of maintaining effective sustainability management continuously...\" (neutral, fact-based)\n• Evidence 2: \"The External Auditors of the Group confirmed on their independence...\" (specific, objective disclosure)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board is responsible for regularly evaluating the economic, environmental and social issues of the Group and assume the ultimate responsibility for the oversight role of sustainability management on a group wide basis.\"\n• Evidence 2: \"The External Auditors of the Group confirmed on their independence in relation to the audit work and their commitment to communicate to the Audit Committee on their independence status in an ongoing manner.\""
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Audit Committee met with the External Auditors thrice during the financial year...\" (clear, direct language)\n• Evidence 2: \"The sustainability management of the Group is governed by the Sustainability Framework...\" (structured explanation of governance)"
+    "justification": "• Evidence 1: \"The sustainability management of the Group is governed by the Sustainability Framework established by the Board.\"\n• Evidence 2: \"The Audit Committee met with the External Auditors thrice during the financial year under review to discuss their Audit Plans, their audit findings and other special matters...\""
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Audit Committee is tasked with the oversight role on the effectiveness of audit and risk management...\" (directly relevant to investor concerns)\n• Evidence 2: \"Please refer to... the identification, assessment, management and reporting of sustainability matters...\" (addresses material governance topics)"
+    "score": 9,
+    "justification": "• Evidence 1: \"Please refer to the Practice 4.1, 4.2, 4.3, 4.4 and 4.5... for the governance structure and process employed...\"\n• Evidence 2: \"The Audit Committee maintains a close and transparent relationship with the Group’s External Auditors... to ensure compliance with the approved accounting standards...\""
   }
 }

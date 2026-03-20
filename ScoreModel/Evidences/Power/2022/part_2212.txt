@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"During the financial year ended 31 March 2022, the Nominating Committee conducted evaluations and assessments on the performance of the Board...\" (neutral, factual description of activities)\n• Evidence 2: \"Please refer to Practice 5.1... for details on the Nominating Committee and its activities.\" (transparently directs readers to additional information)"
+    "justification": "• Evidence 1: \"the Nominating Committee conducted evaluations and assessments on the performance of the Board... based on the pre-determined processes and evaluation/review criteria\" (neutral, factual reporting).\n• Evidence 2: \"The Terms of Reference for the Remuneration Committee is available on the company’s website\" (transparent disclosure of documentation)."
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Remuneration Committee was formed to assist the Board in determining...\" (clear purpose statement)\n• Evidence 2: \"Remuneration Committee Position & Designation...\" (structured format for committee composition)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Remuneration Committee met two -2 times during the financial year...\" (clear numerical data presentation).\n• Evidence 2: \"Dato’ Afifuddin bin Abdul Kadir Chairman, Independent Non-Executive Director\" (precise role designation with structure)."
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Remuneration Committee... to attract, retain and motivate the Directors.\" (directly relevant to investor concerns about director compensation)\n• Evidence 2: \"Further disclosure... can be found in Practice 7.1 and 7.2...\" (links to material governance information)"
+    "justification": "• Evidence 1: \"Further disclosure on the Remuneration Committee... can be found in Practice 7.1 and 7.2\" (direct link to relevant governance information).\n• Evidence 2: \"the Remuneration Committee... to attract, retain and motivate the Directors\" (explains committee purpose for investor assessment)."
   }
 }

@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"All suppliers met the required standards, demonstrating their adherence to the Company's stringent quality and safety requirements.\"\n• Evidence 2: \"weekly manual cycle counts achieved a 98.5% SKU accuracy in the annual stock count as of 30 June 2024.\""
+    "score": 7,
+    "justification": "• Evidence 1: \"All suppliers met the required standards, demonstrating their adherence to the Company's stringent quality and safety requirements.\" (neutral, factual statement)\n• Evidence 2: \"weekly manual cycle counts achieved a 98.5% SKU accuracy\" (specific, verifiable data)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BRoasters is currently utilising SAP to streamline various processes, including purchasing flow—such as Purchase Orders, Good Receipt PO and AP Invoices.\"\n• Evidence 2: \"BFood aims to achieve 100% responsible sourcing, prioritising local vendors whenever possible to procure raw materials.\""
+    "score": 8,
+    "justification": "• Evidence 1: \"BRoasters is currently utilising SAP to streamline various processes...\" (clear structure with specific examples)\n• Evidence 2: \"The Group collaborates with suppliers to tackle environmental and social risks...\" (precise language with logical flow)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"BFood is committed to reducing its supply chain's social and environmental impact. This commitment involves actively participating in workshops and industry-specific initiatives to collaborate on sustainability efforts.\"\n• Evidence 2: \"BFood conducts risk assessments on existing suppliers' social and environmental performance, particularly those deemed 'high risk'.\""
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood aims to achieve 100% responsible sourcing...\" (sustainability goals relevant to investors)\n• Evidence 2: \"preparing to implement the SAP system\" (forward-looking information about operational improvements)"
   }
 }

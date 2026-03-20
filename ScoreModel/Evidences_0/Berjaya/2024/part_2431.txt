@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'BFood invested RM3,149,436.00 in climate change initiatives' (specific fact)\n• Evidence 2: 'The Company will continue to strive towards these ambitious goals, adapting its targets as scientific advancements and measurement capabilities evolve' (acknowledges uncertainty)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The C.A.F.E. Practices programme evaluates farms based on economic, social, and environmental criteria' (clear explanation of program)\n• Evidence 2: 'BFood is intensifying its decarbonisation efforts across its operations and supply chains' (precise language with context)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'BStarbucks engages with several industry associations that prioritise sustainability, particularly climate change' (forward-looking collaboration)\n• Evidence 2: 'The Group's Sustainability Department... develops and implements strategies to minimise the organisation's environmental impact' (investor-relevant governance structure)"
+  }
+}

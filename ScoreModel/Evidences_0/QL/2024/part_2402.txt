@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We observed a 26.5% decrease in rainwater volume...\" (specific factual data)\n• Evidence 2: \"No reported cases of non-compliance...\" (transparent disclosure of compliance status)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Occupational Safety and Health\" section with clear headings and bullet points\n• Evidence 2: \"LTIFR performance experienced a decline of 21.4%\" (precise metric presentation)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Board oversees safety and health management...\" (corporate governance relevance)\n• Evidence 2: \"Diverted 95.3% of wastes from landfills...\" (material environmental impact disclosure)"
+  }
+}

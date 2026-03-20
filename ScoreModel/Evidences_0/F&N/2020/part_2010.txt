@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Extreme weather events due to climate change expose our assets and operations to costly damages.\" (Discloses specific risks)\n• Evidence 2: \"We comply with international and national standards in effluents and waste management.\" (Supports claims with specific actions)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We implement environmentally sustainable business practices and guided by the principles in our Environmental, Safety & Health Policy.\" (Clear structure with headings)\n• Evidence 2: \"Inculcate sustainable practices and values in employees and communities through the adoption and engagement of the 3Rs: Reduce, Reuse and Recycle.\" (Direct explanation of initiatives)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reduces water, energy and material consumption also translate to lower cost.\" (Links to financial impact for investors)\n• Evidence 2: \"Refer to the ‘Sustainability Statement’ section...\" (Provides additional resources for deeper analysis)"
+  }
+}

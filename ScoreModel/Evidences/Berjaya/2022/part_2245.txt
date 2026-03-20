@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"The Group recorded no human rights incidents during this reporting period.\" (specific fact with no overstatement)\n• Evidence 2: \"Managers of all levels are trained in handling reports...\" (neutral, objective description of policies)"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group recorded no human rights incidents during this reporting period.\"\n• Evidence 2: \"BFood’s formal mechanism allows individuals and communities to raise grievances, if business activities affect them.\""
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Provides a safe and healthy workplace...\" (clear, direct language)\n• Evidence 2: \"BFood’s formal mechanism allows individuals...\" (structured explanation, though \"BFood\" could be confusing)"
+    "score": 6,
+    "justification": "• Evidence 1: \"BFood supports children’s rights through its anti-child labour practices.\"\n• Evidence 2: \"Managers of all levels are trained in handling reports and instances of bullying, harassment, bribery, financial irregularity and other offences.\""
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Starbucks’ collaboration with HOPE Worldwide...\" (specific action relevant to investors' risk assessment)\n• Evidence 2: \"The Group commits to the remediation process...\" (addresses material human rights impacts)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group commits to the remediation process to address adverse human rights impacts it has contributed to or caused.\"\n• Evidence 2: \"BFood’s Whistleblowing channel guarantees anonymity and is available to internal and external stakeholders.\""
   }
 }

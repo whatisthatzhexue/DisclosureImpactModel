@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The principles, practices and processes of the Group Risk Management Framework established by the Board are, in all material aspects, guided by ISO 31000:2018 – Risk Management Guidelines...\" (explicitly references authoritative standards)\n• Evidence 2: \"Risks above the risk appetite level or with inadequate or ineffective control activities were prioritised for internal audit activities...\" (discloses risk management actions and accountability)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group Risk Management Framework clearly defines the risk management objectives and processes...\" (clear structure with defined roles)\n• Evidence 2: \"Key Risk Registers are used for the identification of high residual risks...\" (precise terminology with contextual explanation of risk metrics)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board delegates the duty of identification, assessment and management of key business risks to the SRMC...\" (directly addresses risk management processes relevant to investors)\n• Evidence 2: \"Fraud and bribery-related risks\" (includes material risks impacting corporate governance and operations)"
+  }
+}

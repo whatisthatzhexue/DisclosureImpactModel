@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 1, "justification": "• Evidence 1: [exact quote]\"Risk management\" contains no specific facts, risks, or uncertainties.\n• Evidence 2: [exact quote]The text lacks objective disclosure of risks or challenges."},
+  "Understandability": {"score": 2, "justification": "• Evidence 1: [exact quote]\"Risk management\" is a single phrase with no structural clarity or detail.\n• Evidence 2: [exact quote]The text fails to use precise language or provide context for its meaning."},
+  "Relevance": {"score": 1, "justification": "• Evidence 1: [exact quote]\"Risk management\" contains no information useful for investors' decision-making.\n• Evidence 2: [exact quote]The text omits forward-looking information, risks, or material events."}
+}

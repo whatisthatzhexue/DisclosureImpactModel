@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"63% of our plants and production processes are certified with FSSC22000 scheme. In FY2024, our Kuching plant obtained the FSSC22000 certification.\" (specific factual progress)\n• Evidence 2: \"Group GHG intensity ratio has improved by 4%, now standing at 0.0635\" (objective data without overstatement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"67% of our beverage and dairy products are endorsed with Healthier Choice Logo (HCL)\" (clear, direct language)\n• Evidence 2: \"Group energy intensity ratio has improved by 0.1% to 867.74\" (precise numerical presentation)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Achieve 10% product innovation for commercialised F&N products from 2020 baseline^\" (forward-looking target)\n• Evidence 2: \"Our total solid waste sent to landfill reduced by 54%\" (material performance metric)"
+  }
+}

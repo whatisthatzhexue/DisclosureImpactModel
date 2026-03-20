@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'supported sports organisations and major sports events such as the Malaysian Football League, Maybank Championship Golf Junior Clinic...' (specific factual events)\n• Evidence 2: 'fiesta was held from 5-9 December 2018' (precise date and event details)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'collaborated with Media Prima in the ‘Seratus Ikhlas, Setulus 100PLUS’ campaign' (clear collaboration explanation)\n• Evidence 2: 'introduced two new products with refreshing wholesome double fruit flavours' (precise product description)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'tied up with Club Med to organise a consumer contest, offering free holidays' (forward-looking marketing strategy)\n• Evidence 2: 'launched the new condensed milk in innovative packaging formats' (product development relevance to investors)"
+  }
+}

@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Group’s export sales increased from RM173.5 million to RM208.7 million in the past year. This rise was led by distribution channel improvements and sales force efficiency and effectiveness.\" (specific factual data)\n• Evidence 2: \"We set up two subsidiaries... to improve the supply chain management of our goods.\" (objective operational description)"
+    "score": 7,
+    "justification": "• Evidence 1: \"Our new brand, 'Warung' by Alicafé and Alitéa won the 'Best Breakthrough Advertiser' award...\" (specific factual claim)\n• Evidence 2: \"The Group’s export sales increased from RM173.5 million to RM208.7 million...\" (quantifiable data). However, no risks or uncertainties are disclosed."
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"From March to May 2019, 45 billboards...\" (precise temporal and quantitative details)\n• Evidence 2: \"Contestants were offered the chance to win a 4-days, 3-nights Phuket Luxury Cruise Trip...\" (clear, direct explanation of contest incentives)"
+    "justification": "• Evidence 1: \"From March to May 2019, 45 billboards...\" (precise temporal and numerical details)\n• Evidence 2: \"We set up two subsidiaries...\" (clear structural explanation). Language is direct with minimal jargon."
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Group’s export sales increased...\" (explains performance change with causal factors)\n• Evidence 2: \"We have repositioned each individual online channel for more robust growth.\" (forward-looking strategic information)"
+    "score": 6,
+    "justification": "• Evidence 1: \"The Group’s export sales increased...led by distribution channel improvements...\" (performance explanation)\n• Evidence 2: \"We set up two subsidiaries...to improve the supply chain management...\" (strategic relevance). Lacks forward-looking statements and risk disclosures."
   }
 }

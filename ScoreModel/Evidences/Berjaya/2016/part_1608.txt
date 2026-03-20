@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Board is satisfied with the current composition...\" (neutral statement with specific compliance details)\n• Evidence 2: \"All the Directors... does not hold more than five -5 directorships...\" (specific fact supporting regulatory compliance)"
+    "justification": "• Evidence 1: \"The present composition of the Board is also in compliance with Paragraph 15.02 of the Listing Requirements of Bursa Securities of at least 1/3 of its members being Independent Directors.\" (specific fact)\n• Evidence 2: \"All the Directors of the Company does not hold more than five -5 directorships in listed issuers as required under Paragraph 15.06...\" (compliance with regulations)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Board meets regularly on a quarterly basis...\" (clear structure with specific meeting frequency)\n• Evidence 2: \"Directors Attendance\" table format (precise presentation of attendance data)"
+    "justification": "• Evidence 1: \"The Board meets regularly on a quarterly basis with additional meetings being convened as necessary.\" (clear structure and direct language)\n• Evidence 2: \"Directors’ Training\" section uses precise terminology for governance requirements (e.g., \"Mandatory Accreditation Programme\")."
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"The Board composition represents a mix of knowledge...\" (corporate governance structure relevant to investors)\n• Evidence 2: \"compliance with Paragraph 15.02...\" (material regulatory compliance information)"
+    "justification": "• Evidence 1: \"Corporate governance\" details are directly relevant to investor decision-making (e.g., director qualifications, compliance with listing rules). \n• Evidence 2: \"Time Commitment\" section provides relevant information about director engagement but lacks forward-looking statements or risk disclosures."
   }
 }

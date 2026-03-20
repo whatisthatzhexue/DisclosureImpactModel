@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: 'This brings the total dividend payout for FY2023 to RM282.4 million, which is 28.3% higher than FY2022.' (specific factual data)\n• Evidence 2: 'Our robust performance allowed us to distribute an interim dividend of 27 sen per share in June 2023.' (neutral, objective statement with performance rationale)"
+    "justification": "• Evidence 1: 'This brings the total dividend payout for FY2023 to RM282.4 million, which is 28.3% higher than FY2022' (specific factual data).\n• Evidence 2: 'I am pleased to share that F&NHB’s robust performance allowed us to distribute an interim dividend of 27 sen per share in June 2023' (links dividend to performance without overstatement)."
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: 'We also maintained F&NHB’s tradition of supporting our national athletes while promoting sports generally.' (clear, direct language)\n• Evidence 2: 'The Group’s revenue grew by 11.9% from RM4.47 billion in FY2022 to RM5.0 billion.' (precise numerical presentation with context)"
+    "justification": "• Evidence 1: 'RM206,000 in cash was awarded to 71 secondary and tertiary students' (clear, direct statement).\n• Evidence 2: 'Our 140th anniversary celebrations were an opportunity for unity and gratitude' (precise language with contextual clarity)."
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: 'The return of international tourists and out-of-home consumption post-pandemic in Thailand was an added advantage.' (explains performance drivers)\n• Evidence 2: 'We are the first company in Malaysia to back 100% of the palm oil used in our products with RSPO credits.' (material event with strategic relevance)"
+    "justification": "• Evidence 1: 'The return of international tourists and out-of-home consumption post-pandemic in Thailand was an added advantage' (explains performance drivers).\n• Evidence 2: 'We are the first company in Malaysia to back 100% of the palm oil used in our products with RSPO credits' (forward-looking sustainability commitment)."
   }
 }

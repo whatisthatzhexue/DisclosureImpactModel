@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"All members of the Board have attended training programs that were organised by regulatory bodies or professional organisations.\"\n• Evidence 2: \"Guidelines on Conduct of Directors of Listed Corporations and their Subsidiaries, Issued by SC, Revised Malaysian Code on Corporate Governance & Corporate Disclosure Policy\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Name of Directors Seminars and Briefing Attended Conducted by\" (clear structure)\n• Evidence 2: \"Service Tax, Sales Tax, GST & Customs Duties: Special Tax Incentives in 2022 - Voluntary Disclosure & Amnesty\" (specific, direct description)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Board leadership (Cont’d) Directors’ Training (Cont’d)\" (corporate governance relevance)\n• Evidence 2: \"Updates on Malaysian Code of Corporate Governance 2021 (MCCG 2021)\" (material governance policy disclosure)"
+  }
+}

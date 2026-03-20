@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"On 8 May 2024, BPB distributed food to the community...\" (specific date and action)\n• Evidence 2: \"BStarbucks donated 51 care packs to Kechara Kitchen Soup...\" (quantifiable donation details)"
+    "score": 8,
+    "justification": "• Evidence 1: \"On 8 May 2024, BPB distributed food to the community...\" (specific date and action)\n• Evidence 2: \"BStarbucks donated 51 care packs...\" (quantifiable outcome)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"BRoasters marked festive occasions by spreading joy...\" (clearly structured initiative)\n• Evidence 2: \"BStarbucks sponsored rental centres for HOPE worldwide Malaysia...\" (precise description of partnership)"
+    "score": 9,
+    "justification": "• Evidence 1: \"250 servings to Sekolah Kebangsaan Padang Jawa...\" (clear, structured allocation)\n• Evidence 2: \"RM7,000.00\" (precise monetary value)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: \"For the fifth consecutive year, BStarbucks has initiated the 'Zero Hunger' campaign...\" (material event with historical context)\n• Evidence 2: \"BStarbucks supported HOPEww Malaysia at the grand opening...\" (community impact relevant to CSR)"
+    "score": 5,
+    "justification": "• Evidence 1: \"For the fifth consecutive year...\" (recurring initiative relevant to investors)\n• Evidence 2: \"BStarbucks contributed 20 community service hours...\" (operational metrics)"
   }
 }

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Directors are responsible for keeping accounting records which disclosed with reasonable accuracy...\" (neutral, factual disclosure of responsibilities)\n• Evidence 2: \"The External Auditors have provided the declaration in their annual audit plan...\" (specific, verifiable compliance with requirements)"
+    "justification": "• Evidence 1: \"The Board strives to provide a clear, balanced and meaningful assessment...in accordance with the Listing Requirements of Bursa Securities.\" (truthful, neutral, and objective)\n• Evidence 2: \"The Directors are responsible for keeping accounting records...to enable them to ensure that the financial statements comply with the Act...\" (specific facts about responsibilities)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board is also assisted by the ARMC in the discharge of its duties...\" (clear structure of roles and responsibilities)\n• Evidence 2: \"The Directors are required to: select suitable accounting policies...\" (precise, itemized list of responsibilities)"
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board is also assisted by the ARMC...a high quality financial reporting.\" (clear structure and direct language)\n• Evidence 2: \"The Directors are required to: select suitable accounting policies...\" (precise, logical breakdown of responsibilities)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Board maintains a transparent and professional relationship with the External Auditors...\" (relevant to investor concerns about audit quality)\n• Evidence 2: \"The Companies Act, 2016 requires the Directors to prepare financial statements...\" (directly relevant to investor decision-making about financial accountability)"
+    "justification": "• Evidence 1: \"Assessment of External Auditors...audit governance and independence\" (relevant to investor decision-making)\n• Evidence 2: \"The Directors are responsible for safeguarding the assets...prevention and detection of fraud\" (includes risks and corporate governance)"
   }
 }

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"nothing has come to their attention that cause them to believe that the statement intended to be included in the Annual Report of the Group, in all material respects: ... is factually inaccurate.\" (External auditors' neutral confirmation)\n• Evidence 2: \"The Board is of the view that the risk management and internal control systems ... is adequate and effective\" (Board's objective assessment of controls)"
+    "justification": "• Evidence 1: \"The external auditors have reviewed this Statement... nothing has come to their attention that cause them to believe that the statement... in all material respects: a. has not been prepared in accordance with the disclosures required... or b. is factually inaccurate.\"\n• Evidence 2: \"The Board is of the view that the risk management and internal control systems... is adequate and effective to safeguard shareholders’ investment...\""
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Standard Operating Procedures (SOPs) for business processes are formalised to govern the Group’s business operations.\" (Clear definition of control mechanisms)\n• Evidence 2: \"Quarterly Board and Board Committee Meetings ... to review business performance, discuss strategic matters\" (Logical structure with specific processes)"
+    "justification": "• Evidence 1: \"The key elements of the Group’s internal control processes are summarised as follows:\" (clear structure)\n• Evidence 2: \"Standard Operating Procedures (SOPs) for business processes are formalised...\" (precise language)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"Anti-Bribery Framework ... reflects the Group’s zero tolerance stance against all forms of bribery and corruption\" (Material risk disclosure)\n• Evidence 2: \"Annual Budget and Periodic Performance Review ... to ensure that the business remains on track to achieve the Group’s strategic direction\" (Investor-relevant performance monitoring)"
+    "justification": "• Evidence 1: \"The Group’s Sustainability Roadmap has included a plan to obtain certification for ISO 45001:2018...\"\n• Evidence 2: \"Quarterly Board and Board Committee Meetings... discuss strategic matters, deliberate on key risks...\""
   }
 }

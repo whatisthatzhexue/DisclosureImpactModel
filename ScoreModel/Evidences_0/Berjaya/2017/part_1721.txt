@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Company’s quarterly financial reporting... in compliance with the Malaysian Financial Reporting Standard 134...\" (truthful, objective disclosure of compliance)\n• Evidence 2: \"However, there was no major issue raised during the private session.\" (neutral, factual reporting of audit findings)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed and made recommendations... for the financial year ended 30 April 2016\" (clear, direct language about audit processes)\n• Evidence 2: \"The framework set up for identifying...\" (structured explanation of RRPT monitoring)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed the 2016 Circular... minority shareholders\" (material information about related party transactions)\n• Evidence 2: \"Discussed and considered the significant accounting adjustments...\" (relevant audit risk disclosures)"
+  }
+}

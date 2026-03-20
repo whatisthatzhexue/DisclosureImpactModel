@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: 'Starbucks® coffee has been verified as 99% ethically sourced' (specific fact)\n• Evidence 2: 'The Group plans to expand this to five stores by FY2025' (forward-looking statement with timeframe)"
+    "justification": "• Evidence 1: \"Starbucks® coffee has been verified as 99% ethically sourced\" (specific fact)\n• Evidence 2: \"three stores have met the criteria... an accreditation independently verified by SCS Global Services\" (third-party verification)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'Starbucks' Global Greener Stores New Standards represent a comprehensive framework encompassing efficient systems...' (clear structure with specific terms)\n• Evidence 2: 'The Company has implemented an adaptation strategy with a tracking system to monitor emissions...' (precise language with measurable metrics)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Starbucks' Global Greener Stores New Standards represent a comprehensive framework...\" (clear structure)\n• Evidence 2: \"The Group plans to expand this to five stores by FY2025\" (precise timeframe)"
   },
   "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: 'Starting from FY2025, Berjaya Group will implement a Climate-Related Risk and Opportunity Register' (forward-looking risk management plan)\n• Evidence 2: 'BFood's Sustainability Committee will serve as the custodian...' (corporate governance structure relevant to investors)"
+    "score": 8,
+    "justification": "• Evidence 1: \"Climate-Related Risk and Opportunity Register... will play a critical role in the Group disclosures post-2025\" (forward-looking risk management)\n• Evidence 2: \"The Company has implemented an adaptation strategy... to monitor emissions, energy usage...\" (material sustainability initiatives)"
   }
 }

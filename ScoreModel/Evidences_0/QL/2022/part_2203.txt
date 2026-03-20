@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The World Bank noted global recovery is expected to decelerate to 4.1% in 2022...\" (specific factual data)\n• Evidence 2: \"QL keeps a watchful and vigilant eye...we can adjust our sails...\" (balanced, neutral tone with no overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Ringgit’s slide against the greenback is not helping matters...\" (clear, direct language)\n• Evidence 2: \"60% of Malaysia’s food is imported...\" (precise numerical data with contextual explanation)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Bank Negara Malaysia projected growth of 5.3% to 6.3% for 2022...\" (forward-looking financial information)\n• Evidence 2: \"The Russia-Ukraine war has a domino effect...\" (material risks impacting operations)"
+  }
+}

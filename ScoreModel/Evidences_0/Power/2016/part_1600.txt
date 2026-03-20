@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Power Root ME FZCO shall receive all profits or ownerships of assets and liable for all losses or liabilities of P.R. Manufacturing ME LLC' (neutral factual disclosure)\n• Evidence 2: 'The Group recorded a Profit After Tax (PAT) of approximately RM45.2 million for the FYE 2016' (specific numerical data without overstatement)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: 'Over the FYE 2016, the Group intensified its efforts in activating numerous ground activities' (clear but repetitive phrasing)\n• Evidence 2: 'The Board is satisfied that, through the formal Policy... the current board composition fairly reflects the investment of minority shareholders' (complex sentence structure with nested clauses)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Group recorded promising growth for its export markets by recording RM140.1 million revenue' (material financial information for investors)\n• Evidence 2: 'The Board is committed to select and appoint a capable and suitable individual as the independent non-executive Chairman' (corporate governance relevance)"
+  }
+}

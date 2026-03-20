@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"QL remains cognisant of the 17 United Nations Sustainable Development Goals...\" (specific reference to SDGs)\n• Evidence 2: \"Our strategies and approaches are established with the concerns of human rights, labour, environment, and anti-corruption in mind\" (objective statement without overstatement)"
+    "justification": "• Evidence 1: \"We are acutely aware that our business and operations have significant impact and are interdependent on the security and livelihood of our people, business partners and communities.\" (acknowledges interdependence but lacks specific risk disclosure)\n• Evidence 2: \"Our objective is to ensure that in all that we do... QL delivers benefits to shareholders...\" (forward-looking statement without quantifiable metrics or risk mitigation details)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Table 1: Stakeholder engagement modes, focus areas & responses\" (clear structure with defined categories)\n• Evidence 2: \"Safe and quality products for customers\" (precise, direct language despite some generality)"
+    "justification": "• Evidence 1: \"Table 1: Stakeholder engagement modes, focus areas & responses\" (clear structure with categorized information)\n• Evidence 2: \"Stakeholder Groups Engagement Channels Focus Areas How do we respond?\" (direct, tabular format simplifies complex information)"
   },
   "Relevance": {
-    "score": 8,
-    "justification": "• Evidence 1: \"Our objective is to ensure that in all that we do...QL delivers benefits to shareholders...\" (forward-looking and investor-relevant)\n• Evidence 2: \"Stakeholder engagement modes, focus areas & responses\" (detailed stakeholder interaction information for decision-making)"
+    "score": 7,
+    "justification": "• Evidence 1: \"plan for long-term success, we uphold our responsibilities to people and planet\" (forward-looking strategic focus relevant to investors)\n• Evidence 2: \"Stakeholder Engagement... channels to proactively consult... key stakeholders\" (demonstrates governance and management practices relevant to decision-making)"
   }
 }

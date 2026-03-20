@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board is committed to continuously promote good sustainability practices...transparent sustainability reporting that captures the economic, environmental and social aspects of our business operations.\"\n• Evidence 2: \"The Board has formalised a Sustainability Policy which supports our commitment to reaching an equilibrium...commercial expectations of our stakeholders.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board affirms its overall responsibility for the integration of the recommended sustainable economic, environmental and social practices...to ensure business strategies of the Group are developed with regards to the sustainability consideration.\"\n• Evidence 2: \"The duties for the identification, management and reporting of sustainability matters and performance are delegated to the Sustainability and Risk Management Committee (\"SRMC\").\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board of Directors...recognises the importance of continuously developing and improving the business operations of the Group in a sustainable and responsible manner...to generate value to its stakeholders in a long term sustainable manner.\"\n• Evidence 2: \"The Board is pleased to present this Sustainability Statement...prepared pursuant to paragraph 6.1, 6.2 and 6.3 of Practice Note 9...on the content of the Sustainability Statement.\""
+  }
+}

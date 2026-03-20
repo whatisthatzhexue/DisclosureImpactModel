@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Group is exposed to the risks associated with product quality and standards as product safety and quality are of paramount importance to the Group.\" (neutral disclosure of risk)\n• Evidence 2: \"Compliance with stringent quality systems in place such as ISO22000, Food Safety System Certification 22000 and HACCP Certification by Ministry of Health.\" (specific factual support)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"• Prioritise Research & Development initiatives on developing new products...\" (clear, structured bullet points)\n• Evidence 2: \"Regular engagement with internal and external stakeholders...\" (precise language with actionable steps)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Consumers are becoming more informed on nutritional facts...\" (forward-looking risk analysis relevant to investor decision-making)\n• Evidence 2: \"Proactive stakeholder engagements including shareholders & investors...\" (directly addresses material events and governance)"
+  }
+}

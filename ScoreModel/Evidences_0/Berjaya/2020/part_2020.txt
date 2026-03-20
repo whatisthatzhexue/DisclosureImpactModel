@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The external auditors ... nothing has come to their attention that causes them to believe the SRMIC ... is not prepared, in all material respects, in accordance with the disclosures required by paragraphs 41 and 42 ...\" \n• Evidence 2: \"The system of internal control was satisfactory and has not resulted in any material losses ... that would require disclosure\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The key aspects of the risk management process are as follows: • The business units are required to identify the risks ...\" \n• Evidence 2: Clear hierarchical structure with numbered bullet points and explicit explanations of risk assessment levels (Low, Medium, High)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board entrusts the ARMC with the overall responsibility ... to approve appropriate risk management procedures\" \n• Evidence 2: \"The external auditors have performed limited assurance procedures ... for the year ended 30 June 2020\""
+  }
+}

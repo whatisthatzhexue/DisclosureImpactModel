@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks continued to raise funds throughout this year for communities in need, especially those affected by the pandemic and natural disasters. The Company collected RM8,300 in FY2022.\"\n• Evidence 2: \"BStarbucks appreciates their efforts and sponsored more than 4,000 cups of freshly brewed coffee for various hospitals and vaccination centres...\"\n• Evidence 3: \"Malaysia was hit by one of the worst floods in history in December 2021...\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"BStarbucks collaborated with HOPE Worldwide in September 2021. Responding to the White Flag Movement (#BenderaPutih), the Company helped families...\"\n• Evidence 2: \"BStarbucks invited its employees to donate used clothes, essential foods, mineral water, toiletries, mats and mattresses. Collected items were transported and distributed to affected areas.\"\n• Evidence 3: Clear section headings (e.g., \"FLOOD RELIEF CONTRIBUTION\") organize information."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The challenging COVID-19 pandemic placed significant pressure on the healthcare system...\" (material event impact)\n• Evidence 2: \"BStarbucks’ Wall of Gratitude...celebrates the valiant efforts...frontliners...\" (social impact but no financial/strategic relevance)\n• Evidence 3: Lacks forward-looking statements, financial performance links, or governance details."
+  }
+}

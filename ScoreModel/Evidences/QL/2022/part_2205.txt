@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: 'The Board through the Nominating Committee conducts the annual assessment on effectiveness of the Board... [specific process details]'\n• Evidence 2: 'The Company conducted poll voting on all the resolutions... [specific compliance with listing requirements]'"
+    "justification": "• Evidence 1: \"The Board will engage independence experts to conduct the Board evaluation once in every 3 years, commencing FY2024 for the assessment of FY2023 onwards.\" (Discloses future plans and timelines)\n• Evidence 2: \"The Company conducted poll voting on all the resolutions... verified the poll results.\" (Neutral, factual reporting of processes)"
   },
   "Understandability": {
-    "score": 8,
-    "justification": "• Evidence 1: 'The Board Evaluation Process involves the following: [clearly listed steps]'\n• Evidence 2: 'The remuneration breakdown of individual Directors... [structured table with defined terms]'"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Directors’ Fit and Proper Policy is available on the Company’s website.\" (Clear statement of accessibility)\n• Evidence 2: \"The remuneration breakdown of individual Directors...\" (Structured table with defined columns, though complex)"
   },
   "Relevance": {
-    "score": 9,
-    "justification": "• Evidence 1: 'The Company recognises the importance of engaging and communicating with its shareholders... [specific shareholder engagement metrics]'\n• Evidence 2: 'The Board fulfils risk governance... [directly relevant to investor decision-making]'"
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board aims to present a balanced and understandable assessment...\" (Directly addresses investor decision-making)\n• Evidence 2: \"Stakeholder engagements in FY2022 Number of activities...\" (Quantifies engagement efforts relevant to investors)"
   }
 }

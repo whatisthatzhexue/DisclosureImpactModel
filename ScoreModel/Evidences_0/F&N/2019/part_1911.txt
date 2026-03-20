@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Commodities and materials price risk is managed through forward purchase...\" (discloses risk mitigation with specific actions)\n• Evidence 2: \"target ratio: not lower than 50%\" (clearly states a target without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Comprehensive policies and procedures established on processing...\" (clear structure with logical flow)\n• Evidence 2: \"Refer to page 030 and 031...\" (somewhat vague reference to external content)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Exposure to food safety risk...reputational impact\" (directly addresses material risks)\n• Evidence 2: \"LINK TO MATERIAL ISSUES: Economic Performance...\" (explicitly connects risks to material topics)"
+  }
+}

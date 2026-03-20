@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"collaborated with Disney Tsum Tsum for joint promotions...sampling activations to drive brand visibility\" (specific actions with measurable goals)\n• Evidence 2: Footnotes with Nielsen data supporting market position claims (e.g., \"No. 1 in Total Malaysia in Carbonated Soft Drink category\")"
+    "justification": "• Evidence 1: \"F&N Magnolia revitalised its look this year for all its milk products.\" (specific factual statement)\n• Evidence 2: \"No. 1 in Total Malaysia in Carbonated Soft Drink category\" (supported by Nielsen data citation)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: Clear section headings for F&N Magnolia and OYOSHI with logical flow of marketing activities and outcomes\n• Evidence 2: Direct language explaining strategies (e.g., \"360-degree launch campaign...successfully drove sales\")"
+    "score": 8,
+    "justification": "• Evidence 1: \"Supported by better-managed pricing and discounts, as well as capacity expansion\" (clear cause-effect explanation)\n• Evidence 2: \"360-degree launch campaign, which included mobile, digital, television and social\" (precise description of marketing efforts)"
   },
   "Relevance": {
-    "score": 6,
-    "justification": "• Evidence 1: Information about product launches and market position rankings provides context for investor assessment\n• Evidence 2: Discussion of revenue growth in Thailand and Cambodia/Laos relates to business performance but lacks forward-looking statements or risk disclosures"
+    "score": 7,
+    "justification": "• Evidence 1: \"successfully drove sales and increased market share for the brand\" (directly links activity to business outcome)\n• Evidence 2: \"achieved strong double-digit growth in revenue and operating profit\" (material performance metric for investors)"
   }
 }

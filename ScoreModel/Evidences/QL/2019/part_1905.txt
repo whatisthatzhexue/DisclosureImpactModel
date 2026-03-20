@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The lower prices of eggs...due to oversupply.\" (discloses market challenges)\n• Evidence 2: \"QL utilises a leading Farm Management Software...\" (specific operational detail)"
+    "score": 8,
+    "justification": "• Evidence 1: \"lower prices of eggs in Peninsular Malaysia continued into the second half... due to oversupply\" (discloses market challenges)\n• Evidence 2: \"unexpected poultry diseases such as Low Pathogenic Avian Influenza (LPAI) and Newcastle Disease...\" (discloses specific risks)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The new integrated layer farm will reach its full capacity...\" (clear production target)\n• Evidence 2: \"Work has commenced to build a new layer farm...\" (direct description of expansion)"
+    "score": 7,
+    "justification": "• Evidence 1: \"QL utilises a leading Farm Management Software (FMS)...\" (clear technical explanation)\n• Evidence 2: \"production will reach 800,000 eggs per day in FY2020...\" (precise numerical targets)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The volatility of commodity prices...\" (material risk factor)\n• Evidence 2: \"ILF has a fair outlook...\" (forward-looking statement with context)"
+    "justification": "• Evidence 1: \"ILF Outlook... competition in feed raw material...\" (forward-looking market analysis)\n• Evidence 2: \"threat of eggs oversupply may persist...\" (explains performance change drivers)"
   }
 }

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The ERM process involves a systematic application of the risk management methodology...\" (neutral, factual description of process)\n• Evidence 2: \"The Group adopts a 'zero tolerance' stance towards fraud.\" (clear risk disclosure without overstatement)"
+    "justification": "• Evidence 1: \"The ERM process involves a systematic application of the risk management methodology to facilitate risk identification, assessment, reporting as well as monitoring and review as described below:\" (neutral, factual description of process)\n• Evidence 2: \"The Group adopts a 'zero tolerance' stance towards fraud.\" (clear policy statement without overstatement)"
   },
   "Understandability": {
-    "score": 9,
-    "justification": "• Evidence 1: \"Corporate Risk Scorecard... enables subsidiaries... to report risks... using a common platform.\" (clear structure with precise terminology)\n• Evidence 2: \"Key Risk Indicators... presented in the form of Key Risk Dashboard.\" (direct explanation of risk monitoring tools)"
+    "score": 8,
+    "justification": "• Evidence 1: \"RISK IDENTIFICATION AND ASSESSMENT\" section uses clear headings and bullet points to explain processes (logical structure)\n• Evidence 2: \"The net risk level is determined after taken into consideration the effectiveness of existing controls...\" (precise language with contextual explanation)"
   },
   "Relevance": {
     "score": 8,
-    "justification": "• Evidence 1: \"Changes to risk profiles and emerging risks... promptly brought to the attention of the Board...\" (material risk disclosure relevant to investors)\n• Evidence 2: \"The Code, Whistleblowing and Fraud Control Policies... are available for reference...\" (governance and control information for decision-making)"
+    "justification": "• Evidence 1: \"Changes to risk profiles and emerging risks are also identified and promptly brought to the attention of the Board and Board Committees.\" (directly addresses investor concerns about risk management)\n• Evidence 2: \"The Annual Business Plan sets the targets and objectives...\" (links to performance tracking relevant for decision-making)"
   }
 }

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our Materiality Assessment, first carried out in 2017 and reviewed each year, helps us to identify the sustainability issues which are most important to us and our stakeholders.\" (provides specific timeframe and process)\n• Evidence 2: \"Obtained external assurance on selected Environment and Social from Lloyd’s Register Quality Assurance\" (supports credibility with third-party validation)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Our vision to create a financially, environmentally, and socially sustainable future for our business by: [list]\" (clear structure but vague phrasing)\n• Evidence 2: \"sub-sumed a) the ‘Health and Nutrition’ issue under ‘Consumer Health & Safety’...\" (uses non-standard term ‘sub-sumed’ which may confuse readers)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Malaysian Government has published a ‘Roadmap Towards Zero Single-use Plastics 2018-2030’\" (links to external regulatory context)\n• Evidence 2: \"Included in the FTSE4Good Bursa Malaysia Index for the first time this year\" (demonstrates market recognition and relevance to investors)"
+  }
+}

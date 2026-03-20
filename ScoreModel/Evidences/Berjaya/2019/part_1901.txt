@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"As at 30 June 2019, there are a total of 80 KRR restaurants across Malaysia.\" (specific factual date and number)\n• Evidence 2: \"All unsold food products are discarded or donated.\" (neutral operational disclosure)"
+    "justification": "• Evidence 1: \"BGroup’s acquisition of KRR International Corp, USA in April 2008\" (specific factual event)\n• Evidence 2: \"As at 30 June 2019, there are a total of 80 KRR restaurants\" (date-specific quantitative data)"
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"KRR restaurants feature rotisserie-roasted chicken as their main core product complemented by a variety of hot and cold side dishes...\" (clear structure and precise product description)\n• Evidence 2: \"non-genetically modified organism (non-GMO), identity-preserved (IP) Canadian soy beans\" (direct terminology with necessary technical explanations)"
+    "justification": "• Evidence 1: \"All KRR restaurants serve their customers in a full service, mid-casual dining setting\" (clear, direct description)\n• Evidence 2: \"All unsold food products are discarded or donated\" (precise, unambiguous statement)"
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"No forward-looking information\" (lacks projections or strategic plans)\n• Evidence 2: \"No mention of risks, material events, or corporate governance\" (insufficient investor-focused disclosures)"
+    "justification": "• Evidence 1: \"Jollibean’s signature products are its fresh daily-made ‘Jollibean’ soy milk...\" (operational detail but no financial context)\n• Evidence 2: \"In 2006, Jollibean Foods opened its first traditional kopi café concept...\" (historical event without strategic significance)"
   }
 }

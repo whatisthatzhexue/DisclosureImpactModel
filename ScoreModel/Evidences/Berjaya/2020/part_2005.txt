@@ -1,15 +1,15 @@
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 6,
-    "justification": "• Evidence 1: The text lists specific awards (e.g., '2019 Malaysian e-Payments Excellence Awards – Top MyDebit Merchant') without overstatement.\n• Evidence 2: Store openings and milestones (e.g., '300th Store milestone in Malaysia') are factual but lack disclosure of risks or uncertainties."
+    "score": 4,
+    "justification": "• Evidence 1: The text lists awards without disclosing risks, challenges, or uncertainties (e.g., no mention of market competition or operational risks).\n• Evidence 2: The statement about '300th Store milestone' is presented as a fact without contextualizing its significance or potential risks."
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: The text uses clear, direct language (e.g., 'increased from 46 stores to 52 stores').\n• Evidence 2: Structure is logical with bullet points, but some phrases like 'Signing Store' may be unclear without context."
+    "justification": "• Evidence 1: The text uses clear, direct language to describe store openings and awards (e.g., 'opened its first Signing Store in Penang').\n• Evidence 2: The structure is logical, but some phrases like 'BStarbucks’ 300th Store milestone' could be more precise to avoid ambiguity."
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: Store expansion details (e.g., 'opened its first Signing Store in Penang') are relevant for investors.\n• Evidence 2: Missing forward-looking information, risks, or explanations for performance changes, limiting decision-usefulness."
+    "justification": "• Evidence 1: The mention of store expansions (e.g., 'expanded into Terengganu') provides forward-looking information relevant to investors.\n• Evidence 2: The text lacks analysis of performance changes, material events, or corporate governance details, limiting its utility for decision-making."
   }
 }

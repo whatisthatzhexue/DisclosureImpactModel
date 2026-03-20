@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The average incident rate in the ILF and POA business pillars has registered reductions.\" (specific factual data)\n• Evidence 2: \"we continue to have zero fatality\" (neutral, objective statement with verifiable outcome)"
+    "justification": "• Evidence 1: 'The average incident rate in the ILF and POA business pillars has registered reductions' (specific factual data).\n• Evidence 2: 'we continue to have zero fatality' (objective statement supported by data)."
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Incident Rate by Business Pillars\" table (clear structure with defined metrics)\n• Evidence 2: \"Safety Awareness Training\" section with purpose-of-training explanations (precise, direct language)"
+    "justification": "• Evidence 1: 'The formula of incident rate computation is as per the Notification of Accident...' (clear reference to methodology).\n• Evidence 2: Tables 10 and 11 organize complex information with headings and bullet points (structured logic)."
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"The change of reporting incident rate is to provide more detailed insights\" (explains performance metric change)\n• Evidence 2: \"actions taken by the various businesses to improve workplace safety\" (relevant to investor risk assessment)"
+    "justification": "• Evidence 1: 'The change of reporting incident rate is to provide more detailed insights...' (explains performance metric shift).\n• Evidence 2: 'QL Group remains committed to ensuring that all QL sites are accident-free workplace' (forward-looking commitment)."
   }
 }

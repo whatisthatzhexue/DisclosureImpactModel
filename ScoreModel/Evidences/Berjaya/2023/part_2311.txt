@@ -1,15 +1,15 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 5,
-    "justification": "• Evidence 1: \"The Group aims to optimise its collective impact by continually reassessing and integrating these material issues into its business strategy\" (no specific metrics or risks disclosed)\n• Evidence 2: \"Striving to create the future it dreams of through the lens of humanity\" (overstatement with no measurable outcomes)"
+    "score": 4,
+    "justification": "• Evidence 1: \"Striving to create the future it dreams of through the lens of humanity\" (overstatement without evidence)\n• Evidence 2: No specific metrics, risks, or challenges disclosed (e.g., no quantifiable targets or uncertainties)"
   },
   "Understandability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"Economic Sustainability, Environmental Sustainability, Social Sustainability\" (clear categorization of pillars)\n• Evidence 2: \"Investing in Our EMPLOYEES... Caring for Our Communities and the Planet\" (direct section headings with logical flow)"
+    "score": 6,
+    "justification": "• Evidence 1: \"Creating long-term value for shareholders and adding value for all stakeholders\" (redundant phrasing)\n• Evidence 2: \"Striving to improve the Company’s environmental footprint...\" (vague action verbs without specificity)"
   },
   "Relevance": {
     "score": 5,
-    "justification": "• Evidence 1: \"Our employees (partners) are the heart of the BFood experience\" (stakeholder focus relevant to investors)\n• Evidence 2: \"Striving to create the future it dreams of through the lens of humanity\" (forward-looking but lacks specific financial or operational details)"
+    "justification": "• Evidence 1: \"Our employees (partners) are the heart of the BFood experience\" (focus on internal culture rather than investor-relevant metrics)\n• Evidence 2: No forward-looking financial projections or risk disclosures (e.g., regulatory risks, operational challenges)"
   }
 }

@@ -2,14 +2,14 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The meetings were appropriately structured through the use of agendas... in compliance with the MMLR and its terms of reference.\"\n• Evidence 2: \"The Audit Committee reported to and updated the Board on significant issues and matters discussed... made the necessary recommendations to the Board.\"\n• Evidence 3: \"The unaudited financial reports reviewed by the Audit Committee were then recommended to the Board for approval...\"\n• Evidence 4: \"The Audit Committee carried out its duties in accordance with its terms of reference...\""
+    "justification": "• Evidence 1: \"The meetings were appropriately structured through the use of agendas... in compliance with the MMLR and its terms of reference.\"\n• Evidence 2: \"The Audit Committee reported to and updated the Board on significant issues... made the necessary recommendations to the Board.\"\n• Evidence 3: \"The review focused on key financial results... reasons for variances provided by the Group Financial Controller...\"\n• Evidence 4: \"The Audit Committee carried out its duties in accordance with its terms of reference...\""
   },
   "Understandability": {
     "score": 9,
-    "justification": "• Evidence 1: \"The External Auditors, Internal Auditors, Executive Directors... attended the Audit Committee meetings to present their reports/findings...\"\n• Evidence 2: \"The review focused on key financial results and comparison to the corresponding quarter... with reasons for variances provided...\"\n• Evidence 3: \"Minutes of the Committee’s meetings were made available to all Board Members for review...\"\n• Evidence 4: \"The summary of work undertaken by the Audit Committee... included the following: 1. Reviewed the Quarterly Financial Reports...\""
+    "justification": "• Evidence 1: \"The meetings were appropriately structured through the use of agendas... normally at least seven -7 days before the meeting...\"\n• Evidence 2: \"The Audit Committee reported to and updated the Board on significant issues... made the necessary recommendations to the Board.\"\n• Evidence 3: \"The review focused on key financial results... comparison to the corresponding quarter...\"\n• Evidence 4: \"The unaudited financial reports... recommended to the Board for approval...\""
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Audit Committee reviewed the Company’s compliance with regulatory, statutory and accounting standards...\"\n• Evidence 2: \"The review of the quarterly financial reports... was supplemented by the review of key financial information...\"\n• Evidence 3: \"The unaudited financial reports... were recommended to the Board for approval prior to announcement to Bursa Malaysia Securities Berhad...\"\n• Evidence 4: \"The business prospects of the Group for the rest of the financial year were provided by the Management to the Audit Committee for discussion.\""
+    "justification": "• Evidence 1: \"Reviewed the Quarterly Financial Reports... comparison to the corresponding quarter... reasons for variances provided...\"\n• Evidence 2: \"Reviewed the Company’s Compliance with Regulatory... Malaysian Accounting Standards Board...\"\n• Evidence 3: \"Minutes of the Committee’s meetings were made available... seek clarification and confirmation...\"\n• Evidence 4: \"The Audit Committee reported to and updated the Board on significant issues... made the necessary recommendations...\""
   }
 }

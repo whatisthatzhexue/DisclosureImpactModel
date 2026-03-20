@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: 'BFood endeavours to support economic growth that benefits every level of society, while minimizing the adverse environmental and social impacts arising from its daily business operations guided by its long-term strategy for Economic, Environmental, and Social Sustainability.'\n• Evidence 2: 'The Board is satisfied that the Company has substantially complied with the MCCG throughout the FYE 2020 save for the exceptions which are fully described in the CG Report.'"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Board has delegated the day-to-day affairs of the Group’s business to the CEO... The CEO may delegate appropriate functions to any member of the Senior Management reporting to the CEO.'\n• Evidence 2: 'The Company Secretaries have also been continuously attending the necessary training programmes... to keep themselves abreast with the current regulatory changes.'"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'The Board views the commitment to promote sustainability strategies... as part of its broader responsibility to all its various stakeholders.'\n• Evidence 2: 'The Company is committed to maintaining an environment of respect for people regardless of their gender... achieving a workplace environment free of harassment and discrimination.'"
+  }
+}

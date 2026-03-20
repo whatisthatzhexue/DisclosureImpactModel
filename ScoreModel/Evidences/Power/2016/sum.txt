@@ -1,16 +1,32 @@
 {
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: 'Power Root ME FZCO shall receive all profits or ownerships of assets and liable for all losses or liabilities of P.R. Manufacturing ME LLC' (neutral factual disclosure)\n• Evidence 2: 'The Group recorded a Profit After Tax (PAT) of approximately RM45.2 million for the FYE 2016' (specific numerical data without overstatement)"
+    "score": 9,
+    "justification": "• Evidence 1: 'Power Root ME FZCO shall receive all profits or ownerships of assets and liable for all losses or liabilities of P.R. Manufacturing ME LLC' (specific corporate structure details)\n• Evidence 2: 'The Group recorded a revenue of RM367.5 million, a decrease of approximately 4.1% from the revenue of RM383.2 million' (quantified performance change with neutral tone)"
   },
   "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: 'Over the FYE 2016, the Group intensified its efforts in activating numerous ground activities' (clear but repetitive phrasing)\n• Evidence 2: 'The Board is satisfied that, through the formal Policy... the current board composition fairly reflects the investment of minority shareholders' (complex sentence structure with nested clauses)"
+    "score": 8,
+    "justification": "• Evidence 1: 'The Group participated in international food exhibitions such as (i) the World Food Fair 2015 in Singapore...' (clearly structured list of events)\n• Evidence 2: 'The Board is committed to select and appoint a capable and suitable individual as the independent non-executive Chairman' (direct language with logical flow)"
   },
   "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Group did not record any operating activity for this segment for the FYE 2016. Going forward, it is the Group’s intention to wind down this operating segment' (material event disclosure)\n• Evidence 2: 'The Board does not recommend the payment of any final dividend in respect of the FYE 2016' (directly relevant to investor decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Committee carried out its duties in accordance with its terms of reference during the financial year under review.\" (neutral, objective description of activities)\n• Evidence 2: \"The cost incurred in connection with the internal audit functions during the financial year amounted to RM303,061.\" (specific factual disclosure)"
+  },
+  "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: 'The Group recorded promising growth for its export markets by recording RM140.1 million revenue' (material financial information for investors)\n• Evidence 2: 'The Board is committed to select and appoint a capable and suitable individual as the independent non-executive Chairman' (corporate governance relevance)"
+    "justification": "• Evidence 1: \"The Committee shall have direct communication channels with the internal and external auditors...\" (clear, direct language)\n• Evidence 2: \"The areas of review conducted by the internal auditors are disclosed in the Statement on Risk Management and Internal Control...\" (structured reference to supporting documents)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Reviewed related party transactions entered into by the Group and ensured all transactions are at arms length’s basis\" (material governance risk disclosure)\n• Evidence 2: \"The Board shall ensure that at least one (1) member of the Committee shall be...\" (corporate governance structure relevant to investors)"
   }
 }
 
@@ -18,46 +34,30 @@
   "MemoryTest": "The quick brown fox jumps over the lazy dog.",
   "Reliability": {
     "score": 8,
-    "justification": "• Evidence 1: \"The Committee carried out its duties in accordance with its terms of reference during the financial year under review.\" (neutral, factual description)\n• Evidence 2: \"The cost incurred in connection with the internal audit functions during the financial year amounted to RM303,061.\" (specific numerical disclosure)"
+    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical...\" (objective, factual statement about risk management priorities)\n• Evidence 2: \"Risk assessment... guided by the likelihood rating and impact rating established by the Board\" (specific, measurable criteria for risk evaluation)"
   },
   "Understandability": {
     "score": 7,
-    "justification": "• Evidence 1: \"The Audit Committee ensures the adequacy of the internal audit scope by way of review of the internal audit plan...\" (clear procedural explanation)\n• Evidence 2: \"The Chairman shall submit an annual report to the Board summarising the Committee’s activities...\" (precise role definition)"
+    "justification": "• Evidence 1: \"Systematic risk management process is employed by the Executive Directors...\" (clear structure of risk management activities)\n• Evidence 2: \"key risk profile... used for the identification of high residual risks...\" (precise terminology with defined purpose)"
   },
   "Relevance": {
     "score": 6,
-    "justification": "• Evidence 1: \"Reviewed related party transactions entered into by the Group and ensured all transactions are at arms length’s basis\" (material risk disclosure)\n• Evidence 2: \"The Board delegates its review role to the Audit Committee...to provide assurance to the Board on the adequacy and effectiveness of governance...\" (investor-relevant governance explanation)"
+    "justification": "• Evidence 1: \"the Executive Directors and the Management review the risk registers... report to the Audit Committee\" (directly relevant to governance and risk monitoring)\n• Evidence 2: \"key risks identified and rated based on an agreed upon risk rating\" (material risk disclosure for investor assessment)"
   }
 }
 
 {
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "MemoryTest": "[Repeat the exact anchor sentence]",
   "Reliability": {
-    "score": 8,
-    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical in the pursuit of its strategic objectives\" (neutral, objective statement)\n• Evidence 2: \"key risk profile is used for the identification of high residual risks which are above the risk appetite of the Group\" (discloses specific risks and thresholds)"
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board assumes the primary responsibility for the risk management of the Group.\" (clearly assigns accountability)\n• Evidence 2: \"The cost incurred in maintaining... amounted to RM303,061.\" (specific financial disclosure)"
   },
   "Understandability": {
     "score": 8,
-    "justification": "• Evidence 1: \"Systematic risk management process is employed by the Executive Directors and the Management for risk identification, risk assessment, control identification, risk treatment and control activities\" (clear structure of processes)\n• Evidence 2: \"review the risk registers... on an annual basis or on more frequent basis (if circumstances required)\" (precise language with conditional clarification)"
+    "justification": "• Evidence 1: \"Respective heads of departments/divisions are responsible for...\" (clear role assignment)\n• Evidence 2: \"The internal audit functions... report to the Audit Committee.\" (structured hierarchy explanation)"
   },
   "Relevance": {
     "score": 7,
-    "justification": "• Evidence 1: \"high residual risks which are above the risk appetite of the Group that require the Management and the Board’s immediate attention\" (directly relevant to investor concerns about risk exposure)\n• Evidence 2: \"report to the Audit Committee on the results of the review and assessment\" (links to corporate governance and oversight mechanisms)"
-  }
-}
-
-{
-  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
-  "Reliability": {
-    "score": 7,
-    "justification": "• Evidence 1: \"the Board is of the view that the risk management and internal control systems are operating satisfactory and have not resulted in any material losses...\" (neutral assessment with specific outcome)\n• Evidence 2: \"the monitoring of the risk management by the Group is enhanced by the internal audits...\" (specific process description)"
-  },
-  "Understandability": {
-    "score": 6,
-    "justification": "• Evidence 1: \"The key features of the Group’s internal control systems are described below:\" (clear section heading)\n• Evidence 2: \"The cost incurred... amounted to RM303,061.\" (precise numerical data)"
-  },
-  "Relevance": {
-    "score": 7,
-    "justification": "• Evidence 1: \"The Annual Budget... form one of the basis to monitor the actual performances...\" (direct relevance to investor decision-making)\n• Evidence 2: \"Matters that require the Board... are highlighted for review...\" (explicit governance and risk disclosure)"
+    "justification": "• Evidence 1: \"The Board is of the view that the risk management...\" (directly addresses investor concerns)\n• Evidence 2: \"The external auditors have reviewed...\" (includes governance-related assurance)"
   }
 }
