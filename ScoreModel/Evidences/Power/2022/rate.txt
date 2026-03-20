@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The Reliability score is set at 8.5, reflecting strong adherence to regulatory frameworks (e.g., references to MMLR, MCCG 2021) and verifiable disclosures (e.g., Board minutes, audit committee processes). While some entries (e.g., \"the Board is of the opinion...\") show subjective statements, the majority of evidence demonstrates objective compliance, neutral disclosure of governance structures, and transparent documentation of decision-making processes. Lower scores (e.g., 7) were mitigated by the prevalence of higher-quality evidence."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "The Relevance score is 7.5, as the report consistently addresses investor-relevant governance practices (e.g., disclosure of material contracts, risk management frameworks, and director remuneration). However, some entries (e.g., \"the Board is fully committed to...\") lack direct ties to investor decision-making, while others (e.g., \"Please refer to Practice...\") rely on indirect links. The balance of direct relevance and contextual guidance justifies a mid-range score."
+  },
+  "Understandability": {
+    "score": 8.5,
+    "justification": "The Understandability score is 8.5, driven by clear structural formatting (e.g., bullet points, numerical thresholds), precise language (e.g., \"The Board assumes the overall responsibility...\"), and logical flow in explanations. Lower scores (e.g., 6) stemmed from complex table formatting or technical jargon, but these were outweighed by the majority of entries that provided straightforward, actionable information."
+  }
+}

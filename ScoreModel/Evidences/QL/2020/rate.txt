@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.0,
+    "justification": "The final score of 8.0 is derived from a balance of strong and moderate evidence. Higher scores (e.g., 9 and 8) highlight compliance with governance frameworks (e.g., Malaysian Code on Corporate Governance 2017, COSO ERM), specific disclosures (e.g., anti-bribery policies, internal control adequacy), and acknowledgment of limitations (e.g., \"internal controls can only provide reasonable assurance\"). Lower scores (e.g., 5 and 6) reflect gaps in risk disclosure and overstatement of internal control effectiveness. However, the majority of evidence supports robust reliability, warranting a high score."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "The score of 7.5 reflects a mix of strong and moderate relevance. Higher scores (e.g., 9 and 8) emphasize direct ties to investor decision-making (e.g., material event disclosures, governance structure). Lower scores (e.g., 6) note insufficient forward-looking information or explanations for performance changes. While the report addresses material governance and risk factors, the lack of strategic context or stakeholder impact analysis slightly reduces the overall relevance score."
+  },
+  "Understandability": {
+    "score": 7.5,
+    "justification": "A score of 7.5 is justified by the presence of clear structural elements (e.g., remuneration tables, role definitions) and precise language in some sections. However, inconsistencies arise from repetitive phrasing, unexplained acronyms (e.g., MCCG), and poor navigation (e.g., references to external reports without context). The high scores (e.g., 9 and 8) for structured disclosures offset the lower scores (e.g., 5), resulting in a balanced, mid-range score."
+  }
+}

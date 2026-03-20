@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "The final score of 8 is derived from a synthesis of high-quality disclosures (e.g., specific numerical data like 'RM333.8 million to RM442.9 million', clear governance statements, and risk acknowledgment) across multiple scoring results. Lower scores (e.g., 5) were attributed to sections lacking contextual support for claims or factual data. The 0-score entries were outliers due to absence of substantive content. The majority of evidence supports reliability through factual precision and objective statements, though some sections needed more contextual depth."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "A score of 7 reflects the balance between strong forward-looking disclosures (e.g., 'forward-looking shareholder information', 'capital expenditure plans') and gaps in material event explanations. Higher scores (e.g., 8) were justified by direct links to investor decision-making (e.g., dividend recommendations, risk management frameworks), while lower scores (e.g., 3) cited missing performance drivers or material event details. The final score incorporates the prevalence of governance-related relevance while acknowledging shortcomings in risk-specific disclosures."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "The score of 8 is based on consistent use of structured formats (e.g., bullet points, clear section headers) and precise numerical presentation (e.g., '1.5 per cent increase', 'RM2.9 million'). Lower scores (e.g., 4, 6) were due to ambiguous terms ('sen' without currency context) or minimal formatting. The majority of evidence highlights clarity in explanations and direct language, with compromises made for sections lacking consistent formatting or contextual elaboration."
+  }
+}

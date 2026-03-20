@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.2,
+    "justification": "The final score of 8.2 balances high-quality disclosures (e.g., specific figures like 'RM338.0 million revenue decline', transparent risk management statements, and factual claims about operational changes) with some inconsistencies. Lower scores (e.g., 5-7) arise from entries lacking specific data (e.g., no risk/uncertainty disclosures) or overly generic statements. However, the majority of evidence demonstrates reliability through factual accuracy, neutral tone, and structured risk/uncertainty disclosures, justifying the mid-high score."
+  },
+  "Relevance": {
+    "score": 7.1,
+    "justification": "The score of 7.1 reflects strong relevance in explaining performance drivers (e.g., 'ROI focus leading to sales drops'), material events (e.g., 'new tea series launch'), and governance structures. However, some entries (e.g., 5-6) lack forward-looking information or direct links to investor decision-making. The final score incorporates the majority of evidence emphasizing materiality and strategic relevance while acknowledging gaps in predictive insights."
+  },
+  "Understandability": {
+    "score": 8.3,
+    "justification": "The score of 8.3 is driven by clear structural elements (e.g., tabular data, bullet points), precise terminology (e.g., 'SKU line-up'), and logical flow (e.g., cause-effect explanations). Lower scores (e.g., 6-7) stem from overly technical terms without context or less structured explanations. The final score prioritizes the dominant evidence of clarity and actionable language while noting areas needing improved contextualization of jargon."
+  }
+}

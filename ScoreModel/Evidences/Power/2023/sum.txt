@@ -1,0 +1,150 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The removal of travel and movement restrictions... allowed for the full resumption of activities locally and globally.' (discloses challenges and uncertainties)\n• Evidence 2: 'Power Root’s financial year ended 31 March 2023... recorded a PAT of RM59.5 million, an increase of 125.9% from the PAT of RM26.3 million in FYE 2022.' (specific factual data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Group shifted from using diesel-operated forklifts to battery-operated forklifts... reducing carbon emissions by 1,920 metric tons.' (clear structure and precise language)\n• Evidence 2: 'The Board has not nominated a Senior Independent Non-Executive Director... to ensure an effective and well-balanced Board composition.' (direct explanation of governance structure)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Increasing cost pressures... were a major point of concern which we had to navigate in FY 2023.' (material events and risks)\n• Evidence 2: 'The Group has catered for our products to be in tandem with government initiatives... to strategically position our products.' (forward-looking strategy relevant to investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The meetings were appropriately structured through the use of agendas... in compliance with the MMLR and its terms of reference.\"\n• Evidence 2: \"The Audit Committee reported to and updated the Board on significant issues and matters discussed... made the necessary recommendations to the Board.\"\n• Evidence 3: \"The unaudited financial reports reviewed by the Audit Committee were then recommended to the Board for approval...\"\n• Evidence 4: \"The Audit Committee carried out its duties in accordance with its terms of reference...\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The External Auditors, Internal Auditors, Executive Directors... attended the Audit Committee meetings to present their reports/findings...\"\n• Evidence 2: \"The review focused on key financial results and comparison to the corresponding quarter... with reasons for variances provided...\"\n• Evidence 3: \"Minutes of the Committee’s meetings were made available to all Board Members for review...\"\n• Evidence 4: \"The summary of work undertaken by the Audit Committee... included the following: 1. Reviewed the Quarterly Financial Reports...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee reviewed the Company’s compliance with regulatory, statutory and accounting standards...\"\n• Evidence 2: \"The review of the quarterly financial reports... was supplemented by the review of key financial information...\"\n• Evidence 3: \"The unaudited financial reports... were recommended to the Board for approval prior to announcement to Bursa Malaysia Securities Berhad...\"\n• Evidence 4: \"The business prospects of the Group for the rest of the financial year were provided by the Management to the Audit Committee for discussion.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee members also underwent training by professionals during the financial year to update themselves on the financial reporting and compliance requirements.\"\n• Evidence 2: \"The AC reviewed and approved the Non-Assurance Services... in line with MIA By-Laws\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The audit plan presented included information on the engagement team, audit scope, materiality, audit methodology and timing of audit...\"\n• Evidence 2: \"The Audit Committee recommended for the Board’s approval and adoption of the audited statutory financial statements...\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The audit findings on the significant risk areas, deficiencies in internal control (if any) and status of the audit were presented to the Audit Committee.\"\n• Evidence 2: \"the Audit Committee recommended for the Board’s approval and adoption of the audited statutory financial statements...\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the Audit Committee conducted an evaluation of the performance, independence and objectivity of the External Auditors via the External Auditor Performance and Independence Checklist\" (neutral, objective assessment)\n• Evidence 2: \"the External Auditors reaffirmed their independence of the Group and the Company... their commitment to communicate to the Audit Committee on their independence status on an ongoing manner\" (specific facts supporting objectivity)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee received internal audit reports... on a quarterly basis... contained the findings, recommendations and agreed management action plans\" (clear structure and precise language)\n• Evidence 2: \"the Audit Committee conducted a formal evaluation of the performance... via the In-House Internal Audit Function Evaluation Checklist\" (logical flow with specific terminology where necessary)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the Audit Committee recommended the reappointment of the External Auditors to the Board\" (directly relevant to governance and accountability)\n• Evidence 2: \"the oversight role of the Audit Committee on the internal audit function is detailed in the Statement on Risk Management...\" (links to corporate governance and internal controls)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'the Audit Committee noted that there were no other material transactions entered into by the Group with related parties during the financial year ended 31 March 2023' (objective, factual disclosure of no material transactions).\n• Evidence 2: 'were in compliance with the MMLR' (specific reference to regulatory compliance, supporting reliability)."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Reviewed the Statements and Reports Disclosed in the Annual Report' (clear, direct language with structured headings).\n• Evidence 2: 'the Audit Committee reviewed the updated Risk Management Report... on its adequacy and effectiveness' (precise description of review process without vague terms)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Reviewed the Sustainability Matters Assessment Results of the Group' (directly addresses material ESG-related risks, relevant to investors).\n• Evidence 2: 'the Audit Committee was satisfied with the results of the risk assessment and its responses' (pertains to corporate governance and risk management, critical for decision-making)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee reviewed and approved the Annual Budget... for its review and approval.\" (neutral factual reporting)\n• Evidence 2: \"Reviewed the solvency statements... before recommending to the Board for consideration...\" (discloses risks and decision-making process)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The in-house internal audit function and the outsourced internal audit function report directly to the Audit Committee.\" (clear structure and direct language)\n• Evidence 2: \"The approved internal audit plans are duly executed...\" (precise procedural explanation)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Reviewed the solv... for FY 2022 and 1st... dividend for FY 2023\" (material financial information)\n• Evidence 2: \"Further details... Risk Management and Internal Control\" (directly addresses investor concerns about governance)"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {"score": 1, "justification": "• Evidence 1: [TEXT]audit committee report cont’d AR 2023[/TEXT] (no specific facts or neutral disclosures)\n• Evidence 2: No mention of risks, challenges, or uncertainties (0/4 criteria met)"},
+  "Understandability": {"score": 1, "justification": "• Evidence 1: [TEXT]audit committee report cont’d AR 2023[/TEXT] (vague, lacks structure/precision)\n• Evidence 2: No clear language or professional terms (0/4 criteria met)"},
+  "Relevance": {"score": 2, "justification": "• Evidence 1: [TEXT]audit committee report[/TEXT] (potentially relevant to governance but no details)\n• Evidence 2: No forward-looking info, risks, or material events (1/4 criteria met)"}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"However, as there are inherent limitations in any risk management and internal control system, such system is designed to manage, rather than eliminate risks that may impede the achievement of the Group’s business and corporate objectives. Accordingly, it can only provide reasonable but not absolute assurance against material misstatement of losses and fraud.\"\n• Evidence 2: \"The Board does not review the risk management and internal control system of its associate company as the Group does not have management control over the associate company.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee, as a Board Committee, is governed by its terms of reference and is delegated with the duty to review the adequacy and effectiveness of the risk management and internal control system of the Group.\"\n• Evidence 2: \"The Board has established an appropriate governance, risk and internal control system that is embedded into the corporate culture, processes and strategies of the Group.\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The scope of this Statement includes the Company and all operating subsidiaries.\"\n• Evidence 2: \"The Board has established an appropriate governance, risk management and internal control system that is embedded into the corporate culture, processes and strategies of the Group.\""
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board has put in place a formal Group Risk Management Framework to govern the risk management process.\"\n• Evidence 2: \"The principles... are guided by ISO 31000:2018... and the updated Enterprise Risk Management... (COSO).\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group Risk Management Framework clearly defines the risk management objectives and processes...\" (clear structure)\n• Evidence 2: \"roles and responsibilities of the Board, Audit Committee...\" (precise language)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Board... maintains an on-going commitment to identifying, evaluating and managing the significant risks...\" (risks and governance)\n• Evidence 2: \"clear roles and responsibilities of the Board...\" (internal management)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board delegates the duty...reports to the Audit Committee...\" (demonstrates clear accountability structure)\n• Evidence 2: \"The risk owners are responsible...for the final decision...\" (shows transparent risk ownership)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Key Risk Registers...incorporation of new or emerging risks\" (clear process description)\n• Evidence 2: \"The in-house internal audit function...International Professional Practices Framework\" (specific technical references)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"strategic, governance and key operational risks...sustainability, fraud and bribery-related risks\" (directly addresses investor concerns)\n• Evidence 2: \"the Audit Committee...review of the financial performance...\" (links governance to performance monitoring)"
+  }
+}

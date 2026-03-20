@@ -1,0 +1,189 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: No specific facts or disclosures about risks, challenges, or uncertainties are provided.\n• Evidence 2: The text lacks truthfulness, neutrality, or objective information."}, 
+  "Understandability": {"score": 1, "justification": "• Evidence 1: The heading is clear and direct, but no substantive content is provided.\n• Evidence 2: The text contains no explanations or elaboration to clarify corporate governance details."}, 
+  "Relevance": {"score": 0, "justification": "• Evidence 1: No information is provided that would be useful for investors' decision-making.\n• Evidence 2: The text does not include risks, material events, or corporate governance details as required."}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"To review and manage principal risks affecting the Group through a sound framework\" (neutral, factual disclosure of risk management responsibilities)\n• Evidence 2: \"The Board has not nominated a Senior Independent Non-Executive Director...\" (transparent disclosure of governance structure)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Chairmen are responsible for the governance...while the Chief Executive Officer is responsible for implementing...\" (clear role separation with direct language)\n• Evidence 2: \"The Code of Conduct, Anti-Bribery and Corruption Policy...are available for download...\" (precise information delivery with actionable details)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"To ensure compliance with applicable laws and regulations...\" (directly relevant to investor concerns about regulatory adherence)\n• Evidence 2: \"Whistleblowing Policy with a direct incident-reporting avenue...\" (material governance information impacting risk assessment)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides specific facts about board meeting frequency (\"met five -5 times during the financial year ended 31 March 2021\") and attendance details, supporting objective disclosure.\n• Evidence 2: It mentions the Company Secretary's role in recording minutes and maintaining statutory records, demonstrating procedural transparency."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: The text uses clear headings (e.g., \"Board Meetings\", \"Supply of Information\") and direct language to explain governance processes.\n• Evidence 2: Specific details like \"at least seven -7 days before the meeting\" are precise, though some terms like \"statutory register\" could be more explicitly defined."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The text includes corporate governance details (board structure, meeting procedures) relevant to investors' understanding of management oversight.\n• Evidence 2: It mentions supply of information and access to advisers, which relates to governance but lacks direct links to financial performance, risks, or material events."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The composition of Independent Non-Executive Directors is in compliance with the minimum prescribed in Paragraph 15.02(1) of the MMLR...\" (specific regulatory compliance)\n• Evidence 2: \"The Board has no clear target for female representatives...\" (acknowledges a gap without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board currently has ten -10 members comprising two -2 Independent Non-Executive Co-Chairmen...\" (clear numerical breakdown)\n• Evidence 2: \"The Board supports age, ethnic and gender diversity...\" (direct statement of policy position)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Please refer to Practice 4.1 of the CG Report for further details.\" (links to governance disclosures relevant to investors)\n• Evidence 2: \"The Board has no clear target for female representatives...\" (discloses diversity policy limitations relevant to governance evaluation)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the Board is satisfied with the level of independence and objectivity demonstrated by all Independent Non-Executive Directors\" (neutral, objective assessment)\n• Evidence 2: \"the length of his service on the Board did not interfere with his ability to exercise independent judgment\" (acknowledges potential risk without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The tenure of an Independent Non-Executive Director... shall not exceed a cumulative term of nine -9 years\" (clear structure with specific criteria)\n• Evidence 2: \"the Nominating Committee will conduct the independence and objectivity review\" (precise language explaining process)"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the Board shall first justify and obtain annual shareholders’ approval\" (directly relevant to investor decision-making)\n• Evidence 2: \"gender and ethnic balance within the Board should be considered\" (addresses governance structure important for investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [no content]\n• Evidence 2: [no content]"},
+  "Understandability": {"score": 0, "justification": "• Evidence 1: [no content]\n• Evidence 2: [no content]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [no content]\n• Evidence 2: [no content]"}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"All Directors (including the Chief Executive Officer) will retire at regular intervals by rotation at least once every three years...\" (specific policy details)\n• Evidence 2: \"None of the Directors participated in any way in determining his own remuneration...\" (neutral, factual statement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board assumes the overall responsibility for establishing and implementing effective remuneration policies...\" (clear, direct language)\n• Evidence 2: \"The assessment/evaluation results will be collated for the Nominating Committee to review...\" (logical structure with precise terminology)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Performance evaluations were conducted on the Board and Board Committees...\" (directly relevant to investor assessment of governance)\n• Evidence 2: \"The Board, through the Nominating Committee, reviewed and assessed its required mix of skills...\" (pertains to corporate governance and management effectiveness)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"the Board is of the opinion that detailed disclosure on a named basis of the remuneration of individual Directors may jeopardise the personal security of the individual directors\"\n• Evidence 2: \"such disclosure may jeopardise the personal security of the individual senior management staff and increase the risk of loss of key personnel\""
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"All Directors, except for the new Director appointed after the financial year under review, have completed the Mandatory Accreditation Program...\"\n• Evidence 2: \"The training sessions attended by individual Board members during the financial year under review are as follows: [structured list]\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the Board has delegated specific duties to four (4) Board Committees...\"\n• Evidence 2: \"Disclosure on a named basis...may jeopardise the personal security...\" (relevant to governance risks)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"All Committees have written Terms of References and the Board receives reports on their proceedings and deliberations.\" (neutral, factual)\n• Evidence 2: \"The Nominating Committee members and their attendance records for meetings held during the financial year ended 31 March 2021 are as follows: -\" (specific, objective data)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Nominating Committee comprises exclusively of Independent Non-Executive Directors, in compliance with the MMLR.\" (clear structure with precise terminology)\n• Evidence 2: \"The Terms of Reference for the Nominating Committee is available for download...\" (direct language with actionable information)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Remuneration Committee was formed to assist the Board in determining...\" (relevant to investor understanding of governance structures)\n• Evidence 2: \"Please refer to Practice 4.4, 4.5 4.6, 4.7 and 5.1...\" (links to additional governance-related details)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Remuneration Committee members comprise three -3 Independent and Non-Executive Directors and their attendance records are as follows: -\" (specific factual data)\n• Evidence 2: \"The Terms of Reference of the Remuneration Committee is available for download...\" (provides verifiable source)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Option Committee... consists of two -2 Executive Directors and one -1 Independent Non-Executive Director...\" (clear structure with numerical details)\n• Evidence 2: \"The functions of the Option Committee are:...\" (bullet points with precise responsibilities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Option Committee... shall be vested with such powers and duties as conferred upon it by the Board...\" (explains governance structure relevant to investors)\n• Evidence 2: \"The new ESOS established on 11 June 2019...\" (specific details about employee incentives)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The functions of the Option Committee are: (continued): To administer the exercise of option; and To suspend the right...\" (specific, factual description of committee responsibilities)\n• Evidence 2: \"The engagement of the External Auditors is governed by the engagement letter... reviewed by the Audit Committee\" (objective, neutral disclosure of governance processes)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee is tasked with the oversight role on the effectiveness of Audit and Risk Management\" (clear, direct statement of purpose)\n• Evidence 2: \"The composition and Terms of Reference... are available in the Audit Committee Report\" (structured reference to supporting documents)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"In order to promote the sustainability of the Group’s businesses...\" (relevant to investor concerns about ESG practices)\n• Evidence 2: \"The Audit Committee maintains a close and transparent relationship...\" (pertinent to governance and risk management for investors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee met with the External Auditors thrice during the financial year under review to discuss their Audit Plans, their audit findings and other special matters that require the Audit Committee’s attention and the financial statements.\"\n• Evidence 2: \"The audit and non-audit fees incurred for services rendered by the External Auditors and their affiliated firms and companies to the Company and its subsidiaries for the financial year were as follows:\"\n"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Audit Committee met privately with the External Auditors twice without the presence of the Executive Directors and management to encourage free flow of information and views...\"\n• Evidence 2: \"The state of the internal control system and Internal Audit Function of the Group is explained in greater detail in the Statement on Risk Management and Internal Control...\"\n"
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board recognises the importance of Risk Management in pursuing the Company’s objective and have in place a Group Risk Management Framework.\"\n• Evidence 2: \"The Directors strive to ensure that a balanced, clear and meaningful assessment of the financial positions and prospects of the Group are made in all disclosures to shareholders, investors and the regulatory authorities.\"\n"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"All financial statements... compliance with relevant accounting standard and regulations prior to release to public and regulatory authorities.\" [Quotes specific compliance actions]\n• Evidence 2: \"Based on satisfactory results... recommended to the Board for the reappointment of the External Auditors.\" [Neutral evaluation of audit firm performance]"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee comprises the following members: - Chairman:...\" [Clear structure with bullet points]\n• Evidence 2: \"The meetings were conducted with the quorum of a majority...\" [Direct language explaining meeting protocols]"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Board has adopted such practice... ensure factual, accurate and consistent disclosure.\" [Directly addresses stakeholder communication]\n• Evidence 2: \"In the medium term... improve transparency in disclosing the remuneration...\" [Provides forward-looking governance plans relevant to investors]"
+  }
+}

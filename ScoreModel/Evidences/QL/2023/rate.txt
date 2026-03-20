@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The first scoring result highlights strong reliability through neutral, truthful disclosures (e.g., zero corruption cases) and specific factual reporting (e.g., formalized policies). The second result adds operational transparency by acknowledging risks and challenges, while the third result’s factual reporting (e.g., non-compliance cases) supports reliability. However, the third result’s lower score may reflect less emphasis on governance disclosures. Compromising between these, a score of 8.5 balances objective facts, risk acknowledgment, and governance transparency."
+  },
+  "Relevance": {
+    "score": 7.5,
+    "justification": "The second scoring result emphasizes material relevance with forward-looking risk disclosures and financial performance data, while the first result focuses on governance practices. The third result’s lower score (6) reflects less emphasis on investor-centric disclosures. By combining the second’s strong materiality (e.g., financial data, risk outlook) and the first’s governance relevance, a score of 7.5 captures the overall balance between governance, financial, and operational relevance."
+  },
+  "Understandability": {
+    "score": 7.5,
+    "justification": "The first result excels with precise, direct metrics (e.g., 39% female representation, 17.2% GHG reduction), while the second and third results provide clear numerical presentation but lack the same level of structured clarity. The third’s metric formatting (e.g., energy consumption units) supports understandability, but its lower score may reflect less consistent formatting. A score of 7.5 reflects the combination of precise metrics from the first result and the second/third’s numerical clarity, while acknowledging minor inconsistencies in formatting."
+  }
+}

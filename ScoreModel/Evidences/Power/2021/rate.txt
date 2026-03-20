@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "The final score of 8 balances high-quality disclosures (e.g., specific regulatory compliance, transparent governance structures, and neutral risk assessments) with some sections lacking detailed information. While multiple scorers highlighted objective, factual, and procedural transparency (e.g., board meeting records, audit processes), the presence of sections with minimal content or vague statements (e.g., no risk disclosures in one result) slightly reduced the overall score. However, the majority of sections provided sufficient reliability to justify a high rating."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "The score of 7 reflects mixed relevance. Sections with strong relevance directly addressed investor concerns (e.g., governance structures, risk management, and compliance with regulations), while others lacked clear links to financial performance or material events. For example, some scorers noted the absence of direct ties to financial disclosures or risk assessments, whereas others highlighted actionable governance details. The overall score reflects a balance between relevant and less relevant sections."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "An 8 is awarded for the clarity and structure of most sections, which used direct language, numerical breakdowns, and actionable details (e.g., committee compositions, meeting protocols). While some sections lacked elaboration on complex terms (e.g., 'statutory register'), the majority provided clear explanations and logical organization. The presence of structured references to additional details (e.g., 'refer to Practice 4.1') further enhanced understandability, though minor gaps in explanation slightly lowered the score."
+  }
+}

@@ -1,0 +1,15 @@
+{  
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",  
+  "Reliability": {  
+    "score": 8,  
+    "justification": "The reliability score of 8 is justified by the clear disclosure of anti-bribery policies and neutral reporting of personnel changes, which demonstrate transparency and accountability. These elements align with high-quality financial disclosure standards, though minor gaps may exist in deeper audit trail details."  
+  },  
+  "Relevance": {  
+    "score": 8,  
+    "justification": "The relevance score of 8 reflects strategic focus on investor interests (e.g., nation development contributions) and explanatory context for performance drivers (e.g., R&D team impact in Indonesia). While comprehensive, deeper linkage to stakeholder priorities could further elevate relevance."  
+  },  
+  "Understandability": {  
+    "score": 9,  
+    "justification": "The understandability score of 9 is supported by logical structural flow, precise financial metrics (e.g., 15% top-line growth), and contextual explanations. Only minor improvements in simplifying complex terminology would push it to a perfect score."  
+  }  
+}

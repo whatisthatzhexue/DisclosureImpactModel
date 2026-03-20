@@ -17,7 +17,7 @@ from pathlib import Path
 import ollama
 import tiktoken
 
-_CLIENT = ollama.Client(timeout=1800)  # 30-minute timeout
+_CLIENT = ollama.Client(timeout=7200)  # 2-hour timeout
 
 from config import (
     EVIDENCES_DIR,

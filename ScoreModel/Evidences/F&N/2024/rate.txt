@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7.5,
+    "justification": "The final Reliability score of 7.5 is determined by balancing high-quality entries (scores 8-9) with lower-scoring outliers (0-1). High scores are supported by specific factual disclosures (e.g., compliance with standards, audit processes, and neutral statements), while low scores stem from sections lacking substantive content or objective claims. The majority of entries (e.g., scores 7-9) demonstrate reliable practices, such as transparent risk assessments and third-party validations, which justify the moderate overall score."
+  },
+  "Understandability": {
+    "score": 7.2,
+    "justification": "The Understandability score of 7.2 reflects an average of entries with strong clarity (scores 8-9) and poor structure (scores 1-2). High scores are driven by clear formatting (e.g., bullet points, logical flow, and precise numerical data), while low scores arise from sections with nonsensical numbers or lack of structure. The presence of well-organized content (e.g., detailed explanations of controls) offsets the lower-scoring entries, resulting in a balanced moderate rating."
+  },
+  "Relevance": {
+    "score": 6.8,
+    "justification": "The Relevance score of 6.8 is derived from an analysis of entries with strong investor-focused disclosures (scores 7-9) and those lacking material information (scores 0-1). High scores are attributed to direct links to investor concerns (e.g., risk mitigation, governance, and financial performance), while low scores reflect sections with no forward-looking information or material event disclosures. The majority of entries (e.g., scores 6-8) address relevant topics like ESG and financial transparency, supporting the moderate overall rating."
+  }
+}

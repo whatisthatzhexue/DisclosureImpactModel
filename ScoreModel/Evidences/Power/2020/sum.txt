@@ -1,0 +1,406 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Power Root has seen an opportunity to tap into this mass premium market with the launch of two lines...\" (specific factual claim about market expansion)\n• Evidence 2: \"This is an annual award...\" (neutral description of an award without overstatement)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Warung line does not contain Tongkat Ali or Ginseng...\" (clear distinction of product lines)\n• Evidence 2: \"French-roasting technique which yields a more robust blend...\" (precise explanation of product uniqueness)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Our new brand Frenché Roast is a coffee range targeted at increasingly sophisticated...\" (relevant to investor understanding of market positioning)\n• Evidence 2: \"This year’s highlights include: Youtube Malaysia...\" (forward-looking branding achievement, but lacks financial performance context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group’s export sales increased from RM173.5 million to RM208.7 million in the past year. This rise was led by distribution channel improvements and sales force efficiency and effectiveness.\" (specific factual data)\n• Evidence 2: \"We set up two subsidiaries... to improve the supply chain management of our goods.\" (objective operational description)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"From March to May 2019, 45 billboards...\" (precise temporal and quantitative details)\n• Evidence 2: \"Contestants were offered the chance to win a 4-days, 3-nights Phuket Luxury Cruise Trip...\" (clear, direct explanation of contest incentives)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group’s export sales increased...\" (explains performance change with causal factors)\n• Evidence 2: \"We have repositioned each individual online channel for more robust growth.\" (forward-looking strategic information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"we expect a similar impact when the KSA raises its value-added tax from 5% to 15% beginning from 1 July 2020\" (acknowledges potential future risk)\n• Evidence 2: \"Profit after tax (PAT) of RM51.7million, an increase of 84.0% from the PAT of RM28.1 million in FYE 2019\" (specific factual data)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"annual output to 2.7 million cartons\" (precise numerical data)\n• Evidence 2: \"revenue of RM386.1 million, an increase of approximately 14.2%\" (clear percentage change explanation)"
+  },
+  "Relevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The PAT increase was a result of higher sales, a favourable sales mix, as well as a reversal of the impairment loss\" (explains performance drivers)\n• Evidence 2: \"We are stepping up our exploration of export growth options outside MENA\" (forward-looking strategic initiative)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Total Assets of the Group increased by RM44.4 million, mainly a result of an increase in cash and cash equivalents.'\n• Evidence 2: 'The Total Liabilities of the Group increased by RM9.9 million; this was mainly due to increases in trade and other payables, offset by lower short term borrowings.'"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: 'With a low gearing of 0.03 as at 31 March 2020, the Group’s financial position is sound.'\n• Evidence 2: 'The Board does not recommend the payment of any final dividend in respect of the FYE 2020.'"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'The Total Assets of the Group increased by RM44.4 million... mainly a result of an increase in cash and cash equivalents.'\n• Evidence 2: 'The Board does not recommend the payment of any final dividend in respect of the FYE 2020.'"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"As such, the total dividends paid for FYE 2020 is 12.5 sen per share amounting to RM50.9 million, representing a dividend payout ratio of approximately 99.0%\" (specific factual disclosure).\n• Evidence 2: \"The Group’s dividend policy is to maintain a minimum of 50% dividend payout ratio...\" (objective policy statement with no overstatement)."
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We will increase our focus on reaching potential customers online...\" (precise, direct language).\n• Evidence 2: \"Power Root will continue to expand our market...\" (clear structure with logical flow of strategic priorities)."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Going forward, we are adapting our sales strategy...\" (forward-looking information relevant to investor decision-making).\n• Evidence 2: \"New challenges bring with them new opportunities...\" (disclosure of risks and uncertainties, though lacks specific quantitative risk metrics)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We have not sought any external assurance for this Statement.\" (Discloses a limitation)\n• Evidence 2: \"The information reported in this Statement covers the period from 1 April 2019 to 31 March 2020\" (Specific timeframe)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The governance structure defines clearly the roles and responsibilities expected of the Board...\" (Precise explanation of roles)\n• Evidence 2: \"The prioritisation of the stakeholders is conducted by the SRMC...\" (Clear process description)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We will continue to expand our reporting scope...\" (Forward-looking information)\n• Evidence 2: \"The SRMC... is tasked with... communicating proposed action plans to the Head of Departments/Divisions\" (Relevant governance details)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Sustainability issues are considered material if: • they have significant economic, environmental and social impact on the Group from the organisation’s point of view; • they substantively influence the assessments and decisions of stakeholders from the stakeholders’ point of view; and • they have significant economic, environmental and social impact that affect the ability to meet the needs of the present and future generations.\"\n• Evidence 2: \"The internal materiality assessment entails evaluation by the SRMC based on the rating scale established by the Board on the significance of each sustainability matter on revenue, cost, reputation, strategic and operational risk, and business opportunities criteria.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The SRMC shall monitor the current standing (including but not limited to indicators, target and actual performance) and responses of material sustainability matters and actual performance, and report to the AC on a yearly basis for review and recommendation(s) to the Board for their review and approval.\"\n• Evidence 2: \"For the management of material sustainability matters, the Head of Departments/Divisions are responsible for their respective/ relevant material sustainability matters in the following manner: • developing policies and procedures; • implementing various initiatives, measures or action plans;...\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Subsequent to the assessment process, sustainable matters identified above are subject to the risk management policy and process established by the Board for the assessment and management of the risks and opportunities identified.\"\n• Evidence 2: \"The SRMC shall monitor the current standing... and report to the AC on a yearly basis for review and recommendation(s) to the Board for their review and approval.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We value our key stakeholders’ views...allowing us to effectively respond and improve the management of our sustainability matters\" (neutral, no overstatement)\n• Evidence 2: \"Our key stakeholders include, but are not limited to...\" (transparent disclosure of stakeholder scope)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Stakeholder Group Engagement Objective(s) Preferred Engagement Method(s)\" (clear structure with logical categorization)\n• Evidence 2: Bullet points and headings (precise, direct language for stakeholder engagement methods)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Useful for investors' decision-making\" (stakeholder engagement impacts business strategy)\n• Evidence 2: Lacks forward-looking information and risk disclosures (no mention of material events or governance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"To demonstrate financial sustainability\" (lacks risk disclosure)\n• Evidence 2: \"To ensure reporting accuracy\" (no specific factual support provided)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Table 1: Power Root’s Stakeholder Engagement\" (clear structure)\n• Evidence 2: \"Face-to-face meetings, Press releases\" (precise language without redundancy)"
+  },
+  "Relevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"To build up shareholder and investor confidence level\" (partially relevant)\n• Evidence 2: \"Stakeholder Prioritisation Matrix\" (no connection to financial performance or material events)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 5,
+    "justification": "• Evidence 1: \"we define material sustainability matters as those that cause significant EES impact and are able to substantively influence the decisions of our key stakeholders\"\n• Evidence 2: \"A materiality reassessment workshop was conducted with key internal stakeholders\" (neutral description without overstatement)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Materiality Assessment Process\" section with clear 3-step summary\n• Evidence 2: \"Compliance with laws and regulations... Occupational Safety & Healthy\" (precise categorization with percentages)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Material sustainability matters form the focus of this Statement\" (directly relevant to investor concerns)\n• Evidence 2: \"The materiality matrix is described\" (provides framework but lacks specific risk disclosures)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The matrix was reviewed and validated through a series of discussions and interviews with Management, and was thereafter approved by the Board of Directors to ensure relevance to the Group.\"\n• Evidence 2: \"All our products are Halal-certified by the Department of Islamic Development Malaysia (JAKIM) and other relevant authorised certification bodies.\""
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A materiality matrix was generated as output from the workshop.\"\n• Evidence 2: \"Safety and health audits are conducted by the SHC for all departments of the Group.\""
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Based on the materiality matrix, we identified two (2) high priority material sustainability matters for this reporting period.\"\n• Evidence 2: \"Table 2: Power Root’s Quality Assurance Target\" (provides measurable targets relevant to investor assessment)."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Number of Incidents 2 2 4\" (Table 3: Power Root’s Incident Records) provides specific factual data.\n• Evidence 2: \"fire preventive equipment and systems are installed and inspected... to ensure its functionalities are not compromised\" demonstrates objective risk disclosure."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"All plants and equipment... at predetermined intervals\" uses precise language to describe maintenance protocols.\n• Evidence 2: \"gender-balanced and age-diversified workforce\" is clear but could be more specific with quantitative data."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Occupational safety and health performances... identify any new or recurring health and safety issues\" directly addresses investor concerns about workplace safety.\n• Evidence 2: \"fair compensation is essential in motivating... growth target\" links labor practices to business objectives."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 4,
+    "justification": "• Evidence 1: The text lacks disclosure of risks, challenges, or uncertainties related to sustainability.\n• Evidence 2: The gender and age distribution percentages are presented without contextual explanation or verification."
+  },
+  "Understandability": {
+    "score": 3,
+    "justification": "• Evidence 1: The structure is unclear, with percentages and labels not properly aligned (e.g., 'Male Female 18- 30...').\n• Evidence 2: The age distribution categories ('41 - 50 50 Above') have overlapping or ambiguous ranges."
+  },
+  "Relevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text provides demographic data but lacks forward-looking information or explanations for performance changes.\n• Evidence 2: No mention of risks, material events, or corporate governance elements relevant to investor decision-making."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Board is committed to ensuring that good corporate governance practices are applied throughout the Company and its subsidiaries' [exact quote]\n• Evidence 2: 'The Board has not nominated a Senior Independent Non-Executive Director... as the Independent Non-Executive Chairman are directly accessible to shareholders' [exact quote]"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The Board meets regularly to perform its main functions of developing and monitoring strategic plans' [exact quote]\n• Evidence 2: 'The Company Secretary also attended all Board Meetings of the Company' [exact quote]"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The Board has put in place a Board Remuneration Policy... to attract, retain and motivate Directors' [exact quote]\n• Evidence 2: 'The future focus of the Board is to further strengthen the Company’s corporate governance practices in line with the MCCG' [exact quote]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee reported to and updated the Board on significant issues and matters discussed during the Committee’s meetings\" (neutral, factual reporting)\n• Evidence 2: \"Minutes of the Committee’s meetings were made available to all Board Members\" (transparent process)"
+  },
+  "Understandability": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Audit Committee carried out its duties in accordance with its terms of reference\" (clear structure)\n• Evidence 2: \"Reviewed the Quarterly Financial Reports\" (precise language, though lacks contextual explanation)"
+  },
+  "Relevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"made the necessary recommendations to the Board\" (corporate governance relevance)\n• Evidence 2: \"summary of works undertaken by the Audit Committee\" (limited insight into investor-material information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The proposed audit and non-audit fees were presented by the External Auditor for review by Audit Committee to ensure that the proposed fees commensurate with the work to be performed by the External Auditors and the independence and objectivity of the External Auditors were not compromised by the proposed non-audit fees' [neutral, objective assessment of fees].\n• Evidence 2: 'Based on satisfactory results of the performance, independence and objectivity of the External Auditors, the Audit Committee recommended to the Board for the reappointment of the External Auditors' [transparent evaluation of auditors' performance]."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The audit plan presented included the engagement team, audit scope, materiality, audit methodology and timing of audit, involvement of component auditors, other independent auditors, significant accounting policies and disclosures, audit focus areas (including changes in MFRS), emerging issues and key milestones' [clear structure with specific details].\n• Evidence 2: 'The Audit Committee met twice on 27 May 2019 and 27 February 2020 with the External Auditors without the presence of the Executive Directors and Management' [precise description of meetings]."
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The Audit Committee reviewed the Corporate Governance Report, Corporate Governance Overview Statement, Audit Committee Report, Statement on Risk Management and Internal Control, Management Discussion and Analysis, Sustainability Statement... to ensure compliance with the MMLR, MCCG and other guidelines' [directly addresses investor decision-making needs].\n• Evidence 2: 'The Audit Committee reviewed the Updated Enterprise Risk Management Report of the Group... on its adequacy and effectiveness' [includes risk assessment and governance information]."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Audit Committee ensures the adequacy of the internal audit scope by way of review of the proposed internal audit plans...\" (neutral, objective description of oversight processes)\n• Evidence 2: \"The results of the follow up reviews were reported to the Audit Committee for their review and deliberation.\" (disclosure of accountability and transparency)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The in-house internal audit function and the outsourced internal audit function report directly to the Audit Committee.\" (clear structure of reporting lines)\n• Evidence 2: \"Further details...available in pages 67 to 68\" (direct reference to supplementary information)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Audit Committee ensures the effectiveness and adequacy of the internal audit functions...\" (direct relevance to corporate governance and risk management)\n• Evidence 2: \"Further details of the internal audit functions...disclosed in the Statement on Risk Management...\" (link to material risk management disclosures)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"However, as there are inherent limitations in any risk management and internal control systems, such systems are designed to manage, rather than eliminate risks...\" (acknowledges limitations and avoids overstatement)\n• Evidence 2: \"The Board delegates its review role to the Audit Committee...\" (specific factual delegation of responsibilities)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The scope of this Statement includes the Company and all operating subsidiaries.\" (clearly defines scope)\n• Evidence 2: \"The Board affirms its overall responsibility...\" (logical structure with explicit responsibilities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Board delegates the duty of identification, assessment and management of key business risks...\" (directly addresses risk management relevance)\n• Evidence 2: \"the Group’s interests are served through representation on the Board...\" (links governance to investor concerns)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Board recognises that a sound risk management system is critical...\" (neutral, objective statement)\n• Evidence 2: \"The principles... are guided by ISO 31000:2018\" (specific standard reference)"
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Risk Management Framework clearly defines... roles and responsibilities\" (clear structure)\n• Evidence 2: \"maintains an on-going commitment...\" (direct language)"
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"identifying, evaluating and managing significant risks\" (directly addresses risk disclosure)\n• Evidence 2: \"Audit Committee (the oversight role)\" (corporate governance relevance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"existing controls are ineffective, inadequate or non-existent\" (acknowledges potential weaknesses)\n• Evidence 2: \"determine corrective management action plan, if required\" (shows proactive risk mitigation approach)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Implement the risk management framework as approved by the Audit Committee and the Board\" (clear, direct language)\n• Evidence 2: \"Periodic review and update of the Key Risks Register\" (precise procedural description)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"aligned with the Group’s organisational strategies\" (connects risk management to strategic goals)\n• Evidence 2: \"perform SWOT Analysis for all options of the proposed strategies\" (includes forward-looking risk assessment)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Risk assessment at gross and residual level, are guided by the likelihood rating and impact rating established based on the risk appetite acceptable as determined by the Board.\"\n• Evidence 2: \"The Key Risks Register are used for the identification of high residual risks which are above the risk appetite of the Group that requires the Risk Management Committee and the Board’s immediate attention\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The structured risk management process as defined in the Risk Management Framework is employed by the Risk Management Committee and the risk owners for risk and opportunity identification, evaluation, control identification, treatment and control activities.\"\n• Evidence 2: \"The Group has a formal organisation structure in place with clear lines of reporting and accountability.\""
+  },
+  "Relevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Risk Management Committee and risk owners review the Key Risks Register and assessment of emerging risks identified at strategic and operational level on an annual basis... report to the Audit Committee and Board.\"\n• Evidence 2: \"The Annual Budget for the Group is presented and approved by the Board on an annual basis and form one of the basis to monitor the actual performances\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Group has in place effective and efficient information and communication infrastructures...\" (specific facts about systems)\n• Evidence 2: \"internal audit function assesses the adequacy and effectiveness of internal controls... highlights potential risks...\" (disclosure of risks and objective analysis)"
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The management and board meetings are held for effective two-way communication...\" (clear structure of communication processes)\n• Evidence 2: \"quarterly financial performance review containing key financial results...\" (precise description of monitoring activities)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The results of the internal audits carried out are reported to the Audit Committee\" (relevant to governance and oversight)\n• Evidence 2: \"monitoring of compliance with relevant laws and regulations...\" (material to investor risk assessment)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The in-house internal audit function and the outsourced internal audit function reports to the Audit Committee directly...\" (neutral, factual description of reporting structure)\n• Evidence 2: \"the Audit Committee is satisfied that...\" (objective conclusion based on evaluation, no overstatement)"
+  },
+  "Understandability": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The in-house internal audit function comprises one (1) Senior Internal Audit Manager and four Internal Audit Executives.\" (clear structure with specific numbers)\n• Evidence 2: \"Internal audits are carried out by both... in accordance with the International Professional Practices Framework...\" (precise language with reference to established standards)"
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The Group relies on the internal audit function to provide the Board...\" (directly addresses corporate governance and risk management, relevant to investors)\n• Evidence 2: \"the Audit Committee conducted a formal evaluation... per Corporate Governance Guide...\" (shows compliance with regulatory requirements, relevant to investor decision-making)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The risk-based internal audit plan in respect of the financial year ended 31 March 2020 was prepared after taking into consideration of the existing and emergent key business risks identified in the Group’s key risk profile.\"\n• Evidence 2: \"The audit plan and any subsequent amendment (if any) were reviewed and approved by the Audit Committee prior to their execution.\""
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The internal audit procedures applied principally consisted of process evaluations through interviews with relevant personnel involved in the process under review, review of the Standard Operating Procedures and/or process flows provided and observations of the functioning of processes in compliance with results of interviews and/or documented Standard Operating Procedures and/or process flows.\"\n• Evidence 2: \"The cost incurred in maintaining the in-house and outsource internal audit function for the financial year ended 31 March 2020 amounted to RM 378,370.\""
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Audit Committee reported the results of the review and deliberations to the Board in order for the Board to discharge its responsibility of ensuring that there are sound internal controls in place to manage the risks within the risk appetite of the Group and for regulatory compliance.\"\n• Evidence 2: \"The internal audit functions have conducted reviews for: [list of processes]\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the Group’s risk management and internal control system have operated adequately and effectively, in all material aspects, to meet the Group’s objectives\" (neutral, objective assessment).\n• Evidence 2: \"nothing has come to their attention that cause them to believe that the statement... is factually inaccurate\" (external auditor confirmation of factual accuracy)."
+  },
+  "Understandability": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the Board is of the view that the risk management and internal control systems are operating satisfactorily\" (clear, direct language).\n• Evidence 2: \"AAPG 3 does not require...\" (precise explanation of audit scope, though slightly technical)."
+  },
+  "Relevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"the Board continues to take pertinent measures to review and, where necessary, improve the Group’s risk management and internal control systems\" (forward-looking, relevant to investor concerns).\n• Evidence 2: \"the Board is committed towards maintaining a sound system of internal control\" (relevance to corporate governance, but lacks specific risk disclosures)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {"score": 0, "justification": "• Evidence 1: [no content]\n• Evidence 2: [no content]"},
+  "Understandability": {"score": 0, "justification": "• Evidence 1: [no content]\n• Evidence 2: [no content]"},
+  "Relevance": {"score": 0, "justification": "• Evidence 1: [no content]\n• Evidence 2: [no content]"}
+}

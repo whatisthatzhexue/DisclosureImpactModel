@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8.5,
+    "justification": "The final score of 8.5 is derived from a majority of high-quality justifications (e.g., 'specific factual data' in the 9-score entry, 'acknowledges potential future risk' in the 9-score entry) that demonstrate transparency and factual accuracy. Lower scores (e.g., 5, 6) were addressed by prioritizing the more robust evidence from the 8-9 range. The 0-score entry was deemed an error due to its absence of content, and the 5-score entry was mitigated by the prevalence of stronger evidence. The overall score reflects a balance between high-quality disclosures (e.g., financial performance details, risk acknowledgment) and the need to discount outlier low scores."
+  },
+  "Relevance": {
+    "score": 7.2,
+    "justification": "The score of 7.2 combines strong evidence from the 9-score entry (e.g., 'explains performance drivers', 'forward-looking strategic initiatives') with moderate performance from the 7-score entries (e.g., 'forward-looking information relevant to investor decision-making'). Lower scores (e.g., 4, 5) were discounted due to their limited forward-looking context or risk disclosures. The 0-score entry was excluded as an error. The score reflects a mix of relevant strategic and financial information, with room for improvement in consistently linking disclosures to material risks or investor needs."
+  },
+  "Understandability": {
+    "score": 8.3,
+    "justification": "The score of 8.3 is based on the prevalence of high-quality, precise language (e.g., 'clear structure with logical categorization' in the 9-score entry, 'precise numerical data' in the 9-score entry) and the dominance of 8-9 scores. Lower scores (e.g., 3, 7) were discounted due to their limited scope or ambiguity (e.g., overlapping age ranges, unclear structure). The 0-score entry was excluded as an error. The score highlights strong clarity in most sections, with minor exceptions in formatting or specificity."
+  }
+}

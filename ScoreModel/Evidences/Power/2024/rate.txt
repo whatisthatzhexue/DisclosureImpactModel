@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Reliability": {
+    "score": 8,
+    "justification": "The majority of scoring results (11 out of 19) assigned a score of 8, reflecting strong reliability through specific factual disclosures, regulatory compliance references, and objective assessments. Higher scores (9 and 10) were justified by detailed governance frameworks and transparency in risk management. Lower scores (7) were attributed to less detailed justifications, but the overall consistency across most entries supports a final score of 8."
+  },
+  "Relevance": {
+    "score": 7,
+    "justification": "Relevance scores were mixed, with 10 entries at 7-8 and 3 entries at 9. Higher scores (9) were justified by material risk disclosures and governance processes directly tied to investor concerns. Lower scores (6-7) reflected less direct linkage to financial performance or material events. The overall relevance is moderate, with a final score of 7 reflecting the balance between strong and weaker justifications."
+  },
+  "Understandability": {
+    "score": 8,
+    "justification": "Understandability scores were predominantly high, with 12 entries at 8-9 and 5 entries at 7. Strong justifications included clear structure, precise language, and numerical clarity. Lower scores (6-7) were due to formatting issues or lack of contextual explanation. The overall understandability is strong, with a final score of 8 reflecting the majority of high-quality, clear disclosures."
+  }
+}
