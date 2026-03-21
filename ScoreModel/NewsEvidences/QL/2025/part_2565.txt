@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no factual data or verifiable information about QL Resources Berhad's operations, financials, or strategic activities.\n• Evidence 2: The text focuses on a fashion contest and charity event, with no credible sources cited or balanced perspectives related to the company."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article mentions Queensbay Mall's event but does not connect it to QL Resources Berhad's business strategies, competitive position, or financial performance.\n• Evidence 2: No direct mention of the company's strategic initiatives, market impact, or stakeholder significance is present."
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: The article provides detailed descriptions of the fashion contest, awards, and charity event, but this information is irrelevant to QL Resources Berhad's business context.\n• Evidence 2: No data or analysis about the company's operations, market position, or financial performance is included."
+  }
+}

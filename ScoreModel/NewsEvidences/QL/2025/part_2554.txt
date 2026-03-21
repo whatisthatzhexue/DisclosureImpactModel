@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Profit before tax for the convenience store segment... rose by 77 per cent to RM20.50 million against the corresponding quarter a year ago...\" (specific, verifiable financial data)\n• Evidence 2: \"On prospects... the group is cautiously positive...\" (balanced tone with no overt bias)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Profit before tax in its integrated livestock farming... rose by eight per cent from improved performance... supported by lower feed costs...\" (directly ties financial results to strategic operational factors)\n• Evidence 2: \"the continued egg cost subsidy and revised ceiling price mechanism... despite... Middle East tension...\" (connects strategic factors to market risks and opportunities)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"sales for its convenience store segment... rose 22 per cent to RM309.82 million... due to a net increase of 35 stores...\" (specific quantitative details supporting claims)\n• Evidence 2: \"contributions from its newly acquired layer farm and better Vietnam farming operations\" (contextualizes performance drivers but lacks broader industry context)"
+  }
+}

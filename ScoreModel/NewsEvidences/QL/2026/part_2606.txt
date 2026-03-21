@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites credible sources like Moncler, Canada Goose, and fashion experts (e.g., Robert Burke) without fabrication.\n• Evidence 2: It maintains a balanced tone by discussing cultural, political, and commercial evolution without overt bias."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of QL Resources Berhad or its business operations.\n• Evidence 2: The content focuses on fashion trends and apparel industry dynamics, unrelated to the company's strategic direction or financial performance."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides comprehensive historical context for puffer jackets, contrasting them with other garments like overcoats and parkas.\n• Evidence 2: It includes detailed analysis of fabric choices, color symbolism, and brand positioning (e.g., Arc’teryx, Uniqlo) to support its narrative."
+  }
+}

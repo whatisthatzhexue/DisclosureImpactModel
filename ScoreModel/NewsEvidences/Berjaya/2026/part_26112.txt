@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Over 200 residents, friends and relatives attended.\" (specific quantitative data)\n• Evidence 2: \"This will help to divert waste from landfills and help preserve the environment.\" (verifiable factual claim about recycling impact)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business operations\n• Evidence 2: The article focuses on a residential community event unrelated to food production, corporate strategy, or market impact"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Residents contributed foodstuff while others assisted in decorations and cooked additional dishes.\" (specific details about event execution)\n• Evidence 2: \"Durian shells were then collected in bulk and sent to a factory to be recycled...\" (context about waste management but lacks broader analysis)"
+  }
+}

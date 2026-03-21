@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites credible sources such as China Ambassador Ouyang Yujing and Star Media Group CEO Chan Seng Fatt, with verifiable details about the exhibition's 400 photographs and 270-page book.\n• Evidence 2: The text provides balanced reporting by including multiple stakeholders (government, media, sponsors) without apparent bias, though it leans celebratory toward Malaysia-China relations."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions QL Resources Bhd as a sponsor of the coffee-table book, establishing a clear corporate connection.\n• Evidence 2: However, it does not discuss QL Resources' business strategies, financial performance, or how this sponsorship relates to their competitive position or long-term value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive coverage of the exhibition and book, including themes, sponsors (e.g., AirAsia, Mid Valley Megamall), and event details (dates, location).\n• Evidence 2: It includes quantitative data (400 photos, 270 pages) and contextualizes the event as part of Malaysia-China's 50th anniversary, though it lacks deeper analysis of the event's implications for stakeholders."
+  }
+}

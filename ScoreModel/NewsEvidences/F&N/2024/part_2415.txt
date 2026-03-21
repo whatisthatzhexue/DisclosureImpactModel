@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data on FBM KLCI's performance (e.g., 'slid 10.17 points, or 0.64% at 9.13 am') and cites specific indices from Wall Street (e.g., 'Dow Jones Industrial Average fell 0.6% to 38,763.45').\n• Evidence 2: Quotes from credible sources like Apex Securities and Inter-Pacific Research are included, with balanced analysis of market risks and potential sectors (e.g., 'we advise investors to remain defensive... we continue to favour the financial and REIT sectors')."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd directly or its strategic initiatives, competitive position, or financial performance.\n• Evidence 2: While it discusses broader market trends affecting listed companies (e.g., 'global economic outlook'), it lacks direct ties to the company's operations, business strategies, or stakeholder impact."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides detailed market context, including trading volumes, sector performance (e.g., '592 counters closed lower as opposed to 127 gainers'), and technical analysis (e.g., 'interim hurdle at the 1,595 points').\n• Evidence 2: It includes analyst forecasts and market sentiment analysis (e.g., 'market might aim to reclaim the 1,600 level') but lacks deeper insights into corporate strategies or long-term value creation for Fraser & Neave."
+  }
+}

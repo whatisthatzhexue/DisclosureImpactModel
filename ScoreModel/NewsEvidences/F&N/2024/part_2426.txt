@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"markets are now pricing in over a 70% chance of a Fed cut in September, up from a near-even chance a month ago, Reuters reported.\" (credible source citation)\n• Evidence 2: \"The FBM KLCI settled the day up 3.96 points, or 0.25% to 1,618.38 points.\" (specific, verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N fell 24 sen to RM31.14\" (direct mention of the company, but no strategic context)\n• Evidence 2: No discussion of Fraser & Neave's business strategies, competitive positioning, or long-term value drivers"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Winners and losers were closely balanced, with 569 gainers against 549 losers and 518 that were flat.\" (comprehensive market overview)\n• Evidence 2: \"On the forex market, the ringgit was up 0.05% against the greenback...\" (detailed regional context)"
+  }
+}

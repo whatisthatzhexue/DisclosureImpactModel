@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 5,
+    "justification": "• Evidence 1: The text provides technical analysis without verifiable data or sources, such as specific financial reports or citations (e.g., 'the slow-stochastic moving at the 54-point level').\n• Evidence 2: The tone is neutral but lacks balanced perspectives or contextual verification of claims (e.g., 'the RSI is overbought but remains healthy')."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text focuses solely on technical stock price analysis without linking to Fraser & Neave's strategic initiatives, competitive position, or long-term value creation (e.g., 'the share is expected to maintain its growth towards a resistance of RM35.80').\n• Evidence 2: No mention of business performance, market share, or financial metrics tied to the company's strategic direction."
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: The text provides basic technical indicators (e.g., 'MACD histogram is experiencing a resurgence of momentum') but lacks context about the company's operations or industry trends.\n• Evidence 2: Resistance and support levels are mentioned, but no analysis of underlying business factors or market dynamics is included."
+  }
+}

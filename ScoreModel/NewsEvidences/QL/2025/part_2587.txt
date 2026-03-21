@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Microsoft provides choice and flexibility for our customers to switch to another cloud provider at no cost...\" (Microsoft's defense)\n• Evidence 2: \"The Spanish Startup Association, which represents more than 700 startups in Spain...\" (creditable source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Microsoft ranks second in the cloud computing sector...\" (direct company strategic position)\n• Evidence 2: \"Cloud Infrastructure Services Providers in Europe (CISPE)...\" (impact on competitive landscape)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"These practices include barriers to data portability or contractual conditions that restrict competition...\" (specific allegations)\n• Evidence 2: \"The European Commission has asked cloud rivals about Microsoft's request for customer data...\" (contextual regulatory background)"
+  }
+}

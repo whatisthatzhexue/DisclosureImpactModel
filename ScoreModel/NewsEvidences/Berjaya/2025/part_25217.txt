@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Since the programme was introduced in June 2020, 5,835 Boxes of Hope had been distributed to the targeted families.\" (verifiable data)\n• Evidence 2: \"This first collaboration with Sapot is part of our initiative to provide a safe and stigma-free space...\" (direct quote from corporate head, adds credibility)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Under the Sesama Mara initiative...\" (mentions a CSR program, but no link to business strategy or financial impact)\n• Evidence 2: \"This aligns with the spirit of independence...\" (abstract statement without concrete strategic connection to company operations)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"5,835 Boxes of Hope had been distributed...\" (quantitative data)\n• Evidence 2: \"The workshop, themed around mental health...\" (specific detail about initiative scope, but lacks analysis of broader implications)"
+  }
+}

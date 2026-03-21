@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The arrival marks a key turning point in the group’s RM3bil integrated-dairy venture, after a setback in October last year when Malaysia’s Veterinary Services Department revoked its import permit...\" (verifiable factual event)\n• Evidence 2: \"Kenanga Research said in a report\" and \"MIDF Research said the successful arrival...\" (credible sources cited with balanced analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"enhancing F&N’s longer-term growth prospects in the dairy industry\" and \"positions F&N to enhance supply chain resilience...\" (direct link to strategic direction)\n• Evidence 2: \"the integrated dairy farm in Gemas is central to F&N’s broader goal of transforming from a beverage manufacturer...\" (strategic importance of the project)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Chilean cattle are fully genomically tested with Genomic Total Performance Index (GTPI) standards...\" (specific technical details)\n• Evidence 2: \"Kenanga Research has cut its earnings forecast... and raised its target price...\" (comprehensive financial implications and market impact analysis)"
+  }
+}

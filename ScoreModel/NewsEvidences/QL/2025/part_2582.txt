@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"It is our first partnership with our Japanese counterparts Mitsubishi Estate Residence.\" (direct quote from Nicole Lee Chee Yiing)\n• Evidence 2: \"Conducted by Riverstone Environmental Sdn Bhd...\" (cites a credible third-party firm for the carbon footprint study)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our first project where we have brought together lifestyle residences and wellness services...\" (directly ties to IOIPG's strategic shift toward wellness integration)\n• Evidence 2: \"commitment to environmental, social and governance principles...\" (links to long-term value creation through ESG initiatives)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"3.9ha Gems Residences... 676 units... RM650,000...\" (specific quantitative details about the project)\n• Evidence 2: \"QLASSIC ratings from CIDB Malaysia of 81%...\" (provides third-party validation of quality)"
+  }
+}

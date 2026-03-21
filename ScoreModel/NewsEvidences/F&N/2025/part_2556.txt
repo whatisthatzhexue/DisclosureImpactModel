@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites HLIB Research with specific technical analysis and market data points (e.g., \"FBM KLCI needs to close decisively above key overhead barriers near the 1,535-1,545 range\").\n• Evidence 2: It provides verifiable financial data (e.g., \"KLCI dropped 7.5% year-to-date\", \"foreign shareholding at a historic low of 19.3% in March\") and contextualizes events with global market indices (S&P 500, Nasdaq, Nikkei 225)."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a top loser, providing stock price movement (\"F&N declined 38 sen to RM23.52\") relevant to investors.\n• Evidence 2: It links market volatility to macroeconomic factors (Trump tariffs) that could impact F&N's operations, but lacks analysis of the company's strategic responses or competitive positioning."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text offers comprehensive market context, including regional indices (Japan, Australia, South Korea), technical analysis (support/resistance levels), and foreign investment flows (RM10.06bil outflows).\n• Evidence 2: It explains the broader implications of Trump's tariffs on global markets and provides historical data (e.g., \"KLCI had dropped 7.5% year-to-date\") to support market trend analysis."
+  }
+}

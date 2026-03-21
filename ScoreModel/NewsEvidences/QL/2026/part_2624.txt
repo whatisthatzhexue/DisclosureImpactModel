@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'FBM KLCI pared losses to end the early session 2.05 points lower at 1,601.5' [verifiable market data]\n• Evidence 2: 'Volume was 2.39 billion shares with a value of RM1.36bil' [specific, factual trading metrics]"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: 'QL Resources shedding six sen to RM4.34' [direct company mention but no strategic context]\n• Evidence 2: No discussion of QL Resources' business strategies, competitive positioning, or long-term value drivers"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: 'The broader market recorded 483 declining stocks compared to 430 gainers' [market context]\n• Evidence 2: 'Following suit, Australia's ASX200 was a leading laggard, falling 1.07% to 8,751' [global market context but no company-specific analysis]"
+  }
+}

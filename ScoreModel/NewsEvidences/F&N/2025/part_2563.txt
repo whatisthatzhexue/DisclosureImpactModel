@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., 'FBM KLCI gained 8.76 points, or 0.56%') from Bursa Malaysia, a credible source.\n• Evidence 2: Balanced reporting is evident with both positive gains (e.g., '663 gainers outpacing 372 decliners') and losses (e.g., 'Nestle extended its downtrend, plunging RM5.76 or 7.28%') without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a stock that 'rose 32 sen to RM25.36', linking it to market movements.\n• Evidence 2: It connects market sentiment and trading volume to broader financial implications, though it lacks analysis of F&N's specific strategic initiatives or competitive positioning."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article includes detailed market data (e.g., '3.15 billion shares worth RM2.74bil') and examples of multiple stocks' performance, providing context.\n• Evidence 2: It explains foreign and local investment flows, exchange rate movements, and sector-specific declines (e.g., 'PETRONAS Dagangan lost 56 sen'), offering a comprehensive snapshot of the market environment."
+  }
+}

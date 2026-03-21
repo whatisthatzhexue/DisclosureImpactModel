@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The FBM KLCI ended the early session slightly lower as investors turned to caution ahead of corporate results scheduled for release for this month.\" (factual market movement)\n• Evidence 2: \"Nestle sliding RM1.40 to RM107.60 and Dutch Lady losing 50 sen to RM30.50\" (specific price data with verifiable numbers)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N, however, was seen climbing 22 sen to RM29.32\" (direct company mention with stock price movement)\n• Evidence 2: \"Investors keep to sidelines in lead up to corporate results\" (contextual relevance to company performance timing)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The broader market registered slightly more gainers than decliners - 469 to 407 - while share turnover was 2.14 billion changing hands for RM1.18bil\" (quantitative market data)\n• Evidence 2: \"Out of the laggards, two consumer giants led the decline\" (sector-specific context but lacks deeper analysis)"
+  }
+}

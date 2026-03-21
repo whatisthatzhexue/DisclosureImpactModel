@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"First of all, there were few sellers as most investors who wanted to sell stocks have already completed the sell-off. And Japanese stocks seem cheap relative to U.S. stocks, so some adjusted their positions,\" said Jun Morita, general manager of the research department at Chibagin Asset Management.\n• Evidence 2: The article cites Reuters as the source and provides verifiable data (e.g., Nikkei rose 1.28% to 40,074.56) with balanced analysis from multiple analysts."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no mention of QL Resources Berhad or any food and beverage industry developments.\n• Evidence 2: The focus is solely on Japan's stock market, Toyota's financial targets, and broader economic factors unrelated to the company's strategic direction or business performance."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of market trends, including specific stock movements (e.g., Toyota up 2.1%, Sony up 1.73%) and industry sub-index performance.\n• Evidence 2: It includes analyst insights, historical context (e.g., Nikkei crossing 40,000 level since Dec. 12), and data on trading volumes (76% of stocks rose, 20% fell)."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Catholics represent less than three percent of the population -- some eight million people -- compared to the 87 percent, or 242 million, who are Muslim, Vatican officials say.\" (specific data with verifiable context)\n• Evidence 2: \"Francis becomes the third pope to visit Indonesia... after Paul VI in 1970 and John Paul II in 1989.\" (historical accuracy and factual verification)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"No mention of QL Resources Berhad, its operations, financials, or stakeholder impacts.\" (complete absence of company-related content)\n• Evidence 2: \"The article focuses on papal travel logistics and religious contexts, with no connection to food/beverage industry or Malaysian market dynamics.\" (total irrelevance to company context)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Detailed breakdown of each country's religious demographics, environmental concerns, and historical context for each stop on the papal tour.\" (comprehensive event coverage)\n• Evidence 2: \"Specifics about infrastructure challenges (e.g., Jakarta's pollution), cultural nuances (e.g., East Timor's child abuse scandals), and geopolitical factors (e.g., Papua New Guinea's tribal violence).\" (multi-dimensional analysis of the trip's significance)"
+  }
+}

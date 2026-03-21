@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd (F&N) is leasing a 32,200 sq m parcel of land for 50 years from Cambodia-based Suvannaphum Investment Co Ltd for RM18.5mil.\" (verifiable data from Bursa Malaysia filing)\n• Evidence 2: \"The manufacturing facility will produce sweetened beverage creamers in cans and pouches,\" it said. (direct quote from company filing)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"for the purpose of setting up a manufacturing facility for dairy products to strengthen the company’s presence in Cambodia.\" (direct link to strategic expansion)\n• Evidence 2: \"manufacturing facility will produce sweetened beverage creamers in cans and pouches\" (specific product focus aligning with long-term value creation)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"32,200 sq m parcel of land for 50 years... RM18.5mil\" (specific financial and logistical details)\n• Evidence 2: No background on Cambodia market context, prior investments, or competitive landscape analysis (lack of broader strategic context)"
+  }
+}

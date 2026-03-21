@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., FBM KLCI rebounded 7.07 points to 1,605.54) and cites credible financial institutions (Apex Securities, TA Securities) with balanced analysis.\n• Evidence 2: The tone remains neutral, avoiding fabrication or bias, and includes factual details like share turnover (2.3 billion shares) and price movements (e.g., Ireka fell 9.5 sen)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd directly, focusing instead on broader market trends and unrelated stocks (e.g., Malayan Cement, Nestle).\n• Evidence 2: No connection is made to the company's strategic direction, financial performance, or stakeholder interests, despite the context of Budget 2026 and sectoral themes."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article provides comprehensive market context, including technical analysis (Fibonacci retracement levels), sectoral performance, and analyst forecasts, offering detailed insights into market dynamics.\n• Evidence 2: It includes specific stock price movements, trading volumes, and key economic data (e.g., US core PCE inflation expectations), enhancing narrative completeness."
+  }
+}

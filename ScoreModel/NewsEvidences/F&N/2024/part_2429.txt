@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Every object has an interesting story to tell. These are essentially time capsules that showed what life was like at a certain period in time,\" said Nurul Ain Mohd Ali.\n• Evidence 2: \"The fort was built on the northeastern tip of Penang island... completed at a cost of $80,000 Straits Dollars in 1810\" (verifiable historical data)."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The Fort Cornwallis Storage Rooms Museology project... will chronologically tell the story of the fort and its role in the context of both George Town and Penang’s history\" (indirectly connects to Fraser & Neave’s historical branding).\n• Evidence 2: \"The Fort Cornwallis project exemplifies our ground-up approach to urban revitalisation\" (Think City’s strategic focus, though not directly tied to Fraser & Neave’s business operations)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Over 30,000 artefacts, ranging from ink, pharmaceutical and drink bottles... even carbonised fruits and biscuits\" (detailed artifact data).\n• Evidence 2: \"The conservation plans and museum will present and chronicle this under three distinct periods... post-independence\" (comprehensive historical context and project planning)."
+  }
+}

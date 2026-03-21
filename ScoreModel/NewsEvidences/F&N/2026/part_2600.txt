@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Bursa Malaysia closed the final trading day of 2025 on a softer note, declining 0.26 per cent...\" (specific numerical data with verifiable market performance)\n• Evidence 2: \"IPPFA Sdn Bhd director of investment strategy...\" (credible source cited with expert analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The FBM KLCI has yielded a year-to-date return of 2.30 per cent\" (general market trend, no direct link to Fraser & Neave's strategic direction)\n• Evidence 2: \"Among the heavyweights...\" (mentions listed companies but no specific reference to Fraser & Neave's business performance or strategies)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The market breadth was negative with decliners outpacing gainers 534 to 462...\" (detailed market analysis with quantitative data)\n• Evidence 2: \"Sector-wise, the Financial Services Index fell...\" (comprehensive sector breakdown with specific index movements)"
+  }
+}

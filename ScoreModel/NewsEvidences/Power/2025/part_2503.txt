@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, it said the purchase consideration...\"\n• Evidence 2: \"Estimated to be completed within three months...\""
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root Bhd had inked a sale and purchase agreement...\"\n• Evidence 2: \"RM1.99mil or 10% will serve as the deposit...\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"3,483,524 sq ft land was determined via a willing-buyer...\"\n• Evidence 2: \"RM17.99mil will be paid within the three months period\""
+  }
+}

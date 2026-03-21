@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: The article cites direct quotes from industry founders (e.g., Wendy Lim, Eva Woon) which provide firsthand perspectives, enhancing credibility.\n• Evidence 2: While the text avoids fabrication, it lacks verifiable data or statistics to substantiate claims about market trends or consumer behavior."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text focuses on jewelry industry trends and brand strategies, with no mention of QL Resources Berhad or its business operations.\n• Evidence 2: The article does not connect to financial performance, competitive positioning, or strategic priorities of a food and beverage company."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text provides comprehensive coverage of jewelry market shifts, including sustainability practices, craftsmanship, and consumer values, with detailed examples (e.g., small-batch production, material sourcing).\n• Evidence 2: It includes nuanced analysis of customer motivations and brand differentiation, supported by quotes from multiple stakeholders."
+  }
+}

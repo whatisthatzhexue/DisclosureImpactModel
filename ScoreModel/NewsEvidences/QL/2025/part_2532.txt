@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Malaysian stock market remained positive at midday\" [verifiable market data]\n• Evidence 2: \"FBM KLCI was up 4.93 points to 1,637.56\" [specific numerical data with context]"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources rose four sen to RM4.74\" [only mentions stock price movement, no strategic context]\n• Evidence 2: \"Consumer and telcos were laggard sectors\" [sector performance, no direct link to QL Resources' strategy]"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"1.53 billion shares changed hands for a value of RM1.03bil\" [market activity data]\n• Evidence 2: \"Asia markets were mostly higher...\" [broader context but lacks analysis of QL Resources' specific factors]"
+  }
+}

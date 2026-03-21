@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI closed at 1,621.24, down 0.13% or 2.04 points\" (verifiable numerical data).\n• Evidence 2: \"Dealers stated that today's decline is primarily driven by investors taking the opportunity to sell off their holdings following recent gains\" (balanced tone with factual explanation)."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N, the top decliner on Bursa Malaysia, lost RM1.04 to RM28.66\" (direct company mention but limited strategic context).\n• Evidence 2: No discussion of F&N's strategic direction, competitive position, or long-term value creation factors."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The broader market sagged, with decliners outpacing advancers at 653 to 338, while 490 counters remained unchanged. Turnover stood at 2.7 billion shares worth RM1.86bil\" (comprehensive market data).\n• Evidence 2: \"Among the key regional markets: ...\" (detailed regional performance context)."
+  }
+}

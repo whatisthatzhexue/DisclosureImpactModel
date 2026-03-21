@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The action plan achieved a 60% reduction in plastic waste.\" (quantifiable data)\n• Evidence 2: \"Improving river cleanliness is not only important to ensure clean water quality, but also helps to protect wildlife habitats.\" (balanced tone with factual rationale)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article focuses on MBDK's environmental initiatives, with no mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: No connection to financial implications, market impact, or strategic priorities of the company in question."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Sungai Klang stretches 120km... close to Port Klang.\" (geographic context)\n• Evidence 2: \"The action plan achieved a 60% reduction in plastic waste... reduced flood incidents.\" (detailed outcomes and contextualization of challenges)"
+  }
+}

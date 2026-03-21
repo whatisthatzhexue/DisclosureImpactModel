@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., 'FBM KLCI fell 3.85 points, or 0.24%, to 1,578.54') with specific numerical details.\n• Evidence 2: It cites Inter-Pacific Research as a credible source and presents balanced perspectives on market sentiment and technical indicators."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave Holdings Bhd (F&N) stock price movement ('F&N rose 26 sen to RM26.86'), but does not connect this to strategic initiatives or competitive positioning.\n• Evidence 2: It references broader market factors (e.g., trade war impacts) but lacks direct linkage to the company's long-term value creation or business performance."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes detailed market context (e.g., 'technical indicators towards overbought levels') and global equity market sentiment.\n• Evidence 2: It provides specific stock price movements and mentions upcoming GDP data as a market-moving factor, though it does not analyze these impacts in depth for the company."
+  }
+}

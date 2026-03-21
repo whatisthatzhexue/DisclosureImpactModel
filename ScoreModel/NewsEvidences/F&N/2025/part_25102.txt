@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd's net profit for the 4QFY24 dropped 38.2% YoY to RM85.0mn from RM137.6mn, impacted by higher tax expenses and increased withholding taxes on dividends repatriated from its Thailand operations.\"\n• Evidence 2: Specific financial figures (RM85.0mn, RM137.6mn) and verifiable causes (tax expenses, withholding taxes) are cited without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd's net profit...impacted by higher tax expenses and increased withholding taxes on dividends repatriated from its Thailand operations.\"\n• Evidence 2: Direct mention of the company's financial performance ties to strategic factors like international operations and tax implications affecting long-term value."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"dropped 38.2% YoY to RM85.0mn from RM137.6mn, impacted by higher tax expenses and increased withholding taxes on dividends repatriated from its Thailand operations.\"\n• Evidence 2: Specific data points are provided, but no broader context (e.g., industry trends, comparative analysis) or stakeholder impact analysis is included."
+  }
+}

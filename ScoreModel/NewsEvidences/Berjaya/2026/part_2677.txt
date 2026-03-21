@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"These contracts are not an endpoint but a platform for us to accelerate expansion.\" (Direct quote from executive chairman)\n• Evidence 2: \"total project order book standing at RM2.3bil\" (Verifiable financial data cited with specific figures)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"positioning Malaysia as a global leader in secure identity solutions\" (Direct link to company's strategic direction)\n• Evidence 2: \"shifting focus toward strategic investments\" (Connects to long-term value creation and financial implications)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"advanced laser and colour personalisation printers from Italy-based IXLA SRL\" (Specific technological details and supplier information)\n• Evidence 2: \"RM1.73bil passport contract\" (Quantifiable data supporting strategic claims)"
+  }
+}

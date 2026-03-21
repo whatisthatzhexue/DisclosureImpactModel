@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The FBM KLCI closed 11.18 points higher, or 0.72%, at 1,566.72 after trading within a range of 1,569.43 to 1,545.67.\n• Evidence 2: The article cites verifiable market data (e.g., 549 gainers, 433 losers, 521 counters; RM3.06bil trading volume) and reports on institutional investor activity without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article mentions F&N (Fraser & Neave) as a top gainer, directly referencing the company's stock price movement (added 36 sen to RM25.92).\n• Evidence 2: However, it does not connect this information to the company's strategic direction, competitive position, or long-term value creation, focusing instead on broader market dynamics."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive market data, including regional indices, trading volume, and investor activity (e.g., foreign investors sold RM212mil, local institutions bought RM102mil).\n• Evidence 2: It includes specific stock price movements for both gainers and losers but lacks deeper analysis of underlying factors affecting Fraser & Neave or broader market trends."
+  }
+}

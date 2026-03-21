@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: '100PLUS today announced that Aaron Chia and Soh Wooi Yik will share an incentive payout of RM150,000 while Zii Jia will receive RM100,000.' (specific, verifiable financial details)\n• Evidence 2: 'We are proud of all our brand ambassadors...' (direct quote from credible source, Leong Wai Yin, Marketing Director)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Over the years, 100Plus has supported numerous national sports associations... (links to company's strategic focus on sports sponsorship)\n• Evidence 2: 'These players lived up to the ideals of 100PLUS...' (connects brand values to strategic alignment with athletes)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: 'Zii Jia follows in the illustrious footsteps of other 100Plus brand ambassadors...' (provides historical context of brand ambassador success)\n• Evidence 2: 'The Badminton Association of Malaysia... are among the bodies that the company presently supports.' (background on company's sports support network)"
+  }
+}

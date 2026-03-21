@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In its prospectus exposure, released today, the company said its initial public offering (IPO) will entail a retail offering of 70 million shares and institutional offering of 280 million shares.\" (verifiable data)\n• Evidence 2: \"Berjaya Securities Sdn Bhd is the sponsor of the company’s IPO.\" (explicitly cites sponsor)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our group’s core business strategies and future plans are centred on increasing processing capacity, broadening our geographical footprint...\" (directly ties to strategic direction)\n• Evidence 2: \"Proceeds from the IPO will be used for future business expansion, working capital...\" (connects to financial implications and long-term value creation)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The company is principally involved in the recycling of waste tyres, and processing and trading of recovered materials.\" (basic background)\n• Evidence 2: \"Our group’s core business strategies... strengthening our operational capabilities.\" (strategic context but lacks industry-specific analysis or market position details)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"So far, I have yet to receive anything.\" (Quote from Dewan Rakyat Speaker Johari Abdul)\n• Evidence 2: \"As per usual practice, if anything is submitted to me... I will review it and take the necessary action...\" (Quote showing adherence to procedural norms)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or any business operations, financial performance, or strategic initiatives.\n• Evidence 2: The content focuses exclusively on political proceedings unrelated to the company's activities or stakeholder interests."
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: The text provides minimal context about the political dispute but lacks analysis of its potential impact on the company.\n• Evidence 2: No data, background, or stakeholder-specific details are included regarding Berjaya Food Berhad."
+  }
+}

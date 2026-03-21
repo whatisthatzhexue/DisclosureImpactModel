@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI rose 1.81 points to a fresh two-year high of 1,573.29 at the start of Thursday trading\" (verifiable market data).\n• Evidence 2: \"Apex Securities Research said...\" (cites a credible financial research firm with technical analysis)."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"QL Resources rising five sen to RM6.40\" (direct company mention, but only as a stock price movement).\n• Evidence 2: \"profit taking activities may emerge within the technology sector\" (sector-level analysis, no direct link to QL Resources' strategy)."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"MACD Line hovered above the Signal Line, while the RSI firmed up above 50\" (technical analysis details).\n• Evidence 2: \"economic data releases... Malaysia’s inflation data... US 1Q2024 GDP\" (contextual market drivers, but no company-specific insights)."
+  }
+}

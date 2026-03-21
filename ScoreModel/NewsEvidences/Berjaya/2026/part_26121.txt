@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The ceasefire agreement between Thailand and Cambodia was achieved because of the full support and solidarity of all Asean leaders\" (direct quote from Anwar Ibrahim, providing factual attribution).\n• Evidence 2: \"I am told that, in the history of ceasefires around the world... this was probably the first ceasefire that worked quickly and effectively\" (includes a claim with contextual framing, though lacks independent verification)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The article focuses on political diplomacy and ASEAN cooperation, with no connection to the company's strategic direction, financial performance, or market impact."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides basic context about the ASEAN Day celebration and its theme, but lacks detailed analysis of the ceasefire's background or implications.\n• Evidence 2: Includes quotes from Anwar Ibrahim but omits data, historical comparisons, or stakeholder perspectives beyond the stated event."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root Bhd's subsidiaries have successfully recovered trademark of its own 'Ah Huat' brand...\" (specific factual claim with no source cited)\n• Evidence 2: \"CTOS Digital Bhd posted a 25.6% YoY jump...\" (quantifiable data without citation)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Power Root Bhd's subsidiaries have successfully recovered trademark...\" (direct company mention with strategic implication for brand protection)\n• Evidence 2: \"Mobilia Holdings Bhd is planning to issue up to 218.8mn free warrants...\" (financial strategy relevant to shareholder value)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"...after reaching an amicable out-of-court settlement...\" (limited context on legal dispute background)\n• Evidence 2: \"Ireka Corp Bhd's subsidiary...facing legal action...\" (isolated incident without broader operational impact analysis)"
+  }
+}

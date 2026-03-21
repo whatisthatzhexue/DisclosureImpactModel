@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites specific data points (e.g., \"FBM KLCI edged up 1.08 points, or 0.07%, to 1,584.59\") and references credible sources like Rakuten Trade and Inter-Pacific Research.\n• Evidence 2: The tone is balanced, reporting both market gains (e.g., Nestle, F&N) and declines (e.g., Allianz, PETRONAS Dagangan) without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The text mentions Fraser & Neave Holdings Bhd (F&N) as a stock that rose 18 sen, but no direct connection to its strategic direction, competitive position, or long-term value creation is made.\n• Evidence 2: The focus is on broader market trends (e.g., GDP data, foreign inflows) rather than F&N's specific business performance or strategic initiatives."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides context about market dynamics (e.g., trade tensions, foreign inflows of RM935mil) and expert analysis (e.g., Rakuten Trade's forecast for the FBM KLCI).\n• Evidence 2: While it includes stock price movements and market sentiment, it lacks detailed insights into Fraser & Neave's operational performance, financial metrics, or strategic context."
+  }
+}

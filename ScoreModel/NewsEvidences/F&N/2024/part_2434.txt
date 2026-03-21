@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Its second quarter ended March 31 (2Q24) saw net profit surge 63.5% year-on-year (y-o-y) to RM165.4mil, on the back of a 12.1% rise in revenue to RM1.35bil\" (verifiable financial data).\n• Evidence 2: \"F&N acknowledged that it has benefited from an overall improvement in commodity prices\" (balanced tone with acknowledgment of both positives and challenges)."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"It will remain vigilant and adaptable to market shifts and wider geopolitical and macroeconomic developments\" (strategic preparedness for external factors).\n• Evidence 2: \"F&N also declared an interim single-tier dividend of 30 sen per share...\" (direct link to shareholder value creation and financial strategy)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Cumulative net earnings improved by 12.1% y-o-y to RM336.1mil, supported by a similar 10.7% growth in turnover to RM2.69bil\" (comprehensive financial context).\n• Evidence 2: \"Anticipating challenges with the rising costs of raw materials... F&N said it has taken measures to address the said challenges\" (detailed explanation of strategic responses)."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 3,
+    "justification": "• Evidence 1: \"It was truly a privilege for me and my coursemates to be part of such a significant and unforgettable experience.\" (Quotes lack third-party verification)\n• Evidence 2: \"The most rewarding aspect was immersing myself in the daily lives of local residents.\" (No balanced perspective or cited sources)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Bhd and Mr. Tan Hong Aik as Coffee Table Book sponsors.\" (Minimal direct company mention)\n• Evidence 2: \"The Blossoming and Fruiting Coffee Table Book... supported by the Tourism, Arts and Culture Ministry\" (No connection to QL Resources' strategic direction or business performance)"
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Since arriving in China in 2019, she has embraced the country’s diverse experiences.\" (General statement without contextual data)\n• Evidence 2: \"These achievements led to more opportunities to participate in international events.\" (No quantitative evidence or detailed analysis of impact)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Global apprenticeship programmes are effective in broadening our students’ horizons...\" (quote from minister)\n• Evidence 2: \"Twenty Malaysians from 10 public universities have been selected...\" (specific data from CEO)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its strategic initiatives\n• Evidence 2: Focus on aerospace education programs unrelated to food/beverage industry"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The five- to six-week programme is designed to provide participants with professional training...\" (detailed program structure)\n• Evidence 2: \"Only students who obtained a minimum cumulative grade point average (CGPA) of 3.00 and above were eligible to apply\" (specific eligibility criteria)"
+  }
+}

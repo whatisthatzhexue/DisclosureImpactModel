@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL posted a lower net profit of RM93.9mil, bringing its full-year net profit to RM455.6mil.\" (verifiable financial data)\n• Evidence 2: \"the removal of all subsidies from Aug 1, 2025\" (specific policy detail with date)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Through our listed subsidiary BM Greentech... play an important role in Malaysia’s National Energy Transition Roadmap initiatives\" (strategic alignment with national priorities)\n• Evidence 2: \"plan to introduce more local delicacies... good value for consumers\" (market expansion strategy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue for the quarter rose 6.7% to RM1.76bil... full year revenue to RM7.07bil\" (quantitative context)\n• Evidence 2: \"phased subsidy rationalisation starting May 1 and the removal of all subsidies from Aug 1, 2025\" (policy timeline detail)"
+  }
+}

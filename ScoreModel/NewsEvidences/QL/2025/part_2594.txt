@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources rose 16 sen to RM6.31\" [specific stock price movement]\n• Evidence 2: \"The FBM KLCI tracked other Asian markets higher\" [verifiable market data]"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"QL Resources\" is directly mentioned as a component stock [direct company reference]\n• Evidence 2: No analysis of business strategies, competitive positioning, or long-term value creation [lack of strategic context]"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The market traded within a range of 9.78 points...\" [quantitative market data]\n• Evidence 2: No background on QL Resources' operations, industry position, or financial performance [limited contextual detail]"
+  }
+}

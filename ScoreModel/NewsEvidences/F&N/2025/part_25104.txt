@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI was down 10.89 points, or 0.67%, at 1,623.28\" [verifiable market data]\n• Evidence 2: \"ringgit strengthened against the US dollar\" [specific forex rate movement]"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N slid RM1.04 to RM29.70\" [direct company mention, but only as a stock price data point]\n• Evidence 2: \"decliners outpaced gainers\" [broader market context, no strategic implications]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"466 counters advancing, 641 declining, and 507 unchanged\" [comprehensive market activity data]\n• Evidence 2: \"Turnover reached 3.8 billion shares, valued at RM3.4bil\" [quantitative context about market activity]"
+  }
+}

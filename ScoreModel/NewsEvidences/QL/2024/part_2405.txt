@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains promotional claims about products (e.g., 'sunscreen with SPF 30 PA+++'), but no verifiable data or sources are cited for these assertions.\n• Evidence 2: The text lacks factual information about QL Resources Berhad, the company in question, rendering it irrelevant to credibility evaluation."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text discusses consumer products for outdoor activities (e.g., sunscreens, water bottles) but does not mention QL Resources Berhad or its business operations.\n• Evidence 2: No connection to the company's strategic direction, market position, or financial performance is present."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The text provides superficial product descriptions without context, background, or analytical insights relevant to QL Resources Berhad.\n• Evidence 2: No data, evidence, or depth of coverage about the company's activities, stakeholders, or industry is included."
+  }
+}

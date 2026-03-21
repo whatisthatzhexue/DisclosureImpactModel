@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Retail trade grew 8.2% year-on-year in January 2025 reflecting a positive start to the year.\" (specific, verifiable data)\n• Evidence 2: \"unemployment rate unchanged at 3.1%\" and \"labour force participation rate steady at 70.6%\" (citing credible macroeconomic indicators)\n• Evidence 3: \"international arrivals soared by one-quarter to 25 million\" (quantifiable, verifiable statistic)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Family Mart, operated by QL Resources Bhd is set to capture the growing demand for grab-and-go meals...\" (direct company mention and strategic positioning)\n• Evidence 2: \"factors such as higher civil servant salaries... will further support retail activity\" (linking policy changes to company-specific market opportunities)\n• Evidence 3: \"tourism recovery... will further support retail activity\" (connecting sector-wide trends to company-specific strategic relevance)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"growth was driven by higher spending on food, beverages and tobacco and non-specialised stores\" (contextual explanation of growth drivers)\n• Evidence 2: \"upcoming Aidilfitri, combined with a recovery in tourism...\" (analyzing multiple factors influencing retail activity)\n• Evidence 3: \"international arrivals soared by one-quarter to 25 million\" (quantitative context for tourism impact analysis)"
+  }
+}

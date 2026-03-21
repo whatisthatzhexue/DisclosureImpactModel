@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 4,
+    "justification": "• Evidence 1: \"The comments above do not represent a recommendation to buy or sell.\" (Acknowledges lack of investment advice)\n• Evidence 2: Technical indicators (SMA, RSI, MACD) are mentioned without source citations, limiting factual verification"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources Bhd bounced back yesterday to remain above the 50-day SMA line.\" (Mentions company name but focuses on technical analysis)\n• Evidence 2: No discussion of business strategies, market position, or long-term value creation for QL Resources Berhad"
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The share looks likely to idle below the resistance of RM4.90\" (Specific technical detail)\n• Evidence 2: Lacks background context about QL Resources Berhad's operations, financials, or industry position beyond stock price analysis"
+  }
+}

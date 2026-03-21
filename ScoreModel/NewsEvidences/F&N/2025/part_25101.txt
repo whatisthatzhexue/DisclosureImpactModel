@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI rose 13.47 points, or 0.83%, to 1,634.17...\" (specific numerical data)\n• Evidence 2: \"Bank Negara said in a statement\" (direct quote from official source)\n• Evidence 3: \"Reuters reported...\" (credible external source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N fell 24 sen to RM30.74\" (direct mention of the company's stock performance)\n• Evidence 2: \"Monetary policy stance remains supportive of the economy\" (indirectly relates to business environment impacting the company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In the broader market, gainers outnumbered losers 849 to 428...\" (comprehensive market data)\n• Evidence 2: \"The Monetary Policy Committee (MPC) remains vigilant...\" (contextual background on policy implications)"
+  }
+}

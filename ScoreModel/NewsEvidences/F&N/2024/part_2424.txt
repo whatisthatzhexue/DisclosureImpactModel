@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"FBM KLCI closed at 1,612.88, down 0.14% or 2.30 points, taking its full-week drop to 1.44%\" (specific, verifiable data).\n• Evidence 2: \"Foreign investors sold a net RM371mil on Thursday. Local institutions and retailers were net buyers...\" (balanced reporting with clear sources)."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N gained 32 sen to RM30.32\" (direct mention of Fraser & Neave Holdings Bhd's stock performance).\n• Evidence 2: \"Nestle, the top decliner...\" (indirectly relates to market dynamics affecting listed companies)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Stocks that fell outnumbered those that rose 569 to 455, with another 556 counters unchanged. A total of 3.83 billion shares changed hands, worth RM2.7bil\" (comprehensive market context).\n• Evidence 2: \"Japan’s Nikkei 225... Singapore’s Straits Times Index...\" (regional market comparisons for broader context)."
+  }
+}

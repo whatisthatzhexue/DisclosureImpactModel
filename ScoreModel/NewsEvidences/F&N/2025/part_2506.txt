@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"By engaging our media partners through activities like this, we not only celebrate the nation’s diversity, but also show our appreciation for their continued support in telling the F&N story,\" said Karen Tan.\n• Evidence 2: The article provides specific details about the event (dates, products, campaign name) without fabrication, though it lacks third-party verification of claims."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The event reflected its commitment to supporting local businesses that make a positive impact,\" directly ties to F&N’s corporate social responsibility strategy.\n• Evidence 2: Mention of new product launches (NutriWell beverages, Golden Ring crackers) aligns with market expansion and innovation strategies."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Provides context about the Malaysia Day celebration, campaign timeline (Sept 30), and specific products (Oat Milk, gashapon machine) to illustrate F&N’s engagement.\n• Evidence 2: Includes quotes from executives but lacks data on financial impact, stakeholder feedback, or historical context of the company’s strategies."
+  }
+}

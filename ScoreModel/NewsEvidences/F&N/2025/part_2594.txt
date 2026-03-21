@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable factual data such as stock price movements (e.g., Tenaga Nasional rose 22 sen to RM14.02) and market indices (FBM KLCI at 1,601.04). \n• Evidence 2: TA Securities' analysis is cited as a credible source, with specific technical indicators (e.g., 38.2%FR level) and market support/resistance levels."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not directly mention Fraser & Neave Holdings Bhd or its strategic initiatives, focusing instead on broader market movements. \n• Evidence 2: While F&N is listed as a component stock, the analysis does not connect to the company's competitive position, financial performance, or long-term value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., 429 decliners vs. 384 advancers, specific stock price changes) and technical analysis (e.g., Fibonacci levels, support/resistance zones). \n• Evidence 2: It provides context on market sentiment (e.g., cautious trading due to China's fiscal measures) but lacks deeper analysis of Fraser & Neave's specific business factors."
+  }
+}

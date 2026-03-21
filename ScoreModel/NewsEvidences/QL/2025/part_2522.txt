@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"It said in filing with Bursa Malaysia the acquisition was an opportunity...\" (verifiable source cited)\n• Evidence 2: \"The board also believes...\" (direct quote from company statement, balanced tone)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"accumulate strategic land for property development purposes\" (direct link to company strategy)\n• Evidence 2: \"contribute positively to the group’s future earnings...sustainable growth\" (financial implications and long-term value creation)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"11,025 sqm of freehold land...RM23mil\" (specific quantitative details)\n• Evidence 2: Lacks contextual background on company's land acquisition history, market position, or competitive landscape analysis"
+  }
+}

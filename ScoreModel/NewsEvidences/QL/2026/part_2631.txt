@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources’ net profit dipped to RM100.6mil from RM107.43mil... revenue rose to RM1.7bil...\" (specific financial data)\n• Evidence 2: \"In a filing with Bursa Malaysia...\" (credible source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"counts on egg demand rising... cushion the impact from the removal of the subsidy...\" (directly ties to business strategy and market factors)\n• Evidence 2: \"sales for its marine product manufacturing segment... depressed international prices\" (connects to operational strategy and financial implications)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"net profit dipped... revenue rose... marginally lower than... substantially lower fishmeal volume... depressed international prices\" (specific data supporting claims)\n• Evidence 2: \"cautiously optimistic... upbeat...\" (contextualizes performance against external factors)"
+  }
+}

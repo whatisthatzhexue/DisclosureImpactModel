@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable numerical data (e.g., FBM KLCI declined 5.51 points, Public Bank slid 20 sen to RM4.37) and cites credible financial analysts (TA Securities, Malacca Securities).\n• Evidence 2: The tone is balanced, reporting both market declines and gains without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: The article directly mentions F&N (Fraser & Neave) as a stock that gained 34 sen, linking it to market movements relevant to investors.\n• Evidence 2: Analysts discuss potential sectors (e-invoicing, construction) and macroeconomic factors (US inflation, Chinese stimulus) that could impact long-term value creation for stakeholders."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes detailed market data (traded volumes, stock price changes, index fluctuations) and analyst forecasts, providing context for market trends.\n• Evidence 2: It references specific deals (Public Bank-LPI acquisition) and sector-specific insights (plantation, O&G stocks), offering layered analysis of market drivers."
+  }
+}

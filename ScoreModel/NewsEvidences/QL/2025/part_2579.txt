@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Vietnam News Agency cited industry insiders and officials on Tuesday (June 18)\" (verifiable source cited)\n• Evidence 2: \"Vietnam's exports reached US$156.77 billion... according to the country's General Statistics Office\" (specific data with official source)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"This is an opportunity for Vietnamese businesses to enter additional markets\" (no direct mention of QL Resources Berhad or its strategic relevance)\n• Evidence 2: \"Vietnam's exports... increase of 15.2 per cent\" (general economic data unrelated to specific company operations)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Vietnam had an advantage since the signing of numerous free trade agreements... bringing down tariffs\" (context on trade advantages)\n• Evidence 2: \"Vietnam's exports reached US$156.77 billion...\" (quantitative data supporting economic context)"
+  }
+}

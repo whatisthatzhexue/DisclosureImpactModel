@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MIDF Research said there would be a shift in consumption patterns favouring essential goods over discretionary items...\" (specific analyst insight with verifiable source)\n• Evidence 2: \"We believe the impact will be uneven, more pronounced on discretionary items while staples remain relatively insulated.\" (balanced analysis with no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd (\"buy\" call with a target price of RM32.68)\" (direct company mention with strategic investment recommendation)\n• Evidence 2: \"Staples players are likely to be more insulated from tax-driven volatility...\" (connects to company's competitive positioning and risk mitigation strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Sustained currency strength would be favourable to those exposed to US dollar-denominated raw materials...\" (contextual analysis of macroeconomic factors)\n• Evidence 2: \"We continue to favour consumer staples for their earnings defensiveness and resilient demand profile\" (comprehensive explanation of sector dynamics and investment rationale)"
+  }
+}

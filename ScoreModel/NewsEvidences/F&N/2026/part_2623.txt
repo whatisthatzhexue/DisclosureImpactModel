@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI fell 7.76 points, or 0.48%, to 1,622.84\" (specific, verifiable data)\n• Evidence 2: \"ringgit was quoted at 4.1250 against the US dollar, appreciating 0.13%\" (precise exchange rate and percentage change)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N lost RM1.24 to RM35.12\" (direct mention of the company's stock performance)\n• Evidence 2: \"MSCI’s broadest index...slipped 0.09%\" (broader market context but no strategic implications for F&N)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Traded volumes stood at 3.3 billion shares worth RM2.3bil\" (quantitative detail)\n• Evidence 2: \"Foreign investors were net buyers, accumulating RM156mil worth of equities\" (market participant analysis)"
+  }
+}

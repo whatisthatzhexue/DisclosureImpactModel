@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"We believe this is partly due to its location in the centre of Penang island.\" (Quote from CEO Syed Ali Shahul Hameed)\n• Evidence 2: \"With its low-density living and prime freehold land, Jesselton Courtyard is an exceptional investment opportunity...\" (Quote from Syed Ali Shahul Hameed)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Jesselton Courtyard is an exceptional investment opportunity for discerning property buyers.\" (Direct link to Berjaya Land Bhd's strategic positioning)\n• Evidence 2: \"Residents will also have privileged access to over 30 premium in-home recreational facilities...\" (Highlighting long-term value creation and market differentiation)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Priced from RM6,476,400... sized from 6,649sq ft to 9,053sq ft...\" (Detailed unit specifications and pricing)\n• Evidence 2: \"Situated at the base of Penang Hill... a Unesco Biosphere Reserve...\" (Contextual background and sustainability features)"
+  }
+}

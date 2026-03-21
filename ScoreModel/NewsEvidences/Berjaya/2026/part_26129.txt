@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data on tariff rates (19% vs. 25%) and stock market movements (FBM KLCI +0.59%) with no apparent fabrication.\n• Evidence 2: Quotes from Berjaya Research Sdn Bhd are attributed directly, and the tone remains balanced by acknowledging both market reactions and technical analysis."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: The article connects tariff changes to Malaysia's competitive position and potential foreign investment, which indirectly relates to Berjaya Food Berhad's market environment.\n• Evidence 2: Mention of Berjaya Research's analysis highlights strategic implications for the broader market, though there is no direct reference to Berjaya Food Berhad's operations or financials."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article includes detailed tariff comparisons across countries (Vietnam, Brunei, etc.) and technical stock analysis (bearish candlestick pattern, resistance levels), providing contextual depth.\n• Evidence 2: Specific stock price movements (e.g., Malaysian Pacific Industries +40 sen) and quantitative market data (FBM KLCI levels) are included to support claims."
+  }
+}

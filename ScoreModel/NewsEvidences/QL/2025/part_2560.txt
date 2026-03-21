@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Google’s dominance in search – which a US federal court ruled last week is an illegal monopoly – is giving it a decisive advantage in the brewing AI wars\" (verifiable court ruling cited).\n• Evidence 2: \"Google said AI Overviews... are part of its longstanding commitment to serve higher quality information\" (direct quote from Google spokesperson)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The article does not mention QL Resources Berhad or its operations, focusing instead on Google’s search dominance and its impact on publishers and startups\" (no direct company connection).\n• Evidence 2: \"The information pertains to antitrust issues and AI competition, which are not directly relevant to a food and beverage company’s strategic priorities\" (lack of stakeholder relevance)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The rise of generative AI has touched off a new wave of startups seeking to offer search products...\" (comprehensive context on industry shifts).\n• Evidence 2: \"Prelovac said at least half of Kagi’s costs go toward crawling and other sources of search data\" (specific data on startup challenges)."
+  }
+}

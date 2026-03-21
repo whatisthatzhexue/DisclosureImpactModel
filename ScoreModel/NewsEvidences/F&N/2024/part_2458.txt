@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"FBM KLCI was down 2.04 points to 1,529.33\" (verifiable market data)\n• Evidence 2: \"MSCI's Asia ex-Japan stock index was weaker by 0.93%\" (citing external market indices)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N\" mentioned as a gainer (direct company reference)\n• Evidence 2: No discussion of Fraser & Neave's strategic initiatives, competitive positioning, or financial performance metrics"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"387 stocks advancing against 503 stocks declining while 509 counters unchanged\" (comprehensive market snapshot)\n• Evidence 2: Specific price changes for Dutch Lady, Ideal, Carlsberg, and Heineken (quantitative data but no contextual analysis)"
+  }
+}

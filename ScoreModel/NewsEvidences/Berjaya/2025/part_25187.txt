@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This month, I’ve completed about 50 commissioned kolams and still have another 50 to finish by Deepavali on Oct 31.\" (specific, verifiable timeline)\n• Evidence 2: \"The rice is dyed with food colouring, making it safe for animals.\" (factual explanation of material use)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad is a food and beverage company listed in Malaysia.\" (company context provided but not directly referenced in text)\n• Evidence 2: \"He runs an events management company in Puchong, Selangor.\" (personal business, not corporate strategy)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"His biggest kolam measured 73.1m at Gateway at Kuala Lumpur International Airport 2 in Sepang, Selangor.\" (specific quantitative data)\n• Evidence 2: \"Over the years, Ruben has trained nearly 100 people in the art of kolam-making.\" (comprehensive coverage of community impact)"
+  }
+}

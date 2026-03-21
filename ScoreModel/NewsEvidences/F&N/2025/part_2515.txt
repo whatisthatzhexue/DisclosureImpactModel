@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd posted a 15.16% year-on-year (y-o-y) decline in 2Q of the financial year of 2025 (2Q25) net profit to RM140.3mil, attributed to higher tax expenses, startup losses from its dairy operations, and softer revenue.\"\n• Evidence 2: \"Rakuten Trade head of research Kenny Yee said its initial review of 2Q results and guidance from key players show encouraging signs...\" (cites credible source with verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd... posted a 15.16% y-o-y decline... attributed to higher tax expenses, startup losses...\" (direct company mention with financial performance impact)\n• Evidence 2: \"Traders should closely track updates from banking heavyweights, large-cap tech and staple consumer names to position for medium-term growth\" (links to market strategies affecting stakeholders)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"...higher tax expenses, startup losses from its dairy operations, and softer revenue\" (specific factors explaining financial performance)\n• Evidence 2: \"...renewed interest in domestically oriented sectors helped cushion the local bourse...\" (provides contextual market analysis and sector-specific insights)"
+  }
+}

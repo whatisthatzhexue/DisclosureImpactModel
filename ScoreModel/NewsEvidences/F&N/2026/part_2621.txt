@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FTSE Russell and Bursa Malaysia said in a joint statement\" (verifiable source cited)\n• Evidence 2: \"the changes to the indices will take effect on Dec 22, 2025\" (specific factual detail with timeline)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings (F&N)\" is explicitly mentioned as being replaced in the Hijrah Shariah Index (direct company reference)\n• Evidence 2: The reserve list includes \"United Plantations Bhd\" and \"Westports Holdings Bhd\" but no analysis of how index changes impact F&N's strategic position"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Mid 70 Index will see six inclusions... replacing... Fraser & Neave Holdings (F&N)\" (comprehensive list of changes)\n• Evidence 2: \"The reserve list will be used to replace any KLCI constituents...\" (context about index maintenance mechanisms)"
+  }
+}

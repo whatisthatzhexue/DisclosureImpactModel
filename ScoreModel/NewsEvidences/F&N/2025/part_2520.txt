@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"HLIB Research reported that the RM100 cash handout is estimated to benefit 22 million Malaysians, involving an allocation of RM2bil.\" (verifiable data)\n• Evidence 2: \"we maintain our fiscal deficit projection of minus 3.8% of GDP, up from the minus 4.1% of 2024\" (specific, data-driven claim with source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd at a target price of RM32.68\" (direct company mention with financial implication)\n• Evidence 2: \"the RM100 cash handout... should increase private consumption growth by approximately 0.2 percentage points\" (connects to market impact and business performance)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the consumer sector is currently trading at 27.2 times one-year forward price-over-earnings (PE)... reflecting ongoing soft consumer sentiment\" (comprehensive analysis with quantitative context)\n• Evidence 2: \"Initial risks may persist... although we believe PetDag still has the upper hand to mitigate them\" (detailed risk assessment with strategic insight)"
+  }
+}

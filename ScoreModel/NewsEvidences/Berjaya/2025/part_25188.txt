@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Selangor Information Technology and Digital Economy Corp (Sidec) had inked a memorandum of understanding (MoU) with Cyberview Sdn Bhd...\" (specific factual statement)\n• Evidence 2: \"This will expand our capabilities and reinforce Malaysia’s role as a key player...\" (official quote with verifiable context)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The article contains no direct mention of Berjaya Food Berhad or its business operations, focusing instead on Selangor state initiatives unrelated to the company's food and beverage sector.\" (no company-specific relevance)\n• Evidence 2: \"No financial metrics, market impact analysis, or strategic alignment with Berjaya Food Berhad's operations are provided.\" (lack of stakeholder-specific context)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The article provides background on Selangor's IC design park timeline and goals, including quotes from officials about digital transformation and AI.\" (moderate contextual detail)\n• Evidence 2: \"Limited data on financial implications, market share projections, or stakeholder analysis is included, focusing instead on policy announcements.\" (insufficient analytical depth)"
+  }
+}

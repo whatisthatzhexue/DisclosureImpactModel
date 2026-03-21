@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of QL Resources Berhad or any related financial/operational data.\n• Evidence 2: The article is a compilation of unrelated regional news headlines with no verifiable data or sources cited for company-specific claims."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text provides no information about QL Resources Berhad's business strategies, market position, or financial performance.\n• Evidence 2: All content is focused on geopolitical events and unrelated criminal cases, with no connection to the company's operations or stakeholders."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The text lacks comprehensive coverage of any topic related to QL Resources Berhad, offering no contextual or analytical insights.\n• Evidence 2: No data, background information, or evidence is provided to support claims about the company's activities or performance."
+  }
+}

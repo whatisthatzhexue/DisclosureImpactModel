@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'FBM KLCI fell 3.09 points, or 0.19% lower at 1,596.49' (specific, verifiable data)\n• Evidence 2: TA Securities and Malacca Securities provided analysis with technical levels (e.g., 'Immediate index support stays at 1,588') and market outlooks"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: 'export-oriented stocks, especially in the gloves and technology sectors, could benefit from a stronger dollar index' (indirectly relevant to Malaysia's export-dependent economy)\n• Evidence 2: 'data centre supply chain' and 'sub-utility' sectors mentioned, which may relate to long-term infrastructure trends"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Market breadth turned negative as losers outpaced gainers on a ratio of 466-to-402 stocks. Traded volumes stood at 1.8 billion shares valued at RM1.43bil' (comprehensive market context)\n• Evidence 2: Specific stock price movements (e.g., 'Nestle tumbled RM3.22 to RM95.78') and technical analysis (e.g., Fibonacci retracement levels) provided detailed market insights"
+  }
+}

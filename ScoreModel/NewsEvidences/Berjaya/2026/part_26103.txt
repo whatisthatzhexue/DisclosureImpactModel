@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The country’s data centre market is forecasted to grow to RM19.27bil at a compound annual growth rate of 20.22% between 2023 and 2028.\" (specific forecast with numerical data)\n• Evidence 2: \"TM’s data centres reflect a ‘build local, scale global’ philosophy...\" (direct quote from CEO with strategic context)"
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Our data centres reflect a ‘build local, scale global’ philosophy that reinforces the country as a regional hub for digital and ESG transformation,\" said TM CEO (direct link to company strategy and national positioning)\n• Evidence 2: \"With the completion of our KVDC and IPDC expansions this year, TM’s aspiration of becoming a digital powerhouse by 2030 is taking shape...\" (explicit connection to long-term value creation and market impact)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"PUE gains at this scale translate to millions of kilowatt-hours (KWh) saved annually...\" (quantitative analysis of operational efficiency)\n• Evidence 2: \"TM’s GPU-as-a-Service architecture allows customers to access high-performance AI computing without increasing carbon footprint...\" (detailed explanation of technological innovation and environmental impact)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Bursa Malaysia Bhd has announced 12 additions to the constituents of the FTSE4Good Bursa Malaysia (F4GBM) Index\" [verifiable factual statement from a credible source].\n• Evidence 2: \"This represents a 400% increase since the index’s inception in December 2014 with only 24 constituents\" [specific, verifiable data with no bias]."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL Resources\" is listed as an inclusion in the F4GBM Index [direct company mention].\n• Evidence 2: \"The F4GBM Index includes publicly listed companies (PLCs) with good liquidity and strong environmental, social, and governance (ESG) practices\" [links to ESG relevance, but lacks connection to QL Resources' strategic context]."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Both indices are reviewed semi-annually in June and December against international benchmarks\" [provides context on review process].\n• Evidence 2: \"All constituent changes will take effect at the start of business on June 24, 2024\" [specific timeline, but lacks analysis of implications for QL Resources]."
+  }
+}

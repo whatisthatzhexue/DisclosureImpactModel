@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"This expansion aligns with our long-term vision of introducing world-class dining concepts to the global market\" (quote from CEO provides direct corporate statement)\n• Evidence 2: \"the group had inked the deal with Paris Baguette Southeast Asia\" (specific contractual detail with named entity)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"reflects the group's commitment to establishing a stronger footprint in underserved markets\" (direct link to strategic positioning)\n• Evidence 2: \"exploring new opportunities to introduce other international brands... to global markets\" (explicit connection to long-term strategic goals)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"introduce and operate Paris Baguette stores in Brunei and Thailand\" (specific expansion details)\n• Evidence 2: \"further solidifying its position as a leader in the food and beverage industry\" (strategic positioning statement without quantitative evidence)"
+  }
+}

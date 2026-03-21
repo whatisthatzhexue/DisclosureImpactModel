@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI, which opened higher this morning, gave way to profit-taking by midday\" (factual market movement)\n• Evidence 2: \"Malacca Securities said...\" (credible source cited with verifiable analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"F&N slid 84 sen to RM29.90\" (direct company mention)\n• Evidence 2: \"we favour the construction... sectors as we enter the corporate earnings season\" (market trends relevant to company operations)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Turnover stood at 2.32 billion securities valued at RM1.6bil\" (quantitative data)\n• Evidence 2: \"Malacca Securities... we maintain a positive view on glove stocks...\" (sector-specific analysis with market implications)"
+  }
+}

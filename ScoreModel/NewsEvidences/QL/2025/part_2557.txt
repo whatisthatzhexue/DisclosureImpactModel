@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Pope Francis leaves on Monday for a visit to four island nations across southeast Asia...\" (Reuters, verifiable source)\n• Evidence 2: \"Jakarta... has experienced disastrous flooding...\" (specific data on infrastructure and climate impacts)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of QL Resources Berhad or its business activities\n• Evidence 2: Article focuses on religious and geopolitical events unrelated to the company's strategic direction or financial performance"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Francis will travel nearly 33,000 km (20,500 miles)...\" (quantitative details on trip logistics)\n• Evidence 2: \"Indonesia... has about 280 million inhabitants...\" (contextual data on demographics and interfaith dynamics)"
+  }
+}

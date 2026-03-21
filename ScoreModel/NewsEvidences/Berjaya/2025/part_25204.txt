@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"News reports quoting Malaysia’s Health Minister Datuk Seri Dr Dzulkefly Ahmad stated a new tax...\" (credible source cited)\n• Evidence 2: \"CIMB Securities Research said\" (research firm cited with specific data on tax impacts and product thresholds)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Berjaya Food Bhd retails certain RTD beverage products but revenue contribution from the segment is minimal\" (direct company mention with financial context)\n• Evidence 2: \"Nestle is exposed to both RTD and pre-mixed drink categories...\" (links tax implications to specific company segments and revenue streams)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In Budget 2024, the government imposed a 10 sen per litre hike...reduction in the consumption of sugary drinks by 9.25%\" (historical data and quantitative context)\n• Evidence 2: \"CIMB Securities estimated domestic sales...make up 10% to 15% of its total revenue\" (specific financial impact analysis with percentages)"
+  }
+}

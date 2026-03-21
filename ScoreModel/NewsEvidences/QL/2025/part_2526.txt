@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QLASSIC awards at QUEST 2024 organised by Construction Industry Development Board (CIDB) Malaysia\" [verifiable event and credible source]\n• Evidence 2: \"This recognition highlights KTI’s continuous efforts...\" [direct quote from Datuk Gordon Loke, credible source]"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"leveraged the industrial building system (IBS) technique to improve the speed and precision of the construction process\" [demonstrates strategic innovation in construction methods]\n• Evidence 2: \"developing other landmark projects such as The Logg and Ayuria Place\" [shows long-term development strategy]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"811 double-storey house units starting from RM250,000... 168-acre site\" [quantitative details about project scale and pricing]\n• Evidence 2: \"reduction of labour and material wastage... improved safety\" [specific data supporting sustainability claims]"
+  }
+}

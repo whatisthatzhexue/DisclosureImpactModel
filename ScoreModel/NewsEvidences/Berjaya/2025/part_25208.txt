@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RMK13 will be more similar to RMK1. A strategic document that is equally concise and comprehensive. Each word must be committed towards a specific policy direction.\" (Quotes from Rafizi Ramli, providing direct statements from an official source)\n• Evidence 2: \"The last Malaysia Plan RMK12, launched on Sept 27 in 2021, ends in 2025.\" (Factual data about previous plans, verified through timeline references)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Malaysia must become a consumption powerhouse... boosting domestic demand... creates more jobs across all sectors...\" (General economic strategy impacting broader market conditions, indirectly relevant to stakeholders)\n• Evidence 2: \"Marrying a traditionally trading-based economy with greater consumption diversifies our growth...\" (Broad economic policy implications, but no direct mention of Berjaya Food or specific industry impacts)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RMK13 is a five-year roadmap for the government to carry out between 2026 and 2030... the planning phase of RMK13 is akin to a blank canvas...\" (Detailed timeline and planning approach)\n• Evidence 2: \"Projected growth of South-East Asia’s compound annual growth rate at 4% until 2040...\" (Quantitative data supporting policy claims, though not tied to specific company metrics)"
+  }
+}

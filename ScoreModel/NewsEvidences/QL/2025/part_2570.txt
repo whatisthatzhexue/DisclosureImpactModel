@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: Profit rose to 144.7 billion yen ($894.81 million) from 112.5 billion yen in the year-earlier period.\n• Evidence 2: The consensus forecast was for earnings of 127.1 billion yen, based on a LSEG poll of six analysts."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: The company raised its full-year profit forecast to 475 billion yen from 450 billion yen.\n• Evidence 2: Fast Retailing is plotting aggressive growth in Greater China, North America, and Europe, leveraging post-pandemic consumer trends."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article explains the yen's impact on overseas sales and provides revenue/profit figures for Greater China's nine-month period.\n• Evidence 2: It mentions the decline in Greater China's performance due to prior-year comparisons and consumer slowdown, but lacks broader industry context or long-term strategic analysis."
+  }
+}

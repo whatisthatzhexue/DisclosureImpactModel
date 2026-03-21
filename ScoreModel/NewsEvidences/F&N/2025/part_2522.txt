@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Malaysia’s economy grew 4.5% year-on-year in the second quarter, based on official advance estimates.\" (verifiable GDP data)\n• Evidence 2: \"The FBM KLCI added 4.92 points, or 0.32%, to close at 1,525.86\" (specific numerical data with clear context)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N eased 16 sen to RM28.86\" (direct mention of Fraser & Neave, but only as a stock price movement)\n• Evidence 2: No analysis connecting market trends to company-specific strategic factors, competitive positioning, or long-term value creation"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Trading activity remained steady, with a total of 3.18 billion shares changing hands, valued at RM2.8bil\" (comprehensive market context)\n• Evidence 2: \"Regional markets ended the day mixed. Among the key regional indices:\" (detailed coverage of global market context)"
+  }
+}

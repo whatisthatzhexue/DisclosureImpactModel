@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites Apex Securities Research with specific market analysis and quotes, providing verifiable data on the FBM KLCI index movement (up 1.73 points to 1,576.12) and stock price changes (e.g., QL Resources rising three sen to RM6.55).\n• Evidence 2: The tone remains balanced, acknowledging both market recovery and ongoing risks like global headwinds, without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions QL Resources Berhad and its stock price movement, linking it to broader market trends.\n• Evidence 2: However, it lacks detailed analysis of the company's strategic direction, competitive position, or financial performance beyond stock price data, focusing instead on market-wide factors."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides specific numerical data (e.g., index levels, stock price changes) and contextualizes the market's cautious recovery, including references to global headwinds and sector performance.\n• Evidence 2: It includes quotes from Apex Securities offering analysis, though the depth is limited to market trends rather than in-depth company-specific insights."
+  }
+}

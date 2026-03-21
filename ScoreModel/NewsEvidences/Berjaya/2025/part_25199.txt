@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Science, Technology and Innovation Minister Chang Lih Kang said the three-month programme...\" (verifiable quote from official source)\n• Evidence 2: \"NASA astronaut Charles D. Gemar sharing his space experience at the event...\" (specific detail with named individual)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"...align with Malaysian Space Agency’s (Mysa) Strategy 1: Human Capital Development Core...\" (general national strategy, no direct company link)\n• Evidence 2: \"...collaborative effort between the ministry...\" (no mention of Berjaya Food or business operations)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The camp is a collaborative effort between the ministry, Langit Kita Sdn Bhd (Apadilangit) and Starlight Education United Kingdom.\" (specific organizational details)\n• Evidence 2: \"...divided into three – introduction to MSE 2030, Mars exploration activities and career opportunities.\" (structured event description)"
+  }
+}

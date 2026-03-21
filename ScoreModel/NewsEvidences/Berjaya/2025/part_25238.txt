@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Nearly 1,600 books have been collected by Berjaya Sompo Insurance Bhd (BSIB) in partnership with the Financial Industry Collective Outreach (Finco)\" (specific data with verifiable numbers).\n• Evidence 2: \"Finco is a non-profit organisation set up in 2017 with the support of Bank Negara Malaysia\" (cites establishment date and funding source)."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article focuses on BSIB's ESG initiative, which is unrelated to Berjaya Food Berhad's core business (food and beverage) or strategic priorities.\n• Evidence 2: No direct mention of Berjaya Food Berhad's operations, financial performance, or strategic goals, limiting relevance to investors in the company."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The initiative, which ran across 15 branch offices nationwide, channelled aid towards 13 targeted schools\" (provides geographic and quantitative context).\n• Evidence 2: \"Instilling a love for reading at a young age allows students to build on their foundational English language skills\" (analytical insight linking the initiative to long-term educational outcomes)."
+  }
+}

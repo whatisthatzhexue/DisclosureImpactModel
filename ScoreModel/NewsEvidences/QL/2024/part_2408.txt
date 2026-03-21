@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The project received an 84% QLASSIC score and a five-star SHASSIC rating from the Construction Industry Development Board (CIDB)\" \n• Evidence 2: \"QLASSIC score was the highest for an affordable home project since the assessment initiative began in 2006\""
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"SkyAwani V Residence@Sentul is the fifth instalment in SkyWorld’s affordable series of properties under the government’s Residensi Wilayah programme\" \n• Evidence 2: \"SkyWorld Development chief executive officer Lee Chee Seng said the company’s commitment to quality is evident in its consistent pursuit of QLASSIC and SHASSIC assessments\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"With a gross development value (GDV) of RM188mil SkyAwani V Residence@Sentul sits on 0.83ha of land, and comprises 615 units in a 36-storey tower\" \n• Evidence 2: \"Residents have access to 30 facilities including a gymnasium, terrace lawn, basketball court, jogging trail, multipurpose hall, games room, co-working space, rooftop sky lounge and a sky garden\""
+  }
+}

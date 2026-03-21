@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites verifiable awards like the FIABCI Malaysia Property Awards 2023 and provides specific details (e.g., 7.12ha land area, 5 GBI-certified towers) without fabrication.\n• Evidence 2: Direct quotes from Tropicana Group executive director Din Tan are included, adding credibility through official statements."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: The text highlights Tropicana's strategic shift to sustainable community planning and its focus on long-term value creation through transit-oriented developments (TOD) and connectivity.\n• Evidence 2: Future projects like Edelweiss Serviced Residences and the DASH highway are mentioned, aligning with the company's growth strategy and market expansion."
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: Comprehensive details about Tropicana Gardens' features (e.g., 5 GBI-certified towers, 80% mall take-up rate, 87% occupancy for residential units) and historical context (1996 township inception) are provided.\n• Evidence 2: The article includes data on amenities, connectivity (e.g., Surian MRT, NKVE), and future developments (Edelweiss Shoppes), offering a thorough overview of the project's scope and impact."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The 30-stock index slipped 4.07 points, or 0.26%, to 1,544.80' (specific numerical data)\n• Evidence 2: 'Foreign investors were net sellers on Tuesday, offloading RM81mil' (verifiable transaction data)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'F&N surged RM1.20 to RM27.48' (direct company mention with price movement)\n• Evidence 2: 'Malaysian Pacific Industries, the top loser... slid RM1.94 to RM18.20' (market position context for competitors)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: 'A total of 3.27 billion shares were traded, with a value of RM2.16bil' (comprehensive market activity data)\n• Evidence 2: 'Foreign investors were net sellers... local institutions and retailers were net buyers' (detailed investor behavior analysis)"
+  }
+}

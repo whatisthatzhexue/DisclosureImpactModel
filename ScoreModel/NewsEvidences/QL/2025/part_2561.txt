@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"China is Malaysia’s biggest trade partner.\" (verifiable factual claim)\n• Evidence 2: \"The coffee-table book and the photo exhibition are jointly organised by SMG and Sin Chew Daily...\" (specific, verifiable details about event organization)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources Bhd and Tan Hong Aik as the coffee-table book sponsors\" (company mentioned only in sponsorship context)\n• Evidence 2: No discussion of QL Resources' business strategies, financial performance, or market position"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The book features around 200 photographs across 270 pages...\" (specific detail about event content)\n• Evidence 2: \"The exhibition will run from Aug 5 to 18...\" (specific event logistics provided)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites credible financial institutions like TA Securities and Hong Leong Investment Bank Research, providing specific market data (e.g., FBM KLCI at 1,589.42, turnover of RM982.9mil).\n• Evidence 2: Balanced reporting includes both positive outlooks (e.g., retest of 1,600–1,640 range) and risks (e.g., US tariffs on semiconductors)."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article mentions consumer counters and companies like F&N, Nestle, and Heineken, which are in the food and beverage sector relevant to Fraser & Neave, but lacks direct mention of the company.\n• Evidence 2: References to market trends and sector-specific risks (e.g., US tariffs on E&E) provide indirect relevance to stakeholders, though no explicit connection to Fraser & Neave is made."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: Detailed market analysis includes Fibonacci retracement levels, support/resistance thresholds, and turnover data (e.g., 1.32 billion shares traded).\n• Evidence 2: Comprehensive coverage of macroeconomic factors (e.g., Fed policy, GDP expectations) and sector-specific risks (e.g., US tariffs impacting Malaysia’s E&E sector)."
+  }
+}

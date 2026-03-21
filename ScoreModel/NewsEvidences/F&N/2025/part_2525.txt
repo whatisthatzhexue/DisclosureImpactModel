@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI rose 6.81 points, or 0.44%, to 1,548.34\" (specific, verifiable data)\n• Evidence 2: TA Securities and Malacca Securities provide analysis with clear market context and technical indicators (credible sources)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: No direct mention of Fraser & Neave Holdings Bhd or its strategic initiatives\n• Evidence 2: Focus on broader market trends and unrelated sectors (data centres, renewable energy) without connection to the company's business"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: Detailed market statistics (traded volume, stock movements, technical analysis) provide contextual depth\n• Evidence 2: Sector-specific insights (construction, power infrastructure) but lack granular details about the company's operations or financials"
+  }
+}

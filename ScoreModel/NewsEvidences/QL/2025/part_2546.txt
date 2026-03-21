@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI ended the early session in the red...\" (verifiable market data)\n• Evidence 2: \"YTL Power...under investigation by the Malaysian Anti-Corruption Commission\" (specific factual claim with context)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL Resources up 18 sen to RM6.64\" (direct company mention with price movement)\n• Evidence 2: \"small caps and lower liners...compared to 293 gainers\" (market impact context)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The overall market trading volume was 1.9 billion...\" (quantitative data)\n• Evidence 2: \"sector indices were mostly in the red...financial services, healthcare...\" (broader market context)"
+  }
+}

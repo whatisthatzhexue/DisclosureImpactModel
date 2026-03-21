@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The FBM KLCI 'lost 2.71 points to 1,612.93' with specific numerical data and trading band details.\n• Evidence 2: The article cites the 'US Centres for Medicare and Medicaid Services’ proposal' as a factual event affecting Supermax, demonstrating verifiable data."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions 'F&N shedding 30 sen to RM27.86', linking to Fraser & Neave Holdings Bhd's stock performance.\n• Evidence 2: The discussion of the US jobs report and Fed rate cuts implies macroeconomic factors that could indirectly affect the company's operations, though no direct strategic insights are provided."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive market data, including '451 decliners compared to 411 gainers' and 'RM1.21bil' in trading volume, offering context for market movements.\n• Evidence 2: It explains regional sentiment impacts (e.g., 'political turmoil in South Korea') and includes multiple indices (Nikkei, Straits Times, Hang Seng) for broader market analysis."
+  }
+}

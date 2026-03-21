@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Bursa Malaysia rebounded after a shaky start... concerns mounted over Trump's trade tariffs.\" (verifiable market event)\n• Evidence 2: \"We expect the index to trend within the 1,565-1,575 range\" (specific data from Rakuten Trade analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources shaved five sen to RM4.66\" (direct company mention but no strategic context)\n• Evidence 2: No discussion of QL Resources' business performance, competitive position, or long-term value creation factors"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The FBM KLCI opened 1.76 points lower... up 6.97 points to 1,575\" (specific numerical data)\n• Evidence 2: Limited analysis of market drivers, with no background on QL Resources' operations or industry context"
+  }
+}

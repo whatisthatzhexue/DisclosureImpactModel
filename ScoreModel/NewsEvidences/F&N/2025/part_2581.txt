@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"I am grateful for what 100PLUS has given me...\" (direct quote from Chee Hoong, verifying F&N's involvement)\n• Evidence 2: \"This time, we are not only doing it around Klang Valley but also reaching out to Ipoh...\" (direct quote from Yakeb chairman, confirming initiative scope)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd (F&N)...\" (direct company mention, but no connection to strategic goals)\n• Evidence 2: \"This is the second edition of their initiative...\" (suggests recurring CSR activity, but no financial or competitive impact analysis)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"A total of 10 current and former national athletes were selected...\" (specific details about participants)\n• Evidence 2: \"I am 84 years old now...\" (context about Fook Huat's background, adding narrative completeness)"
+  }
+}

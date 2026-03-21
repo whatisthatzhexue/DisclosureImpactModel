@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fast Retailing Co is aiming for higher sales in the 2025 fiscal year\" [specific target]\n• Evidence 2: \"operating profit for the year started Sept 1 to be 530 billion yen... higher than the 514.95 billion yen estimated by analysts\" [verifiable financial data]"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"expansion into newer markets in the West helped... offset a slowdown in China\" [strategic geographic focus]\n• Evidence 2: \"close under-performing stores and revamp bigger and better-located ones to drive sales in the country\" [direct strategic action plan]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Sales in China... declined in the past two quarters\" [contextual market performance]\n• Evidence 2: \"stronger-than-expected fourth-quarter results, boosted by robust growth in revenue and profit from its business across North America, Europe and countries across the Asia-Pacific\" [comprehensive regional performance breakdown]"
+  }
+}

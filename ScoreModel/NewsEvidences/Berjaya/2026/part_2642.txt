@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Spanning 32 acres of pristine beachfront... projected gross development value of US$1.12bil\" [specific, verifiable data]\n• Evidence 2: \"The financing agreement was inked by Berjaya Land Group chief executive officer...\" [direct quote from source with named individual]"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"exemplified the bank’s mission to promote Malaysia’s global footprint...\" [links to strategic national goals]\n• Evidence 2: \"RM500mil export leap scheme...\" [connects to broader economic initiatives impacting the company]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Main construction is in progress... completion is expected in July 2027\" [specific timeline and project details]\n• Evidence 2: \"provides protection for businesses expanding into strategic international markets\" [contextualizes financial support programs]"
+  }
+}

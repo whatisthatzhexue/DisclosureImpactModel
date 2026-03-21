@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TA Research... said: \"Looking ahead, we remain positive on the POCE segment’s growth trajectory...\" (verifiable analyst quote)\n• Evidence 2: \"BM Greentech Bhd... contributed 76.5% or RM73.6mil to segmental pre-tax profit\" (specific financial data with source)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources’ margins were also expected to normalise for the integrated livestock (ILF) segment in FY26\" (directly ties to strategic margin optimization)\n• Evidence 2: \"the group remains on track to achieve its FY27 target of 700 outlets\" (strategic expansion goal with market impact)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Notably, branded eggs currently account for 20% of total eggs sold\" (specific data supporting margin strategy analysis)\n• Evidence 2: \"the group’s plan to divest in the palm oil business is still underway\" (contextualizes business restructuring efforts)"
+  }
+}

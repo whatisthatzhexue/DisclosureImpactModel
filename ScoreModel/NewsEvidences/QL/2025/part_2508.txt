@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM550mil allocation for tourism promotion in Budget 2025\" (verifiable fiscal data)\n• Evidence 2: \"MIDF Research\" cited as source for economic analysis (credible institutional source)"
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"convenience stores like Family Mart which are operated by QL Resources Bhd\" (direct company mention)\n• Evidence 2: \"benefit from heightened demand for on-the-go meals...\" (strategic business impact analysis)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM764.9bil in 2024... up from RM720.8bil in the previous year\" (comprehensive economic context)\n• Evidence 2: \"unemployment rate dropped to 3.1%... labour force participation rate edged up to 70.6%\" (multi-dimensional economic analysis)"
+  }
+}

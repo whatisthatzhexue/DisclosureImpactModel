@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The group will be monitoring prevailing global and local political developments...\" (direct quote from company statement)\n• Evidence 2: \"The group recorded a net loss of RM147.8mil...\" (specific, verifiable financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The performance of the domestic business segments...expected to improve...\" (directly ties to strategic business factors)\n• Evidence 2: \"closure of legal number forecast operators...may result in proliferation of illegal operators\" (strategic risk assessment for business operations)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue dipped 3.8% to RM2.46bil...\" (specific financial metrics with context)\n• Evidence 2: \"For the full FY24...revenue rose 4.5%...\" (comparative analysis across periods)"
+  }
+}

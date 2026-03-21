@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"MPSepang will begin issuing notices to compel compliance and licensing.\" (direct quote with verifiable data)\n• Evidence 2: \"MPSepang collected RM437,800 in towing fees and RM159,200 in related fines, totalling RM597,000.\" (specific financial figures and timeframe)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article focuses on municipal enforcement actions unrelated to Berjaya Food Berhad's operations, business strategies, or financial performance.\n• Evidence 2: No direct mention of the company, its stakeholders, or factors impacting its competitive position or long-term value creation."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The purpose of these licences is not only to generate revenue for the council but more importantly, to regulate the factories’ operations.\" (contextual explanation of enforcement actions)\n• Evidence 2: Detailed breakdown of towing operations (1,990 vehicles, RM597,000 revenue, 2,086 cases) and depot locations (Cyberjaya, Bandar Baru Salak Tinggi, Dengkil)."
+  }
+}

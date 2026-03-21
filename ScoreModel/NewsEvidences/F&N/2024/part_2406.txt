@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI tumbled on Wednesday, mirroring the performance of its regional peers\" (verifiable market data).\n• Evidence 2: \"MSCI's broadest index of Asia-Pacific shares outside Japan is 0.3% lower\" (citing a credible index provider)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N rose 24 sen to RM30\" (mentions the company but provides no strategic context).\n• Evidence 2: No discussion of Fraser & Neave's business performance, competitive position, or long-term value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Losers trailed gainers 825 to 283, while 433 counters traded unchanged. Volume was almost three billion shares valued at RM3.33bil\" (comprehensive market data).\n• Evidence 2: \"Elsewhere in the region...\" (provides regional context but lacks analysis of specific company impacts)."
+  }
+}

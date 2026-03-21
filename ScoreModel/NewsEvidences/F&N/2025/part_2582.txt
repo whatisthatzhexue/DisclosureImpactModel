@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data points such as the FBM KLCI index movement (slid 3.47 points, or 0.22% to 1,573.73) and trading volume (three billion shares, valued at RM3.06bil).\n• Evidence 2: It reports balanced market activity (sellers led gainers by 654 to 314) and includes objective financial metrics without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a decliner, noting its 26 sen drop to RM25.54, which is relevant to investors.\n• Evidence 2: However, it lacks analysis of F&N's strategic implications, competitive positioning, or long-term value creation factors."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes comprehensive market data (e.g., regional indices, funds flow, and trading volumes) and specific stock price movements for multiple companies.\n• Evidence 2: It provides quantitative details (e.g., 491 counters traded unchanged, RM169mil net seller activity) but lacks contextual analysis or deeper insights into market drivers."
+  }
+}

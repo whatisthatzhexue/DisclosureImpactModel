@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Through our Sesama Mara (community investment) initiative, Air Selangor is committed to reaching out to vulnerable communities...\" (direct quote with verifiable data)\n• Evidence 2: \"Box of Hope contributions can be made at five locations...\" (specific, actionable information with URLs)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"It hopes the assistance helps strengthen its relationship with communities...\" (links to stakeholder engagement)\n• Evidence 2: \"Under the same initiative, Air Selangor has distributed...\" (connects to CSR strategy but lacks financial/competitive impact analysis)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"8,583 underprivileged families... since June 2020\" (quantitative data with timeframe)\n• Evidence 2: \"Digital version... www.airselangor.com/boxofhope/\" (specific implementation details)"
+  }
+}

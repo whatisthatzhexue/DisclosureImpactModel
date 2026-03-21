@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"If all requirements are met, approval can be given almost immediately,\" he said.\n• Evidence 2: \"A total of 812 applications were rejected because the proposed works did not qualify as minor renovations.\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article focuses on a municipal council's digital system, which is unrelated to Berjaya Food Berhad's operations or strategic direction.\n• Evidence 2: No mention of the company's business performance, financial implications, or market impact."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The applications can be completed in about five minutes... manual applications typically take between 15 and 20 minutes,\" providing quantitative context.\n• Evidence 2: Details about system recognition, future expansion plans, and operational benefits (e.g., reduced physical storage) are included."
+  }
+}

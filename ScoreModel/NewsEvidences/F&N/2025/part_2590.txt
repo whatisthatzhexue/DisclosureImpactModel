@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The FBM KLCI erased earlier gains by midday as investors continued to take profit following a six-day rally in the closing days of 2024.\" (specific market data)\n• Evidence 2: \"Turnover was 2.4 billion shares valued at RM1.48bil.\" (verifiable transaction data)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N shedding 46 sen to RM27.72\" (direct company mention)\n• Evidence 2: \"Investors continue to tread cautiously amid... Federal Reserve... Trump administration\" (external factors impacting market sentiment)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"506 gainers compared to 476 decliners\" (market context)\n• Evidence 2: \"Singapore's Straits Times fell 1.71%... Japan's stock exchange remained closed\" (broader regional context)"
+  }
+}

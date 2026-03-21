@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Prime Minister Datuk Seri Anwar Ibrahim is expected to grace the national-level celebration and deliver a keynote address\" (verifiable event with specific details).\n• Evidence 2: \"Asean Day is celebrated annually on Aug 8 to commemorate the inception of Asean in 1967\" (factually accurate historical context)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or any business-related activities.\n• Evidence 2: The focus is entirely on Asean diplomatic efforts and regional events, unrelated to the company's strategic direction or financial performance."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Malaysia's leadership and achievements during its chairmanship, including efforts to enhance regional integration across Asean’s three core pillars\" (comprehensive coverage of key initiatives).\n• Evidence 2: \"Asean Day symbolises the enduring commitment of South-East Asian nations to peace, progress and unity\" (contextual analysis of the event's significance)."
+  }
+}

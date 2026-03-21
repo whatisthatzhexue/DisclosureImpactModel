@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI ended 12.12 points, or 0.75% lower at 1,612.13, with 21 of the component stocks ending lower.\" (verifiable market data)\n• Evidence 2: \"TA Securities said...\" and \"Hong Leong Investment Bank Research said...\" (credible institutional sources cited)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N declined 44 sen to RM29.98\" (direct company mention)\n• Evidence 2: \"investors grapple with earnings uncertainty for the upcoming August results season\" (indirectly relates to company performance factors)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Losers led gainers 1,162 to 127, while 271 counters were unchanged. Traded volume stood at 2.62 billion worth RM1.7bil.\" (comprehensive market data)\n• Evidence 2: \"Index supports are at 1,616, 1,608 and 1,586...\" (technical analysis and historical context)"
+  }
+}

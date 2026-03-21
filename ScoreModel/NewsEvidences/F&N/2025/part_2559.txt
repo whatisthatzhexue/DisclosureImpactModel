@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI's 17.68-point surge and specific stock price movements (e.g., Gamuda rising 7.73%)\n• Evidence 2: It cites credible sources like Bursa Malaysia and MSCI, and maintains a balanced tone by reporting both gains and declines in stocks"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave (F&N) as a component stock, noting its 44 sen rise, which connects to the company's stock performance\n• Evidence 2: While it discusses market trends affecting the broader index, it lacks analysis of how these trends specifically impact the company's strategic direction or competitive position"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes comprehensive data on market activity (e.g., 2.5 billion shares traded, RM2.41bil valuation) and detailed stock contributions to the index\n• Evidence 2: It provides context about U.S. tariffs and regional market comparisons, though it stops short of deeper analysis of corporate strategies or long-term implications"
+  }
+}

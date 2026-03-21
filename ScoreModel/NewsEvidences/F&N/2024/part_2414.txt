@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data points such as the FBM KLCI's 0.04% gain, trading range (1,605.69-1,614.69), and volume (RM2.8bil) with no apparent fabrication.\n• Evidence 2: It cites Bursa Malaysia as the source for market data and includes balanced reporting on both gains and losses, with no evident bias."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave (F&N) as a losing stock, which is relevant to the company's stakeholders.\n• Evidence 2: It discusses broader market trends (e.g., foreign investment flows, regional indices) that could indirectly impact the company's performance but lacks direct linkage to strategic initiatives or competitive positioning."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes comprehensive market data, such as 285 gainers, 768 losers, and detailed stock price movements (e.g., Panasonic +24 sen, Nestle -RM1.80), providing context for the session.\n• Evidence 2: It explains foreign/local investor activity and forex movements, offering sufficient detail to assess market dynamics, though it lacks deeper analysis of underlying factors."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Seremban 2 was master-planned with a comprehensive mix of residential, commercial, light industrial, educational and recreational amenities\" (specific, verifiable data about township design).\n• Evidence 2: \"Over 80% of the township already developed\" (quantifiable progress metric)."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"IJM Land remains committed to the same promise it made 30 years ago — to build more than homes\" (direct company strategic vision).\n• Evidence 2: \"Ikon Residences represents the next chapter in Seremban 2’s journey as a modern lifestyle hub\" (future-oriented strategic development)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"From the very beginning, Seremban 2 was planned as a vibrant extension to the congested Seremban town\" (historical context and strategic positioning).\n• Evidence 2: \"24.28ha of parks and green spaces\" (detailed environmental and community infrastructure data)."
+  }
+}

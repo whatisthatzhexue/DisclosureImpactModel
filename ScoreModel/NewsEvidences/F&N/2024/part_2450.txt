@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The 30-stock index rose 9.85 points to 1,554.56, with 20 of the KLCI constituents ending higher while five closed lower.\" (specific, verifiable data)\n• Evidence 2: \"Foreign funds and retailers were net sellers on Monday disposing of equities worth RM92mil and RM35mil respectively.\" (clearly sourced market activity)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N was the top gainer, jumping 44 sen to RM29.66\" (direct company mention relevant to investors)\n• Evidence 2: \"Local institutions emerged as net buyers with total purchases valued at RM127mil\" (market activity impacting company valuations)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In the broader market, gainers outnumbered decliners 505 to 484, while 479 counters remained unchanged. Turnover stood at 4.3 billion shares worth RM2.93bil.\" (comprehensive market data)\n• Evidence 2: \"The ringgit was quoted at 4.6792, up 0.06% against the US dollar\" (contextual financial market information)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CGS International (CGSI) Research said it is still positive on Power Root’s local revenue growth...\" (credible source cited)\n• Evidence 2: \"The research house said it expected Power Root to only deliver a three-year compounded annual growth rate (CAGR) of 2%...\" (specific data with verifiable context)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Its Middle East sales were expected to stay flat...looks to cooperate with other distributors\" (strategic shift in distribution strategy)\n• Evidence 2: \"local revenue is expected to expand at a three-year CAGR of 8%...improved macroeconomic trends\" (direct link to strategic growth drivers)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"CGSI Research said the company had managed to lock in pricing for most of its raw materials till next March...\" (specific operational detail)\n• Evidence 2: \"maintained its 'hold' call for the stock with a lower target price...\" (market impact analysis with financial implications)"
+  }
+}

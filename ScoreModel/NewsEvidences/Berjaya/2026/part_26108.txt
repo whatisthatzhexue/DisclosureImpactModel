@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BlackBerry Ltd has opened its Secure Communications division’s Asia Pacific (APAC) regional headquarters in Malaysia\" [verifiable fact via press release]\n• Evidence 2: \"Bernama\" [credible Malaysian news agency cited as source]"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"supports both BlackBerry’s regional growth strategy and Malaysia’s national priorities\" [direct link to company strategy]\n• Evidence 2: \"implementation of sovereign, military-grade communications\" [strategic alignment with market demands]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"expansion includes a new sales and marketing office, as well as a dedicated regional support centre staffed by over 50 technical experts\" [specific operational details]\n• Evidence 2: \"following the launch of the Malaysian Communications and Multimedia Commission (MCMC) and BlackBerry Cybersecurity Center of Excellence (CCoE)\" [contextual background]"
+  }
+}

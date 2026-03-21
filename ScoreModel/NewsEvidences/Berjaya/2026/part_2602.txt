@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, it said Tee Ming...\" (official disclosure source)\n• Evidence 2: \"He holds a Bachelor of Science degree...\" (verifiable educational background)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The appointment follows the resignation...\" (links to leadership transition)\n• Evidence 2: \"He has over 16 years of experience...\" (connects to potential strategic value)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"He was appointed senior general manager...\" (provides career trajectory context)\n• Evidence 2: \"At 5pm on Wednesday...\" (includes market reaction data)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites BERNAMA as the source, a credible news agency.\n• Evidence 2: It provides verifiable data (e.g., FBM KLCI fell 0.6%, turnover of RM656.5 million) with no fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text mentions Fraser & Neave Holdings Bhd (F&N) as a stock that fell 32 sen to RM35.48, but no strategic context is provided.\n• Evidence 2: No discussion of F&N's business performance, competitive position, or long-term value creation is included."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: Comprehensive coverage of market breadth, sector performance, and key stock movements (e.g., Financial Services Index dropped 146.26 points).\n• Evidence 2: Detailed data on turnover, price changes, and index movements, though limited analysis of underlying causes is provided."
+  }
+}

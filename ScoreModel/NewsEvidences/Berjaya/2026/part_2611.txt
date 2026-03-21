@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Dow Jones Industrial Average rose 0.16% to 48,442.41, the S&P 500 gained 0.46% to 6,909.79 and the Nasdaq Composite gained 0.57% to 23,561.84.\" (verifiable financial data)\n• Evidence 2: \"Berjaya Research Sdn Bhd said...\" and \"Rakuten Trade believes...\" (credible analyst sources with balanced outlooks)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad is a food and beverage company listed in Malaysia.\" (company context provided, but no strategic analysis)\n• Evidence 2: No direct mention of Berjaya Food Berhad's business performance, competitive position, or strategic initiatives in the article."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The FBM KLCI slipped 1.19 points...\" and \"the next resistances are located at 1,675-1,680 points.\" (specific market data and technical analysis)\n• Evidence 2: \"The ringgit has strengthened to 4.06 against the US dollar...\" (contextual economic factors influencing market behavior)"
+  }
+}

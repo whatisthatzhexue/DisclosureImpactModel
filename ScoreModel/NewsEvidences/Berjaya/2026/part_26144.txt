@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A friend knew I was looking for a job and he also knew I had a passion for art. He offered me a gig painting a mural at a cafe in Putrajaya during the Movement Control Order (MCO).\" (specific event and context)\n• Evidence 2: \"I started joining art and drawing contests, and after winning a few, I used the prize money to buy an iPad Pro.\" (verifiable actions and outcomes)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The focus is entirely on an individual's career transition, unrelated to the company's business activities or market position."
+  },
+  "Depth": {
+    "score": 2,
+    "justification": "• Evidence 1: The article provides detailed personal anecdotes about Nasuha Ibrahim's artistic journey but lacks any context about Berjaya Food Berhad's operations, industry position, or financial performance.\n• Evidence 2: No data or analysis is provided regarding the company's business strategies, market impact, or stakeholder relevance."
+  }
+}

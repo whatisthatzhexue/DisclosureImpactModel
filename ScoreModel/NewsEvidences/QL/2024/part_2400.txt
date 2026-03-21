@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Shein reported US$23bil (RM109bil) in revenue and US$800mil (RM3.8bil) in net profit in 2022, according to The Wall Street Journal.\"\n• Evidence 2: \"A recent lawsuit filed by Japanese retail giant Uniqlo over an alleged copycat bag design is one of a slew of intellectual property disputes involving Shein.\"\n• Evidence 3: \"The French parliament last week approved measures to make low-cost fast fashion less attractive to customers, especially because of sustainability concerns.\"\n• Evidence 4: \"Shein says it conducts regular third-party audits to ensure fair wages...\"\n• Evidence 5: \"The only reason Shein is able to get away with this is because they're extremely agile...\""
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Shein moved its headquarters to Singapore between 2021 and 2022 to dodge increasing global scrutiny of Chinese firms...\"\n• Evidence 2: \"Still, it benefits from China's unique combination of a massive low-cost textile manufacturing industry with highly developed e-commerce technology and logistics networks.\"\n• Evidence 3: \"Shein offered an astounding 1.5 million different apparel items for sale last year... far surpassing pioneering Spanish fast-fashion brand Zara...\"\n• Evidence 4: \"This on-demand strategy depends heavily on a tightly engineered supply chain of more than 5,000 third-party manufacturers...\"\n• Evidence 5: \"The company ranks suppliers by their flexibility and ability to deliver urgent orders...\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Shein has been accused of using factories staffed by underpaid and overworked garment makers, and of causing widespread harm to the environment.\"\n• Evidence 2: \"The company ranks suppliers by their flexibility and ability to deliver urgent orders, and regularly eliminates the poorest performers, according to a 2021 Zhongtai Securities report.\"\n• Evidence 3: \"Shein's on-demand strategy... avoids 'the pitfalls of overproduction'...\"\n• Evidence 4: \"The world's biggest fast fashion brands... have come under fire in recent years for alleged labour exploitation and its contribution to environmental pollution and waste.\"\n• Evidence 5: \"Shein uses the tactic to 'bombard consumers, so everywhere that you look online you'll see Shein products'...\""
+  }
+}

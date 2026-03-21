@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Malaysian Pineapple Industry Board, an agency tasked with developing the local pineapple industry, recommended that the MD2 species be used.\" (verifiable source cited)\n• Evidence 2: \"I work closely with Mardi, which is the landowner of the space my cafe is located on.\" (direct operational detail with no fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"He is in the midst of applying for a halal status for the cafe... He will be opening a second, bigger store... by the end of this year.\" (strategic expansion plans)\n• Evidence 2: \"open to the idea of expanding the cafe’s menu to include burgers and growing its business model, whether through partnership or franchising\" (forward-looking business strategy)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Cafe Nanas Montel serves up to two tonnes of pineapples in a week, with that figure doubling if there are events happening at the nearby Malaysia Agro Exposition Park Serdang (MAEPS).\" (quantitative operational data)\n• Evidence 2: \"The recipes for the dishes were developed by his wife, Fifi Norbaizura Mohd Salim... We use different components of the pineapple in our food and drinks...\" (detailed process and product differentiation)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The 30-stock index rose 13.10 points, or 0.85% to 1,549.90, its intraday high\" [verifiable market data]\n• Evidence 2: \"According to a Bloomberg poll, four out of five economists surveyed expect the overnight policy rate to remain unchanged at 3.0%\" [cited source with specific data]"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Bank Negara is expected to announce the OPR on April 8\" [policy decision impacting market environment, indirectly relevant to company operations]\n• Evidence 2: \"F&N climbed 22 sen to RM27.30\" [direct mention of company in the context of market movement]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Across the broader market, advancers outnumbered decliners 595 to 378, with 2.84 billion shares worth RM2.43bil transacted\" [comprehensive market data]\n• Evidence 2: \"Elsewhere in the region...\" [contextual regional market comparisons providing broader economic context]"
+  }
+}

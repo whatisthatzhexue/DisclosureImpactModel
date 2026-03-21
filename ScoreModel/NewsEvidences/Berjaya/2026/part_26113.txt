@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"MRT Corp’s stringent eligibility requirements – such as RM500mil worth of urban rail experience in the past decade and local manufacturing presence – helped narrow the field to heavyweights with established rail credentials.\"\n• Evidence 2: \"CIMB Research noted that \"the systems package is estimated to cost less than RM3.5bil, although the research house believe the figure could be higher after incorporating the leasing/maintenance components.\"\n• Evidence 3: \"With Siemens and Hyundai Rotem having previously assembled MRT rolling stock at the SMH Rail plant in Rawang, local assembly capacity could again prove decisive.\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The text provides no direct mention of Berjaya Food Berhad or its business operations, focusing instead on construction sector dynamics unrelated to food and beverage industry strategies.\"\n• Evidence 2: \"The article’s content pertains to infrastructure projects and does not address financial performance, market positioning, or strategic initiatives relevant to a food and beverage company.\""
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The text provides comprehensive coverage of the PML tender process, including consortium details, financial estimates (RM3.5bil), and technical specifications (rolling stock, signalling, track components).\"\n• Evidence 2: \"It includes historical context (Klang Valley rail projects), competitive analysis (MRCB’s LRT3 progress), and forward-looking insights (localisation strategies and long-term maintenance obligations).\""
+  }
+}

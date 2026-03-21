@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Sunway Bhd plans to buy a 17.58-acre... RM320mn' (specific, verifiable data)\n• Evidence 2: 'KIP REIT has secured shareholders’ approval... RM320mn' (clear financial figures with direct company action)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Sin-Kung Logistics Bhd is diversifying... RM20.7mn cash' (strategic diversification move)\n• Evidence 2: 'Jentayu Sustainables Berhad... 162-megawatt hydropower plant' (long-term value creation via renewable energy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Google held a groundbreaking ceremony... first data centre in Malaysia' (specific project details)\n• Evidence 2: 'MMAG Holdings Bhd has been classified... going concern' (context about financial uncertainty)"
+  }
+}

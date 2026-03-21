@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"F&N holds the top position in ready-to-drink tea, carbonated soft drinks, evaporated milk and sweetened condensed milk in Malaysia.\" [verifiable market position]\n• Evidence 2: \"MIDF Research has maintained a \"buy\" call on the stock with a revised target price of RM37\" [specific financial recommendation from credible source]"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This will be underpinned by strong OOH beverage consumption... visa-free exemptions... lower raw material costs... shift in consumer preferences\" [direct link to strategic drivers]\n• Evidence 2: \"F&N’s plan to launch an integrated upstream fresh milk business... Phase 1 aiming to produce 100 million litres...\" [strategic initiative impacting long-term value]"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The research house expressed optimism on F&N’s plan to launch an integrated upstream fresh milk business... target of achieving total production of 200 million litres\" [detailed production roadmap]\n• Evidence 2: \"F&N’s parent company... holds stakes in Vinamilk... offer valuable market insights\" [contextual background on corporate strategy]"
+  }
+}

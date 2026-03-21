@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, the construction firm said...\" (credible source cited)\n• Evidence 2: \"Barring any unforeseen circumstances...\" (balanced, factual statement without bias)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The contract is expected to contribute positively towards the future earnings...\" (financial implication)\n• Evidence 2: \"The group intends to fund the contract via internally generated funds...\" (funding method relevant to business operations)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"RM67.79mil... 64 units of semi-detached houses... 20 months...\" (specific quantitative details)\n• Evidence 2: \"The contract will not have any effect on the share capital...\" (context about shareholder impact)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Let me discuss it. Yes, it is the Prime Minister's discretion...\" (direct quote from Anwar showing factual reporting)\n• Evidence 2: \"I will make the final decision in the near future\" (balanced tone with no fabrication or bias)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its operations\n• Evidence 2: Focus on political Cabinet appointments unrelated to food industry policies or company-specific information"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"vacancies in the Madani government's Cabinet are for the ministries covering Economy...\" (specific context provided)\n• Evidence 2: \"current considerations show there is no need for sweeping changes\" (limited analytical depth on implications)"
+  }
+}

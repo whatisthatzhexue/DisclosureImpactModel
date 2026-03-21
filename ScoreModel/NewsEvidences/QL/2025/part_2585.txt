@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Samsung Electronics launched its latest lineup of Neo QLED 8K TVs today (May 14), with artificial intelligence (AI)-powered features headlining the range.\"\n• Evidence 2: \"According to Samsung Malaysia Electronics president Denny Kim, the company has been investing in AI research for over a decade.\""
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our 2024 screen lineup comes with on-device AI and intelligent integration across devices, allowing you to upscale your experience.\"\n• Evidence 2: \"To complement these exceptional AI viewing experiences, our latest sound devices also offer industry-first sound technologies...\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The TV’s NQ8 AI Gen3 processor powers features such as 8K AI Upscaling Pro, which upscales low-resolution content, and AI Motion Enhancer Pro...\"\n• Evidence 2: \"The Neo 8K QN800D comes in two screen sizes, 75in (RM24,999) and 85in (RM32,999)...\""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our popular buffet is made possible by the commitment and contributions of our team.\" (quote from TGCR executive director)\n• Evidence 2: \"This has been our practice for more than 10 years.\" (quote from TGCR executive director)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The charitable initiatives are underscored by the foundation and TGCR’s commitment to uplift underprivileged segments with F&N, a newly inducted sponsor.\" (links to corporate social responsibility)\n• Evidence 2: \"This year, we invited children from four homes to buka puasa with us.\" (mentions long-term practice but lacks direct financial/strategic implications)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Ramadan buffet has 23 live cooking stations. The buffet showcases signature dishes such as...\" (detailed event description)\n• Evidence 2: \"Until April 7, the Santapan 29 Malam... is featuring ghazal performances and a kampung house.\" (specific event context and duration)"
+  }
+}

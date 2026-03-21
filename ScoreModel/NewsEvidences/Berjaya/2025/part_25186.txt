@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"3,206 parking bays were involved in this initiative.\" (specific, verifiable data)\n• Evidence 2: \"Under Road Transport Orders... 50sen per hour while monthly passes cost RM74.20.\" (explicitly cites legal framework and pricing)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its operations.\n• Evidence 2: Focus on local municipal infrastructure management rather than business strategies or financial performance of the company."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Areas affected include...\" (specific location details)\n• Evidence 2: \"The total number of paid public parking space... 25,380 bays\" (quantitative context about council's jurisdiction)"
+  }
+}

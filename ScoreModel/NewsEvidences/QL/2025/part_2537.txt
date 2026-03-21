@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MIDF Research, which has upgraded the consumer stocks in its base to 'positive' from 'neutral'\" (verifiable source and factual accuracy)\n• Evidence 2: \"total receipts surpassing pre-pandemic levels, reaching RM45.4bil in the first-half of 2024 compared to RM41.7bil in the same period in 2019\" (specific data with verifiable context)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources Bhd with a target price of RM4.83\" (direct company mention and strategic valuation)\n• Evidence 2: \"the strengthening ringgit will provide a buffer against elevated commodity prices... benefiting F&B and poultry players\" (connects to company's cost structure and competitive positioning)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"recent data showing July 2024 retail sales spending rising 6.6% to RM63.5bil... cumulative seven-month spending growing to RM440.8bil\" (comprehensive data on market trends)\n• Evidence 2: \"global corn and soybean meal prices will remain low in 2025... further benefiting poultry producers\" (analytical insight into supply chain dynamics)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI found its footing...ending the morning session in positive territory\" (verifiable market data)\n• Evidence 2: \"Share turnover was 2.56 billion...RM1.17bil\" (specific, quantifiable metrics)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N climbing 50 sen to RM31.26\" (direct mention of the company's stock performance)\n• Evidence 2: \"Asian markets were mixed...\" (contextual market trends impacting the company's sector)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Nestle adding RM1.80...Dutch Lady jumping RM1.10...\" (specific stock movements)\n• Evidence 2: \"Shanghai Composite Index...Kospi rose 0.2%...\" (broader market context but lacks analysis)"
+  }
+}

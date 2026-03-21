@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"FBM KLCI rose 6.89 points, or 0.45%, to close at 1,523.84\" (specific, verifiable data)\n• Evidence 2: \"Foreign investors and retailers were net sellers of RM81mil and RM17mil, respectively, while local institutions emerged as net buyers of RM98mil, according to Bursa Malaysia data\" (credible source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N jumped 64 sen to RM28.44\" (direct company mention, but no strategic context)\n• Evidence 2: \"Consumer stocks led the gainers\" (general market observation, no link to company-specific strategic factors)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The benchmark index moved between an intraday high of 1,530.85 and a low of 1,520.86\" (specific market data)\n• Evidence 2: \"Trading activity was brisk, with 3.3 billion shares traded, worth RM2.6bil\" (quantitative detail, but no analytical insight into implications for stakeholders)"
+  }
+}

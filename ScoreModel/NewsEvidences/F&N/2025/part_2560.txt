@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI closed the first quarter in the red, sliding 7.83% as persistent market uncertainties and cautious investor sentiment weighed on performance.\" (factual accuracy with verifiable data)\n• Evidence 2: \"Reuters reported that South Korea and Thailand led the decline...\" (credible source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N, which surged 34 sen to RM24.30\" (direct company mention relevant to stakeholders)\n• Evidence 2: \"U.S. tariffs and their potential impact on global trade\" (connects to macroeconomic factors affecting the company's operations)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Market breadth turned negative as losers outpaced gainers on a 563-to-395 ratio, while traded volume dropped to 2.25 billion shares worth RM2.13bil\" (comprehensive quantitative details)\n• Evidence 2: \"Nestle fell 74 sen to RM74.30, PETRONAS Dagangan slid 72 sen to RM18.28...\" (detailed stock price movements and context)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Maybank Investment Bank Research (Maybank IB)\" (credible source cited)\n• Evidence 2: \"62% of its consumer coverage had increased ESG scores\" (specific, verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL Resources Bhd\" (direct company mention in ESG disclosure context)\n• Evidence 2: \"Sara’s allocation will rise to approximately RM9.9bil in 2026\" (market impact tied to company relevance)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"62% of its consumer coverage had increased ESG scores... five stocks have below-average ESG scores\" (comprehensive data on ESG trends)\n• Evidence 2: \"Sara’s allocation will rise... key beneficiaries among stocks under our coverage\" (detailed analysis of market implications)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"UKM is the first public university to open this offshore centre.\" (quotes official statement)\n• Evidence 2: \"These will cover various fields such as information technology, law, engineering, education, medicine and pharmacy.\" (specific program details)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: \"Focus on UKM's educational initiatives unrelated to food and beverage industry strategies.\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Collaborative workshops between UKM and its partners...\" (context of program development)\n• Evidence 2: \"Programmes will be more flexible, focusing on courses that can be conducted online and through distance learning.\" (specific program features)"
+  }
+}

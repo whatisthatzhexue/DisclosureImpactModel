@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Studies have shown that people get lured into deviant teachings due to several factors...\" (quotes academic research)\n• Evidence 2: \"While 'brainwashing' techniques... have been associated with such groups...\" (references established psychological concepts)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business operations\n• Evidence 2: Content focuses on psychological phenomena unrelated to food/beverage industry strategies or market performance"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Typically, deviant groups were fringe belief systems... developed, perpetuated or enforced by a singular, charismatic leader\" (comprehensive analysis of group dynamics)\n• Evidence 2: \"Sexual abuse in such group occur among children... rape is not about sex, it is about power...\" (detailed explanation of abuse mechanisms)"
+  }
+}

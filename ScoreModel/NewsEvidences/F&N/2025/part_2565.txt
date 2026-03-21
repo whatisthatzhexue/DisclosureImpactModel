@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., \"FBM KLCI fell 11.90 points, or 0.75%, to 1,574.70\") with specific numerical details.\n• Evidence 2: The tone is neutral, presenting factual outcomes without fabrication or bias, such as stating \"bears were in better control\" based on market breadth."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a major decliner, stating \"F&N, which declined RM1.14 to RM25\".\n• Evidence 2: However, it lacks analysis of how broader market trends impact the company's strategic direction, competitive position, or long-term value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text comprehensively covers market activity, including stock performance (e.g., \"862 to 257\" stocks fell vs. rose), trading volumes (\"4.4 billion shares\"), and regional market trends.\n• Evidence 2: It provides detailed data on individual stocks (e.g., Nestlé, PETRONAS Dagangan) and forex movements but lacks contextual analysis or background on underlying economic factors."
+  }
+}

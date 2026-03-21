@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Thai Beverage Pcl (ThaiBev) will offload its entire stake in Singapore-based Frasers Property Ltd to an asset holding company also owned by the billionaire, a Singapore stock exchange filing showed yesterday.\"\n• Evidence 2: \"ThaiBev’s 28.78% stake in Frasers Property will be reduced to zero after the transaction, which is subject to approval from shareholders at an EGM in Thailand.\""
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The proposed transaction will 'cement our pure-play status by exiting the property business,' ThaiBev chief financial officer Prapakon Thongtheppairot said in the statement.\"\n• Evidence 2: \"ThaiBev’s stake in F&N will increase to 69.61% from 28.31%\" (directly linking to strategic focus on food and beverage)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Shares of F&N in Singapore jumped 22% yesterday, the biggest intraday gain since 2013, to S$1.30\" (provides market impact data).\n• Evidence 2: \"ThaiBev rose as much as 3% to the highest since June 11 after a trading halt was lifted in Singapore\" (contextualizes market reactions)."
+  }
+}

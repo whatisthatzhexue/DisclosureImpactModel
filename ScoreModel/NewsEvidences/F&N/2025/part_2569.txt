@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI closed at its intraday high as investors snapped up bargains...\" (verifiable data on index performance)\n• Evidence 2: \"According to data on Bursa Malaysia...\" (cites credible source for trading volume and investor activity)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N, which rose 46 sen to RM26.46\" (direct mention of the company as a top gainer, relevant to investors)\n• Evidence 2: \"Foreign investors continued to sell local stocks...\" (market activity impacting company valuation, though not tied to specific strategic factors)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"About three billion shares, valued at RM2.63bil, changed hands\" (detailed market activity data)\n• Evidence 2: \"Top gainers... included PETRONAS Dagangan, Nestlé, United Plantations, and F&N\" (comprehensive coverage of market movements with specific examples)"
+  }
+}

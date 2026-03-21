@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The participants of the event will be wearing Batik Malaysia and the event also aims to promote the country and the upcoming Visit Malaysia 2026,\" said Miss Malaysia Tourism Pageant president Tan Sri Danny Ooi.\n• Evidence 2: The article provides specific dates (Sept 4 and December) and locations (Sunway Lagoon Hotel, Berjaya Times Square) but does not clarify if the two events (Miss Tourism International 2024 World Final and Miss Malaysia Tourism 2024 finals) are separate or conflicting."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The event will be jointly organised by D’Touch International Sdn Bhd and MyShoppo Sdn Bhd and will take place at Berjaya Times Square.\" (Indirectly links to Berjaya Group's assets but lacks strategic context)\n• Evidence 2: No mention of financial implications, market impact, or how the event aligns with Berjaya Food Berhad's business strategy or long-term goals."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Among the prizes for the winner... RM63,000.\" (Provides specific prize details but lacks analysis of their significance)\n• Evidence 2: Lists event dates, participants, and organizers but does not contextualize the event's broader implications for the company or industry."
+  }
+}

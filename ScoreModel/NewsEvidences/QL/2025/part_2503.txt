@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The number of cyberattacks... 2023. And that’s in Malaysia alone.\" (verifiable data on cyberattack growth)\n• Evidence 2: \"Cyber Security Malaysia (CSM) chief executive officer Datuk Dr Amirudin Abdul Wahab...\" (cited credible source with official title)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Malaysia needs a 25,000-strong cybersecurity workforce...\" (indirectly relevant to national cybersecurity strategy, but no direct link to QL Resources)\n• Evidence 2: \"The Malaysia Cybersecurity Strategy 2020-2024...\" (general policy context, no company-specific strategic connection)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The main job of an ethical hacker... immersive, real-world simulations.\" (detailed explanation of ethical hacking roles and education)\n• Evidence 2: \"AI can also be used to find counter-measures...\" (specific examples of emerging technologies in cybersecurity)"
+  }
+}

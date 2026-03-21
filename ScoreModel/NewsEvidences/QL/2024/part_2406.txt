@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the benchmark FBM KLCI was up 1.12 points to 1,534.67\" (verifiable numerical data)\n• Evidence 2: \"Trading volume was 2.12 billion shares changing hands for RM1.01bil\" (specific, factual market activity)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"QL Resources gained seven sen to RM5.87\" (direct company mention with stock price movement)\n• Evidence 2: No analysis of QL Resources' strategic direction, competitive position, or financial implications beyond price changes"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Recent US economic data suggested the central bank could be keeping interest rates elevated\" (contextual background)\n• Evidence 2: \"In Asian markets, China's mainland stock exchange reopened...\" (broader market context but lacks in-depth analysis of QL Resources' specific situation)"
+  }
+}

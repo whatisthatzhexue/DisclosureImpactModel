@@ -1,0 +1,1755 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"This will add additional water reserve margin, especially to the Klang region...\" (direct quote with verifiable data)\n• Evidence 2: \"The water reserve margin in 2023 has increased to 15.34% from 12.02% in 2022\" (specific, measurable data with clear timeframe)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This will reduce the risk to the Klang region\" (directly ties to company's strategic impact on regional water security)\n• Evidence 2: \"We have received water applications from data centres...\" (shows forward-looking strategic engagement with emerging sectors)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The completion of the Sungai Rasau treatment plant... will mitigate the impact on water supply\" (provides context for the project's significance)\n• Evidence 2: \"increase in distributable capacity of 250 million litres per day...\" (specific technical details supporting claims)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: Specific financial figures (RM331.7mn contract, RM42.5mn sale) are provided with no apparent fabrication.\n• Evidence 2: Events are presented factually (e.g., 'granted leave of absence', 'extended cut-off date') without editorial bias."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: Highlights strategic moves like IJM's data center contract (strategic expansion) and Northern Solar's IPO (growth funding).\n• Evidence 2: Details financial impacts (e.g., 62.7% profit surge) and market transitions (Hextar's market shift) relevant to company positioning."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Provides quantitative data (e.g., '70% net profit increase', 'RM172.5mn IPO target') to contextualize events.\n• Evidence 2: Mentions specific business drivers (e.g., 'US customer orders', 'solar street lighting systems') but lacks broader market or industry analysis."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, AR-REIT said the proposed disposal is in line with its investment objectives...\"\n• Evidence 2: \"Given the favourable price of this asset sale and leveraging on the best and highest use...\""
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"this is an opportune time to dispose of the property and to redeploy the capital towards potential yield-accretive properties\" (directly ties to strategic portfolio rebalancing)\n• Evidence 2: \"re-balance its portfolio towards new resilient and sustainable assets\" (aligns with long-term strategic objectives)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"the manager believes that after almost eight years of owning this property, it has maximised the income-generating potential...\" (provides context for decision-making)\n• Evidence 2: \"the current capacity being a typical office market that is currently in over supply\" (market analysis context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, ARREIT said the proposed disposal is in line with its investment objectives...\" (verifiable source cited)\n• Evidence 2: \"The manager believes that after almost eight years...\" (direct quote from official statement)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"re-balance its portfolio towards new resilient and sustainable assets\" (direct link to strategic direction)\n• Evidence 2: \"leverage on the best and highest use...redeploy the capital\" (connects to capital allocation strategy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"RM42.5mil\" (specific financial detail)\n• Evidence 2: \"typical office market that is currently in over supply\" (market context provided)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"97.8% of MMU graduates were able to secure employment within six months of graduation.\" (verifiable data)\n• Evidence 2: \"The latest technologies such as AI and blockchain are taught to all students.\" (specific, factual claim)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"MMU furthers this aspiration [of TM’s PWR2030] by training the future workforce...\" (direct link to TM’s strategic goals)\n• Evidence 2: \"Everything we do at MMU... is tailored towards the needs of industry.\" (alignment with business performance and market impact)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"250 inbound and 750 outbound programmes... involving nearly 1,000 students.\" (quantitative detail on global collaboration)\n• Evidence 2: \"Nearly 75,000 highly skilled graduates... 16,000 students on its campuses...\" (comprehensive coverage of scale and impact)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The tower run encapsulates our commitment to promoting a healthier lifestyle and community engagement,\" said Berjaya Corporate Communications and Sustainability deputy general manager Giam Say Khoon.\n• Evidence 2: \"The overwhelming response from the inaugural tower run has inspired us to elevate this year’s events,\" he said."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The tower run encapsulates our commitment to promoting a healthier lifestyle and community engagement,\" said Berjaya Corporate Communications and Sustainability deputy general manager Giam Say Khoon.\n• Evidence 2: Partnerships with Berjaya Starbucks Coffee Company Sdn Bhd and Berjaya Cares Foundation highlight CSR initiatives, which may align with long-term brand value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides specific details about event structure (47 storeys, 1,061 steps, categories), participation numbers (500 runners from 15 countries), and sponsorships (Berjaya Starbucks).\n• Evidence 2: Background on the inaugural event and quotes from company representatives add context, though deeper financial or market impact analysis is lacking."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The PAM Awards is not just about recognition but also about inspiring a dialogue on the future of architecture in Malaysia.\" (Quoted architect Razin Mahmood, establishing a balanced perspective)\n• Evidence 2: \"The unanimous agreement among the jury members reinforces the integrity and credibility of the awards...\" (Quotes from jury members, adding institutional credibility)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or any business-related activities, focusing solely on architectural awards and projects.\" (No connection to the company's strategic direction)\n• Evidence 2: \"The article contains no financial data, market impact analysis, or business performance factors related to the company context provided.\" (Irrelevant to stakeholder information needs)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Skyblox Co-Living Housing project...utilised the innovative PPVC method...reducing on-site waste and environmental impact\" (Detailed project description with technical and sustainability context)\n• Evidence 2: \"The jury hopes to see...projects that integrate aesthetics, functionality, sustainability and social impact...\" (Comprehensive coverage of award criteria and future expectations)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Telekom Malaysia Bhd is setting up a joint venture... RM1.2bn.\" (specific factual details)\n• Evidence 2: \"Poh Kong Holdings Bhd 's net profit jumped 51.6% YoY...\" (quantifiable data with timeframe)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Berjaya Corporation Bhd has inked two memoranda of strategic collaboration...\" (direct mention of strategic moves relevant to long-term value creation)\n• Evidence 2: \"Malayan United Industries Bhd has secured a term loan facility...\" (financial implications for competitive positioning)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"UEM Sunrise Bhd 's subsidiary... will sell its 40.0% equity stake...\" (specific transaction details and financial figures)\n• Evidence 2: \"Nestcon Bhd has bagged two high-rise building projects... RM165.6mn.\" (comprehensive coverage of project scale and value)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Axis-REIT acquired three industrial assets...\" (specific, verifiable transactions)\n• Evidence 2: \"MIDF Research... said all six REITs under its coverage reported earnings...\" (cited source with factual data)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"expanding their asset portfolio... prospects for the real estate sector improves\" (general industry trend, no direct link to Berjaya Food)\n• Evidence 2: \"earnings growth... organic growth of positive rental reversion\" (financial performance metrics, unrelated to company-specific strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RM215mil... RM1.95bil... RM320mil\" (quantitative details supporting acquisition analysis)\n• Evidence 2: \"lower property operating expenditure... higher rental income... growth in sales\" (contextual factors explaining financial performance)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Skywell is known for its production of low carbon emission vehicles, including electric buses, vans and trucks.\" (specific factual claim about Skywell's products)\n• Evidence 2: \"Founded in 1988, Skyworth is a wholly-owned subsidiary of Skyworth Group Ltd, which is listed on the Hong Kong Stock Exchange.\" (verifiable corporate background information)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"This endeavour includes exploring strategic partnerships to advance essential NEV technologies and bolster the NEV ecosystem in the country, thus enhancing the entire NEV landscape in Malaysia.\" (direct link to BCorp's strategic goals)\n• Evidence 2: \"BCorp will leverage its extensive marketing network and robust presence across key industries in Malaysia.\" (explicit connection to company's competitive positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Skywell is a unicorn enterprise integrating research and development, production, sales and service of NEVs and core components, with production bases in Shenzhen, Wuhan, Xuzhou, Hohhot and Weinan.\" (specific operational context)\n• Evidence 2: \"Malaysia, a rich and resourceful land, not only has unique natural resources, but also shows strong vitality and potential in economic development and international cooperation.\" (broader economic context but lacks quantitative data)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In a statement, the group said it was exploring a potential partnership with Skyworth Group Co Ltd...\" (direct quote from company statement)\n• Evidence 2: \"The strategic collaborations with Skyworth and Skywell herald transformative prospects...\" (quote from founder, aligns with company's official narrative)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Leveraging each other's strengths, BCorp is poised to explore using its extensive distribution network...\" (directly ties to company's strategic goals and market expansion)\n• Evidence 2: \"advance essential NEV technologies and bolster the NEV ecosystem...\" (explicitly connects to long-term value creation and industry positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"developing and implementing green energy solutions, such as residential, commercial and industrial photovoltaic systems\" (specific technical details about collaboration scope)\n• Evidence 2: \"catalyse innovation, foster sustainable development...\" (broader context of regional impact, but lacks quantitative data or historical background)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Starbucks has been and remains a non-political organisation.\" (Direct quote from company statement)\n• Evidence 2: \"We do not use our profits to fund any government or military operations anywhere – and never have.\" (Verifiable corporate policy statement)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Starbucks Malaysia was one of the foreign food and beverage outlets that were affected by the ongoing boycott...\" (Links to business impact)\n• Evidence 2: \"BFood has said that the loss was mainly due to the boycott.\" (Connects to financial performance and market dynamics)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Starbucks Malaysia also said that it does not have any stores in Israel, and has dissolved its partnership with Israel since 2003.\" (Provides historical context)\n• Evidence 2: \"Recently, on Feb 22, BFood posted a net loss of RM42.6mil...\" (Quantifiable data supporting claims)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Air Selangor has distributed 4,975 Boxes of Hope... since the \"Sesama Mara\" initiative was introduced in June 2020.\" (verifiable data)\n• Evidence 2: \"Box of Hope contributions can be made through purchases at five Village Grocer outlets.\" (specific, actionable information)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The \"Sesama Mara\" programme is a grassroots initiative aimed at assisting the surrounding community while strengthening Air Selangor’s relationships with local community... non-governmental organisations.\" (links CSR to stakeholder engagement)\n• Evidence 2: \"A team of Hydro Heroes volunteers... decorated the charity homes...\" (shows operational alignment with CSR goals)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Air Selangor donated necessities such as food, daily clothes and household items besides providing plumbing assistance...\" (comprehensive event details)\n• Evidence 2: \"These locations are Tamarind Square Cyberjaya...\" (specific context for donor engagement)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Bomb Battle Elite at Atria Shopping Gallery features four interactive games...\" (factual accuracy about attraction details)\n• Evidence 2: \"Datin Sheehan Tee, CEO and founder of Mission Group...\" (direct quote from a source, though no external verification provided)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The company’s first outlet – Bomb Battle – was launched at Berjaya Times Square’s indoor theme park...\" (indirect reference to Berjaya Group, not Berjaya Food Berhad)\n• Evidence 2: No direct mention of Berjaya Food Berhad’s strategic initiatives, financials, or competitive positioning"
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: \"There are over eight games for players to experience here...\" (surface-level details about attractions)\n• Evidence 2: \"Opening hours: 10am-10pm, daily\" (basic operational information, no contextual analysis or stakeholder impact)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fire and Rescue Department personnel rushed to a condominium unit here after a man fell unconscious.\" (verifiable factual account)\n• Evidence 2: \"The victim was rushed to Hospital Serdang for treatment but was pronounced dead at the hospital.\" (specific, time-stamped details from official source)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or any business-related context\" (complete absence of company connection)\n• Evidence 2: \"Event unrelated to food production, market operations, or stakeholder interests\" (no financial or strategic implications for the company)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Received a distress call at 10.06am on Monday\" (specific temporal context)\n• Evidence 2: \"Deployed five personnel from the Cyberjaya fire station\" (operational detail but lacks broader analysis or background context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"A lot has been happening in cancer care; it includes discovery of new medication and access to medical treatment, which will help people live longer.\" (Quotes from credible academic source)\n• Evidence 2: \"We’re also talking about (patients) surviving financially ... not only for treatment, but to put food on the table.\" (Balanced reporting with verifiable context)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business operations, strategies, or financial performance.\n• Evidence 2: The content focuses on healthcare sector discussions rather than food and beverage industry relevance."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The panel also discussed the roles of employers in supporting their workers who are diagnosed with cancer.\" (Comprehensive coverage of discussion topics)\n• Evidence 2: \"These workshops included 'Cancer Prevention, Screening and Early Detection' as well as 'Psychosocial Support and Survivorship'.\" (Contextual detail about event scope)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Cancer cases have been increasing in Malaysia, with 168,822 reported cases between 2017 and 2021, according to the Malaysian Cancer Registry.\"\n• Evidence 2: \"The ministry co-organised the event with the National Cancer Society Malaysia (NCSM)...\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or any business activities related to the company.\"\n• Evidence 2: \"The text focuses on healthcare policies, not corporate strategies or financial performance.\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"There are also university hospitals under the Higher Education Ministry that offer cancer treatment.\"\n• Evidence 2: \"The ministry aims to set up satellite radiotherapy centres in Miri and Sibu... between 2030 and 2040.\""
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"HLIB Research noted the move would add more than RM1.5bil to MRCB’s active order book of RM1.5bil, as at end-September 2023.\" (verifiable financial data)\n• Evidence 2: \"The progress timeline of the project is rather fluid and could remain so considering 100% land consideration.\" (balanced acknowledgment of uncertainty)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MRCB’s project pipeline is expected to start materialising in 2024 as the group benefits from better project pipeline visibility and value unlocking initiatives\" (direct link to strategic value creation)\n• Evidence 2: \"HLIB Research maintained a 'buy' call on MRCB with a higher sum-of-part driven target price of 70 sen per share\" (strategic financial implications)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Shah Alam Stadium redevelopment, worth some RM1bil, will likely be split into several phases to aid land monetisation with demolition phase expected to commence in 2024 and reach completion by mid-2025.\" (detailed project timeline and monetisation strategy)\n• Evidence 2: \"The Berjaya HSR Consortium... is well balanced with complementary expertise\" (comprehensive analysis of consortium structure and challenges)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We came away feeling upbeat on the prospects the group has for its IBS products.\" (RHB Research report)\n• Evidence 2: \"RHB Research estimates Gamuda’s pre-cast orderbook to be around RM300mil as of its financial year ended July 31, 2023 (FY23).\" (Verifiable financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We view its IBS capabilities may position the group to capture data centre opportunities within the Klang Valley\" (Direct link to strategic positioning)\n• Evidence 2: \"RHB Research has a new higher target price of RM6.46... considering the Johor Baru-Singapore Rapid Transit System Link\" (Strategic market impact and financial implications)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Gamuda’s plants in Banting and Sepang have a total maximum combined production capacity of about 10,000 residential units per year\" (Specific operational data)\n• Evidence 2: \"Profit before tax margins between 10% and 12%\" (Quantifiable financial analysis)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We know how to educate second-class robots...\" (direct quote from OECD director Schleicher)\n• Evidence 2: \"The Trust Schools Programme...\" (specific program name and implementation details cited)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Calls for edu reforms in M’sia\" (general discussion of education policy, no mention of Berjaya Food)\n• Evidence 2: \"Malaysia Education Blueprint (MEB) 2013-2025\" (policy framework unrelated to company operations)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In the era of generative artificial intelligence (AI)...\" (detailed analysis of AI's educational impact)\n• Evidence 2: \"Replicate trust school model...\" (comprehensive explanation of specific educational initiatives)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites verifiable details such as the AgriNXT 2023 Tech Challenge, prize amount (RM25,000), and specific technologies (IoT, sensors) used in the project.\n• Evidence 2: Quotes from the students and organizers are included, and the event's organizers (MCMC, Bioeconomy Corporation) are named, supporting factual accuracy."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its operations, strategies, or financials.\n• Evidence 2: The focus is solely on a university project and industry challenge, with no direct connection to the company's strategic direction or business performance."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides comprehensive details about the project's technical aspects (IoT, real-time monitoring, sensor data), its purpose, and future goals.\n• Evidence 2: Background on the AgriNXT challenge, collaboration with universities, and the project's potential impact on aquaculture are included, offering context and analytical insight."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"With more data centres being set up in the country...we foresee the demand for AI super servers will continue to be strong...\" [specific forecast based on market trends]\n• Evidence 2: \"As of today, SNS Network has officially transferred...1.61 billion shares...\" [verifiable factual statement about share transfer]"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Looking ahead, the future for SNS Network is bright...commercial channel remains the largest contributor...\" [direct link to strategic revenue focus]\n• Evidence 2: \"paving the way for the group to keep its plans of opening retail stores...\" [connects to long-term market expansion strategy]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Established in 1998...transformed into an ICT system and solutions provider...revenue that has surpassed the RM1bil\" [historical context and growth metrics]\n• Evidence 2: \"For FY23 and FY24...dividend payout ratio represented 9.2% and 37.8%...\" [financial performance details]"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The claims are baseless, however, the citizens should accept the fact that the country must move forward with current developments, including the use of technology,\" he stated.\n• Evidence 2: \"The MyDigital ID system won’t store any of their information,\" Mimos assured, with Adil Hidayat corroborating this by explaining the system's purpose."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article focuses on government initiatives and misinformation, with no direct mention of Berjaya Food Berhad or its operations.\n• Evidence 2: While data privacy and cybersecurity are discussed, these topics are framed as general societal issues rather than specific to Berjaya Food's strategic context."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article provides comprehensive background on the MyDigital ID initiative, including its purpose, misinformation claims, and government responses.\n• Evidence 2: It analyzes the broader implications of misinformation, citing expert opinions (Dr. Joanne Lim) and historical context (MySejahtera data breach) to contextualize public concerns."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Since 2010, Putrajaya Corporation has been at the forefront of championing the cycling culture in the city through its inter-park rides.\" (specific historical data)\n• Evidence 2: \"The journey meanders around the serene lake, guiding cyclists through the picturesque landscape of Precinct 8\" (descriptive accuracy without fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or any business operations related to the company\" (complete absence of company context)\n• Evidence 2: \"Text focuses on tourism infrastructure in Putrajaya, unrelated to food/beverage industry strategies\" (no connection to company's strategic direction)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Detailed description of cycling routes, landmarks, and event history (2010-present)\" (comprehensive coverage)\n• Evidence 2: \"Includes specific locations (New Millennium Monument, Tuanku Mizan Zainal Abidin Mosque) and experiential details (sunrise rides, cafe stops)\" (nuanced context about the cycling experience)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Angus Liew, the chairman of Vietnam operations for Gamuda Land, said the team in Vietnam has been given a mandate to acquire more land, with a budget of US$800mil (RM3.7bil) over the next five years for the whole of Vietnam.\" (verifiable financial commitment)\n• Evidence 2: \"MIDF Research is maintaining its target price of RM6.83 with a 'buy' recommendation\" (citable source and analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Gamuda’s strategy in Vietnam is to build high-end properties, which appeals to the younger generation...\" (direct strategic direction)\n• Evidence 2: \"We continue to like Gamuda for its exposure and being a front runner of crucial infrastructure projects...\" (connects to long-term value creation and market impact)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Meadow is a rare landed residential project featuring 212 townhouses and villas...\" (specific project details and context)\n• Evidence 2: \"Springville is located in the Nhon Trach District... totalling 426 townhouse and shophouse units...\" (quantitative data and location context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"PLUS Malaysia Bhd (PLUS) will activate a contraflow lane...\" [specific, factual statement]\n• Evidence 2: \"Get the latest traffic information via X@plustrafik...\" [credible source citation]"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text focuses on highway maintenance operations unrelated to Berjaya Food Berhad's business activities.\n• Evidence 2: No mention of financial implications, market impact, or strategic initiatives relevant to the company context."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The paving works will take place from 9pm on Monday...\" [specific temporal details]\n• Evidence 2: \"Those from Puchong...can use the U-turn...\" [comprehensive route instructions]"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a joint statement today, FTSE Russell and Bursa Malaysia Bhd said the changes were made following the semi-annual review of the FTSE Bursa Malaysia Index Series, which was done in accordance with the index ground rules.\"\n• Evidence 2: \"All constituent changes take effect on June 24, 2024, with the next review taking place in December 2024.\""
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The FTSE Bursa Malaysia KLCI reserve list... comprises the five largest non-constituents...\" (no direct mention of Berjaya Food Berhad)\n• Evidence 2: \"The benchmark index is also tracked by several index-linked financial products...\" (no connection to Berjaya Food's strategic priorities)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The FTSE Bursa Malaysia Mid 70 Index saw nine inclusions... and exclusions...\" (comprehensive list of changes)\n• Evidence 2: \"The benchmark index is also tracked by several index-linked financial products...\" (context about market impact)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TNB’s electricity sales already hit a record in the first quarter of 2024 at 31,899 gigawatt hours, driven by two new data centres...\" (verifiable data)\n• Evidence 2: \"Kenanga Research... raised the target price by 16%\" (credible source cited with specific details)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TNB guided for electricity demand growth of 2.5% to 3% in 2024... backed by a strong pipeline of data centre projects\" (directly ties to strategic direction)\n• Evidence 2: \"the tariff negotiated with customers will likely be more favourable... improving the utilisation of the grid\" (connects to long-term value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"nine data centre projects with a total energy demand of 700MW... two with 535MW energy demand were already commissioned\" (specific project details)\n• Evidence 2: \"the estimated capacity payment loss is still about RM400mil... working closely with the insurer on the insurance claims\" (contextual background on operational risks)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Apex Securities Research said the end of the earnings season coupled with better-than-expected China manufacturing activity will likely support the local bourse.\" (credible source cited)\n• Evidence 2: \"Key economic events to watch this week include the European interest rate decision and US non-farm payrolls,\" said the research firm in a note." (balanced reporting with factual context)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Berjaya was up two sen to 31 sen\" (only direct company mention, but no strategic context)\n• Evidence 2: No connection to Berjaya's business strategy, competitive position, or long-term value creation is provided."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The tech sector rose following the gains in the Nasdaq overnight with MPI rising 56 sen to RM37.40...\" (specific data on market movements)\n• Evidence 2: \"Shares that led gains included CIMB... Press Metal... Genting...\" (some sector context but lacks analysis of Berjaya's position)"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"UEM Sunrise Bhd has partnered with Logos Infrastructure Holdco Pte Ltd to explore the opportunity to develop a data centre campus...\" (specific, factual details)\n• Evidence 2: \"SD Guthrie Bhd 1QFY24 net profit tripled from a year earlier to RM211.0mn, thanks to lower tax and strong downstream operations.\" (quantifiable financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its strategic initiatives, financial performance, or operational activities.\n• Evidence 2: All corporate announcements focus on unrelated companies (e.g., UEM, Feytech, Tex Cycle, etc.) and lack direct relevance to Berjaya Food Berhad's strategic direction or stakeholder interests."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Nestlé (Malaysia) Bhd has planted 2.8mn trees through its Project RELeaf...\" (specific project details and context)\n• Evidence 2: \"CIMB Group Holdings Bhd net profit rose 18.0% YoY... as both interest and non-interest income grew faster than costs and provisions.\" (financial context and causal explanation)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This will spearhead our economic growth...\" (Lee Ting Han)\n• Evidence 2: \"Federal Government had approved RM144bil...\" (Lee Ting Han) with specific figures and direct quotes from officials"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Johor has the right ecosystem...\" (Lee Ting Han) [indirectly relevant to regional economic strategy]\n• Evidence 2: \"MyDigital initiative...\" (Equinix president) [government policy alignment]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"13 companies are either in discussions...\" (Lee Ting Han) [quantitative data]\n• Evidence 2: \"Two-storey JH1 facility...\" (Details on facility specifications and location)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The performance of the domestic business segments...improvement in tourism activities.\" (quotes company's own statements)\n• Evidence 2: \"In the third quarter ended March 31...RM29.3mil...RM4.05mil\" (specific verifiable financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The closure of legal number forecast operator...illegal operators\" (connects to operational risks impacting strategic business segments)\n• Evidence 2: \"monitor the prevailing global and local political development...business operations\" (links to strategic risk management)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue grew to RM1.95bil...additional draw conducted...42 draws versus 41 draws\" (specific quantitative context for revenue growth)\n• Evidence 2: \"nine-month net loss of RM10.3mil...revenue grew 5.85%...RM5.6bil\" (provides multi-period context for performance analysis)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"It is not true and has caused alarm in the local community,\" he said.\n• Evidence 2: \"The video from the CCTV recording was uploaded on Facebook using the 'TAWAUKINI' account...\" (provides verifiable details about the incident's location and legal context)."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or its operations, financials, or stakeholders.\n• Evidence 2: The incident described is unrelated to the company's business activities or market position."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our investigation showed that the incident did not happen in Tawau but in Ayer Tawar, Perak on May 20 at 9.34pm...\" (provides specific details about the event and legal framework).\n• Evidence 2: \"The spread of false statements... has caused alarm and panic among the public\" (contextualizes the impact of misinformation)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This makes us quite prone to NCDs and increases the risk of kidney, liver and heart diseases.\" (Prof Dr Sharifa Ezat Wan Puteh)\n• Evidence 2: \"With insufficient resources and budgets, healthcare is moving more towards privatisation and precision medicine.\" (Prof Sharifa Ezat)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"People who prepare food should also be educated to ensure there isn’t too much oil or sugar in food, among others.\" (Dr Kuljit Singh) [indirectly relates to food industry practices]\n• Evidence 2: \"Invest a small amount of money (on health screenings) and you will at least safeguard yourself from a huge catastrophe.\" (Dr Kuljit) [no direct link to Berjaya Food]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Cancer is also on the rise and is expected to cause significant loss to quality of life, other than loss of life,\" said Prof Dr Sharifa Ezat Wan Puteh. [specific data on NCD trends]\n• Evidence 2: \"There was also a rise in deaths due to ischaemic heart disease, from 11.6% in 2016 to 17% in 2020.\" [quantitative evidence supporting claims]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood said in a filing with Bursa Malaysia.\" (credible source citation)\n• Evidence 2: \"The directors are of the view...\" (direct quote from company statement with verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The directors are of the view that the operating performance...\" (connects to strategic outlook)\n• Evidence 2: \"The board does not recommend any dividend...\" (directly impacts shareholder value)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue for the quarter halved to RM138.6mil...\" (specific financial details)\n• Evidence 2: \"In the first nine months...\" (comparative historical data with context)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The council has to start work immediately because we have noticed new collapses and cracks.\"\n• Evidence 2: \"The landslide is quite active, so action must be taken today,\" she told Bernama."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: Focus on municipal council actions and resident concerns unrelated to corporate strategy or financial implications."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The landslide was detected almost a month ago and had since formed a crater 8m to 10m deep.\"\n• Evidence 2: \"The landslide had eroded between 10m and 15m and caused the collapse of the stone fence between the slope and the housing area.\""
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Recycled art extends beyond simply repurposing paper or waste to benefit the environment. It encompasses the utilisation of objects sourced from scrap metal shops to craft unique artworks, transforming discarded items into pieces of artistic expression.\" (Quotes from Nizam, no third-party verification)\n• Evidence 2: \"Nizam Abdullah, 43, is always on the lookout for reusable items at junkyards or scrap metal shops in the Klang Valley.\" (Descriptive statement without verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad, its business strategies, financial performance, or market position.\n• Evidence 2: The text focuses exclusively on an individual artist's creative process and environmental advocacy, with no connection to corporate operations, competitive dynamics, or stakeholder value creation."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The article provides no information about Berjaya Food Berhad's business model, products, or market activities.\n• Evidence 2: The text is entirely centered on Nizam Abdullah's personal artistic journey and does not offer any context, data, or analysis relevant to the company's operations or strategic priorities."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites Bernama as the source, a credible Malaysian news agency.\n• Evidence 2: The text includes detailed legal procedures, court decisions, and quotes from judges and prosecutors, which align with factual reporting."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or any business-related activities.\n• Evidence 2: The content is entirely focused on a criminal legal case, unrelated to corporate strategy, financial performance, or market impact."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The text provides no context about Berjaya Food Berhad's operations, industry position, or stakeholder concerns.\n• Evidence 2: The article lacks data or analysis related to the company's business environment, financials, or strategic initiatives."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Judge Diana Md Razali passed the sentence to the developer Monarch Lodge Development after the defence failed to raise reasonable doubt against the prosecution's case.\" (Verifiable court action)\n• Evidence 2: \"The Malaysian Communications and Multimedia Commission (MCMC) in a statement on Thursday (May 16) said...\" (Credible source cited with specific details)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad is a food and beverage company listed in Malaysia.\" (Company context provided, but article is about unrelated developer)\n• Evidence 2: \"The article contains no mention of Berjaya Food Berhad or its business activities, financials, or strategic initiatives.\" (No direct company connection)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The results of an investigation found that the damage...\" (Detailed cause and impact analysis)\n• Evidence 2: \"MCMC views this issue seriously...\" (Comprehensive context about regulatory guidelines and preventive measures)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"LHDN succeeded in collecting taxes and stamp duties amounting to RM890mil from these assessments,\" he said.\n• Evidence 2: \"After SVDP ends, taxpayers can still declare voluntarily but they will be subjected to a 15% penalty while those who come under LHDN’s audit findings face a 45% penalty,\" LHDN chief executive officer told The Star yesterday."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The content focuses on general tax compliance policies rather than specific financial or strategic information relevant to the company."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"As of April 30, Abu Tariq said, 97,000 cases have been assessed under the programme.\" provides quantitative context.\n• Evidence 2: \"Of these, he said, 16,000 involved companies and 71 individuals.\" offers detailed breakdowns of program impacts."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Kenanga Research said this is based on observations by Credence, Telekom Malaysia Bhd ’s (TM) cloud and digital services subsidiary.\"\n• Evidence 2: \"Kenanga Research, which is maintaining its \"overweight\" call on the telecommunications sector...\""
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TM is also committed to build enabling digital infrastructure...under the MyDigital economic blueprint.\"\n• Evidence 2: \"TM plans to more than double its data centre capacity...via development of new centres in Cyberjaya and Johor.\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"TM One’s Alpha Edge cloud services cover seven industries with more than 70 services.\"\n• Evidence 2: \"TM believes there is robust demand for data centre capacity from operators of ultra-large centres, referred to as hyperscalers, and content providers.\""
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sabah's volatile political environment may just see its people voting a single party into power\" (balanced tone, no clear bias)\n• Evidence 2: \"We must strengthen Warisan first ... we can't work with others (if we are) not certain about our own strengths\" (direct quote from Shafie Apdal, no fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business operations\n• Evidence 2: Focus on political parties and elections unrelated to the company's strategic direction or financial performance"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides historical context about Parti Berjaya's governance (1976-1985) and political dynamics in Sabah\n• Evidence 2: Discusses potential alliances and electoral strategies but lacks data or analysis linking to the company's operations"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"With this new opening, gone are the days when our Pahang friends would have to travel to other states to purchase from Harvey Norman.\" (direct quote from executive)\n• Evidence 2: \"RM88,000 worth of goods to three charity homes\" (specific verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"marked the entry of this leading Australian household retailer into Pahang and brought the company closer to its vision of establishing 80 stores nationwide by 2028\" (strategic expansion goal)\n• Evidence 2: \"connects to its partner stores\" (networking strategy for customer convenience)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"over 60 mattresses by top brands like Sealy and Serta plus designer bed frames\" (specific product details)\n• Evidence 2: \"instalments for up to 48 months on all major banks’ credit cards\" (financial service detail)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article defines the M40 group with specific income ranges (RM5,251 to RM11,819) and cites government initiatives like Padu, which are verifiable facts.\n• Evidence 2: Quotes from individuals like Gangeshwaran and Rozaidi provide firsthand accounts, and the article acknowledges differing perspectives (e.g., experts criticizing Padu's limitations)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article discusses economic pressures on the M40 group, which could indirectly impact consumer spending for food and beverage companies like Berjaya Food Berhad.\n• Evidence 2: No direct mention of Berjaya Food Berhad or its business strategies, financial performance, or market position is present."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides detailed narratives of four households, including specific expenses (e.g., RM60 electricity bill, RM400 diesel cost) and contextual factors like SST tax changes and housing market trends.\n• Evidence 2: It includes data on household income ranges, government policies, and expert opinions, offering comprehensive analysis of the M40 group's financial challenges."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 8, "justification": "• Evidence 1: \"Turkish Aerospace took 50 years to get where it is.\" \n• Evidence 2: \"What we are doing with Turkish Aerospace can be a benchmark for other fields...\""},
+  "StrategicRelevance": {"score": 2, "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its strategic initiatives. \n• Evidence 2: Focus on aerospace industry partnerships unrelated to food and beverage sector."},
+  "Depth": {"score": 6, "justification": "• Evidence 1: Provides basic operational details about Turkish Aerospace Malaysia's 2022 launch. \n• Evidence 2: Mentions events like DSA/Natsec 2024 but lacks analysis of long-term implications for Malaysia's aerospace industry."}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The government did not issue any directive for an investigation...\" (direct quote from Communication Minister Fahmi Fadzil)\n• Evidence 2: \"The Unity Government spokesman said Berjaya Corporation Bhd...\" (credible source cited as official statement)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Berjaya Corp reportedly lodged a police report...\" (direct mention of company actions impacting business operations)\n• Evidence 2: \"Anwar, Berjaya Corp, and Genting Malaysia...\" (links to corporate reputational risks)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"On April 26, Berjaya Corp reportedly lodged a police report...\" (provides timeline and context)\n• Evidence 2: \"denied the report... urged that action be taken...\" (includes stakeholder responses but lacks broader industry context)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 8, "justification": "• Evidence 1: \"MBSA is the only local authority in Selangor to receive this reward.\" (verifiable claim about exclusivity)\n• Evidence 2: \"The assessment session was conducted last August 2023\" (specific date and event timeline)"},
+  "StrategicRelevance": {"score": 2, "justification": "• Evidence 1: No mention of Berjaya Food Berhad or any business operations related to the company\n• Evidence 2: Focus on municipal tourism awards unrelated to food/beverage industry strategies or financial performance"},
+  "Depth": {"score": 4, "justification": "• Evidence 1: Provides basic details about the award criteria and event (environmental regulation, waste management, etc.)\n• Evidence 2: Includes quotes from officials but lacks contextual analysis of how this achievement impacts local economy or business environment"}
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The PPR project involves a collaboration with Berjaya Corporation Bhd, which has contributed 8ha of land...\" (specific factual detail with named entity)\n• Evidence 2: \"subject to ministerial approval, Prima Corporation will be appointed...\" (clear procedural context with timeline)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The article contains no direct mention of Berjaya Food Berhad's business operations, financial performance, or strategic initiatives\" (no connection to the company's core activities)\n• Evidence 2: \"Focuses on housing project logistics rather than corporate strategy or market impact\" (no stakeholder significance for the company)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"245 families... 750 to 800 square feet of space... 20x60 feet\" (specific quantitative details)\n• Evidence 2: \"Residents set a condition that any candidate... must sign a statutory declaration...\" (contextual background on political implications)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The first eight years of a child’s life is crucial for brain development.\" (Minister's statement on early childhood education)\n• Evidence 2: \"Only 27% of private preschool teachers have a diploma in early childhood education.\" (Minister's statistic, though no source is cited for verification)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The focus is on University of Cyberjaya's educational programs, which are unrelated to the company's strategic direction, financial performance, or market impact."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The programmes are designed to nurture professional educators, providing them with necessary skills and knowledge to foster the development of young minds...\" (Details about the university's programs)\n• Evidence 2: \"The Welcome Centre... signifies a milestone for the university.\" (Context about the event's significance, though no connection to Berjaya Food is made)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article includes verifiable details such as the prize amount (RM602,800), campaign dates (Aug 17–Dec 20 last year), and specific quotes from Roslizam and SMG CEO Chan Seng Fatt.\n• Evidence 2: The article presents a balanced tone, citing multiple winners and their reactions without editorial bias."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article mentions Berjaya Starbucks Coffee Company but does not discuss Berjaya Food Berhad's strategic direction, financials, or business operations.\n• Evidence 2: No direct connection to Berjaya Food Berhad's competitive position, market impact, or long-term value creation is provided."
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: The article provides surface-level details about the campaign, winners, and prizes but lacks context on Berjaya Food Berhad's business activities or stakeholder implications.\n• Evidence 2: No data, financial metrics, or analytical insights related to Berjaya Food Berhad are included."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Inland Revenue Board (LHDN) regularly monitors its data to identify companies and individuals who do not pay taxes\" [verifiable source: official statement from LHDN CEO].\n• Evidence 2: \"Last year, LHDN recorded a tax collection of RM183.3bil...\" [specific data with numerical context]."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text focuses on LHDN's tax enforcement activities, with no direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The article discusses general tax collection trends, lacking specific connections to the company's strategic priorities, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We receive information from various sources and analyse it all year long...\" [provides methodological context for LHDN's operations].\n• Evidence 2: \"The increase in tax collection has helped to improve the Sumbangan Asas Rahmah (SARA) programme...\" [links tax data to social impact, adding contextual depth]."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Graphic designer Roslizam Ramlee has won the grand prize in the Majoriti Langgan & Menang campaign...\" (specific, verifiable event details)\n• Evidence 2: \"Star Media Group Bhd (SMG) group chief executive officer Chan Seng Fatt said...\" (direct quote from credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The goal of the Langgan & Menang campaign is to transform the everyday act of reading into a rewarding experience...\" (focuses on campaign strategy, not Berjaya Food's business)\n• Evidence 2: \"OSK Property Holdings Berhad chief executive officer Ong Ghee Bin...\" (mentions OSK Property, not Berjaya Food)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"From Aug 17 to Dec 20 last year, new and current readers...\" (provides campaign timeline and structure)\n• Evidence 2: \"The surge of readers goes beyond numbers...\" (offers context on campaign impact, but lacks deeper analysis of business implications)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TA Research stated the RM280mil two-year contract...\" (verifiable data and credible source cited)\n• Evidence 2: \"We expect substantial earnings contributions...\" (specific financial projections with source attribution)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"...strong candidate for upcoming large scale infrastructure projects...\" (direct link to company's strategic positioning)\n• Evidence 2: \"...revised our FY25 and FY26’s earnings forecasts...\" (connects to financial performance and market impact)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"...pre-tax margin of 5.5% on the project which is expected to contribute net earnings of about RM11.7mil...\" (specific financial data and context)\n• Evidence 2: \"...upgraded the stock to a 'hold' with a target price of 42 sen...\" (analysis of market implications and stakeholder significance)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The word ‘senna’ means brightness in Arabic. This mirrors our shining aspirations for this budding township.\" (Direct quote from executive, no external verification)\n• Evidence 2: \"Since 1983, when Bandar Baru Salak Tinggi became the administrative heart of Sepang...\" (Historical context provided without cited sources)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We hope for Senna Puteri to emulate Warisan Puteri... to be an equally well-crafted, self-reliant mixed-use community\" (Direct link to company's strategic replication of prior success)\n• Evidence 2: \"support of the national housing initiative\" (Connects project to broader policy goals impacting market relevance)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The first phase comprises 386 units of three-story hilltop townhouses... ranging from 1,690sq ft to 2,454sq ft\" (Specific quantitative details about development)\n• Evidence 2: \"recreational and green spaces such as pedestrian walkway... community hall and surau\" (Comprehensive description of community features)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CelcomDigi Bhd remains committed to safeguarding its customers by raising its security standards against the risk of emerging technologies, such as artificial intelligence (AI)\" [direct quote from CEO, credible source].\n• Evidence 2: \"We believe it is a shared responsibility of the entire ecosystem...\" [balanced tone, no fabrication, credible institutional context]."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In this environment, like others, telecom operators like CelcomDigi have a crucial role in building digital trust\" [direct company mention, aligns with strategic focus on data governance].\n• Evidence 2: \"select partners with strong records of data stewardship... keep pace with evolving regulations\" [strategic priorities for long-term value creation]."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Experts from CelcomDigi, MCMC, Microsoft Malaysia... shared insights on AI trends and risks\" [comprehensive coverage of collaborative efforts].\n• Evidence 2: \"building public trust with responsible use of AI, and the role of leaders in driving accountability\" [contextual depth on stakeholder impact]."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Malaysian Youth Mental Health Index can be a vital tool for monitoring the 'psychosocial health' of youth on a periodic basis,\" said Datuk Dr Amar Singh HSS.\n• Evidence 2: \"It’s crucial to continue addressing mental health challenges and providing support to those in need and from low-income families with conflicts,\" noted Prof Dr Sharifa Ezat Wan Puteh."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The discussion focuses on public health policy and societal issues, with no connection to corporate strategy, financial performance, or market impact."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The index, he said, is vital as a critical tool or guide to periodically monitor the psychosocial health of Malaysian youth,\" providing context on the study's purpose.\n• Evidence 2: \"The reasons are complex and the action plan needs to call for long-term prevention via a transformation of cities and social life,\" offering detailed analysis of proposed solutions."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"On the casino license, it is untrue...That’s a lie,\" he told reporters (direct quote from Anwar Ibrahim).\n• Evidence 2: The article cites Bloomberg as a source for the discussion between Tan Sri Vincent Tan and Tan Sri Lim Kok Tay, while also presenting the government's denial, creating a balanced presentation."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: The article directly mentions Berjaya founder Tan Sri Vincent Tan's involvement in the casino discussions, linking to the company's leadership.\n• Evidence 2: It references the Forest City project's financial scale (RM478.35 bil) and licensing requirements, which could impact Berjaya's business if the project proceeds."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides context about the Forest City project's revival and licensing rules, including the RM478.35 bil figure.\n• Evidence 2: It mentions Genting Group's existing monopoly on casino licenses but lacks deeper analysis of market implications or Berjaya's strategic positioning."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The FBM KLCI was down 1.19 points to 1,570.29 at the lunch break, with specific stock price movements for Genting, Press Metal, Tenaga Nasional, and Sime Darby.\n• Evidence 2: The article cites Meta Platforms' revenue forecast and regional indices (Nikkei, Straits Times, Hang Seng, China composite) with precise numerical data, indicating factual accuracy."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text mentions Berjaya Corp's stock price increase but does not connect it to the company's strategic direction, competitive position, or long-term value creation.\n• Evidence 2: The focus is on broader market trends and regional indices rather than Berjaya Food Berhad's business performance or financial implications."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides comprehensive market data, including the number of gainers, losers, and unchanged stocks, along with specific stock price movements and regional index performance.\n• Evidence 2: It explains the impact of Meta's revenue forecast on market sentiment but lacks deeper analysis or contextual background related to Berjaya Food Berhad."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI rose 1.81 points to a fresh two-year high of 1,573.29\" (specific, verifiable data).\n• Evidence 2: \"Indicators were positive as the MACD Line hovered above the Signal Line, while the RSI firmed up above 50\" (technical analysis with factual metrics)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Top active securities were Berjaya Corp up two sen to 30.5 sen\" (mentions a company but not Berjaya Food Berhad).\n• Evidence 2: No discussion of Berjaya Food Berhad's strategic initiatives, financial performance, or competitive positioning."
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Economic wise, investors will be monitoring the release of Malaysia’s inflation data...\" (contextual market analysis).\n• Evidence 2: \"US markets turned choppy overnight...\" (broader market context but no company-specific insights)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Kurup passed away at the Institut Jantung Negara (IJN) at 6.22pm on Wednesday (April 18) after being treated for heart-related ailments for about three weeks.\" (specific date and location)\n• Evidence 2: \"He was 80.\" (verifiable age at death)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The entire article focuses on political career details unrelated to the company's business activities or market position."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"For nearly four decades, Kurup has stayed in the corridors of power...\" (chronological context)\n• Evidence 2: \"Kurup may not have been a giant in Sabah politics but his shrewd political maneuvers...\" (analysis of political strategies)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Kurup, 80, passed away due to heart complications yesterday.\" (verifiable cause of death)\n• Evidence 2: \"Former PBRS secretary-general Datuk Johson Tee said Kurup... died at the National Heart Institute in Kuala Lumpur at 7pm.\" (specific, credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Kurup was among the founding members of Parti Bersatu Sabah (PBS), led by Tan Sri Joseph Pairin Kitingan, which toppled the Berjaya government in 1985.\" (historical reference with no direct business impact)\n• Evidence 2: \"After the 1994 state election, the PBS government ended...\" (no connection to Berjaya Food's current operations or strategic direction)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"During his 40 years in politics, Kurup had held numerous ministerial posts...\" (comprehensive career overview)\n• Evidence 2: \"Kurup was a former president of Parti Bersatu Rakyat Sabah (PBRS)...\" (contextual background on political influence)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"I will be back to hand over my devices to the Malaysian Communications and Multimedia Commission (MCMC)\" [direct quote showing commitment to process]\n• Evidence 2: \"We mean no ill will... just concerned\" [neutral tone regarding intent]"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or related business operations\n• Evidence 2: Focus on political influencer and regulatory investigation unrelated to food/beverage industry"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides basic context about MCMC investigation and social media posts\n• Evidence 2: Includes timing details (5.30pm, \"around an hour later\") but lacks analysis of broader implications for stakeholders"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Both said that they did not know why they had been summoned but would cooperate.\" (direct quote from subjects)\n• Evidence 2: \"According to MCMC officers there, it is estimated that the statement recording session will last around two hours.\" (third-party source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The text contains no mention of Berjaya Food Berhad or any business operations, financial performance, or strategic initiatives related to the company.\" (implicit absence of direct company reference)\n• Evidence 2: \"The article focuses on political figures and regulatory actions unrelated to food and beverage industry dynamics.\" (lack of connection to company's strategic context)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"On Tuesday (April 16) at Bukit Aman, both Badrul and Mohamad Salim were visited by a group who they claimed were from the MCMC.\" (provides temporal and contextual background)\n• Evidence 2: \"This is no longer intimidation but an abuse of power.\" (includes perspective from subject but lacks analytical depth)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Their statements will be recorded following complaints regarding content that had been uploaded on social media that has allegedly gone against Act 588 of the Communications and Multimedia Act 1998.\" (MCMC statement)\n• Evidence 2: \"We will be there at around 3pm,\" he said. (Badrul Hisham's quote) - Direct quotes from official and individual sources enhance factual accuracy."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The focus is on MCMC legal actions against individuals, unrelated to the company's business performance or market position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The public is advised to not abuse communication services and online applications to spread unverified and fake content,\" it said in a statement yesterday. (Contextual background on legal implications)\n• Evidence 2: Details about the summoning process, alleged violations, and individuals' responses provide sufficient event coverage but lack analysis of broader implications for stakeholders."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes direct quotes from the bodyguard's wife, providing factual details about the medical procedure and injury.\n• Evidence 2: The timeline of events (e.g., 'five-hour long operation', 'surgery completed at 4.30pm') is specific and verifiable."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The incident described is unrelated to the company's business activities, stakeholders, or market position."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: The text provides contextual details about the shooting, medical treatment, and aftermath, though limited to the incident itself.\n• Evidence 2: It lacks broader background on the company, industry, or long-term implications for stakeholders."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, AWC said...\" (verifiable source cited)\n• Evidence 2: \"The group’s tender-book remains healthy...\" (specific, factual data provided)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The new contracts adds to the RM142.2mil orderbook replenishment...\" (connects to financial performance and business operations)\n• Evidence 2: \"outstanding orderbook to around RM800mil\" (indicates revenue potential and market position)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"RM17.8mil\", \"RM1.59mil\", \"RM800mil\" (quantitative data provided)\n• Evidence 2: \"plumbing works at Hospital Kapar...\" (specific project details but lacks contextual analysis of strategic importance)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"As of end of 2023, bumiputras made up 70.1% (57.9% Malays and 12.2% other bumiputras) of Malaysia’s 33.7 million population...\" (specific demographic data).\n• Evidence 2: \"Starbucks is owned by Berjaya Food , which in turn is 59.4% owned by Berjaya Corporation.\" (direct company ownership detail)."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Starbucks is owned by Berjaya Food , which in turn is 59.4% owned by Berjaya Corporation.\" (direct company mention).\n• Evidence 2: \"Any corporation facing such public pressure should embark on a rallying campaign against Israel...\" (strategic advice tied to business impact)."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"As of end of 2023, bumiputras made up 70.1%...\" (contextual demographic shift).\n• Evidence 2: \"Companies like McDonald’s and Starbucks have reported drop in sales...\" (specific examples of business impact)."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The newly unveiled state-of-the-art facilities are designed to inspire and empower students to unleash their creativity.\"\n• Evidence 2: \"The faculty’s deputy dean Mohd Faiz Alias says, 'Our unique approach to education sets FCAD apart from other institutions.'\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The provided text focuses exclusively on University of Cyberjaya's academic programs and facilities, with no mention of Berjaya Food Berhad or its business strategies, financial performance, or market position.\"\n• Evidence 2: \"The content is entirely promotional for a university, unrelated to the company context provided (Berjaya Food Berhad).\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"From precision drawing tools like Wacom Intuos and HUION Kamvas Pro to high-end computers running the latest graphics processors, UoC’s Faculty of Creative Arts and Design provides students with the resources they need to excel in their craft.\"\n• Evidence 2: \"The faculty embraces an innovative interdisciplinary approach, collaborating with other faculties to expand the realm of possibilities for students.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Former Parti Bersatu Rakyat Sabah (PBRS) secretary-general Datuk Johnson Tee confirmed that Kurup passed away at the National Heart Institute (IJN) in Kuala Lumpur at 7pm.\" \n• Evidence 2: \"He said Kurup has been unwell in recent months.\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The PBS government ended after a series of defections by party leaders to PBRS, which supported the Barisan Nasional government.\" \n• Evidence 2: \"Berjaya Food Berhad is a food and beverage company listed in Malaysia.\" (No direct connection to the article's content about political figures)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Over his 40 years in politics, he held numerous ministerial posts, both at state and federal levels.\" \n• Evidence 2: \"He was among the founding members of Parti Bersatu Sabah (PBS) led by Tan Sri Joseph Pairin Kitingan, who toppled the Berjaya government in 1985.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Built in 1989, the museum’s design is based on Minangkabau architecture.\"\n• Evidence 2: \"Sprawled over 24ha, there are many scenic spots in this pet-friendly park.\"\n• Evidence 3: \"Established in 1998, the Cyberjaya Lake Garden covers 35ha\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"THIS Hari Raya Aidilfitri, dress up in your festive outfits...\" (no company mention)\n• Evidence 2: \"Best spots for Raya photoshoot\" (no connection to Berjaya Food Berhad's business operations)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Laluan Seni Pekan Lama... over 15 distinct painting styles depicting local heritage\"\n• Evidence 2: \"Cyberjaya Lake Garden... 35ha and a leisurely stroll around the entire area takes around 20 minutes\""
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 7, "justification": "• Evidence 1: \"The Putra Aria Brand Awards, established to celebrate outstanding brands across various sectors, witnessed an extensive survey process that involved the active participation of over 11,000 respondents.\"\n• Evidence 2: \"The University of Cyberjaya competed in the Education and Learning category, encompassing universities, private schools, colleges and correspondence courses.\""},
+  "StrategicRelevance": {"score": 0, "justification": "• Evidence 1: \"The article contains no mention of Berjaya Food Berhad or its business operations, financial performance, or strategic initiatives.\"\n• Evidence 2: \"The text focuses on academic achievements and a university alumnus, with no connection to the company's strategic direction or market position.\""},
+  "Depth": {"score": 5, "justification": "• Evidence 1: \"The article provides context about the awards process, survey methodology, and university category participation, but lacks detailed analysis of broader implications.\"\n• Evidence 2: \"While it describes the alumnus's actions and university mission, it does not explore deeper connections between education and business impact.\""}
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Ruang Pokok opened about seven months ago to introduce the local community to the art of arranging plants in glass jars...\" (verifiable timeline and purpose)\n• Evidence 2: \"Maintenance is straightforward...\" (specific, actionable details with no fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or any business operations related to food and beverage production.\n• Evidence 2: The text focuses on a personal hobby-turned-business unrelated to the company context provided."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Materials needed... leca balls, charcoal, sphagnum moss and organic soil\" (specific technical details)\n• Evidence 2: \"Time taken is also around 30 minutes to an hour...\" (quantifiable process description)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"From January to March, a total of 51,638 cases were referred to online platform providers for further action.\" (verifiable data)\n• Evidence 2: \"TikTok and Meta were asked to provide a comprehensive improvement and strategy plan...\" (direct quote from MCMC statement)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or any business operations related to the company\" (complete absence of direct company reference)\n• Evidence 2: \"The article focuses on social media regulation, which has no direct connection to the company's strategic direction or business performance\" (no stakeholder relevance)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"51,638 cases... exceeded the whole of last year\" (specific quantitative data)\n• Evidence 2: \"Discussed online safety improvements... authentication process to ensure the minimum age for social media access is 13\" (contextual background on policy discussions)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Tan is in talks with banks about financing for a potential deal, said the people, asking not to be named as the matter is private.\" (Unnamed sources but attributed to Bloomberg, a credible outlet)\n• Evidence 2: \"Shares of Berjaya Food... have dropped about 28%... market value of US$229mil.\" (Specific verifiable financial data provided)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Berjaya Food... owns 100% of Starbucks Corp’s Malaysian operations\" (Directly ties to company's core business and strategic assets)\n• Evidence 2: \"Deliberations are preliminary... go-private deal for Berjaya Food\" (Highlights potential strategic shift impacting long-term value creation)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"As of June 30, 2023, Starbucks Malaysia had 393 stores... Kenny Rogers Roasters had 80 stores.\" (Provides contextual operational data)\n• Evidence 2: \"Berjaya Corp... has a deemed interest of 55% in Berjaya Food\" (Explains corporate structure but lacks analysis of implications)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Shares of Berjaya Food...market value of $229 million.\" (verifiable financial data)\n• Evidence 2: \"Berjaya Corp...annual report.\" (cites official document)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"owns 100% of Starbucks Corp.’s Malaysian operations\" (directly ties to company's core business)\n• Evidence 2: \"Deliberations are preliminary...go-private deal\" (connects to strategic decision-making process)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Starbucks Malaysia had 393 stores...Kenny Rogers Roasters had 80 stores\" (provides operational context)\n• Evidence 2: \"market value of $229 million\" (quantifiable financial context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The gotong-royong spirit is very exciting to watch,\" the 27-year-old said.\n• Evidence 2: \"The food is very different,\" she said."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business activities.\n• Evidence 2: Focus on student experiences unrelated to company operations, financials, or market position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Some 1,000 attendees were feted with Malaysian delicacies\" provides quantitative context.\n• Evidence 2: \"Spending Ramadan away from home is a bit hard on me\" offers cultural and personal context."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: Bloomberg cited sources that Tan is in talks with banks about financing for a potential deal.\n• Evidence 2: The article provides verifiable financial data (e.g., stock prices, trading volumes) and market indices with no apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Berjaya Food's stock movement and the potential privatization news, which relates to strategic developments.\n• Evidence 2: However, it lacks analysis of how this news impacts the company's long-term strategy or competitive position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides detailed market data (e.g., FBM KLCI decline, trading volumes, stock price movements) and contextualizes the market dip around Raya holiday.\n• Evidence 2: It includes specific examples of affected stocks but does not analyze broader market trends or stakeholder implications beyond immediate price changes."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"from January to March, a total of 51,638 cases were referred to online platform providers for further action\" (verifiable data).\n• Evidence 2: \"This number is high compared to 42,904 cases recorded for the whole of 2023\" (specific, factual comparison)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article focuses on social media regulation and platform compliance, with no mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: No direct connection to the company's strategic direction, financial performance, or stakeholder interests."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"TikTok and Meta were asked to provide a comprehensive improvement and strategy plan... to deal with such content effectively\" (detailed context on regulatory actions).\n• Evidence 2: \"We also revisited the efficiency of the (platforms' respective) artificial intelligence algorithm... to detect 3R content, CIB and other harmful content\" (specific technical and operational details)."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The RM129mil project will be built next to the current headquarters...\" (specific financial and spatial data)\n• Evidence 2: \"The new tower will be able to accommodate up to 1,500 staff members comfortably.\" (verifiable capacity claim with context)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The article contains no mention of Berjaya Food Berhad or its operations, financials, or strategic initiatives.\" (complete irrelevance to the company context)\n• Evidence 2: \"No connection to the company's business performance, market position, or stakeholder interests is provided.\" (lack of strategic linkage)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The building will incorporate green design to lower energy costs...\" (detailed technical specifications)\n• Evidence 2: \"Carparks will be equipped with EV chargers while only LED lighting will be used.\" (specific sustainability features and infrastructure details)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Putrajaya Corporation (PPj), in a statement to StarMetro, said there were more than 250 stalls operating at the bazaar...\" (verifiable data from a cited source)\n• Evidence 2: \"Shoppers interviewed by StarMetro said easy parking...\" (balanced reporting with direct quotes)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The bazaar began operating on March 8...\" (no mention of Berjaya Food or its strategic operations)\n• Evidence 2: \"This year, the bazaar began operating on March 8...\" (no connection to company's business performance or market impact)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Clothing stalls made up the highest number of stalls at 175, followed by baked goods (45)...\" (quantitative data on bazaar composition)\n• Evidence 2: \"Women looking for the best bargain...\" (detailed shopper behavior analysis and context about product trends)"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We knew that the soil needed to be watered well but did not anticipate the threat from foraging birds,\" said Abd Hamid. (Direct quote with specific detail)\n• Evidence 2: \"With the right conditions, padi can be planted anywhere in the country,\" said Prof Mohd Rafii. (Expert opinion with verifiable claim)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text focuses on MPSepang's urban farm initiative, which is not directly related to Berjaya Food Berhad's business operations. (No direct company mention)\n• Evidence 2: No financial metrics, market impact, or strategic alignment with Berjaya's business model are discussed. (Lack of stakeholder significance)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Detailed description of the padi cultivation process, challenges (bird threats, soil preparation), and future expansion plans (1,600sq ft field). (Comprehensive coverage)\n• Evidence 2: Context about similar projects (Taman Botani Negara Shah Alam) and educational objectives for communities. (Background and purpose explanation)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains promotional claims about mall decorations without verifiable data or sources (e.g., 'Over 10,000 Raya greeting cards hang from the ceiling' lacks citation).\n• Evidence 2: No factual information about Berjaya Food Berhad is provided, contradicting the company context."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text focuses on mall decorations and consumer activities, with no mention of Berjaya Food Berhad's operations, financials, or strategic initiatives.\n• Evidence 2: No connection to the company's business performance, market position, or stakeholder impact is present."
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: The text provides superficial details about mall themes and decorations but lacks analysis or context about Berjaya Food Berhad's role.\n• Evidence 2: No data, background, or analytical insights related to the company's activities or industry are included."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MPSepang is expected to save RM105,422 in the first year.\" (specific financial claim with timeframe)\n• Evidence 2: \"The solar panels were installed in four months, between April 18 and Aug 12 of 2022\" (verifiable timeline with dates)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"This is in line with the council’s Cyberjaya Smart and Low Carbon City 2025 and vision for a clean, green, smart and sustainable municipality by 2030\" (aligns with long-term strategic goals)\n• Evidence 2: \"The solar panels installation is a 20-year contract\" (financial commitment with clear duration)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A PV system is composed of one or more solar panels combined with an inverter and other electrical and mechanical hardware\" (technical context)\n• Evidence 2: \"The solar panels were installed in four months, between April 18 and Aug 12 of 2022, while the licence to fully operate it was obtained on Dec 7 last year\" (detailed implementation timeline)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The video clip uploaded on his social media platform is seen as offensive content that may violate provisions under the Communications and Multimedia Act 1998 (Act 588)\".\n• Evidence 2: \"Once the investigation paper is ready, it will be submitted to the Attorney General for further action\"."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The content focuses on a legal investigation against an unrelated individual (Aliff Syukri) and does not connect to the company's strategic direction, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The investigation was being conducted under Section 233, and if found guilty, the individual could be fined a maximum of RM50,000, or a maximum imprisonment of up to one year, or both\".\n• Evidence 2: \"MCMC added that investigating officers had seized a sim card believed to belong to the suspect and a mobile phone used to upload the video clip, to assist in the investigation\"."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"OCBC Bank (Malaysia) Berhad received the highest-level – Titanium+ – green data centre certification from Green Climate Initiative (GCI)\" [verifiable fact about certification].\n• Evidence 2: \"The certification exercise was rigorous and involved detailed investigative audits\" [credible process description]."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"As part of the OCBC Group’s goal to achieve nett zero by 2050\" [direct link to strategic long-term objectives].\n• Evidence 2: \"The Titanium+ recognition encourages us to keep looking beyond what we do with our customers to what we do behind the scenes in the operations room\" [strategic alignment with sustainability practices]."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The end result was the implementation of cold-aisle containment, airflow optimisation, identifying of hot spots through computational fluid dynamic (CFD) studies, and use of intelligent power distribution\" [detailed technical explanation].\n• Evidence 2: \"With the current demand of more than 1.5 megawatt of electricity energy, the data centre continues to manage its greenhouse gas emissions\" [quantitative data and context]."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"According to CGS International Securities Research, the construction sector in Malaysia has of late seen a strong flow in new orders for data centres, semiconductor factories and industrial warehouses.\"\n• Evidence 2: \"Stripping out early-stage capacity, we estimate a potential cost of US$7mil-US$9mil per megawatt to construct a data centre...\""
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We believe the government’s development expenditure (DE) allocation of RM90bil for 2024...is a demonstration of its commitment to the construction sector.\"\n• Evidence 2: \"The timeline for the KL-Singapore high speed rail (HSR) has largely been met...we do not discount the possibility of the KL-Singapore HSR taking precedence over MRT3...\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The estimated amount was equivalent to the value of MRT3 civil works of around RM28bil. However, CGS Research cautioned that the simple calculation was still dependent on other factors.\"\n• Evidence 2: \"Gamuda’s strong MRT track record and tunnelling expertise had enabled it to successfully penetrate into Australia and Taiwan...\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Ahmad Zaki Resources Bhd (AZRB) ’s wholly-owned subsidiary... received the letter of acceptance... for RM315.90mil.\" (specific, verifiable financial details)\n• Evidence 2: \"K-One Technology Bhd... proposing a diversification into the healthcare industry...\" (direct company statement with clear intent)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Berjaya Corp Bhd (BCorp) has finalised the acquisition... for ¥12.61 billion (RM407.3 million).\" (strategic land acquisition for potential expansion)\n• Evidence 2: \"K-One... proposing a diversification into the healthcare industry...\" (strategic shift to reduce dependency on existing segments)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"MISC Bhd... secured long-term contracts for three liquefied natural gas (LNG) carriers...\" (quantifiable contract details)\n• Evidence 2: \"EVD Bhd has secured two contracts worth RM19.5 million...\" (specific financial data but lacks contextual analysis of market impact)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Thomson Hospital has provided me with a full scholarship, monthly allowance and accommodation, which has facilitated my studies, and I am thankful for this opportunity.\"\n• Evidence 2: \"Together, hand in hand with Thomson Hospital, we embark on a journey of innovation and excellence...\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its strategic initiatives, financial performance, or market position.\n• Evidence 2: The partnership described is unrelated to the company context provided, focusing instead on healthcare education rather than food and beverage industry strategies."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A flagship initiative unveiled through this partnership is the Thomson Hospital Alliance Group programme – to elevate healthcare education quality and enhance graduates’ employability...\"\n• Evidence 2: \"These initiatives underscore UoC’s commitment to elevating healthcare education standards...\""
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Under its Sesama Mara initiative, the water utility company distributed 100 boxes of essential food items to B40 families in Flat Seri Kenari, Kajang.\"\n• Evidence 2: \"To date, 5,175 Box of Hope packages have been distributed to B40 families around Selangor, Kuala Lumpur and Putrajaya since the programme was introduced in June 2020.\"" 
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The public can contribute towards this effort through purchases at five Village Grocer outlets...\"\n• Evidence 2: \"Air Selangor also distributed bubur lambuk to orphanages, B40 families and the local community...\"" 
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Since the programme was introduced in June 2020\" provides temporal context.\n• Evidence 2: \"distributed 100 boxes of essential food items\" quantifies the initiative's scale." 
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The text accurately describes historical April Fool’s pranks with verifiable details (e.g., \"Google captured the imagination of users worldwide with its announcement of Gmail Motion\").\n• Evidence 2: The narrative remains neutral, avoiding fabrication or bias, and presents events as fictional pranks without misleading claims."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text focuses on entertainment and marketing stunts (e.g., \"Google’s playful side\"), with no mention of business strategies, financial performance, or market positioning for Berjaya Food Berhad.\n• Evidence 2: The content is unrelated to corporate governance, competitive positioning, or stakeholder value creation for the company."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text provides comprehensive details about each prank, including context (e.g., \"Virgin Volcanic was nothing more than Branson’s brilliant April Fools’ prank\") and specific examples (e.g., \"S-Drive feature for virtual driving\").\n• Evidence 2: It includes historical references and cultural impact (e.g., \"Rickrolling has reached epic proportions\") to contextualize the pranks."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 5,
+    "justification": "• Evidence 1: The article includes direct quotes from artists like Superdoofus and Bendi, which add credibility to the narrative.\n• Evidence 2: The text provides specific details about sales (e.g., 'sold out in under two days') and pricing (RM15 per set), but lacks verifiable data or citations for claims about market trends."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text does not mention Berjaya Food Berhad or any business activities related to the company.\n• Evidence 2: There is no connection to the company's strategic direction, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides comprehensive details about artistic trends, designer backgrounds, and consumer behavior during Hari Raya.\n• Evidence 2: It includes specific examples like Kirin Sharom's international market reach and Syazri Zamrod's collaborations, though these are unrelated to the company context."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Let me get a clearer picture first before I make any comments,\" the MACC chief commissioner said when met by reporters... (direct quote from official source)\n• Evidence 2: \"They also claimed that the MACC had not provided them with the details of the investigation against their father.\" (direct quote from subject's claims)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or its business operations, financials, or strategic initiatives.\n• Evidence 2: The content focuses on political investigations unrelated to the company's competitive position or market impact."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The investigations are said to be linked to entities named in the Pandora Papers as well as the Panama Papers...\" (provides contextual background)\n• Evidence 2: \"In January, Mokhzani and Mirzan were ordered by the MACC to declare their assets dating back to 1981...\" (includes detailed timeline and procedural context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Expenses for food and beverages and telecommunications have not increased and remain at 6%\" [verifiable tax policy details]\n• Evidence 2: \"We need 25,000 workers in cybersecurity by 2025\" [specific, time-bound target]"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its operations\n• Evidence 2: General economic policy discussion lacks specific connection to food/beverage industry or company strategy"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The scope of service tax is narrow, affecting only 41% of the total array of services\" [quantitative context]\n• Evidence 2: \"Malaysia has reached 80.3% coverage in populated areas\" [specific data on infrastructure]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"I was informed that the company has completed its Phase 1 development in Sedenak Tech Park...\" (specific, verifiable detail)\n• Evidence 2: \"State housing and local government committee chairman Datuk Mohd Jafni Md Shukor said...\" (cited credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text focuses on BDC's data center expansion plans, which are unrelated to Berjaya Food Berhad's operations or strategic direction.\n• Evidence 2: No mention of Berjaya Food Berhad, its business activities, or financial performance."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"BDC is also planning to make more investments over the next five years...\" (specific timeline and scope)\n• Evidence 2: \"The village has about 350 people living in 135 houses.\" (quantitative context about the affected community)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Travellers from Singapore can now fly directly from Seletar Airport to Redang Airport, thus reducing the total of travel time to Redang Island to just one hour and 20 minutes.\" (verifiable factual claim)\n• Evidence 2: \"The Taaras Beach & Spa Resort and Berjaya Air are Berjaya Land’s wholly owned subsidiaries.\" (clear corporate structure disclosure)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Berjaya Land Bhd’s aviation arm Berjaya Air Sdn Bhd hopes to boost the tourism industry in Redang Island... following its newly launched charter services.\" (direct link to company strategy)\n• Evidence 2: \"This would further strengthen The Taaras’ commitment to providing seamless connectivity...\" (strategic alignment with business goals)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"During the turtle nesting season from April to October, tourists have the chance to witness the release of hatchlings into the sea.\" (contextual detail about unique offerings)\n• Evidence 2: \"Contributions will go towards the research and development of turtle conservation at SEATRU Turtle Lab...\" (specific partnership information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites official statements from MCMC chairman Tan Sri Mohamad Salim Fateh Din and Huawei Malaysia CEO Simon Sun, with verifiable sources (Bernama).\n• Evidence 2: The content presents balanced reporting without bias, focusing on factual details of the collaboration and program objectives."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its strategic priorities, business performance, or financial implications.\n• Evidence 2: The collaboration between MCMC and Huawei Malaysia is unrelated to the company's operations in the food and beverage sector."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article provides comprehensive details about the program's structure (eight-month duration, blended learning approach, capstone project, and industry visit to China).\n• Evidence 2: It includes quotes from key stakeholders and explains the program's goals for digital transformation and leadership development."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Malaysian Communications and Multimedia Commission (MCMC), in collaboration with Huawei Technologies (Malaysia) Sdn Bhd (Huawei Malaysia), today launched a talent development programme...\" (source and factual accuracy)\n• Evidence 2: \"This programme, formulated by Huawei Malaysia and MCMC, is here to assist in making that possible.\" (balanced tone and verifiable collaboration details)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The initiative is aimed at empowering leaders across industries and the public sector...\" (no direct connection to Berjaya Food's strategic direction)\n• Evidence 2: \"According to Simon, the programme will engage a total of 300 participants...\" (no mention of Berjaya Food's business operations or strategic priorities)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The eight key domains of content that will be covered over 32 modules are leadership, 5G technology, artificial intelligence...\" (comprehensive coverage of programme structure)\n• Evidence 2: \"This programme hopes to achieve is to equip the current generation of organisational leaders...\" (detailed explanation of programme objectives and methodology)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Phillip Capital Research noted the MEP industry is set to sustain its 15% compounded annual growth rate over 2022-2025 to hit RM10bil in value\" (verifiable data and credible source cited).\n• Evidence 2: \"Critical Holdings’ return on equity stood at 60% in the financial year 2023 (FY23) and is expected to rise to 69% in FY24\" (specific financial data with clear timeframe)."
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Critical Holdings is well-positioned in the structural growth industries, including semiconductor, DC, telecommunication and solar\" (directly links to company's strategic focus and market opportunities).\n• Evidence 2: \"We estimate Critical Holdings’ potential involvement in a RM1bil DC project is about RM200mil, representing 20% of the overall project size\" (strategic financial analysis tied to business growth)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"There are some 10 to 15 DCs under construction in the country, Phillip Capital noted\" (quantitative data on market context).\n• Evidence 2: \"Critical Holdings’ tender book stands at RM1.2bil\" (specific detail about company's current opportunities)."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We expect to have the meeting within the next week,\" he told the media...\" (verifiable timeline and official statement)\n• Evidence 2: \"On May 3 last year, the government decided to implement a dual 5G network...\" (specific date and policy decision cited)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The article contains no mention of Berjaya Food Berhad or any business activities related to food and beverage sectors\" (no direct company reference)\n• Evidence 2: \"No financial implications or market impact related to the company's operations are discussed\" (irrelevant to stakeholder information needs)"
+  },
+  "Depth": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The article provides detailed information about 5G rollout progress and cybersecurity initiatives but lacks context about Berjaya Food Berhad's business\" (topic mismatch)\n• Evidence 2: \"No data or analysis related to the company's strategic direction, competitive position, or financial performance is included\" (irrelevant to company context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Adtrec was developed to make it more convenient for the community to carry out recycling,\" he said during the launch... [quote verifies direct statement from official].\n• Evidence 2: \"Waste is not dirty, it is money...\" [quote provides direct commentary from official, no fabrication]"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its operations in the text.\n• Evidence 2: The article focuses on waste management initiatives unrelated to food production, supply chains, or corporate strategy of the subject company."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Three different receptacles for plastic, boxes and paper as well as steel and aluminium are available...\" [specific operational details].\n• Evidence 2: \"Monitoring systems, along with Wi-Fi and lighting, used solar power...\" [technical implementation details]."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"As of now, the contract is still in force based on the terms agreed upon between the government and Spanco,\" said the ministry in a written reply dated March 12.\n• Evidence 2: \"The government’s agreement with Spanco was 'hurting' the country,\" said Prime Minister Datuk Seri Anwar Ibrahim in February."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"When the contract ended in 2019, an open tender was launched, and a letter of intent (LOI) was awarded to a consortium formed by Berjaya Group and Naza Sdn Bhd.\" (direct mention of Berjaya Group).\n• Evidence 2: The article connects Berjaya Group's involvement in the tender process to the ongoing contract, implying potential strategic implications for the company."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Spanco has held the concession to supply and maintain government vehicles since 1993\" provides historical context.\n• Evidence 2: \"The Malaysian Anti-Corruption Commission had said that it was investigating a RM4.5bil contract\" adds detail about regulatory scrutiny and financial scale."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The new school will have 36 classrooms and other facilities according to the design-and-build concept to expedite the construction process. SK Cyberjaya (2) is expected to be completed by the year 2028,\" the MOE said in a statement on Friday (March 15).\n• Evidence 2: The article cites Bernama as the source and references official MOE statements with specific timelines and plans (12MP RP3, 13MP RP1/2)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or any direct connection to the company's operations, strategic initiatives, or financial performance.\n• Evidence 2: The focus is entirely on Malaysian education infrastructure, which is unrelated to the food and beverage sector or investor interests in Berjaya Food."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides specific details about the SK Cyberjaya (2) project, including classroom numbers, construction timelines, and references to Malaysia Plan frameworks.\n• Evidence 2: It outlines short-term and long-term solutions but lacks deeper analysis of financial implications, stakeholder impact, or comparative context for similar projects."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We opened an investigation paper and arrested a 26-year-old woman on the same day.\" (verifiable police action)\n• Evidence 2: \"The suspect has been remanded for six days to assist in investigations.\" (official legal process)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad\" is not mentioned in the text.\n• Evidence 2: The article contains no information about business operations, financial performance, or market position related to the company."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The victim has been identified as a 26-year-old freelance photographer\" (provides basic context)\n• Evidence 2: \"Checks showed the suspect is a former medical student who works as a part-time model\" (basic background information)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites the 2023 Putra Brand Awards platinum award as a verifiable achievement, with direct quotes from Prof Mazliham.\n• Evidence 2: The text provides specific details about partnerships (e.g., ZTE, Huawei) and program structures (iCadet, eCadet) without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: The text emphasizes MMU's strategic focus on industry collaboration, research integration, and curriculum innovation, aligning with its mission as a research-led university.\n• Evidence 2: Mention of research grants, industry-on-campus labs, and stakeholder engagement highlights strategic alignment with market demands and long-term value creation."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article thoroughly details MMU's initiatives (e.g., six research centres, HyFlex classrooms, campus dining transformations) with specific examples and data (e.g., 16,000 students, 70,000 graduates).\n• Evidence 2: Comprehensive coverage of programs like iCadet, eCadet, and ESG modules, along with their goals and implementation, provides contextual depth and analytical insight."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"I have never heard of a social media platform regulation Act...\" (direct quote from official source)\n• Evidence 2: \"Each of these social media platforms has its own community guidelines...\" (specific, verifiable policy details)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or related business activities\n• Evidence 2: Focus on government policy and Telekom Malaysia initiatives unrelated to food/beverage sector"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: Comprehensive coverage of ministerial statements, MCMC actions, and e-Farmasi initiative details\n• Evidence 2: Contextual background on previous framework reports and government grant programs"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"I can confirm that one of the individuals questioned was a tenant at the house where the incident occurred. This individual took the video,\" he said.\n• Evidence 2: \"The suspect is currently under police remand,\" he said."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or any connection to the company's operations, financials, or stakeholders.\n• Evidence 2: The incident described is unrelated to the company's business activities or strategic direction."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Several videos have been circulated on social media that have allegedly been linked to the case,\" providing some context.\n• Evidence 2: The article includes basic details about the incident (knife seizure, suspect remand) but lacks broader background, timelines, or analysis of implications."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The 162ha Cyberjaya Lake Gardens is considered the ‘green lung’ of Cyberjaya.\" (specific, verifiable data)\n• Evidence 2: \"The project will adopt nature-based solutions; we will plant native species along the stream to filter water before it enters the lake.\" (factual, actionable details with credible sources)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"MPSepang supports the implementation of this restoration project...\" (no direct link to Berjaya Food Berhad)\n• Evidence 2: \"GEC, as the implementing agency...\" (no mention of company strategy, financial impact, or stakeholder relevance)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Floating islands of native plants... continuously clean the water.\" (detailed technical explanation)\n• Evidence 2: \"Environmental education to increase awareness...\" (contextual background on project goals and community engagement)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Berjaya Corp Bhd has received the final approval to complete the RM700mil sale...\" (verifiable transaction details)\n• Evidence 2: \"Following the Energy Commission’s approval letter...\" (citable regulatory source)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RM700mil sale of its 100% equity interest...\" (direct financial impact on company value)\n• Evidence 2: \"all the conditions precedent...have been fulfilled\" (strategic milestone completion)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"RM700mil sale...to Naza Corp Holdings Sdn Bhd\" (quantitative detail)\n• Evidence 2: \"settlement of the purchase consideration...\" (transaction mechanics)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The establishment of the Gig Workers Commission announced by the government...\" (verified government action)\n• Evidence 2: \"Prime Minister... announced the establishment...\" (official source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"food delivery riders (p-hailing)\" (indirectly relates to food delivery sector)\n• Evidence 2: No direct mention of Berjaya Food Berhad or its business strategies"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"lack of bodies or groups that have fought for the fate of gig economy workers...\" (contextual background)\n• Evidence 2: \"regulatory framework for the commission... free market oriented\" (detailed analysis of commission structure)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 5, "justification": "• Evidence 1: The text contains personal anecdotes and quotes from Lily Yusra without verifiable data or sources.\n• Evidence 2: The article lacks factual accuracy regarding Berjaya Food Berhad or any financial/operational details about the company." },
+  "StrategicRelevance": {"score": 0, "justification": "• Evidence 1: The text focuses on home decor and personal lifestyle, with no mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: No connection to the company's strategic direction, market position, or financial performance is present." },
+  "Depth": {"score": 3, "justification": "• Evidence 1: The article provides detailed descriptions of home decor elements and Lily's DIY projects, but this is unrelated to the company's operations.\n• Evidence 2: No contextual background or data about Berjaya Food Berhad is included, limiting depth in relation to the company." }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Based on a report from the Health Ministry, there has been a surge in suicide cases in Malaysia with an 81% increase...\" (verifiable data from Health Ministry)\n• Evidence 2: \"National Health and Morbidity Survey (NHMS) 2022 shows an increase...\" (cites specific survey and statistics)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"University of Cyberjaya is organising...\" (no mention of Berjaya Food Berhad or its operations)\n• Evidence 2: \"This suicide attrition initiative targets any members of the public...\" (no connection to company's business strategies or financial performance)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The suicide attrition intervention project aims to increase awareness...\" (comprehensive explanation of objectives and methods)\n• Evidence 2: \"Each workshop participant will receive a handbook and certificate...\" (specific details about event logistics and outcomes)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"With the complete closure of the group's NFO outlets in Kedah and Perlis...\" (specific factual statement about operational challenges)\n• Evidence 2: \"In the second quarter ended Dec 31, BCorp’s net loss widened to RM116.3mil...\" (verifiable financial data with exact figures)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the performance of the business segments...on the back of moderate consumer spending, rebound of tourism activities...\" (direct link to strategic factors impacting business performance)\n• Evidence 2: \"the group will monitor the prevailing global and local political development...\" (strategic relevance to operational risks and long-term positioning)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"For the first six months to Dec 31, BCorp posted a net loss of RM100.5mil on revenue of RM4.8bil.\" (specific financial data but limited contextual analysis)\n• Evidence 2: \"the management of NFO business segment...disheartened by the encroachment of illegal operators...\" (partial insight into operational challenges but no broader industry context)"
+  }
+}

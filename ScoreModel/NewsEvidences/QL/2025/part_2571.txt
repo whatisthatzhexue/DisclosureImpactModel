@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rallied for a third straight day... 1,624.63.\" (specific numerical data)\n• Evidence 2: \"Shares were buoyed... Federal Reserve dialling back interest rates.\" (directly ties to economic event with logical market implication)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"QL Resources jumped 19 sen to RM6.72\" (mentions company but lacks strategic context)\n• Evidence 2: \"All but two of the market's 13 sectors were positive...\" (general market analysis without company-specific strategic insights)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The gainers on the market outpaced the decliners 667 to 413... RM2.12bil.\" (quantitative market data)\n• Evidence 2: \"In key Asian markets... Straits Times added 0.42% to 3,474.\" (broader market context but lacks company-specific analysis)"
+  }
+}

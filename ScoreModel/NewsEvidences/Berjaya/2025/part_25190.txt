@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Science, technology, engineering and mathematics (STEM) education is an impetus to prepare Malaysia's future generation...\" (verifiable data on market size and growth rates)\n• Evidence 2: \"global animation market size that was foreseen to increase to over US$587bil by 2030\" (specific, factual projection from credible source Bernama)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business operations, strategic initiatives, or financial performance\n• Evidence 2: Focus on general government policy and industry trends unrelated to the company's specific business context"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"market size was projected to reach US$687.4bil by 2027...compound annual growth rate of 9.97 per cent\" (quantitative data supporting claims)\n• Evidence 2: Details about CIRc8 2024 event, MOU/Letter of Intent exchanges, and sub-sector examples (contextual depth on industry developments)"
+  }
+}

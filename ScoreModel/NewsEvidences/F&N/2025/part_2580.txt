@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites Reuters as a source for the global AI selloff claim.\n• Evidence 2: It provides verifiable data points like the FBM KLCI's 0.4% decline, share turnover figures, and specific stock price movements with precise monetary values."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text does not mention Fraser & Neave Holdings Bhd or any of its business activities, financial performance, or strategic initiatives.\n• Evidence 2: The focus is solely on macroeconomic factors and broader market trends, with no direct or indirect connection to the company's operations or stakeholder interests."
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: The article includes detailed market data (e.g., intraday highs/lows, share counts, currency movements) but lacks analysis of underlying causes or implications for specific companies.\n• Evidence 2: While it mentions global factors like AI selloffs and US tariffs, it does not contextualize these events within the broader economic landscape or their potential impact on individual firms."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 4.91 points, or 0.3%, to 1,639.82 at 9:21 am.\" (verifiable data)\n• Evidence 2: \"Dealers noted positive momentum in U.S. markets following the release of the Federal Reserve's September meeting minutes\" (citing a credible source and factual context)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N slid 34 sen to RM30.46\" (only mentions stock price movement, no strategic context)\n• Evidence 2: No discussion of Fraser & Neave's business strategies, competitive position, or long-term value creation"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Inter-Pacific Research noted that the market's cautious trend could continue...\" (provides analyst insights and market context)\n• Evidence 2: \"The Dow Jones Industrial Average rose 1.03%...\" (includes detailed market data and global equity indices)"
+  }
+}

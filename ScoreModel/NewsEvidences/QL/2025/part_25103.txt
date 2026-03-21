@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Satya Nadella, CEO of Microsoft, praised his 'curiosity and craftsmanship'\"\n• Evidence 2: \"Alex Stamos, the chief trust officer at SentinelOne, a cybersecurity research firm.\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\"\n• Evidence 2: \"The vast majority of the world’s servers...run on Linux, which makes its security a matter of global importance.\""
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The code, known as a backdoor, would allow its creator to hijack a user’s SSH connection and secretly run their own code on that user’s machine.\"\n• Evidence 2: \"This could have been the most widespread and effective backdoor ever planted in any software product,\" said Alex Stamos."
+  }
+}

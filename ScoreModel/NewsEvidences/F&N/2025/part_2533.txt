@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data (e.g., FBM KLCI rose 7.36 points, 0.49% to 1,524.31) and cites credible sources like TA Securities and Hong Leong Investment Bank Research.\n• Evidence 2: The tone is balanced, acknowledging investor caution and potential risks while reporting on market movements."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd or its strategic direction, focusing instead on broader market indices and macroeconomic factors.\n• Evidence 2: While it discusses factors like tariffs and trade tensions that could impact Malaysian markets, there is no direct link to the company's business performance or strategic priorities."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article includes detailed market data (e.g., turnover, gainers/decliners, technical analysis levels) and contextualizes the market movement within U.S.-China trade talks and global economic conditions.\n• Evidence 2: It provides multiple perspectives (e.g., TA Securities, Hong Leong Investment Bank) and explains potential risks like foreign outflows and tariff uncertainties, offering comprehensive analysis of market dynamics."
+  }
+}

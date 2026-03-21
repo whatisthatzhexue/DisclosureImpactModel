@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI's decline of 10.51 points (\"The FBM KLCI slid 10.51 points, or 0.7%, to 1,501.40\").\n• Evidence 2: It reports balanced market sentiment, noting both negative breadth (660 losers) and positive performers (298 gainers) without overt bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave (F&N) as a stock that rose 26 sen to RM28.76, linking it to market movements.\n• Evidence 2: It references foreign investor activity (RM53mil net sellers) and local institutional buying, which indirectly relates to capital flow impacts on companies."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes comprehensive market data: share volumes (2.82 billion shares), price changes for multiple stocks, and regional index performance (Nikkei, Hang Seng, etc.).\n• Evidence 2: It provides context on geopolitical concerns and investor sentiment, though limited analysis of specific company strategies is absent."
+  }
+}

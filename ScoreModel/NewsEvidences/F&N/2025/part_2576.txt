@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"analysts are forecasting a rebound...\" (verifiable market data)\n• Evidence 2: \"the FBM KLCI closed 10.93 points...\" (specific, factual market performance)\n• Evidence 3: \"Fraser & Neave Holdings Bhd... saw respective gains\" (direct company performance data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"export-oriented companies... could see some positives\" (direct link to company's business model)\n• Evidence 2: \"Fraser & Neave Holdings Bhd... among top gainers\" (specific company mention)\n• Evidence 3: \"China + 1 policy... Malaysia will continue benefiting\" (strategic context for regional stakeholders)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"the FBM KLCI is likely to remain on consolidation mode...\" (market context)\n• Evidence 2: \"the imposition of an additional 10% tariff... is expected to boost sentiment\" (specific industry impact)\n• Evidence 3: \"the Johor-Singapore Special Economic Zone initiatives...\" (regional context but limited company-specific analysis)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MIDF Research said in a report yesterday.\" (credible source cited)\n• Evidence 2: \"The impact on costs for beverage companies... remains limited.\" (specific analysis with factual context)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N is well positioned to capitalise on the growing trend of out-of-home consumption...\" (direct company strategic positioning)\n• Evidence 2: \"improved margins based on declining global commodity prices...\" (financial implications for business strategy)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the increase in STR allocations... to RM13bil\" (specific quantitative data)\n• Evidence 2: \"product reformulations across most of their ready-to-drink products\" (detailed operational adaptation analysis)"
+  }
+}

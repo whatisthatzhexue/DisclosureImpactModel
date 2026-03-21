@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"QL Resources Bhd posted a lower net profit of RM116.23 million...\" (specific financial data with verifiable figures)\n• Evidence 2: \"In a filing with Bursa Malaysia\" (credible source citation with regulatory context)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"management remains cautiously optimistic\" (forward-looking statement tied to strategic outlook)\n• Evidence 2: \"diversified and resilient nature of its staple food businesses\" (strategic business positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue eased to RM1.73 billion...mainly due to substantially lower fishmeal sales volumes...depressed international fishmeal prices\" (contextual explanation of financial performance)\n• Evidence 2: \"business performance is expected to remain satisfactory...supported by...diversified...businesses\" (partial analysis of strategic implications)"
+  }
+}

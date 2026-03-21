@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Malaysia's economy grew 5% in 4Q24, slightly above market expectations and the official advance estimate of 4.8%\" (verifiable GDP data from Bank Negara).\n• Evidence 2: \"FBM KLCI closed at 1,591.60, down 0.68 points or 0.04%\" (specific, factual market data with numerical precision)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N lost 48 sen to RM26.22\" (direct mention of the company's stock movement, but no strategic context).\n• Evidence 2: No analysis of how market trends or GDP growth impact Fraser & Neave's competitive position, long-term value, or business strategy."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Turnover stood at 3.27 billion shares worth RM2.4bil, with 597 decliners, 433 gainers, and 446 counters unchanged\" (comprehensive market data).\n• Evidence 2: Detailed stock price movements for multiple companies (e.g., \"Heineken jumped RM1.62 to RM27.60\") but lacks analysis of broader implications for Fraser & Neave."
+  }
+}

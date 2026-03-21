@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI's closing level (1,637.80), percentage increase (1.04%), and specific stock movements (e.g., IHH Healthcare rising 4.03%).\n• Evidence 2: The tone is balanced, acknowledging both bullish sentiment and lingering selling pressure, with no apparent bias or fabrication."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd or its strategic direction, competitive position, or financial performance.\n• Evidence 2: While it references macroeconomic factors like Budget 2026, these are general market catalysts and not tied to the company's specific strategic relevance."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text offers comprehensive coverage of the market, including detailed statistics (e.g., turnover of RM3.93bil, market breadth of 855 gainers vs. 355 losers) and comparisons to other Asian indices.\n• Evidence 2: It includes specific examples of top performers and underperformers, providing context for the market's movement and investor behavior."
+  }
+}

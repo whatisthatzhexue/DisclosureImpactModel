@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Power Root Bhd had inked a sale and purchase agreement with Ree Fong Agriculture Sdn Bhd for the acquisition of five lots of freehold agricultural land in Kulai, Johor, for a cash consideration of RM20.0mn.\" (specific transaction details with verifiable financial figures)\n• Evidence 2: \"SNS Network Technology Bhd has reported a five-fold rise in its 3QFY25 net profit...\" (quantifiable financial performance data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root Bhd...acquisition of five lots of freehold agricultural land...\" (direct company mention with potential strategic expansion implications)\n• Evidence 2: \"Mega First Corporation Bhd...secured a five-year extension to its 25-year concession...\" (indicates long-term project commitment, though not directly tied to Power Root)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"RM20.0mn\" and \"five lots of freehold agricultural land\" (specific transaction details but no contextual background)\n• Evidence 2: \"no mention of Power Root's prior strategy, market position, or future plans related to agricultural land acquisition\" (lack of analytical depth or stakeholder impact analysis)"
+  }
+}

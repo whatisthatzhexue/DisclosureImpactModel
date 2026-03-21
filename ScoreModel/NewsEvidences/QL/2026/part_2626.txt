@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 4,
+    "justification": "• Evidence 1: The text lacks cited sources or verifiable data (e.g., no references to financial reports, earnings, or external analyses)\n• Evidence 2: The analysis is one-sided, focusing solely on technical indicators without balancing bearish or bullish perspectives"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: Mentions QL Resources Bhd directly but focuses on stock price movements rather than strategic initiatives or competitive positioning\n• Evidence 2: No connection to business performance factors, financial implications, or long-term value creation"
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: Provides technical details (e.g., RSI, MACD, support levels) but lacks context about the company's operations or market position\n• Evidence 2: Superficial analysis without deeper insights into financial health, industry trends, or stakeholder impact"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Pope Francis left Indonesia on Friday morning for Papua New Guinea...\" (specific timeline and location details)\n• Evidence 2: \"The warming planet is expected to remain a focus...\" (quotes from the pope's stated priorities with contextual background)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company...\" (company context unrelated to article content)\n• Evidence 2: \"No direct mention of QL Resources Berhad, its operations, financials, or strategic initiatives\" (complete absence of company-related information)"
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: \"...will have travelled about 16,000 km...\" (quantitative data on trip logistics)\n• Evidence 2: \"...a landslide in March that killed at least 2,000 people\" (specific contextual details about PNG's climate change impacts)"
+  }
+}

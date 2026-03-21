@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., FBM KLCI closing at 1,518.91, 2.51 billion shares traded) from Bursa Malaysia, a credible source.\n• Evidence 2: Balanced reporting is evident, with both market declines and last-minute buying mentioned, along with regional equity performance."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave (F&N) as a decliner (down 20 sen to RM23.90) but does not connect this to strategic factors, competitive positioning, or long-term value creation.\n• Evidence 2: No direct linkage to the company's business performance, financial implications, or stakeholder significance is provided."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Comprehensive coverage of market breadth (357 gainers vs. 548 losers), trading volumes (RM1.81bil), and regional indices (e.g., Nikkei 225 down 2.77%) is provided.\n• Evidence 2: Detailed forex movements (ringgit weakening against USD, SGD, GBP, EUR) and sector-specific stock performance (e.g., Dutch Lady as top gainer) are included."
+  }
+}

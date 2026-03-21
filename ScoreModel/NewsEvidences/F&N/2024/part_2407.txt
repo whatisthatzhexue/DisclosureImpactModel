@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI settled the day up 25.25 points, or 1.53% to 1,678.80, its highest since December 2020.\" (specific, verifiable data)\n• Evidence 2: \"Reuters reported that the ringgit has had a stellar run...\" (credible source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N added 40 sen to RM29.90\" (direct company mention relevant to investors)\n• Evidence 2: \"foreign funds and retailers were net buyers...\" (market activity impacting company's stock)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"771 gainers outpacing 421 losers and 437 counters remaining unchanged\" (comprehensive market data)\n• Evidence 2: \"stock market data showed foreign funds...\" (detailed financial context)"
+  }
+}

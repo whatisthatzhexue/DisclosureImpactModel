@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI rose 2.62 points or 0.17% to 1,526.46\" (verifiable market data)\n• Evidence 2: \"Malacca Securities expects the FBM KLCI to trade on a softer tone\" (cited credible research house with balanced analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N fell 22 sen to RM28.22\" (direct company mention impacting stakeholder interests)\n• Evidence 2: \"SunCon... project win... cover ratio of over two times its forecasted FY24 revenue\" (strategic insight for construction sector, though not directly tied to Fraser & Neave)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Turnover stood at 1.6 billion shares worth RM883.6 million\" (comprehensive market context)\n• Evidence 2: \"Traders may also focus on the O&G sector... geopolitical tension\" (analytical depth with sector-specific insights)"
+  }
+}

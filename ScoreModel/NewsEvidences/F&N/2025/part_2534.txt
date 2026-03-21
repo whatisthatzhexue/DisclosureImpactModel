@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reuters reported\" (credible source cited)\n• Evidence 2: \"Inter-Pacific Research\" and \"Rakuten Trade\" provide analyst perspectives with specific data points (e.g., index levels, stock price movements)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: No direct mention of Fraser & Neave Holdings Bhd or its strategic priorities\n• Evidence 2: Focus on broad market indices (FBM KLCI, S&P 500) and macroeconomic factors, not company-specific performance or strategic initiatives"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: Detailed market analysis with specific numerical data (e.g., FBM KLCI movement, stock price changes, resistance/support levels)\n• Evidence 2: Contextualizes trade talks, analyst forecasts, and broader market trends (e.g., IPO performance, trading activity patterns)"
+  }
+}

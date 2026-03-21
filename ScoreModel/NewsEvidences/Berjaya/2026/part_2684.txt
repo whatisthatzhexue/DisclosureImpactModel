@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FTSE Bursa Malaysia KLCI (FBM KLCI) rose 11.57 points to 1,611.70 from last Friday’s close of 1,600.13\" (verifiable numerical data).\n• Evidence 2: Analyst quotes from Rakuten Trade and Berjaya Research are attributed to credible sources and provide balanced market analysis."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text focuses on broad market trends and regional indices, with no direct mention of Berjaya Food Berhad or its financial performance.\n• Evidence 2: Analyst comments about the Fed's monetary policy and global liquidity do not connect to Berjaya Food's strategic direction or business operations."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Detailed market data is provided, including indices, turnover figures, and sector-specific performance (e.g., Financial Services Index widening 173.72 points).\n• Evidence 2: The text includes analyst forecasts and technical analysis (e.g., resistance levels at 1,620-1,650), but lacks context specific to Berjaya Food Berhad."
+  }
+}

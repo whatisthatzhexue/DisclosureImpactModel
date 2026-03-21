@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Social media makes it seem like you always need something new to stay relevant, or to be seen as stylish,\" she explains.\n• Evidence 2: \"It is a form of reverse marketing – or demarketing – that encourages people to pause, reflect, and make more intentional choices before spending.\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\" (No direct connection to the article's content about fashion trends)\n• Evidence 2: \"Read more: 'Moving far too slow': Fashion labels lag behind on sustainability pledges\" (No mention of QL Resources' strategic initiatives or business performance)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Deinfluencing invites consumers to question that norm, overcome the fear of missing out, and embrace habits like decluttering, reducing waste, and buying less, but better.\" (Provides context about the movement's goals)\n• Evidence 2: \"Platforms such as Carousell and the proliferation of local thrift stores have gained popularity...\" (Offers detailed examples of consumer behavior shifts)"
+  }
+}

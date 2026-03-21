@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Based on police records, Saifuddin said a total of 46,085 cybercrime reports were lodged last year with 49% of cases resolved.\"\n• Evidence 2: \"The convention is the first international treaty to address cybercrime by harmonising national laws, improving investigative techniques and increasing cooperation among nations.\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"[No direct mention of Berjaya Food Berhad or its operations]\"\n• Evidence 2: \"[No connection to the company's strategic direction, financial implications, or market impact]\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The NSRC comprises representatives from Bank Negara, the Malaysian Communications and Multimedia Commission and the police, and will have its own office in Cyberjaya.\"\n• Evidence 2: \"Saifuddin Nasution revealed that the ministry is currently reviewing cybercrime laws to expand the power of enforcement agencies, and to include provisions for real-time strategic data collection.\""
+  }
+}

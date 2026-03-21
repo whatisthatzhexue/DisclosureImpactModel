@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The country’s retail sales contracted by 3% year-on-year (y-o-y) in the second quarter of this year (2Q25), underperforming earlier projections of 1% growth.\" (RGM data)\n• Evidence 2: \"CIMB Research said...\" (Credible source cited with balanced analysis of sector challenges and opportunities)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd...manufacturers of staples...will continue to outperform\" (Direct company mention tied to strategic positioning)\n• Evidence 2: \"valuations remain supported by inelastic demand for staple goods...minimum wage hikes\" (Link to company-specific operational and market factors)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Four sub-sectors are forecast to record positive y-o-y growth...five are expected to contract\" (Comprehensive sector analysis with specific data)\n• Evidence 2: \"electricity tariff revision...SST expansion...mandatory EPF contributions\" (Detailed cost headwinds analysis with multiple data points)"
+  }
+}

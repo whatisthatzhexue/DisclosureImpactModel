@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI index decline (5.97 points, 0.38%), traded volume (1.92 billion shares), and specific stock price movements (e.g., PETRONAS Dagangan fell 48 sen to RM19.42).\n• Evidence 2: TA Securities' analysis is cited as a credible source, with specific technical levels mentioned (e.g., immediate resistance at 1,605)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd or its stock performance, focusing instead on broad market indices and other companies (e.g., PETRONAS Dagangan, Heineken).\n• Evidence 2: No direct connection to the company's strategic direction, financial performance, or stakeholder impact is provided."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article includes detailed market data (e.g., 582 losers vs. 277 gainers, RM1.09bil traded value) and technical analysis from TA Securities, offering context for market behavior.\n• Evidence 2: It explains the reasons for market declines (U.S. tariff uncertainties) and provides forward-looking insights about potential resistance/support levels."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"UoC, he added, will continue to work closely with the Sepang district police headquarters (IPD Sepang) so that prevention, response and follow-through remain strong.\" \n• Evidence 2: \"Thanking the police for its professionalism in the murder case involving the varsity’s student in June, Prof Whitford said IPD Sepang has been proactive and responsive at every step of the way.\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The University of Cyberjaya (UoC) is tightening access controls, extending patrol coverage and improving incident reporting, to keep the institution’s campus community safe\" (no mention of Berjaya Food Berhad or its business operations). \n• Evidence 2: \"IPD Sepang, he added, will continue to stand with UoC through advice, outreach and coordinated action so that students and staff feel secure\" (no connection to Berjaya Food’s strategic priorities)."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Both parties are looking to develop joint preventive initiatives such as awareness campaigns, regular safety briefings, early intervention, and periodic coordination meetings, to address issues such as bullying, stalking and related risks.\" \n• Evidence 2: \"Supt Shan Gopal reaffirmed the police commitment to supporting the varsity. He said, 'UoC has moved quickly to ensure safety on campus, and we support these efforts.'\""
+  }
+}

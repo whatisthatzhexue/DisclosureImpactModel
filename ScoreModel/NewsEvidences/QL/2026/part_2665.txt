@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Malaysia's halal product exports reached RM61.79 billion in 2024, marking a 15 per cent increase from RM53.72 billion recorded in the same period of 2023\" (specific verifiable data).\n• Evidence 2: \"The global demand for halal products is currently valued at over US$3 trillion and is expected to grow to US$5 trillion by 2030\" (projections cited with context)."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL Foods Sdn Bhd, and Ayamas Food Corporation, are also recognised among the top players globally\" (direct company mention relevant to QL Resources Berhad).\n• Evidence 2: \"Malaysia is actively promoting the halal industry as a key driver of economic growth and regional cooperation\" (connects to strategic priorities and long-term value creation)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MIHAS has generated nearly RM30 billion in export sales and attracted 12,000 local and international halal industry players\" (comprehensive data on impact).\n• Evidence 2: \"The 20th edition of MIHAS marked a record-breaking achievement... recording RM4.3 billion in sales\" (historical context and quantitative evidence)."
+  }
+}

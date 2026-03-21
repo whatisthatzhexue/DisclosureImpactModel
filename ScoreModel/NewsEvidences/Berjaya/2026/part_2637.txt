@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"HE Group Bhd has received a duly executed subcontractor contract...\" (verifiable data and factual disclosure)\n• Evidence 2: \"Barring any unforeseen circumstances...\" (balanced tone and no fabrication)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"the subcontract is expected to contribute positively to the earnings of He Group\" (financial implication for investors)\n• Evidence 2: \"specialising in the construction, civil engineering and offshore oil and gas sectors\" (industry context but no strategic alignment to company's long-term goals)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"worth RM56.59mil\" (specific financial data)\n• Evidence 2: \"subcontract commenced on Aug 27, 2025 and is for a period of eight months\" (timeline details but lacks broader market or operational context)"
+  }
+}

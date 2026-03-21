@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 5.68 points, or 0.38% to 1,519.33 at 9.13 am.\" (specific, verifiable data)\n• Evidence 2: \"Inter-Pacific Research said market conditions...\" (credible source cited with balanced analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Fraser & Neave Holdings Bhd or its financial performance, strategic initiatives, or market position.\" (no company-specific information)\n• Evidence 2: \"Focus on broader market indices and macroeconomic factors, not stakeholder-relevant company data.\" (lack of strategic connection)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Provides technical analysis of FBM KLCI support/resistance levels and market sentiment\" (contextual depth)\n• Evidence 2: \"Mentions global market trends (S&P 500, Nasdaq) and tariff risks to Malaysia's exports\" (broader economic context, but no company-specific depth)"
+  }
+}

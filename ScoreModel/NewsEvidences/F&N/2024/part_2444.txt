@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI opened lower... 1,543.53\" (specific, verifiable data)\n• Evidence 2: \"Apex Securities Research suggested... Malaysia gross domestic product growth at 4.3% year-on-year in 2024\" (cited credible source with factual data)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"We continue to favour the oil and gas sector...\" (indirectly relevant to market trends impacting companies)\n• Evidence 2: \"The open tender for LSS5 programme... solar-related players\" (sector-specific but no direct mention of Fraser & Neave)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"East Asia and Pacific chief economist Aaditya Mattoo said domestic demand... semiconductor production from China\" (contextual analysis of macroeconomic factors)\n• Evidence 2: \"PETRONAS Chemicals shaved four sen... MISC climbed 22 sen...\" (detailed stock price movements with quantitative data)"
+  }
+}

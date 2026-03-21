@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Federal Reserve chair Jerome Powell signalled the central bank could push back the timeline for easing measures\" (verifiable quote from a credible source).\n• Evidence 2: \"FBM KLCI entered the lunch break 1.24 points lower at 1,533.76\" (specific, factual market data)."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Consumer counters were among the most improved including F&N rising 32 sen to RM31.28\" (direct mention of Fraser & Neave's subsidiary, relevant to stock performance).\n• Evidence 2: \"Plantations sector was a leading laggard... IOI falling eight sen... Sime Darby Plantation shedding five sen\" (sector-specific data impacting related companies)."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Share turnover was 1.85 billion shares valued at RM1.8bil\" (quantitative data on market activity).\n• Evidence 2: \"Asian markets... mixed following Powell's comments... Shanghai Composite rose 1.2%\" (contextual analysis of global market interdependencies)."
+  }
+}

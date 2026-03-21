@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: The article cites specific figures like \"RM200bil\" exports to the US and \"RM100mil\" target for the Selangor Semiconductor Fund, but lacks independent verification or sources.\n• Evidence 2: The text presents a one-sided narrative focused on government achievements without critical analysis or counterpoints, lacking balanced reporting."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: Mentions Malaysia's semiconductor initiatives and partnerships with global firms, aligning with long-term tech development goals.\n• Evidence 2: Discusses workforce upskilling and investment incentives, which are relevant to stakeholder interests in economic growth but lacks direct connection to Berjaya Food Berhad's operations."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: Provides detailed context about the IC Design Park 2, including timelines (\"within three months\"), financial targets (\"RM100mil\"), and collaboration with entities like Artem Venture Fund.\n• Evidence 2: Explains technical processes (semiconductor IC design) and outlines specific programs (NSEP, GSEP) with participation from major companies like AMD and Intel, offering comprehensive coverage."
+  }
+}

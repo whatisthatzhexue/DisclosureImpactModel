@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 0, "justification": "• Evidence 1: The text contains no information about QL Resources Berhad or its operations, making it irrelevant to the company's credibility evaluation.\n• Evidence 2: The article focuses on political events in Indonesia, which are unrelated to the company's financial or operational disclosures."],
+  "StrategicRelevance": {"score": 0, "justification": "• Evidence 1: The text provides no mention of QL Resources Berhad's strategic direction, competitive position, or business performance.\n• Evidence 2: The article's content is entirely unrelated to the company's market impact, financial implications, or stakeholder significance."],
+  "Depth": {"score": 0, "justification": "• Evidence 1: The text offers no background, data, or context related to QL Resources Berhad's activities, operations, or industry.\n• Evidence 2: The article's detailed political events lack relevance to the company's business strategies, governance, or market position."}
+}

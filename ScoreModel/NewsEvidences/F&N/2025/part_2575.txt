@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose to its highest in over a week as recovery continued on the local bourse amid easing fears over inflation risks and tariff threats.\" (verifiable market data)\n• Evidence 2: \"Turnover was 1.64 billion shares changing hands for RM1.15bil.\" (specific, quantifiable financial information)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Fraser & Neave Holdings Bhd or its business performance, strategic initiatives, or market position.\" (complete absence of company-specific context)\n• Evidence 2: \"Focus on broad market indices and regional equity movements rather than corporate financials or strategic direction.\" (lack of stakeholder-relevant company details)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Detailed breakdown of market participants (538 gainers vs 315 decliners), specific stock price movements (e.g., F&N jumping 32 sen to RM25.82), and regional market comparisons.\" (comprehensive market analysis)\n• Evidence 2: \"Inclusion of macroeconomic context (China's AI breakthrough, Alphabet earnings, and global market trends) to explain market behavior.\" (broader contextual framework)"
+  }
+}

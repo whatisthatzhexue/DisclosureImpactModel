@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The accused...pleaded not guilty to the charges before Judge Amir Affendy Hamzah.\" (verifiable court proceedings)\n• Evidence 2: \"The prosecution was handled by deputy public prosecutor Mohamed Wafi Husain\" (credible source attribution)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or any business activities related to the company\" (complete absence of company context)\n• Evidence 2: \"The article focuses on a criminal case unrelated to the company's operations\" (no connection to strategic factors)"
+  },
+  "Depth": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Provides basic details about the kidnapping case but lacks context about the company's involvement\" (no depth related to the company)\n• Evidence 2: \"No data or analysis connecting the case to business performance or market impact\" (irrelevant to company stakeholders)"
+  }
+}

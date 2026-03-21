@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The recent easing of the OPR by the central bank is expected to inject liquidity...\" (TA Securities)\n• Evidence 2: \"Also, within a low interest regime Banks may actually benefit...\" (Rakiten Trade)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources added five sen to RM4.61\" (direct mention but no strategic context)\n• Evidence 2: No discussion of QL Resources' business strategies, competitive position, or financial implications"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides market context (FBM KLCI movements, rate cuts, tariff impacts)\n• Evidence 2: Mentions specific stock price changes but lacks analysis of underlying business factors"
+  }
+}

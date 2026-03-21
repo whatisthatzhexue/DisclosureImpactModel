@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The FBM KLCI finished higher... as investors awaited Bank Negara's expected decision' (verifiable market data)\n• Evidence 2: 'Foreign investors continued selling local stocks... RM251mil in equities' (specific financial figures from Bursa Malaysia)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'F&N gained 48 sen to RM27.60' (direct mention of Fraser & Neave Holdings Bhd, relevant to investors)\n• Evidence 2: 'Market sentiment... influenced by global drivers... fund flows' (impacts strategic factors for stakeholders)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The 30-stock index rose... intraday high/low range' (comprehensive market context)\n• Evidence 2: 'Regional markets closed lower... Kospi gained 0.38%' (detailed comparative analysis of global markets)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites specific collaborations (e.g., \"Mural Batik Madani\" is a collaboration between Kuala Lumpur City Hall (DBKL) and Berjaya Group) and verifiable details (e.g., the mural's size: 183m long and 6m high).\n• Evidence 2: Quotes from artists like Arif Othman and Mr. Perol are included, adding firsthand perspectives without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave (F&N) as a commissioner of the kopitiam mural, linking the company to cultural initiatives.\n• Evidence 2: The \"Born to Fly\" mural is tied to a campaign by Hoka and DBKL, suggesting brand alignment with community projects, though no direct financial or strategic implications for F&N are analyzed."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides detailed descriptions of murals (e.g., \"Life of a Traveller\" was created by students over four days under lecturers' guidance) and contextualizes their cultural significance.\n• Evidence 2: Background on historical murals (e.g., Muzium Negara's 1962 Venetian glass tiles) and community projects (e.g., Jalan Raja Chulan's 2019 contest) is included, offering comprehensive coverage of the topic."
+  }
+}

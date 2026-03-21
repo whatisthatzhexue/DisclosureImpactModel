@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites credible sources like TA Securities, Apex Securities, and Malacca Securities with verifiable market data (e.g., FBM KLCI index movement, turnover figures, and stock price changes).\n• Evidence 2: The tone is balanced, presenting multiple perspectives (e.g., cautious trading expectations, mixed market sentiment, and conflicting brokerage forecasts)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd directly, focusing instead on broader market trends and unrelated companies like Betamek, United Plantations, and PETRONAS.\n• Evidence 2: While it discusses market factors affecting Malaysian equities, there is no connection to Fraser & Neave's strategic direction, financial performance, or competitive position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive market context, including detailed data on trading volumes, index movements, and brokerage analysis of technical levels (e.g., Fibonacci retracement levels).\n• Evidence 2: It includes specific examples of stock performance (e.g., United Plantations rising 50 sen) and mentions key economic indicators (e.g., US GDP data influencing investor sentiment)."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Spokespersons for Grab and Chope confirmed the acquisition, which was earlier reported by the Business Times.\"\n• Evidence 2: \"Bloomberg Intelligence analyst Nathan Naidu said in a note.\""
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Grab is pushing beyond its core services of ride hailing and food delivery, seeking to boost its margins...\"\n• Evidence 2: \"Grab’s latest acquisition underscores its leading position in ride-hailing and food delivery in the region.\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Chope’s 10,000 merchants will bolster GrabFood’s ecosystem of over 200,000...\"\n• Evidence 2: \"Taking over the near-profitable Chope won’t dent Grab’s positive-adjusted Ebitda...\""
+  }
+}

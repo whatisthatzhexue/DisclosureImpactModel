@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., FBM KLCI rose 5.16 points, 0.33% to 1,549.87) with specific traded volumes (2.5 billion shares, RM1.3bil) and quotes from TA Securities.\n• Evidence 2: It reports factual events like Microlink's short-selling suspension and Asian market indices without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave (F&N) as a stock that gained 44 sen to RM29.66, which relates to investor interest in the company's performance.\n• Evidence 2: However, it lacks analysis of F&N's strategic direction, competitive position, or long-term value creation, focusing instead on broader market trends."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., advance-decline score 365-513, 21-month high of 1,559) and specific stock price movements, providing context for market dynamics.\n• Evidence 2: It lacks in-depth analysis of Fraser & Neave's business performance or strategic implications, offering only surface-level information about the company's stock movement."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI opened on a downbeat note this morning, following Wall Street’s overnight slump.\" (factual market movement)\n• Evidence 2: \"Philip Research expects the index to consolidate...\" (cited analyst perspective)\n• Evidence 3: Specific numerical data (e.g., Dow Jones fell 0.61% to 43,449.90) is provided, supporting factual accuracy."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions F&N as a gainer (\"F&N added 34 sen to RM27.88\") but does not connect to strategic direction, competitive position, or long-term value creation for Fraser & Neave.\n• Evidence 2: No direct reference to the company's business performance, financial implications, or market impact beyond stock price movement."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Detailed market analysis including multiple indices (Dow Jones, S&P 500, Nasdaq Composite) and technical levels (1,590-1,593, 1,585) provides contextual depth.\n• Evidence 2: Quotes from two research firms (Philip Research, Inter-Pacific Research) and specific stock price movements (e.g., \"ACE Market debutant Carlo Rino fell 16.67%\") add analytical depth."
+  }
+}

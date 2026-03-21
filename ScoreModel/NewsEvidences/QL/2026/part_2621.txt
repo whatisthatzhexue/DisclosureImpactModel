@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"local authorities said, in an incident that marks a deadly turn in anti-government protests\" (verifiable source cited as Reuters)\n• Evidence 2: \"Morocco's unemployment rate stands at 12.8%...\" (specific statistical data provided)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of QL Resources Berhad or any business-related context\n• Evidence 2: The article focuses entirely on Morocco's political unrest, unrelated to food/beverage industry or Malaysian market dynamics"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Membership in GenZ 212’s Discord server surged from around 3,000 last week to more than 130,000 today\" (quantitative data on movement growth)\n• Evidence 2: \"The recent wave of youth anger was sparked by earlier protests in Agadir over poor hospital conditions...\" (contextual background on protest origins)"
+  }
+}

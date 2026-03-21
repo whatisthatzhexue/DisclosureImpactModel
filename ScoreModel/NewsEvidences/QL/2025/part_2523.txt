@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In the absence of any aggressive selling from foreign funds, we expect the index to possibly hover within the 1,615-1,625 range today...\" (Rakuten Trade's analysis provides a factual outlook with verifiable market data).\n• Evidence 2: Specific stock prices and indices (e.g., \"Dow Jones Industrial Average rose 0.69% to 45,014.44\") are quantified and align with public financial market data."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: Direct mention of QL Resources Berhad with a stock price increase (\"QL Resources added four sen to RM4.87\").\n• Evidence 2: No connection to the company's strategic direction, competitive position, or long-term value creation; focus remains on market trends rather than business-specific analysis."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides basic stock price data and market context (e.g., \"FBM KLCI was up 2.05 points to 1,616.14\").\n• Evidence 2: Lacks background on QL Resources' operations, financial performance, or industry-specific factors influencing its stock movement."
+  }
+}

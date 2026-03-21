@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., 'FBM KLCI jumped 24.66 points, or 1.63%, to 1,540.22')\n• Evidence 2: It cites specific stock movements (e.g., 'PETRONAS Chemicals contributed the most to the index gain... increasing 5.76%')"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave Holdings Bhd (F&N) as a stock that 'jumped 78 sen to RM27' but provides no strategic context or business performance analysis\n• Evidence 2: No connection to the company's competitive position, long-term value creation, or financial implications beyond stock price movement"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes comprehensive market data (e.g., '2.57 billion shares worth RM2.25bil transacted') and regional index comparisons\n• Evidence 2: It details individual stock movements (e.g., 'Bintulu Port slid 20 sen to RM5.24') but lacks contextual analysis of market trends' impact on specific companies"
+  }
+}

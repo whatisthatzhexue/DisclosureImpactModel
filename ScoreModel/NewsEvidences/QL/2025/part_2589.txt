@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Japan's Nikkei share average closed lower on Wednesday...\" (specific, verifiable data)\n• Evidence 2: \"The Federal Reserve Open Market Committee (FOMC) is widely expected to leave interest rates unchanged...\" (balanced reporting with factual context)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No mention of QL Resources Berhad or any business activities related to the company\" (no direct connection to the subject company)\n• Evidence 2: \"Focus on macroeconomic factors (Fed policy, yen weakness) rather than corporate strategy or financial performance of QL Resources\" (no stakeholder significance for the company)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Shares of chip-related equipment maker Lasertec jumped 14.9%...\" (specific stock performance details)\n• Evidence 2: \"Risk of currency intervention...\" (comprehensive coverage of market dynamics and economic implications)"
+  }
+}

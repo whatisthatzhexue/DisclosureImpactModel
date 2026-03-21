@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The media team at Shahi Exports and the firm’s company secretary didn’t respond to emails seeking comment.\" (verifiable source response)\n• Evidence 2: \"According to data from broker Hamptons International.\" (cited third-party data)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The article contains no direct mention of QL Resources Berhad or its operations.\" (no company-specific information)\n• Evidence 2: \"The focus is on Shahi Exports and real estate transactions unrelated to QL Resources' business.\" (no strategic connection to the company context)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The property offering more than 20,000 square feet of space is a short walk from Kensington Gardens...\" (specific contextual details)\n• Evidence 2: \"The first one once belonged to Countess Raine Spencer...\" (historical and cultural context provided)"
+  }
+}

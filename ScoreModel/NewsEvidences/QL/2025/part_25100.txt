@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Established by UNHCR in 2020\" (verifiable historical data)\n• Evidence 2: \"For each T-shirt... RM14.40\" (specific financial contribution metric)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of QL Resources Berhad or its business operations\"\n• Evidence 2: \"Focus on UNHCR and Uniqlo collaboration unrelated to food/beverage industry\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Detailed descriptions of 5 winning artworks with artist backgrounds and symbolism\"\n• Evidence 2: \"Context about refugee challenges in Malaysia (187,000 refugees) and donation mechanism\""
+  }
+}

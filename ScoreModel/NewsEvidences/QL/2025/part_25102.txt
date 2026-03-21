@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL’s net profit in its recently reported third quarter ended Dec 31, 2023 rose year-on-year (y-o-y) by 27.2% to RM123.62mil. This is on the back of revenues for the said quarter rising y-o-y by some 5.1% to RM1.71bil.\" (verifiable financial data)\n• Evidence 2: \"Our FY24 earnings estimates are lowered by 4%... but resilient demand and added capacity will be the driving force...\" (balanced tone with factual context)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the new plant will start to positively contribute to group earnings from financial year 2025 (FY25) onwards... to hit its full capacity\" (directly ties to strategic growth plans)\n• Evidence 2: \"dividend per share estimates are raised to seven sen per year...\" (connects to long-term shareholder value and capital allocation strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL aims to reach circa 396 stores by end-FY24 and targets the Northern and East Coast regions... targeting 600 stores by FY27\" (specific expansion targets and regional focus)\n• Evidence 2: \"slight negative impact from recent calls to boycott... coupled with the Ramadan period\" (contextualizes sales challenges with external factors)"
+  }
+}

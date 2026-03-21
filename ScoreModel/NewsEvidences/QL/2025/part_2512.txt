@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI extended its gains... 1,598.2\" (specific numerical data)\n• Evidence 2: \"Trading volume on Bursa Malaysia was 1.72 billion shares...\" (verifiable market data)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"QL Resources gained six sen to RM4.67\" (direct company mention)\n• Evidence 2: \"The rally... led by financial heavyweights\" (general market context, no strategic insight)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The index has risen above the 50-day simple moving average...\" (technical context)\n• Evidence 2: \"Regional markets were mixed...\" (broader market analysis, but no company-specific depth)"
+  }
+}

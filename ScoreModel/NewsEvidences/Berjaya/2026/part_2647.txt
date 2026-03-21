@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites Bernama as the source, a credible Malaysian news agency.\n• Evidence 2: Quotes from Prime Minister Anwar Ibrahim are attributed directly and include specific details about government initiatives, with no apparent fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text focuses on Malaysia's semiconductor industry strategies, which are unrelated to Berjaya Food Berhad's operations in food and beverage.\n• Evidence 2: No mention of Berjaya Food, its business activities, financial performance, or stakeholder interests."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: Provides detailed context about Malaysia's semiconductor ecosystem, including specific projects like the IC Design Park 2 and Advanced Chip Testing Centre.\n• Evidence 2: Includes quotes from officials and explanations of government collaboration efforts, aligning with strategic goals for industry development."
+  }
+}

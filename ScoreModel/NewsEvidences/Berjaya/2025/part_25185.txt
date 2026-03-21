@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This initiative will break down the financial barriers...\" (Minister Nik Nazmi Nik Ahmad)\n• Evidence 2: \"With the right guidance, our KFC scholars...\" (CEO Nehchal Khanna)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"By focusing on this group, we hope to create a pathway...\" (CEO Nehchal Khanna)\n• Evidence 2: \"With over RM32mil invested in community initiatives...\" (Company statement)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The selection process involved multiple assessment stages...\" (Detailed selection criteria)\n• Evidence 2: \"Many of the scholars come from challenging environments...\" (Context about B40 student challenges)"
+  }
+}

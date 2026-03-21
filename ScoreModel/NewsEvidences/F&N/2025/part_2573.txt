@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The run is organised by Puncak Ventures SRA Sdn Bhd and Selangor Para Athletics Association in collaboration with MBSJ,\" said the city council’s Corporate and Strategic Management department in a statement.\n• Evidence 2: \"Subang Jaya Half Marathon 2025 aims to promote a healthy lifestyle...\" the statement read."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions F&N Beverages Marketing as a sponsor but does not connect this to Fraser & Neave Holdings Bhd’s strategic priorities, financial performance, or market position.\n• Evidence 2: No direct mention of the company’s business operations, competitive advantages, or long-term value creation."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides specific details about event structure, categories, and sponsors, including a list of 15 sponsors and SDG alignment.\n• Evidence 2: While the event’s goals and logistics are described, there is no analysis of its broader implications for the community, economic impact, or stakeholder engagement beyond sponsorship."
+  }
+}

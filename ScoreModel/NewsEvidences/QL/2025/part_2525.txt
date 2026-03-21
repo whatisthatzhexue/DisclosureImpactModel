@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The FBM KLCI finished lower on Thursday, hovering just above the 1,600 level as investor sentiment remained cautious amidst mixed market conditions.\" (verifiable market data)\n• Evidence 2: \"Foreign investors and retailers disposed of RM47mil and RM27mil of local equities, respectively, yesterday.\" (specific financial figures from Bursa Malaysia)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"QL climbed three sen to RM4.88.\" (direct company mention, but no strategic context)\n• Evidence 2: \"Data from Bursa Malaysia showed...\" (general market activity, not tied to QL's strategic direction)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The market traded within a range of 17.2 points, between an intra-day high of 1,615.84 and a low of 1,598.64 during the session.\" (comprehensive market context)\n• Evidence 2: \"Key winners... QL climbed three sen to RM4.88.\" (specific stock movement with quantitative data)"
+  }
+}

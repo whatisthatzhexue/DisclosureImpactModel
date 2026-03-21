@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources Bhd is expected to see strong structural growth across all its core businesses.\" (specific claim with source cited)\n• Evidence 2: \"profit before tax up by about 20% year-on-year\" (quantifiable data with contextual explanation)"
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"long-term growth trajectory remains intact, driven by local consumption and strategic expansion\" (directly ties to company strategy)\n• Evidence 2: \"downstream segment will be a key growth driver\" (connects to business performance and market impact)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"sales of QL Resources’ frozen-food products contributed on average 52% of the group’s profit before tax\" (specific data point with context)\n• Evidence 2: \"profit before tax for the segment surged by 217%\" (detailed financial analysis with causal explanation)"
+  }
+}

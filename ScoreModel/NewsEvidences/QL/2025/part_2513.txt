@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Google has removed a pledge from its artificial intelligence (AI) principles...\" (verifiable factual claim about policy change)\n• Evidence 2: \"James Manyika and Demis Hassabis... said the company needed to update its AI principles\" (direct quotes from credible sources)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of QL Resources Berhad or any food/beverage company operations\n• Evidence 2: The content focuses exclusively on Google's AI policies, which are unrelated to the company context provided"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The technology giant has rewritten the principles...\" (contextual background on policy changes)\n• Evidence 2: \"Previous international summits... no binding international law on the issue is yet in place\" (analytical depth on regulatory landscape)"
+  }
+}

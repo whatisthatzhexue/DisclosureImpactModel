@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI fell 1.29 points at Friday's open to 1,616.75\" (verifiable market data)\n• Evidence 2: \"Rakuten Trade said bargain-hunting activities should emerge...\" (cited analyst note with specific market outlook)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL Resources shed six sen to RM4.19 following the recent announcement of the companies' respective results\" (direct company mention linked to results)\n• Evidence 2: \"YTL Power dropped eight sen... Axiata dropped six sen...\" (market impact on specific companies)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The benchmark index had been caught in range-bound trading...\" (context on market conditions)\n• Evidence 2: \"ACE Market debutant Foodie Media topped the actives list...\" (limited company-specific analysis beyond price movement)"
+  }
+}

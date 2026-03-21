@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., \"The 30-stock index closed up 9.95 points, or 0.64% to 1,574.51\") from Bursa Malaysia, a credible source.\n• Evidence 2: It presents balanced reporting by including both gains (e.g., \"Nestle jumped RM1.16\") and losses (e.g., \"Heineken, the top loser... slid 34 sen\")."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a company that gained 38 sen, linking to its stock performance.\n• Evidence 2: It references market trends and investor behavior, which indirectly relate to the company's financial implications but lacks analysis of strategic direction or competitive positioning."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes comprehensive market data (e.g., \"622 counters on Bursa Malaysia closing higher\", \"foreign investors and local institutions were net sellers\") and contextual details about forex movements and international indices.\n• Evidence 2: It provides specific numerical evidence (e.g., \"RM2.33bil turnover\", \"0.48% MSCI gain\") to support claims, though it lacks deeper analysis of the company's strategic context."
+  }
+}

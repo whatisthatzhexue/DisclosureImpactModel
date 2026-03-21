@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N’s chief executive officer Lim Yew Hoe said in a briefing to analysts and the media...\" (direct quote from credible source)\n• Evidence 2: \"F&N declared a total of 63 sen per share in dividends...\" (specific financial data with verifiable context)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The company’s plans to diversify into the production of fresh milk...\" (direct link to strategic direction)\n• Evidence 2: \"The impact would be minimal and the company would try to absorb the cost...\" (financial implications of regulatory changes)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The company expects to produce up to 200 million litres of milk annually from 20,000 cows...\" (specific production targets and context)\n• Evidence 2: \"The cows should have animal feed ready for consumption by July...\" (timeline details and operational planning)"
+  }
+}

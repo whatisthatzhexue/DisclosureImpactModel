@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, BCorp said the bonus issue will be carried out on the basis of 33 new warrants for every 100 existing ordinary shares held on an entitlement date to be announced later.\"\n• Evidence 2: \"The company estimated expenses related to the exercise at RM800,000, to be funded through internal resources.\"\n• Evidence 3: \"Maybank Investment Bank Bhd, acting on behalf of BCorp’s board, said the exercise aims to reward existing shareholders...\"\n• Evidence 4: \"The bonus issue will not raise immediate funds as the warrants will be issued at no cost to shareholders.\"\n• Evidence 5: \"BCorp said the proceeds will be used to fund the group’s working capital requirements...\"\n• Evidence 6: \"Barring any unforeseen circumstances and subject to the necessary approvals, the proposed bonus issue is expected to be completed by the first quarter of 2026.\""
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The proposed bonus issue aims to reward the entitled shareholders for their continuous support to the group by providing them with an opportunity to increase their equity participation in the company...\"\n• Evidence 2: \"The proceeds will be used to fund the group’s working capital requirements, with the specific allocation to be determined later based on operational needs.\"\n• Evidence 3: \"Maybank Investment Bank Bhd has been appointed as the principal adviser to the company for the proposed bonus Issue.\"\n• Evidence 4: \"The company could raise between RM615.9mil and RM704.3mil, assuming all warrants are exercised at an illustrative price of RM0.32 per warrant.\"\n• Evidence 5: \"The group also has 706.5 million outstanding 2016/2026 warrants...\"\n• Evidence 6: \"The bonus issue will not raise immediate funds as the warrants will be issued at no cost to shareholders.\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"As at Oct 15, 2025, BCorp’s issued share capital stood at RM5.35bil, comprising 5.96 billion shares, including 130.44 million treasury shares.\"\n• Evidence 2: \"The group also has 706.5 million outstanding 2016/2026 warrants, each exercisable into one new share at RM1.00 per warrant, and 209,300 irredeemable convertible unsecured loan stocks (ICULS)...\"\n• Evidence 3: \"The company estimated expenses related to the exercise at RM800,000, to be funded through internal resources.\"\n• Evidence 4: \"The bonus issue will not raise immediate funds as the warrants will be issued at no cost to shareholders.\"\n• Evidence 5: \"However, the company could raise between RM615.9mil and RM704.3mil, assuming all warrants are exercised at an illustrative price of RM0.32 per warrant.\"\n• Evidence 6: \"Pending utilisation, the proceeds will be placed in interest-bearing deposits or short-term money market instruments.\""
+  }
+}

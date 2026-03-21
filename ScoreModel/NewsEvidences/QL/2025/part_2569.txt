@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia today, BMG said the acquisition of RM110 million encompasses 66.6 million ordinary shares representing 100 per cent equity interest in PXH.\"\n• Evidence 2: \"It said the company shall undertake the proposal at the same price as the issue price of RM1.35 sen per share to maintain QL’s shareholdings at 52.57 per cent equity interest in BMG.\""
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"It also demonstrates the group’s long-term commitment to its vision to be the regional partner of choice for innovative and cost-effective green energy and water solutions.\"\n• Evidence 2: \"Our combined capability positions us well to capitalise on large-scale solar projects and the growing demand for clean energy solutions...\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"PXH’s clean energy ecosystem comprising generation, storage, energy efficiency, electric vehicle charging solutions and smart energy systems adds breadth and depth that strengthens its value chain.\"\n• Evidence 2: \"BMG also proposed a special issuance of 90.31 million shares to QL Resources Bhd’s (QL) wholly-owned subsidiary...\""
+  }
+}

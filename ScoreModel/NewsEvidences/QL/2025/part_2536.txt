@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The seventh phase...completion of the building's structural stage.\" [Exact quote confirming project milestone]\n• Evidence 2: \"Edelweiss will receive a GreenRE Silver rating certification\" [Specific certification claim with credible partner mention]"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Aligned with our ESG pillars...long-term partner, GreenRE.\" [Direct link to strategic ESG goals]\n• Evidence 2: \"Tropicana Gardens...best TOD by the FIABCI Malaysia Property Award 2023\" [Strategic positioning through industry recognition]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Residential component...60% take-up\" [Quantifiable data supporting claims]\n• Evidence 2: \"Quality Assessment System in Construction (QLASSIC)...certification body\" [Context about quality assurance processes]"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Market sentiment remains turbulent as recessionary concerns linger...\" (Apex Securities Research, cited as a credible source)\n• Evidence 2: Specific data points like FBM KLCI movements (1,670.55 to 1,677.02) and stock price changes (QL Resources rising eight sen to RM6.54) are provided with verifiable numerical details."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: Direct mention of QL Resources' stock price increase (eight sen to RM6.54), relevant to investors' short-term market performance.\n• Evidence 2: Limited connection to strategic direction; no discussion of QL Resources' business strategies, competitive positioning, or long-term value creation factors."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Context about global economic uncertainty, Fed policy decisions, and sector-specific impacts (technology, energy, financials) is provided.\n• Evidence 2: Quantitative data on stock movements, trade volumes (e.g., 32.5 million shares for Steel Hawk), and market indices are included, though deeper analysis of QL Resources' operational or financial specifics is absent."
+  }
+}

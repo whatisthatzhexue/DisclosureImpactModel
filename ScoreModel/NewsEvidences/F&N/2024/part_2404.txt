@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Resorts World Genting is keen to grow its commitment towards sustainable futures and development.\" (Spencer Lee)\n• Evidence 2: \"We are thrilled to collaborate with RWG to drive awareness of plant-based alternatives...\" (Yit Woon Lai)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our focus on sustainable F&B is in line with our ever growing commitment towards sustainable development...\" (Spencer Lee)\n• Evidence 2: \"Aspire to be on par with Singapore’s FHA-HoReCa with the aim of making Malaysia the regional MICE hub...\" (Spencer Lee)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The next MoU was with Fraser & Neave (F&N) to explore the use of natural mineral water...\" (details multiple MoUs and their sustainability goals)\n• Evidence 2: \"The expo is expected to welcome 3,000 visitors with 50 multinational and local brand exhibitors...\" (quantifiable event data)"
+  }
+}

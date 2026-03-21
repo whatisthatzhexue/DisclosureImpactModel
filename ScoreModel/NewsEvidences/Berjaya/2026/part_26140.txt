@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Police ensured security as the handcuffed suspects entered the court to prevent any incidents.\" (verifiable procedural detail)\n• Evidence 2: \"Selangor Police Chief, Datuk Hussein Omar Khan, reported that the arrest of four individuals... resolved the case within 48 hours.\" (official source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or any business-related factors\" (complete absence of company connection)\n• Evidence 2: \"No financial implications or market impact mentioned\" (irrelevant to corporate strategy)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Maniishapriet Kaur, a 20-year-old Bachelor of Physiotherapy student from Sarawak, was found dead...\" (basic victim background)\n• Evidence 2: \"Charges would be filed under Section 302 of the Penal Code\" (legal context but no deeper analysis)"
+  }
+}

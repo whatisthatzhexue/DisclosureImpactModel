@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"JPWPKL always welcomes targeted corporate social responsibility (CSR) programmes like this, as they provide various benefits...\" (direct quote from credible source)\n• Evidence 2: \"We are truly grateful to continue this programme for the fifth year...\" (specific timeframe and sponsor acknowledgment)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"This includes 63,000 loaves of bread, milk and instant noodles distributed across 20 selected mosques...\" (quantifiable CSR impact tied to company operations)\n• Evidence 2: \"Gardenia senior marketing manager Ena Suhaila Abas said Ramadan was a time...\" (alignment with cultural relevance to brand positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In total, RM13,600 worth of rice, sugar, flour...\" (specific financial data and itemized list)\n• Evidence 2: \"RM310,000 worth of aid... RM60,000 discount vouchers\" (comprehensive coverage of multiple initiatives)"
+  }
+}

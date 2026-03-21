@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The Selangor government is allocating RM30,000 for each local council to replicate the Riders’ Pit Stop.\" \n• Evidence 2: \"ISF is an MPS financial account that can be utilised for infrastructure works.\""
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its business operations, financial performance, or strategic initiatives. \n• Evidence 2: The article focuses on municipal infrastructure projects for gig workers, unrelated to the company context provided."
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The hub has been in operation since August 2023. It cost RM93,200 to set it up including all necessary amenities.\" \n• Evidence 2: \"According to mydigital.gov.my, gig work comprising work from location-based platforms and non-location-based has become increasingly more prominent.\""
+  }
+}

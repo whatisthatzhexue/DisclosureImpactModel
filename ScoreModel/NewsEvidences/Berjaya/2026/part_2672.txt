@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Finance Ministry has committed that, as an initial step, the priority is a review of the APM rate.\" (verifiable source and direct quote)\n• Evidence 2: \"The RM1.99 subsidy is intended for individual citizens.\" (specific policy detail with clear context)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The implementation of the Subsidised Diesel Control Scheme (SKDS) took considerable time.\" (indirectly relates to fuel cost management, which impacts operational expenses)\n• Evidence 2: \"Companies should not exploit this system...\" (mentions corporate compliance risks, relevant to stakeholder governance)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The proposal to review the rate has been submitted to the Finance Ministry...\" (provides context on policy development process)\n• Evidence 2: \"Allegations that a company had instructed...\" (includes specific incident example, though limited to general corporate behavior)"
+  }
+}

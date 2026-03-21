@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The 30-stock index rose 2.84 points or 0.18% to 1,541.48\" (specific, verifiable data)\n• Evidence 2: \"Foreign institutional investors remained net sellers\" (cited via Bursa Malaysia data)\n• Evidence 3: \"The ringgit slipped 0.02% against the US dollar\" (objective, factual economic data)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"F&N fell 40 sen to RM28.60\" (mentions company stock price but no strategic context)\n• Evidence 2: \"No direct reference to Fraser & Neave Holdings Bhd's business strategies, competitive positioning, or financial performance metrics\" (no stakeholder-relevant strategic analysis)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Trading volume stood at 2.65 billion shares worth RM2.4bil\" (quantitative market context)\n• Evidence 2: \"Regional markets mostly ended higher today\" (comparative analysis across markets)\n• Evidence 3: \"Foreign investors sold RM318mil worth of local equities\" (specific transaction data, but no analysis of implications for Fraser & Neave)"
+  }
+}

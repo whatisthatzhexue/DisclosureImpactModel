@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The company planned to invest about RM18mil in the project and had identified a 0.4ha plot within the park.\"\n• Evidence 2: \"The council spent RM435,000 to set up Taman Kucing... 78 cats had been successfully rehomed.\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The article focuses on a pet food manufacturer's proposal unrelated to Berjaya Food Berhad, with no mention of the company's strategic direction or financial implications.\"\n• Evidence 2: \"No direct connection to Berjaya Food Berhad's business operations, market position, or stakeholder value creation is provided.\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The presence of a diverse range of cats in the park would provide valuable data for the company’s research.\"\n• Evidence 2: \"9,610 objections from 171,396 notices... only 23.2% attendance\" (quantitative context)."
+  }
+}

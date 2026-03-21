@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The Nikkei share average plunged 2% on Friday\" (specific, verifiable data)\n• Evidence 2: \"Nomura Securities equities strategist Kazuo Kamitani said\" (credible source citation with direct quote)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of QL Resources Berhad or any Malaysian company\" (no connection to company context)\n• Evidence 2: \"Focus on Japanese financial markets, not food/beverage sector\" (irrelevant to company's strategic direction)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Detailed breakdown of sector-specific declines (e.g., 7.25% drop in Disco, 3.84% insurers)\" (comprehensive data)\n• Evidence 2: \"Analysis of multiple factors: chip selloff, yen intervention, U.S. Treasury yields\" (contextual and analytical depth)"
+  }
+}

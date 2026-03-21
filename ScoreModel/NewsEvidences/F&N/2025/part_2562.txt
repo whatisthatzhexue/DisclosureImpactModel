@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We are proud to be home to one of the largest Ramadan buffets in Petaling Jaya.\" (Direct quote from chairman, adds credibility)\n• Evidence 2: \"The Selera Muhibbah buffet will run until March 29.\" (Specific dates and event details provide factual accuracy)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"In continuing our mantra of redefining the art of caring...\" (Links to CSR strategy but lacks financial/business impact analysis)\n• Evidence 2: \"For more than 10 years, we have invited underprivileged communities...\" (Shows long-term commitment but no direct connection to competitive positioning or value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Selera Muhibbah buffet... offers five rotating menus... over 200 dishes... 25 live cooking stations.\" (Detailed operational context)\n• Evidence 2: \"From March 31 to April 28... priced at RM98++\" (Specific pricing and event duration provide comprehensive coverage)"
+  }
+}

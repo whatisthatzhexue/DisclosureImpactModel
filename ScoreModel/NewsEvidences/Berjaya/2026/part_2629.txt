@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable financial data (e.g., Dow Jones, S&P 500, FBM KLCI figures) and quotes from credible sources like Berjaya Research Sdn Bhd and Rakuten Trade.\n• Evidence 2: The tone is balanced, presenting both market gains and losses without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article does not mention Berjaya Food Berhad or its strategic direction, competitive position, or financial performance.\n• Evidence 2: No direct connection to the company's business operations, market position, or stakeholder interests is made."
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: The article includes detailed market analysis (e.g., technical levels, resistance/support ranges) but lacks context specific to Berjaya Food Berhad.\n• Evidence 2: While it provides broader market trends, it does not delve into the company's operational, financial, or strategic details relevant to investors."
+  }
+}

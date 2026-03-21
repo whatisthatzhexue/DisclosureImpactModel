@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI finished higher today, crossing the 1,600 psychological level as blue-chip stocks saw steady buying interest.\"\n• Evidence 2: \"Nestle jumped RM1.16 to RM91.96, F&N gained 50 sen to RM26.50, PETRONAS Dagangan added 48 sen to RM19.98 and PETRONAS Gas rose 44 sen to RM17.76.\"\n• Evidence 3: \"The ringgit was down 0.06% against the greenback to 4.4720.\"\n• Evidence 4: \"MSCI's broadest index of Asia-Pacific shares outside Japan rose 0.76%\""
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N gained 50 sen to RM26.50\" (direct company mention)\n• Evidence 2: \"PETRONAS Dagangan added 48 sen to RM19.98\" (related to company's parent group)\n• Evidence 3: \"Malaysian Pacific Industries... slid 58 sen to RM21.54\" (indirectly relates to market dynamics impacting stakeholders)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"There were 492 gainers, 534 losers and 480 counters traded unchanged on Bursa Malaysia. Turnover rose to 3.15 billion shares valued at RM2.66bil.\"\n• Evidence 2: \"The last time the benchmark index closed above the 1,600 level was on Jan 10 at 1,602.41\" (contextual historical data)\n• Evidence 3: \"Asian benchmarks finished mostly higher with Japan’s Nikkei 225 and South Korea’s Kospi adding 0.42% and 0.37% respectively.\"\n• Evidence 4: \"Market breadth was negative, reflecting a cautious undertone among investors amid external uncertainties\" (analysis of market sentiment)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"July 2024 retail sales spending rising 6.6% to RM63.5bil\" (verifiable data)\n• Evidence 2: \"total receipts surpassing pre-pandemic levels, reaching RM45.4bil in the first-half of 2024\" (specific financial figures)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd with a target price of RM37\" (direct company mention and financial implication)\n• Evidence 2: \"improved margins from lower feed prices...benefiting poultry producers\" (connects to business performance factors)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"cumulative seven-month spending growing to RM440.8bil compared with RM414.8bil\" (contextual data supporting analysis)\n• Evidence 2: \"global corn and soybean meal prices will remain low in 2025...reducing costs and enhancing margins\" (forward-looking strategic insight)"
+  }
+}

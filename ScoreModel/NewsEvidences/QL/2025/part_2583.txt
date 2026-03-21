@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"occupancy rates above 90% in major city shopping centres\" (VARS report)\n• Evidence 2: \"total retail sales and consumer-service revenue reached nearly 5.7 trillion dong\" (VARS data)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company\" (company context)\n• Evidence 2: \"no direct company mention\" (article focuses on Vietnam retail real estate, unrelated to QL Resources' operations)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"rental rates in Hanoi have ticked up by approximately 10%\" (specific data)\n• Evidence 2: \"development of major cities like Hanoi, Ho Chi Minh City and Da Nang\" (contextual analysis of market drivers)"
+  }
+}

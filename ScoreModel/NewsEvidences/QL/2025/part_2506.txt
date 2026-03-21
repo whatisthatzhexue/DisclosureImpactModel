@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Dr IndraWith the support of Mah Sing Foundation, the project has successfully addressed learning poverty, benefiting some 500 pupils nationwide.\" (specific data but no third-party verification)\n• Evidence 2: \"Hani Nuraini Zaini, a Taylor’s University student...\" (direct quotes from participants but no institutional citations)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\" (company context unrelated to article content)\n• Evidence 2: \"The journey of these volunteers exemplifies how education...\" (focus on social impact, not business strategy or financial performance)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Volunteers will be paired with a child...\" (detailed program structure and requirements)\n• Evidence 2: \"Dr Indra Pathmanthan... introduced exercise breaks...\" (specific examples of program implementation and outcomes)"
+  }
+}

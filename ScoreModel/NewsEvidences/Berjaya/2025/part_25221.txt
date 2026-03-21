@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"90% of coral reefs could disappear by 2050\" (Coral Guardian)\n• Evidence 2: \"the world is currently experiencing another global coral bleaching event\" (NOAA and ICRI statement)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad or its business operations\n• Evidence 2: General discussion of marine conservation efforts unrelated to corporate strategy or financial implications"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Malaysia’s latest ocean conservation effort saw one of its states... create artificial recreational reefs\" (specific project details)\n• Evidence 2: \"2,500 of the subway coaches were sunk into the Atlantic Ocean in 2001\" (comprehensive historical context)"
+  }
+}

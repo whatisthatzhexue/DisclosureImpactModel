@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"AI is like that junior developer...make something work,\" explains Dahvid Schloss.\n• Evidence 2: \"Security is not something you can very easily add later,\" says Namanyay Goel."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No direct mention of QL Resources Berhad or its business operations.\n• Evidence 2: Focus on AI coding risks for startups/indie hackers, unrelated to food and beverage industry strategies."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: Detailed technical explanations of SQL injection, directory traversal, and Firebase database risks.\n• Evidence 2: Analyzes AI coding patterns (e.g., lack of field sanitization) and their implications for cybersecurity practices."
+  }
+}

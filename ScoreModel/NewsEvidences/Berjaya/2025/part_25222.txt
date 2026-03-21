@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TNB’s 2023 report showed that electricity generated from renewable sources only make up 6% of the nation’s total energy mix.\" (verifiable data)\n• Evidence 2: \"Solar energy itself only comprises 1.5% of the energy mix, compared with non-renewables...\" (specific, factual statistic)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article focuses on data centre sustainability in Malaysia, which is unrelated to Berjaya Food Berhad’s food and beverage operations.\n• Evidence 2: No mention of Berjaya Food Berhad’s business strategies, financial performance, or stakeholder impact."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"By 2035, Malaysia’s energy use is projected to exceed 5,000 megawatts (MW)...\" (quantitative context)\n• Evidence 2: \"Basis Bay looks to examples of green commercial buildings...\" (detailed examples and technical solutions)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI gave up its early momentum...\" (specific market data with verifiable stock price movements)\n• Evidence 2: \"HLIB Research said...\" (citing credible financial research firm with balanced analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N fell 80 sen to RM35.56\" (direct company mention with stock price movement)\n• Evidence 2: \"potential rate hike could strengthen the yen...\" (broader market factors impacting sector, but no direct strategic insights for Fraser & Neave)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"decliners outpaced advancers 510 to 425...\" (comprehensive market data with volume and price details)\n• Evidence 2: \"we believe this bodes well for banks...\" (analytical insights linking macroeconomic factors to sector implications)"
+  }
+}

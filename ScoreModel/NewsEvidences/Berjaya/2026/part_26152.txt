@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: The text cites 'Malaysia Digital Economy Corporation (MDEC)’S Malaysia Digital Talent Study 2017' but does not provide a verifiable source or link.\n• Evidence 2: Specific claims like '98% of MMU’s graduates secure employment within six months' lack citations or methodological details."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text focuses on MMU’s educational programs and partnerships, which are unrelated to Berjaya Food Berhad’s operations as a food and beverage company.\n• Evidence 2: No mention of financial performance, market competition, or strategic initiatives relevant to the company’s industry."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text provides detailed information about MMU’s academic offerings, campus locations, industry partnerships (e.g., Google, Microsoft), and alumni network.\n• Evidence 2: It includes quantitative data such as student numbers, employment rates, and rankings, offering comprehensive context about the university’s reputation and programs."
+  }
+}

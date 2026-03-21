@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The consumer sector will likely experience a more subdued performance... analysts say.\" (Credible source cited as analysts)\n• Evidence 2: \"According to the Malaysia Retail Industry Report...\" (Specific data from Retail Group Malaysia cited)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"companies with strong exposure to staple-driven retail formats... QL Resources Bhd\" (Direct mention of QL Resources and its strategic positioning)\n• Evidence 2: \"we continue to advocate positioning towards defensive, mass-market players...\" (Link to QL's business strategy and market positioning)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"retail sales contracted by 3% year-on-year... forecasts retail sales growth of 2.6% year-on-year\" (Comprehensive quantitative data)\n• Evidence 2: \"expansion of the SST... minimum wage hike... EPF contributions\" (Detailed analysis of multiple cost drivers impacting the sector)"
+  }
+}

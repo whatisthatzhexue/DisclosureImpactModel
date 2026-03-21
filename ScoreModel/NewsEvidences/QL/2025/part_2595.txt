@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites the FIABCI Malaysia Property Award 2023 and specific project details (e.g., 'Q1 complies with the Green Building Index (GBI) standards') which are factual and verifiable.\n• Evidence 2: Direct quotes from Datuk Ng Tyan Ping provide attributable statements without fabrication or bias, maintaining a balanced tone."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: The article highlights Ideal Property Group's strategic focus on sustainable development ('commitment to sustainable development') and long-term growth ('connectivity and growth potential'), aligning with real estate business priorities.\n• Evidence 2: Mention of future development phases (Q2, Q3) and market positioning ('prime location') directly ties to the company's strategic direction and value creation."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text provides detailed context about Q1's features (rainwater harvesting, energy-efficient design) and third-party certifications (GBI, Qlassic score), supporting claims with data.\n• Evidence 2: While it explains the award's significance and project benefits, it lacks deeper analysis of market impact, financial implications, or comparative industry benchmarks."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"SkyWorld Development Bhd’s wholly owned subsidiary... signed a memorandum of understanding (MoU)...\" (specific factual claim with verifiable source: Bursa Malaysia filing)\n• Evidence 2: \"QLASSIC scores and warranty transparency have bolstered its edge\" (direct quote from BIMB Research with measurable data points)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"SkyWorld’s financial year 2026 (FY26) outlook hinges on revenue conversion from projects...\" (direct link to strategic financial planning)\n• Evidence 2: \"254.6-acre landbank... offers multi-year optionality...\" (strategic resource positioning and long-term value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"From 2017 to 2025, SkyWorld’s projects achieved an average QLASSIC score of approximately 81%...\" (quantitative data supporting quality claims)\n• Evidence 2: \"RM1.6bil in gross development value (GDV)... current landbank spans 254.6 acres...\" (comprehensive financial and asset context)"
+  }
+}

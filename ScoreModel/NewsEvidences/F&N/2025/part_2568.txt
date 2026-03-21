@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., 'KLCI was down 3.96 points, or 0.25%, to 1,580.88') with specific numerical details.\n• Evidence 2: It cites credible external sources (e.g., 'U.S. President Donald Trump said on Tuesday') and reports trading volumes and institutional investor activity without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd or any direct link to its strategic direction, business performance, or market position.\n• Evidence 2: While it discusses market trends and sector-specific stocks (e.g., glovemakers), these are unrelated to the company's food and beverage operations."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text offers comprehensive market context, including index movements, trading volumes, foreign investment flows, and regional market comparisons (e.g., 'Japan’s Nikkei 225 slipping 0.27%').\n• Evidence 2: It provides detailed financial data on individual stocks (e.g., 'Hartalega fell 17 sen to RM2.44 with 103.93 million shares traded') and explains market sentiment drivers."
+  }
+}

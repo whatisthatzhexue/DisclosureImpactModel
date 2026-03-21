@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources had proposed to undertake a bonus issue of up to 1.22 billion ordinary shares at one bonus share for every two existing ordinary shares held.\" (specific factual detail)\n• Evidence 2: \"The theoretical ex-bonus price for the group’s shares is expected to be between RM3.93 and RM4.33...\" (data-based analysis with verifiable metrics)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We believe this is a positive sign that QL Resources is confident of its prospects, following an expected growth in regional and local poultry demand of plus 30% by 2030.\" (links bonus issue to strategic growth goals)\n• Evidence 2: \"The bonus shares proposed may be a signal that the group is financially healthy with an optimistic growth prospect...\" (connects corporate action to strategic positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"As of June 28, 2024, the group has an issued share capital of RM620mil comprising 2.43 billion shares.\" (quantitative context)\n• Evidence 2: \"The proposed bonus issue is expected to be completed by the third quarter of 2024 and QL Resources share price will be adjusted lower.\" (timeline and financial impact details)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites verifiable data such as \"over 450,000 students\" and \"50,000 using the application to revise every month\".\n• Evidence 2: Quotes from Ong and third-party sources like StarEdu and press releases are provided, with no fabrication or distortion."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text focuses on a student's personal achievement and an educational app, with no mention of Berjaya Food Berhad or its strategic initiatives.\n• Evidence 2: The article does not connect to business performance, market impact, or financial implications relevant to the company context."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: Comprehensive coverage of Ong's journey, challenges, and future plans, including specific details about JomStudy's features and user statistics.\n• Evidence 2: Contextual background on the Global Student Prize and references to previous winners provide analytical depth and narrative completeness."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"KIP Real Estate Investment Trust (KIP-REIT) has secured shareholders’ approval to acquire DPulze Shopping Centre in Cyberjaya for RM320mil.\" (specific, verifiable transaction details)\n• Evidence 2: \"Out of the 180 million new units, up to nine million units will be allotted to...\" (transparent allocation details with credible source: Bernama)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the acquisition marks its largest investment and will further strengthen KIP-REIT’s retail portfolio\" (direct link to strategic direction)\n• Evidence 2: \"Based on the net property income... the yield from the property is expected to generate 7.1%\" (financial implications for long-term value creation)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM320mil\" \"180 million new units\" \"RM146.7mil in gross proceeds\" (quantitative details supporting analysis)\n• Evidence 2: \"anticipate higher rental reversion\" (forward-looking insight with contextual financial metrics)"
+  }
+}

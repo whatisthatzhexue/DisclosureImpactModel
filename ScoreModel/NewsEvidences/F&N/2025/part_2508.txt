@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 2.72 points, or 0.17%, to 1,585.57 at 9.17 am\" (specific, verifiable data)\n• Evidence 2: \"Berjaya Research Sdn Bhd said...\" (credible source cited with balanced analysis of market trends)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N climbed 34 sen to RM27.34\" (direct company mention with stock performance)\n• Evidence 2: \"investors should brace for a period of sideways consolidation\" (market implications for stakeholders, though not company-specific strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Technical analysis with resistance at 1,600 and support at 1,570\" (detailed market context)\n• Evidence 2: \"Extended weekend break... hover between 1,575-1,585\" (comprehensive coverage of market dynamics and investor behavior)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 2.99 points, or 0.19% to 1,544.52 at 9.16 am.\" (specific, verifiable data)\n• Evidence 2: \"Berjaya Research Sdn Bhd said...\" and \"Rakuten Trade noted...\" (credible sources cited with balanced analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"F&N lost 30 sen to RM28.78\" (brief mention of company but no strategic context)\n• Evidence 2: No discussion of Fraser & Neave's business strategy, competitive position, or financial performance implications"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The key index is at its 1,541 hurdle...\" (some technical context)\n• Evidence 2: \"Net foreign inflows have already taken place...\" (limited analysis but lacks broader market context or company-specific insights)"
+  }
+}

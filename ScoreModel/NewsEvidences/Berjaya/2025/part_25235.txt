@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 8, "justification": "• Evidence 1: \"We welcome any suggestions from PAC, as their report findings aim to improve governance in our universities...\" (quotes from official statements)\n• Evidence 2: \"The rest (meal and accommodation) has already been covered by the Turkish Aerospace Malaysia (Tusas).\" (specific program details)"},
+  "StrategicRelevance": {"score": 1, "justification": "• Evidence 1: No mention of Berjaya Food Berhad or related business activities\n• Evidence 2: Focus on education policy and apprenticeship programs unrelated to food/beverage sector"},
+  "Depth": {"score": 3, "justification": "• Evidence 1: Provides basic program details (e.g., 20 students selected, one-month duration) but lacks contextual background on PAC's role or university governance\n• Evidence 2: Limited analysis of financial implications or stakeholder impact for the mentioned entities"}
+}

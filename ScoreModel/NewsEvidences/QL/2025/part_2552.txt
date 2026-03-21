@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites Apex Securities Research with specific market analysis and quotes, providing verifiable institutional insight\n• Evidence 2: It reports factual market data (e.g., stock price movements, index changes) without fabrication or bias"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: Mentions QL Resources' stock price decline but does not connect to its business strategy, competitive position, or long-term value creation\n• Evidence 2: Focuses on broader market trends rather than company-specific strategic factors or financial implications"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides contextual market data (e.g., FBM KLCI movements, sector-specific stock performance) but lacks detailed analysis of QL Resources' operations\n• Evidence 2: Includes brief sector outlook but does not explore deeper industry trends or company-specific fundamentals"
+  }
+}

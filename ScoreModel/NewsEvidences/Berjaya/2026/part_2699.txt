@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BFood posted a wider net loss for its financial year ended June 30 (FY25)\" (verifiable financial data)\n• Evidence 2: \"Our strategy focuses on expanding our digital and social presence...\" (direct company statement cited with context)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We will continue to strengthen our core business, build resilience...\" (links to long-term value creation and strategic priorities)\n• Evidence 2: \"driving international expansion to unlock greater shareholder value\" (connects to market impact and stakeholder significance)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Quarterly revenue slipped 11.2% to RM115.9mil from RM130.5mil...\" (specific financial data with context)\n• Evidence 2: \"The higher loss was largely attributed to impairments on property...\" (detailed explanation of performance drivers)"
+  }
+}

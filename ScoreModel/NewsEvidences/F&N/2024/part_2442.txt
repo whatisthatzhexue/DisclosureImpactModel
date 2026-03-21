@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"FBM KLCI climbed 3.97 points, or 0.26% to 1,547.99, buoyed by gains in plantation and banking stocks.\" (specific, verifiable market data)\n• Evidence 2: \"Foreign investors and retailers sold RM99mil and RM45mil of local equities respectively yesterday.\" (transparent disclosure of investor activity)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N added 72 sen to RM30.10\" (direct mention of Fraser & Neave Holdings Bhd stock performance)\n• Evidence 2: \"Consumer stocks dominated the gainers’ list\" (indicates sector-level market dynamics relevant to the company's industry)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"462 counters traded unchanged. Trading volume was brisk at 4.53 billion shares valued at RM2.82bil.\" (comprehensive market activity details)\n• Evidence 2: \"Brent crude rose 93 cents to US$88.35 a barrel...\" (contextual economic factors impacting market sentiment)"
+  }
+}

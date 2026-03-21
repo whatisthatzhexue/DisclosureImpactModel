@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI was down 1.7 points to 1,536.94 as profit-taking pulled the index lower following the previous day's rally\" [factual accuracy with verifiable data].\n• Evidence 2: \"Overall market volume was 1.53 billion shares changing hands for RM999.52mil\" [specific, measurable data without bias]."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Beverage maker F&N joined brewers in the red, falling 22 sen to RM28.78 amid weak consumer sentiment\" [direct company mention with financial impact].\n• Evidence 2: \"Inari Amertron... dropped 10 sen to RM1.87\" [indirect relevance to sector dynamics but no strategic context]."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"552 issues falling to negative territory and only 272 positive\" [comprehensive market context].\n• Evidence 2: \"Construction sector outperformed with a marginal 0.32% price increase\" [sector-specific detail but limited company-specific analysis]."
+  }
+}

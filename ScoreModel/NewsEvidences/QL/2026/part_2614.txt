@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"They didn’t disclose a value for the deal...\" (transparent about missing details)\n• Evidence 2: \"The purchase underscores social media’s rising importance...\" (balanced tone with factual context)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Publicis... snapping up companies in the social media and influencer marketing space\" (direct company strategy mention)\n• Evidence 2: \"Advertisers are spending more money on influencers...\" (market impact analysis)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Hepmil works with more than 3,000 high-value creators...\" (quantitative data)\n• Evidence 2: \"Attracts 10s of millions of visitors a week...\" (contextual market size evidence)"
+  }
+}

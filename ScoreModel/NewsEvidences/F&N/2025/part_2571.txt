@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI closed below the 1,600-point psychological level today...\" (specific factual data)\n• Evidence 2: \"Dealers noted that investors remained cautious...\" (credible source cited with verifiable market context)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N added 20 sen to RM26.70\" (direct company mention, but limited to stock price movement)\n• Evidence 2: No discussion of Fraser & Neave's strategic initiatives, competitive positioning, or long-term value creation"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"422 advancers to 573 decliners... RM2.22bil\" (comprehensive market data)\n• Evidence 2: \"Asian bourses ended mixed...\" (contextual comparison but lacks analysis of Fraser & Neave's specific situation)"
+  }
+}

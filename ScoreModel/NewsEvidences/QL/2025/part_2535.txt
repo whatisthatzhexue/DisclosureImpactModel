@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites Reuters as the source, a credible news organization.\n• Evidence 2: It provides verifiable data such as stock percentage changes (e.g., 'Nikkei climbed 0.87%') and specific company actions (e.g., 'Seven & i confirmed it had received a revised offer')."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article does not mention QL Resources Berhad or its strategic activities, focusing instead on Japanese companies like Seven & i Holdings and Fast Retailing.\n• Evidence 2: While it discusses market trends affecting retailers, it lacks direct ties to QL Resources' operations, financials, or competitive positioning."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of market movements, including sector-specific performance (e.g., 'chip sector and other high-tech names making up four of the top five points gainers').\n• Evidence 2: It includes detailed context such as analyst forecasts ('Nomura raised its year-end forecast...') and specific company actions (e.g., 'Fast Retailing, which rose 1.14%...')."
+  }
+}

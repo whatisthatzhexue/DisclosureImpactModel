@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia yesterday, QL Resources said the EPF acquired 2.88 million shares...\" (verifiable source cited)\n• Evidence 2: \"The purchase raised its shareholding in the company to 121.94 million shares or a 5.01% stake.\" (specific, quantifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"EPF emerged as a substantial shareholder...\" (directly ties to company's ownership structure and potential market influence)\n• Evidence 2: \"Year-to-date, the integrated agro-based group has risen 15.24%\" (financial performance linked to shareholder activity)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"2.88 million shares... 5.01% stake\" (quantitative details supporting the event)\n• Evidence 2: \"2.73 million shares traded... RM6.58\" (market activity data, but lacks contextual analysis of broader implications)"
+  }
+}

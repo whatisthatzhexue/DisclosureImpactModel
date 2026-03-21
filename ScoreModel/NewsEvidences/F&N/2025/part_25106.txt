@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The FBM KLCI opened higher in early trade Thursday, lifted by Bank Negara's decision to keep the overnight policy rate (OPR) at 3% and gains on Wall Street.\" (verifiable factual data)\n• Evidence 2: \"The Dow Jones Industrial Average rose 1,508.05 points, or 3.57%, to 43,729.93...\" (specific numerical data from credible sources)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N fell 40 sen to RM30.34\" (only mentions stock price movement, no strategic context)\n• Evidence 2: No direct linkage to Fraser & Neave Holdings Bhd's business strategies, competitive positioning, or long-term value creation"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Inter-Pacific Research expects near-term market conditions to remain relatively buoyant...\" (provides analyst perspectives and market context)\n• Evidence 2: \"The lower liners could also gather more momentum...\" (includes technical analysis and market activity details)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"FBM KLCI jumped 19.09 points, or 1.26% to 1,531.37, its highest level since June 2022\" (specific, verifiable data).\n• Evidence 2: \"Reuters reported that Japan's Nikkei continued to advance\" (citable source cited)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N jumped 38 sen to RM29\" (direct company mention, but no strategic context).\n• Evidence 2: No discussion of Fraser & Neave's business strategies, financial performance, or competitive positioning."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Market breadth was positive as gainers overpowered the losers on a ratio of 634-to-297 stocks\" (comprehensive data on market activity).\n• Evidence 2: \"US West Texas Intermediate crude rose 71 cents to US$77.63\" (contextual economic indicators, but limited analysis)."
+  }
+}

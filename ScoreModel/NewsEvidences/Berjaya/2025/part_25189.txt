@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 8, "justification": "• Evidence 1: \"Garaj Belia MBSA\" was carried out at Rimba Jaya Flats in Section 16, Shah Alam.\n• Evidence 2: Aniza Osman described the initiative as a platform to promote sustainable urban development, citing contributions to economic development and social well-being."},  
+  "StrategicRelevance": {"score": 2, "justification": "• Evidence 1: The text does not mention Berjaya Food Berhad or any business operations related to the company.\n• Evidence 2: The focus is on a municipal council initiative, which is unrelated to the company's strategic direction or financial performance."},  
+  "Depth": {"score": 7, "justification": "• Evidence 1: The text provides detailed context about the project's implementation, including location, timeline, and target demographics.\n• Evidence 2: It includes quotes from officials and explains the initiative's alignment with UN SDG 11, offering some analytical depth."}  
+}

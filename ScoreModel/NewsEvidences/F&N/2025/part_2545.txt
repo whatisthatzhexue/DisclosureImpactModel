@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI fell a marginal 0.24 points to 1,536.56\" (specific, verifiable data).\n• Evidence 2: \"Rakuten Trade... TA Securities Research\" (credible sources cited with balanced analysis)."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N gaining 12 sen to RM27.20\" (direct mention of a company in the context, relevant to stakeholders).\n• Evidence 2: \"weaker domestic growth expectations... government support measures\" (impacts investor sentiment, indirectly relevant to strategic positioning)."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Immediate resistance is kept at 1,564... 76.4%FR (1,610)\" (technical analysis provides context).\n• Evidence 2: \"positive movement in consumer counters... British American Tobacco\" (specific stock movements with quantitative data)."
+  }
+}

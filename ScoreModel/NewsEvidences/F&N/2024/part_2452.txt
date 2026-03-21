@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI traded lower in early trade Wednesday, weighed by select blue chips as lack of buying impetus kept the index lower.\"\n• Evidence 2: \"Inter-Pacific Research said market conditions remained unsettled by the lack of impetuses to continue dictating the market’s near-term performance.\"\n• Evidence 3: \"Overnight, the Dow Jones Industrial Average fell 1.04% to 38,585.19...\" (specific, verifiable data points)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N gained 32 sen to RM28.94\" (direct company mention)\n• Evidence 2: \"The lingering concerns over China’s insipid economic growth prospects...could also weigh on sentiments on Bursa Malaysia.\"\n• Evidence 3: \"Investors will be keeping a close tab onto US Federal Reserve Chair Jerome Powell testifies...\" (market-wide implications, not company-specific strategy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The FBM KLCI’s uptrend since the start of the year looks to have run its course and may see the consolidation trend continuing for now.\"\n• Evidence 2: \"The immediate hurdle is at 1,540 points, followed by the 1,545 level...foreign funds becoming net sellers\" (detailed market analysis)\n• Evidence 3: \"Looking ahead, investors will be keeping a close tab...future interest rate direction.\"\n• Evidence 4: \"Most market players are likely to remain on the sidelines...stocks are likely to drift further\" (contextual market behavior)"
+  }
+}

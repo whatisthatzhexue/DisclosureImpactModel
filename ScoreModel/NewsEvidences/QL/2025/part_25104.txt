@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a trademark infringement lawsuit filed in Los Angeles federal court, Coach and its parent, Tapestry, said they never gave Gap permission to sell the T-shirts...\" (verifiable legal action details)\n• Evidence 2: \"Gap, based in San Francisco, declined to comment...\" (neutral citation of defendant's stance)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Coach is seeking unspecified damages...\" (direct financial impact on company's strategic position)\n• Evidence 2: \"Many luxury retailers file lawsuits...\" (contextualizes litigation as a common industry practice)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Coach was founded in 1941\" (historical context)\n• Evidence 2: \"The case is Tapestry Inc et al v Gap Inc...\" (specific legal reference and jurisdiction)"
+  }
+}

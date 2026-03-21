@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"MBPJ-Milo Junior Tennis Championship is the platform for our young tennis players to not only show their talent but also gain exposure,\" said Petaling Jaya City Council (MBPJ) deputy mayor Aznan Hassan.\n• Evidence 2: \"The points collected will give participants greater motivation to better themselves,\" added Tengku Mohamed during a press conference at MBPJ’s headquarters."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The text mentions F&N Beverages as a sponsor, which is part of Fraser & Neave Holdings Bhd, but does not explicitly connect this to the company’s strategic direction or business performance.\n• Evidence 2: The article focuses on the event’s logistics and sponsors without discussing how this aligns with the company’s competitive position or long-term value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive details about the event, including participant numbers, venues, age groups, and sponsorships, offering sufficient context about the championship.\n• Evidence 2: It includes quotes from officials and explains the event’s recognition by the Malaysian Lawn Tennis Association, though it lacks deeper analysis of the company’s role or broader implications."
+  }
+}

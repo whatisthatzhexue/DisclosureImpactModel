@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The National Monument at Jakarta’s Merdeka Square is where you will find the first Indonesian flag that was hoisted on its Independence Day.\" (specific historical reference)\n• Evidence 2: \"AirAsia now flies direct from Kota Kinabalu, Sabah to Jakarta, Indonesia three times a week on Tuesdays, Thursdays and Saturdays.\" (specific operational detail without source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of QL Resources Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The entire text focuses on Jakarta's tourism attractions, which are unrelated to the company's food and beverage business or stakeholder interests."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Jakarta is not just a modern metropolis but a city rich with culture, historical sites and charming cafes as well as quaint places of interest that are worth visiting.\" (comprehensive summary of themes)\n• Evidence 2: \"The Jazz Festival 2024 was being held at the JIExpo Kemayoran, where numerous performers gave their best across 10 stages.\" (specific event details with contextual depth)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI rose 2.83 points or 0.18% to 1,612.35\" (specific numerical data with verifiable market context)\n• Evidence 2: \"Turnover stood at 3.6 billion shares valued at RM2.5bil\" (quantifiable metrics from Bursa Malaysia)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N rose 40 sen to RM29.50\" (direct mention of Fraser & Neave Holdings Bhd, but no strategic context)\n• Evidence 2: \"Nestle, the biggest loser...\" (focus on broader market movements, not company-specific strategic implications)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"There were 574 gainers, 439 losers and 531 counters traded unchanged\" (comprehensive market overview with quantitative detail)\n• Evidence 2: \"Forex market... up 0.56% against the greenback\" (contextual regional financial market data)"
+  }
+}

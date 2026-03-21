@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Health Ministry will propose to the Cabinet that fruits and fresh produce be included in the Sumbangan Asas Rahmah (Sara) redemption list...\" [direct quote from official source]\n• Evidence 2: \"The National Blueprint for Behavioural Insights in Health was developed by the Health Ministry in collaboration with the World Health Organisation (WHO)\" [creditable collaboration cited]"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Currently, Sara recipients can redeem food items such as rice, bread, cooking oil...\" [no direct mention of Berjaya Food Berhad or its strategic implications]\n• Evidence 2: \"It is about giving Malaysians the support they need to act on what they already know is good for them\" [general statement with no connection to company-specific strategic direction]"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"one example was relocating fruit displays and adding positive verbal prompts, which led to a threefold increase in weekly fruit sales from RM337 to RM987\" [specific data supporting claims]\n• Evidence 2: \"This blueprint shifts the focus for health from awareness to action...\" [comprehensive explanation of policy implications]"
+  }
+}

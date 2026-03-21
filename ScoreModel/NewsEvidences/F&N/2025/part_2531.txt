@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The FBM KLCI closed higher for the second straight day...\" (specific, verifiable data)\n• Evidence 2: \"Reuters reported that the US dollar slid...\" (credible source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N fell 24 sen to RM28.20\" (direct company mention, but no strategic context)\n• Evidence 2: \"Market breadth turned negative...\" (general market analysis, no link to company strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The 30-stock index closed up 2.78 points...\" (comprehensive market data)\n• Evidence 2: \"The ringgit strengthened 0.16%...\" (detailed contextual analysis of currency movements)"
+  }
+}

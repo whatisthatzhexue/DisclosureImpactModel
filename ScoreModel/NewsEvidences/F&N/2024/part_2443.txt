@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI was up 5.53 points to 1,549.55\" (specific numerical data)\n• Evidence 2: \"Trading volume was 2.71 billion shares valued at RM1.32bil\" (verifiable market data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N adding 68 sen to RM30.06\" (direct mention of Fraser & Neave subsidiary, relevant to company performance)\n• Evidence 2: \"Consumer plays were on the rise\" (indicates market trends impacting company sector)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"480 gainers to 474 decliners and 461 counters unchanged\" (comprehensive market breadth data)\n• Evidence 2: \"Hong Kong's Hang Seng outperformed... Japan's Nikkei fell 0.1%\" (contextual regional market comparison)"
+  }
+}

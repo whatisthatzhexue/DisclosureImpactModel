@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CGS International (CGSI ) Research in a report said the removal of the egg subsidies could impact the group’s expansion plans.\" (Credible source cited)\n• Evidence 2: \"The Agriculture and Food Security minister... confirmed that the government was reviewing...\" (Government confirmation adds factual basis)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources’ pretax margins could ease by 0.4%... in FY26\" (Direct financial impact on strategic operations)\n• Evidence 2: \"CGSI Research downgraded the stock to a 'reduce' call... due to its current rich valuation\" (Strategic investment implications for stakeholders)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RM100mil per month\" (Quantifiable data on subsidy cost)\n• Evidence 2: \"Civil servant salary increases... inbound and domestic tourism...\" (Contextual macroeconomic analysis)"
+  }
+}

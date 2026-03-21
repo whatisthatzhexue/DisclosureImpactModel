@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CIMB Research estimated the full exercise of the warrants could increase BFood’s issued share capital from 1.8 billion shares to approximately 2.7 billion shares...\" (verifiable financial data)\n• Evidence 2: \"Our ‘reduce’ call is premised on the weaker brand equity of Starbucks in Malaysia and intensifying competition...\" (direct analyst rationale with cited factors)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"...the proposed bonus issue of warrants will help it raise fresh capital...\" (directly ties to capital-raising strategy)\n• Evidence 2: \"...intensifying competition within the local food and beverage sector...could erode BFood’s market share\" (connects to competitive positioning and strategic threats)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"...book value per share from 10.7 sen now to 7.1 sen...\" (specific financial impact metrics)\n• Evidence 2: \"The exercise price could be set at a premium of up to 20%...\" (detailed warrant terms and market mechanism)"
+  }
+}

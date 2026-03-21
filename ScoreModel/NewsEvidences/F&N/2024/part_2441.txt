@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Profit-taking activities ahead of the Hari Raya Aidilfitri holiday led to Bursa Malaysia finishing lower on Tuesday.' (specific, verifiable event)\n• Evidence 2: 'Bloomberg cited sources that Tan is in talks with banks about financing for a potential deal.' (credible source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: 'Berjaya Food rose 1.5 sen, or 2.42% to 63.5 sen with 29.83 million shares traded on news that Tan Sri Vincent Tan is considering taking the company private.' (direct company mention with strategic implications)\n• Evidence 2: 'Allianz, the top gainer... rose 46 sen to RM22.20.' (market movement impact on company's sector)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: 'The FBM KLCI fell by 6.47 points, or 0.41%, to 1,553.51, rebounding from its intraday low of 1,553.43.' (comprehensive market data)\n• Evidence 2: 'Among the losers, Dutch Lady slid 38 sen to RM34.12... Panasonic Manufacturing declined 12 sen to RM19.36.' (detailed stock performance)"
+  }
+}

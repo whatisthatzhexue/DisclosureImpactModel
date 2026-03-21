@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"State investment, trade and mobility committee chairman Ng Sze Han said the park...\" (credible source and direct quote)\n• Evidence 2: \"I see that many multinational companies are adopting a wait-and-see approach...\" (balanced tone and factual reporting)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article focuses on Selangor's semiconductor industry initiatives, with no mention of Berjaya Food Berhad or its strategic direction.\n• Evidence 2: The content is unrelated to the company's business operations, financial performance, or stakeholder interests."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The state’s focus is to build a more complete ecosystem...\" (contextual background on strategic goals)\n• Evidence 2: \"Another round of engagements will be organised between data centres...\" (detailed initiatives and forward-looking planning)"
+  }
+}

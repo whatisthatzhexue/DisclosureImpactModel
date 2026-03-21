@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., \"FBM KLCI fell 11.64 points or 0.75% to 1,547.27\") with precise numerical details.\n• Evidence 2: Balanced reporting is maintained by presenting both losers (e.g., \"Nestle, the top loser... tumbled 86 sen\") and gainers (e.g., \"United Plantations, up 28 sen\") without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave (F&N) as a top loser but does not analyze its strategic implications or business performance factors.\n• Evidence 2: No direct connection is made to F&N's competitive position, long-term value creation, or financial implications for stakeholders."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Comprehensive coverage of market movements, including regional indices (e.g., Japan’s Nikkei 225 closed down 2.17%) and currency fluctuations.\n• Evidence 2: Detailed quantitative data is provided (e.g., \"2.4 billion shares, valued at RM2.4bil\") to support claims about trading activity."
+  }
+}

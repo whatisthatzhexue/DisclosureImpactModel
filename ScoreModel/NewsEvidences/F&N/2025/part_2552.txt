@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The benchmark 30-stock index slipped 8.37 points, or 0.57%, to close at 1,454.76\" (specific, verifiable data)\n• Evidence 2: \"China has announced a 125% tariff hike on U.S. imports\" (direct quote from official announcement, balanced tone)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Losers on Bursa Malaysia included PETRONAS Dagangan...\" (no direct mention of Fraser & Neave's performance)\n• Evidence 2: \"Looking ahead, market sentiment is likely to stay cautious\" (general market commentary, no company-specific strategic insights)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Around the region, the MSCI's Asia ex-Japan stock index rose by 1.36%\" (comprehensive regional context)\n• Evidence 2: \"Investors remain on edge over the escalating trade war...\" (background on trade tensions, but lacks analysis of specific impacts on food/beverage sector)"
+  }
+}

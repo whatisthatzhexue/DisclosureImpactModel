@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The S&P 500 lost 274.45 points, or 4.84%, at 5,396.52 points\" (verifiable market data)\n• Evidence 2: \"Inter-Pacific Research said...\" (citable source with balanced analysis of market impacts)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N slid 30 sen to RM23.60\" (direct company mention but no strategic context)\n• Evidence 2: \"exports to the U.S. amount to about 10% of the country’s total exports\" (general economic impact, not company-specific strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The FBM KLCI’s supports are now at 1,510-1,513 levels...\" (detailed technical analysis)\n• Evidence 2: \"We believe Trump’s latest move has placed the global economy prospects up in the air...\" (comprehensive market context but lacks company-specific insights)"
+  }
+}

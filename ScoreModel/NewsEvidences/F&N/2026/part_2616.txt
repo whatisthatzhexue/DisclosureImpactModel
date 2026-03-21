@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable financial data (e.g., 'ringgit rose 0.28% to 4.1090', 'KLCI fell 1.77 points') with specific numerical details.\n• Evidence 2: Balanced reporting is evident by presenting both market gains (e.g., 'Axiata rose 4.69%') and declines (e.g., 'Tenaga Nasional had the biggest drop')."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a KLCI-component stock that gained 48 sen to RM35.60, linking it to market performance.\n• Evidence 2: While the broader market context is provided, there is no explicit connection to F&N's strategic direction, competitive position, or long-term value creation."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes comprehensive market data (e.g., 'KLCI fell 1.77 points', 'turnover came to 4.5 billion shares') and regional comparisons (e.g., Japan’s Nikkei, China’s CSI300).\n• Evidence 2: Detailed stock price movements and exchange rate information are provided, though limited analysis of underlying causes is absent."
+  }
+}

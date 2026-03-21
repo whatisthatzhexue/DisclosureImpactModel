@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Sepang OCPD Asst Comm Norhizam Bahaman confirmed the extension, until July 10, when contacted.\" (credible source cited)\n• Evidence 2: \"According to Sinar Harian, a man in a red shirt approached the trio and began shouting at one of them.\" (news outlet cited with specific detail)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad is a food and beverage company listed in Malaysia.\" (company context provided, but no mention in text)\n• Evidence 2: \"The case has shocked the nation...\" (no connection to company operations, financials, or strategic direction)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The victim, who was from Kuching, Sarawak, was found unconscious with visible injuries by a friend around 10am on June 24.\" (specific timeline and context)\n• Evidence 2: \"Police believe he gained access to the condominium using a card and keys given to him before the incident.\" (detailed investigative context)"
+  }
+}

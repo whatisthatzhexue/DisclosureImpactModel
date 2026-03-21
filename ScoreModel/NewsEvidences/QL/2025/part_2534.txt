@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM100mil a month\" (specific, verifiable figure)\n• Evidence 2: \"Prime Minister Datuk Seri Anwar Ibrahim announced new retail prices\" (official source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL Resources Bhd... was up marginally by 0.21%\" (direct company mention)\n• Evidence 2: \"minimal impact on earnings\" (financial implication for stakeholders)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"ceiling prices for sugar are still in place... since 2013\" (contextual background)\n• Evidence 2: \"small farms cannot survive... Let the market decide\" (analytical depth on industry impact)"
+  }
+}

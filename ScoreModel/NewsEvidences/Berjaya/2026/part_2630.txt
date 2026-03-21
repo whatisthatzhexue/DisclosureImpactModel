@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Dow Jones Industrial Average gained 0.86%, the S&P 500 rose 0.30%, while the Nasdaq Composite edged up 0.17%\" (verifiable factual data)\n• Evidence 2: \"Berjaya Research Sdn Bhd said...\" and \"Rakuten Trade said...\" (credible sources cited with balanced analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: No direct mention of Berjaya Food Berhad's strategic initiatives, financial performance, or competitive position\n• Evidence 2: Focus on macroeconomic factors and stock index movements rather than company-specific business performance or long-term value creation"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The key index has formed a bearish candlestick...\" and \"the immediate resistance at 1,632 points\" (technical analysis details)\n• Evidence 2: Stock price movements for multiple companies (e.g., Nestle, PPB Group) but no in-depth analysis of Berjaya Food Berhad's operations or market position"
+  }
+}

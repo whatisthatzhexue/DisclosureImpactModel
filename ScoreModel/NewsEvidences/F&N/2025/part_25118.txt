@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data on FBM KLCI movements (e.g., 'closed up 2.24 points, or 0.14% to 1,641.55') and trading volumes ('3.3 billion shares, valued at RM2.5bil').\n• Evidence 2: It cites Reuters as a credible source for external market analysis ('Reuters reported that the ringgit...')"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions F&N's stock performance ('F&N jumped 50 sen to RM32'), which is relevant to investors.\n• Evidence 2: It lacks analysis of how broader market trends (e.g., ringgit depreciation) impact F&N's strategic position or long-term value creation."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article includes specific stock price movements and trading data for multiple companies, providing quantitative context.\n• Evidence 2: It briefly mentions external factors (e.g., geopolitical tensions affecting currency markets) but does not elaborate on their potential impact on F&N's operations or strategy."
+  }
+}

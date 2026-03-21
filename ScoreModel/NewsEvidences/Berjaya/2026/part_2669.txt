@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Registration could be completed through the link https://mysubsidi.kpdn.gov.my\" (verifiable data and official source)\n• Evidence 2: \"SKPS data as of 5pm on Thursday (Oct 2)\" (specific, time-stamped data with context)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or its operations\" (no direct company reference)\n• Evidence 2: \"Focus on passenger boat subsidies unrelated to food/beverage sector\" (no strategic connection to company context)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"9,712 companies with 20,713 vehicles registered\" (quantitative data supporting program scale)\n• Evidence 2: \"Required documents: business registration certificates, bank statements, etc.\" (detailed eligibility criteria)"
+  }
+}

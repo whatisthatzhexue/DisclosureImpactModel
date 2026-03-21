@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: 'QL Resources Bhd is pressing ahead with its plan to expand the FamilyMart convenience store chain to 600 outlets by FY27, undeterred by rising operating costs.' (Specific, verifiable plan with timeframe)\n• Evidence 2: 'Maybank Bhd has completed the issuance of RM1.8bn in subordinated Sukuk Murabahah...' (Factual financial data with clear subject)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: 'QL Resources Bhd is pressing ahead with its plan to expand the FamilyMart convenience store chain to 600 outlets by FY27...' (Directly ties to QL's growth strategy and market positioning)\n• Evidence 2: 'Axiata Group Bhd is open to pursuing asset monetisation opportunities to ease its debt load.' (Strategic financial decision impacting long-term value)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: 'QL Resources Bhd is pressing ahead with its plan to expand the FamilyMart convenience store chain to 600 outlets by FY27, undeterred by rising operating costs.' (Quantifiable target and contextual challenge)\n• Evidence 2: 'Sime Darby Bhd reported a lower net profit of RM2.1bn for FY25, down 37.7% from RM3.3bn in FY24...' (Financial context but lacks analysis of underlying factors)"
+  }
+}

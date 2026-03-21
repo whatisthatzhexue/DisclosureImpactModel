@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The benchmark index was down 0.84 points to 1,502.41\" [verifiable stock price data]\n• Evidence 2: \"Nestle shed 56 sen to RM78.04\" [specific stock price movement]"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"QL Resources slipped six sen to RM4.34\" [direct company mention]\n• Evidence 2: No analysis of QL Resources' strategic direction, competitive position, or financial implications beyond stock price"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"489 stocks in the red, as compared to 322 advancers\" [market context]\n• Evidence 2: \"Asia's major developed markets stayed positive\" [broader economic context]"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"three sources familiar with the matter said\" (verifiable sources cited)\n• Evidence 2: \"Counterpoint said\" (third-party research group cited for market share data)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"aiming to mirror a retail approach that helped Apple Inc rake in billions\" (direct connection to strategic competitive positioning)\n• Evidence 2: \"Google's plan to open the stores is firm and will be executed soon\" (strategic execution timeline relevant to long-term value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Pixel phones in India cost from about $370 to $2,000... Apple's iPhones cost from about $520-$2,130\" (comparative pricing data)\n• Evidence 2: \"India has about 712 million smartphone users\" (contextual market size information)"
+  }
+}

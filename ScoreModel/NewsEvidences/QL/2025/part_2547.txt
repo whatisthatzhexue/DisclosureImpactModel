@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"New Zealand added former Sri Lanka spinner Rangana Herath and India's ex-batting coach Vikram Rathour to their coaching staff on Friday for their upcoming three test matches in Asia.\" (Reuters source, verifiable event)\n• Evidence 2: \"Rangana has taken over 100 test wickets in Galle...\" (specific, verifiable data about Herath's career)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of QL Resources Berhad, its business operations, financial performance, or strategic initiatives.\n• Evidence 2: The content is entirely focused on cricket coaching staff changes, which are unrelated to the food and beverage company's business context."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Herath was roped as spin-bowling coach Saqlain Mushtaq left to take over a mentor's role...\" (context about coaching staff changes)\n• Evidence 2: \"Rangana has taken over 100 test wickets in Galle...\" (specific statistical data and venue context)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"OCK Group will adopt a revenue-sharing model with Smartsel.\" [Direct quote from OCK's managing director, confirming contractual terms]\n• Evidence 2: \"Selangor Mentri Besar Datuk Seri Amirudin Shari said the project will take about three years to be completed and is valued at RM800mil.\" [Credible source with specific financial and timeline details]"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We want to be seen as an end-to-end digital infrastructure creator.\" [Direct statement from OCK's managing director about strategic positioning]\n• Evidence 2: \"This alliance is in support of the Digital Selangor agenda and will focus on five pillars...\" [Link to long-term strategic goals and market expansion]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The remainder of the project is estimated to be completed in June next year.\" [Specific timeline data]\n• Evidence 2: \"Selangor also has a budget from the federal government for smart-city features...\" [Contextual detail linking project to broader economic impact]"
+  }
+}

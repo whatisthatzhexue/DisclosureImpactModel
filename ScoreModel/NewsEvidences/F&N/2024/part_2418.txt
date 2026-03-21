@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N net profit rose 22.4% to RM121.63mil...\" (specific financial data with verifiable figures)\n• Evidence 2: \"Capital A has submitted its EGM circular...\" (actionable corporate event with clear timeline)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"F&N net profit...from RM99.37mil a year ago\" (direct company performance metric impacting shareholder value)\n• Evidence 2: \"Pekat Group is buying a 60% stake...\" (strategic investment activity affecting corporate positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"CTOS Digital Bhd’s net profit gained 20.7%...thanks to higher contribution...\" (specific performance drivers)\n• Evidence 2: \"YTL REIT reported a 9.7% increase...driven by higher contributions...\" (contextual factors behind financial results)"
+  }
+}

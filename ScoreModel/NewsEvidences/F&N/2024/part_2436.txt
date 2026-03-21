@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MIDF Research... sustained retail-trade growth with consistent out-of-home food and beverage consumption\" (verifiable data from Statistics Department).\n• Evidence 2: \"We remain sanguine... supported by resilient out-of-home food and beverage consumption...\" (balanced tone with factual basis)."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We continue to favour F&N... rising demand for ready-to-drink beverages...\" (direct company mention tied to strategic growth areas).\n• Evidence 2: \"expansion into upstream dairy farming... reduce reliance on imported milk\" (strategic implications for competitive positioning)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"persistent rise in certain raw material input costs... compressing margins for chocolate and cocoa-related food and beverage manufacturers\" (comprehensive analysis of sector challenges).\n• Evidence 2: \"full pass-through was unlikely due to limited room and the need to sustain product demand\" (detailed insight into pricing dynamics)."
+  }
+}

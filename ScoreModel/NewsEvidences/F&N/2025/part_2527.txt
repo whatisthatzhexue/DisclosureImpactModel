@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., S&P 500 gained 0.83% to 6,279.36) and quotes from credible research firms (Berjaya Research, Rakuten Trade) with specific technical analysis.\n• Evidence 2: Balanced reporting is maintained by presenting both the FBM KLCI's decline and analysts' bullish outlook, without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd directly or its strategic initiatives, financial performance, or competitive position.\n• Evidence 2: Focus is on broader market trends and stock movements (e.g., F&N, PETRONAS Dagangan) rather than the company's specific business strategies or long-term value creation."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., FBM KLCI levels, trading volume, analyst targets) and context about market sentiment and technical analysis.\n• Evidence 2: While it provides sufficient background on market dynamics, it lacks in-depth analysis of Fraser & Neave Holdings Bhd's operations, financials, or strategic relevance to investors."
+  }
+}

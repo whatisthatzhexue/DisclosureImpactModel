@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 9, "justification": "• Evidence 1: \"There’s a bit of a backlash going on,\" said Fflur Roberts, head of luxury goods at Euromonitor International.\n• Evidence 2: \"If people have money and see something tempting, they’ll spend,\" Allen said. These quotes are attributed to credible sources and present balanced perspectives."},
+  "StrategicRelevance": {"score": 5, "justification": "• Evidence 1: The text discusses market trends affecting luxury brands, which could indirectly relate to broader industry dynamics.\n• Evidence 2: Specific companies like Tapestry and Amer Sports are mentioned, but no direct connection to QL Resources Berhad's strategic direction is provided."}, 
+  "Depth": {"score": 8, "justification": "• Evidence 1: The text provides comprehensive coverage of luxury market trends, including sales data, company performance, and analyst insights.\n• Evidence 2: Detailed examples like the Dior bag pricing and Zara's pricing strategy illustrate the analysis depth."}
+}

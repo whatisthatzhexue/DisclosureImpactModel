@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd (F&N) entered into an agreement...\" (specific factual details with verifiable data)\n• Evidence 2: \"said Apex Securities Research\" (credible source cited for all announcements)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"to set up a manufacturing facility for dairy products\" (directly ties to F&N's strategic expansion)\n• Evidence 2: \"acquiring the entire stake...to expand into the highway rest...business\" (clear strategic business move)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"US$3.86 million (RM18.5 million)\" (quantitative details supporting event context)\n• Evidence 2: \"RM23 million\" (specific financial data for strategic analysis)"
+  }
+}

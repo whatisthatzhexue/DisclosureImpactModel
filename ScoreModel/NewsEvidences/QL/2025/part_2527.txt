@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 8, "justification": "• Evidence 1: Headlines reference credible entities like MACC, Perhilitan, and government agencies, indicating factual accuracy.\n• Evidence 2: News items include verifiable events (e.g., arrests, natural disasters) with no apparent bias or fabrication."},
+  "StrategicRelevance": {"score": 0, "justification": "• Evidence 1: No mention of QL Resources Berhad or related business activities, financials, or market positioning.\n• Evidence 2: Headlines focus on geopolitical, social, and cultural events unrelated to the company's operations or strategic direction."},
+  "Depth": {"score": 0, "justification": "• Evidence 1: Headlines lack contextual details, data, or analysis to support claims about the company or its industry.\n• Evidence 2: No background information, financial metrics, or stakeholder insights related to QL Resources Berhad are provided."}
+}

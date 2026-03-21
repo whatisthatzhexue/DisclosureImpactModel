@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We are taking a phased approach. The effort is ultimately to finally ban vapes,\" said the Health Minister.\n• Evidence 2: \"The committee is looking into the matter in detail,\" he added. (Quotes from credible official sources with no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Replying to a query from the press... propose that fruits and fresh produce be included in the Sara redemption list...\" (Indirectly relates to food policy impacting Berjaya Food's product landscape)\n• Evidence 2: \"This blueprint shifts the focus from awareness to action...\" (General health policy implications for the food industry)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"There was a three-fold increase in weekly fruit sales...\" (Specific example of behavioral insight impact)\n• Evidence 2: \"The National Blueprint for Behavioural Insights in Health was done by the ministry in collaboration with the World Health Organisation (WHO)\" (Context about policy development process)"
+  }
+}

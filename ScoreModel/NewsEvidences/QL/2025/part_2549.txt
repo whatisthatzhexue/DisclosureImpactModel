@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Only rockstars and presidents can usually fill Indonesia's national stadium, but on Thursday it was octogenarian Pope Francis who drew more than 80,000 fans to a Catholic Mass...\" (specific, verifiable event details)\n• Evidence 2: \"Christians are a small minority in Indonesia...\" (contextual data about religious demographics)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of QL Resources Berhad or any business-related activities\" (no company-specific information)\n• Evidence 2: \"Indonesian President Joko Widodo\" (political context unrelated to food/beverage sector)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The event was the high point of the 87-year-old pope's four days in the capital...\" (comprehensive event context)\n• Evidence 2: \"Religious freedom is enshrined in its constitution\" (background on Indonesian legal framework)"
+  }
+}

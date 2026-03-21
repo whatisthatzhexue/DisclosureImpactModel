@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"ONLINE scams in Malaysia have caused a staggering RM1.12bil in financial losses in just the first half of 2025 alone, says the Home Ministry.\"\n• Evidence 2: \"It was reported earlier that to cope with an average of 500 scam-related calls per day, the government has approved an additional 139 permanent staff for the NSRC.\""
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The text provides no direct mention of Berjaya Food Berhad or its business operations, strategies, or financial performance.\"\n• Evidence 2: \"The focus on government cybercrime initiatives lacks specific ties to the company's strategic direction or market position.\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The article provides comprehensive details on scam losses (RM1.12bil), NSRC operations, personnel deployments, and historical data (RM1.58bil in 2024).\"\n• Evidence 2: \"It includes specific metrics (265,869 bank accounts, 211,265 phone numbers) and explains government actions (Cybercrime Bill feasibility, NSRC relocation to Cyberjaya).\""
+  }
+}

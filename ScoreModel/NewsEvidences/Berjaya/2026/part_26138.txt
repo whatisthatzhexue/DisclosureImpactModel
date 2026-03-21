@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"He was charged under Section 302 of the Penal Code and faces the death sentence or imprisonment between 30 and 40 years...\" (verifiable legal charges)\n• Evidence 2: \"No plea was recorded from both accused...\" (neutral reporting of procedural details)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad is a food and beverage company listed in Malaysia.\" (company context provided, but no connection to article content)\n• Evidence 2: \"The article contains no mention of Berjaya Food Berhad or related business activities.\" (complete absence of company relevance)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"A post-mortem revealed that the cause of death was blunt force trauma to the head.\" (specific forensic detail)\n• Evidence 2: \"Lawyers... sought for the case to be expedited.\" (contextual background on legal proceedings)"
+  }
+}

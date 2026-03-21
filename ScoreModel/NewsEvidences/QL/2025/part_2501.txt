@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Since we're celebrating our 75th anniversary this year...\" (direct quote from Melissa Menta, credible source)\n• Evidence 2: \"Nowadays, Snoopy is recognised by between 80-90 percent...\" (specific data from Deloitte consultancy, verifiable)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: No direct mention of QL Resources Berhad or any food/beverage business activities\n• Evidence 2: Content focuses on Peanuts' cultural impact and fashion collaborations, unrelated to corporate strategy or financial performance"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The exhibition is at its most interesting in explaining how designer collaborations...\" (comprehensive historical context)\n• Evidence 2: \"Licensing agreements come with strict conditions...\" (specific details about commercialization strategies)"
+  }
+}

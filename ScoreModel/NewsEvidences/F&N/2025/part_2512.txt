@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI closing at 1,597.47, intraday high of 1,603.19, and turnover of RM2.7bil, which aligns with factual market reporting.\n• Evidence 2: Analyst Thong Pak Leng's commentary is attributed to a credible source (Rakuten Trade) and includes balanced analysis of market conditions and technical levels."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd or any aspects of its business, financials, or strategic direction.\n• Evidence 2: The focus is solely on broader market indices and regional performance, with no connection to the company's operations or investor concerns."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., 561 gainers, 428 losers, RM2.7bil turnover) and technical analysis of the FBM KLCI's psychological levels, providing context for market behavior.\n• Evidence 2: Regional market performance is elaborated with specific indices (Nikkei, Hang Seng, CSI300, etc.) and their percentage movements, offering comprehensive coverage of the broader market environment."
+  }
+}

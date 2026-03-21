@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., FBM KLCI down 4.39 points to 1,622.73, share turnover of 2.57 billion changing hands for RM1.58bil).\n• Evidence 2: The tone is neutral, citing external factors (S&P500/Nasdaq declines, US inflation data) without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions Berjaya's stock price movement (+1 sen) but does not connect to its strategic direction, competitive position, or long-term value creation.\n• Evidence 2: Focus is on broader market trends (sectors, Fed rate cuts) rather than Berjaya's business performance or financial implications."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides detailed market context (e.g., 639 decliners vs. 432 gainers, sector-specific declines in utilities/financials/telcos).\n• Evidence 2: It includes specific stock price movements for blue chips (YTL Power, Telekom, PETRONAS Chemicals) but lacks in-depth analysis of Berjaya's operations or strategic initiatives."
+  }
+}

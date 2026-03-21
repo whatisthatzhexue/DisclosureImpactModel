@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd has received its first commercial batch of 2,500 dairy heifers from Chile to F&N Agrivalley...\" (specific, verifiable data)\n• Evidence 2: \"Lien Hoe Corp Bhd announced that its audited accounts for the FY2024 raised a material uncertainty...\" (audited accounts detail with professional firm cited)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd has received its first commercial batch...\" (direct company mention with strategic agricultural expansion)\n• Evidence 2: \"Scope Industries Bhd is disposing of its wholly-owned subsidiary...\" (strategic divestiture impacting business portfolio)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"2,500 dairy heifers from Chile to F&N Agrivalley...\" (quantitative detail with geographic context)\n• Evidence 2: \"RM96.7mn\" and \"RM10.7mn\" figures (monetary context with no analytical interpretation)"
+  }
+}

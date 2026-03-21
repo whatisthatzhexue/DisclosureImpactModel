@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Power Root Bhd has been slapped with a lawsuit from Export-Import Bank of Malaysia Bhd for RM7.4mn over insurance claim payout dispute.\"\n• Evidence 2: \"Jentayu Sustainables Bhd said the Securities Commission Malaysia has denied the group’s bid...\""
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root Bhd... lawsuit... insurance claim payout dispute\" directly relates to financial risk management and strategic legal exposure.\n• Evidence 2: \"TechStore Bhd... fixed its IPO price...\" connects to market positioning and capital-raising strategies."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The public portion... oversubscribed by 73.2 times... 25,772 applications... RM924.6mn\" provides quantitative context for market reception.\n• Evidence 2: \"Gadang Holdings Bhd 2QFY25 net profit rose more than 5-fold...\" includes specific financial metrics but lacks analysis of underlying factors."
+  }
+}

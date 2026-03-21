@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The committee will propose improvements that can be adopted as best practices by all stakeholders to ensure the sustainability of the water supply.\" (verifiable data on committee actions)\n• Evidence 2: \"If convicted, the offender may be imprisoned for a period not exceeding 10 years or fined up to RM500,000.\" (specific legal penalties cited)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or its operations in the text.\" (no company-specific information)\n• Evidence 2: \"The article focuses on water pollution and regulatory actions unrelated to food/beverage industry strategies.\" (no connection to company's business context)"
+  },
+  "Depth": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Provides specific details about the incident (dates, affected users, legal actions) but no context linking to Berjaya Food Berhad.\" (limited relevance to company)\n• Evidence 2: \"Lacks analysis of how water supply disruptions could impact food production or supply chains for Berjaya Food Berhad.\" (no stakeholder significance for the company)"
+  }
+}

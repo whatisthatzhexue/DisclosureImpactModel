@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"UEM Sunrise Bhd’s sales rose 29% to RM649.3mil...\" (specific numerical data with time frame)\n• Evidence 2: \"This is a strong first-half showing...\" (direct quote from CFO with no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Anchored on our U2030 transformation strategy...\" (explicit connection to strategic framework)\n• Evidence 2: \"on track to meet its 2025 target of up to RM2bil in GDV launches\" (forward-looking strategic goal)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"net gearing improving to 0.41 times...cash and bank balances...rose 11% year-on-year\" (detailed financial metrics)\n• Evidence 2: \"completed and delivered 1,836 units...\" (specific operational performance data)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 2.99 points, or 0.19% to 1,544.52 at 9.16 am.\" (specific, verifiable data)\n• Evidence 2: \"Berjaya Research Sdn Bhd said...\" and \"Rakuten Trade noted...\" (credible institutional sources cited)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL fell 10 sen to RM4.58\" (direct company mention, but no strategic context)\n• Evidence 2: No discussion of QL Resources' business strategies, competitive position, or long-term value creation"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The key index is at its 1,541 hurdle...\" (technical analysis details)\n• Evidence 2: \"Net foreign inflows have already taken place...\" (market context but no in-depth analysis of QL's financial performance or strategic implications)"
+  }
+}

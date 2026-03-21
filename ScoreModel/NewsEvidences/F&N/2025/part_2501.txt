@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, the group said it plans to dispose of its 50% stake in Vacaron Company Sdn Bhd...\" (verifiable source cited)\n• Evidence 2: \"The current market value for the land is RM360mil, as appraised by Henry Butcher Malaysia on March 10, 2025...\" (specific data and credible appraisal firm mentioned)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N is focused on unlocking value of its non-core properties and will utilise funds to grow its core business...\" (direct link to strategic direction)\n• Evidence 2: \"The current market value for the land is RM360mil...\" (financial implications and market impact quantified)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Vacaron owns the parcel of land that F&N is selling...\" (context about ownership but no background on Vacaron's history)\n• Evidence 2: \"F&N is focused on unlocking value of its non-core properties...\" (strategic context but lacks industry comparisons or market analysis)"
+  }
+}

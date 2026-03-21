@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data on stock prices (e.g., Nestlé slid 80 sen to RM109) and market indices (FBM KLCI fell 0.43% to 1,617.46).\n• Evidence 2: It includes balanced reporting by mentioning both decliners and advancers, with no apparent bias or fabrication."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave (F&N) as a gainer, which is relevant to the company's stock performance.\n• Evidence 2: However, it lacks analysis of F&N's strategic direction, competitive position, or long-term value creation, focusing instead on broader market trends."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive market data, including turnover (RM2.83bil), stock price movements, and regional index performance (e.g., Nikkei 225, Hang Seng Index).\n• Evidence 2: It includes specific examples of decliners and gainers but does not contextualize the market movements or analyze underlying factors affecting the companies."
+  }
+}

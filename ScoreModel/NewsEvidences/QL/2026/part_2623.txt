@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites Bernama as the source and provides verifiable data (e.g., FBM KLCI closing at 1,599.66, trading volumes of RM2.8 billion) with no fabrication.\n• Evidence 2: The tone is balanced, reporting both market declines and positive breadth, with quotes from a credible analyst (Rakuten Trade) offering objective analysis."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions QL Resources’ stock price movement (dipped one sen to RM4.30), which is relevant to investors.\n• Evidence 2: However, it lacks analysis of the company’s strategic direction, competitive position, or long-term value drivers, focusing instead on broader market trends."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article provides comprehensive market data, including sector performance, volume changes, and detailed stock movements (e.g., FBM 100 Index decline, Energy Index gains), offering contextual depth.\n• Evidence 2: It includes quantitative evidence (e.g., 585 gainers vs. 508 decliners, RM2.8 billion turnover) to support claims about market activity, though it does not delve into QL Resources’ operational or strategic specifics."
+  }
+}

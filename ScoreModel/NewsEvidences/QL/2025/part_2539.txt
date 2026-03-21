@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Magma Group Bhd has received the green light from shareholders... RM100mn.\" (specific financial details and corporate action)\n• Evidence 2: \"Solar District Cooling Group Bhd... oversubscribed by 144.08 times.\" (quantifiable data with verifiable market impact)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"HE Group Bhd has secured a RM30.6mn contract... semiconductor plant\" (directly ties to operational expansion and sector-specific growth)\n• Evidence 2: \"Zantat Holdings Bhd... aims to raise RM14mn... Bumiputera investors\" (strategic capital-raising for production capacity)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Press Metal Aluminium Holdings Bhd... affected 9% of its total smelting capacity... four months to restore operations\" (comprehensive incident details and timeline)\n• Evidence 2: \"Dataprep Holdings Bhd... appointed as an authorised reseller... information-sharing foundation for enterprises\" (contextual explanation of partnership significance)"
+  }
+}

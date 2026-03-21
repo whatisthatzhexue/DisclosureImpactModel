@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"According to TA Research...\" (cites credible source and provides verifiable data on subsidy reductions)\n• Evidence 2: \"We believe that the current lower feed costs...\" (balanced analysis with factual context about market dynamics)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources Bhd are likely to benefit...\" (direct company mention and ties to competitive positioning)\n• Evidence 2: \"Our DCF analysis is based on QL’s resilient earnings growth...\" (connects to financial implications and stakeholder value)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The research house recommends accumulating Leong Hup shares...\" (comprehensive coverage of market impact and strategic recommendations)\n• Evidence 2: \"Our findings indicate that current production costs are below the ceiling price...\" (analytical depth with data-driven insights)"
+  }
+}

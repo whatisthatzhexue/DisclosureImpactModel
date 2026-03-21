@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"net loss of RM147.8mil in 4Q24 compared with a net loss of RM79.3mil posted in the same quarter a year ago\" (verifiable financial data)\n• Evidence 2: \"revenue for the quarter dipped 3.8% to RM2.46bil against RM2.55bil in 4Q23\" (specific, factual revenue figures)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"cautiously optimistic about the performance of its business operations for the financial year ending June 30, 2025 (FY25)\" (forward-looking strategic outlook)\n• Evidence 2: \"closure of legal number forecast operators (NFO) outlets...may result in proliferation of illegal operators\" (operational impact on competitive position)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Revenue in FY24 rose 4.5% year-on-year to RM10.04bil driven by higher contributions from all segments...except for food retail segment\" (comprehensive financial context)\n• Evidence 2: \"net profit of RM446.2mil or earnings per share of 7.85 sen compared with net loss of RM110.3mil...in FY23\" (historical performance comparison)"
+  }
+}

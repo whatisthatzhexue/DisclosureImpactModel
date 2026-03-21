@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Late buying interest pushes FBM KLCI to close at day’s high\" (specific, factual market movement)\n• Evidence 2: \"Turnover was at 2.42 billion shares valued at RM2.22bil\" (verifiable quantitative data)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N dropped 70 sen to RM27.50\" (direct mention of Fraser & Neave Holdings Bhd)\n• Evidence 2: \"Regional bourses finished mixed today\" (broader market context but no strategic implications for the company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The FBM KLCI ended 7.87 points higher or 0.51% at 1,556.98\" (comprehensive market performance details)\n• Evidence 2: \"Japan’s Nikkei 225 closed up 1.85% to 41,820.48; Hong Kong’s Hang Seng Index fell 0.89% to 24,858.82\" (extensive regional market coverage)"
+  }
+}

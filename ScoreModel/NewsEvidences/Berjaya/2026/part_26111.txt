@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Malaysian Border Control and Protection Agency (AKPS) said in a statement on Thursday (Aug 14).\"\n• Evidence 2: \"She is being investigated under Section 186 of the Penal Code...\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or its operations/strategic direction.\"\n• Evidence 2: \"The incident involves immigration enforcement, unrelated to food/beverage business operations.\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Checks revealed that none of them had entry records into Malaysia...\" (provides context)\n• Evidence 2: \"She sustained swelling around her left eye...\" (specific details about the incident's impact)"
+  }
+}

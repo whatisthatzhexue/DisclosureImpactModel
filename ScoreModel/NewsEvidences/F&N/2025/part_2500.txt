@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N is disposing of 5.149 hectares of leasehold land... expected to contribute RM83.2mil to the group\" (specific financial figure provided)\n• Evidence 2: \"Astro’s net profit slipped to RM16.39mil... from RM54.71mil\" (direct comparison of financial metrics)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"F&N is disposing of 5.149 hectares... expected to contribute RM83.2mil to the group\" (directly relates to financial strategy and capital allocation)\n• Evidence 2: \"Kelington has secured a RM108mil contract... lifts its orderbook to RM1.3bil\" (connects to business performance and market positioning)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N is disposing of 5.149 hectares... expected to contribute RM83.2mil\" (specific detail but lacks context about strategic rationale)\n• Evidence 2: \"Hiap Teck's fourth quarter... revenue slipped to RM342.74mil\" (provides financial data but no analysis of underlying factors)"
+  }
+}

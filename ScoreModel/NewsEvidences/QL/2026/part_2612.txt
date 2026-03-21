@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reuters reported that the ringgit climbed to its strongest level in more than a year on Wednesday, supported by a robust economic growth outlook.\"\n• Evidence 2: \"Dealers said the local bourse closed on a cautious note as profit-taking emerged following recent gains, with investors turning more guarded amid mixed regional performance.\"\n• Evidence 3: \"MSCI’s broadest index of Asia-Pacific shares outside Japan added 0.46%\" (citing a credible external source)."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"QL Resources declined 13 sen to RM4.25\" (direct company mention, but no strategic context).\n• Evidence 2: \"Market participants are now looking towards upcoming corporate earnings for fresh trading cues\" (links to financial performance but lacks strategic analysis)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"On the broader market, losers outpaced gainers 650 to 463, with 557 counters unchanged. Turnover stood at 3.43 billion shares worth RM2.86 billion\" (comprehensive market data).\n• Evidence 2: \"Regional markets ended mixed today...\" (detailed regional context with specific indices and percentages)."
+  }
+}

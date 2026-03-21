@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Jakarta city administration data recorded the number of sacrificial animals available this year at 35,133, a decline of 57% compared to the previous year.\" (verifiable data)\n• Evidence 2: \"Though the foot-and-mouth outbreak threats remain loom large, but the decline in sales is mostly because of economic hardship,\" said Rahmat Debleng (direct quote from source)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Eid momentum is expected to support economic growth in Indonesia, where household consumption helps drive GDP.\" (indirectly relates to consumer spending trends affecting food/beverage sector)\n• Evidence 2: \"Analysts expect more subdued consumer spending in 2025\" (economic outlook impacting market demand)"
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The government has made next Monday an additional holiday after Friday’s festival to allow people more time with their families\" (contextual background on economic impact)\n• Evidence 2: \"In the Christian and Jewish telling, Abraham is ordered to kill another son, Isaac\" (cultural/historical context enriching understanding of the holiday's significance)"
+  }
+}

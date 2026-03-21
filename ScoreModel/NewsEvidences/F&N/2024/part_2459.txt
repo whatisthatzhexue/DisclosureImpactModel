@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Mydin Mohamed Holdings Bhd (Mydin) made it into the Malaysia Book of Records for distributing 102,064 paper craft dragons...\" (specific, verifiable data)\n• Evidence 2: \"National Unity Minister Datuk Aaron Ago Dagang\" and \"Ahimmat Mydin\" provided direct quotes, adding credible sources"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Mydin has collaborated with five ewallet companies...\" (business partnerships)\n• Evidence 2: \"Mydin organised the Snap and Win competition...\" (marketing initiatives tied to customer engagement)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"SPayLater, Abbott, Armor All... are strategic partners for the campaigns\" (comprehensive list of partners)\n• Evidence 2: \"Mydin celebrated the diversity of festivals...\" (context about cultural initiatives, but lacks broader operational context)"
+  }
+}

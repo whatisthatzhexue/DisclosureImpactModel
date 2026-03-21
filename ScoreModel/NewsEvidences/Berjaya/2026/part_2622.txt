@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The local bourse opened on a positive note, tracking Wall Street’s overnight advance after the U.S. Federal Reserve trimmed rates by 25 basis points.\" (verifiable data on Fed rate cut)\n• Evidence 2: \"Berjaya Research Sdn Bhd said...\" (citable source with balanced analysis of market implications)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The FBM KLCI closed slightly lower...\" (no direct mention of Berjaya Food Berhad or its strategic factors)\n• Evidence 2: \"Rakuten Trade said...\" (general market commentary without company-specific strategic insights)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Should a rebound materialise, upsides are limited towards the immediate resistance at 1,620 points...\" (detailed technical analysis with specific price levels)\n• Evidence 2: \"Among the gainers...\" (comprehensive coverage of stock price movements with quantitative data)"
+  }
+}

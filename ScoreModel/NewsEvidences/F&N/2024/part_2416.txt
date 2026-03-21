@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., 'FBM KLCI closed higher... 1,591.87') and cites Reuters for oil price information.\n• Evidence 2: It maintains a balanced tone by reporting both gains and losses across stocks without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave Holdings Bhd (F&N) as a 'tumbled' stock but does not connect this to strategic factors, competitive positioning, or long-term value creation.\n• Evidence 2: The focus is on broader market trends and other companies (e.g., Cape EMS, Nestle), with no analysis of F&N's business performance or strategic context."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., '5.12 billion shares changed hands, worth RM4.02bil') and regional index movements, providing context for market conditions.\n• Evidence 2: It offers specific stock price changes and trading volumes, though lacks deeper analysis of underlying factors affecting Fraser & Neave Holdings Bhd."
+  }
+}

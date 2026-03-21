@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"FBM KLCI fell for the sixth day, plunging 42.97 points, or 2.98%, to 1,400.59\" (specific numerical data with verifiable market context).\n• Evidence 2: \"Dealers expect market sentiment to remain cautious\" (balanced tone without fabrication or bias)."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N added 10 sen to RM23.30\" (direct mention of Fraser & Neave Holdings Bhd as a constituent, though not tied to strategic context).\n• Evidence 2: \"Escalating tariff wars... wiped out massive amounts in market value\" (indirectly relevant to company's operating environment but lacks direct strategic analysis)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The benchmark index has lost a whopping 125.93 points, or 8.3%, since the announcement of sweeping tariffs\" (comprehensive data on market impact).\n• Evidence 2: \"Market traded within a range of 52.36 points... 3.77 billion shares, valued at RM3.8bil, changed hands\" (detailed quantitative context with market activity)."
+  }
+}

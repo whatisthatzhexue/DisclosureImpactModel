@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Venk Modur, a celebrity stylist told Women’s Wear Daily.\" (credible source citation)\n• Evidence 2: \"Malaysian designer Hatta Dolmat was quoted by Bernama as saying...\" (specific, attributed source)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company...\" (company context provided, but article focuses on unrelated fashion trend)\n• Evidence 2: \"No direct company mention\" (no connection to QL Resources Berhad's strategic direction or business performance)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The belief is that, as the idiom goes, 'money screams and wealth whispers'\" (analytical insight with cultural context)\n• Evidence 2: \"Mid-market labels are quick to capitalise on the quiet luxury craze...\" (detailed market analysis with industry examples)"
+  }
+}

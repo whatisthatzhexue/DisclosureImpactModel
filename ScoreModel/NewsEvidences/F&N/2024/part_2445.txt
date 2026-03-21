@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"FBM KLCI jumps on improved global growth outlook\" (verifiable market data)\n• Evidence 2: \"Share turnover was 1.83 billion shares valued at RM1.24bil\" (specific, quantifiable information)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N rising 52 sen to RM30.82\" (direct mention of Fraser & Neave Holdings Bhd's stock performance)\n• Evidence 2: \"Leading consumer stocks were seen rallying\" (links to company's sector relevance but lacks strategic context)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The broader market turned decisively higher with the number of rising stocks nearly twice the number of decliners\" (comprehensive market context)\n• Evidence 2: \"Regionally, Japan's Nikkei rose 1.6%...\" (extensive regional data supporting analysis)"
+  }
+}

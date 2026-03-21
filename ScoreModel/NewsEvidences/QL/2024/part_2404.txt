@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Consumer prices have fallen for four straight months...\" (verifiable data)\n• Evidence 2: \"Shares of Yum China soared the most since 2022...\" (specific financial performance cited)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Global businesses will have to adjust their positioning...\" (strategic implications for companies)\n• Evidence 2: \"McDonald’s Corp posted the biggest monthly stock gain...\" (direct company performance data)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"L’Oreal’s shares are yet to recover after disappointing sales...\" (contextual analysis of market trends)\n• Evidence 2: \"Nike Inc, which gets about 14% of its revenue from Greater China...\" (specific financial context and impact)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"A 2024 survey by Gartner on Human Resource (HR) leaders’ priorities and challenges revealed that 60% are uncertain about the impact of emerging technologies on HR and talent.\" (Gartner is a credible source)\n• Evidence 2: \"He has held top HR positions in notable organisations such as Coca-Cola, B. Braun, Samsung and Berjaya Corporation...\" (Specific credentials and recognitions are cited)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The Star Chief People Officer Summit...aims to empower HR professionals to anticipate the challenges and seize the opportunities that lie ahead.\" (No direct connection to Berjaya Food Berhad's strategic priorities)\n• Evidence 2: \"With over 25 years of solid HR experience...\" (Speaker details unrelated to Berjaya Food's business strategy or financial implications)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"From analytics-driven decision-making to leveraging AI tools for improved efficiency...\" (Comprehensive coverage of summit themes and topics)\n• Evidence 2: \"Joining Najmie for the same panel session is Zacharias Rajagopal...\" (Detailed descriptions of speakers and their expertise)"
+  }
+}

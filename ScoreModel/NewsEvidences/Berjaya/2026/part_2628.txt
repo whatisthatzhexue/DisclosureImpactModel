@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites Bernama as the source, a credible Malaysian news agency.\n• Evidence 2: Direct quotes from Liew Tian Xiong and Teo Kok Seong are provided, with no apparent fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: The text emphasizes EBP7's alignment with MVV 2.0's strategic goals, including aerospace, semiconductors, and logistics industries.\n• Evidence 2: The signing of SPAs and MoUs is directly tied to building an industrial ecosystem and enhancing global connectivity."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides detailed context about EBP7's features, including the 14,568-hectare corridor and its proximity to key infrastructure.\n• Evidence 2: Specific projects like Techbond's high-tech plant and I Jaya's GreenRE-certified housing are described, offering concrete examples of strategic development."
+  }
+}

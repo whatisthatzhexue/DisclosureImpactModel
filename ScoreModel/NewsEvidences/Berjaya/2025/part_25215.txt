@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Traffic largely disappears when government offices vacate at the end of the workday or on weekends.\" (specific, verifiable observation)\n• Evidence 2: \"Putrajaya and Cyberjaya offer a good variation of gradients that are great for fitness building.\" (generalized but contextually plausible statement)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Berjaya Food Berhad or its business operations, financials, or strategic initiatives.\"\n• Evidence 2: \"Focus on recreational cycling routes unrelated to food production, distribution, or market dynamics.\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Detailed route descriptions (e.g., 40km-80km loops, specific landmarks like PICC and KLIA) with contextual information about traffic patterns and safety.\" (comprehensive guide)\n• Evidence 2: \"Lack of analytical insights into economic impact, market trends, or stakeholder value related to the company's operations.\" (limited strategic context)"
+  }
+}

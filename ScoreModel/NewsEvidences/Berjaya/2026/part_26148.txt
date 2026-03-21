@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI remained in negative territory at the midday break, having pared earlier losses amid ongoing profit-taking.\" (factual market data)\n• Evidence 2: \"TA Securities said...\" and \"Berjaya Research Sdn Bhd noted...\" (credible sources cited with verifiable analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no direct mention of Berjaya Food Berhad or its business operations, financial performance, or strategic initiatives.\n• Evidence 2: The focus is solely on market indices and stock movements, with no connection to the company's competitive position or long-term value creation."
+  },
+  "Depth": {
+    "score": 2,
+    "justification": "• Evidence 1: The text provides surface-level market data (e.g., index levels, stock price movements) but lacks context about Berjaya Food Berhad's operations or industry position.\n• Evidence 2: No financial metrics, strategic plans, or stakeholder-relevant details about the company are included."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Mudik is not just an annual ritual or tradition for us,\" said civil servant Ridho Alfian.\n• Evidence 2: The Indonesian Chamber of Commerce and Industry said the financial turnover during the holiday this year will reach nearly US$10 billion."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no direct mention of QL Resources Berhad or its operations.\n• Evidence 2: The focus on Indonesia's holiday economy lacks connection to Malaysia's food and beverage sector or QL Resources' strategic priorities."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The financial turnover during the holiday this year will reach nearly US$10 billion and cross sectors including retail, transit and tourism.\" \n• Evidence 2: Detailed descriptions of traditions, travel patterns, and economic impacts provide contextual background on the holiday's significance."
+  }
+}

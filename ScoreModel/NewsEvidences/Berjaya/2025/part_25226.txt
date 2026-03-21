@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Malaysian Communications and Multimedia Commission (MCMC) has been recognised by the Malaysia Book of Records (MBOR) for pioneering the First Multiplayer Metaverse Induction Programme, known as MetaHRise.\"\n• Evidence 2: \"This innovative digital experience is set to transform the onboarding journey for new employees at the Commission,\" said MCMC."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"MetaHRise, launched in February 2024, aims to transform traditional human resources practices by offering new hires an engaging and interactive start to their careers at MCMC.\"\n• Evidence 2: \"Additionally, the programme further enhances team building through gamification...\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"MetaHRise offers a comprehensive introduction to the Commission's functions, regulatory activities and initiatives through an immersive onboarding experience.\"\n• Evidence 2: \"Despite being launched only a few months ago, MCMC said MetaHRise has garnered significant momentum...\""
+  }
+}

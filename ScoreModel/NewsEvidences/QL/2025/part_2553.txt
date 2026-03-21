@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL Resources Bhd ’s net profit rose 16% to RM107.4m in 1QFY2025 from a year earlier mainly led by its convenience store chain business.\"\n• Evidence 2: \"Supermax Corp Bhd suffered its largest quarterly net loss of RM127.93 million for its fourth quarter ended June 30, 2024 (4QFY2024), hit by a write down of high price inventory at an overseas subsidiary amounting to RM72.85 million.\"\n• Evidence 3: \"Malakoff Corp Bhd posted a net profit of RM93.6 million for 2QFY2024, compared to a net loss of RM318.7 million a year ago, on the back of higher earnings contributions from two Johor-based power plants amid reduced coal costs, coupled with a compensation received for compulsory land acquisition.\""
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL Resources Bhd ’s net profit rose 16% to RM107.4m in 1QFY2025 from a year earlier mainly led by its convenience store chain business.\"\n• Evidence 2: \"DRB-Hicom Bhd posted a net loss of RM17.08 million in 2QFY2024 against a net profit of RM33.71 million a year ago, mainly due to weaker financial performance in Proton Holdings Bhd and losses from Pos Malaysia Bhd following reduced revenue in its international business.\"\n• Evidence 3: \"AirAsia X Bhd reported a 13% fall in net profit for 2QFY2024 to RM4.82 million from RM5.54 million a year earlier, on lesser travels due to the traditionally weaker travel season.\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sunway Bhd posted a net profit of RM270.47 million for 2QFY2024, up 80.4% from RM149.43 million a year earlier, on stronger operating performance across all business segments, coupled with gain of RM89.4 million from redemption of an investment and newly acquired investment properties of an associate.\"\n• Evidence 2: \"IOI Properties Group Bhd ’s 4QFY2024 net profit jumped more than five times in 4QFY2024 from a year earlier thanks largely to a revaluation gain.\"\n• Evidence 3: \"Axiata Group Bhd returned to the black in 2QFY2024 with a net profit of RM134.9 million, compared with a net loss of RM576.22 million a year earlier, contributed by strong performance from all operating companies except Link Net and Dialog.\""
+  }
+}

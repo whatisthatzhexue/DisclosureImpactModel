@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"WCT Malls has established itself as a key player in the retail landscape...\" (verifiable factual statement about company position)\n• Evidence 2: \"VBS has since attracted over 400 participating tenants...\" (specific, measurable data point)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"revamped VBS from a short-term response into a long-term strategic asset\" (direct link to company strategy)\n• Evidence 2: \"co-funding the 20% discount vouchers\" (strategic partnership impact on financials)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"generated over RM42mil in transactions\" (quantitative evidence supporting claims)\n• Evidence 2: \"stackable savings which allows shoppers unparalleled flexibility\" (detailed explanation of initiative mechanics)"
+  }
+}

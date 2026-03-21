@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Samsung appears to only be getting started with this buzzword on TVs\" (verifiable factual claim about Samsung's AI integration)\n• Evidence 2: \"dpa/Tribune News Service\" (credible source citation for the article's information)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Samsung is installing the Windows company's Copilot AI assistant on TVs\" (direct mention of strategic AI integration)\n• Evidence 2: \"The Frame Pro... Art Store\" (product innovation relevant to Samsung's competitive positioning in the TV market)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Images with lower resolutions are upscaled to 8K quality... optimise colour reproduction\" (technical details supporting product claims)\n• Evidence 2: \"AI will make TVs more interactive and at the same time more tailored to the viewer\" (analysis of feature impact, though limited to descriptive rather than predictive insight)"
+  }
+}

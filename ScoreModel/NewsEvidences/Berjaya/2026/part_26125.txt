@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 5,
+    "justification": "• Evidence 1: The text presents a compilation of news headlines from various ASEAN countries, which are generally factual and sourced from reputable news outlets (e.g., 'Malaysia’s semiconductor exports still exempted from retaliatory tariffs, says Tengku Zafrul').\n• Evidence 2: The tone is neutral, with no apparent bias or fabrication, though the text does not mention Berjaya Food Berhad, limiting its relevance to the company."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no direct mention of Berjaya Food Berhad or any related business activities, financial performance, or strategic initiatives.\n• Evidence 2: The headlines focus on political, social, and international events, which are unrelated to the company's operations or investor concerns."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The text provides no contextual details, data, or analysis related to Berjaya Food Berhad's business, market position, or industry trends.\n• Evidence 2: The headlines are superficial and lack depth, failing to offer insights into the company's strategic or operational landscape."
+  }
+}

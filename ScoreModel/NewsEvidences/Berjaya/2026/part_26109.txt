@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The effectiveness of the financing scheme and training fund will depend on ecosystem-wide reforms.\" (Dr Teh Choon Jin)\n• Evidence 2: \"The public perception of tahfiz institutions will shift from solely religious centres to hubs for holistic talent development.\" (Prof Massila Kamalrudin)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text focuses on national education reforms and TVET initiatives, with no direct mention of Berjaya Food Berhad or its strategic priorities.\n• Evidence 2: The discussion centers on government policies and stakeholder collaboration, lacking financial implications or market impact relevant to a food and beverage company."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TVET Training Fund is closely intertwined with strategic industry collaboration... skills relevant to current market needs such as EV, automation, AI.\" (Prof Massila Kamalrudin)\n• Evidence 2: \"SKM Levels 6 to 8 should be carefully managed under a single pathway to avoid confusion... aligning these levels with diploma and degree standards.\" (Prof Razali Hassan)"
+  }
+}

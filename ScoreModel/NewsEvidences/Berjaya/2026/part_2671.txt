@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"A team from the Cyberjaya police station was dispatched to the scene, where initial checks revealed the teenager lying face down in a pool of blood.\" (verifiable police procedure)\n• Evidence 2: \"Sepang CID personnel conducted further investigations and found no criminal elements\" (source citation and factual reporting)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"The case has been classified as a sudden death\" (no connection to Berjaya Food Berhad)\n• Evidence 2: \"Those with details may contact the Sepang police hotline\" (no mention of company operations, financials, or stakeholder impact)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"A distress call through the MERS 999 line at 3.18pm on Thursday (Oct 2)\" (specific temporal context)\n• Evidence 2: \"The body was sent to the Forensic and Pathology Department... for a post-mortem\" (procedural detail and next steps)"
+  }
+}

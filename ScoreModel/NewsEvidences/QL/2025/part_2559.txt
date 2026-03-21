@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The half-century of relations are being reflected through 400 photographs on display.\" (specific, verifiable data about exhibition content)\n• Evidence 2: \"Admission is free.\" (clear, factual statement about access)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources Bhd and Mr Tan Hong Aik as Coffee Table Book sponsors.\" (brief mention of company without strategic context)\n• Evidence 2: No connection to QL Resources' business operations, financial performance, or market position"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The photos for the photo exhibition were curated and exhibited based on themes including...\" (context about exhibition structure)\n• Evidence 2: \"Visitors can witness the captured moments such as...\" (specific historical events described)"
+  }
+}

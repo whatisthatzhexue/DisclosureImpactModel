@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 7, "justification": "• Evidence 1: \"If your Raya outfit is really elaborate, keep it simple with the accessories,\" says Eva Woon...\" (quotes from founders, no external sources cited)\n• Evidence 2: \"The more soft and subtle take on Raya fashion is a great canvas for statement minimalist pendants...\" (balanced tone, no fabrication)"},
+  "StrategicRelevance": {"score": 1, "justification": "• Evidence 1: No direct mention of QL Resources Berhad or food/beverage business operations\n• Evidence 2: Focus on jewellery trends unrelated to the company's strategic direction or market impact"},
+  "Depth": {"score": 8, "justification": "• Evidence 1: \"We have always believed that Raya is a great opportunity to flaunt your ring stacking game...\" (detailed consumer insights)\n• Evidence 2: \"Classic golds and silvers are positioned to dominate the colour palette...\" (comprehensive trend analysis with specific examples)"}
+}

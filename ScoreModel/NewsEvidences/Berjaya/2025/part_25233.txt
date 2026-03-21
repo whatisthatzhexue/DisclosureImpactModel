@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Over 5,000 people are expected to attend...\" (specific attendance estimate)\n• Evidence 2: \"Preparation for Sunday's launch was at 95 per cent\" (verifiable progress metric)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No mention of Berjaya Food Berhad or any business operations related to the company\"\n• Evidence 2: \"Focus on government events and public ceremonies unrelated to corporate financials or strategic initiatives\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Details about event logistics, activities, and participants\" (comprehensive event coverage)\n• Evidence 2: \"Lack of contextual information about Berjaya Food Berhad's operations or market position\""
+  }
+}

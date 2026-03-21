@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"QL Resources Bhd and Tan Hong Aik are the coffee-table book sponsors.\" [Direct sponsorship disclosure]\n• Evidence 2: \"The photo, courtesy of Datuk KK Low and his wife Datin Cheng Seow Ying... was made available to The Star for the exhibition.\" [Verified source citation]"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources Bhd\" is directly mentioned as a sponsor, but no connection to business strategies, financial performance, or market impact is made.\n• Evidence 2: The article focuses on cultural events and lacks analysis of how the exhibition relates to QL Resources' competitive position or long-term value creation."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The exhibition, which includes the golden years of sports rivalry and friendship... is being held until Sunday.\" [Comprehensive event context]\n• Evidence 2: \"The book features some 200 photographs across 270 pages...\" [Detailed data on exhibition content]"
+  }
+}

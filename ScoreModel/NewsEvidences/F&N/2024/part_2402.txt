@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"CGS International (CGSI)\" is cited as the source of analysis, with specific targets like the FBM KLCI at 1,760.\n• Evidence 2: The text references historical data (2005 correlation) and macroeconomic factors (Fed cuts, DXY) without fabrication, maintaining a balanced tone."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd (F&N)\" is explicitly named as a beneficiary of a rising exchange rate, directly linking to its strategic position.\n• Evidence 2: The text discusses currency impacts on earnings and mentions potential interest cost savings for Axiata, connecting to financial implications for stakeholders."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides historical context (2005 correlation) and future projections (DXY target of 90), offering some analytical depth.\n• Evidence 2: While it mentions Fraser & Neave as a beneficiary, it lacks detailed financial data or strategic insights specific to the company's operations or market position."
+  }
+}

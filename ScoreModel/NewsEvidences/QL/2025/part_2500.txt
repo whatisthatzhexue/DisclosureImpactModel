@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our neurodivergent employees have made significant contributions...\" (direct quote from Low Choy Huat, EY Malaysia leader)\n• Evidence 2: \"Low’s views do not necessarily reflect those of the global EY organisation...\" (explicit disclaimer ensuring balanced reporting)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"companies like PETRONAS...are beginning to recognise the value of neurodivergent employees\" (mentions relevant firms but no direct link to QL Resources)\n• Evidence 2: \"Creating an environment where autistic employees can thrive is just as crucial\" (general statement about workplace strategy, not tied to QL Resources' specific operations)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"additional monitor screens has helped autistic employees reduce cognitive load...\" (specific workplace adjustment example)\n• Evidence 2: \"neurodiverse individuals are generally more authentic in sharing their thoughts...\" (detailed analysis of neurodivergent strengths)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N posts higher net profit of RM121.63mil in 3Q\" (specific financial data)\n• Evidence 2: \"attributed to geopolitical uncertainties... weakening of the Thai baht\" (verifiable cause explanation)\n• Evidence 3: Source cited as Bernama, a credible Malaysian news agency"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Moving forward, the group said it is on track to complete Phase 1 of its dairy farm... by early 2025\" (strategic project timeline)\n• Evidence 2: \"construction of its manufacturing plant in Cambodia... tender phase\" (long-term capacity expansion)\n• Evidence 3: \"growth was tempered by unfavourable currency translation\" (impact on strategic markets)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"revenue fell to RM1.30 billion from RM1.33 billion... 2.5 per cent to RM730.0 million\" (detailed regional performance breakdown)\n• Evidence 2: \"Red Sea shipping crisis... higher exports to Indochina\" (contextualizing market challenges)\n• Evidence 3: \"successful marketing campaigns... increased outlet penetration\" (strategic initiatives with quantitative impact)"
+  }
+}

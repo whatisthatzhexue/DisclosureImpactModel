@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI has inched higher over the last two trading sessions...\" (specific data point with verifiable market context)\n• Evidence 2: \"Rakuten Trade said in its review...\" (citing a research firm's analysis with balanced tone)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources slipping four sen to RM10.46\" (direct company mention but no strategic context)\n• Evidence 2: \"We favour Maybank, CIMB and RHB Bank...\" (focus on competitors, not QL Resources' strategic position)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Immediate resistance is revised upwards to the October 2015 high...\" (technical analysis details)\n• Evidence 2: \"Blue chips dragging on the FBM KLCI included...QL Resources...\" (specific stock movement data but limited contextual analysis)"
+  }
+}

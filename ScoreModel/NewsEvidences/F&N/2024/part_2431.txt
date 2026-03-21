@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable financial data (e.g., \"KLCI closed down 0.93 of a point, or 0.06% to 1,604.75\") and market activity figures (\"5.38 billion shares worth RM3.55bil changed hands\").\n• Evidence 2: Dealers' comments and market movements are reported without apparent bias, with balanced tone and factual accuracy."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave (F&N) but only reports its stock price movement without linking to strategic initiatives or long-term value creation.\n• Evidence 2: Other companies (e.g., MNRB Holdings, Dutch Lady) are discussed, but their financial results or strategic implications are not tied to broader industry trends or competitive positioning."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., \"RM3.55bil changed hands\", \"MNRB’s net profit improved significantly to RM428.34mil\") and specific stock price movements.\n• Evidence 2: Regional market comparisons (e.g., Nikkei 225, Hang Seng Index) are provided, but deeper analysis of implications for Fraser & Neave or industry trends is lacking."
+  }
+}

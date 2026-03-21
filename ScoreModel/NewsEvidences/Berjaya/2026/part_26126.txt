@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Finexus group chief executive officer Clement Loh said that the company is thrilled to support fintech innovations aligned with Madani economy goals...\" (direct quote from executive, no apparent bias)\n• Evidence 2: \"As articulated by Digital Minister Gobind Singh Deo...\" (cites a government official, credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Finexus aims to empower fintech startups to accelerate development, scale intelligently and innovate with confidence to lead the next wave of digital financial transformation\" (directly ties to company's strategic vision)\n• Evidence 2: \"The Hub aims to accelerate the development of fintech startups in Malaysia by offering access to capital...\" (connects to strategic partnerships and market impact)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"MyXaaS Innovation Platform is also spearheading the group’s transition into the era of Artificial Intelligence (AI)...\" (specific details about platform capabilities and R&D goals)\n• Evidence 2: \"Access to monthly networking events, co-working spaces...\" (comprehensive description of ecosystem features)"
+  }
+}

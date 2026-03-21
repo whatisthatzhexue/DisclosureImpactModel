@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI index movement (1.29 points, 0.09% gain) and stock price changes (e.g., Nestle +RM1.76, Panasonic Manufacturing -RM0.52) with specific timestamps and trading volumes (RM4.28bil). \n• Evidence 2: Dealers' comments about market conditions and external uncertainties are included, maintaining a balanced tone without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave Holdings Bhd (F&N) as a stock that fell 42 sen to RM23.58, but no direct link to the company's strategic direction, competitive position, or long-term value creation is provided. \n• Evidence 2: The focus remains on broader market trends and regional indices, with no analysis of how these movements impact F&N's business performance or financial implications."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article includes comprehensive data on market activity, such as the 513:371 ratio of falling vs. rising stocks, trading volumes (3.4 billion shares), and regional index performance (e.g., Japan’s Nikkei 225 down 0.2%). \n• Evidence 2: While detailed, the analysis stops at surface-level reporting without deeper insights into market drivers, stakeholder implications, or contextual background for the stock movements."
+  }
+}

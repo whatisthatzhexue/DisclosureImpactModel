@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"We welcome every effort to establish artificial reefs here as it has a positive impact on the marine ecology.\" (Datuk Idros Yahya)\n• Evidence 2: \"This task is not easy and requires a high cost. Therefore, we hope tourists and divers will be responsible for maintaining it and avoid any acts of vandalism.\" (Noriqram Mohd Nor)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Fakhrul Islam... hopes that the new dive site will attract more tourists and contribute to the local economy.\" (Project director)\n• Evidence 2: \"The programme was carried out through Malaysia Book of Records... organised by the Al Sultan Abdullah Foundation (YASA).\" (Indirectly links to Berjaya Group's broader tourism initiatives)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Each coach weighed over 20 tonnes and was transported over 395km...\" (Technical details)\n• Evidence 2: \"A team from the Fisheries Department’s ecosystem conservation... will conduct surveys once every six months.\" (Long-term monitoring and environmental context)"
+  }
+}

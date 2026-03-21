@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI fell 17.78 points, or 1.15%, to 1,527.02\" [specific numerical data]\n• Evidence 2: \"F&N, the top loser on Bursa Malaysia, fell 24 sen to RM27.24\" [direct stock price movement]"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N, the top loser on Bursa Malaysia\" [mentions company but lacks strategic context]\n• Evidence 2: No analysis of financial implications, competitive positioning, or long-term value creation for Fraser & Neave Holdings Bhd"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The broader market sagged, with decliners outnumbering gainers 660 to 298\" [market context]\n• Evidence 2: \"MSCI's Asia ex-Japan stock index was weaker by 0.93%\" [regional context] but lacks company-specific analysis"
+  }
+}

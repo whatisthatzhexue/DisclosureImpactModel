@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The recent easing of the OPR by the central bank is expected to inject liquidity...\" (TA Securities)\n• Evidence 2: \"Also, within a low interest regime Banks may actually benefit from improved loans activities\" (Rakiten Trade)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N rising 34 sen to RM29.20\" (direct company mention)\n• Evidence 2: \"Bank Negara's monetary easing could serve as a positive catalyst for equities prices\" (connects to market impact)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Malaysia's benchmark FBM KLCI opened 2.19 points higher...\" (provides market context)\n• Evidence 2: \"Traders on Bursa Malaysia kept a watchful eye for more developments...\" (background on market sentiment)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Both victims were released at 6.30pm on July 15 by the roadside along Jalan Pedas-Linggi in Negri Sembilan.\" (specific timeline and location)\n• Evidence 2: \"Checks found that three suspects were killed during the firefight.\" (verifiable outcome from police statements)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or its operations, financials, or strategic initiatives.\n• Evidence 2: The content focuses on criminal investigations and police actions unrelated to the company's business activities."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The first (shootout) saw a team from Bukit Aman trailing a car...\" (detailed incident description)\n• Evidence 2: \"Five suspects aged 32 to 41... arrested recently...\" (specific data on suspects and criminal activity)"
+  }
+}

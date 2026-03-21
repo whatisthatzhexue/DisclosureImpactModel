@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The FBM KLCI opened weaker...\" (specific market data with timestamps)\n• Evidence 2: \"Inter-Pacific Research Sdn Bhd expects...\" (cited credible financial research firm with balanced analysis of market conditions)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"No direct mention of Fraser & Neave Holdings Bhd in the text, despite company context provided\"\n• Evidence 2: \"Focus on broad market movements rather than specific company performance or strategic initiatives\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Detailed market indices, price changes, and trading volumes (e.g., ES Sunlogy at 30.5 sen with 105.57M shares traded)\"\n• Evidence 2: \"Analysis of market drivers (tariff threats, foreign fund reallocation) but no specific company-level insights\""
+  }
+}

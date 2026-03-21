@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The ringgit has risen about 13% against the US dollar since mid-July, the local benchmark stock index has gained by less than 2% over the same period.\"\n• Evidence 2: \"CGS International (CGSI) Research\" is cited as the credible source, with specific projections and historical exchange rate data (e.g., \"the ringgit trend seemed to have decisively reversed\")."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd [is] a key beneficiary of a rising exchange rate\" directly links to the company's strategic relevance.\n• Evidence 2: The article connects exchange rate movements to corporate earnings impacts (\"positive impact on corporate earnings in general\") and market dynamics, relevant to investors."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: Detailed historical context is provided (e.g., \"the ringgit trend seemed to have decisively reversed\" after 38% depreciation).\n• Evidence 2: Comprehensive analysis of sector-specific impacts (e.g., \"main sectors earning US dollar revenues are petrochemicals, technology and gloves\") and future projections (e.g., \"US dollar index could fall below 100 points\")."
+  }
+}

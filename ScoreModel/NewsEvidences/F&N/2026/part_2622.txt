@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"TA Securities said profit-taking consolidation...\" (credible source with verifiable analysis)\n• Evidence 2: \"Malacca Securities said the resilient buying interest...\" (another credible source with specific market insights)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N jumped 78 sen to RM35.90\" (direct company mention, but no strategic context)\n• Evidence 2: \"weakening US dollar signals a stronger ringgit...\" (general market impact, not tied to company-specific strategy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"There were 478 losers against 414 gainers...\" (quantitative data on market activity)\n• Evidence 2: \"Immediate resistance stays at the December 2024 high...\" (technical analysis with specific market levels)"
+  }
+}

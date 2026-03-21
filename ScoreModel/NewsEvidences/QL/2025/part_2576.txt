@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Judge Rozina Ayob made the decision after Shaharuddin Ahmad...pleaded guilty to deceiving...\" (verifiable legal process)\n• Evidence 2: \"Both cases were prosecuted by Deputy Public Prosecutor Irna Julieza Maaras\" (credible source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company...\" (no direct connection to article subject)\n• Evidence 2: \"The offence was committed at the Information Technology Division...\" (no mention of QL Resources' business operations or strategic factors)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Investigations revealed that the accused used an invoice...for three individuals\" (specific case details)\n• Evidence 2: \"Section 471 of the Penal Code...maximum prison sentence of two years\" (legal context and consequences)"
+  }
+}

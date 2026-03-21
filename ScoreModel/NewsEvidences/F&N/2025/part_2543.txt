@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"UOB KayHian Research recommended a tactical trading stance...\" (credible source cited)\n• Evidence 2: \"Most of the key beneficiaries are expected to gain from lower import costs...\" (balanced analysis without bias)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd... are potential winners\" (direct company mention and strategic positioning)\n• Evidence 2: \"lower import costs, alongside lower debt servicing cost...\" (connects to company's financial performance and competitive position)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"during the last ringgit appreciation cycle in the third quarter of 2024...\" (historical context provided)\n• Evidence 2: \"margin improvement in auto sector would still be offset by...\" (sector-specific analysis, though limited to general trends)"
+  }
+}

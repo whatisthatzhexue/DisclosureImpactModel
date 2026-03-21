@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The 87-year-old pontiff flies home from Singapore within hours...\" (specific factual details about the trip's timeline)\n• Evidence 2: \"Sandra Ross, 55...\" (direct quote from a credible source with contextual detail about the event's impact)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"No direct mention of QL Resources Berhad or any business-related activities of the company\" (complete absence of company-specific information)\n• Evidence 2: \"The article focuses exclusively on Pope Francis's tour and its religious/social implications, with no connection to food and beverage industry dynamics\" (no relevance to the company's strategic context)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"43 hours of flight time and a distance of 32,000km...\" (quantitative data supporting event scale)\n• Evidence 2: \"Addressing political and business leaders...\" (contextual analysis of the Pope's messaging to stakeholders, though not tied to QL Resources)"  
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI is down 4.34 points, or 0.26%, to 1,673.97 at 9.27 am...\" (specific, verifiable market data)\n• Evidence 2: \"Berjaya Research Sdn Bhd said...\" (cites credible source with analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The FBM KLCI...\" (no direct mention of Berjaya Food Berhad's strategic initiatives)\n• Evidence 2: \"Rakuten Trade believes...\" (focus on market participants, not company-specific strategic context)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The RSI indicator is increasingly overbought...\" (technical analysis with context)\n• Evidence 2: \"Immediate resistance is located at 1,680 points...\" (detailed market level analysis)"
+  }
+}

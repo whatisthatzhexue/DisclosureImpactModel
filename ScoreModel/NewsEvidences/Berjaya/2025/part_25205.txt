@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: Headlines include verifiable events like 'Malaysia-China trade exceeds RM549bil' with specific figures.\n• Evidence 2: Multiple sources are implied through diverse regional coverage (Malaysia, Singapore, Thailand, etc.) without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or related business activities.\n• Evidence 2: Headlines focus on unrelated topics like politics, crime, and trade deals without financial or strategic context for the company."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: Headlines lack detailed analysis or background information on any topic.\n• Evidence 2: No data or contextualization provided to support claims, such as economic impacts or stakeholder implications for Berjaya Food Berhad."
+  }
+}

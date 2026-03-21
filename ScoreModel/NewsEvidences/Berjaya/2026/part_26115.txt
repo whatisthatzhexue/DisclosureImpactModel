@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Research from neuroscience, psychology and education is clear: early childhood, from birth to about age eight, is the most important period for brain development.\" (implies credible academic sources)\n• Evidence 2: \"A well-known economist, James Heckman, found that money spent on early childhood gives better results than money spent on university education.\" (references a notable economist but lacks specific data or citations)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The future of our country depends not only on university graduates, but on the little ones...\" (general societal focus, no direct connection to Berjaya Food Berhad's business operations)\n• Evidence 2: \"Investing in families is investing in education and the future of the country.\" (broad policy statement, no financial or strategic implications for the company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"During these years, a child’s brain grows faster than at any other time. In the first few years of life, over a million new brain connections are made every second.\" (detailed biological explanation)\n• Evidence 2: \"Children who experience quality early childhood education do better in school, stay in school longer, earn more as adults, and even have better health.\" (comprehensive coverage of long-term impacts with multiple outcome categories)"
+  }
+}

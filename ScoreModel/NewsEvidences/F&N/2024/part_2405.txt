@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"News reports quoting Malaysia’s Health Minister Datuk Seri Dr Dzulkefly Ahmad stated a new tax...\" (credible source cited)\n• Evidence 2: \"In Budget 2024, the government imposed a 10 sen per litre hike...\" (specific, verifiable data provided)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"F&B producers like Nestle (M) Bhd and Fraser and Neave Holdings Bhd (F&N)...\" (direct company mention and strategic implications)\n• Evidence 2: \"F&N’s product mix includes sweetened RTD beverages...\" (specific financial impact analysis on company operations)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Products used for preparation of fresh beverages...\" (contextual background on tax scope)\n• Evidence 2: \"CIMB Securities said it believes F&N’s topline could be impacted...\" (quantitative data on revenue exposure)"
+  }
+}

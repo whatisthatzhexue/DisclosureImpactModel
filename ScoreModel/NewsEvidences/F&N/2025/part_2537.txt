@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI slid 10.63 points, or 0.7%, to 1,508.35 — its intraday low.\" (verifiable market data)\n• Evidence 2: \"Dealers said selling in the past few days has shaken market sentiment...\" (direct quotes from market participants)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N added 20 sen to RM27.30\" (direct mention of company stock price movement)\n• Evidence 2: \"Nestle tumbled... Ajinomoto slid...\" (broader market context affecting food/beverage sector)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Stocks that fell outnumbered those that rose 616 to 336... 3.2 billion shares changed hands, worth RM5.04bil.\" (comprehensive market activity data)\n• Evidence 2: \"Japan’s Nikkei 225... Singapore’s Straits Times Index...\" (extensive regional market context)"
+  }
+}

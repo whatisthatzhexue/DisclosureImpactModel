@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MPSepang recorded 470 planning approvals as of Dec 8, the highest among local authorities in the state.\"\n• Evidence 2: \"The Valuation List for assessment tax came into effect on Jan 1. It marked the first major revision since 1996.\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"The text focuses on local council development projects and financial metrics unrelated to Berjaya Food Berhad's operations or strategic priorities.\"\n• Evidence 2: \"No direct mention of Berjaya Food Berhad, its business activities, or financial performance.\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The plan outlines initiatives to develop eco-cultural tourism, improve land transportation, and adopt the Sponge City concept for sustainable urban water management.\"\n• Evidence 2: \"Detailed project timelines, funding allocations (RM10mil and RM3mil), and technical assessments of the Sri Banting Dredge.\""
+  }
+}

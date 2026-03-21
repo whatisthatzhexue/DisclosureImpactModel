@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides specific, verifiable data such as the FBM KLCI closing at 1,518.11 with a 0.56% decline, and stock price movements like F&N climbing 12 sen to RM28.32.\n• Evidence 2: The tone is neutral, presenting factual market movements without apparent bias, and contextualizes the decline with geopolitical tensions and oil price surges."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article mentions F&N's stock price increase but does not connect it to the company's strategic direction, competitive position, or long-term value creation.\n• Evidence 2: While it discusses market trends affecting investors, it lacks direct analysis of how these trends impact Fraser & Neave Holdings Bhd's business performance or strategic priorities."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article comprehensively covers market breadth, stock movements, and regional indices (e.g., Japan’s Nikkei, Hong Kong’s Hang Seng), providing detailed numerical data.\n• Evidence 2: It explains the context for market declines (geopolitical tensions, oil prices) but stops short of analyzing deeper implications for specific companies beyond surface-level stock price changes."
+  }
+}

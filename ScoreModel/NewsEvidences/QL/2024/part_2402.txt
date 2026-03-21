@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Despite the project being under the affordable home category and sold for RM300,000 per unit, it has condominium-like facilities...\" (verifiable data on pricing and facilities)\n• Evidence 2: \"The Quality Assessment System in Construction (QLASSIC)...\" (cites official benchmarks and ratings from CIDB)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article focuses on a real estate project (SkyWorld Development Bhd) and affordable housing initiatives, which are unrelated to QL Resources Berhad's food and beverage operations.\n• Evidence 2: No direct mention of QL Resources Berhad, its strategic direction, financial performance, or market impact."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"SkyAwani V Residence sits on 0.83ha and comprises 615 units in a 36-storey tower...\" (detailed project specifications)\n• Evidence 2: \"43 projects comprising 26,154 residential units had been completed...\" (quantitative data on initiative scale and timelines)"
+  }
+}

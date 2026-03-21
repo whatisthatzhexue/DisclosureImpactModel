@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Dow Jones Industrial Average rose 124.10 points, or 0.27%, to 46,142.42.\" (verifiable market data)\n• Evidence 2: \"Berjaya Research Sdn Bhd said the FBM KLCI is likely to trade with a cautious bias...\" (cited credible source with balanced analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Berjaya Research Sdn Bhd...\" (mentions a related entity but not Berjaya Food Berhad directly)\n• Evidence 2: \"Malaysia’s trade data later today\" (general economic context, no direct company-specific strategic insights)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The FBM KLCI slipped 2.11 points, or 0.13%, to 1,596.77...\" (detailed market movement)\n• Evidence 2: \"Technically... the next support is seen at 1,580\" (comprehensive technical analysis with numerical context)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI falling 5.19 points to 1,519.40, with specific stock price movements (e.g., F&N rose 14 sen to RM28.44).\n• Evidence 2: The tone is neutral, discussing market conditions without fabrication or bias, and includes factual details about trading volumes (2.82 billion shares) and currency fluctuations."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) with its stock price movement, which is relevant to investors.\n• Evidence 2: However, the focus remains on broader market trends (tariff developments, volatility) rather than F&N's strategic direction, competitive position, or financial performance beyond the stock price."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes comprehensive data on market indices, stock movements, trading volumes, and currency rates, providing detailed context for the market's performance.\n• Evidence 2: While it covers multiple sectors and international indices (e.g., Nikkei, Kospi), it lacks deeper analysis of factors affecting F&N specifically or broader implications for the company's long-term value."
+  }
+}

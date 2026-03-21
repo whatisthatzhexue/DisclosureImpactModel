@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In the US, comments from Jerome Powell...\" (Malacca Securities Research, verifiable source)\n• Evidence 2: \"Overnight, the S&P500 and Nasdaq marked new territories...\" (specific data points with context)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"QL Resources jumped 11 sen to RM6.64\" (direct company mention, but no strategic context)\n• Evidence 2: \"Bank shares were also higher...\" (market activity, not business strategy)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The FBM KLCI was up 2.78 points...\" (specific market data)\n• Evidence 2: \"Investors will be monitoring...\" (context about market factors, but lacks company-specific analysis)"
+  }
+}

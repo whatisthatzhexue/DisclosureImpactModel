@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The current market value for the land is RM360mil, as appraised by Henry Butcher Malaysia on March 10, 2025 and further updated on Sept 10 this year.\"\n• Evidence 2: \"F&N said it is focused on unlocking the value of its non-core properties...\" (direct company statement with verifiable timeline)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"F&N said it is focused on unlocking the value of its non-core properties and will utilise the funds generated to grow its core business in manufacturing...\" (direct link to strategic priorities)\n• Evidence 2: \"The proposed transaction is expected to be completed in the third quarter of 2027.\" (financial timeline with strategic implications)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Vacaron owns the parcel of land that F&N is selling.\" (contextual detail about ownership structure)\n• Evidence 2: \"TTDB was listed...until Goldis Bhd took over its listing...\" (background on TTDB but lacks analysis of transaction significance)"
+  }
+}

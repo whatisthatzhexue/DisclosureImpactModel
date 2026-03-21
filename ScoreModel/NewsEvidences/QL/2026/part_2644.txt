@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 5,
+    "justification": "• Evidence 1: The text provides technical analysis without citing sources for data accuracy.\n• Evidence 2: No direct verification of claims about company performance or strategy is offered."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The text focuses on stock price movements and technical indicators, not strategic direction or competitive positioning.\n• Evidence 2: No mention of business performance factors, financial implications, or long-term value creation for QL Resources Berhad."
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: Technical indicators (RSI, MACD) are detailed but lack context about company operations or market position.\n• Evidence 2: Limited background on QL Resources Berhad beyond stock price trends and historical highs."
+  }
+}

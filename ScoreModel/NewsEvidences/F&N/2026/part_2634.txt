@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CGS International Research (CGSI Research) has reaffirmed its 'add' call on Fraser & Neave Holdings Bhd (F&N)\" (verifiable source and factual claim).\n• Evidence 2: \"F&N’s valuation of 16.7 times forecast earnings... compared with domestic consumer-staples peers trading above 30 times\" (specific data and comparative analysis)."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We view this transaction positively as it frees up underutilised capital and diverts it to F&N’s core food and beverage business\" (direct link to strategic capital allocation).\n• Evidence 2: \"Successful execution of F&N’s dairy venture will be pivotal to re-rating the stock\" (strategic focus on long-term value creation)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Gordon Growth Model-derived target price of RM36.50... implies a 29% upside from F&N’s last traded price of RM28.26\" (quantitative detail and context).\n• Evidence 2: \"Downside risks include failure to meet targets at the dairy farm, weak consumer sentiment... and an escalation of the border conflict\" (comprehensive risk analysis with specific factors)."
+  }
+}

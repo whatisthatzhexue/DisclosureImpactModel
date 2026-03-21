@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 7.51 points, or 0.47% to 1,618.97 at 9.18am.\" (verifiable data)\n• Evidence 2: \"Berjaya Research Sdn Bhd said that market sentiment...\" (credible source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N, which slid 16 sen to RM27.94\" (direct company mention, but no strategic context)\n• Evidence 2: \"China’s upcoming inflation...\" (external macroeconomic factors, not company-specific)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Technically, the FBM KLCI formed a bearish candle...\" (technical analysis and market context)\n• Evidence 2: \"Attention will be focused on U.S. Federal Reserve Chair...\" (comprehensive coverage of influencing factors)"
+  }
+}

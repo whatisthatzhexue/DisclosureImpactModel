@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"compiled using shareholding and financial information obtained from the families and individuals, stock exchanges, annual reports, analysts, government agencies and other sources.\"\n• Evidence 2: \"net worths were based on stock prices and exchange rates as of the close of markets on April 2, 2024, and private companies were valued based on similar companies that are publicly traded.\""
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"former math teacher Chia Song Kun, executive chairman of his family’s seafood firm, QL Resources Bhd , with a net worth of US$1.8bil at No 10.\"\n• Evidence 2: \"The minimum net worth to qualify for the list was US$320mil...\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Breaking into the top five for the first time were also inheritors – brothers Datuk Lee Yeow Chor and Yeow Seng of IOI Group – at No. 4 with a combined net worth of US$5.35bil...\"\n• Evidence 2: \"Forbes Asia noted that the biggest gainers... Tan Sri Francis Yeoh and siblings... in tandem with the rise in the shares of their flagship YTL group...\""
+  }
+}

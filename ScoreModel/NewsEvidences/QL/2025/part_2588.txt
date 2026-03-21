@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI crept 0.92 points higher to 1,583.58\" (specific, verifiable market data)\n• Evidence 2: \"Malacca Securities Research maintained a bullish view\" (cited credible source with technical analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources rose five sen to RM6.50\" (direct company mention but no strategic context)\n• Evidence 2: \"Investors are awaiting evidence that corporate bottomlines remain intact\" (general market sentiment, no company-specific strategic insights)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The resistance is envisaged around 1,595-1,600 and the support is set at 1,560-1,565\" (technical analysis context)\n• Evidence 2: \"Major US indices rose overnight...\" (broader market context but lacks detailed company-specific analysis)"
+  }
+}

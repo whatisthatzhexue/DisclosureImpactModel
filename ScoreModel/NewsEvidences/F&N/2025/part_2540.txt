@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"TA Securities Research said the ongoing correction on the local market is owing concerns over the US fiscal deficit...\" (credible source cited)\n• Evidence 2: \"Rakuten Trade said in its review it expects the local market to stay in consolidation mode...\" (credible source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Investors are expecting more profit results from Corporate Malaysia...\" (indirectly relevant to Fraser & Neave as a listed company)\n• Evidence 2: \"F&N down 56 sen to RM26.02\" (direct stock price movement mentioned, but no strategic context provided)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI dropped 3.34 points to 1,541.46...\" (specific market data provided)\n• Evidence 2: \"Top actives were Ta Win unchanged...\" (limited detail on individual company performance)"
+  }
+}

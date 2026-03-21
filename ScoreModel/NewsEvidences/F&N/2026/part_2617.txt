@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CIMB Research said all consumer staples companies under its coverage recorded year-on-year (y-o-y) top-line growth\" [verifiable source cited]\n• Evidence 2: \"We expect consumer spending to be front-loaded... supported by festive-driven demand\" [forward-looking statement with contextual basis]"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd (F&N) and QL Resources Bhd\" [direct company mention]\n• Evidence 2: \"To mitigate these pressures, CIMB Research expect operators to focus on cost efficiencies...\" [strategic implications for company operations]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Among 14 consumer stocks under its coverage, CIMB Research noted that 99 Speedmart and Farm Fresh beat expectations\" [quantitative context]\n• Evidence 2: \"The implementation of the 8% sales and service tax on leasing services\" [specific regulatory impact analysis]"
+  }
+}

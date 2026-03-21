@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"BCorp reported improved results for the first quarter ended Sept 30 (1Q26), with its net loss narrowing to RM10.9mil from RM167.8mil a year earlier.\" (specific financial data with verifiable figures)\n• Evidence 2: \"The group posted a pre-tax profit of RM37.55mil, reversing a pre-tax loss of RM101.58mil in the same quarter last year.\" (consistent factual reporting without distortion)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The improved performance was driven mainly by its retail (non-food), retail (food), property and hospitality segments.\" (direct linkage to strategic business units and competitive positioning)\n• Evidence 2: \"Looking ahead, BCorp said domestic demand, improving tourism activity...are expected to support performance...\" (forward-looking strategic implications for long-term value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"H.R. Owen also reported a narrower pre-tax loss on higher revenue, while Cosway’s performance improved due to better margins and lower operating expenses.\" (detailed segment analysis with causal factors)\n• Evidence 2: \"The hospitality segment also delivered stronger revenue and pre-tax profit, supported by higher occupancy rates and better room yields.\" (specific operational metrics providing context for performance improvements)"
+  }
+}

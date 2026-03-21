@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We just want to thank 100Plus for supporting us over the past few years...\" (direct quote from Aaron, verifiable as sponsor statement)\n• Evidence 2: \"Three tournaments alone cost RM100,000.\" (specific financial detail with context)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We are proud of all our brand ambassadors...\" (direct company statement linking sponsorships to brand strategy)\n• Evidence 2: \"RM100,000...for finishing third...\" (financial implications of sponsorship deals)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The season will end with the World Tour Finals (Dec 11-15)...\" (comprehensive event schedule)\n• Evidence 2: \"I need to show results first (to get more sponsors)\" (contextual insight into athlete-sponsor dynamics)"
+  }
+}

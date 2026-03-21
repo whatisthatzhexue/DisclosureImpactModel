@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The FBM KLCI closed up 5.62 points, or 0.37% to 1,541.41, with 21 of the component stocks ending higher while seven counters declined.\n• Evidence 2: Data from Bursa Malaysia indicates that on Wednesday, foreign investors sold RM7mil worth of local equities, while retailers disposed of RM11mil worth of the same."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: F&N lost 30 sen to RM29.20, directly mentioning the company's stock performance.\n• Evidence 2: The article lacks analysis of how market trends impact Fraser & Neave's strategic direction, competitive position, or long-term value creation."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text provides comprehensive coverage of the market's performance, including trading volume (RM2.94bil), gain/loss counts (631 vs. 451), and regional index movements (MSCI's Asia ex-Japan +1.96%).\n• Evidence 2: Specific stock price changes (e.g., Nestle slid 90 sen to RM118) and institutional activity (local institutions acquired RM18mil worth of equities) add contextual detail."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N's 1HFY24 core net profit of RM332mil beat expectations, coming in at 61% each of both our full-year forecast and the full-year consensus estimate\" (Kenanga Research)\n• Evidence 2: \"We put our 'hold' recommendation and target price of RM30/share under review pending more insights from an analyst briefing scheduled on May 3\" (TA Securities)"
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"We also like its focus on the high-growth Halal packaged food and dairy products while the streamlining of the manufacturing facilities... should boost efficiency and hence the bottom line\" (Kenanga Research)\n• Evidence 2: \"anticipates a softening in demand... expects management to be able to cushion the impact of rising input costs... through its cost optimisation strategy\" (TA Securities)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"1QFY24 core net profit jumped 62% year-on-year on a favourable product mix, lower input cost and enhanced efficiency\" (specific financial data)\n• Evidence 2: \"raised its FY24 and FY25 net profit projections by 12% and 13% respectively... increased both years' dividend forecasts by 10% each\" (quantitative analysis of strategic implications)"
+  }
+}

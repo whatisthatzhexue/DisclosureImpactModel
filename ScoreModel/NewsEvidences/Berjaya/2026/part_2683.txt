@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Action against Sin Chew Media was taken following an investigation, which found that the organisation had uploaded an incomplete illustration of the Jalur Gemilang...\" \n• Evidence 2: \"The compounds were issued under Section 243 of the same Act.\""
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"The article contains no mention of Berjaya Food Berhad or any business operations related to the company.\" \n• Evidence 2: \"The content focuses on media regulatory actions, which are unrelated to the strategic context of a food and beverage company.\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Both investigations were conducted under Section 233(1)(a) of the Communications and Multimedia Act 1998...\" \n• Evidence 2: \"MCMC stressed that the Jalur Gemilang is a symbol of sovereignty...\" (provides contextual background and legal framework)."
+  }
+}

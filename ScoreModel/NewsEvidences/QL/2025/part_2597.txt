@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The first Tomb Raider movie soared at the box office, partly due to the casting of Oscar-winner Angelina Jolie as Lara Croft.\" (accurate historical reference)\n• Evidence 2: \"The Super Mario Bros. Movie\" is the second-highest grossing film of 2023\" (specific box office data)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of QL Resources Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The content is entirely focused on gaming culture and pop culture phenomena unrelated to the company's food and beverage sector."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"From blockbuster adaptations to subtle Easter eggs in popular TV shows, the tendrils of gaming culture have woven themselves into every facet of entertainment\" (comprehensive thematic coverage)\n• Evidence 2: \"The film grossed US$1.36bil (RM6.46bil) worldwide and broke multiple box-office records\" (specific quantitative data supporting claims)"
+  }
+}

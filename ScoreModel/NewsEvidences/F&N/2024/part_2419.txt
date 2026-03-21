@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N saw its net profit climb 22.4% year-on-year (y-o-y) to RM121.6mil, despite revenue for the three months inching lower to RM1.3bil.\" (verifiable financial data)\n• Evidence 2: \"it stated in its filing with Bursa Malaysia\" (credible source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N will keep its focus on driving growth across all its business units, enhancing its route-to-market capabilities and optimising operational efficiencies\" (direct strategic direction mention)\n• Evidence 2: \"earnings improved due to absence of one-off non-operating items\" (strategic financial management insight)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"For the nine months ended June, net earnings increased by 14.6% y-o-y to RM457.8mil, as revenue also grew by 6.2% to RM3.99bil\" (comprehensive financial context)\n• Evidence 2: \"impacted by geopolitical uncertainties affecting exports, a weaker Thai economy and early sell-in for Hari Raya\" (detailed cause-effect analysis)"
+  }
+}

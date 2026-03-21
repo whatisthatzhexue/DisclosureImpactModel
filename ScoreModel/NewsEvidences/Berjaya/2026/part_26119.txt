@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"So, that’s what I want to look into. Because they have already clearly stated that Myanmar will be holding elections.\" (Quotes from Datuk Seri Mohamad Hasan, a credible official source)\n• Evidence 2: \"(This is) to impress upon them, to stay on course...\" (Quote from Prime Minister Anwar Ibrahim, another credible official source)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad, its operations, financials, or strategic direction.\n• Evidence 2: The content focuses on ASEAN diplomatic activities, which are unrelated to the company's business or stakeholder information needs."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides basic context about the visit's purpose (elections, ceasefire) but lacks detailed analysis of Myanmar's political situation or implications.\n• Evidence 2: Mentions the 58th ASEAN Day event but does not elaborate on its significance or broader regional implications."
+  }
+}

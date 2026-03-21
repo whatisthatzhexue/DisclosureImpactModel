@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"construction started in February last year\" (specific timeline)\n• Evidence 2: \"170 registrations during its soft launch\" (quantifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: No mention of Berjaya Food Berhad or its operations\n• Evidence 2: Focus on municipal council projects unrelated to food/beverage industry"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The building design is based on a modern tropical concept...\" (detailed facility description)\n• Evidence 2: \"Various free activities covering health, social, economical and spiritual aspects\" (comprehensive program overview)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, Public Bank said the acquisition will result in a proposed mandatory general offer (MGO) to acquire all remaining LPI shares...\" (verifiable source cited)\n• Evidence 2: \"Foreign investors and local retailers are net buyers, acquiring equities worth RM70mil and RM12mil, respectively, on Wednesday.\" (specific, factual data provided)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The article contains no mention of Fraser & Neave Holdings Bhd or its operations, financials, or strategic initiatives, rendering it irrelevant to the company's information needs.\" (no direct company mention)\n• Evidence 2: \"The focus on Public Bank and Teh family shareholdings pertains to a different entity and does not address strategic factors for Fraser & Neave.\" (no strategic relevance to target company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Public Bank Bhd announced that it acquiring a 44.15% stake in LPI Capital Bhd from the estate of the late Tan Sri Teh Hong Piow... for RM1.72bil cash, or RM9.80 per share.\" (detailed transaction specifics)\n• Evidence 2: \"Details of the restricted offer for sale will be announced later.\" (contextual information about future actions provided)"
+  }
+}

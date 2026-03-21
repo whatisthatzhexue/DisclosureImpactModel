@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Currently, all our vehicles are still in good condition.\" (direct quote from official statement)\n• Evidence 2: \"RM5.06mil had been paid to the contractor based on the progress made.\" (specific financial data with verifiable figures)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"MPSepang was projecting a RM34mil budget deficit next year\" (financial planning relevant to local government, not Berjaya Food)\n• Evidence 2: \"The new headquarters costs RM129mil\" (infrastructure spending, unrelated to corporate strategy of food company)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Costing RM129mil, it will comprise 18 storeys, with a gross floor area of 234,000sq ft\" (comprehensive project details)\n• Evidence 2: \"1,458 vehicles had been towed... 87.4% or 1,275 vehicles... RM300 fee... RM150 from other locations\" (detailed operational data and financial context)"
+  }
+}

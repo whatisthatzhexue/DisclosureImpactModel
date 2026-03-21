@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 4,
+    "justification": "• Evidence 1: The article contains subjective quotes from Jcqlyne Chin (e.g., \"I couldn’t stand staring at the computer screen\") without third-party verification.\n• Evidence 2: No credible sources or citations are provided for claims about her business ventures or certifications."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text focuses on personal career transitions and lifestyle choices rather than QL Resources Berhad's business strategies or financial performance.\n• Evidence 2: No direct mention of the company's operations, market position, or strategic initiatives related to food and beverage."
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: Provides detailed personal background but lacks quantitative data on business performance (e.g., sales figures, market share).\n• Evidence 2: No analysis of competitive positioning or stakeholder impact for QL Resources Berhad."
+  }
+}

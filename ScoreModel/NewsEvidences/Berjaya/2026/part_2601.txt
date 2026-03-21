@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Capital A Bhd said it has applied for an extension...\" (factual statement with verifiable dates and figures)\n• Evidence 2: \"Axis Real Estate Investment Trust said it is acquiring...\" (direct quote from company announcement)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Berjaya Assets Bhd has appointed Tan Tee Ming...\" (strategic leadership change, but no context on business impact)\n• Evidence 2: \"Malaysia Smelting Corporation Bhd has promoted...\" (executive changes without analysis of strategic implications)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"CJ Century Logistics Holdings Bhd said its chief executive officer...\" (specific financial details but no contextual analysis)\n• Evidence 2: \"5E Resources Holdings Bhd has received approval...\" (event description without market impact analysis)"
+  }
+}

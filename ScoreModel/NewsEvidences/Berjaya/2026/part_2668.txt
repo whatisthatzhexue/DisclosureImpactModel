@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 4,
+    "justification": "• Evidence 1: The text mentions \"The Education Ministry supports special education\" but lacks verifiable data or citations to confirm this claim.\n• Evidence 2: The article states \"Malaysia has made some progress\" without quantitative evidence or specific examples of measurable outcomes."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no direct mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The focus on inclusive education policy does not relate to the company's strategic direction, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The text provides comprehensive coverage of inclusive education challenges (e.g., poor access, limited training) and proposed solutions (e.g., Universal Design for Learning).\n• Evidence 2: Specific examples like the Malaysian Medical Council's disqualification criteria are included, but no statistical data or contextual analysis is provided to support claims."
+  }
+}

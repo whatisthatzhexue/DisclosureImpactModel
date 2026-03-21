@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd (F&N) posted a net profit of RM165.41 million in the second quarter ended March 31, 2024 (2QFY2024), compared to RM101.18 million a year before, driven by higher sales amid Chinese New Year and Hari Raya festival seasons and better margins.\"\n• Evidence 2: \"Bursa Malaysia Bhd net profit rose 34% to RM75.03 million for the financial quarter ended March 31, 2024 (1QFY2024), from RM56.17 million a year before, thanks to higher trading activity and fees from listings and other services.\""
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd (F&N) posted a net profit... driven by higher sales amid Chinese New Year and Hari Raya festival seasons and better margins.\"\n• Evidence 2: \"Capital A Bhd CEO Tan Sri Tony Fernandes said the low-cost carrier... will incorporate a 'sustainability fee' soon.\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Rimbunan Sawit Bhd is expecting around 40% increase in its fresh fruit bunches (FFB) production... and is anticipating higher crude palm oil (CPO) prices due to growing demand.\"\n• Evidence 2: \"Mentiga Corp Bhd’s external auditor has flagged that the loss-making group's current liabilities have significantly surpassed its group's current assets, based on its financial statements for FY2023.\""
+  }
+}

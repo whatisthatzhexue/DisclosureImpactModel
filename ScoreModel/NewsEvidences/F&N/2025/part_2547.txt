@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"revenue inch up by 1.4% year-on-year (y-o-y) to RM2.72bil from RM2.69bil previously\" (verifiable financial data)\n• Evidence 2: \"net profit declined 8% to RM309.36mil compared with RM336.15mil in 1H24, primarily due to a 9.7% increase in tax expenses\" (specific, factual explanation of performance drivers)"
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"doubling down on long-term bets in dairy and agriculture\" (direct link to strategic direction)\n• Evidence 2: \"solidify its Indochina strategy, which now rests on three pillars\" (connects to market expansion and competitive positioning)"
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Our break-even should be about three to five years from now... full 20,000 revenue cows expected only in phase two\" (detailed project timeline and scaling)\n• Evidence 2: \"feed costs will be lower than the United States... we can do two and a half cycles\" (comparative analysis of operational efficiency)"
+  }
+}

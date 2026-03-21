@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Databricks Inc is raising US$10bil in new funding, a massive cash injection that will take the software maker’s valuation to US$62bil.\" (specific financial figures)\n• Evidence 2: \"These guys are execution machines. They are ready to be a public company,\" Thrive Capital partner Vince Hankes said. (direct quote from credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"intends to invest this capital towards new artificial intelligence (AI) products, acquisitions and significant expansion of its international go-to-market operations\" (directly ties to strategic direction)\n• Evidence 2: \"Maintaining that clip of growth means expanding Databricks’ go-to-market operation and engineering talent\" (connects to long-term value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Databricks SQL, hit a US$600mil revenue run-rate, with growth above 150% annually\" (specific financial data)\n• Evidence 2: \"More than 500 customers are on track to spend more than US$1mil a year on Databricks’ platform\" (contextualizes market position)"
+  }
+}

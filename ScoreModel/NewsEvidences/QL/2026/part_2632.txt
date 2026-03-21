@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"For the first quarter ended June 30, 2025, QL Resources’ net profit dipped to RM100.6mil from RM107.43mil in the previous corresponding period, while revenue rose to RM1.7bil from RM1.6bil a year earlier.\"\n• Evidence 2: \"In a filing with Bursa Malaysia, the company said sales for its marine product manufacturing segment were marginally lower than the previous corresponding quarter, due to substantially lower fishmeal volume and depressed international selling price.\""
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL Resources Bhd is cautiously optimistic that its business performance will remain satisfactory in the coming quarter, as it is upbeat that egg demand and price will rebound to cushion the impact from egg cost subsidy removal.\"\n• Evidence 2: \"sales for its integrated livestock farming segment was 6% higher than the previous corresponding quarter, mainly due to substantially higher feed raw material trading volume as well as higher volume for other farm produce\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"earnings were 6% lower than the corresponding quarter, mainly due to margin erosion caused by substantially lower fishmeal volume and depressed international selling price.\"\n• Evidence 2: \"sales for its integrated livestock farming segment was 6% higher than the previous corresponding quarter, mainly due to substantially higher feed raw material trading volume as well as higher volume for other farm produce, albeit at a lower unit price.\""
+  }
+}

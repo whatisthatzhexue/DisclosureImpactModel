@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites verifiable data such as \"Tencent’s revenue grew 56%\" and \"Didi raised nearly US$10bil (RM45bil) in funding\".\n• Evidence 2: It references credible sources like the New York Times and quotes an anonymous investor’s statement about fund allocations, though lacks direct citations for all claims."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text does not mention QL Resources Berhad or any food/beverage company.\n• Evidence 2: The focus is entirely on Chinese internet companies, their geopolitical challenges, and market dynamics, which are unrelated to the company context provided."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides comprehensive historical context (e.g., Alibaba’s 2014 IPO, Didi’s Uber takeover) and detailed analysis of China’s tech industry challenges.\n• Evidence 2: It includes data on user growth (e.g., RedNote’s 300M users), economic trends, and regulatory impacts, offering nuanced insights into the sector’s evolution."
+  }
+}

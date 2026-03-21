@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"HLIB Research said the additional cash transfer of RM2bil translates to 0.1% of gross domestic product (GDP)\" [verifiable data]\n• Evidence 2: \"CIMB Research is keeping its 'neutral' call on the industry\" [balanced reporting with multiple analyst perspectives]"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL Resources Bhd may also stand to gain as a major player in consumer staples...\" [direct company mention with strategic implications]\n• Evidence 2: \"The RM100 cash handout... will increase disposable income of the public...\" [links policy to company-specific market impact]"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The consumer sector is currently trading at 27.2 times one-year forward price-over-earnings (PE)...\" [comprehensive financial context]\n• Evidence 2: \"Initial risks may persist in terms of uptake and utilisation...\" [detailed analysis of policy implementation challenges]"
+  }
+}

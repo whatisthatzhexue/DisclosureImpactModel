@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Deputy Public Prosecutor Raja Zaizul Farida Raja Zaharudin stated that the prosecution was not offering bail.' (verifiable legal statement)\n• Evidence 2: 'A post-mortem revealed that the cause of death was blunt force trauma to the head.' (specific forensic detail with source)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: 'No mention of Berjaya Food Berhad or any business-related context.' (complete absence of company reference)\n• Evidence 2: 'The article focuses on a criminal case unrelated to corporate operations, financials, or market impact.' (no stakeholder significance for the company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The victim was found unconscious with visible injuries... by her friend at about 10am on June 24.' (contextual background and timeline)\n• Evidence 2: 'Magistrate Khairatul Animah then fixed the case for mention on Sept 11.' (specific procedural detail and timeline)"
+  }
+}

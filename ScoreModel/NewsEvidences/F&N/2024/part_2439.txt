@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'Residents in Petaling Jaya produce about 600 tonnes of rubbish every day' (quantifiable data).\n• Evidence 2: 'The oil will be purchased at RM2.50 per kilogramme' (specific pricing detail)."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'Fraser & Neave Holdings Bhd (F&N) and Tetra Pak Malaysia' (direct company mention).\n• Evidence 2: 'F&N’s contribution of chairs made from recycled poly-Al boards' (strategic alignment with sustainability, but lacks financial or market impact analysis)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: 'In 2023, the drop-off centre... received 106.6 tonnes of recycled goods' (specific historical data).\n• Evidence 2: 'The competition started in 2018 but was temporarily suspended from 2020 until 2022' (contextual background on program history)."
+  }
+}

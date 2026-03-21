@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI ended 3.20 points, or 0.2% lower at 1,594.29 after moving between its intraday high of 1,603.59 and low of 1,586.39.\" (verifiable numerical data)\n• Evidence 2: \"Foreign investors sold a net RM718mil on Thursday. Local institutions and retailers were net buyers, with RM676mil and RM43mil, respectively.\" (specific, balanced reporting without bias)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N lost 28 sen to RM27.62\" (direct mention of Fraser & Neave Holdings Bhd, but limited to stock price movement)\n• Evidence 2: \"Nestle jumped 70 sen to RM96.70\" (irrelevant to Fraser & Neave's strategic direction)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Turnover was 3.43 billion shares valued at RM3.18bil\" (comprehensive market data)\n• Evidence 2: \"Newly-listed Supreme Consolidated rose 5.5 sen, or 22% to 30.5 sen with 115.66 million\" (specific stock performance details)"
+  }
+}

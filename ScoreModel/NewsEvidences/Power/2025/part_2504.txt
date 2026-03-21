@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Power Root Bhd has submitted the necessary documents to the Securities Commission of Malaysia for the Islamic Medium-Term Notes of up to RM500mn in nominal value to raise funds.\"\n• Evidence 2: \"Magni-Tech Industries Bhd reported a 36.4% increase in net profit to RM44.6mn for its 1QFY2025, from RM32.7mn a year earlier, on the back of higher revenue across its business segments.\"\n• Evidence 3: \"Euro Holdings Bhd said the High Court on Tuesday struck out the lawsuit filed by Surian Creation Sdn Bhd against the furniture maker...\""
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root Bhd has submitted...to raise funds.\"\n• Evidence 2: \"Solarvest Holdings Bhd has secured a RM113.3mn contract...\"\n• Evidence 3: \"Magni-Tech Industries Bhd reported a 36.4% increase in net profit...on the back of higher revenue across its business segments.\"\n• Evidence 4: \"OB Holdings Bhd...entered into an underwriting agreement...for its upcoming IPO...\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Power Root Bhd has submitted...to raise funds.\"\n• Evidence 2: \"Solarvest Holdings Bhd has secured a RM113.3mn contract...\"\n• Evidence 3: \"Magni-Tech Industries Bhd reported a 36.4% increase in net profit...on the back of higher revenue across its business segments.\"\n• Evidence 4: \"Wellcall Holdings Bhd is looking to acquire three parcels...for RM32mn.\"\n• Evidence 5: \"Hexza Corp Bhd...acquired 50,000 shares...for US$6.4mn (RM29.5mn), cash.\""
+  }
+}

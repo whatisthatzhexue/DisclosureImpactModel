@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, Salcon said its subsidiary...\" (verifiable source)\n• Evidence 2: \"F&N AgriValley is wholly-owned by F&N\" (clear corporate relationship disclosure)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"RM18.5mil contract...dairy farm\" (significant financial commitment impacting business performance)\n• Evidence 2: \"Section One...April 20, 2025\" (project timelines affecting operational capacity)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"RM18.5mil...Negri Sembilan\" (specific financial and geographic context)\n• Evidence 2: \"Section One...2025\" (project phase details but no broader industry context)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI declined by 0.27 points, or 0.02%, to 1,599.82\" (specific, verifiable market data)\n• Evidence 2: \"TA Securities said stocks are likely to continue...\" (credible source cited with analytical perspective)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N rose 28 sen to RM27.96\" (direct company mention)\n• Evidence 2: \"market remaining cautious due to ongoing inflation risks...\" (indirectly relates to investor concerns impacting company valuation)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"416 gainers, 475 losers and 494 counters traded unchanged...RM1.4bil\" (comprehensive market data)\n• Evidence 2: \"Immediate resistance remains at 1,628...September peak of 1,675\" (technical analysis depth)"
+  }
+}

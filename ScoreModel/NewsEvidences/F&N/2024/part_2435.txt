@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"F&N’s net profit jumped 63.5% to RM165.4mil in the second quarter ended March 31 (2Q24) compared with RM101.2mil posted in the same quarter last year.\"\n• Evidence 2: \"Excluding one-off non-operating items... the adjusted group operating profit increased by 60.9% to RM412.9mil despite escalating input costs for certain key commodities.\""
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Our investments in supply chain optimisation and solar PV system have also yielded long-term benefits in cost, and operational efficiencies and carbon footprint reduction.\"\n• Evidence 2: \"We are also developing a confectionery hub that will further boost our packaged food portfolio and strengthen our exports.\""
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Revenue for the quarter rose 12.1% to RM1.35bil against RM1.2bil mainly due to the phasing of sell-in for Chinese New Year and Hari Raya coinciding in 2Q24 compared to the previous quarter.\"\n• Evidence 2: \"Group operating profit for 1H24 increased by 18.8% to RM416.8mil on the back of higher revenue and better margins from both F&B Malaysia and F&B Thailand.\""
+  }
+}

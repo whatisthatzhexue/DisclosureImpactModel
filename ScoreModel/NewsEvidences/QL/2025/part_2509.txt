@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"vacant possession handovers ongoing since Nov 7, 2024\" (specific date with no contradictory claims)\n• Evidence 2: \"launched in 2020, and the first sales and purchase agreement was signed in September 2020\" (timely data with no verification cited)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"low-density condominium features 11 types of layouts and has a gross development value of RM261mil\" (financial implications for business performance)\n• Evidence 2: \"commitment to sustainability\" (long-term value creation and market differentiation)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"earned an impressive 85% score in the Quality Assessment System in Construction (QLASSIC)\" (specific metric with limited contextual explanation)\n• Evidence 2: \"271 homeowners highlighted the project’s modern minimalist aesthetics\" (user feedback but no broader market analysis)"
+  }
+}

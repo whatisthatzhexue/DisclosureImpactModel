@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 7, "justification": "• Evidence 1: Mayor Datuk Amirul Azizan Abd Rahim provided verifiable quotes about the underground mapping initiative and crow shooting operation.\n• Evidence 2: The article cites specific figures (e.g., 2,800 crows shot, RM16,700 paid) and mentions police supervision, which adds factual accuracy."},
+  "StrategicRelevance": {"score": 1, "justification": "• Evidence 1: The text contains no direct mention of Berjaya Food Berhad or its operations, financials, or strategic initiatives.\n• Evidence 2: The content focuses on local municipal activities unrelated to the company's business, market position, or investor concerns."},
+  "Depth": {"score": 4, "justification": "• Evidence 1: The article provides basic details about the underground mapping project and crow control operation but lacks contextual background on why these initiatives matter to stakeholders.\n• Evidence 2: While it includes statistics (e.g., 6,700 dengue cases), it does not analyze implications or connect them to broader economic or operational impacts for Berjaya Food Berhad."}
+}

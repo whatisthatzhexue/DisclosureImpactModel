@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites verifiable sources such as Pope Francis, Indonesian President Joko Widodo, and Grand Imam Nasaruddin Umar with direct quotes.\n• Evidence 2: It references credible experts like cultural anthropologist Michel Chambon and includes specific details about events (e.g., dates, locations, and quotes from religious leaders)."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of QL Resources Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The content focuses solely on interfaith dialogue and social justice, with no connection to the company’s business activities or stakeholder interests."
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of Pope Francis’s visit, including context about Indonesia’s religious diversity, historical tensions, and interfaith initiatives.\n• Evidence 2: It includes detailed quotes from multiple stakeholders, analysis of social justice themes, and references to cultural and geopolitical implications, offering a thorough narrative."
+  }
+}

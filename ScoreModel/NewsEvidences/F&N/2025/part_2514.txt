@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd posted a 15.16% year-on-year (y-o-y) decline in the 2Q of financial year 2025 net profit to RM140.3mil...\" (specific financial data with verifiable context)\n• Evidence 2: \"Rakuten Trade chief executive officer Kazumasa Mise said...\" (direct quote from credible source with no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"...Fraser & Neave Holdings Bhd...attributed to higher tax expenses, startup losses from its dairy operations and softer revenue\" (direct company mention with financial performance context)\n• Evidence 2: \"...renewed interest in domestically-orientated sectors...\" (links to strategic market positioning and sector-specific tailwinds)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"...select counters are expected to deliver resilient earnings, supported by stable demand, cost optimisation and regional tailwinds\" (analytical context with multiple factors)\n• Evidence 2: \"...the Bursa Malaysia Construction Index and Financial Services Index outperformed...\" (comprehensive market analysis with sector-specific insights)"
+  }
+}

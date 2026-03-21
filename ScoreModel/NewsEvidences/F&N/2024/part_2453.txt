@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI fell 4.42 points, or 0.29% to 1,532.56 at midday\" [verifiable market data]\n• Evidence 2: \"ANZ said it agreed to sell 16.5% of the issued capital in AmBank via a block trade at a price of RM3.85 per share\" [specific transaction details from credible source]"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The article contains no mention of Fraser & Neave Holdings Bhd or its financial performance, strategic initiatives, or market position\" [direct absence of company-specific information]\n• Evidence 2: \"No analysis connects market movements to the company's business operations, competitive landscape, or long-term value creation\" [lack of strategic context]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"There were 522 gainers, 336 losers and 414 counters traded unchanged on the Bursa Malaysia. Turnover stood at 2.2 billion shares valued at RM1.27bil\" [comprehensive market activity data]\n• Evidence 2: \"TA Securities said stocks should extend their fall... with a stronger upside hurdle seen at the 1,600 level\" [detailed technical analysis and market outlook]"
+  }
+}

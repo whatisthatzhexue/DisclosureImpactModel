@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We plan to start the objection hearing process on Aug 14 and hope to conclude by the end of September.\" (specific timeline and process)\n• Evidence 2: \"Tree maintenance is expensive. The cost to trim trees ranges between RM3,000 and RM5,000...\" (quantifiable data with direct quotes)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text focuses on MPSepang's municipal operations and tax policies, with no mention of Berjaya Food Berhad or its strategic priorities.\n• Evidence 2: The article lacks direct connection to business performance factors, financial implications, or market impact relevant to a food and beverage company."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The most significant increase was some areas in Puchong... saw an average increase of 79%\" (specific regional data)\n• Evidence 2: \"We have identified 940 trees at risk in three red zones...\" (detailed context on infrastructure challenges and budget allocation)"
+  }
+}

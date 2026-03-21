@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Malaysia remains firmly committed to the establishment of an independent Palestinian state without any preconditions\" (direct quote from Foreign Minister, verifiable via Bernama).\n• Evidence 2: The article cites the UN documents and explains Malaysia's concerns about the New York Declaration's process, with no apparent bias or fabrication."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or its business operations, financials, or strategic direction.\n• Evidence 2: The content focuses solely on Malaysia's foreign policy stance, which has no direct connection to the company's competitive position or market impact."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides context about the New York Declaration, the UN conference, and Malaysia's position, including the root cause of the conflict (Israeli occupation).\n• Evidence 2: It explains the discrepancy between Malaysia's support for an independent Palestine and its criticism of the declaration's process, though it lacks detailed data or extended analysis beyond the quoted statements."
+  }
+}

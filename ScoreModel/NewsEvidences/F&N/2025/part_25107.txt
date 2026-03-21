@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Bursa Malaysia finished higher today as bargain-hunting activity increased following six consecutive sessions of decline.\" (verifiable market data)\n• Evidence 2: \"Foreign investors continued selling equities... RM118mil\" (specific, cited data from Bursa Malaysia)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N lost 32 sen to RM30.90\" (single stock price movement, no strategic context)\n• Evidence 2: No discussion of Fraser & Neave Holdings Bhd's business strategies, competitive position, or long-term value creation"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Market traded within a range of 9.35 points... 2.48 billion shares... RM2.26bil\" (comprehensive market data)\n• Evidence 2: \"Foreign investors... RM118mil... local institutions... RM88mil\" (detailed transaction data, but lacks analysis of implications)"
+  }
+}

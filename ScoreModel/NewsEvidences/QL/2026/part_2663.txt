@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable numerical data (e.g., 'FBM KLCI jumped 24.66 points, or 1.63%') and specific stock price movements ('QL Resources declined 0.2%, or one sen to RM4.80').\n• Evidence 2: The tone is neutral, presenting both positive and negative market movements (e.g., 'PETRONAS Chemicals contributed the most... QL Resources was the biggest drag')."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article directly mentions QL Resources as 'the biggest drag on the index' with a specific price change ('declining 0.2%, or one sen to RM4.80'), which is relevant to investors.\n• Evidence 2: No deeper analysis of QL Resources' strategic position, financial performance, or market impact is provided."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: The article includes contextual market data (e.g., 'ringgit rose 0.27% against the US dollar') and regional index performance, offering some breadth.\n• Evidence 2: Limited analysis of QL Resources' situation beyond its stock price movement, lacking background or forward-looking insights."
+  }
+}

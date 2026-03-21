@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Festive seasons are a great opportunity for us to connect with the local community.\" [Quote from Karen Tan shows balanced tone]\n• Evidence 2: \"With each visit, we share smiles and receive priceless moments of happiness and gratitude in return.\" [Quote from Yogesvary Gopalan provides direct corporate perspective]"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"engaging in both long and short-term programmes anchored on four themes... fostering greater social equity\" [Links CSR initiatives to strategic themes]\n• Evidence 2: \"community development played a vital role in the company’s operations\" [Connects CSR to operational strategy]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"contributed close to RM85,000 in the form of F&N food and beverages...\" [Quantifiable data supports claims]\n• Evidence 2: \"visited 10 homes across Malaysia\" [Specific details about program scope]"
+  }
+}

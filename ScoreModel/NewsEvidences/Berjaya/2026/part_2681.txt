@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We are taking a phased approach. The effort is ultimately to finally ban vape. But I cannot pre-empt the Cabinet’s decision,\" he said in a press conference here, Thursday (Sept 25).\n• Evidence 2: \"The expert committee is looking into the matter in detail. And when we table the memorandum, all the recommendations will be presented,\" he said."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Berjaya Food Berhad or any direct connection to the company's operations, strategic direction, or financial implications.\n• Evidence 2: The focus on a government policy initiative lacks explicit ties to the company's business performance, market position, or stakeholder interests."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides basic details about the phased approach, expert committee involvement, and timeline for the vape ban, but lacks context on previous efforts or industry impact.\n• Evidence 2: No data, statistics, or analysis of market effects, regulatory history, or stakeholder perspectives are included."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI closed almost unchanged... 0.04%\" (specific market data)\n• Evidence 2: \"UOBKH Research expects... 2025\" (cited research firm with policy analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd... strong ringgit beneficiaries\" (direct company mention with strategic positioning)\n• Evidence 2: \"exporters... business cycles and pricing power\" (links to company's competitive position)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"MIDF Research estimated... 6.1% year-on-year\" (economic context with quantitative data)\n• Evidence 2: \"importers, companies with high US dollar debt...\" (sector-specific analysis with multiple stakeholders)"
+  }
+}

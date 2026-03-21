@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We also regard our employees as members of society who contribute towards a better Malaysia.\" (F&N chairman)\n• Evidence 2: \"To date, F&N has disbursed cash rewards amounting to RM4.8mil to 2,780 students across Malaysia.\" (Verified financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"By recognising their achievements, we want to reward their efforts and their parents’ commitment, and reaffirm F&N’s position as a stakeholder in building a better future for everyone in Malaysia.\" (Aligns with CSR strategy)\n• Evidence 2: \"With our focus on integrating artificial intelligence (AI) and other technologies into our operations, we are encouraged to see award recipients undertaking courses in AI, food tech, robotics and more.\" (Connects to tech innovation strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Secondary students were rewarded for achieving a minimum of 4As in their SPM or IGCSE examinations, and RM100 for each ‘A’ scored.\" (Detailed award criteria)\n• Evidence 2: \"Chong Wai Kit was recognised for being accepted into the BSc (Hons) in Computer Science (Cyber Security) course...\" (Specific recipient examples with context)"
+  }
+}

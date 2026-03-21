@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites credible sources like the Religious Affairs Minister Yaqut Cholil Qoumas and mentions verified practices of Ramadan fasting, including the lunar calendar's reliance on moon sightings.\n• Evidence 2: It provides factual details about regional variations in Ramadan start dates and specific cultural practices (e.g., 'iftar' meals, 'terawih' prayers), supported by quotes from individuals and government officials."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article mentions general business impacts in Malaysia, such as hotels and restaurants preparing Ramadan promotions, which could indirectly relate to QL Resources' operations as a food and beverage company.\n• Evidence 2: It references free distribution of bubur lambuk, a traditional dish, which may hint at consumer behavior trends but lacks direct linkage to QL Resources' strategic activities or financial performance."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of Ramadan's cultural, religious, and economic dimensions, including regional practices, government announcements, and societal impacts (e.g., food preparation, religious observances).\n• Evidence 2: It includes detailed examples like Indonesia's 277 million population, the role of religious authorities, and specific anecdotes (e.g., Rozman Abdul Rahman's personal practices), offering rich contextualization."
+  }
+}

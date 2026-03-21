@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This covers apps across sectors, including both the government and private sectors, and even critical infrastructure, says CSM chief executive officer Datuk Dr Amirudin Abdul Wahab...\" (verifiable data and direct quotes)\n• Evidence 2: \"The scheme's assessment criteria is based on globally recognised standards set by bodies such as the Open Worldwide Application Security Project (OWASP) and the US National Institute of Standards and Technology (NIST).\" (credible sources cited)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The MAC scheme builds upon these international practices but is tailored to suit Malaysia's local context and cybersecurity needs,\" Amirudin says. (no direct mention of Berjaya Food Berhad or business performance factors)\n• Evidence 2: \"Currently, companies and app developers can apply for certification...\" (general statement about industry relevance, not specific to Berjaya Food Berhad)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"There are currently 10 mobile apps undergoing the certification process, which evaluates them based on a structured list of security requirements, encompassing data protection, authentication mechanisms, and resistance to common attacks.\" (specific data and context)\n• Evidence 2: \"The first level, Level 1, focuses on the basic security features... Level 3 covers all the previous requirements and includes more advanced features...\" (comprehensive explanation of certification tiers and technical details)"
+  }
+}

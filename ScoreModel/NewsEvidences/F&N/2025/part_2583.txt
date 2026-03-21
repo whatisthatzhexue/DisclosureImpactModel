@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI closed down 10.6 points, or 0.67%, at 1,577.20\" (verifiable market data)\n• Evidence 2: \"Foreign investors continued to sell local equities, disposing of RM70mil on Wednesday\" (specific, quantifiable transaction data)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N gained 18 sen to RM25.80\" (direct mention of Fraser & Neave Holdings Bhd stock movement)\n• Evidence 2: \"Foreign investors... disposed of RM70mil\" (indirectly relates to capital flow impacts on company valuation)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Traded volume rose to 3.23 billion shares, valued at RM2.75 billion\" (comprehensive market activity data)\n• Evidence 2: \"Japan’s Nikkei 225 added 0.79%... Shanghai Composite index was up 0.51%\" (contextual global market comparisons)"
+  }
+}

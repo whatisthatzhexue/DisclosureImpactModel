@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., 'FBM KLCI ended firmer... up 2.74 points, or 0.17% to 1,636.55') with specific numerical details.\n• Evidence 2: The report includes balanced market movements (e.g., '445 gainers, 736 losers...') and currency exchange rates without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article directly mentions QL Resources as a 'laggard' in the KLCI component stocks, which is relevant to investors.\n• Evidence 2: No deeper strategic context is provided about QL Resources' business performance, competitive position, or financial implications of its stock movement."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: The text includes surface-level market data (e.g., 'foreign funds and retailers were net buyers...') but lacks analysis of QL Resources' specific performance drivers.\n• Evidence 2: No background context or industry-specific insights are provided about QL Resources' operations or market position."
+  }
+}

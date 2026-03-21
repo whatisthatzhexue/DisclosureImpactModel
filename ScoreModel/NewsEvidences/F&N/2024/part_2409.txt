@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI declined 7.45 points, or 0.45% to 1,635.32\" (verifiable numerical data)\n• Evidence 2: \"Foreign investors acquired a net RM266mil on Monday\" (specific transaction data with currency and amount)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"No direct mention of Fraser & Neave Holdings Bhd or its stock performance\" (lack of direct company reference)\n• Evidence 2: \"Market sentiment...awaiting Fed Chair Jerome Powell's speech\" (general market context unrelated to company-specific strategy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"508 gainers, 573 losers, and 502 counters traded unchanged\" (comprehensive market summary)\n• Evidence 2: \"Regional market comparisons...Hang Seng Index\" (contextual analysis of broader market trends)"
+  }
+}

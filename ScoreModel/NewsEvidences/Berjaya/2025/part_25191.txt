@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Berjaya Food Bhd (BFood), via Berjaya Food International, has entered into a master franchise agreement...\" (verifiable factual statement)\n• Evidence 2: \"This expansion aligns with our long-term vision...\" (direct quote from CEO, no fabrication or bias)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"This expansion aligns with our long-term vision of introducing world-class dining concepts to the global market\" (direct link to strategic direction)\n• Evidence 2: \"exploring new opportunities to introduce other international brands...\" (connects to competitive positioning and long-term value creation)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"establishing a stronger footprint in underserved markets\" (context about market focus)\n• Evidence 2: \"further solidifying its position as a leader in the food and beverage industry\" (strategic importance, but lacks quantitative data or historical context)"
+  }
+}

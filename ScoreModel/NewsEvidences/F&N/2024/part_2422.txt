@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data on market indices (e.g., FBM KLCI at 1,613.39, Dow Jones at 40,347.97) and includes quotes from credible financial firms (Apex Securities, Inter-Pacific Research) with specific market analysis.\n• Evidence 2: The tone is balanced, presenting both market declines and analyst forecasts without overt bias or fabrication."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave Holdings Bhd (F&N) as a listed company but does not connect its strategic direction, competitive position, or long-term value creation to the market trends discussed.\n• Evidence 2: While it notes F&N's stock price decline (RM30.22), it lacks analysis of how broader market conditions impact the company's business strategy or financial performance."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides context on global market trends (e.g., Dow Jones, S&P 500 declines) and includes analyst forecasts about market conditions, though it does not delve into F&N's specific operational or strategic context.\n• Evidence 2: It includes quantitative data (e.g., stock price movements, trading volumes) but lacks deeper analysis of market fundamentals or stakeholder implications for F&N."
+  }
+}

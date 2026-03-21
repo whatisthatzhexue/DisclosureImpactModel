@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI succumbed to profit-taking activities, lingering mostly in negative territory on Thursday, while the ringgit climbed against the US dollar.\" (factual market movement)\n• Evidence 2: \"The ringgit was quoted at 4.5730, appreciating 0.38% against the US dollar.\" (verifiable exchange rate data)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"F&N eased 42 sen to RM30.42.\" (single company mention without strategic context)\n• Evidence 2: No discussion of business performance factors, competitive positioning, or long-term value creation for Fraser & Neave Holdings Bhd."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Losers outpaced gainers 654 to 442, while 483 counters were unchanged. About 3.5 billion shares, valued at RM2.71bil, changed hands.\" (comprehensive market data)\n• Evidence 2: \"Foreign funds and retailers were net buyers... local institutions sold equities worth RM141mil.\" (detailed fund flow information)"
+  }
+}

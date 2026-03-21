@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites verifiable data points like the FBM KLCI's 0.07% gain, S&P 500's 0.74% rise, and Nasdaq's 1.51% increase, which align with public market reports.\n• Evidence 2: Multiple credible sources (Malacca Securities, Apex Securities) are referenced with balanced perspectives, including both bullish and cautionary outlooks."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article discusses market trends affecting sectors like technology and plantation, which could indirectly relate to Fraser & Neave's business (e.g., CPO prices impacting plantation sector).\n• Evidence 2: It mentions the ringgit's performance and export-driven companies, which may influence the company's financial performance but lacks direct strategic context for Fraser & Neave."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides detailed market data (e.g., FBM KLCI movement, S&P 500/Nasdaq figures) and analyst insights on sector-specific impacts, offering context for investors.\n• Evidence 2: It includes specific stock price movements and sector-specific forecasts, though it lacks in-depth analysis of Fraser & Neave's operational or strategic performance."
+  }
+}

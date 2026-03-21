@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CGS International (CGSI) Research, which downgraded its call on QL to 'hold', said FY25’s core net profit may only grow by 0.7% year-on-year...\" (explicit source citation and factual data).\n• Evidence 2: \"QL’s interim dividend of 3.5 sen per share... supports the thesis of a new dividend trend\" (verifiable financial metric and balanced analysis)."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Mitigating these negatives would be continued weakness in the prices of surimi... and the addition of new manufacturing capacity in Surabaya...\" (direct link to strategic operational factors).\n• Evidence 2: \"We are assuming a dividend payout ratio of 38% in FY24... with interim dividends of 3.5 sen per share each year\" (strategic financial planning and stakeholder impact)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL’s net debt-earnings before interest, tax, depreciation and amortisation would reduce to 0.26 times by FY27...\" (comprehensive financial context and forward-looking analysis).\n• Evidence 2: \"Upside risk would come from higher margins... Downside risks... prolonged weakness in consumer sentiment...\" (detailed risk assessment and market dynamics)."
+  }
+}

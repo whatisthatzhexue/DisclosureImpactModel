@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"PVH says it’s still recalculating its baseline footprint.\" (verifiable data on methodological changes)\n• Evidence 2: \"Bloomberg Green directly or with the nonprofit CDP, which operates a database of corporate climate disclosures.\" (credible source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The fashion industry generated just over one gigaton of carbon dioxide equivalent in 2019\" (irrelevant to QL Resources Berhad's food and beverage sector)\n• Evidence 2: \"Corporate emissions disclosures won’t be voluntary forever.\" (no direct link to QL Resources' strategic priorities)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Greenhouse Gas Protocol – a widely used standard for corporate carbon-footprint accounting – outlines 15 different sub-categories for Scope 3 emissions.\" (detailed breakdown of emissions categories)\n• Evidence 2: \"Of the 38 companies reviewed by Bloomberg Green, two did not report Scope 3 at all: Urban Outfitters Inc – which according to published reports is still collecting the data – and LL Bean.\" (comprehensive data on reporting inconsistencies)"
+  }
+}

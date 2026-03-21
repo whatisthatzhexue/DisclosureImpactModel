@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites specific dates (e.g., \"Piccioli left Valentino in March after more than two decades\") and brand names (e.g., \"Alessandro Michele\") with verifiable details.\n• Evidence 2: It includes quotes from credible sources (e.g., Alessia Pellarini, founder of The AP Archive) and acknowledges industry norms (e.g., non-compete agreements), maintaining a balanced tone."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of QL Resources Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The article focuses exclusively on the fashion industry, which is unrelated to the food and beverage company context provided."
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of industry shifts, including resignations, new appointments, and market impacts (e.g., \"the name of Simon Porte Jacquemus keeps being mentioned\").\n• Evidence 2: It includes detailed analysis of trends (e.g., \"short-term vision to meet market demands only lowers the cultural quality of the offer\") and contextualizes historical brand legacies."
+  }
+}

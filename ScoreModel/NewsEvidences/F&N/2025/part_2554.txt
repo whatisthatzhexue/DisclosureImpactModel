@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI fell 6.93 points, or 0.45% to 1,519.59 at 9.07 am.\" (specific, verifiable market data)\n• Evidence 2: \"Malaysia will face a 24% reciprocal tariff by the US effective April 9.\" (clear, factual tariff information with dates)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Malaysian products are spared the worst of the tariffs... Malaysia’s total direct trades with the U.S. only amounts to about 10% of total trades.\" (relates to market exposure impact on stakeholders)\n• Evidence 2: \"Nestle tumbled RM2.46 to RM70.20... Carlsberg declined 16 sen to RM18.78.\" (direct stock price impacts for listed companies)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The key index could head back to its support at the 1,510-1,513 levels... resistances are at 1,531 points and 1,535 points.\" (comprehensive market analysis with technical levels)\n• Evidence 2: \"Except for Singapore (10%) and the Philippines (17%), Malaysia’s 24% reciprocal tariff ranked the 3rd lowest...\" (comparative context with regional data)"
+  }
+}

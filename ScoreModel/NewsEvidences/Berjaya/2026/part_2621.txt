@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites verifiable data (e.g., FBM KLCI rising 0.07% to 1,626.53) and references the Federal Reserve's rate cut as a factual event.\n• Evidence 2: It includes quotes from Berjaya Research Sdn Bhd, a credible source, and provides balanced analysis without bias."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The text mentions Malaysia’s industrial production and retail sales data, which indirectly relate to economic factors affecting Berjaya Food Berhad but lacks direct company-specific analysis.\n• Evidence 2: No explicit mention of Berjaya Food Berhad’s strategic initiatives, financial performance, or competitive positioning."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides detailed market context (e.g., Dow Jones, S&P 500 performance) and technical analysis of the FBM KLCI, including resistance/support levels.\n• Evidence 2: It explains the Fed’s rate cut impact and includes analyst commentary, though it does not delve into Berjaya Food Berhad’s operational or strategic details."
+  }
+}

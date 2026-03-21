@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data points such as the FBM KLCI's 1.54-point increase to 1,624.82, with specific stock price movements (e.g., PPB Group rose 14 sen to RM14.26) and trading volume (1.7 billion shares valued at RM927.1mil).\n• Evidence 2: Credible sources are cited (TA Securities, Hong Leong Investment Bank Research) with balanced analysis of market sentiment and technical levels, avoiding overt bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) with its stock price decline (tumbled RM1.12 to RM28.58), linking it to broader market dynamics.\n• Evidence 2: External factors like U.S. interest rates and Trump's policies are discussed, which could impact the company's operations, but no direct strategic insights or financial performance metrics for F&N are provided."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., 246 gainers vs. 586 losers, resistance/support levels at 1,648/1,600) and technical analysis from multiple institutions, providing context for market behavior.\n• Evidence 2: While the focus is on the broader market, it touches on external risks (Middle East turmoil, Trump 2.0) that could indirectly affect the company, though without specific operational or strategic details for Fraser & Neave."
+  }
+}

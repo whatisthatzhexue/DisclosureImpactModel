@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites Reuters as a credible source and provides verifiable data (e.g., Nikkei closing at 37,646.95, 12.5% annual rise).\n• Evidence 2: Balanced tone with quotes from Ikuo Mitsui and objective analysis of market factors (e.g., Wall Street sell-off, yen weakness)."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of QL Resources Berhad or its operations, financials, or strategic direction.\n• Evidence 2: The article focuses on Japan's Nikkei index and unrelated stock movements, with no connection to the company's business or stakeholders."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The text provides detailed market data about the Nikkei but lacks any context or analysis relevant to QL Resources Berhad's business.\n• Evidence 2: No financial metrics, operational updates, or strategic insights about the company are included in the provided text."
+  }
+}

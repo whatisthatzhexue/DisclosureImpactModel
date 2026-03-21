@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Since 1979, Tropicana has crafted more than 18 townships anchored by our eight unique development DNAs,\" said Ixora Ang.\n• Evidence 2: \"Summit Commercial Hub is 90% completed and slated to be ready for handover by the second half of 2025.\""
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Redefine the Art of Living\" mantra connects to Tropicana's strategic positioning as a developer.\n• Evidence 2: \"Fraser Heights phase two will be home to 295 units...\" highlights long-term value creation through phased development."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Located within Iskandar Malaysia...\" provides contextual background on the township's strategic location.\n• Evidence 2: \"87% Quality Assessment System in Construction (Qlassic) score\" includes specific data to support claims."
+  }
+}

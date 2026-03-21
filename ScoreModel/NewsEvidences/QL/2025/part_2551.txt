@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 4,
+    "justification": "• Evidence 1: \"In 2022, the Department of Statistics Malaysia found that Malaysians were shelling out an average of RM732 a month just on eating out at restaurants and cafes.\" (No specific citation or source provided for this statistic)\n• Evidence 2: \"The latest stats from VisaNet data also revealed food is still a big deal across Asia...\" (No verifiable source or methodology cited for VisaNet data)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"HSBC Live+ is about to become your favourite sidekick for racking up amazing rewards\" (Promotional language with no direct link to QL Resources Berhad's strategic direction)\n• Evidence 2: \"With HSBC Live+, you’re instantly plugged into one of Asia’s leading dining programmes...\" (Focus on consumer benefits rather than business performance or market impact)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"From modern Chinese at Ming Room and Michelin Bib Gourmand-listed De.Wan 1958 by Chef Wan to exquisite Japanese at Rakuzen...\" (Specific examples of restaurant partnerships but no analysis of market position)\n• Evidence 2: \"From now until July 31 next year, every Saturday and Sunday, you can get RM10 off your movie tickets...\" (Descriptive details about perks but no contextual analysis of competitive landscape)"
+  }
+}

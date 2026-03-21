@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"I believe we are BAM’s longest serving sponsor...\" (direct quote from F&N Head of Marketing)\n• Evidence 2: \"BAM require substantial funding...\" (direct quote from BAM acting president)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our partnership will reach 25 years anniversary in 2028\" (shows long-term strategic commitment)\n• Evidence 2: \"We want to see our players win the top events including the Olympics\" (aligns with brand positioning and national goals)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Aaron Chia-Soh Wooi Yik...\" (specifics on supported players)\n• Evidence 2: \"100Plus will remain a permanent fixture...\" (context on sponsorship continuity)"
+  }
+}

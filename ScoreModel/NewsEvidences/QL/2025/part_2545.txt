@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The pope and Grand Imam Nasaruddin Umar signed a declaration at Istiqlal Mosque...\" \n• Evidence 2: \"The human exploitation of creation...has contributed to climate change,\" it read."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\" \n• Evidence 2: No mention of QL Resources Berhad, its business operations, financial performance, or strategic initiatives."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The declaration called for 'religious harmony for the sake of humanity' at South-East Asia's biggest mosque.\" \n• Evidence 2: \"The human exploitation of creation...has contributed to climate change,\" it read."
+  }
+}

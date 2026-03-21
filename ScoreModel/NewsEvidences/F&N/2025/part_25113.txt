@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI closing at 1,633.55, down 0.45% or 7.39 points, with specific volume and trade statistics (2.3 billion shares valued at RM2.7bil).\n• Evidence 2: It cites credible sources like RHB Research and JP Morgan's downgrades, and includes dealer commentary about investor behavior, maintaining a balanced tone without fabrication."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd directly, focusing instead on broader market indices and banking sector performance.\n• Evidence 2: While it discusses market trends and fund flows, there is no connection to the company's strategic direction, competitive position, or financial implications for stakeholders."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides comprehensive market data, including sector-specific declines (Public Bank's 26 sen drop), regional comparisons, and fund flow details (foreigners net buying RM54mil).\n• Evidence 2: It contextualizes the decline within broader regional trends (MSCI Asia ex-Japan, Nikkei, Kospi, CSI 300, Shanghai Composite), but lacks analysis of how these trends might impact Fraser & Neave's operations or financials."
+  }
+}

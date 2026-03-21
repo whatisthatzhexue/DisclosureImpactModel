@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Kenanga Research said the backdrop reflected a shift towards essentials and tourism-linked spending...\" (verifiable source and factual data).\n• Evidence 2: \"Tourism was expected to drive on-the-go consumption... RM700mil under Budget 2026\" (specific fiscal data and policy reference)."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Within this context, it favoured Fraser & Neave Holdings Bhd (F&N) with an 'outperform' rating...\" (direct company mention and strategic valuation).\n• Evidence 2: \"Food and beverage players such as F&N were seen benefitting from ready-to-drink demand...\" (ties to business performance and market impact)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The consumer landscape in Malaysia is entering a phase where tourism upswing and domestic policy support are converging...\" (comprehensive context and analytical insight).\n• Evidence 2: \"Retail Group Malaysia revised its 2025 retail sales growth forecast to 3.6%...\" (data-driven forecast and sector-wide implications)."
+  }
+}

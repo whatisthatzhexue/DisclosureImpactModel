@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Malaysia’s retail trade rose 5.6% year-on-year (y-o-y) to RM67.01bil in July 2025\" [specific verifiable data]\n• Evidence 2: \"unemployment rate unchanged at 3%\" [specific economic indicator]"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"MBSB Research favours Fraser & Neave Holdings (F&N)...\" [direct company mention and target price]\n• Evidence 2: \"consumer sector’s defensive nature offers resilience...\" [connects to business performance and market positioning]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"targeted subsidies for RON95 fuel...broaden the scope of relief\" [contextual explanation of policy impact]\n• Evidence 2: \"employment growth accelerated to 3.1% y-o-y...outpace labour force expansion\" [comprehensive economic data]"
+  }
+}

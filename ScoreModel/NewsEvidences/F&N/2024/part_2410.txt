@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Bursa Malaysia ended Friday in the red as 888 counters ended lower, as investors take profit amid mixed regional markets.\" (verifiable market data)\n• Evidence 2: \"Foreign investors continued to buy into local stocks on Monday, acquiring RM293mil worth of equities.\" (specific transaction data from Bursa Malaysia)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N rose 32 sen to RM29.82\" (direct mention of Fraser & Neave Holdings Bhd stock performance)\n• Evidence 2: \"EPB’s managing director Yeoh Chee Min said that of the IPO proceeds, RM24.6mil would be utilised for factory expansion...\" (strategic use of funds for growth)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Market breadth of 0.29, indicating the bears had stronger control\" (contextual market analysis)\n• Evidence 2: \"Nestle slid RM1 to RM102, Malaysian Pacific Industries lost 60 sen to RM35.70...\" (detailed stock price movements with quantitative data)"
+  }
+}

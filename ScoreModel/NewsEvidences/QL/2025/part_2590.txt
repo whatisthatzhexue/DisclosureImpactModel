@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"A 2022 peer-reviewed study found that residential fuel usage was the largest air pollution source in India.\" (verifiable data from a reputable source)\n• Evidence 2: \"The current form of regulation is so costly for polluters,\" said Greenstone, citing Gujarat's cap-and-trade experiment as a credible example of policy impact."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\" (no direct connection to article content)\n• Evidence 2: \"The article discusses air pollution's economic impact, but no mention of QL Resources' operations, strategic priorities, or market implications.\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"By 2030 India could reduce its PM2.5 by 20 per cent,\" said Siddharth Singh, providing specific quantitative data.\n• Evidence 2: \"The paper published in the peer-reviewed journal Lancet Planet Health found that lost output from premature deaths... meant economic losses of a total of US$36.8 billion,\" offering comprehensive analysis of economic impacts."
+  }
+}

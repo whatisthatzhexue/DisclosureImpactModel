@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, Salcon said the contract is for the proposed external water reticulation works in Gemas, Negeri Sembilan for F&N AgriValley.\"\n• Evidence 2: \"The project is expected to contribute positively towards the earnings and net assets of Salcon Group for the financial year ending Dec 31. 2025 onwards,\" it said."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The project is expected to contribute positively towards the earnings and net assets of Salcon Group for the financial year ending Dec 31. 2025 onwards,\" it said.\n• Evidence 2: Direct mention of Salcon's subsidiary securing a contract for F&N AgriValley, which is part of Fraser & Neave Holdings Bhd."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Salcon added the project is a construction contract and has no option for renewal.\"\n• Evidence 2: Limited context on F&N AgriValley's broader operations or how this contract aligns with strategic goals, though it provides basic financial impact details."
+  }
+}

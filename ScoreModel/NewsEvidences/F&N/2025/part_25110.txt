@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Genting Malaysia Bhd said the lawsuit... will not materially impact...\" (direct company statement)\n• Evidence 2: \"AME Real Estate... deemed fair and reasonable by MainStreet Adviser\" (third-party verification)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Varia Bhd’s subsidiary secured RM571.8mn contract\" (strategic expansion/contract win)\n• Evidence 2: \"Alpha IVF expanding into Indonesia...\" (market penetration strategy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Ancom Nylex reported 36.5% drop... due to geopolitical conflicts\" (specific financial context)\n• Evidence 2: \"Malaysia Airports... 36.1mn passengers\" (quantifiable operational metric)"
+  }
+}

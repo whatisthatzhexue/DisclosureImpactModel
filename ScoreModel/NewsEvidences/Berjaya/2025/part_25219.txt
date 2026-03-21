@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The prosecution was handled by deputy public prosecutor Mohamed Wafi Husain while the accused were represented by counsels...\" (verifiable legal process)\n• Evidence 2: \"USDT is the symbol for Tether, a cryptocurrency that is pegged to the US dollar.\" (clear definition of cryptocurrency)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"Berjaya Food Berhad is a food and beverage company listed in Malaysia.\" (company context provided, but no connection to article content)\n• Evidence 2: \"The offence was allegedly committed at the Cyberjaya exit...\" (location detail unrelated to company operations)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The charges under Section 3 (1) of the Kidnapping Act 1961...\" (legal context and penalties)\n• Evidence 2: \"Earlier this week, it was reported that police are still tracking down four more suspects...\" (timeline and ongoing investigation details)"
+  }
+}

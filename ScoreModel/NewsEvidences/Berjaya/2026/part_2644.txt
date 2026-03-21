@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Malaysia’s data centre market is on track to become one of the largest in the Asia-Pacific region, with total capacity expected to reach more than quadruple beyond 2026.\" (specific, verifiable projections)\n• Evidence 2: \"Our research data shows that most of the data centres now are still being mostly driven by traditional workload...\" (direct quote from a cited expert with balanced tone)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"This will turn Malaysia into one of the biggest data centre markets in Asia-Pacific\" (no direct connection to Berjaya Food Berhad's operations)\n• Evidence 2: \"data centres consume large amounts of water...\" (no mention of Berjaya Food's business activities or strategic priorities)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Cyberjaya maintaining the highest density of data centres... Sedenak Tech Park houses one of South-East Asia’s largest purpose-built data centre parks\" (comprehensive geographic and infrastructural details)\n• Evidence 2: \"power consumption could rise to 15% to 20% by 2035... wastewater treatment plants\" (quantitative data and technical insights on resource management)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MIDF Research said in a report yesterday.\" (cites a credible source)\n• Evidence 2: \"The impact on costs... remains limited.\" (specific analysis with verifiable context about sugar tax)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources Bhd... downgraded to a 'neutral' from a 'buy'\" (direct company mention and strategic rating change)\n• Evidence 2: \"strategic entry into integrated dairy farming... diversify and enhance revenue streams\" (connects to company's strategic direction)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The substantial increase aims to provide critical financial assistance... 85% of Malaysians\" (quantifiable data and context)\n• Evidence 2: \"proactive approach... align their products with evolving consumer preferences\" (detailed analysis of industry adaptation)"
+  }
+}

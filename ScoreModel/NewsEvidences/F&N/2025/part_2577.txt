@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data on market indices and stock prices (e.g., 'The 30-stock index rose 5.74 points, or 0.36%, to close at 1,590.91 points').\n• Evidence 2: It reports factual market movements without bias, including both gains and losses (e.g., 'PETRONAS Gas, the top loser... slid 32 sen to RM17.48')."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave (F&N) as a top gainer ('F&N, which added 34 sen to RM26.20'), which is relevant to investors.\n• Evidence 2: However, it lacks analysis of how broader market trends impact F&N's strategic position or long-term value creation."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes comprehensive data on market performance, such as 'Daily gainers for FBM KLCI constituents at 15 counters outweigh the decliners at nine counters' and regional market comparisons.\n• Evidence 2: It provides detailed price movements and trading volumes (e.g., '2.9 billion shares worth RM2.22bil changing hands'), though it lacks deeper analysis of underlying factors driving these trends."
+  }
+}

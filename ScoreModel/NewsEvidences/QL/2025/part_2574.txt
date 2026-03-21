@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL Resources Bhd has proposed to undertake a bonus issue...\" (specific corporate action with verifiable financial details)\n• Evidence 2: \"The Human Resource Development Fund has acquired Widad Group Bhd shares...\" (cites a specific entity and transaction type)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL Resources Bhd...bonus issue of up to 1.2bn shares\" (directly relates to shareholder reward strategy)\n• Evidence 2: \"MUI Properties Bhd...selling 53 acres of freehold land...\" (indicates asset management strategy for a listed entity)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"RM26.5mn...40-storey condominium project\" (specific financial figure with project context)\n• Evidence 2: \"special dividend of 20.0sen/share for FY25...\" (includes dividend amount and fiscal year context)"
+  }
+}

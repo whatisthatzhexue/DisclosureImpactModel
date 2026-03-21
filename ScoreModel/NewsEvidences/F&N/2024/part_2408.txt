@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reuters reported that the ringgit gained as much as 0.4%...\" (credible source cited)\n• Evidence 2: \"According to data on Bursa Malaysia...\" (verifiable data source)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N added 30 sen to RM29.50\" (direct mention of company, but no strategic context)\n• Evidence 2: \"foreign investors continued to buy into local stocks...\" (market impact relevant to stakeholders)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"About 3.7 billion shares, valued at almost RM4bil, changed hands\" (quantitative detail)\n• Evidence 2: \"MSCI's Asia ex-Japan stock index was lower by 0.13%...\" (comprehensive regional context)"
+  }
+}

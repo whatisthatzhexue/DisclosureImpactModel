@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"M Oscar achieved a commendable 85% score for the Quality Assessment System in Construction (Qlassic) by the Construction Industry Development Board (CIDB)\" [verifiable certification]\n• Evidence 2: \"We are proud to see our vision come to life...\" [direct quote from executive with no apparent bias]"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Moving forward, we will continue to acquire attractively priced lands in strategic locations...\" [directly ties to long-term growth strategy]\n• Evidence 2: \"This year, Mah Sing plans to launch all its new developments acquired since 2023\" [connects to business performance and market expansion]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"M Oscar, with a gross development value of approximately RM590mil, comprises two towers with a total of 910 units...\" [specific quantitative data]\n• Evidence 2: \"Residents will also be able to enjoy the retail convenience of NSK Trade City just 2.2km away...\" [comprehensive location context]"
+  }
+}

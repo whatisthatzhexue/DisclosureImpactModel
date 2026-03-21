@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable factual data (e.g., 'FBM KLCI fell 3.41 points, or 0.21%, to 1,629.46') and quotes from TA Securities with specific projections ('ringgit is projected to move towards RM4.35 per US dollar').\n• Evidence 2: Balanced reporting is evident through equal coverage of stock gains and losses, and regional market performance (e.g., 'stocks that rose outnumbered those that fell 631 to 477')."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd directly or connect market movements to its strategic direction, competitive position, or business performance.\n• Evidence 2: While the ringgit's performance is discussed, it lacks direct linkage to the company's operations, financial implications, or stakeholder significance."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive market data (e.g., '3.7 billion shares were traded, valued at RM2.86bil') and regional market summaries (e.g., Japan’s Nikkei 225, China’s CSI 300 Index).\n• Evidence 2: Analytical insights are included (e.g., TA Securities’ forecast for the ringgit), but the article lacks deeper context on how these factors specifically impact Fraser & Neave’s operations or industry position."
+  }
+}

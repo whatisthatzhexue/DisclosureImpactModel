@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Putra Brand Awards (PBA) 2023 is the premier brand award in Malaysia and represents an honour that 'money-cannot-buy' and awards its winners through public votes based on their favourite brands in the local market.\"\n• Evidence 2: \"Putra Brand Awards was endorsed by Matrade as the Brand Champion Partner and supported by the Malaysian Advertisers Association, Media Specialists Association and Malaysian Digital Association.\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"This year did not list any Putra Brand Icon winners as the brands that qualify were past recipients of the same award.\"\n• Evidence 2: No direct mention of QL Resources Berhad or its strategic initiatives, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Platinum category winners include Uniqlo in Apparel and Accessories; Toyota in Automotive; PETRONAS in Automotive – Fuel, Lubricants and Accessories;...\" (comprehensive list of winners).\n• Evidence 2: \"Commenting on the gala night’s event theme 'Transform - Lead the Change', Malaysia External Trade Development Corporation (Matrade) chief executive officer Datuk Mohd Mustafa Abdul Aziz said...\" (contextual analysis of the event's theme)."
+  }
+}

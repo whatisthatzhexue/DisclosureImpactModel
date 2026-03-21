@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI's 6.32-point rise, share volumes (3.1 billion shares), and fund flows (RM510mil foreign sales).\n• Evidence 2: It maintains a balanced tone by reporting both gains (e.g., Nestle surged RM1.62) and declines (e.g., Panasonic Manufacturing slid 47 sen), without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a stock that rose 62 sen, linking to its market performance.\n• Evidence 2: It connects to broader market dynamics affecting investors, which indirectly relates to stakeholder interests but lacks deeper analysis of the company's strategic positioning."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., 558 gainers vs. 511 decliners, regional index movements) and specific stock price changes, providing context for the market rebound.\n• Evidence 2: It explains fund flows (foreign investors offloading RM510mil) and regional market impacts, though it stops short of analyzing underlying economic or corporate factors driving these trends."
+  }
+}

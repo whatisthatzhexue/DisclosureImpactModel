@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We are also introducing our fourth project, Aludra, featuring 218 units in Selangor Cyber Valley (SCV) in Cyberjaya, slated to launch this July with prices starting from RM555,000,\" he said at the event, as reported by Bernama.\n• Evidence 2: The article cites Bernama as the source, which is a credible Malaysian news agency, and provides direct quotes from PKNS officials."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"PKNS hoped to boost sales of their property projects worth over RM1bil this year,\" which connects to business performance and financial targets.\n• Evidence 2: The article mentions specific projects (e.g., Aludra, GRIP) but does not explicitly link them to PKNS's broader strategic direction or competitive positioning."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides specific details about project locations, pricing (RM555,000), and sales targets (RM1bil), offering quantitative context.\n• Evidence 2: It describes the event's purpose and projects promoted but lacks deeper analysis of market trends, stakeholder impact, or historical context for PKNS's initiatives."
+  }
+}

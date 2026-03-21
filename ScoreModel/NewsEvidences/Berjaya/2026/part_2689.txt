@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"NexG Bina is more than symbolic as it reflects the group’s strategic realignment.\" (Direct quote from chairman, verifiable source)\n• Evidence 2: \"Collectively, its key ongoing and planned developments... represented an estimated gross development value of over RM360mil.\" (Quantifiable data from Bernama, credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"NexG represents innovation and transformation, while Bina grounds the group in the construction... sectors where it sees long-term opportunity.\" (Direct link to strategic direction)\n• Evidence 2: \"The journey is about building credibility... to contribute to the government’s targets under the 13th Malaysia Plan.\" (Connects to national strategic goals and long-term value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Projects in Tapah, Perak and Bentong... demonstrate how we can deliver while beginning to recycle capital effectively.\" (Specific project examples and financial implications)\n• Evidence 2: \"We aim to develop into a bumiputra-led national contractor... ensuring sustainability.\" (Detailed explanation of business model and stakeholder impact)"
+  }
+}

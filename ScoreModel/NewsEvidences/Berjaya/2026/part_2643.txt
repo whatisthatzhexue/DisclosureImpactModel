@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Binastra Corp Bhd secured a RM188.5mn contract...\" (specific, verifiable financial data)\n• Evidence 2: \"Westports Holdings Bhd posted a 16.0% YoY rise...\" (clear financial metrics with timeframe)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Techbond Group Bhd is acquiring three industrial plots...\" (strategic land acquisition for future operations)\n• Evidence 2: \"Orkim Bhd has signed a retail underwriting agreement...\" (IPO details impacting capital structure and growth)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"RM24.3mn from its ACE Market IPO via the issuance of 97.15mn new shares at 25 sen each...\" (detailed financial specifics)\n• Evidence 2: \"Sasbadi Holdings Bhd has secured an 18-month RM0.43mn contract...\" (contract duration, value, and scope details)"
+  }
+}

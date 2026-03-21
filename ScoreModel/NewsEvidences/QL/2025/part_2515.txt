@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Companies under our coverage that could be affected are Nestle (M) Bhd , Farm Fresh Bhd and Dutch Lady Milk Industries Bhd.\" (BIMB Securities Research explicitly names companies, indicating credible sourcing)\n• Evidence 2: \"However, our in-house economics team forecasts a strengthening ringgit...\" (Internal analysis by the research house is cited, showing methodological transparency)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL Resources Bhd\" is directly mentioned as a company expected to benefit from the ringgit strengthening, linking to its financial performance (specific company mention)\n• Evidence 2: \"the increase in the country’s minimum wage...possibility of employers having to make EPF contributions for foreign workers\" (Factors directly impacting operational costs and labor strategy)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"commodity prices for ingredients for powdered cocoa, coffee and milk are currently on an uptrend...stabilised from their all-time highs caused by the Ukraine-Russia war\" (Contextual background on market forces)\n• Evidence 2: \"inflation to remain stable of 2.7%...only the high-come T15 group are expected to pay the floating price\" (Data on inflation and pricing mechanisms, though limited to macro-level analysis)"
+  }
+}

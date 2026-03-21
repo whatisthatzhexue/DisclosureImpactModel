@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI sinks deeper into the red at midday as market sentiment weakens, while some energy counters gain ground amid escalating tensions in the Middle East.\" (verifiable market data)\n• Evidence 2: \"TA Securities stated...\" and \"SPI Asset Management managing partner Stephen Innes noted...\" (credible expert analysis with no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N lost 32 sen to RM31.68\" (direct company mention impacting investor perception)\n• Evidence 2: \"Market sentiment will remain cautious...\" (broader market context affecting stakeholder decisions, though no strategic direction analysis)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Bursa Malaysia Energy Index surged 3.29% or 28.20 points to 886.01 points\" (quantitative details)\n• Evidence 2: \"Oil prices have calmed down after Thursday’s spike...\" (contextual analysis with forward-looking insights)"
+  }
+}

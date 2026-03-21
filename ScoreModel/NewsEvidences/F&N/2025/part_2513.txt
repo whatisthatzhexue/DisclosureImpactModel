@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We currently have around RM7mil to RM8mil in sponsorship, but we are still short and working to reach the target.\" (Quotes from Hisamudin provide direct statements about financial figures)\n• Evidence 2: \"Under the renewed deal, 100PLUS will continue as the official isotonic drink partner... with a total sponsorship worth RM2mil.\" (Specific, verifiable sponsorship details are provided)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"The funds are crucial to cover the expenses of not only the senior national team but also the Under-23 and women’s squads.\" (Focuses on FAM's operational needs, not Fraser & Neave's strategic priorities)\n• Evidence 2: \"Fraser and Neave (F&N) Holdings Bhd food and industry engagement division managing director... said 100PLUS has always remained committed...\" (Only tangential mention of the company, no strategic implications for F&N)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"With about half the target still to be achieved in the remaining four months...\" (Provides timeline context for sponsorship goal)\n• Evidence 2: \"We already have some initiatives in place and more in the pipeline.\" (Mentions ongoing efforts but lacks detailed explanation of strategies or data supporting claims)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites specific initiatives like the Talian Harapan 145 helpline and references to the Brunei Darussalam National Mental Health Action Plan 2022-2025, providing verifiable context.\n• Evidence 2: The quotes from the Health Minister are detailed and align with global mental health frameworks (e.g., World Federation for Mental Health), with no apparent bias or fabrication."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text focuses on Brunei's mental health policies, with no mention of QL Resources Berhad or its operations.\n• Evidence 2: The article's content pertains to public health strategy, which is unrelated to the strategic direction, financial performance, or market impact of a food and beverage company."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides comprehensive background on the World Mental Health Day theme, pandemic impacts, and Brunei's disaster risk reduction strategies, including specific programs like Psychological First Aid (PFA) and Mental Health First Aid (MHFA).\n• Evidence 2: It includes detailed examples of initiatives (e.g., training for imams and village heads) and references to national action plans, offering substantial context and analytical depth."
+  }
+}

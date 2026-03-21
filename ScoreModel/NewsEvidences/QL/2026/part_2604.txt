@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"CIMB Research\" is cited as the source of analysis, which is a credible financial research firm.\n• Evidence 2: The article provides specific company names (e.g., QL Resources Bhd) and contextual details (government aid, product launches) without fabrication, though verifiable data like exact financial figures are not included."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: Direct mention of QL Resources Bhd's performance, including its revenue decline and lower operating leverage, linking to its strategic position in the sector.\n• Evidence 2: Forward-looking analysis about Sara cash handout's impact on consumer spending and its implications for retailers' margin pressures and strategic responses."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: Contextualizes QL Resources' performance within the broader consumer staples sector, mentioning factors like government aid and new product launches.\n• Evidence 2: Explains market dynamics (e.g., 8% sales tax, input costs) and provides analyst expectations (e.g., cost efficiencies, price pass-throughs) to support strategic implications."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 12.62 points to 1,528.18, its highest level since late March\" [verifiable market data]\n• Evidence 2: \"QL Resources dropping two sen to RM4.79 amid news that the government will halve its subsidy on eggs tomorrow\" [specific factual event with cause-effect linkage]"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"QL Resources dropping two sen to RM4.79\" [direct company mention linked to a specific event]\n• Evidence 2: \"Nestle, which rose RM2.30 to RM86.52 as it continued a stellar recovery\" [market performance context but no strategic analysis]"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Volume was 1.41 billion shares changing hands for RM833.49mil\" [quantitative data]\n• Evidence 2: \"Asian markets stayed mildly positive with gains capped by concerns over the health of the global economy\" [broader market context but limited company-specific analysis]"
+  }
+}

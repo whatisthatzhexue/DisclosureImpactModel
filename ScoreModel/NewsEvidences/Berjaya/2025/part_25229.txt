@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The government has agreed to give six-month grace period to taxpayers from the date of mandatory implementation of e-Invoicing which started on Aug 1\" [verifiable date and policy detail]\n• Evidence 2: \"During the six months, there would be no prosecution action...\" [specific legal clarification with verifiable consequence]"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The reduction in the capital allowance claim period will be given for the purchase of ICT equipment...\" [direct financial incentive relevant to company operations]\n• Evidence 2: \"The first phase... companies with annual income... RM100 million\" [sector-specific implementation timeline affecting business operations]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The grace period is expected to give taxpayers enough time to ensure the full implementation...\" [contextual explanation of policy rationale]\n• Evidence 2: \"The IRB allows any transaction description...\" [detailed technical implementation guidance]"
+  }
+}

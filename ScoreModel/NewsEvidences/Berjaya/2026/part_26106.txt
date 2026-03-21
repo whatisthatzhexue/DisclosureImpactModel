@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article presents factual statements from Anwar Ibrahim and includes direct quotes, indicating verifiable sources.\n• Evidence 2: The tone remains balanced, acknowledging both student aid requests and other societal needs without overt bias."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its operations, financials, or strategic initiatives.\n• Evidence 2: The focus is entirely on government policy discussions unrelated to the company's business context."
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: The text provides superficial context about student aid proposals but lacks detailed analysis of economic impacts or policy implications.\n• Evidence 2: No data or evidence is presented to support claims about cost of living or flood mitigation funding allocations."
+  }
+}

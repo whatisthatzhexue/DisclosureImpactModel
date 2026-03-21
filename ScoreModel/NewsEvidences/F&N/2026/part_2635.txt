@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI rose 2.17 points, or 0.13% to 1,629.67\" (specific numerical data)\n• Evidence 2: \"Dealers said the local bourse recorded modest gains...\" (direct quote from market participants)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N eased 28 sen to RM28.10\" (direct mention of the company's stock price movement)\n• Evidence 2: \"The glove maker posted a net profit...\" (financial performance data relevant to the company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Market breadth of 1.90, signalling that the bulls maintained the upper hand\" (contextual market analysis)\n• Evidence 2: \"Top Glove jumped 15.52%, or nine sen to 67 sen...\" (specific company performance details with quantitative data)"
+  }
+}

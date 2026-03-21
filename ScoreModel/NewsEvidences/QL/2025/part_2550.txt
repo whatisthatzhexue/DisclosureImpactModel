@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The human exploitation of creation... leading to various destructive consequences...\" (formally signed declaration)\n• Evidence 2: \"We could say that what lies 'underneath'... is the one root common to all religious sensitivities\" (Pope's statement)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of QL Resources Berhad or its operations\n• Evidence 2: Article focuses on religious and geopolitical events unrelated to business performance, financial implications, or market impact"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: Comprehensive coverage of the declaration, tunnel symbolism, and interfaith context\n• Evidence 2: Includes demographic data (87% Muslim population), historical context (2019 Arabian Peninsula visit), and logistical details (33,000 km travel)"
+  }
+}

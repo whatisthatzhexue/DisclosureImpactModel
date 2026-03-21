@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL Resources Bhd remains cautiously optimistic...\" (balanced tone with acknowledged risks)\n• Evidence 2: \"...posted a 4.6% higher net profit of RM128.3mil...\" (specific verifiable financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The continued egg cost subsidy...will support satisfactory business results\" (direct link to strategic factors affecting operations)\n• Evidence 2: \"...expected US trade protectionism...US-China trade war...\" (contextualizes external risks to business strategy)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"...revenue grew 6.2% to RM3.5bil\" (specific financial metrics)\n• Evidence 2: \"...for the first half, its net profit rose 9.4%...\" (time-series data but lacks contextual analysis of growth drivers)"
+  }
+}

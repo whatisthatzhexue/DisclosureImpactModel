@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"MPAJ deputy president Hasrolnizam Shaari said the savings was possible because some 2,400 tonnes of waste collected were not sent to landfills.\"\n• Evidence 2: \"To date, we have collected 63 tonnes of recyclables through the Trash for Cash programme and 135.5 tonnes of food waste from the 12 collection points.\""
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"MPAJ supports the state government’s SelKitar initiative...\" (no direct link to Berjaya Food Berhad's strategic priorities)\n• Evidence 2: \"Trash for Cash programme, collection of food waste to be turned into animal feed and fertiliser...\" (initiatives are municipal-level, not directly tied to Berjaya Food Berhad's business operations)"
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: \"About 470 tonnes of waste, he said, were collected daily...\" (quantitative detail)\n• Evidence 2: \"Work is expected to begin at the start of 2026 and be completed by July the same year.\" (timeline and project specifics)"
+  }
+}

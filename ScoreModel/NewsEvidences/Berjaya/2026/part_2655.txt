@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We usually achieve a take-up rate of 75% to 80% after six or seven months of a launch.\" (Verifiable sales projection methodology)\n• Evidence 2: \"Out of the RM324mil worth of new properties, we have only launched...\" (Specific project details with numerical data)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We are confident of hitting our RM400mil sales target for FY26\" (Direct link to financial performance and strategic goals)\n• Evidence 2: \"Johor has become the hub of data centres...\" (Strategic considerations for market expansion and diversification)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Of the RM500mil worth of launches this year, only about RM55mil came from Johor...\" (Regional performance analysis with quantitative context)\n• Evidence 2: \"The land that we have earmarked earlier for DCs had been used for other commercial developments\" (Historical strategic context and project adjustments)"
+  }
+}

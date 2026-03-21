@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable factual data (e.g., 'FBM KLCI slipped 7.07 points, or 0.42%, to 1,671.24') and cites credible sources (Apex Securities, TA Securities).\n• Evidence 2: Balanced reporting is maintained by presenting both market caution ('broader market is expected to remain cautious') and potential support factors ('improving global risk sentiment')."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd directly or connect to its strategic direction, competitive position, or financial performance.\n• Evidence 2: While sectors like renewable energy and AI are discussed, these are general market trends without specific ties to the company's business operations or strategic priorities."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article includes detailed market data (e.g., '279 gainers, 462 losers, 506 counters unchanged') and technical analysis (Fibonacci levels, resistance/support levels).\n• Evidence 2: It provides context about market sentiment and sector-specific insights (e.g., 'improving global tech sentiment has helped stabilise the AI theme'), but lacks granular details about the company's performance or strategic initiatives."
+  }
+}

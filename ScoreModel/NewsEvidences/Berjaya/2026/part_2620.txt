@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Studies from the Organisation for Economic Co-operation and Development and the European Higher Education Area point to better systems, clearer processes and greater transparency\" (cites credible institutions but lacks specific data).\n• Evidence 2: \"Prof Dr David Whitford is vice-chancellor...\" (provides biographical details but no verifiable data on QA outcomes)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Malaysia can lead again\" (general aspirational statement unrelated to Berjaya Food's operations).\n• Evidence 2: \"Students deserve quality learning, not just quality audits\" (focuses on educational policy, not corporate strategy)."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QA improves paperwork more than it improves learning\" (analyzes systemic issues but lacks quantitative evidence).\n• Evidence 2: \"Using AI to monitor student feedback quickly\" (proposes future-oriented solutions but lacks implementation details)."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Now we are combining everything, placing it under one framework and we will adopt it across the board,\" he said during a press conference. \n• Evidence 2: \"There was a case where the court overturned our action in confiscating the land, saying the notice period was insufficient.\""
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article discusses policies affecting business operations in Selangor but does not mention Berjaya Food Berhad or its strategic priorities. \n• Evidence 2: The focus on infrastructure and enforcement issues lacks direct connection to the company's business operations or financial performance."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides context about the policy's implementation timeline and challenges, including legal hurdles and enforcement issues. \n• Evidence 2: It mentions the state's spending on cleanup efforts but lacks detailed data on economic impacts or stakeholder analysis."
+  }
+}

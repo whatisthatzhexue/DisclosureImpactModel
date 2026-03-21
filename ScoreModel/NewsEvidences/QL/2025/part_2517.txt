@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The first AI-powered televisions from South Korea are being showcased at the Consumer Electronics Show (CES)\" [verifiable event and source].\n• Evidence 2: \"Samsung and LG are causing a stir with the unveiling of their first AI-enhanced TV sets\" [specific companies and products cited]."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia\" [no mention of the company in the text].\n• Evidence 2: \"The biggest TV vendors are embracing this technology\" [no connection to QL Resources' strategic direction or business impact]."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"AI enables content viewing to be optimized thanks to upscaling... and the automatic adjustment of HDR levels\" [detailed technical explanation].\n• Evidence 2: \"AI can even automatically translate what is said on-screen... or find the recipe for a dish featured in a show\" [comprehensive coverage of AI capabilities]."
+  }
+}

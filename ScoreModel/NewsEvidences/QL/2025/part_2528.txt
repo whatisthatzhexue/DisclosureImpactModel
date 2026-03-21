@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"A 35-year-old male manager is suspected of inserting his smartphone under the curtain or door of the fitting rooms...\" (verifiable details from police report)\n• Evidence 2: \"Fast Retailing... apologised for the distress caused...\" (direct quote from company statement)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The group vowed to review store facilities including security cameras...\" (directly ties to operational strategy and risk management)\n• Evidence 2: \"violated the trust of customers...\" (impacts brand reputation and customer retention, key to long-term value)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"secretly filming nine women, including a 15-year-old girl\" (specific incident details and demographic data)\n• Evidence 2: \"44 videos...\" (quantitative evidence supporting the claim)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"A March 2025 study by Norma Mansor and Amjad Rabi from Universiti Malaya’s Social Wellbeing Research Centre, Food Affordability in Malaysia: When Markets and Money Decide What to Eat, stated that a significant portion of the population faced food insecurity despite relatively stable prices.\"\n• Evidence 2: \"The national Household Income and Expenditure Survey 2024 showed that the average monthly disposable income of Malaysians increased by 3.2% in last year\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The article does not mention Berjaya Food Berhad or its business operations, strategies, or financial performance.\"\n• Evidence 2: \"The focus is on food banks and NGOs, with no direct connection to the company’s strategic direction or market impact.\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The article provides comprehensive coverage of food bank operations, including specific programs (Mydin Prihatin, 448 Food Bank, Beacon Mart), donation processes, and beneficiary demographics.\"\n• Evidence 2: \"Detailed context is provided on food insecurity, income inequality, and government initiatives, supported by data from studies and surveys.\""
+  }
+}

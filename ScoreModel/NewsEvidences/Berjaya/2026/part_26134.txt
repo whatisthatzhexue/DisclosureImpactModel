@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"There is no credible evidence to support claims...\" (Saifuddin's statement)\n• Evidence 2: \"The report about his whereabouts... is not supported by credible proof\" (Saifuddin's statement)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text contains no mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The focus is on government anti-scandal measures, unrelated to the company's strategic direction or financial performance."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The NSRC will be reinforced with the inclusion of two additional agencies...\" (details on NSRC expansion)\n• Evidence 2: \"Currently, the NSRC is supported by personnel from the police...\" (context on operational structure)"
+  }
+}

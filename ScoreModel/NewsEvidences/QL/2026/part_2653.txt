@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In 4QFY25, QL Resources Bhd posted a lower net profit of RM93.9mn, bringing its full-year net profit to RM455.6mn.\" (specific, verifiable financial data)\n• Evidence 2: \"Carlsberg Brewery Malaysia Bhd reported an 8.7% YoY lower revenue... but a 7.5% YoY higher net profit...\" (balanced presentation of conflicting performance metrics)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL Resources Bhd... full-year net profit to RM455.6mn\" (direct company mention with financial performance impact)\n• Evidence 2: \"TWL Holdings Bhd... secured RM67.6mn in credit facilities... affordable housing project\" (connects to business operations and market positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"A slew of new products... lifted Farm Fresh Bhd net profit to a new record high... 15% YoY increase\" (contextualizes performance drivers)\n• Evidence 2: \"Genting Bhd net profit shrank... due to lower quarterly revenue... fell 12.4%\" (provides quantitative context for performance changes)"
+  }
+}

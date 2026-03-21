@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI made a slow start...\" (factual market movement)\n• Evidence 2: \"Apex Securities Research noted...\" (credible source cited with specific analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N sliding 36 sen...\" (direct company mention, but only stock price movement)\n• Evidence 2: \"Apex is turning bullish on stocks...\" (general market commentary, no specific strategic insights for F&N)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The key investor focus lies on...\" (context about market factors)\n• Evidence 2: \"Consumer stocks were on the retreat...\" (specific stock performance data, but limited analytical depth)"
+  }
+}

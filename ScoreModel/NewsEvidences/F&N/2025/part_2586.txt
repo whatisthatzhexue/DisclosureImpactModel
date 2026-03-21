@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N achieved record full-year revenue of RM5.25 billion, up 4.9 per cent from the financial year 2023 (FY2023)\" (verifiable financial data)\n• Evidence 2: \"The group operating profit for FY2024 increased by 10.4 per cent to RM709.5 million\" (specific, factual financial metrics)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Looking ahead to 2025, while we expect margins to remain tight...we are confident of making up for the extra expenditure by optimising our assets and operational efficiencies\" (direct link to strategic cost management)\n• Evidence 2: \"investing in a new dairy plant in Cambodia...and sterilised milk filling and packing in Pulau Indah\" (strategic expansion plans)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Currently, discussions with alternative sources are in progress...preparation for kicking off operations when the livestock arrive\" (contextual detail on project delays)\n• Evidence 2: \"record full-year revenue...boosted by higher domestic sales by Food & Beverages Malaysia...and exports to Cambodia\" (comprehensive financial performance context)"
+  }
+}

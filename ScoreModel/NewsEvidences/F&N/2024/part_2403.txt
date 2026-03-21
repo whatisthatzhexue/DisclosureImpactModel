@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI jumped 5.03 points higher to 1,670.68 at Friday's open\" (verifiable market data)\n• Evidence 2: \"Traders reassessed the rate cut...\" (cited source: Malacca Securities Research)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N jumping 78 sen to RM30.98\" (direct company mention and stock performance)\n• Evidence 2: \"data center projects will start materialising...\" (sector-level implications for potential business opportunities)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"ringgit... benefit sectors such as consumer, utilities...\" (contextual market impact analysis)\n• Evidence 2: \"Notable gainers...\" (specific stock price movements with quantitative data)"
+  }
+}

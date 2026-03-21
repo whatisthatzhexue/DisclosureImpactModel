@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Berjaya Rail Sdn Bhd (Berjaya Rail), which is eyeing the Kuala Lumpur-Singapore high-speed rail (KL-SG HSR) project, has joined the Malaysia Rail Industry Corporation (MARIC) as a new member.\" [Direct factual statement with source citation]\n• Evidence 2: \"MARIC consists of 50 key rail companies...\" [Specific detail about MARIC's structure, verifiable through public records]"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Berjaya Rail is committed to working closely with stakeholders such as MARIC to enhance and develop local rail industry capabilities.\" [Direct link to strategic business expansion]\n• Evidence 2: \"aligning with the national vision of becoming a leading rail hub in the region\" [Strategic alignment with national goals]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"MARIC has always been at the forefront of driving initiatives that strengthen the local rail industry\" [Context about MARIC's role, but lacks quantitative data]\n• Evidence 2: \"currently actively participating in the Request for Information (RFI) issued by MyHSR Corporation Sdn Bhd\" [Event-specific detail but no financial or market impact analysis]"
+  }
+}

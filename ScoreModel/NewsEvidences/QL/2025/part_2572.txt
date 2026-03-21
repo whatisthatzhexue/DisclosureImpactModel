@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Japan's Nikkei share average surged to another record high during morning trade on Thursday, as a rally in U.S. stocks overnight boosted investor sentiment.\" (verifiable data and factual reporting)\n• Evidence 2: \"Analysts expect Japanese shares to see further momentum as companies report earnings this month.\" (cited analyst perspective with specific rationale)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\" (company context provided, but no mention of QL Resources in the article)\n• Evidence 2: \"Japan's semiconductor-related shares marched higher...\" (topic unrelated to food and beverage sector or QL Resources' business operations)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Nikkei was up 0.83% to 42,179.84... It was the first time the benchmark index has crossed the 42,000-point mark.\" (specific numerical data and historical context)\n• Evidence 2: \"Analysts expect Japanese shares to see further momentum... potentially pushing the Nikkei as high as 42,600 or 42,700 points.\" (forward-looking analysis with quantitative projections)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable financial data (e.g., 'ringgit hit a high of 4.6630 against the US dollar') with no apparent bias.\n• Evidence 2: It reports on market indices and stock movements with specific numerical details (e.g., '30-stock index was down 4.06 points') and includes trading volume data (e.g., '4.6 billion shares, valued at RM3.73bil')."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a listed company, noting its stock price decline ('F&N lost 62 sen to RM30.50') and its impact on the broader market.\n• Evidence 2: It connects to the company's stock performance, which is relevant to investors' assessment of its market position and financial health."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The text includes detailed stock price movements, exchange rates, and trading volumes, providing quantitative context for market trends.\n• Evidence 2: While it covers multiple stocks and regional markets, it lacks analysis of underlying factors (e.g., business strategies, competitive positioning) that would deepen understanding of Fraser & Neave's strategic relevance."
+  }
+}

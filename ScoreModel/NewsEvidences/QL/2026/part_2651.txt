@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable data such as visitor numbers (1 million in 13 days, 28.2 million total) and specific details about the Expo's structure, including its five-year cycle and host country history.\n• Evidence 2: The text describes Malaysia's Pavilion with specific phases of its 'Smart Nation' roadmap, technologies (e.g., AR, QR payments), and showcased intellectual property, all presented in a factual, balanced tone without bias."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article does not mention QL Resources Berhad or any of its operations, business strategies, or financial performance.\n• Evidence 2: While Malaysia's Pavilion is discussed, there is no direct connection to QL Resources Berhad, which is a food and beverage company, nor any mention of its strategic initiatives or market position."
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: The article comprehensively covers the Expo's scope, including technological innovations (e.g., AI suitcase, hydrogen-powered vending machines), pavilion details (e.g., Malaysia's Smart Nation roadmap), and sustainability efforts (e.g., carbon-absorbing vending machines).\n• Evidence 2: It provides extensive context about the Expo's history, visitor statistics, and specific examples of technologies and collaborations (e.g., Fuji Electric and Coca-Cola's hydrogen-powered machine), demonstrating analytical depth and narrative completeness."
+  }
+}

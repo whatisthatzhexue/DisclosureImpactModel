@@ -1,0 +1,6 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {"score": 0, "justification": "• Evidence 1: No mention of Berjaya Food Berhad or any related financial, operational, or strategic information\n• Evidence 2: The text contains unrelated news headlines about politics, crime, and economics, with no verifiable data or sources tied to the company"},
+  "StrategicRelevance": {"score": 0, "justification": "• Evidence 1: No direct or indirect reference to Berjaya Food Berhad's business operations, market position, or financial performance\n• Evidence 2: The content focuses on regional politics and events, which have no connection to the company's strategic priorities or stakeholder needs"},
+  "Depth": {"score": 0, "justification": "• Evidence 1: No contextual details, background information, or analytical insights about Berjaya Food Berhad\n• Evidence 2: The text lacks quantitative data, market analysis, or forward-looking information relevant to the company"}
+}

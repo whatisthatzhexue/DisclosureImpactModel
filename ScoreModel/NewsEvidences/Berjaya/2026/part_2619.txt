@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Racing has always been about more than speed, it’s about discipline, focus and the pursuit of excellence.\" (quotes from Tunku Abdul Rahman)\n• Evidence 2: \"Tunku Abdul Rahman concluded the GT World Challenge Asia 2025 season as overall runner-up in the Pro-Am category\" (specific achievement cited)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The partnership with KFC Malaysia has been transformative for the JMR team\" (mentions a partnership but no direct link to Berjaya Food Berhad)\n• Evidence 2: \"KFC operator, QSR Brands’s chief executive officer...\" (no connection to company's business strategy or financial performance)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Some 200 students from... attended the event\" (specific attendance data)\n• Evidence 2: \"Competing alongside international drivers, Alex Sims and Jordan Love\" (context about team composition and international exposure)"
+  }
+}

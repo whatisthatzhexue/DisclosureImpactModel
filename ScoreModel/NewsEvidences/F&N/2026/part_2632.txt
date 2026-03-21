@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., FBM KLCI rose 0.17% to 1,614.14, turnover of RM1.56bil) and cites credible financial analysts (Malacca Securities, TA Research).\n• Evidence 2: The tone is balanced, presenting both bullish and bearish perspectives (e.g., \"range-bound\" vs. \"cautious trading\") without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd or its strategic initiatives, focusing instead on broader market trends and other companies (e.g., AuMas Resources, 99 Speed Mart).\n• Evidence 2: While consumer stocks (e.g., Carlsberg, F&N) are discussed, their performance is reported without direct linkage to Fraser & Neave's business strategies or financial implications."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article includes detailed market context (e.g., Fibonacci Retracement levels, technical analysis of FBM KLCI) and specific stock movements (e.g., Genting, Nestle), providing comprehensive coverage of the market environment.\n• Evidence 2: It references macroeconomic factors (e.g., US-China trade relations, Budget 2026) and analyst forecasts, offering analytical depth despite lacking direct focus on Fraser & Neave."
+  }
+}

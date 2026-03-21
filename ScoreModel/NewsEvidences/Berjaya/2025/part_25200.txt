@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Her Majesty Raja Zarith Sofiah... is set to deliver a special royal address\" (specific event details)\n• Evidence 2: \"Supported by corporate sponsors like PETRONAS, Berjaya Group and Star Media Group\" (verifiable sponsor list)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Berjaya Group\" is mentioned as a sponsor but no connection to company strategy or business performance\n• Evidence 2: No mention of Berjaya Food Berhad's operations, financials, or strategic priorities"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Over 40 international speakers will share insights...\" (event context)\n• Evidence 2: \"Aim to empower female leadership...\" (event objectives) but lacks analysis of Berjaya's potential involvement"
+  }
+}

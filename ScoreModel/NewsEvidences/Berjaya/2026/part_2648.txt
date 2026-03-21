@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Malaysia today achieved another milestone in the semiconductor industry with the inauguration of the Advanced Chip Testing Centre by Prime Minister Datuk Seri Anwar Ibrahim\" (specific event and official attribution)\n• Evidence 2: \"International and local partners involved include Arm, Synopsys, AWS, Keysight, Ansys, Cadence, Sicada, QES, Tekmark, DF Automation, IIT Madras, and Shenzhen Xinhou Research Centre\" (named stakeholders without verification, but plausible for a government-led initiative)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The centre will accelerate chip development cycles while reducing dependence on foreign testing facilities\" (general strategic benefit, no direct link to Berjaya Food Berhad)\n• Evidence 2: \"The Local Economy Development Policy (LED) has been introduced...\" (policy impact on broader economy, no connection to the company's strategic direction)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The facility will focus on... Advanced Chip Inspection, Test and Metrology Centre (AIM)...\" (detailed structure of the initiative)\n• Evidence 2: \"The Selangor Semiconductor Fund... targeting over RM100mil in capital\" (quantifiable financial commitment and specific goals)"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The edited image, which included the logo of the media portal Utusan Malaysia, has been found to be fake and has the potential to mislead the public.\" \n• Evidence 2: \"Utusan Malaysia has also denied publishing the report and clarified that it was a misuse of the newspaper’s name and logo\""
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of Berjaya Food Berhad or its business operations.\n• Evidence 2: The content focuses on MCMC's investigation into fake news, which is unrelated to the company's strategic direction or market position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The investigation is being conducted under Section 233 of the Communications and Multimedia Act 1998 (Act 588)\" provides legal context.\n• Evidence 2: \"MCMC urged the public to always verify the authenticity of information...\" adds broader societal context but lacks deeper analysis of implications for media or corporate reputation."
+  }
+}

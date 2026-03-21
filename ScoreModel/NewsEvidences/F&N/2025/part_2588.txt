@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI closed at its intraday low, down 14.96 points or 0.92% to 1,614.83\" (verifiable market data)\n• Evidence 2: \"Nestle fell the most, down 80 sen to RM95\" (specific stock price movements with numerical accuracy)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N added 42 sen to RM27\" (direct mention of the company, relevant to investors)\n• Evidence 2: \"Profit-taking activities remain widespread\" (impacts market sentiment, indirectly affecting company valuation)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Turnover was 3.59 billion shares valued at RM3.06bil\" (comprehensive market activity data)\n• Evidence 2: \"Elsewhere in the region... Kospi closed up 1.16%\" (contextual regional market comparisons)"
+  }
+}
