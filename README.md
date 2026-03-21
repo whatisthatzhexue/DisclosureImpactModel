@@ -27,7 +27,7 @@ This repository contains code and data for investigating corporate transparency 
 
 ## ScoreModel
 
-All models are `qwen3:8b` (Ollama, 32K context window). Two independent scoring pipelines share the same `ScoreModel/Prompt/` templates.
+All models are `qwen3:8b` (Ollama, 32K context window). Two independent scoring pipelines use templates in `ScoreModel/Prompt/`.
 
 ### Annual Report Scoring Pipeline
 
