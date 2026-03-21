@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Together with Mydin, the Unity Ministry had also identified and distributed Bakul Rahmah Mydin to 500 recipients in Selangor, Melaka and Johor,\" he said.\n• Evidence 2: \"Mydin has curated numerous promotions, activities and discounts for customers’ Chinese New Year celebrations.\""
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Mydin has collaborated with five ewallet companies... to ensure shoppers have a pleasant experience at its outlets.\" \n• Evidence 2: \"Mydin organised the Snap and Win competition that offered RM8,800 worth of vouchers...\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Mydin now stands tall with many other large malls in the country thanks to Malaysians,\" he said, adding that without the support of people of all races and backgrounds, they would not have made it this far...\" \n• Evidence 2: \"SPayLater, Abbott, Armor All... are strategic partners for the campaigns.\""
+  }
+}

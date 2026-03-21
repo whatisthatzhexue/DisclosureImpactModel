@@ -1,0 +1,95 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CGS International (CGSI) Research said it is still positive on Power Root’s local revenue growth...\" (credible source cited)\n• Evidence 2: \"The research house said it expected Power Root to only deliver a three-year compounded annual growth rate (CAGR) of 2%...\" (specific data with verifiable context)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Its Middle East sales were expected to stay flat...looks to cooperate with other distributors\" (strategic shift in distribution strategy)\n• Evidence 2: \"local revenue is expected to expand at a three-year CAGR of 8%...improved macroeconomic trends\" (direct link to strategic growth drivers)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"CGSI Research said the company had managed to lock in pricing for most of its raw materials till next March...\" (specific operational detail)\n• Evidence 2: \"maintained its 'hold' call for the stock with a lower target price...\" (market impact analysis with financial implications)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Power Root Bhd has been slapped with a lawsuit from Export-Import Bank of Malaysia Bhd for RM7.4mn over insurance claim payout dispute.\"\n• Evidence 2: \"Jentayu Sustainables Bhd said the Securities Commission Malaysia has denied the group’s bid...\""
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root Bhd... lawsuit... insurance claim payout dispute\" directly relates to financial risk management and strategic legal exposure.\n• Evidence 2: \"TechStore Bhd... fixed its IPO price...\" connects to market positioning and capital-raising strategies."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The public portion... oversubscribed by 73.2 times... 25,772 applications... RM924.6mn\" provides quantitative context for market reception.\n• Evidence 2: \"Gadang Holdings Bhd 2QFY25 net profit rose more than 5-fold...\" includes specific financial metrics but lacks analysis of underlying factors."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Power Root Bhd had inked a sale and purchase agreement with Ree Fong Agriculture Sdn Bhd for the acquisition of five lots of freehold agricultural land in Kulai, Johor, for a cash consideration of RM20.0mn.\" (specific transaction details with verifiable financial figures)\n• Evidence 2: \"SNS Network Technology Bhd has reported a five-fold rise in its 3QFY25 net profit...\" (quantifiable financial performance data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root Bhd...acquisition of five lots of freehold agricultural land...\" (direct company mention with potential strategic expansion implications)\n• Evidence 2: \"Mega First Corporation Bhd...secured a five-year extension to its 25-year concession...\" (indicates long-term project commitment, though not directly tied to Power Root)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"RM20.0mn\" and \"five lots of freehold agricultural land\" (specific transaction details but no contextual background)\n• Evidence 2: \"no mention of Power Root's prior strategy, market position, or future plans related to agricultural land acquisition\" (lack of analytical depth or stakeholder impact analysis)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, it said the purchase consideration...\"\n• Evidence 2: \"Estimated to be completed within three months...\""
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root Bhd had inked a sale and purchase agreement...\"\n• Evidence 2: \"RM1.99mil or 10% will serve as the deposit...\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"3,483,524 sq ft land was determined via a willing-buyer...\"\n• Evidence 2: \"RM17.99mil will be paid within the three months period\""
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Power Root Bhd has submitted the necessary documents to the Securities Commission of Malaysia for the Islamic Medium-Term Notes of up to RM500mn in nominal value to raise funds.\"\n• Evidence 2: \"Magni-Tech Industries Bhd reported a 36.4% increase in net profit to RM44.6mn for its 1QFY2025, from RM32.7mn a year earlier, on the back of higher revenue across its business segments.\"\n• Evidence 3: \"Euro Holdings Bhd said the High Court on Tuesday struck out the lawsuit filed by Surian Creation Sdn Bhd against the furniture maker...\""
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root Bhd has submitted...to raise funds.\"\n• Evidence 2: \"Solarvest Holdings Bhd has secured a RM113.3mn contract...\"\n• Evidence 3: \"Magni-Tech Industries Bhd reported a 36.4% increase in net profit...on the back of higher revenue across its business segments.\"\n• Evidence 4: \"OB Holdings Bhd...entered into an underwriting agreement...for its upcoming IPO...\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Power Root Bhd has submitted...to raise funds.\"\n• Evidence 2: \"Solarvest Holdings Bhd has secured a RM113.3mn contract...\"\n• Evidence 3: \"Magni-Tech Industries Bhd reported a 36.4% increase in net profit...on the back of higher revenue across its business segments.\"\n• Evidence 4: \"Wellcall Holdings Bhd is looking to acquire three parcels...for RM32mn.\"\n• Evidence 5: \"Hexza Corp Bhd...acquired 50,000 shares...for US$6.4mn (RM29.5mn), cash.\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Power Root Bhd's subsidiaries have successfully recovered trademark of its own 'Ah Huat' brand...\" (specific factual claim with no source cited)\n• Evidence 2: \"CTOS Digital Bhd posted a 25.6% YoY jump...\" (quantifiable data without citation)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Power Root Bhd's subsidiaries have successfully recovered trademark...\" (direct company mention with strategic implication for brand protection)\n• Evidence 2: \"Mobilia Holdings Bhd is planning to issue up to 218.8mn free warrants...\" (financial strategy relevant to shareholder value)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"...after reaching an amicable out-of-court settlement...\" (limited context on legal dispute background)\n• Evidence 2: \"Ireka Corp Bhd's subsidiary...facing legal action...\" (isolated incident without broader operational impact analysis)"
+  }
+}

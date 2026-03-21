@@ -1,0 +1,143 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"This will add additional water reserve margin...\" (verifiable data)\n• Evidence 2: \"Water reserve margin increased to 15.34%...\" (measurable data)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reduces risk to Klang region\" (regional impact)\n• Evidence 2: \"Engages with data centres\" (future growth)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Mitigates water supply impact\" (project context)\n• Evidence 2: \"250 million litres/day capacity\" (technical specs)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM331.7mn contract, RM42.5mn sale\" (financial details)\n• Evidence 2: \"Events presented factually\" (no bias)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"IJM's data center contract\" (strategic expansion)\n• Evidence 2: \"Northern Solar's IPO\" (growth funding)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"70% net profit increase\" (quantitative data)\n• Evidence 2: \"US customer orders\" (business drivers)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Water reserve margin increased to 15.34%...\" (measurable data)\n• Evidence 2: \"162ha Cyberjaya Lake Gardens\" (verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct link to Berjaya Food\" (no company reference)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Floating islands clean water\" (technical explanation)\n• Evidence 2: \"Environmental education\" (project goals)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM700mil sale approved\" (transaction details)\n• Evidence 2: \"Energy Commission approval\" (regulatory source)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RM700mil sale\" (financial impact)\n• Evidence, 2: \"Conditions fulfilled\" (milestone completion)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"RM700mil sale to Naza Corp\" (quantitative detail)\n• Evidence 2: \"Purchase consideration settled\" (transaction mechanics)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Health Ministry report: 81% suicide increase\" (verifiable data)\n• Evidence 2: \"NHMS 2022 shows increase\" (survey stats)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"University of Cyberjaya initiative\" (no company reference)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Suicide attrition project\" (objective explanation)\n• Evidence 2: \"Workshop participants receive certificates\" (event logistics)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM331.7mn contract, RM42.5mn sale\" (financial details)\n• Evidence 2: \"Events presented factually\" (no bias)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"IJM's data center contract\" (strategic expansion)\n• Evidence 2: \"Northern Solar's IPO\" (growth funding)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"70% net profit increase\" (quantitative data)\n• Evidence 2: \"US customer orders\" (business drivers)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Water reserve margin increased to 15.34%...\" (measurable data)\n• Evidence 2: \"162ha Cyberjaya Lake Gardens\" (verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct link to Berjaya Food\" (no company reference)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Floating islands clean water\" (technical explanation)\n• Evidence 2: \"Environmental education\" (project goals)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM700mil sale approved\" (transaction details)\n• Evidence 2: \"Energy Commission approval\" (regulatory source)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RM700mil sale\" (financial impact)\n• Evidence, 2: \"Conditions fulfilled\" (milestone completion)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"RM700mil sale to Naza Corp\" (quantitative detail)\n• Evidence 2: \"Purchase consideration settled\" (transaction mechanics)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Health Ministry report: 81% suicide increase\" (verifiable data)\n• Evidence 2: \"NHMS 2022 shows increase\" (survey stats)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"University of Cyberjaya initiative\" (no company reference)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Suicide attrition project\" (objective explanation)\n• Evidence 2: \"Workshop participants receive certificates\" (event logistics)"
+  }
+}

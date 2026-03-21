@@ -32,7 +32,7 @@ def read_csv(path: Path) -> dict[tuple[str, str], dict]:
     result = {}
     with open(path, encoding="utf-8", newline="") as f:
         for row in csv.DictReader(f):
-            key = (row["Company"], row["Year"])
+            key = (row["Company"], row["FiscalYear"])
             result[key] = row
     return result
 

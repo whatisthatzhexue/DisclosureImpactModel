@@ -38,10 +38,11 @@ def read_csv(path: Path) -> dict[tuple[str, str], dict]:
 def main() -> None:
     if len(sys.argv) < 3:
         print("Usage: python news_step4_merge_scores.py <csv1> <csv2> [output.csv]")
-        sys.exit(1)
-
-    csv1_path = Path(sys.argv[1])
-    csv2_path = Path(sys.argv[2])
+        csv1_path = input("Input the 1st CSV:")
+        csv2_path = input("Input the 2nd CSV:")
+    else:
+        csv1_path = Path(sys.argv[1])
+        csv2_path = Path(sys.argv[2])
     out_path = (
         Path(sys.argv[3]) if len(sys.argv) > 3
         else Path(__file__).parent / "news_scores_merged.csv"
@@ -52,7 +53,7 @@ def main() -> None:
 
     all_keys = sorted(set(data1) | set(data2))
 
-    label_row = ["", "", "第一次打分", "", "", "", "第二次打分", "", "", ""]
+    label_row = ["", "", "1st Scores", "", "", "", "2nd Scores", "", "", ""]
     field_row = ["Company", "FiscalYear"] + SCORE_COLS + SCORE_COLS
 
     with open(out_path, "w", encoding="utf-8", newline="") as f:

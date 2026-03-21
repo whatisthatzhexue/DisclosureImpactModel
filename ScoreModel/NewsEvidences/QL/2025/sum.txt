@@ -1,0 +1,1652 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our neurodivergent employees have made significant contributions...\" (direct quote from Low Choy Huat, EY Malaysia leader)\n• Evidence 2: \"Low’s views do not necessarily reflect those of the global EY organisation...\" (explicit disclaimer ensuring balanced reporting)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"companies like PETRONAS...are beginning to recognise the value of neurodivergent employees\" (mentions relevant firms but no direct link to QL Resources)\n• Evidence 2: \"Creating an environment where autistic employees can thrive is just as crucial\" (general statement about workplace strategy, not tied to QL Resources' specific operations)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"additional monitor screens has helped autistic employees reduce cognitive load...\" (specific workplace adjustment example)\n• Evidence 2: \"neurodiverse individuals are generally more authentic in sharing their thoughts...\" (detailed analysis of neurodivergent strengths)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Since we're celebrating our 75th anniversary this year...\" (direct quote from Melissa Menta, credible source)\n• Evidence 2: \"Nowadays, Snoopy is recognised by between 80-90 percent...\" (specific data from Deloitte consultancy, verifiable)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: No direct mention of QL Resources Berhad or any food/beverage business activities\n• Evidence 2: Content focuses on Peanuts' cultural impact and fashion collaborations, unrelated to corporate strategy or financial performance"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The exhibition is at its most interesting in explaining how designer collaborations...\" (comprehensive historical context)\n• Evidence 2: \"Licensing agreements come with strict conditions...\" (specific details about commercialization strategies)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Retail trade grew 8.2% year-on-year in January 2025 reflecting a positive start to the year.\" (specific, verifiable data)\n• Evidence 2: \"unemployment rate unchanged at 3.1%\" and \"labour force participation rate steady at 70.6%\" (citing credible macroeconomic indicators)\n• Evidence 3: \"international arrivals soared by one-quarter to 25 million\" (quantifiable, verifiable statistic)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Family Mart, operated by QL Resources Bhd is set to capture the growing demand for grab-and-go meals...\" (direct company mention and strategic positioning)\n• Evidence 2: \"factors such as higher civil servant salaries... will further support retail activity\" (linking policy changes to company-specific market opportunities)\n• Evidence 3: \"tourism recovery... will further support retail activity\" (connecting sector-wide trends to company-specific strategic relevance)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"growth was driven by higher spending on food, beverages and tobacco and non-specialised stores\" (contextual explanation of growth drivers)\n• Evidence 2: \"upcoming Aidilfitri, combined with a recovery in tourism...\" (analyzing multiple factors influencing retail activity)\n• Evidence 3: \"international arrivals soared by one-quarter to 25 million\" (quantitative context for tourism impact analysis)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The number of cyberattacks... 2023. And that’s in Malaysia alone.\" (verifiable data on cyberattack growth)\n• Evidence 2: \"Cyber Security Malaysia (CSM) chief executive officer Datuk Dr Amirudin Abdul Wahab...\" (cited credible source with official title)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"Malaysia needs a 25,000-strong cybersecurity workforce...\" (indirectly relevant to national cybersecurity strategy, but no direct link to QL Resources)\n• Evidence 2: \"The Malaysia Cybersecurity Strategy 2020-2024...\" (general policy context, no company-specific strategic connection)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The main job of an ethical hacker... immersive, real-world simulations.\" (detailed explanation of ethical hacking roles and education)\n• Evidence 2: \"AI can also be used to find counter-measures...\" (specific examples of emerging technologies in cybersecurity)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The 1,001 Arabian Nights\" folktales\" (exact quote)\n• Evidence 2: \"RM248nett per adult and RM124nett per child or senior citizen\" (exact quote)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: No direct mention of QL Resources Berhad or its strategic initiatives\n• Evidence 2: Focus on event promotion rather than business performance factors or market impact"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The range continues with international as well as local favourites, abundant seafood on ice and vibrant salads\" (detailed menu description)\n• Evidence 2: \"The journey continues with The Storyteller’s Trove... until April 6\" (event timeline context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 4,
+    "justification": "• Evidence 1: \"The comments above do not represent a recommendation to buy or sell.\" (Acknowledges lack of investment advice)\n• Evidence 2: Technical indicators (SMA, RSI, MACD) are mentioned without source citations, limiting factual verification"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources Bhd bounced back yesterday to remain above the 50-day SMA line.\" (Mentions company name but focuses on technical analysis)\n• Evidence 2: No discussion of business strategies, market position, or long-term value creation for QL Resources Berhad"
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The share looks likely to idle below the resistance of RM4.90\" (Specific technical detail)\n• Evidence 2: Lacks background context about QL Resources Berhad's operations, financials, or industry position beyond stock price analysis"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Dr IndraWith the support of Mah Sing Foundation, the project has successfully addressed learning poverty, benefiting some 500 pupils nationwide.\" (specific data but no third-party verification)\n• Evidence 2: \"Hani Nuraini Zaini, a Taylor’s University student...\" (direct quotes from participants but no institutional citations)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\" (company context unrelated to article content)\n• Evidence 2: \"The journey of these volunteers exemplifies how education...\" (focus on social impact, not business strategy or financial performance)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Volunteers will be paired with a child...\" (detailed program structure and requirements)\n• Evidence 2: \"Dr Indra Pathmanthan... introduced exercise breaks...\" (specific examples of program implementation and outcomes)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Bursa Malaysia rebounded after a shaky start... concerns mounted over Trump's trade tariffs.\" (verifiable market event)\n• Evidence 2: \"We expect the index to trend within the 1,565-1,575 range\" (specific data from Rakuten Trade analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources shaved five sen to RM4.66\" (direct company mention but no strategic context)\n• Evidence 2: No discussion of QL Resources' business performance, competitive position, or long-term value creation factors"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The FBM KLCI opened 1.76 points lower... up 6.97 points to 1,575\" (specific numerical data)\n• Evidence 2: Limited analysis of market drivers, with no background on QL Resources' operations or industry context"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM550mil allocation for tourism promotion in Budget 2025\" (verifiable fiscal data)\n• Evidence 2: \"MIDF Research\" cited as source for economic analysis (credible institutional source)"
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"convenience stores like Family Mart which are operated by QL Resources Bhd\" (direct company mention)\n• Evidence 2: \"benefit from heightened demand for on-the-go meals...\" (strategic business impact analysis)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM764.9bil in 2024... up from RM720.8bil in the previous year\" (comprehensive economic context)\n• Evidence 2: \"unemployment rate dropped to 3.1%... labour force participation rate edged up to 70.6%\" (multi-dimensional economic analysis)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"vacant possession handovers ongoing since Nov 7, 2024\" (specific date with no contradictory claims)\n• Evidence 2: \"launched in 2020, and the first sales and purchase agreement was signed in September 2020\" (timely data with no verification cited)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"low-density condominium features 11 types of layouts and has a gross development value of RM261mil\" (financial implications for business performance)\n• Evidence 2: \"commitment to sustainability\" (long-term value creation and market differentiation)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"earned an impressive 85% score in the Quality Assessment System in Construction (QLASSIC)\" (specific metric with limited contextual explanation)\n• Evidence 2: \"271 homeowners highlighted the project’s modern minimalist aesthetics\" (user feedback but no broader market analysis)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"three sources familiar with the matter said\" (verifiable sources cited)\n• Evidence 2: \"Counterpoint said\" (third-party research group cited for market share data)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"aiming to mirror a retail approach that helped Apple Inc rake in billions\" (direct connection to strategic competitive positioning)\n• Evidence 2: \"Google's plan to open the stores is firm and will be executed soon\" (strategic execution timeline relevant to long-term value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Pixel phones in India cost from about $370 to $2,000... Apple's iPhones cost from about $520-$2,130\" (comparative pricing data)\n• Evidence 2: \"India has about 712 million smartphone users\" (contextual market size information)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Established by UNHCR in 2020\" (verifiable historical data)\n• Evidence 2: \"For each T-shirt... RM14.40\" (specific financial contribution metric)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No direct mention of QL Resources Berhad or its business operations\"\n• Evidence 2: \"Focus on UNHCR and Uniqlo collaboration unrelated to food/beverage industry\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Detailed descriptions of 5 winning artworks with artist backgrounds and symbolism\"\n• Evidence 2: \"Context about refugee challenges in Malaysia (187,000 refugees) and donation mechanism\""
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 7, "justification": "• Evidence 1: \"If your Raya outfit is really elaborate, keep it simple with the accessories,\" says Eva Woon...\" (quotes from founders, no external sources cited)\n• Evidence 2: \"The more soft and subtle take on Raya fashion is a great canvas for statement minimalist pendants...\" (balanced tone, no fabrication)"},
+  "StrategicRelevance": {"score": 1, "justification": "• Evidence 1: No direct mention of QL Resources Berhad or food/beverage business operations\n• Evidence 2: Focus on jewellery trends unrelated to the company's strategic direction or market impact"},
+  "Depth": {"score": 8, "justification": "• Evidence 1: \"We have always believed that Raya is a great opportunity to flaunt your ring stacking game...\" (detailed consumer insights)\n• Evidence 2: \"Classic golds and silvers are positioned to dominate the colour palette...\" (comprehensive trend analysis with specific examples)"}
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL’s net profit in its recently reported third quarter ended Dec 31, 2023 rose year-on-year (y-o-y) by 27.2% to RM123.62mil. This is on the back of revenues for the said quarter rising y-o-y by some 5.1% to RM1.71bil.\" (verifiable financial data)\n• Evidence 2: \"Our FY24 earnings estimates are lowered by 4%... but resilient demand and added capacity will be the driving force...\" (balanced tone with factual context)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the new plant will start to positively contribute to group earnings from financial year 2025 (FY25) onwards... to hit its full capacity\" (directly ties to strategic growth plans)\n• Evidence 2: \"dividend per share estimates are raised to seven sen per year...\" (connects to long-term shareholder value and capital allocation strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL aims to reach circa 396 stores by end-FY24 and targets the Northern and East Coast regions... targeting 600 stores by FY27\" (specific expansion targets and regional focus)\n• Evidence 2: \"slight negative impact from recent calls to boycott... coupled with the Ramadan period\" (contextualizes sales challenges with external factors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Satya Nadella, CEO of Microsoft, praised his 'curiosity and craftsmanship'\"\n• Evidence 2: \"Alex Stamos, the chief trust officer at SentinelOne, a cybersecurity research firm.\""
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\"\n• Evidence 2: \"The vast majority of the world’s servers...run on Linux, which makes its security a matter of global importance.\""
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The code, known as a backdoor, would allow its creator to hijack a user’s SSH connection and secretly run their own code on that user’s machine.\"\n• Evidence 2: \"This could have been the most widespread and effective backdoor ever planted in any software product,\" said Alex Stamos."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a trademark infringement lawsuit filed in Los Angeles federal court, Coach and its parent, Tapestry, said they never gave Gap permission to sell the T-shirts...\" (verifiable legal action details)\n• Evidence 2: \"Gap, based in San Francisco, declined to comment...\" (neutral citation of defendant's stance)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Coach is seeking unspecified damages...\" (direct financial impact on company's strategic position)\n• Evidence 2: \"Many luxury retailers file lawsuits...\" (contextualizes litigation as a common industry practice)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Coach was founded in 1941\" (historical context)\n• Evidence 2: \"The case is Tapestry Inc et al v Gap Inc...\" (specific legal reference and jurisdiction)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 6,
+    "justification": "• Evidence 1: The article cites direct quotes from industry founders (e.g., Wendy Lim, Eva Woon) which provide firsthand perspectives, enhancing credibility.\n• Evidence 2: While the text avoids fabrication, it lacks verifiable data or statistics to substantiate claims about market trends or consumer behavior."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text focuses on jewelry industry trends and brand strategies, with no mention of QL Resources Berhad or its business operations.\n• Evidence 2: The article does not connect to financial performance, competitive positioning, or strategic priorities of a food and beverage company."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text provides comprehensive coverage of jewelry market shifts, including sustainability practices, craftsmanship, and consumer values, with detailed examples (e.g., small-batch production, material sourcing).\n• Evidence 2: It includes nuanced analysis of customer motivations and brand differentiation, supported by quotes from multiple stakeholders."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI extended its gains... 1,598.2\" (specific numerical data)\n• Evidence 2: \"Trading volume on Bursa Malaysia was 1.72 billion shares...\" (verifiable market data)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"QL Resources gained six sen to RM4.67\" (direct company mention)\n• Evidence 2: \"The rally... led by financial heavyweights\" (general market context, no strategic insight)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The index has risen above the 50-day simple moving average...\" (technical context)\n• Evidence 2: \"Regional markets were mixed...\" (broader market analysis, but no company-specific depth)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Google has removed a pledge from its artificial intelligence (AI) principles...\" (verifiable factual claim about policy change)\n• Evidence 2: \"James Manyika and Demis Hassabis... said the company needed to update its AI principles\" (direct quotes from credible sources)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of QL Resources Berhad or any food/beverage company operations\n• Evidence 2: The content focuses exclusively on Google's AI policies, which are unrelated to the company context provided"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The technology giant has rewritten the principles...\" (contextual background on policy changes)\n• Evidence 2: \"Previous international summits... no binding international law on the issue is yet in place\" (analytical depth on regulatory landscape)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites verifiable data such as \"Tencent’s revenue grew 56%\" and \"Didi raised nearly US$10bil (RM45bil) in funding\".\n• Evidence 2: It references credible sources like the New York Times and quotes an anonymous investor’s statement about fund allocations, though lacks direct citations for all claims."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text does not mention QL Resources Berhad or any food/beverage company.\n• Evidence 2: The focus is entirely on Chinese internet companies, their geopolitical challenges, and market dynamics, which are unrelated to the company context provided."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides comprehensive historical context (e.g., Alibaba’s 2014 IPO, Didi’s Uber takeover) and detailed analysis of China’s tech industry challenges.\n• Evidence 2: It includes data on user growth (e.g., RedNote’s 300M users), economic trends, and regulatory impacts, offering nuanced insights into the sector’s evolution."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Companies under our coverage that could be affected are Nestle (M) Bhd , Farm Fresh Bhd and Dutch Lady Milk Industries Bhd.\" (BIMB Securities Research explicitly names companies, indicating credible sourcing)\n• Evidence 2: \"However, our in-house economics team forecasts a strengthening ringgit...\" (Internal analysis by the research house is cited, showing methodological transparency)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL Resources Bhd\" is directly mentioned as a company expected to benefit from the ringgit strengthening, linking to its financial performance (specific company mention)\n• Evidence 2: \"the increase in the country’s minimum wage...possibility of employers having to make EPF contributions for foreign workers\" (Factors directly impacting operational costs and labor strategy)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"commodity prices for ingredients for powdered cocoa, coffee and milk are currently on an uptrend...stabilised from their all-time highs caused by the Ukraine-Russia war\" (Contextual background on market forces)\n• Evidence 2: \"inflation to remain stable of 2.7%...only the high-come T15 group are expected to pay the floating price\" (Data on inflation and pricing mechanisms, though limited to macro-level analysis)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Samsung appears to only be getting started with this buzzword on TVs\" (verifiable factual claim about Samsung's AI integration)\n• Evidence 2: \"dpa/Tribune News Service\" (credible source citation for the article's information)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Samsung is installing the Windows company's Copilot AI assistant on TVs\" (direct mention of strategic AI integration)\n• Evidence 2: \"The Frame Pro... Art Store\" (product innovation relevant to Samsung's competitive positioning in the TV market)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Images with lower resolutions are upscaled to 8K quality... optimise colour reproduction\" (technical details supporting product claims)\n• Evidence 2: \"AI will make TVs more interactive and at the same time more tailored to the viewer\" (analysis of feature impact, though limited to descriptive rather than predictive insight)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The first AI-powered televisions from South Korea are being showcased at the Consumer Electronics Show (CES)\" [verifiable event and source].\n• Evidence 2: \"Samsung and LG are causing a stir with the unveiling of their first AI-enhanced TV sets\" [specific companies and products cited]."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia\" [no mention of the company in the text].\n• Evidence 2: \"The biggest TV vendors are embracing this technology\" [no connection to QL Resources' strategic direction or business impact]."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"AI enables content viewing to be optimized thanks to upscaling... and the automatic adjustment of HDR levels\" [detailed technical explanation].\n• Evidence 2: \"AI can even automatically translate what is said on-screen... or find the recipe for a dish featured in a show\" [comprehensive coverage of AI capabilities]."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Venk Modur, a celebrity stylist told Women’s Wear Daily.\" (credible source citation)\n• Evidence 2: \"Malaysian designer Hatta Dolmat was quoted by Bernama as saying...\" (specific, attributed source)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company...\" (company context provided, but article focuses on unrelated fashion trend)\n• Evidence 2: \"No direct company mention\" (no connection to QL Resources Berhad's strategic direction or business performance)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The belief is that, as the idiom goes, 'money screams and wealth whispers'\" (analytical insight with cultural context)\n• Evidence 2: \"Mid-market labels are quick to capitalise on the quiet luxury craze...\" (detailed market analysis with industry examples)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"First of all, there were few sellers as most investors who wanted to sell stocks have already completed the sell-off. And Japanese stocks seem cheap relative to U.S. stocks, so some adjusted their positions,\" said Jun Morita, general manager of the research department at Chibagin Asset Management.\n• Evidence 2: The article cites Reuters as the source and provides verifiable data (e.g., Nikkei rose 1.28% to 40,074.56) with balanced analysis from multiple analysts."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no mention of QL Resources Berhad or any food and beverage industry developments.\n• Evidence 2: The focus is solely on Japan's stock market, Toyota's financial targets, and broader economic factors unrelated to the company's strategic direction or business performance."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of market trends, including specific stock movements (e.g., Toyota up 2.1%, Sony up 1.73%) and industry sub-index performance.\n• Evidence 2: It includes analyst insights, historical context (e.g., Nikkei crossing 40,000 level since Dec. 12), and data on trading volumes (76% of stocks rose, 20% fell)."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Databricks Inc is raising US$10bil in new funding, a massive cash injection that will take the software maker’s valuation to US$62bil.\" (specific financial figures)\n• Evidence 2: \"These guys are execution machines. They are ready to be a public company,\" Thrive Capital partner Vince Hankes said. (direct quote from credible source)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"intends to invest this capital towards new artificial intelligence (AI) products, acquisitions and significant expansion of its international go-to-market operations\" (directly ties to strategic direction)\n• Evidence 2: \"Maintaining that clip of growth means expanding Databricks’ go-to-market operation and engineering talent\" (connects to long-term value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Databricks SQL, hit a US$600mil revenue run-rate, with growth above 150% annually\" (specific financial data)\n• Evidence 2: \"More than 500 customers are on track to spend more than US$1mil a year on Databricks’ platform\" (contextualizes market position)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CGS International (CGSI ) Research in a report said the removal of the egg subsidies could impact the group’s expansion plans.\" (Credible source cited)\n• Evidence 2: \"The Agriculture and Food Security minister... confirmed that the government was reviewing...\" (Government confirmation adds factual basis)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources’ pretax margins could ease by 0.4%... in FY26\" (Direct financial impact on strategic operations)\n• Evidence 2: \"CGSI Research downgraded the stock to a 'reduce' call... due to its current rich valuation\" (Strategic investment implications for stakeholders)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"RM100mil per month\" (Quantifiable data on subsidy cost)\n• Evidence 2: \"Civil servant salary increases... inbound and domestic tourism...\" (Contextual macroeconomic analysis)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"It said in filing with Bursa Malaysia the acquisition was an opportunity...\" (verifiable source cited)\n• Evidence 2: \"The board also believes...\" (direct quote from company statement, balanced tone)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"accumulate strategic land for property development purposes\" (direct link to company strategy)\n• Evidence 2: \"contribute positively to the group’s future earnings...sustainable growth\" (financial implications and long-term value creation)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"11,025 sqm of freehold land...RM23mil\" (specific quantitative details)\n• Evidence 2: Lacks contextual background on company's land acquisition history, market position, or competitive landscape analysis"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In the absence of any aggressive selling from foreign funds, we expect the index to possibly hover within the 1,615-1,625 range today...\" (Rakuten Trade's analysis provides a factual outlook with verifiable market data).\n• Evidence 2: Specific stock prices and indices (e.g., \"Dow Jones Industrial Average rose 0.69% to 45,014.44\") are quantified and align with public financial market data."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: Direct mention of QL Resources Berhad with a stock price increase (\"QL Resources added four sen to RM4.87\").\n• Evidence 2: No connection to the company's strategic direction, competitive position, or long-term value creation; focus remains on market trends rather than business-specific analysis."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides basic stock price data and market context (e.g., \"FBM KLCI was up 2.05 points to 1,616.14\").\n• Evidence 2: Lacks background on QL Resources' operations, financial performance, or industry-specific factors influencing its stock movement."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL Resources Bhd remains cautiously optimistic...\" (balanced tone with acknowledged risks)\n• Evidence 2: \"...posted a 4.6% higher net profit of RM128.3mil...\" (specific verifiable financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The continued egg cost subsidy...will support satisfactory business results\" (direct link to strategic factors affecting operations)\n• Evidence 2: \"...expected US trade protectionism...US-China trade war...\" (contextualizes external risks to business strategy)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"...revenue grew 6.2% to RM3.5bil\" (specific financial metrics)\n• Evidence 2: \"...for the first half, its net profit rose 9.4%...\" (time-series data but lacks contextual analysis of growth drivers)"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The FBM KLCI finished lower on Thursday, hovering just above the 1,600 level as investor sentiment remained cautious amidst mixed market conditions.\" (verifiable market data)\n• Evidence 2: \"Foreign investors and retailers disposed of RM47mil and RM27mil of local equities, respectively, yesterday.\" (specific financial figures from Bursa Malaysia)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"QL climbed three sen to RM4.88.\" (direct company mention, but no strategic context)\n• Evidence 2: \"Data from Bursa Malaysia showed...\" (general market activity, not tied to QL's strategic direction)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The market traded within a range of 17.2 points, between an intra-day high of 1,615.84 and a low of 1,598.64 during the session.\" (comprehensive market context)\n• Evidence 2: \"Key winners... QL climbed three sen to RM4.88.\" (specific stock movement with quantitative data)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QLASSIC awards at QUEST 2024 organised by Construction Industry Development Board (CIDB) Malaysia\" [verifiable event and credible source]\n• Evidence 2: \"This recognition highlights KTI’s continuous efforts...\" [direct quote from Datuk Gordon Loke, credible source]"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"leveraged the industrial building system (IBS) technique to improve the speed and precision of the construction process\" [demonstrates strategic innovation in construction methods]\n• Evidence 2: \"developing other landmark projects such as The Logg and Ayuria Place\" [shows long-term development strategy]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"811 double-storey house units starting from RM250,000... 168-acre site\" [quantitative details about project scale and pricing]\n• Evidence 2: \"reduction of labour and material wastage... improved safety\" [specific data supporting sustainability claims]"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 8, "justification": "• Evidence 1: Headlines reference credible entities like MACC, Perhilitan, and government agencies, indicating factual accuracy.\n• Evidence 2: News items include verifiable events (e.g., arrests, natural disasters) with no apparent bias or fabrication."},
+  "StrategicRelevance": {"score": 0, "justification": "• Evidence 1: No mention of QL Resources Berhad or related business activities, financials, or market positioning.\n• Evidence 2: Headlines focus on geopolitical, social, and cultural events unrelated to the company's operations or strategic direction."},
+  "Depth": {"score": 0, "justification": "• Evidence 1: Headlines lack contextual details, data, or analysis to support claims about the company or its industry.\n• Evidence 2: No background information, financial metrics, or stakeholder insights related to QL Resources Berhad are provided."}
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"A 35-year-old male manager is suspected of inserting his smartphone under the curtain or door of the fitting rooms...\" (verifiable details from police report)\n• Evidence 2: \"Fast Retailing... apologised for the distress caused...\" (direct quote from company statement)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The group vowed to review store facilities including security cameras...\" (directly ties to operational strategy and risk management)\n• Evidence 2: \"violated the trust of customers...\" (impacts brand reputation and customer retention, key to long-term value)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"secretly filming nine women, including a 15-year-old girl\" (specific incident details and demographic data)\n• Evidence 2: \"44 videos...\" (quantitative evidence supporting the claim)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"WCT Malls has established itself as a key player in the retail landscape...\" (verifiable factual statement about company position)\n• Evidence 2: \"VBS has since attracted over 400 participating tenants...\" (specific, measurable data point)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"revamped VBS from a short-term response into a long-term strategic asset\" (direct link to company strategy)\n• Evidence 2: \"co-funding the 20% discount vouchers\" (strategic partnership impact on financials)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"generated over RM42mil in transactions\" (quantitative evidence supporting claims)\n• Evidence 2: \"stackable savings which allows shoppers unparalleled flexibility\" (detailed explanation of initiative mechanics)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MIDF Research said in a report yesterday.\" (cites a credible source)\n• Evidence 2: \"The impact on costs... remains limited.\" (specific analysis with verifiable context about sugar tax)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources Bhd... downgraded to a 'neutral' from a 'buy'\" (direct company mention and strategic rating change)\n• Evidence 2: \"strategic entry into integrated dairy farming... diversify and enhance revenue streams\" (connects to company's strategic direction)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The substantial increase aims to provide critical financial assistance... 85% of Malaysians\" (quantifiable data and context)\n• Evidence 2: \"proactive approach... align their products with evolving consumer preferences\" (detailed analysis of industry adaptation)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"According to TA Research...\" (cites credible source and provides verifiable data on subsidy reductions)\n• Evidence 2: \"We believe that the current lower feed costs...\" (balanced analysis with factual context about market dynamics)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources Bhd are likely to benefit...\" (direct company mention and ties to competitive positioning)\n• Evidence 2: \"Our DCF analysis is based on QL’s resilient earnings growth...\" (connects to financial implications and stakeholder value)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The research house recommends accumulating Leong Hup shares...\" (comprehensive coverage of market impact and strategic recommendations)\n• Evidence 2: \"Our findings indicate that current production costs are below the ceiling price...\" (analytical depth with data-driven insights)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Malaysian stock market remained positive at midday\" [verifiable market data]\n• Evidence 2: \"FBM KLCI was up 4.93 points to 1,637.56\" [specific numerical data with context]"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources rose four sen to RM4.74\" [only mentions stock price movement, no strategic context]\n• Evidence 2: \"Consumer and telcos were laggard sectors\" [sector performance, no direct link to QL Resources' strategy]"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"1.53 billion shares changed hands for a value of RM1.03bil\" [market activity data]\n• Evidence 2: \"Asia markets were mostly higher...\" [broader context but lacks analysis of QL Resources' specific factors]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fast Retailing Co is aiming for higher sales in the 2025 fiscal year\" [specific target]\n• Evidence 2: \"operating profit for the year started Sept 1 to be 530 billion yen... higher than the 514.95 billion yen estimated by analysts\" [verifiable financial data]"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"expansion into newer markets in the West helped... offset a slowdown in China\" [strategic geographic focus]\n• Evidence 2: \"close under-performing stores and revamp bigger and better-located ones to drive sales in the country\" [direct strategic action plan]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Sales in China... declined in the past two quarters\" [contextual market performance]\n• Evidence 2: \"stronger-than-expected fourth-quarter results, boosted by robust growth in revenue and profit from its business across North America, Europe and countries across the Asia-Pacific\" [comprehensive regional performance breakdown]"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"RM100mil a month\" (specific, verifiable figure)\n• Evidence 2: \"Prime Minister Datuk Seri Anwar Ibrahim announced new retail prices\" (official source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL Resources Bhd... was up marginally by 0.21%\" (direct company mention)\n• Evidence 2: \"minimal impact on earnings\" (financial implication for stakeholders)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"ceiling prices for sugar are still in place... since 2013\" (contextual background)\n• Evidence 2: \"small farms cannot survive... Let the market decide\" (analytical depth on industry impact)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites Reuters as the source, a credible news organization.\n• Evidence 2: It provides verifiable data such as stock percentage changes (e.g., 'Nikkei climbed 0.87%') and specific company actions (e.g., 'Seven & i confirmed it had received a revised offer')."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article does not mention QL Resources Berhad or its strategic activities, focusing instead on Japanese companies like Seven & i Holdings and Fast Retailing.\n• Evidence 2: While it discusses market trends affecting retailers, it lacks direct ties to QL Resources' operations, financials, or competitive positioning."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of market movements, including sector-specific performance (e.g., 'chip sector and other high-tech names making up four of the top five points gainers').\n• Evidence 2: It includes detailed context such as analyst forecasts ('Nomura raised its year-end forecast...') and specific company actions (e.g., 'Fast Retailing, which rose 1.14%...')."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The seventh phase...completion of the building's structural stage.\" [Exact quote confirming project milestone]\n• Evidence 2: \"Edelweiss will receive a GreenRE Silver rating certification\" [Specific certification claim with credible partner mention]"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Aligned with our ESG pillars...long-term partner, GreenRE.\" [Direct link to strategic ESG goals]\n• Evidence 2: \"Tropicana Gardens...best TOD by the FIABCI Malaysia Property Award 2023\" [Strategic positioning through industry recognition]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Residential component...60% take-up\" [Quantifiable data supporting claims]\n• Evidence 2: \"Quality Assessment System in Construction (QLASSIC)...certification body\" [Context about quality assurance processes]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MIDF Research, which has upgraded the consumer stocks in its base to 'positive' from 'neutral'\" (verifiable source and factual accuracy)\n• Evidence 2: \"total receipts surpassing pre-pandemic levels, reaching RM45.4bil in the first-half of 2024 compared to RM41.7bil in the same period in 2019\" (specific data with verifiable context)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources Bhd with a target price of RM4.83\" (direct company mention and strategic valuation)\n• Evidence 2: \"the strengthening ringgit will provide a buffer against elevated commodity prices... benefiting F&B and poultry players\" (connects to company's cost structure and competitive positioning)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"recent data showing July 2024 retail sales spending rising 6.6% to RM63.5bil... cumulative seven-month spending growing to RM440.8bil\" (comprehensive data on market trends)\n• Evidence 2: \"global corn and soybean meal prices will remain low in 2025... further benefiting poultry producers\" (analytical insight into supply chain dynamics)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites specific dates (e.g., \"Piccioli left Valentino in March after more than two decades\") and brand names (e.g., \"Alessandro Michele\") with verifiable details.\n• Evidence 2: It includes quotes from credible sources (e.g., Alessia Pellarini, founder of The AP Archive) and acknowledges industry norms (e.g., non-compete agreements), maintaining a balanced tone."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of QL Resources Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The article focuses exclusively on the fashion industry, which is unrelated to the food and beverage company context provided."
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of industry shifts, including resignations, new appointments, and market impacts (e.g., \"the name of Simon Porte Jacquemus keeps being mentioned\").\n• Evidence 2: It includes detailed analysis of trends (e.g., \"short-term vision to meet market demands only lowers the cultural quality of the offer\") and contextualizes historical brand legacies."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Magma Group Bhd has received the green light from shareholders... RM100mn.\" (specific financial details and corporate action)\n• Evidence 2: \"Solar District Cooling Group Bhd... oversubscribed by 144.08 times.\" (quantifiable data with verifiable market impact)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"HE Group Bhd has secured a RM30.6mn contract... semiconductor plant\" (directly ties to operational expansion and sector-specific growth)\n• Evidence 2: \"Zantat Holdings Bhd... aims to raise RM14mn... Bumiputera investors\" (strategic capital-raising for production capacity)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Press Metal Aluminium Holdings Bhd... affected 9% of its total smelting capacity... four months to restore operations\" (comprehensive incident details and timeline)\n• Evidence 2: \"Dataprep Holdings Bhd... appointed as an authorised reseller... information-sharing foundation for enterprises\" (contextual explanation of partnership significance)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The media team at Shahi Exports and the firm’s company secretary didn’t respond to emails seeking comment.\" (verifiable source response)\n• Evidence 2: \"According to data from broker Hamptons International.\" (cited third-party data)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The article contains no direct mention of QL Resources Berhad or its operations.\" (no company-specific information)\n• Evidence 2: \"The focus is on Shahi Exports and real estate transactions unrelated to QL Resources' business.\" (no strategic connection to the company context)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The property offering more than 20,000 square feet of space is a short walk from Kensington Gardens...\" (specific contextual details)\n• Evidence 2: \"The first one once belonged to Countess Raine Spencer...\" (historical and cultural context provided)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The 87-year-old pontiff flies home from Singapore within hours...\" (specific factual details about the trip's timeline)\n• Evidence 2: \"Sandra Ross, 55...\" (direct quote from a credible source with contextual detail about the event's impact)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"No direct mention of QL Resources Berhad or any business-related activities of the company\" (complete absence of company-specific information)\n• Evidence 2: \"The article focuses exclusively on Pope Francis's tour and its religious/social implications, with no connection to food and beverage industry dynamics\" (no relevance to the company's strategic context)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"43 hours of flight time and a distance of 32,000km...\" (quantitative data supporting event scale)\n• Evidence 2: \"Addressing political and business leaders...\" (contextual analysis of the Pope's messaging to stakeholders, though not tied to QL Resources)"  
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Market sentiment remains turbulent as recessionary concerns linger...\" (Apex Securities Research, cited as a credible source)\n• Evidence 2: Specific data points like FBM KLCI movements (1,670.55 to 1,677.02) and stock price changes (QL Resources rising eight sen to RM6.54) are provided with verifiable numerical details."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: Direct mention of QL Resources' stock price increase (eight sen to RM6.54), relevant to investors' short-term market performance.\n• Evidence 2: Limited connection to strategic direction; no discussion of QL Resources' business strategies, competitive positioning, or long-term value creation factors."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Context about global economic uncertainty, Fed policy decisions, and sector-specific impacts (technology, energy, financials) is provided.\n• Evidence 2: Quantitative data on stock movements, trade volumes (e.g., 32.5 million shares for Steel Hawk), and market indices are included, though deeper analysis of QL Resources' operational or financial specifics is absent."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites verifiable sources such as Pope Francis, Indonesian President Joko Widodo, and Grand Imam Nasaruddin Umar with direct quotes.\n• Evidence 2: It references credible experts like cultural anthropologist Michel Chambon and includes specific details about events (e.g., dates, locations, and quotes from religious leaders)."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of QL Resources Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The content focuses solely on interfaith dialogue and social justice, with no connection to the company’s business activities or stakeholder interests."
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of Pope Francis’s visit, including context about Indonesia’s religious diversity, historical tensions, and interfaith initiatives.\n• Evidence 2: It includes detailed quotes from multiple stakeholders, analysis of social justice themes, and references to cultural and geopolitical implications, offering a thorough narrative."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Detachment-88 spokesman Colonel Aswin Siregar told reporters...\" (citable source and direct quote)\n• Evidence 2: \"Searches conducted in the house...\" (specific details with attributed source)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company...\" (company context provided, but no connection to article content)\n• Evidence 2: \"Consider the information needs of investors...\" (instruction to evaluate relevance, but article contains no company-specific data)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Indonesia’s fight against terrorism has been going on for decades...\" (historical context and background)\n• Evidence 2: \"One of the arrested is a militant...\" (specific details about connections to past incidents)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The pope and Grand Imam Nasaruddin Umar signed a declaration at Istiqlal Mosque...\" \n• Evidence 2: \"The human exploitation of creation...has contributed to climate change,\" it read."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\" \n• Evidence 2: No mention of QL Resources Berhad, its business operations, financial performance, or strategic initiatives."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The declaration called for 'religious harmony for the sake of humanity' at South-East Asia's biggest mosque.\" \n• Evidence 2: \"The human exploitation of creation...has contributed to climate change,\" it read."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI ended the early session in the red...\" (verifiable market data)\n• Evidence 2: \"YTL Power...under investigation by the Malaysian Anti-Corruption Commission\" (specific factual claim with context)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL Resources up 18 sen to RM6.64\" (direct company mention with price movement)\n• Evidence 2: \"small caps and lower liners...compared to 293 gainers\" (market impact context)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The overall market trading volume was 1.9 billion...\" (quantitative data)\n• Evidence 2: \"sector indices were mostly in the red...financial services, healthcare...\" (broader market context)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"New Zealand added former Sri Lanka spinner Rangana Herath and India's ex-batting coach Vikram Rathour to their coaching staff on Friday for their upcoming three test matches in Asia.\" (Reuters source, verifiable event)\n• Evidence 2: \"Rangana has taken over 100 test wickets in Galle...\" (specific, verifiable data about Herath's career)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The article contains no mention of QL Resources Berhad, its business operations, financial performance, or strategic initiatives.\n• Evidence 2: The content is entirely focused on cricket coaching staff changes, which are unrelated to the food and beverage company's business context."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Herath was roped as spin-bowling coach Saqlain Mushtaq left to take over a mentor's role...\" (context about coaching staff changes)\n• Evidence 2: \"Rangana has taken over 100 test wickets in Galle...\" (specific statistical data and venue context)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Pope Francis left Indonesia on Friday morning for Papua New Guinea...\" (specific timeline and location details)\n• Evidence 2: \"The warming planet is expected to remain a focus...\" (quotes from the pope's stated priorities with contextual background)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company...\" (company context unrelated to article content)\n• Evidence 2: \"No direct mention of QL Resources Berhad, its operations, financials, or strategic initiatives\" (complete absence of company-related information)"
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: \"...will have travelled about 16,000 km...\" (quantitative data on trip logistics)\n• Evidence 2: \"...a landslide in March that killed at least 2,000 people\" (specific contextual details about PNG's climate change impacts)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Only rockstars and presidents can usually fill Indonesia's national stadium, but on Thursday it was octogenarian Pope Francis who drew more than 80,000 fans to a Catholic Mass...\" (specific, verifiable event details)\n• Evidence 2: \"Christians are a small minority in Indonesia...\" (contextual data about religious demographics)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of QL Resources Berhad or any business-related activities\" (no company-specific information)\n• Evidence 2: \"Indonesian President Joko Widodo\" (political context unrelated to food/beverage sector)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The event was the high point of the 87-year-old pope's four days in the capital...\" (comprehensive event context)\n• Evidence 2: \"Religious freedom is enshrined in its constitution\" (background on Indonesian legal framework)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The human exploitation of creation... leading to various destructive consequences...\" (formally signed declaration)\n• Evidence 2: \"We could say that what lies 'underneath'... is the one root common to all religious sensitivities\" (Pope's statement)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of QL Resources Berhad or its operations\n• Evidence 2: Article focuses on religious and geopolitical events unrelated to business performance, financial implications, or market impact"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: Comprehensive coverage of the declaration, tunnel symbolism, and interfaith context\n• Evidence 2: Includes demographic data (87% Muslim population), historical context (2019 Arabian Peninsula visit), and logistical details (33,000 km travel)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 4,
+    "justification": "• Evidence 1: \"In 2022, the Department of Statistics Malaysia found that Malaysians were shelling out an average of RM732 a month just on eating out at restaurants and cafes.\" (No specific citation or source provided for this statistic)\n• Evidence 2: \"The latest stats from VisaNet data also revealed food is still a big deal across Asia...\" (No verifiable source or methodology cited for VisaNet data)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"HSBC Live+ is about to become your favourite sidekick for racking up amazing rewards\" (Promotional language with no direct link to QL Resources Berhad's strategic direction)\n• Evidence 2: \"With HSBC Live+, you’re instantly plugged into one of Asia’s leading dining programmes...\" (Focus on consumer benefits rather than business performance or market impact)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"From modern Chinese at Ming Room and Michelin Bib Gourmand-listed De.Wan 1958 by Chef Wan to exquisite Japanese at Rakuzen...\" (Specific examples of restaurant partnerships but no analysis of market position)\n• Evidence 2: \"From now until July 31 next year, every Saturday and Sunday, you can get RM10 off your movie tickets...\" (Descriptive details about perks but no contextual analysis of competitive landscape)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites Apex Securities Research with specific market analysis and quotes, providing verifiable institutional insight\n• Evidence 2: It reports factual market data (e.g., stock price movements, index changes) without fabrication or bias"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: Mentions QL Resources' stock price decline but does not connect to its business strategy, competitive position, or long-term value creation\n• Evidence 2: Focuses on broader market trends rather than company-specific strategic factors or financial implications"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: Provides contextual market data (e.g., FBM KLCI movements, sector-specific stock performance) but lacks detailed analysis of QL Resources' operations\n• Evidence 2: Includes brief sector outlook but does not explore deeper industry trends or company-specific fundamentals"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"QL Resources Bhd ’s net profit rose 16% to RM107.4m in 1QFY2025 from a year earlier mainly led by its convenience store chain business.\"\n• Evidence 2: \"Supermax Corp Bhd suffered its largest quarterly net loss of RM127.93 million for its fourth quarter ended June 30, 2024 (4QFY2024), hit by a write down of high price inventory at an overseas subsidiary amounting to RM72.85 million.\"\n• Evidence 3: \"Malakoff Corp Bhd posted a net profit of RM93.6 million for 2QFY2024, compared to a net loss of RM318.7 million a year ago, on the back of higher earnings contributions from two Johor-based power plants amid reduced coal costs, coupled with a compensation received for compulsory land acquisition.\""
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL Resources Bhd ’s net profit rose 16% to RM107.4m in 1QFY2025 from a year earlier mainly led by its convenience store chain business.\"\n• Evidence 2: \"DRB-Hicom Bhd posted a net loss of RM17.08 million in 2QFY2024 against a net profit of RM33.71 million a year ago, mainly due to weaker financial performance in Proton Holdings Bhd and losses from Pos Malaysia Bhd following reduced revenue in its international business.\"\n• Evidence 3: \"AirAsia X Bhd reported a 13% fall in net profit for 2QFY2024 to RM4.82 million from RM5.54 million a year earlier, on lesser travels due to the traditionally weaker travel season.\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Sunway Bhd posted a net profit of RM270.47 million for 2QFY2024, up 80.4% from RM149.43 million a year earlier, on stronger operating performance across all business segments, coupled with gain of RM89.4 million from redemption of an investment and newly acquired investment properties of an associate.\"\n• Evidence 2: \"IOI Properties Group Bhd ’s 4QFY2024 net profit jumped more than five times in 4QFY2024 from a year earlier thanks largely to a revaluation gain.\"\n• Evidence 3: \"Axiata Group Bhd returned to the black in 2QFY2024 with a net profit of RM134.9 million, compared with a net loss of RM576.22 million a year earlier, contributed by strong performance from all operating companies except Link Net and Dialog.\""
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Profit before tax for the convenience store segment... rose by 77 per cent to RM20.50 million against the corresponding quarter a year ago...\" (specific, verifiable financial data)\n• Evidence 2: \"On prospects... the group is cautiously positive...\" (balanced tone with no overt bias)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Profit before tax in its integrated livestock farming... rose by eight per cent from improved performance... supported by lower feed costs...\" (directly ties financial results to strategic operational factors)\n• Evidence 2: \"the continued egg cost subsidy and revised ceiling price mechanism... despite... Middle East tension...\" (connects strategic factors to market risks and opportunities)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"sales for its convenience store segment... rose 22 per cent to RM309.82 million... due to a net increase of 35 stores...\" (specific quantitative details supporting claims)\n• Evidence 2: \"contributions from its newly acquired layer farm and better Vietnam farming operations\" (contextualizes performance drivers but lacks broader industry context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"A total of 85 cases of cyber attacks...reported in the past week, according to the Authority of Information Security...\" (verifiable data and credible source cited)\n• Evidence 2: \"The Authority of Information Security has identified 20 IP addresses/domains...\" (specific, factual details with clear attribution)"
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: \"No mention of QL Resources Berhad or any connection to the company's operations, strategic direction, or financial implications\" (complete absence of direct relevance)\n• Evidence 2: \"The article focuses solely on Vietnam's cybersecurity landscape, with no linkage to Malaysia's food and beverage sector\" (no stakeholder significance for the company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Attackers have been using malicious IP addresses/domains as command and control (C&C) servers...\" (technical explanation and context)\n• Evidence 2: \"The Authority...has identified 20 IP addresses/domains...\" (comprehensive list of specific details and actionable recommendations)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Catholics represent less than three percent of the population -- some eight million people -- compared to the 87 percent, or 242 million, who are Muslim, Vatican officials say.\" (specific data with verifiable context)\n• Evidence 2: \"Francis becomes the third pope to visit Indonesia... after Paul VI in 1970 and John Paul II in 1989.\" (historical accuracy and factual verification)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"No mention of QL Resources Berhad, its operations, financials, or stakeholder impacts.\" (complete absence of company-related content)\n• Evidence 2: \"The article focuses on papal travel logistics and religious contexts, with no connection to food/beverage industry or Malaysian market dynamics.\" (total irrelevance to company context)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Detailed breakdown of each country's religious demographics, environmental concerns, and historical context for each stop on the papal tour.\" (comprehensive event coverage)\n• Evidence 2: \"Specifics about infrastructure challenges (e.g., Jakarta's pollution), cultural nuances (e.g., East Timor's child abuse scandals), and geopolitical factors (e.g., Papua New Guinea's tribal violence).\" (multi-dimensional analysis of the trip's significance)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Pope Francis leaves on Monday for a visit to four island nations across southeast Asia...\" (Reuters, verifiable source)\n• Evidence 2: \"Jakarta... has experienced disastrous flooding...\" (specific data on infrastructure and climate impacts)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: No mention of QL Resources Berhad or its business activities\n• Evidence 2: Article focuses on religious and geopolitical events unrelated to the company's strategic direction or financial performance"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Francis will travel nearly 33,000 km (20,500 miles)...\" (quantitative details on trip logistics)\n• Evidence 2: \"Indonesia... has about 280 million inhabitants...\" (contextual data on demographics and interfaith dynamics)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"QL Resources Bhd and Tan Hong Aik are the coffee-table book sponsors.\" [Direct sponsorship disclosure]\n• Evidence 2: \"The photo, courtesy of Datuk KK Low and his wife Datin Cheng Seow Ying... was made available to The Star for the exhibition.\" [Verified source citation]"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources Bhd\" is directly mentioned as a sponsor, but no connection to business strategies, financial performance, or market impact is made.\n• Evidence 2: The article focuses on cultural events and lacks analysis of how the exhibition relates to QL Resources' competitive position or long-term value creation."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The exhibition, which includes the golden years of sports rivalry and friendship... is being held until Sunday.\" [Comprehensive event context]\n• Evidence 2: \"The book features some 200 photographs across 270 pages...\" [Detailed data on exhibition content]"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The half-century of relations are being reflected through 400 photographs on display.\" (specific, verifiable data about exhibition content)\n• Evidence 2: \"Admission is free.\" (clear, factual statement about access)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources Bhd and Mr Tan Hong Aik as Coffee Table Book sponsors.\" (brief mention of company without strategic context)\n• Evidence 2: No connection to QL Resources' business operations, financial performance, or market position"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The photos for the photo exhibition were curated and exhibited based on themes including...\" (context about exhibition structure)\n• Evidence 2: \"Visitors can witness the captured moments such as...\" (specific historical events described)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Google’s dominance in search – which a US federal court ruled last week is an illegal monopoly – is giving it a decisive advantage in the brewing AI wars\" (verifiable court ruling cited).\n• Evidence 2: \"Google said AI Overviews... are part of its longstanding commitment to serve higher quality information\" (direct quote from Google spokesperson)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"The article does not mention QL Resources Berhad or its operations, focusing instead on Google’s search dominance and its impact on publishers and startups\" (no direct company connection).\n• Evidence 2: \"The information pertains to antitrust issues and AI competition, which are not directly relevant to a food and beverage company’s strategic priorities\" (lack of stakeholder relevance)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The rise of generative AI has touched off a new wave of startups seeking to offer search products...\" (comprehensive context on industry shifts).\n• Evidence 2: \"Prelovac said at least half of Kagi’s costs go toward crawling and other sources of search data\" (specific data on startup challenges)."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"China is Malaysia’s biggest trade partner.\" (verifiable factual claim)\n• Evidence 2: \"The coffee-table book and the photo exhibition are jointly organised by SMG and Sin Chew Daily...\" (specific, verifiable details about event organization)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources Bhd and Tan Hong Aik as the coffee-table book sponsors\" (company mentioned only in sponsorship context)\n• Evidence 2: No discussion of QL Resources' business strategies, financial performance, or market position"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The book features around 200 photographs across 270 pages...\" (specific detail about event content)\n• Evidence 2: \"The exhibition will run from Aug 5 to 18...\" (specific event logistics provided)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 3,
+    "justification": "• Evidence 1: \"It was truly a privilege for me and my coursemates to be part of such a significant and unforgettable experience.\" (Quotes lack third-party verification)\n• Evidence 2: \"The most rewarding aspect was immersing myself in the daily lives of local residents.\" (No balanced perspective or cited sources)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Bhd and Mr. Tan Hong Aik as Coffee Table Book sponsors.\" (Minimal direct company mention)\n• Evidence 2: \"The Blossoming and Fruiting Coffee Table Book... supported by the Tourism, Arts and Culture Ministry\" (No connection to QL Resources' strategic direction or business performance)"
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: \"Since arriving in China in 2019, she has embraced the country’s diverse experiences.\" (General statement without contextual data)\n• Evidence 2: \"These achievements led to more opportunities to participate in international events.\" (No quantitative evidence or detailed analysis of impact)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites Apex Securities Research with specific market analysis and quotes, providing verifiable data on the FBM KLCI index movement (up 1.73 points to 1,576.12) and stock price changes (e.g., QL Resources rising three sen to RM6.55).\n• Evidence 2: The tone remains balanced, acknowledging both market recovery and ongoing risks like global headwinds, without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions QL Resources Berhad and its stock price movement, linking it to broader market trends.\n• Evidence 2: However, it lacks detailed analysis of the company's strategic direction, competitive position, or financial performance beyond stock price data, focusing instead on market-wide factors."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides specific numerical data (e.g., index levels, stock price changes) and contextualizes the market's cautious recovery, including references to global headwinds and sector performance.\n• Evidence 2: It includes quotes from Apex Securities offering analysis, though the depth is limited to market trends rather than in-depth company-specific insights."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites credible sources such as China Ambassador Ouyang Yujing and Star Media Group CEO Chan Seng Fatt, with verifiable details about the exhibition's 400 photographs and 270-page book.\n• Evidence 2: The text provides balanced reporting by including multiple stakeholders (government, media, sponsors) without apparent bias, though it leans celebratory toward Malaysia-China relations."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions QL Resources Bhd as a sponsor of the coffee-table book, establishing a clear corporate connection.\n• Evidence 2: However, it does not discuss QL Resources' business strategies, financial performance, or how this sponsorship relates to their competitive position or long-term value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive coverage of the exhibition and book, including themes, sponsors (e.g., AirAsia, Mid Valley Megamall), and event details (dates, location).\n• Evidence 2: It includes quantitative data (400 photos, 270 pages) and contextualizes the event as part of Malaysia-China's 50th anniversary, though it lacks deeper analysis of the event's implications for stakeholders."
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 1,
+    "justification": "• Evidence 1: The article contains no factual data or verifiable information about QL Resources Berhad's operations, financials, or strategic activities.\n• Evidence 2: The text focuses on a fashion contest and charity event, with no credible sources cited or balanced perspectives related to the company."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article mentions Queensbay Mall's event but does not connect it to QL Resources Berhad's business strategies, competitive position, or financial performance.\n• Evidence 2: No direct mention of the company's strategic initiatives, market impact, or stakeholder significance is present."
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: The article provides detailed descriptions of the fashion contest, awards, and charity event, but this information is irrelevant to QL Resources Berhad's business context.\n• Evidence 2: No data or analysis about the company's operations, market position, or financial performance is included."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., 'FBM KLCI ended firmer... up 2.74 points, or 0.17% to 1,636.55') with specific numerical details.\n• Evidence 2: The report includes balanced market movements (e.g., '445 gainers, 736 losers...') and currency exchange rates without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article directly mentions QL Resources as a 'laggard' in the KLCI component stocks, which is relevant to investors.\n• Evidence 2: No deeper strategic context is provided about QL Resources' business performance, competitive position, or financial implications of its stock movement."
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: The text includes surface-level market data (e.g., 'foreign funds and retailers were net buyers...') but lacks analysis of QL Resources' specific performance drivers.\n• Evidence 2: No background context or industry-specific insights are provided about QL Resources' operations or market position."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 4,
+    "justification": "• Evidence 1: The article contains subjective quotes from Jcqlyne Chin (e.g., \"I couldn’t stand staring at the computer screen\") without third-party verification.\n• Evidence 2: No credible sources or citations are provided for claims about her business ventures or certifications."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The text focuses on personal career transitions and lifestyle choices rather than QL Resources Berhad's business strategies or financial performance.\n• Evidence 2: No direct mention of the company's operations, market position, or strategic initiatives related to food and beverage."
+  },
+  "Depth": {
+    "score": 3,
+    "justification": "• Evidence 1: Provides detailed personal background but lacks quantitative data on business performance (e.g., sales figures, market share).\n• Evidence 2: No analysis of competitive positioning or stakeholder impact for QL Resources Berhad."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources had proposed to undertake a bonus issue of up to 1.22 billion ordinary shares at one bonus share for every two existing ordinary shares held.\" (specific factual detail)\n• Evidence 2: \"The theoretical ex-bonus price for the group’s shares is expected to be between RM3.93 and RM4.33...\" (data-based analysis with verifiable metrics)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We believe this is a positive sign that QL Resources is confident of its prospects, following an expected growth in regional and local poultry demand of plus 30% by 2030.\" (links bonus issue to strategic growth goals)\n• Evidence 2: \"The bonus shares proposed may be a signal that the group is financially healthy with an optimistic growth prospect...\" (connects corporate action to strategic positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"As of June 28, 2024, the group has an issued share capital of RM620mil comprising 2.43 billion shares.\" (quantitative context)\n• Evidence 2: \"The proposed bonus issue is expected to be completed by the third quarter of 2024 and QL Resources share price will be adjusted lower.\" (timeline and financial impact details)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia today, BMG said the acquisition of RM110 million encompasses 66.6 million ordinary shares representing 100 per cent equity interest in PXH.\"\n• Evidence 2: \"It said the company shall undertake the proposal at the same price as the issue price of RM1.35 sen per share to maintain QL’s shareholdings at 52.57 per cent equity interest in BMG.\""
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"It also demonstrates the group’s long-term commitment to its vision to be the regional partner of choice for innovative and cost-effective green energy and water solutions.\"\n• Evidence 2: \"Our combined capability positions us well to capitalise on large-scale solar projects and the growing demand for clean energy solutions...\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"PXH’s clean energy ecosystem comprising generation, storage, energy efficiency, electric vehicle charging solutions and smart energy systems adds breadth and depth that strengthens its value chain.\"\n• Evidence 2: \"BMG also proposed a special issuance of 90.31 million shares to QL Resources Bhd’s (QL) wholly-owned subsidiary...\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: Profit rose to 144.7 billion yen ($894.81 million) from 112.5 billion yen in the year-earlier period.\n• Evidence 2: The consensus forecast was for earnings of 127.1 billion yen, based on a LSEG poll of six analysts."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: The company raised its full-year profit forecast to 475 billion yen from 450 billion yen.\n• Evidence 2: Fast Retailing is plotting aggressive growth in Greater China, North America, and Europe, leveraging post-pandemic consumer trends."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article explains the yen's impact on overseas sales and provides revenue/profit figures for Greater China's nine-month period.\n• Evidence 2: It mentions the decline in Greater China's performance due to prior-year comparisons and consumer slowdown, but lacks broader industry context or long-term strategic analysis."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rallied for a third straight day... 1,624.63.\" (specific numerical data)\n• Evidence 2: \"Shares were buoyed... Federal Reserve dialling back interest rates.\" (directly ties to economic event with logical market implication)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"QL Resources jumped 19 sen to RM6.72\" (mentions company but lacks strategic context)\n• Evidence 2: \"All but two of the market's 13 sectors were positive...\" (general market analysis without company-specific strategic insights)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The gainers on the market outpaced the decliners 667 to 413... RM2.12bil.\" (quantitative market data)\n• Evidence 2: \"In key Asian markets... Straits Times added 0.42% to 3,474.\" (broader market context but lacks company-specific analysis)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Japan's Nikkei share average surged to another record high during morning trade on Thursday, as a rally in U.S. stocks overnight boosted investor sentiment.\" (verifiable data and factual reporting)\n• Evidence 2: \"Analysts expect Japanese shares to see further momentum as companies report earnings this month.\" (cited analyst perspective with specific rationale)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\" (company context provided, but no mention of QL Resources in the article)\n• Evidence 2: \"Japan's semiconductor-related shares marched higher...\" (topic unrelated to food and beverage sector or QL Resources' business operations)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Nikkei was up 0.83% to 42,179.84... It was the first time the benchmark index has crossed the 42,000-point mark.\" (specific numerical data and historical context)\n• Evidence 2: \"Analysts expect Japanese shares to see further momentum... potentially pushing the Nikkei as high as 42,600 or 42,700 points.\" (forward-looking analysis with quantitative projections)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In the US, comments from Jerome Powell...\" (Malacca Securities Research, verifiable source)\n• Evidence 2: \"Overnight, the S&P500 and Nasdaq marked new territories...\" (specific data points with context)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"QL Resources jumped 11 sen to RM6.64\" (direct company mention, but no strategic context)\n• Evidence 2: \"Bank shares were also higher...\" (market activity, not business strategy)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The FBM KLCI was up 2.78 points...\" (specific market data)\n• Evidence 2: \"Investors will be monitoring...\" (context about market factors, but lacks company-specific analysis)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"QL Resources Bhd has proposed to undertake a bonus issue...\" (specific corporate action with verifiable financial details)\n• Evidence 2: \"The Human Resource Development Fund has acquired Widad Group Bhd shares...\" (cites a specific entity and transaction type)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL Resources Bhd...bonus issue of up to 1.2bn shares\" (directly relates to shareholder reward strategy)\n• Evidence 2: \"MUI Properties Bhd...selling 53 acres of freehold land...\" (indicates asset management strategy for a listed entity)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"RM26.5mn...40-storey condominium project\" (specific financial figure with project context)\n• Evidence 2: \"special dividend of 20.0sen/share for FY25...\" (includes dividend amount and fiscal year context)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The Nikkei share average plunged 2% on Friday\" (specific, verifiable data)\n• Evidence 2: \"Nomura Securities equities strategist Kazuo Kamitani said\" (credible source citation with direct quote)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of QL Resources Berhad or any Malaysian company\" (no connection to company context)\n• Evidence 2: \"Focus on Japanese financial markets, not food/beverage sector\" (irrelevant to company's strategic direction)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Detailed breakdown of sector-specific declines (e.g., 7.25% drop in Disco, 3.84% insurers)\" (comprehensive data)\n• Evidence 2: \"Analysis of multiple factors: chip selloff, yen intervention, U.S. Treasury yields\" (contextual and analytical depth)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Judge Rozina Ayob made the decision after Shaharuddin Ahmad...pleaded guilty to deceiving...\" (verifiable legal process)\n• Evidence 2: \"Both cases were prosecuted by Deputy Public Prosecutor Irna Julieza Maaras\" (credible source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company...\" (no direct connection to article subject)\n• Evidence 2: \"The offence was committed at the Information Technology Division...\" (no mention of QL Resources' business operations or strategic factors)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Investigations revealed that the accused used an invoice...for three individuals\" (specific case details)\n• Evidence 2: \"Section 471 of the Penal Code...maximum prison sentence of two years\" (legal context and consequences)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The National Monument at Jakarta’s Merdeka Square is where you will find the first Indonesian flag that was hoisted on its Independence Day.\" (specific historical reference)\n• Evidence 2: \"AirAsia now flies direct from Kota Kinabalu, Sabah to Jakarta, Indonesia three times a week on Tuesdays, Thursdays and Saturdays.\" (specific operational detail without source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of QL Resources Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The entire text focuses on Jakarta's tourism attractions, which are unrelated to the company's food and beverage business or stakeholder interests."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Jakarta is not just a modern metropolis but a city rich with culture, historical sites and charming cafes as well as quaint places of interest that are worth visiting.\" (comprehensive summary of themes)\n• Evidence 2: \"The Jazz Festival 2024 was being held at the JIExpo Kemayoran, where numerous performers gave their best across 10 stages.\" (specific event details with contextual depth)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of QL Resources Berhad or any related financial/operational data.\n• Evidence 2: The article is a compilation of unrelated regional news headlines with no verifiable data or sources cited for company-specific claims."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text provides no information about QL Resources Berhad's business strategies, market position, or financial performance.\n• Evidence 2: All content is focused on geopolitical events and unrelated criminal cases, with no connection to the company's operations or stakeholders."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The text lacks comprehensive coverage of any topic related to QL Resources Berhad, offering no contextual or analytical insights.\n• Evidence 2: No data, background information, or evidence is provided to support claims about the company's activities or performance."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Vietnam News Agency cited industry insiders and officials on Tuesday (June 18)\" (verifiable source cited)\n• Evidence 2: \"Vietnam's exports reached US$156.77 billion... according to the country's General Statistics Office\" (specific data with official source)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"This is an opportunity for Vietnamese businesses to enter additional markets\" (no direct mention of QL Resources Berhad or its strategic relevance)\n• Evidence 2: \"Vietnam's exports... increase of 15.2 per cent\" (general economic data unrelated to specific company operations)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Vietnam had an advantage since the signing of numerous free trade agreements... bringing down tariffs\" (context on trade advantages)\n• Evidence 2: \"Vietnam's exports reached US$156.77 billion...\" (quantitative data supporting economic context)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The pope is slated to visit Indonesia from Sept. 3 to 6, during which he will visit Istiqlal Mosque on Sept. 5,\" Nasaruddin Umar, grand imam of the mosque in Central Jakarta, said on Monday as quoted by Kompas.com.\n• Evidence 2: \"Muslims comprise around 87 percent of the population of Indonesia, with 8.5 million Catholics representing around 3 percent, according to a 2022 report by the Religious Affairs Ministry.\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\" (No direct connection to the article's content about the papal visit)\n• Evidence 2: \"The papal visit is organised by the Vatican Embassy in Jakarta and the Indonesian Foreign Ministry...\" (No mention of QL Resources' business operations, market impact, or strategic direction)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Pope Francis was originally scheduled to visit Indonesia in 2020, but this trip was cancelled due to the Covid-19 pandemic. He is the first pope to visit the country in 35 years.\" (Provides historical context and event significance)\n• Evidence 2: \"President Joko 'Jokowi' Widodo had previously invited the 87-year-old pope to the world’s largest Muslim-majority country in an effort to promote religious tolerance.\" (Explains the visit's purpose and political context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Bursa Malaysia Bhd has announced 12 additions to the constituents of the FTSE4Good Bursa Malaysia (F4GBM) Index\" [verifiable factual statement from a credible source].\n• Evidence 2: \"This represents a 400% increase since the index’s inception in December 2014 with only 24 constituents\" [specific, verifiable data with no bias]."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"QL Resources\" is listed as an inclusion in the F4GBM Index [direct company mention].\n• Evidence 2: \"The F4GBM Index includes publicly listed companies (PLCs) with good liquidity and strong environmental, social, and governance (ESG) practices\" [links to ESG relevance, but lacks connection to QL Resources' strategic context]."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Both indices are reviewed semi-annually in June and December against international benchmarks\" [provides context on review process].\n• Evidence 2: \"All constituent changes will take effect at the start of business on June 24, 2024\" [specific timeline, but lacks analysis of implications for QL Resources]."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"It is our first partnership with our Japanese counterparts Mitsubishi Estate Residence.\" (direct quote from Nicole Lee Chee Yiing)\n• Evidence 2: \"Conducted by Riverstone Environmental Sdn Bhd...\" (cites a credible third-party firm for the carbon footprint study)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Our first project where we have brought together lifestyle residences and wellness services...\" (directly ties to IOIPG's strategic shift toward wellness integration)\n• Evidence 2: \"commitment to environmental, social and governance principles...\" (links to long-term value creation through ESG initiatives)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"3.9ha Gems Residences... 676 units... RM650,000...\" (specific quantitative details about the project)\n• Evidence 2: \"QLASSIC ratings from CIDB Malaysia of 81%...\" (provides third-party validation of quality)"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"occupancy rates above 90% in major city shopping centres\" (VARS report)\n• Evidence 2: \"total retail sales and consumer-service revenue reached nearly 5.7 trillion dong\" (VARS data)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company\" (company context)\n• Evidence 2: \"no direct company mention\" (article focuses on Vietnam retail real estate, unrelated to QL Resources' operations)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"rental rates in Hanoi have ticked up by approximately 10%\" (specific data)\n• Evidence 2: \"development of major cities like Hanoi, Ho Chi Minh City and Da Nang\" (contextual analysis of market drivers)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"PVH says it’s still recalculating its baseline footprint.\" (verifiable data on methodological changes)\n• Evidence 2: \"Bloomberg Green directly or with the nonprofit CDP, which operates a database of corporate climate disclosures.\" (credible source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The fashion industry generated just over one gigaton of carbon dioxide equivalent in 2019\" (irrelevant to QL Resources Berhad's food and beverage sector)\n• Evidence 2: \"Corporate emissions disclosures won’t be voluntary forever.\" (no direct link to QL Resources' strategic priorities)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Greenhouse Gas Protocol – a widely used standard for corporate carbon-footprint accounting – outlines 15 different sub-categories for Scope 3 emissions.\" (detailed breakdown of emissions categories)\n• Evidence 2: \"Of the 38 companies reviewed by Bloomberg Green, two did not report Scope 3 at all: Urban Outfitters Inc – which according to published reports is still collecting the data – and LL Bean.\" (comprehensive data on reporting inconsistencies)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Samsung Electronics launched its latest lineup of Neo QLED 8K TVs today (May 14), with artificial intelligence (AI)-powered features headlining the range.\"\n• Evidence 2: \"According to Samsung Malaysia Electronics president Denny Kim, the company has been investing in AI research for over a decade.\""
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Our 2024 screen lineup comes with on-device AI and intelligent integration across devices, allowing you to upscale your experience.\"\n• Evidence 2: \"To complement these exceptional AI viewing experiences, our latest sound devices also offer industry-first sound technologies...\""
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The TV’s NQ8 AI Gen3 processor powers features such as 8K AI Upscaling Pro, which upscales low-resolution content, and AI Motion Enhancer Pro...\"\n• Evidence 2: \"The Neo 8K QN800D comes in two screen sizes, 75in (RM24,999) and 85in (RM32,999)...\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia yesterday, QL Resources said the EPF acquired 2.88 million shares...\" (verifiable source cited)\n• Evidence 2: \"The purchase raised its shareholding in the company to 121.94 million shares or a 5.01% stake.\" (specific, quantifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"EPF emerged as a substantial shareholder...\" (directly ties to company's ownership structure and potential market influence)\n• Evidence 2: \"Year-to-date, the integrated agro-based group has risen 15.24%\" (financial performance linked to shareholder activity)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"2.88 million shares... 5.01% stake\" (quantitative details supporting the event)\n• Evidence 2: \"2.73 million shares traded... RM6.58\" (market activity data, but lacks contextual analysis of broader implications)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Microsoft provides choice and flexibility for our customers to switch to another cloud provider at no cost...\" (Microsoft's defense)\n• Evidence 2: \"The Spanish Startup Association, which represents more than 700 startups in Spain...\" (creditable source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Microsoft ranks second in the cloud computing sector...\" (direct company strategic position)\n• Evidence 2: \"Cloud Infrastructure Services Providers in Europe (CISPE)...\" (impact on competitive landscape)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"These practices include barriers to data portability or contractual conditions that restrict competition...\" (specific allegations)\n• Evidence 2: \"The European Commission has asked cloud rivals about Microsoft's request for customer data...\" (contextual regulatory background)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI crept 0.92 points higher to 1,583.58\" (specific, verifiable market data)\n• Evidence 2: \"Malacca Securities Research maintained a bullish view\" (cited credible source with technical analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"QL Resources rose five sen to RM6.50\" (direct company mention but no strategic context)\n• Evidence 2: \"Investors are awaiting evidence that corporate bottomlines remain intact\" (general market sentiment, no company-specific strategic insights)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The resistance is envisaged around 1,595-1,600 and the support is set at 1,560-1,565\" (technical analysis context)\n• Evidence 2: \"Major US indices rose overnight...\" (broader market context but lacks detailed company-specific analysis)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Japan's Nikkei share average closed lower on Wednesday...\" (specific, verifiable data)\n• Evidence 2: \"The Federal Reserve Open Market Committee (FOMC) is widely expected to leave interest rates unchanged...\" (balanced reporting with factual context)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No mention of QL Resources Berhad or any business activities related to the company\" (no direct connection to the subject company)\n• Evidence 2: \"Focus on macroeconomic factors (Fed policy, yen weakness) rather than corporate strategy or financial performance of QL Resources\" (no stakeholder significance for the company)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Shares of chip-related equipment maker Lasertec jumped 14.9%...\" (specific stock performance details)\n• Evidence 2: \"Risk of currency intervention...\" (comprehensive coverage of market dynamics and economic implications)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"A 2022 peer-reviewed study found that residential fuel usage was the largest air pollution source in India.\" (verifiable data from a reputable source)\n• Evidence 2: \"The current form of regulation is so costly for polluters,\" said Greenstone, citing Gujarat's cap-and-trade experiment as a credible example of policy impact."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\" (no direct connection to article content)\n• Evidence 2: \"The article discusses air pollution's economic impact, but no mention of QL Resources' operations, strategic priorities, or market implications.\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"By 2030 India could reduce its PM2.5 by 20 per cent,\" said Siddharth Singh, providing specific quantitative data.\n• Evidence 2: \"The paper published in the peer-reviewed journal Lancet Planet Health found that lost output from premature deaths... meant economic losses of a total of US$36.8 billion,\" offering comprehensive analysis of economic impacts."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI rose 1.81 points to a fresh two-year high of 1,573.29 at the start of Thursday trading\" (verifiable market data).\n• Evidence 2: \"Apex Securities Research said...\" (cites a credible financial research firm with technical analysis)."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"QL Resources rising five sen to RM6.40\" (direct company mention, but only as a stock price movement).\n• Evidence 2: \"profit taking activities may emerge within the technology sector\" (sector-level analysis, no direct link to QL Resources' strategy)."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"MACD Line hovered above the Signal Line, while the RSI firmed up above 50\" (technical analysis details).\n• Evidence 2: \"economic data releases... Malaysia’s inflation data... US 1Q2024 GDP\" (contextual market drivers, but no company-specific insights)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"M Oscar achieved a commendable 85% score for the Quality Assessment System in Construction (Qlassic) by the Construction Industry Development Board (CIDB)\" [verifiable certification]\n• Evidence 2: \"We are proud to see our vision come to life...\" [direct quote from executive with no apparent bias]"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Moving forward, we will continue to acquire attractively priced lands in strategic locations...\" [directly ties to long-term growth strategy]\n• Evidence 2: \"This year, Mah Sing plans to launch all its new developments acquired since 2023\" [connects to business performance and market expansion]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"M Oscar, with a gross development value of approximately RM590mil, comprises two towers with a total of 910 units...\" [specific quantitative data]\n• Evidence 2: \"Residents will also be able to enjoy the retail convenience of NSK Trade City just 2.2km away...\" [comprehensive location context]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"compiled using shareholding and financial information obtained from the families and individuals, stock exchanges, annual reports, analysts, government agencies and other sources.\"\n• Evidence 2: \"net worths were based on stock prices and exchange rates as of the close of markets on April 2, 2024, and private companies were valued based on similar companies that are publicly traded.\""
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"former math teacher Chia Song Kun, executive chairman of his family’s seafood firm, QL Resources Bhd , with a net worth of US$1.8bil at No 10.\"\n• Evidence 2: \"The minimum net worth to qualify for the list was US$320mil...\""
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Breaking into the top five for the first time were also inheritors – brothers Datuk Lee Yeow Chor and Yeow Seng of IOI Group – at No. 4 with a combined net worth of US$5.35bil...\"\n• Evidence 2: \"Forbes Asia noted that the biggest gainers... Tan Sri Francis Yeoh and siblings... in tandem with the rise in the shares of their flagship YTL group...\""
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL Resources rose 16 sen to RM6.31\" [specific stock price movement]\n• Evidence 2: \"The FBM KLCI tracked other Asian markets higher\" [verifiable market data]"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"QL Resources\" is directly mentioned as a component stock [direct company reference]\n• Evidence 2: No analysis of business strategies, competitive positioning, or long-term value creation [lack of strategic context]"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The market traded within a range of 9.78 points...\" [quantitative market data]\n• Evidence 2: No background on QL Resources' operations, industry position, or financial performance [limited contextual detail]"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites the FIABCI Malaysia Property Award 2023 and specific project details (e.g., 'Q1 complies with the Green Building Index (GBI) standards') which are factual and verifiable.\n• Evidence 2: Direct quotes from Datuk Ng Tyan Ping provide attributable statements without fabrication or bias, maintaining a balanced tone."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: The article highlights Ideal Property Group's strategic focus on sustainable development ('commitment to sustainable development') and long-term growth ('connectivity and growth potential'), aligning with real estate business priorities.\n• Evidence 2: Mention of future development phases (Q2, Q3) and market positioning ('prime location') directly ties to the company's strategic direction and value creation."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text provides detailed context about Q1's features (rainwater harvesting, energy-efficient design) and third-party certifications (GBI, Qlassic score), supporting claims with data.\n• Evidence 2: While it explains the award's significance and project benefits, it lacks deeper analysis of market impact, financial implications, or comparative industry benchmarks."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites verifiable awards like the FIABCI Malaysia Property Awards 2023 and provides specific details (e.g., 7.12ha land area, 5 GBI-certified towers) without fabrication.\n• Evidence 2: Direct quotes from Tropicana Group executive director Din Tan are included, adding credibility through official statements."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: The text highlights Tropicana's strategic shift to sustainable community planning and its focus on long-term value creation through transit-oriented developments (TOD) and connectivity.\n• Evidence 2: Future projects like Edelweiss Serviced Residences and the DASH highway are mentioned, aligning with the company's growth strategy and market expansion."
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: Comprehensive details about Tropicana Gardens' features (e.g., 5 GBI-certified towers, 80% mall take-up rate, 87% occupancy for residential units) and historical context (1996 township inception) are provided.\n• Evidence 2: The article includes data on amenities, connectivity (e.g., Surian MRT, NKVE), and future developments (Edelweiss Shoppes), offering a thorough overview of the project's scope and impact."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The first Tomb Raider movie soared at the box office, partly due to the casting of Oscar-winner Angelina Jolie as Lara Croft.\" (accurate historical reference)\n• Evidence 2: \"The Super Mario Bros. Movie\" is the second-highest grossing film of 2023\" (specific box office data)"
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of QL Resources Berhad, its operations, financials, or strategic initiatives.\n• Evidence 2: The content is entirely focused on gaming culture and pop culture phenomena unrelated to the company's food and beverage sector."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"From blockbuster adaptations to subtle Easter eggs in popular TV shows, the tendrils of gaming culture have woven themselves into every facet of entertainment\" (comprehensive thematic coverage)\n• Evidence 2: \"The film grossed US$1.36bil (RM6.46bil) worldwide and broke multiple box-office records\" (specific quantitative data supporting claims)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {"score": 0, "justification": "• Evidence 1: The text contains no information about QL Resources Berhad or its operations, making it irrelevant to the company's credibility evaluation.\n• Evidence 2: The article focuses on political events in Indonesia, which are unrelated to the company's financial or operational disclosures."],
+  "StrategicRelevance": {"score": 0, "justification": "• Evidence 1: The text provides no mention of QL Resources Berhad's strategic direction, competitive position, or business performance.\n• Evidence 2: The article's content is entirely unrelated to the company's market impact, financial implications, or stakeholder significance."],
+  "Depth": {"score": 0, "justification": "• Evidence 1: The text offers no background, data, or context related to QL Resources Berhad's activities, operations, or industry.\n• Evidence 2: The article's detailed political events lack relevance to the company's business strategies, governance, or market position."}
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Mudik is not just an annual ritual or tradition for us,\" said civil servant Ridho Alfian.\n• Evidence 2: The Indonesian Chamber of Commerce and Industry said the financial turnover during the holiday this year will reach nearly US$10 billion."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article contains no direct mention of QL Resources Berhad or its operations.\n• Evidence 2: The focus on Indonesia's holiday economy lacks connection to Malaysia's food and beverage sector or QL Resources' strategic priorities."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The financial turnover during the holiday this year will reach nearly US$10 billion and cross sectors including retail, transit and tourism.\" \n• Evidence 2: Detailed descriptions of traditions, travel patterns, and economic impacts provide contextual background on the holiday's significance."
+  }
+}

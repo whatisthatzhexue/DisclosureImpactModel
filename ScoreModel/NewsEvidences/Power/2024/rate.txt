@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "The credibility score of 7 is supported by specific evidence linking Mydin's initiatives to tangible actions (e.g., distributing aid to 500 recipients, curating promotions for Chinese New Year). These quotes demonstrate accountability and measurable outcomes, which enhance trustworthiness. However, the lack of third-party validation or broader context slightly limits the score from reaching higher levels."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "The strategic relevance score of 5 reflects efforts to align with market trends (e.g., collaborations with e-wallet companies, Snap and Win competitions). While these initiatives show engagement with customer experiences, they lean more toward short-term promotional activities than long-term strategic positioning. The limited depth of analysis in the justifications further supports the mid-range score."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "A depth score of 6 is justified by the inclusion of both operational context (e.g., Mydin's growth attributed to community support) and partnership details (e.g., SPayLater, Abbott, Armor All as strategic partners). These elements provide a moderate level of insight into the company's ecosystem. However, the absence of granular analysis on financial impacts or long-term planning prevents the score from being higher."
+  }
+}

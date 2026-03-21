@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9.5,
+    "justification": "The Credibility score is 9.5, reflecting consistent high-quality evidence across all entries. Most scores (9-10) were supported by verifiable data (e.g., measurable metrics like '15.34% water reserve margin', 'RM700mil sale'), regulatory approvals, and factual financial details. The one 10 score was justified by explicit verifiable data, while the rest of the entries provided robust, unbiased evidence, leading to a high average of 9.5."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "The Strategic Relevance score is 5, calculated as the average of scores ranging from 1 to 9. While several entries (8-9) highlighted strategic expansions, financial impacts, and growth opportunities (e.g., 'data center contract', 'IPO funding'), four entries scored 1 due to a lack of direct company reference or relevance. These lower scores significantly pulled the average down, resulting in a medium rating."
+  },
+  "Depth": {
+    "score": 7.5,
+    "justification": "The Depth score is 7.5, derived from a mix of scores (6-9). Higher scores (8-9) were justified by detailed technical explanations, quantitative data (e.g., '250 million litres/day capacity'), and project objectives. Lower scores (6-7) focused on transaction mechanics or event logistics. The average reflects a balance between comprehensive analysis and more surface-level information."
+  }
+}

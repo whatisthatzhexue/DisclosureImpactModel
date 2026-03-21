@@ -1,6 +1,0 @@
-{
-  "MemoryTest": "[Repeat the exact anchor sentence]",
-  "Credibility": {"score": 8, "justification": "• Evidence 1: \"The vision includes making MPSepang a clean, green, sustainable and smart municipality,\" she said after the swearing-in ceremony at MPSepang headquarters in Cyberjaya, Selangor.\n• Evidence 2: \"Ampang Jaya, she said, was densely developed with pockets of projects and ongoing issues related to hill slopes.\""},
-  "StrategicRelevance": {"score": 1, "justification": "• Evidence 1: The article does not mention Berjaya Food Berhad or any financial/strategic implications for the company.\n• Evidence 2: The focus is on a municipal council transition, unrelated to the company's business operations or stakeholder concerns."},
-  "Depth": {"score": 7, "justification": "• Evidence 1: Provides detailed background on Dr. Ani Ahmad's education and prior roles, including her PhD and urban planning qualifications.\n• Evidence 2: Offers comparative analysis of development challenges between Ampang Jaya and Sepang, contextualizing her leadership approach."}
-}

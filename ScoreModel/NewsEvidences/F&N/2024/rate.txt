@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "The majority of scoring results (9/10) provide verifiable data, credible sources (e.g., Reuters, Bursa Malaysia, institutional analysts), and balanced reporting. While some entries (e.g., 8/10) mention specific financial figures or market trends without deep analysis, the overall consistency and reliability of sources justify a high credibility score. Contradictions are minimal, with only a few entries (e.g., 7/10) lacking detailed context, but these are outweighed by the high-quality evidence from other sources."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "Scoring results show a mix of high (9/10) and moderate (6/10) scores. High scores are driven by direct links to the company's strategic initiatives (e.g., expansion plans, cost optimization, market positioning), while lower scores reflect entries focusing on stock price movements without contextualizing strategic implications. The majority of results (e.g., 8/10) balance market trends with company-specific insights, justifying a mid-to-high score for strategic relevance."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "Depth scores range from 6 to 10, with higher scores (e.g., 9/10) citing detailed financial data, quantitative analysis (e.g., revenue growth, margin improvements), and contextual factors (e.g., geopolitical impacts, market comparisons). Lower scores (e.g., 6/10) lack deeper analysis of operational or strategic factors. The overall depth is strong, with sufficient context and data to evaluate the company's performance and market dynamics, though some entries fall short of comprehensive insights."
+  }
+}

@@ -1,0 +1,1935 @@
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N is disposing of 5.149 hectares of leasehold land... expected to contribute RM83.2mil to the group\" (specific financial figure provided)\n• Evidence 2: \"Astro’s net profit slipped to RM16.39mil... from RM54.71mil\" (direct comparison of financial metrics)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"F&N is disposing of 5.149 hectares... expected to contribute RM83.2mil to the group\" (directly relates to financial strategy and capital allocation)\n• Evidence 2: \"Kelington has secured a RM108mil contract... lifts its orderbook to RM1.3bil\" (connects to business performance and market positioning)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N is disposing of 5.149 hectares... expected to contribute RM83.2mil\" (specific detail but lacks context about strategic rationale)\n• Evidence 2: \"Hiap Teck's fourth quarter... revenue slipped to RM342.74mil\" (provides financial data but no analysis of underlying factors)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, the group said it plans to dispose of its 50% stake in Vacaron Company Sdn Bhd...\" (verifiable source cited)\n• Evidence 2: \"The current market value for the land is RM360mil, as appraised by Henry Butcher Malaysia on March 10, 2025...\" (specific data and credible appraisal firm mentioned)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N is focused on unlocking value of its non-core properties and will utilise funds to grow its core business...\" (direct link to strategic direction)\n• Evidence 2: \"The current market value for the land is RM360mil...\" (financial implications and market impact quantified)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Vacaron owns the parcel of land that F&N is selling...\" (context about ownership but no background on Vacaron's history)\n• Evidence 2: \"F&N is focused on unlocking value of its non-core properties...\" (strategic context but lacks industry comparisons or market analysis)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The current market value for the land is RM360mil, as appraised by Henry Butcher Malaysia on March 10, 2025 and further updated on Sept 10 this year.\"\n• Evidence 2: \"F&N said it is focused on unlocking the value of its non-core properties...\" (direct company statement with verifiable timeline)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"F&N said it is focused on unlocking the value of its non-core properties and will utilise the funds generated to grow its core business in manufacturing...\" (direct link to strategic priorities)\n• Evidence 2: \"The proposed transaction is expected to be completed in the third quarter of 2027.\" (financial timeline with strategic implications)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Vacaron owns the parcel of land that F&N is selling.\" (contextual detail about ownership structure)\n• Evidence 2: \"TTDB was listed...until Goldis Bhd took over its listing...\" (background on TTDB but lacks analysis of transaction significance)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The country’s retail sales contracted by 3% year-on-year (y-o-y) in the second quarter of this year (2Q25), underperforming earlier projections of 1% growth.\" (RGM data)\n• Evidence 2: \"CIMB Research said...\" (Credible source cited with balanced analysis of sector challenges and opportunities)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd...manufacturers of staples...will continue to outperform\" (Direct company mention tied to strategic positioning)\n• Evidence 2: \"valuations remain supported by inelastic demand for staple goods...minimum wage hikes\" (Link to company-specific operational and market factors)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Four sub-sectors are forecast to record positive y-o-y growth...five are expected to contract\" (Comprehensive sector analysis with specific data)\n• Evidence 2: \"electricity tariff revision...SST expansion...mandatory EPF contributions\" (Detailed cost headwinds analysis with multiple data points)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CIMB Research is viewing positively...\" (reputable source with specific analysis)\n• Evidence 2: \"Finance Minister II Datuk Seri Amir Hamzah Azizan said...\" (official statement with quantifiable savings estimates)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd at RM29.70; QL Resources Bhd...\" (direct company mention with financial implications)\n• Evidence 2: \"The policy sustains affordability...\" (connects to business performance factors for automotive/retail sectors)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We estimate savings of up to RM18 per month per consumer...\" (specific data supporting claims)\n• Evidence 2: \"Early access begins on Sept 27...\" (comprehensive timeline and implementation context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., FBM KLCI rebounded 7.07 points to 1,605.54) and cites credible financial institutions (Apex Securities, TA Securities) with balanced analysis.\n• Evidence 2: The tone remains neutral, avoiding fabrication or bias, and includes factual details like share turnover (2.3 billion shares) and price movements (e.g., Ireka fell 9.5 sen)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd directly, focusing instead on broader market trends and unrelated stocks (e.g., Malayan Cement, Nestle).\n• Evidence 2: No connection is made to the company's strategic direction, financial performance, or stakeholder interests, despite the context of Budget 2026 and sectoral themes."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article provides comprehensive market context, including technical analysis (Fibonacci retracement levels), sectoral performance, and analyst forecasts, offering detailed insights into market dynamics.\n• Evidence 2: It includes specific stock price movements, trading volumes, and key economic data (e.g., US core PCE inflation expectations), enhancing narrative completeness."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"By engaging our media partners through activities like this, we not only celebrate the nation’s diversity, but also show our appreciation for their continued support in telling the F&N story,\" said Karen Tan.\n• Evidence 2: The article provides specific details about the event (dates, products, campaign name) without fabrication, though it lacks third-party verification of claims."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The event reflected its commitment to supporting local businesses that make a positive impact,\" directly ties to F&N’s corporate social responsibility strategy.\n• Evidence 2: Mention of new product launches (NutriWell beverages, Golden Ring crackers) aligns with market expansion and innovation strategies."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Provides context about the Malaysia Day celebration, campaign timeline (Sept 30), and specific products (Oat Milk, gashapon machine) to illustrate F&N’s engagement.\n• Evidence 2: Includes quotes from executives but lacks data on financial impact, stakeholder feedback, or historical context of the company’s strategies."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites credible financial institutions like TA Securities and Hong Leong Investment Bank Research, providing specific market data (e.g., FBM KLCI at 1,589.42, turnover of RM982.9mil).\n• Evidence 2: Balanced reporting includes both positive outlooks (e.g., retest of 1,600–1,640 range) and risks (e.g., US tariffs on semiconductors)."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article mentions consumer counters and companies like F&N, Nestle, and Heineken, which are in the food and beverage sector relevant to Fraser & Neave, but lacks direct mention of the company.\n• Evidence 2: References to market trends and sector-specific risks (e.g., US tariffs on E&E) provide indirect relevance to stakeholders, though no explicit connection to Fraser & Neave is made."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: Detailed market analysis includes Fibonacci retracement levels, support/resistance thresholds, and turnover data (e.g., 1.32 billion shares traded).\n• Evidence 2: Comprehensive coverage of macroeconomic factors (e.g., Fed policy, GDP expectations) and sector-specific risks (e.g., US tariffs impacting Malaysia’s E&E sector)."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 2.72 points, or 0.17%, to 1,585.57 at 9.17 am\" (specific, verifiable data)\n• Evidence 2: \"Berjaya Research Sdn Bhd said...\" (credible source cited with balanced analysis of market trends)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N climbed 34 sen to RM27.34\" (direct company mention with stock performance)\n• Evidence 2: \"investors should brace for a period of sideways consolidation\" (market implications for stakeholders, though not company-specific strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Technical analysis with resistance at 1,600 and support at 1,570\" (detailed market context)\n• Evidence 2: \"Extended weekend break... hover between 1,575-1,585\" (comprehensive coverage of market dynamics and investor behavior)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: The article cites specific collaborations (e.g., \"Mural Batik Madani\" is a collaboration between Kuala Lumpur City Hall (DBKL) and Berjaya Group) and verifiable details (e.g., the mural's size: 183m long and 6m high).\n• Evidence 2: Quotes from artists like Arif Othman and Mr. Perol are included, adding firsthand perspectives without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave (F&N) as a commissioner of the kopitiam mural, linking the company to cultural initiatives.\n• Evidence 2: The \"Born to Fly\" mural is tied to a campaign by Hoka and DBKL, suggesting brand alignment with community projects, though no direct financial or strategic implications for F&N are analyzed."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides detailed descriptions of murals (e.g., \"Life of a Traveller\" was created by students over four days under lecturers' guidance) and contextualizes their cultural significance.\n• Evidence 2: Background on historical murals (e.g., Muzium Negara's 1962 Venetian glass tiles) and community projects (e.g., Jalan Raja Chulan's 2019 contest) is included, offering comprehensive coverage of the topic."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The FBM KLCI finished higher... as investors awaited Bank Negara's expected decision' (verifiable market data)\n• Evidence 2: 'Foreign investors continued selling local stocks... RM251mil in equities' (specific financial figures from Bursa Malaysia)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'F&N gained 48 sen to RM27.60' (direct mention of Fraser & Neave Holdings Bhd, relevant to investors)\n• Evidence 2: 'Market sentiment... influenced by global drivers... fund flows' (impacts strategic factors for stakeholders)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: 'The 30-stock index rose... intraday high/low range' (comprehensive market context)\n• Evidence 2: 'Regional markets closed lower... Kospi gained 0.38%' (detailed comparative analysis of global markets)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N’s chief executive officer Lim Yew Hoe said in a briefing to analysts and the media...\" (direct quote from credible source)\n• Evidence 2: \"F&N declared a total of 63 sen per share in dividends...\" (specific financial data with verifiable context)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The company’s plans to diversify into the production of fresh milk...\" (direct link to strategic direction)\n• Evidence 2: \"The impact would be minimal and the company would try to absorb the cost...\" (financial implications of regulatory changes)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The company expects to produce up to 200 million litres of milk annually from 20,000 cows...\" (specific production targets and context)\n• Evidence 2: \"The cows should have animal feed ready for consumption by July...\" (timeline details and operational planning)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI rose 13.47 points, or 0.83%, to 1,634.17...\" (specific numerical data)\n• Evidence 2: \"Bank Negara said in a statement\" (direct quote from official source)\n• Evidence 3: \"Reuters reported...\" (credible external source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N fell 24 sen to RM30.74\" (direct mention of the company's stock performance)\n• Evidence 2: \"Monetary policy stance remains supportive of the economy\" (indirectly relates to business environment impacting the company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"In the broader market, gainers outnumbered losers 849 to 428...\" (comprehensive market data)\n• Evidence 2: \"The Monetary Policy Committee (MPC) remains vigilant...\" (contextual background on policy implications)"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd's net profit for the 4QFY24 dropped 38.2% YoY to RM85.0mn from RM137.6mn, impacted by higher tax expenses and increased withholding taxes on dividends repatriated from its Thailand operations.\"\n• Evidence 2: Specific financial figures (RM85.0mn, RM137.6mn) and verifiable causes (tax expenses, withholding taxes) are cited without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd's net profit...impacted by higher tax expenses and increased withholding taxes on dividends repatriated from its Thailand operations.\"\n• Evidence 2: Direct mention of the company's financial performance ties to strategic factors like international operations and tax implications affecting long-term value."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"dropped 38.2% YoY to RM85.0mn from RM137.6mn, impacted by higher tax expenses and increased withholding taxes on dividends repatriated from its Thailand operations.\"\n• Evidence 2: Specific data points are provided, but no broader context (e.g., industry trends, comparative analysis) or stakeholder impact analysis is included."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites verifiable data points like the FBM KLCI's 0.07% gain, S&P 500's 0.74% rise, and Nasdaq's 1.51% increase, which align with public market reports.\n• Evidence 2: Multiple credible sources (Malacca Securities, Apex Securities) are referenced with balanced perspectives, including both bullish and cautionary outlooks."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article discusses market trends affecting sectors like technology and plantation, which could indirectly relate to Fraser & Neave's business (e.g., CPO prices impacting plantation sector).\n• Evidence 2: It mentions the ringgit's performance and export-driven companies, which may influence the company's financial performance but lacks direct strategic context for Fraser & Neave."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article provides detailed market data (e.g., FBM KLCI movement, S&P 500/Nasdaq figures) and analyst insights on sector-specific impacts, offering context for investors.\n• Evidence 2: It includes specific stock price movements and sector-specific forecasts, though it lacks in-depth analysis of Fraser & Neave's operational or strategic performance."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI was down 10.89 points, or 0.67%, at 1,623.28\" [verifiable market data]\n• Evidence 2: \"ringgit strengthened against the US dollar\" [specific forex rate movement]"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N slid RM1.04 to RM29.70\" [direct company mention, but only as a stock price data point]\n• Evidence 2: \"decliners outpaced gainers\" [broader market context, no strategic implications]"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"466 counters advancing, 641 declining, and 507 unchanged\" [comprehensive market activity data]\n• Evidence 2: \"Turnover reached 3.8 billion shares, valued at RM3.4bil\" [quantitative context about market activity]"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI, which opened higher this morning, gave way to profit-taking by midday\" (factual market movement)\n• Evidence 2: \"Malacca Securities said...\" (credible source cited with verifiable analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"F&N slid 84 sen to RM29.90\" (direct company mention)\n• Evidence 2: \"we favour the construction... sectors as we enter the corporate earnings season\" (market trends relevant to company operations)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Turnover stood at 2.32 billion securities valued at RM1.6bil\" (quantitative data)\n• Evidence 2: \"Malacca Securities... we maintain a positive view on glove stocks...\" (sector-specific analysis with market implications)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The FBM KLCI opened higher in early trade Thursday, lifted by Bank Negara's decision to keep the overnight policy rate (OPR) at 3% and gains on Wall Street.\" (verifiable factual data)\n• Evidence 2: \"The Dow Jones Industrial Average rose 1,508.05 points, or 3.57%, to 43,729.93...\" (specific numerical data from credible sources)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N fell 40 sen to RM30.34\" (only mentions stock price movement, no strategic context)\n• Evidence 2: No direct linkage to Fraser & Neave Holdings Bhd's business strategies, competitive positioning, or long-term value creation"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Inter-Pacific Research expects near-term market conditions to remain relatively buoyant...\" (provides analyst perspectives and market context)\n• Evidence 2: \"The lower liners could also gather more momentum...\" (includes technical analysis and market activity details)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Bursa Malaysia finished higher today as bargain-hunting activity increased following six consecutive sessions of decline.\" (verifiable market data)\n• Evidence 2: \"Foreign investors continued selling equities... RM118mil\" (specific, cited data from Bursa Malaysia)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N lost 32 sen to RM30.90\" (single stock price movement, no strategic context)\n• Evidence 2: No discussion of Fraser & Neave Holdings Bhd's business strategies, competitive position, or long-term value creation"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Market traded within a range of 9.35 points... 2.48 billion shares... RM2.26bil\" (comprehensive market data)\n• Evidence 2: \"Foreign investors... RM118mil... local institutions... RM88mil\" (detailed transaction data, but lacks analysis of implications)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MIDF Research said in a report yesterday.\" (credible source cited)\n• Evidence 2: \"The impact on costs for beverage companies... remains limited.\" (specific analysis with factual context)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N is well positioned to capitalise on the growing trend of out-of-home consumption...\" (direct company strategic positioning)\n• Evidence 2: \"improved margins based on declining global commodity prices...\" (financial implications for business strategy)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the increase in STR allocations... to RM13bil\" (specific quantitative data)\n• Evidence 2: \"product reformulations across most of their ready-to-drink products\" (detailed operational adaptation analysis)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites verifiable data such as the FBM KLCI falling 1.86 points to 1,639.67 and specific index levels for Dow Jones, S&P 500, and Nasdaq Composite.\n• Evidence 2: It includes quotes from credible sources like SPI Asset Management's Stephen Innes and Inter-Pacific Research, with balanced analysis of market factors."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article mentions F&N's stock price rise but does not connect it to the company's strategic direction, competitive position, or long-term value creation.\n• Evidence 2: Focuses on broader market trends and geopolitical factors rather than specific business performance or financial implications for Fraser & Neave."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Provides detailed market context, including technical analysis of the FBM KLCI, Fed rate-cut speculation, and U.S. election impacts.\n• Evidence 2: Includes quotes from multiple analysts and technical level predictions (e.g., 1,640 support level), but lacks company-specific operational or strategic insights."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI's 6.32-point rise, share volumes (3.1 billion shares), and fund flows (RM510mil foreign sales).\n• Evidence 2: It maintains a balanced tone by reporting both gains (e.g., Nestle surged RM1.62) and declines (e.g., Panasonic Manufacturing slid 47 sen), without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a stock that rose 62 sen, linking to its market performance.\n• Evidence 2: It connects to broader market dynamics affecting investors, which indirectly relates to stakeholder interests but lacks deeper analysis of the company's strategic positioning."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., 558 gainers vs. 511 decliners, regional index movements) and specific stock price changes, providing context for the market rebound.\n• Evidence 2: It explains fund flows (foreign investors offloading RM510mil) and regional market impacts, though it stops short of analyzing underlying economic or corporate factors driving these trends."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Genting Malaysia Bhd said the lawsuit... will not materially impact...\" (direct company statement)\n• Evidence 2: \"AME Real Estate... deemed fair and reasonable by MainStreet Adviser\" (third-party verification)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Varia Bhd’s subsidiary secured RM571.8mn contract\" (strategic expansion/contract win)\n• Evidence 2: \"Alpha IVF expanding into Indonesia...\" (market penetration strategy)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Ancom Nylex reported 36.5% drop... due to geopolitical conflicts\" (specific financial context)\n• Evidence 2: \"Malaysia Airports... 36.1mn passengers\" (quantifiable operational metric)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, Salcon said its subsidiary...\" (verifiable source)\n• Evidence 2: \"F&N AgriValley is wholly-owned by F&N\" (clear corporate relationship disclosure)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"RM18.5mil contract...dairy farm\" (significant financial commitment impacting business performance)\n• Evidence 2: \"Section One...April 20, 2025\" (project timelines affecting operational capacity)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"RM18.5mil...Negri Sembilan\" (specific financial and geographic context)\n• Evidence 2: \"Section One...2025\" (project phase details but no broader industry context)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, Salcon said the contract is for the proposed external water reticulation works in Gemas, Negeri Sembilan for F&N AgriValley.\"\n• Evidence 2: \"The project is expected to contribute positively towards the earnings and net assets of Salcon Group for the financial year ending Dec 31. 2025 onwards,\" it said."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The project is expected to contribute positively towards the earnings and net assets of Salcon Group for the financial year ending Dec 31. 2025 onwards,\" it said.\n• Evidence 2: Direct mention of Salcon's subsidiary securing a contract for F&N AgriValley, which is part of Fraser & Neave Holdings Bhd."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Salcon added the project is a construction contract and has no option for renewal.\"\n• Evidence 2: Limited context on F&N AgriValley's broader operations or how this contract aligns with strategic goals, though it provides basic financial impact details."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI closing at 1,633.55, down 0.45% or 7.39 points, with specific volume and trade statistics (2.3 billion shares valued at RM2.7bil).\n• Evidence 2: It cites credible sources like RHB Research and JP Morgan's downgrades, and includes dealer commentary about investor behavior, maintaining a balanced tone without fabrication."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd directly, focusing instead on broader market indices and banking sector performance.\n• Evidence 2: While it discusses market trends and fund flows, there is no connection to the company's strategic direction, competitive position, or financial implications for stakeholders."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides comprehensive market data, including sector-specific declines (Public Bank's 26 sen drop), regional comparisons, and fund flow details (foreigners net buying RM54mil).\n• Evidence 2: It contextualizes the decline within broader regional trends (MSCI Asia ex-Japan, Nikkei, Kospi, CSI 300, Shanghai Composite), but lacks analysis of how these trends might impact Fraser & Neave's operations or financials."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 4.91 points, or 0.3%, to 1,639.82 at 9:21 am.\" (verifiable data)\n• Evidence 2: \"Dealers noted positive momentum in U.S. markets following the release of the Federal Reserve's September meeting minutes\" (citing a credible source and factual context)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N slid 34 sen to RM30.46\" (only mentions stock price movement, no strategic context)\n• Evidence 2: No discussion of Fraser & Neave's business strategies, competitive position, or long-term value creation"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Inter-Pacific Research noted that the market's cautious trend could continue...\" (provides analyst insights and market context)\n• Evidence 2: \"The Dow Jones Industrial Average rose 1.03%...\" (includes detailed market data and global equity indices)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable numerical data (e.g., FBM KLCI declined 5.51 points, Public Bank slid 20 sen to RM4.37) and cites credible financial analysts (TA Securities, Malacca Securities).\n• Evidence 2: The tone is balanced, reporting both market declines and gains without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: The article directly mentions F&N (Fraser & Neave) as a stock that gained 34 sen, linking it to market movements relevant to investors.\n• Evidence 2: Analysts discuss potential sectors (e-invoicing, construction) and macroeconomic factors (US inflation, Chinese stimulus) that could impact long-term value creation for stakeholders."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes detailed market data (traded volumes, stock price changes, index fluctuations) and analyst forecasts, providing context for market trends.\n• Evidence 2: It references specific deals (Public Bank-LPI acquisition) and sector-specific insights (plantation, O&G stocks), offering layered analysis of market drivers."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"In a filing with Bursa Malaysia, Public Bank said the acquisition will result in a proposed mandatory general offer (MGO) to acquire all remaining LPI shares...\" (verifiable source cited)\n• Evidence 2: \"Foreign investors and local retailers are net buyers, acquiring equities worth RM70mil and RM12mil, respectively, on Wednesday.\" (specific, factual data provided)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"The article contains no mention of Fraser & Neave Holdings Bhd or its operations, financials, or strategic initiatives, rendering it irrelevant to the company's information needs.\" (no direct company mention)\n• Evidence 2: \"The focus on Public Bank and Teh family shareholdings pertains to a different entity and does not address strategic factors for Fraser & Neave.\" (no strategic relevance to target company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Public Bank Bhd announced that it acquiring a 44.15% stake in LPI Capital Bhd from the estate of the late Tan Sri Teh Hong Piow... for RM1.72bil cash, or RM9.80 per share.\" (detailed transaction specifics)\n• Evidence 2: \"Details of the restricted offer for sale will be announced later.\" (contextual information about future actions provided)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI sinks deeper into the red at midday as market sentiment weakens, while some energy counters gain ground amid escalating tensions in the Middle East.\" (verifiable market data)\n• Evidence 2: \"TA Securities stated...\" and \"SPI Asset Management managing partner Stephen Innes noted...\" (credible expert analysis with no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N lost 32 sen to RM31.68\" (direct company mention impacting investor perception)\n• Evidence 2: \"Market sentiment will remain cautious...\" (broader market context affecting stakeholder decisions, though no strategic direction analysis)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Bursa Malaysia Energy Index surged 3.29% or 28.20 points to 886.01 points\" (quantitative details)\n• Evidence 2: \"Oil prices have calmed down after Thursday’s spike...\" (contextual analysis with forward-looking insights)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data on FBM KLCI movements (e.g., 'closed up 2.24 points, or 0.14% to 1,641.55') and trading volumes ('3.3 billion shares, valued at RM2.5bil').\n• Evidence 2: It cites Reuters as a credible source for external market analysis ('Reuters reported that the ringgit...')"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions F&N's stock performance ('F&N jumped 50 sen to RM32'), which is relevant to investors.\n• Evidence 2: It lacks analysis of how broader market trends (e.g., ringgit depreciation) impact F&N's strategic position or long-term value creation."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article includes specific stock price movements and trading data for multiple companies, providing quantitative context.\n• Evidence 2: It briefly mentions external factors (e.g., geopolitical tensions affecting currency markets) but does not elaborate on their potential impact on F&N's operations or strategy."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We just want to thank 100Plus for supporting us over the past few years...\" (direct quote from Aaron, verifiable as sponsor statement)\n• Evidence 2: \"Three tournaments alone cost RM100,000.\" (specific financial detail with context)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We are proud of all our brand ambassadors...\" (direct company statement linking sponsorships to brand strategy)\n• Evidence 2: \"RM100,000...for finishing third...\" (financial implications of sponsorship deals)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The season will end with the World Tour Finals (Dec 11-15)...\" (comprehensive event schedule)\n• Evidence 2: \"I need to show results first (to get more sponsors)\" (contextual insight into athlete-sponsor dynamics)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI closing at 1,597.47, intraday high of 1,603.19, and turnover of RM2.7bil, which aligns with factual market reporting.\n• Evidence 2: Analyst Thong Pak Leng's commentary is attributed to a credible source (Rakuten Trade) and includes balanced analysis of market conditions and technical levels."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd or any aspects of its business, financials, or strategic direction.\n• Evidence 2: The focus is solely on broader market indices and regional performance, with no connection to the company's operations or investor concerns."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., 561 gainers, 428 losers, RM2.7bil turnover) and technical analysis of the FBM KLCI's psychological levels, providing context for market behavior.\n• Evidence 2: Regional market performance is elaborated with specific indices (Nikkei, Hang Seng, CSI300, etc.) and their percentage movements, offering comprehensive coverage of the broader market environment."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: '100PLUS today announced that Aaron Chia and Soh Wooi Yik will share an incentive payout of RM150,000 while Zii Jia will receive RM100,000.' (specific, verifiable financial details)\n• Evidence 2: 'We are proud of all our brand ambassadors...' (direct quote from credible source, Leong Wai Yin, Marketing Director)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Over the years, 100Plus has supported numerous national sports associations... (links to company's strategic focus on sports sponsorship)\n• Evidence 2: 'These players lived up to the ideals of 100PLUS...' (connects brand values to strategic alignment with athletes)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: 'Zii Jia follows in the illustrious footsteps of other 100Plus brand ambassadors...' (provides historical context of brand ambassador success)\n• Evidence 2: 'The Badminton Association of Malaysia... are among the bodies that the company presently supports.' (background on company's sports support network)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"We currently have around RM7mil to RM8mil in sponsorship, but we are still short and working to reach the target.\" (Quotes from Hisamudin provide direct statements about financial figures)\n• Evidence 2: \"Under the renewed deal, 100PLUS will continue as the official isotonic drink partner... with a total sponsorship worth RM2mil.\" (Specific, verifiable sponsorship details are provided)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"The funds are crucial to cover the expenses of not only the senior national team but also the Under-23 and women’s squads.\" (Focuses on FAM's operational needs, not Fraser & Neave's strategic priorities)\n• Evidence 2: \"Fraser and Neave (F&N) Holdings Bhd food and industry engagement division managing director... said 100PLUS has always remained committed...\" (Only tangential mention of the company, no strategic implications for F&N)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"With about half the target still to be achieved in the remaining four months...\" (Provides timeline context for sponsorship goal)\n• Evidence 2: \"We already have some initiatives in place and more in the pipeline.\" (Mentions ongoing efforts but lacks detailed explanation of strategies or data supporting claims)"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd posted a 15.16% year-on-year (y-o-y) decline in the 2Q of financial year 2025 net profit to RM140.3mil...\" (specific financial data with verifiable context)\n• Evidence 2: \"Rakuten Trade chief executive officer Kazumasa Mise said...\" (direct quote from credible source with no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"...Fraser & Neave Holdings Bhd...attributed to higher tax expenses, startup losses from its dairy operations and softer revenue\" (direct company mention with financial performance context)\n• Evidence 2: \"...renewed interest in domestically-orientated sectors...\" (links to strategic market positioning and sector-specific tailwinds)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"...select counters are expected to deliver resilient earnings, supported by stable demand, cost optimisation and regional tailwinds\" (analytical context with multiple factors)\n• Evidence 2: \"...the Bursa Malaysia Construction Index and Financial Services Index outperformed...\" (comprehensive market analysis with sector-specific insights)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd posted a 15.16% year-on-year (y-o-y) decline in 2Q of the financial year of 2025 (2Q25) net profit to RM140.3mil, attributed to higher tax expenses, startup losses from its dairy operations, and softer revenue.\"\n• Evidence 2: \"Rakuten Trade head of research Kenny Yee said its initial review of 2Q results and guidance from key players show encouraging signs...\" (cites credible source with verifiable data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd... posted a 15.16% y-o-y decline... attributed to higher tax expenses, startup losses...\" (direct company mention with financial performance impact)\n• Evidence 2: \"Traders should closely track updates from banking heavyweights, large-cap tech and staple consumer names to position for medium-term growth\" (links to market strategies affecting stakeholders)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"...higher tax expenses, startup losses from its dairy operations, and softer revenue\" (specific factors explaining financial performance)\n• Evidence 2: \"...renewed interest in domestically oriented sectors helped cushion the local bourse...\" (provides contextual market analysis and sector-specific insights)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The 30-stock index rose 2.84 points or 0.18% to 1,541.48\" (specific, verifiable data)\n• Evidence 2: \"Foreign institutional investors remained net sellers\" (cited via Bursa Malaysia data)\n• Evidence 3: \"The ringgit slipped 0.02% against the US dollar\" (objective, factual economic data)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"F&N fell 40 sen to RM28.60\" (mentions company stock price but no strategic context)\n• Evidence 2: \"No direct reference to Fraser & Neave Holdings Bhd's business strategies, competitive positioning, or financial performance metrics\" (no stakeholder-relevant strategic analysis)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Trading volume stood at 2.65 billion shares worth RM2.4bil\" (quantitative market context)\n• Evidence 2: \"Regional markets mostly ended higher today\" (comparative analysis across markets)\n• Evidence 3: \"Foreign investors sold RM318mil worth of local equities\" (specific transaction data, but no analysis of implications for Fraser & Neave)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI was down 1.7 points to 1,536.94 as profit-taking pulled the index lower following the previous day's rally\" [factual accuracy with verifiable data].\n• Evidence 2: \"Overall market volume was 1.53 billion shares changing hands for RM999.52mil\" [specific, measurable data without bias]."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Beverage maker F&N joined brewers in the red, falling 22 sen to RM28.78 amid weak consumer sentiment\" [direct company mention with financial impact].\n• Evidence 2: \"Inari Amertron... dropped 10 sen to RM1.87\" [indirect relevance to sector dynamics but no strategic context]."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"552 issues falling to negative territory and only 272 positive\" [comprehensive market context].\n• Evidence 2: \"Construction sector outperformed with a marginal 0.32% price increase\" [sector-specific detail but limited company-specific analysis]."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Late buying interest pushes FBM KLCI to close at day’s high\" (specific, factual market movement)\n• Evidence 2: \"Turnover was at 2.42 billion shares valued at RM2.22bil\" (verifiable quantitative data)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N dropped 70 sen to RM27.50\" (direct mention of Fraser & Neave Holdings Bhd)\n• Evidence 2: \"Regional bourses finished mixed today\" (broader market context but no strategic implications for the company)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The FBM KLCI ended 7.87 points higher or 0.51% at 1,556.98\" (comprehensive market performance details)\n• Evidence 2: \"Japan’s Nikkei 225 closed up 1.85% to 41,820.48; Hong Kong’s Hang Seng Index fell 0.89% to 24,858.82\" (extensive regional market coverage)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"FBM KLCI ended flat, closing at its intraday high of 1,524.50, up 0.68 points or 0.04%\" (verifiable market data)\n• Evidence 2: \"Dealers said market sentiment is likely to remain subdued...\" (balanced reporting with no fabrication or bias)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N fell 30 sen to RM28.60\" (brief mention of company stock price without strategic context)\n• Evidence 2: \"Anticipation ahead of the 13MP...\" (general market context, not tied to company-specific strategic factors)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"2.65 billion shares were traded, with a value of RM2.07bil\" (comprehensive market data)\n• Evidence 2: \"MSCI's Asia ex-Japan stock index was firmer by 0.04%\" (regional context and detailed market analysis)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"HLIB Research reported that the RM100 cash handout is estimated to benefit 22 million Malaysians, involving an allocation of RM2bil.\" (verifiable data)\n• Evidence 2: \"we maintain our fiscal deficit projection of minus 3.8% of GDP, up from the minus 4.1% of 2024\" (specific, data-driven claim with source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd at a target price of RM32.68\" (direct company mention with financial implication)\n• Evidence 2: \"the RM100 cash handout... should increase private consumption growth by approximately 0.2 percentage points\" (connects to market impact and business performance)"
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the consumer sector is currently trading at 27.2 times one-year forward price-over-earnings (PE)... reflecting ongoing soft consumer sentiment\" (comprehensive analysis with quantitative context)\n• Evidence 2: \"Initial risks may persist... although we believe PetDag still has the upper hand to mitigate them\" (detailed risk assessment with strategic insight)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI falling 5.19 points to 1,519.40, with specific stock price movements (e.g., F&N rose 14 sen to RM28.44).\n• Evidence 2: The tone is neutral, discussing market conditions without fabrication or bias, and includes factual details about trading volumes (2.82 billion shares) and currency fluctuations."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) with its stock price movement, which is relevant to investors.\n• Evidence 2: However, the focus remains on broader market trends (tariff developments, volatility) rather than F&N's strategic direction, competitive position, or financial performance beyond the stock price."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes comprehensive data on market indices, stock movements, trading volumes, and currency rates, providing detailed context for the market's performance.\n• Evidence 2: While it covers multiple sectors and international indices (e.g., Nikkei, Kospi), it lacks deeper analysis of factors affecting F&N specifically or broader implications for the company's long-term value."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Malaysia’s economy grew 4.5% year-on-year in the second quarter, based on official advance estimates.\" (verifiable GDP data)\n• Evidence 2: \"The FBM KLCI added 4.92 points, or 0.32%, to close at 1,525.86\" (specific numerical data with clear context)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N eased 16 sen to RM28.86\" (direct mention of Fraser & Neave, but only as a stock price movement)\n• Evidence 2: No analysis connecting market trends to company-specific strategic factors, competitive positioning, or long-term value creation"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Trading activity remained steady, with a total of 3.18 billion shares changing hands, valued at RM2.8bil\" (comprehensive market context)\n• Evidence 2: \"Regional markets ended the day mixed. Among the key regional indices:\" (detailed coverage of global market context)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 9.44 points, or 0.62% to 1,520.94\" (verifiable data)\n• Evidence 2: \"Foreign investors net sold RM173mil\" (specific, measurable figures)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N rose 36 sen to RM29.02\" (brief stock price mention, no strategic context)\n• Evidence 2: \"Cautiousness lingered ahead of key economic events\" (general market sentiment, not company-specific)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"547 gainers, 416 losers and 475 counters traded unchanged\" (comprehensive market data)\n• Evidence 2: \"Foreign investors net sold RM173mil... local institutions and retailers were net buyers\" (detailed transactional context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The recent easing of the OPR by the central bank is expected to inject liquidity...\" (TA Securities)\n• Evidence 2: \"Also, within a low interest regime Banks may actually benefit from improved loans activities\" (Rakiten Trade)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N rising 34 sen to RM29.20\" (direct company mention)\n• Evidence 2: \"Bank Negara's monetary easing could serve as a positive catalyst for equities prices\" (connects to market impact)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Malaysia's benchmark FBM KLCI opened 2.19 points higher...\" (provides market context)\n• Evidence 2: \"Traders on Bursa Malaysia kept a watchful eye for more developments...\" (background on market sentiment)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI rose 6.81 points, or 0.44%, to 1,548.34\" (specific, verifiable data)\n• Evidence 2: TA Securities and Malacca Securities provide analysis with clear market context and technical indicators (credible sources)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: No direct mention of Fraser & Neave Holdings Bhd or its strategic initiatives\n• Evidence 2: Focus on broader market trends and unrelated sectors (data centres, renewable energy) without connection to the company's business"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: Detailed market statistics (traded volume, stock movements, technical analysis) provide contextual depth\n• Evidence 2: Sector-specific insights (construction, power infrastructure) but lack granular details about the company's operations or financials"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 2.99 points, or 0.19% to 1,544.52 at 9.16 am.\" (specific, verifiable data)\n• Evidence 2: \"Berjaya Research Sdn Bhd said...\" and \"Rakuten Trade noted...\" (credible sources cited with balanced analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"F&N lost 30 sen to RM28.78\" (brief mention of company but no strategic context)\n• Evidence 2: No discussion of Fraser & Neave's business strategy, competitive position, or financial performance implications"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The key index is at its 1,541 hurdle...\" (some technical context)\n• Evidence 2: \"Net foreign inflows have already taken place...\" (limited analysis but lacks broader market context or company-specific insights)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., S&P 500 gained 0.83% to 6,279.36) and quotes from credible research firms (Berjaya Research, Rakuten Trade) with specific technical analysis.\n• Evidence 2: Balanced reporting is maintained by presenting both the FBM KLCI's decline and analysts' bullish outlook, without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd directly or its strategic initiatives, financial performance, or competitive position.\n• Evidence 2: Focus is on broader market trends and stock movements (e.g., F&N, PETRONAS Dagangan) rather than the company's specific business strategies or long-term value creation."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., FBM KLCI levels, trading volume, analyst targets) and context about market sentiment and technical analysis.\n• Evidence 2: While it provides sufficient background on market dynamics, it lacks in-depth analysis of Fraser & Neave Holdings Bhd's operations, financials, or strategic relevance to investors."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI's decline of 10.51 points (\"The FBM KLCI slid 10.51 points, or 0.7%, to 1,501.40\").\n• Evidence 2: It reports balanced market sentiment, noting both negative breadth (660 losers) and positive performers (298 gainers) without overt bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave (F&N) as a stock that rose 26 sen to RM28.76, linking it to market movements.\n• Evidence 2: It references foreign investor activity (RM53mil net sellers) and local institutional buying, which indirectly relates to capital flow impacts on companies."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes comprehensive market data: share volumes (2.82 billion shares), price changes for multiple stocks, and regional index performance (Nikkei, Hang Seng, etc.).\n• Evidence 2: It provides context on geopolitical concerns and investor sentiment, though limited analysis of specific company strategies is absent."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"MIDF Research said there would be a shift in consumption patterns favouring essential goods over discretionary items...\" (specific analyst insight with verifiable source)\n• Evidence 2: \"We believe the impact will be uneven, more pronounced on discretionary items while staples remain relatively insulated.\" (balanced analysis with no apparent bias)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd (\"buy\" call with a target price of RM32.68)\" (direct company mention with strategic investment recommendation)\n• Evidence 2: \"Staples players are likely to be more insulated from tax-driven volatility...\" (connects to company's competitive positioning and risk mitigation strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Sustained currency strength would be favourable to those exposed to US dollar-denominated raw materials...\" (contextual analysis of macroeconomic factors)\n• Evidence 2: \"We continue to favour consumer staples for their earnings defensiveness and resilient demand profile\" (comprehensive explanation of sector dynamics and investment rationale)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides specific, verifiable data such as the FBM KLCI closing at 1,518.11 with a 0.56% decline, and stock price movements like F&N climbing 12 sen to RM28.32.\n• Evidence 2: The tone is neutral, presenting factual market movements without apparent bias, and contextualizes the decline with geopolitical tensions and oil price surges."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article mentions F&N's stock price increase but does not connect it to the company's strategic direction, competitive position, or long-term value creation.\n• Evidence 2: While it discusses market trends affecting investors, it lacks direct analysis of how these trends impact Fraser & Neave Holdings Bhd's business performance or strategic priorities."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article comprehensively covers market breadth, stock movements, and regional indices (e.g., Japan’s Nikkei, Hong Kong’s Hang Seng), providing detailed numerical data.\n• Evidence 2: It explains the context for market declines (geopolitical tensions, oil prices) but stops short of analyzing deeper implications for specific companies beyond surface-level stock price changes."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The FBM KLCI closed higher for the second straight day...\" (specific, verifiable data)\n• Evidence 2: \"Reuters reported that the US dollar slid...\" (credible source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N fell 24 sen to RM28.20\" (direct company mention, but no strategic context)\n• Evidence 2: \"Market breadth turned negative...\" (general market analysis, no link to company strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The 30-stock index closed up 2.78 points...\" (comprehensive market data)\n• Evidence 2: \"The ringgit strengthened 0.16%...\" (detailed contextual analysis of currency movements)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"FBM KLCI rose 6.89 points, or 0.45%, to close at 1,523.84\" (specific, verifiable data)\n• Evidence 2: \"Foreign investors and retailers were net sellers of RM81mil and RM17mil, respectively, while local institutions emerged as net buyers of RM98mil, according to Bursa Malaysia data\" (credible source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N jumped 64 sen to RM28.44\" (direct company mention, but no strategic context)\n• Evidence 2: \"Consumer stocks led the gainers\" (general market observation, no link to company-specific strategic factors)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The benchmark index moved between an intraday high of 1,530.85 and a low of 1,520.86\" (specific market data)\n• Evidence 2: \"Trading activity was brisk, with 3.3 billion shares traded, worth RM2.6bil\" (quantitative detail, but no analytical insight into implications for stakeholders)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data (e.g., FBM KLCI rose 7.36 points, 0.49% to 1,524.31) and cites credible sources like TA Securities and Hong Leong Investment Bank Research.\n• Evidence 2: The tone is balanced, acknowledging investor caution and potential risks while reporting on market movements."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd or its strategic direction, focusing instead on broader market indices and macroeconomic factors.\n• Evidence 2: While it discusses factors like tariffs and trade tensions that could impact Malaysian markets, there is no direct link to the company's business performance or strategic priorities."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article includes detailed market data (e.g., turnover, gainers/decliners, technical analysis levels) and contextualizes the market movement within U.S.-China trade talks and global economic conditions.\n• Evidence 2: It provides multiple perspectives (e.g., TA Securities, Hong Leong Investment Bank) and explains potential risks like foreign outflows and tariff uncertainties, offering comprehensive analysis of market dynamics."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Reuters reported\" (credible source cited)\n• Evidence 2: \"Inter-Pacific Research\" and \"Rakuten Trade\" provide analyst perspectives with specific data points (e.g., index levels, stock price movements)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: No direct mention of Fraser & Neave Holdings Bhd or its strategic priorities\n• Evidence 2: Focus on broad market indices (FBM KLCI, S&P 500) and macroeconomic factors, not company-specific performance or strategic initiatives"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: Detailed market analysis with specific numerical data (e.g., FBM KLCI movement, stock price changes, resistance/support levels)\n• Evidence 2: Contextualizes trade talks, analyst forecasts, and broader market trends (e.g., IPO performance, trading activity patterns)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI rose 2.62 points or 0.17% to 1,526.46\" (verifiable market data)\n• Evidence 2: \"Malacca Securities expects the FBM KLCI to trade on a softer tone\" (cited credible research house with balanced analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N fell 22 sen to RM28.22\" (direct company mention impacting stakeholder interests)\n• Evidence 2: \"SunCon... project win... cover ratio of over two times its forecasted FY24 revenue\" (strategic insight for construction sector, though not directly tied to Fraser & Neave)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Turnover stood at 1.6 billion shares worth RM883.6 million\" (comprehensive market context)\n• Evidence 2: \"Traders may also focus on the O&G sector... geopolitical tension\" (analytical depth with sector-specific insights)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"MBPJ-Milo Junior Tennis Championship is the platform for our young tennis players to not only show their talent but also gain exposure,\" said Petaling Jaya City Council (MBPJ) deputy mayor Aznan Hassan.\n• Evidence 2: \"The points collected will give participants greater motivation to better themselves,\" added Tengku Mohamed during a press conference at MBPJ’s headquarters."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The text mentions F&N Beverages as a sponsor, which is part of Fraser & Neave Holdings Bhd, but does not explicitly connect this to the company’s strategic direction or business performance.\n• Evidence 2: The article focuses on the event’s logistics and sponsors without discussing how this aligns with the company’s competitive position or long-term value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive details about the event, including participant numbers, venues, age groups, and sponsorships, offering sufficient context about the championship.\n• Evidence 2: It includes quotes from officials and explains the event’s recognition by the Malaysian Lawn Tennis Association, though it lacks deeper analysis of the company’s role or broader implications."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI slid 10.63 points, or 0.7%, to 1,508.35 — its intraday low.\" (verifiable market data)\n• Evidence 2: \"Dealers said selling in the past few days has shaken market sentiment...\" (direct quotes from market participants)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N added 20 sen to RM27.30\" (direct mention of company stock price movement)\n• Evidence 2: \"Nestle tumbled... Ajinomoto slid...\" (broader market context affecting food/beverage sector)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Stocks that fell outnumbered those that rose 616 to 336... 3.2 billion shares changed hands, worth RM5.04bil.\" (comprehensive market activity data)\n• Evidence 2: \"Japan’s Nikkei 225... Singapore’s Straits Times Index...\" (extensive regional market context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI fell 17.78 points, or 1.15%, to 1,527.02\" [specific numerical data]\n• Evidence 2: \"F&N, the top loser on Bursa Malaysia, fell 24 sen to RM27.24\" [direct stock price movement]"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N, the top loser on Bursa Malaysia\" [mentions company but lacks strategic context]\n• Evidence 2: No analysis of financial implications, competitive positioning, or long-term value creation for Fraser & Neave Holdings Bhd"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"The broader market sagged, with decliners outnumbering gainers 660 to 298\" [market context]\n• Evidence 2: \"MSCI's Asia ex-Japan stock index was weaker by 0.93%\" [regional context] but lacks company-specific analysis"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'The 30-stock index slipped 4.07 points, or 0.26%, to 1,544.80' (specific numerical data)\n• Evidence 2: 'Foreign investors were net sellers on Tuesday, offloading RM81mil' (verifiable transaction data)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: 'F&N surged RM1.20 to RM27.48' (direct company mention with price movement)\n• Evidence 2: 'Malaysian Pacific Industries, the top loser... slid RM1.94 to RM18.20' (market position context for competitors)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: 'A total of 3.27 billion shares were traded, with a value of RM2.16bil' (comprehensive market activity data)\n• Evidence 2: 'Foreign investors were net sellers... local institutions and retailers were net buyers' (detailed investor behavior analysis)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"TA Securities Research said the ongoing correction on the local market is owing concerns over the US fiscal deficit...\" (credible source cited)\n• Evidence 2: \"Rakuten Trade said in its review it expects the local market to stay in consolidation mode...\" (credible source cited)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Investors are expecting more profit results from Corporate Malaysia...\" (indirectly relevant to Fraser & Neave as a listed company)\n• Evidence 2: \"F&N down 56 sen to RM26.02\" (direct stock price movement mentioned, but no strategic context provided)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI dropped 3.34 points to 1,541.46...\" (specific market data provided)\n• Evidence 2: \"Top actives were Ta Win unchanged...\" (limited detail on individual company performance)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., 'FBM KLCI fell 3.85 points, or 0.24%, to 1,578.54') with specific numerical details.\n• Evidence 2: It cites Inter-Pacific Research as a credible source and presents balanced perspectives on market sentiment and technical indicators."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave Holdings Bhd (F&N) stock price movement ('F&N rose 26 sen to RM26.86'), but does not connect this to strategic initiatives or competitive positioning.\n• Evidence 2: It references broader market factors (e.g., trade war impacts) but lacks direct linkage to the company's long-term value creation or business performance."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes detailed market context (e.g., 'technical indicators towards overbought levels') and global equity market sentiment.\n• Evidence 2: It provides specific stock price movements and mentions upcoming GDP data as a market-moving factor, though it does not analyze these impacts in depth for the company."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites specific data points (e.g., \"FBM KLCI edged up 1.08 points, or 0.07%, to 1,584.59\") and references credible sources like Rakuten Trade and Inter-Pacific Research.\n• Evidence 2: The tone is balanced, reporting both market gains (e.g., Nestle, F&N) and declines (e.g., Allianz, PETRONAS Dagangan) without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The text mentions Fraser & Neave Holdings Bhd (F&N) as a stock that rose 18 sen, but no direct connection to its strategic direction, competitive position, or long-term value creation is made.\n• Evidence 2: The focus is on broader market trends (e.g., GDP data, foreign inflows) rather than F&N's specific business performance or strategic initiatives."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides context about market dynamics (e.g., trade tensions, foreign inflows of RM935mil) and expert analysis (e.g., Rakuten Trade's forecast for the FBM KLCI).\n• Evidence 2: While it includes stock price movements and market sentiment, it lacks detailed insights into Fraser & Neave's operational performance, financial metrics, or strategic context."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"UOB KayHian Research recommended a tactical trading stance...\" (credible source cited)\n• Evidence 2: \"Most of the key beneficiaries are expected to gain from lower import costs...\" (balanced analysis without bias)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd... are potential winners\" (direct company mention and strategic positioning)\n• Evidence 2: \"lower import costs, alongside lower debt servicing cost...\" (connects to company's financial performance and competitive position)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"during the last ringgit appreciation cycle in the third quarter of 2024...\" (historical context provided)\n• Evidence 2: \"margin improvement in auto sector would still be offset by...\" (sector-specific analysis, though limited to general trends)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The 30-stock index rose 13.10 points, or 0.85% to 1,549.90, its intraday high\" [verifiable market data]\n• Evidence 2: \"According to a Bloomberg poll, four out of five economists surveyed expect the overnight policy rate to remain unchanged at 3.0%\" [cited source with specific data]"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Bank Negara is expected to announce the OPR on April 8\" [policy decision impacting market environment, indirectly relevant to company operations]\n• Evidence 2: \"F&N climbed 22 sen to RM27.30\" [direct mention of company in the context of market movement]"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Across the broader market, advancers outnumbered decliners 595 to 378, with 2.84 billion shares worth RM2.43bil transacted\" [comprehensive market data]\n• Evidence 2: \"Elsewhere in the region...\" [contextual regional market comparisons providing broader economic context]"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI fell a marginal 0.24 points to 1,536.56\" (specific, verifiable data).\n• Evidence 2: \"Rakuten Trade... TA Securities Research\" (credible sources cited with balanced analysis)."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"F&N gaining 12 sen to RM27.20\" (direct mention of a company in the context, relevant to stakeholders).\n• Evidence 2: \"weaker domestic growth expectations... government support measures\" (impacts investor sentiment, indirectly relevant to strategic positioning)."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Immediate resistance is kept at 1,564... 76.4%FR (1,610)\" (technical analysis provides context).\n• Evidence 2: \"positive movement in consumer counters... British American Tobacco\" (specific stock movements with quantitative data)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., 'FBM KLCI jumped 24.66 points, or 1.63%, to 1,540.22')\n• Evidence 2: It cites specific stock movements (e.g., 'PETRONAS Chemicals contributed the most to the index gain... increasing 5.76%')"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave Holdings Bhd (F&N) as a stock that 'jumped 78 sen to RM27' but provides no strategic context or business performance analysis\n• Evidence 2: No connection to the company's competitive position, long-term value creation, or financial implications beyond stock price movement"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes comprehensive market data (e.g., '2.57 billion shares worth RM2.25bil transacted') and regional index comparisons\n• Evidence 2: It details individual stock movements (e.g., 'Bintulu Port slid 20 sen to RM5.24') but lacks contextual analysis of market trends' impact on specific companies"
+  }
+}
+
+{
+  "MemoryTest": "[ANCHOR] The quick brown fox jumps over the lazy dog. [/ANCHOR]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"revenue inch up by 1.4% year-on-year (y-o-y) to RM2.72bil from RM2.69bil previously\" (verifiable financial data)\n• Evidence 2: \"net profit declined 8% to RM309.36mil compared with RM336.15mil in 1H24, primarily due to a 9.7% increase in tax expenses\" (specific, factual explanation of performance drivers)"
+  },
+  "StrategicRelevance": {
+    "score": 10,
+    "justification": "• Evidence 1: \"doubling down on long-term bets in dairy and agriculture\" (direct link to strategic direction)\n• Evidence 2: \"solidify its Indochina strategy, which now rests on three pillars\" (connects to market expansion and competitive positioning)"
+  },
+  "Depth": {
+    "score": 10,
+    "justification": "• Evidence 1: \"Our break-even should be about three to five years from now... full 20,000 revenue cows expected only in phase two\" (detailed project timeline and scaling)\n• Evidence 2: \"feed costs will be lower than the United States... we can do two and a half cycles\" (comparative analysis of operational efficiency)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Both countries exchanged 31 MoUs and documents covering investments and collaborations across various sectors, potentially providing positive sentiment for the local market,\" said Malacca Securities Research in a note.\n• Evidence 2: \"As funds are becoming increasingly 'risk-off'... we expect the index to hover within the 1,470-1,480 range today,\" added Rakuten Trade."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"sectors such as tourism, plantation, technology, and construction may benefit from the signed partnerships,\" indicating potential strategic implications for related industries.\n• Evidence 2: Direct mention of F&N's stock price decline (down 80 sen to RM25) but no explicit connection to company strategy or long-term value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Provides context about market dynamics, US-China tensions, and specific stock price movements (e.g., F&N down 80 sen, Nestle dropping 64 sen).\n• Evidence 2: Explains the impact of China's visit and trade tensions on investor sentiment, though lacks detailed analysis of how these factors specifically affect Fraser & Neave's operations."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The arrival marks a key turning point in the group’s RM3bil integrated-dairy venture, after a setback in October last year when Malaysia’s Veterinary Services Department revoked its import permit...\" (verifiable factual event)\n• Evidence 2: \"Kenanga Research said in a report\" and \"MIDF Research said the successful arrival...\" (credible sources cited with balanced analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"enhancing F&N’s longer-term growth prospects in the dairy industry\" and \"positions F&N to enhance supply chain resilience...\" (direct link to strategic direction)\n• Evidence 2: \"the integrated dairy farm in Gemas is central to F&N’s broader goal of transforming from a beverage manufacturer...\" (strategic importance of the project)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Chilean cattle are fully genomically tested with Genomic Total Performance Index (GTPI) standards...\" (specific technical details)\n• Evidence 2: \"Kenanga Research has cut its earnings forecast... and raised its target price...\" (comprehensive financial implications and market impact analysis)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd has received its first commercial batch of 2,500 dairy heifers from Chile to F&N Agrivalley...\" (specific, verifiable data)\n• Evidence 2: \"Lien Hoe Corp Bhd announced that its audited accounts for the FY2024 raised a material uncertainty...\" (audited accounts detail with professional firm cited)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd has received its first commercial batch...\" (direct company mention with strategic agricultural expansion)\n• Evidence 2: \"Scope Industries Bhd is disposing of its wholly-owned subsidiary...\" (strategic divestiture impacting business portfolio)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"2,500 dairy heifers from Chile to F&N Agrivalley...\" (quantitative detail with geographic context)\n• Evidence 2: \"RM96.7mn\" and \"RM10.7mn\" figures (monetary context with no analytical interpretation)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"FBM KLCI fell for the sixth day, plunging 42.97 points, or 2.98%, to 1,400.59\" (specific numerical data with verifiable market context).\n• Evidence 2: \"Dealers expect market sentiment to remain cautious\" (balanced tone without fabrication or bias)."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N added 10 sen to RM23.30\" (direct mention of Fraser & Neave Holdings Bhd as a constituent, though not tied to strategic context).\n• Evidence 2: \"Escalating tariff wars... wiped out massive amounts in market value\" (indirectly relevant to company's operating environment but lacks direct strategic analysis)."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The benchmark index has lost a whopping 125.93 points, or 8.3%, since the announcement of sweeping tariffs\" (comprehensive data on market impact).\n• Evidence 2: \"Market traded within a range of 52.36 points... 3.77 billion shares, valued at RM3.8bil, changed hands\" (detailed quantitative context with market activity)."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The benchmark 30-stock index slipped 8.37 points, or 0.57%, to close at 1,454.76\" (specific, verifiable data)\n• Evidence 2: \"China has announced a 125% tariff hike on U.S. imports\" (direct quote from official announcement, balanced tone)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"Losers on Bursa Malaysia included PETRONAS Dagangan...\" (no direct mention of Fraser & Neave's performance)\n• Evidence 2: \"Looking ahead, market sentiment is likely to stay cautious\" (general market commentary, no company-specific strategic insights)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Around the region, the MSCI's Asia ex-Japan stock index rose by 1.36%\" (comprehensive regional context)\n• Evidence 2: \"Investors remain on edge over the escalating trade war...\" (background on trade tensions, but lacks analysis of specific impacts on food/beverage sector)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., FBM KLCI closing at 1,518.91, 2.51 billion shares traded) from Bursa Malaysia, a credible source.\n• Evidence 2: Balanced reporting is evident, with both market declines and last-minute buying mentioned, along with regional equity performance."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave (F&N) as a decliner (down 20 sen to RM23.90) but does not connect this to strategic factors, competitive positioning, or long-term value creation.\n• Evidence 2: No direct linkage to the company's business performance, financial implications, or stakeholder significance is provided."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Comprehensive coverage of market breadth (357 gainers vs. 548 losers), trading volumes (RM1.81bil), and regional indices (e.g., Nikkei 225 down 2.77%) is provided.\n• Evidence 2: Detailed forex movements (ringgit weakening against USD, SGD, GBP, EUR) and sector-specific stock performance (e.g., Dutch Lady as top gainer) are included."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI fell 6.93 points, or 0.45% to 1,519.59 at 9.07 am.\" (specific, verifiable market data)\n• Evidence 2: \"Malaysia will face a 24% reciprocal tariff by the US effective April 9.\" (clear, factual tariff information with dates)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Malaysian products are spared the worst of the tariffs... Malaysia’s total direct trades with the U.S. only amounts to about 10% of total trades.\" (relates to market exposure impact on stakeholders)\n• Evidence 2: \"Nestle tumbled RM2.46 to RM70.20... Carlsberg declined 16 sen to RM18.78.\" (direct stock price impacts for listed companies)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The key index could head back to its support at the 1,510-1,513 levels... resistances are at 1,531 points and 1,535 points.\" (comprehensive market analysis with technical levels)\n• Evidence 2: \"Except for Singapore (10%) and the Philippines (17%), Malaysia’s 24% reciprocal tariff ranked the 3rd lowest...\" (comparative context with regional data)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose 5.68 points, or 0.38% to 1,519.33 at 9.13 am.\" (specific, verifiable data)\n• Evidence 2: \"Inter-Pacific Research said market conditions...\" (credible source cited with balanced analysis)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Fraser & Neave Holdings Bhd or its financial performance, strategic initiatives, or market position.\" (no company-specific information)\n• Evidence 2: \"Focus on broader market indices and macroeconomic factors, not stakeholder-relevant company data.\" (lack of strategic connection)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Provides technical analysis of FBM KLCI support/resistance levels and market sentiment\" (contextual depth)\n• Evidence 2: \"Mentions global market trends (S&P 500, Nasdaq) and tariff risks to Malaysia's exports\" (broader economic context, but no company-specific depth)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites HLIB Research with specific technical analysis and market data points (e.g., \"FBM KLCI needs to close decisively above key overhead barriers near the 1,535-1,545 range\").\n• Evidence 2: It provides verifiable financial data (e.g., \"KLCI dropped 7.5% year-to-date\", \"foreign shareholding at a historic low of 19.3% in March\") and contextualizes events with global market indices (S&P 500, Nasdaq, Nikkei 225)."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a top loser, providing stock price movement (\"F&N declined 38 sen to RM23.52\") relevant to investors.\n• Evidence 2: It links market volatility to macroeconomic factors (Trump tariffs) that could impact F&N's operations, but lacks analysis of the company's strategic responses or competitive positioning."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text offers comprehensive market context, including regional indices (Japan, Australia, South Korea), technical analysis (support/resistance levels), and foreign investment flows (RM10.06bil outflows).\n• Evidence 2: It explains the broader implications of Trump's tariffs on global markets and provides historical data (e.g., \"KLCI had dropped 7.5% year-to-date\") to support market trend analysis."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The S&P 500 lost 274.45 points, or 4.84%, at 5,396.52 points\" (verifiable market data)\n• Evidence 2: \"Inter-Pacific Research said...\" (citable source with balanced analysis of market impacts)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N slid 30 sen to RM23.60\" (direct company mention but no strategic context)\n• Evidence 2: \"exports to the U.S. amount to about 10% of the country’s total exports\" (general economic impact, not company-specific strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The FBM KLCI’s supports are now at 1,510-1,513 levels...\" (detailed technical analysis)\n• Evidence 2: \"We believe Trump’s latest move has placed the global economy prospects up in the air...\" (comprehensive market context but lacks company-specific insights)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"JPWPKL always welcomes targeted corporate social responsibility (CSR) programmes like this, as they provide various benefits...\" (direct quote from credible source)\n• Evidence 2: \"We are truly grateful to continue this programme for the fifth year...\" (specific timeframe and sponsor acknowledgment)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"This includes 63,000 loaves of bread, milk and instant noodles distributed across 20 selected mosques...\" (quantifiable CSR impact tied to company operations)\n• Evidence 2: \"Gardenia senior marketing manager Ena Suhaila Abas said Ramadan was a time...\" (alignment with cultural relevance to brand positioning)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"In total, RM13,600 worth of rice, sugar, flour...\" (specific financial data and itemized list)\n• Evidence 2: \"RM310,000 worth of aid... RM60,000 discount vouchers\" (comprehensive coverage of multiple initiatives)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI's 17.68-point surge and specific stock price movements (e.g., Gamuda rising 7.73%)\n• Evidence 2: It cites credible sources like Bursa Malaysia and MSCI, and maintains a balanced tone by reporting both gains and declines in stocks"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave (F&N) as a component stock, noting its 44 sen rise, which connects to the company's stock performance\n• Evidence 2: While it discusses market trends affecting the broader index, it lacks analysis of how these trends specifically impact the company's strategic direction or competitive position"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes comprehensive data on market activity (e.g., 2.5 billion shares traded, RM2.41bil valuation) and detailed stock contributions to the index\n• Evidence 2: It provides context about U.S. tariffs and regional market comparisons, though it stops short of deeper analysis of corporate strategies or long-term implications"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI closed the first quarter in the red, sliding 7.83% as persistent market uncertainties and cautious investor sentiment weighed on performance.\" (factual accuracy with verifiable data)\n• Evidence 2: \"Reuters reported that South Korea and Thailand led the decline...\" (credible source citation)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N, which surged 34 sen to RM24.30\" (direct company mention relevant to stakeholders)\n• Evidence 2: \"U.S. tariffs and their potential impact on global trade\" (connects to macroeconomic factors affecting the company's operations)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Market breadth turned negative as losers outpaced gainers on a 563-to-395 ratio, while traded volume dropped to 2.25 billion shares worth RM2.13bil\" (comprehensive quantitative details)\n• Evidence 2: \"Nestle fell 74 sen to RM74.30, PETRONAS Dagangan slid 72 sen to RM18.28...\" (detailed stock price movements and context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI index movement (1.29 points, 0.09% gain) and stock price changes (e.g., Nestle +RM1.76, Panasonic Manufacturing -RM0.52) with specific timestamps and trading volumes (RM4.28bil). \n• Evidence 2: Dealers' comments about market conditions and external uncertainties are included, maintaining a balanced tone without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave Holdings Bhd (F&N) as a stock that fell 42 sen to RM23.58, but no direct link to the company's strategic direction, competitive position, or long-term value creation is provided. \n• Evidence 2: The focus remains on broader market trends and regional indices, with no analysis of how these movements impact F&N's business performance or financial implications."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article includes comprehensive data on market activity, such as the 513:371 ratio of falling vs. rising stocks, trading volumes (3.4 billion shares), and regional index performance (e.g., Japan’s Nikkei 225 down 0.2%). \n• Evidence 2: While detailed, the analysis stops at surface-level reporting without deeper insights into market drivers, stakeholder implications, or contextual background for the stock movements."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"We are proud to be home to one of the largest Ramadan buffets in Petaling Jaya.\" (Direct quote from chairman, adds credibility)\n• Evidence 2: \"The Selera Muhibbah buffet will run until March 29.\" (Specific dates and event details provide factual accuracy)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"In continuing our mantra of redefining the art of caring...\" (Links to CSR strategy but lacks financial/business impact analysis)\n• Evidence 2: \"For more than 10 years, we have invited underprivileged communities...\" (Shows long-term commitment but no direct connection to competitive positioning or value creation)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The Selera Muhibbah buffet... offers five rotating menus... over 200 dishes... 25 live cooking stations.\" (Detailed operational context)\n• Evidence 2: \"From March 31 to April 28... priced at RM98++\" (Specific pricing and event duration provide comprehensive coverage)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., 'FBM KLCI gained 8.76 points, or 0.56%') from Bursa Malaysia, a credible source.\n• Evidence 2: Balanced reporting is evident with both positive gains (e.g., '663 gainers outpacing 372 decliners') and losses (e.g., 'Nestle extended its downtrend, plunging RM5.76 or 7.28%') without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a stock that 'rose 32 sen to RM25.36', linking it to market movements.\n• Evidence 2: It connects market sentiment and trading volume to broader financial implications, though it lacks analysis of F&N's specific strategic initiatives or competitive positioning."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The article includes detailed market data (e.g., '3.15 billion shares worth RM2.74bil') and examples of multiple stocks' performance, providing context.\n• Evidence 2: It explains foreign and local investment flows, exchange rate movements, and sector-specific declines (e.g., 'PETRONAS Dagangan lost 56 sen'), offering a comprehensive snapshot of the market environment."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., \"FBM KLCI fell 11.64 points or 0.75% to 1,547.27\") with precise numerical details.\n• Evidence 2: Balanced reporting is maintained by presenting both losers (e.g., \"Nestle, the top loser... tumbled 86 sen\") and gainers (e.g., \"United Plantations, up 28 sen\") without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions Fraser & Neave (F&N) as a top loser but does not analyze its strategic implications or business performance factors.\n• Evidence 2: No direct connection is made to F&N's competitive position, long-term value creation, or financial implications for stakeholders."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Comprehensive coverage of market movements, including regional indices (e.g., Japan’s Nikkei 225 closed down 2.17%) and currency fluctuations.\n• Evidence 2: Detailed quantitative data is provided (e.g., \"2.4 billion shares, valued at RM2.4bil\") to support claims about trading activity."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., \"FBM KLCI fell 11.90 points, or 0.75%, to 1,574.70\") with specific numerical details.\n• Evidence 2: The tone is neutral, presenting factual outcomes without fabrication or bias, such as stating \"bears were in better control\" based on market breadth."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a major decliner, stating \"F&N, which declined RM1.14 to RM25\".\n• Evidence 2: However, it lacks analysis of how broader market trends impact the company's strategic direction, competitive position, or long-term value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text comprehensively covers market activity, including stock performance (e.g., \"862 to 257\" stocks fell vs. rose), trading volumes (\"4.4 billion shares\"), and regional market trends.\n• Evidence 2: It provides detailed data on individual stocks (e.g., Nestlé, PETRONAS Dagangan) and forex movements but lacks contextual analysis or background on underlying economic factors."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data such as the FBM KLCI index decline (5.97 points, 0.38%), traded volume (1.92 billion shares), and specific stock price movements (e.g., PETRONAS Dagangan fell 48 sen to RM19.42).\n• Evidence 2: TA Securities' analysis is cited as a credible source, with specific technical levels mentioned (e.g., immediate resistance at 1,605)."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd or its stock performance, focusing instead on broad market indices and other companies (e.g., PETRONAS Dagangan, Heineken).\n• Evidence 2: No direct connection to the company's strategic direction, financial performance, or stakeholder impact is provided."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The article includes detailed market data (e.g., 582 losers vs. 277 gainers, RM1.09bil traded value) and technical analysis from TA Securities, offering context for market behavior.\n• Evidence 2: It explains the reasons for market declines (U.S. tariff uncertainties) and provides forward-looking insights about potential resistance/support levels."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The FBM KLCI opened weaker...\" (specific market data with timestamps)\n• Evidence 2: \"Inter-Pacific Research Sdn Bhd expects...\" (cited credible financial research firm with balanced analysis of market conditions)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"No direct mention of Fraser & Neave Holdings Bhd in the text, despite company context provided\"\n• Evidence 2: \"Focus on broad market movements rather than specific company performance or strategic initiatives\""
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Detailed market indices, price changes, and trading volumes (e.g., ES Sunlogy at 30.5 sen with 105.57M shares traded)\"\n• Evidence 2: \"Analysis of market drivers (tariff threats, foreign fund reallocation) but no specific company-level insights\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., 'KLCI was down 3.96 points, or 0.25%, to 1,580.88') with specific numerical details.\n• Evidence 2: It cites credible external sources (e.g., 'U.S. President Donald Trump said on Tuesday') and reports trading volumes and institutional investor activity without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd or any direct link to its strategic direction, business performance, or market position.\n• Evidence 2: While it discusses market trends and sector-specific stocks (e.g., glovemakers), these are unrelated to the company's food and beverage operations."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text offers comprehensive market context, including index movements, trading volumes, foreign investment flows, and regional market comparisons (e.g., 'Japan’s Nikkei 225 slipping 0.27%').\n• Evidence 2: It provides detailed financial data on individual stocks (e.g., 'Hartalega fell 17 sen to RM2.44 with 103.93 million shares traded') and explains market sentiment drivers."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI closed at its intraday high as investors snapped up bargains...\" (verifiable data on index performance)\n• Evidence 2: \"According to data on Bursa Malaysia...\" (cites credible source for trading volume and investor activity)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N, which rose 46 sen to RM26.46\" (direct mention of the company as a top gainer, relevant to investors)\n• Evidence 2: \"Foreign investors continued to sell local stocks...\" (market activity impacting company valuation, though not tied to specific strategic factors)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"About three billion shares, valued at RM2.63bil, changed hands\" (detailed market activity data)\n• Evidence 2: \"Top gainers... included PETRONAS Dagangan, Nestlé, United Plantations, and F&N\" (comprehensive coverage of market movements with specific examples)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Malaysia's economy grew 5% in 4Q24, slightly above market expectations and the official advance estimate of 4.8%\" (verifiable GDP data from Bank Negara).\n• Evidence 2: \"FBM KLCI closed at 1,591.60, down 0.68 points or 0.04%\" (specific, factual market data with numerical precision)."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"F&N lost 48 sen to RM26.22\" (direct mention of the company's stock movement, but no strategic context).\n• Evidence 2: No analysis of how market trends or GDP growth impact Fraser & Neave's competitive position, long-term value, or business strategy."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Turnover stood at 3.27 billion shares worth RM2.4bil, with 597 decliners, 433 gainers, and 446 counters unchanged\" (comprehensive market data).\n• Evidence 2: Detailed stock price movements for multiple companies (e.g., \"Heineken jumped RM1.62 to RM27.60\") but lacks analysis of broader implications for Fraser & Neave."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI closed below the 1,600-point psychological level today...\" (specific factual data)\n• Evidence 2: \"Dealers noted that investors remained cautious...\" (credible source cited with verifiable market context)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N added 20 sen to RM26.70\" (direct company mention, but limited to stock price movement)\n• Evidence 2: No discussion of Fraser & Neave's strategic initiatives, competitive positioning, or long-term value creation"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"422 advancers to 573 decliners... RM2.22bil\" (comprehensive market data)\n• Evidence 2: \"Asian bourses ended mixed...\" (contextual comparison but lacks analysis of Fraser & Neave's specific situation)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI finished higher today, crossing the 1,600 psychological level as blue-chip stocks saw steady buying interest.\"\n• Evidence 2: \"Nestle jumped RM1.16 to RM91.96, F&N gained 50 sen to RM26.50, PETRONAS Dagangan added 48 sen to RM19.98 and PETRONAS Gas rose 44 sen to RM17.76.\"\n• Evidence 3: \"The ringgit was down 0.06% against the greenback to 4.4720.\"\n• Evidence 4: \"MSCI's broadest index of Asia-Pacific shares outside Japan rose 0.76%\""
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N gained 50 sen to RM26.50\" (direct company mention)\n• Evidence 2: \"PETRONAS Dagangan added 48 sen to RM19.98\" (related to company's parent group)\n• Evidence 3: \"Malaysian Pacific Industries... slid 58 sen to RM21.54\" (indirectly relates to market dynamics impacting stakeholders)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"There were 492 gainers, 534 losers and 480 counters traded unchanged on Bursa Malaysia. Turnover rose to 3.15 billion shares valued at RM2.66bil.\"\n• Evidence 2: \"The last time the benchmark index closed above the 1,600 level was on Jan 10 at 1,602.41\" (contextual historical data)\n• Evidence 3: \"Asian benchmarks finished mostly higher with Japan’s Nikkei 225 and South Korea’s Kospi adding 0.42% and 0.37% respectively.\"\n• Evidence 4: \"Market breadth was negative, reflecting a cautious undertone among investors amid external uncertainties\" (analysis of market sentiment)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The run is organised by Puncak Ventures SRA Sdn Bhd and Selangor Para Athletics Association in collaboration with MBSJ,\" said the city council’s Corporate and Strategic Management department in a statement.\n• Evidence 2: \"Subang Jaya Half Marathon 2025 aims to promote a healthy lifestyle...\" the statement read."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions F&N Beverages Marketing as a sponsor but does not connect this to Fraser & Neave Holdings Bhd’s strategic priorities, financial performance, or market position.\n• Evidence 2: No direct mention of the company’s business operations, competitive advantages, or long-term value creation."
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: The article provides specific details about event structure, categories, and sponsors, including a list of 15 sponsors and SDG alignment.\n• Evidence 2: While the event’s goals and logistics are described, there is no analysis of its broader implications for the community, economic impact, or stakeholder engagement beyond sponsorship."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable market data (e.g., \"The 30-stock index closed up 9.95 points, or 0.64% to 1,574.51\") from Bursa Malaysia, a credible source.\n• Evidence 2: It presents balanced reporting by including both gains (e.g., \"Nestle jumped RM1.16\") and losses (e.g., \"Heineken, the top loser... slid 34 sen\")."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a company that gained 38 sen, linking to its stock performance.\n• Evidence 2: It references market trends and investor behavior, which indirectly relate to the company's financial implications but lacks analysis of strategic direction or competitive positioning."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes comprehensive market data (e.g., \"622 counters on Bursa Malaysia closing higher\", \"foreign investors and local institutions were net sellers\") and contextual details about forex movements and international indices.\n• Evidence 2: It provides specific numerical evidence (e.g., \"RM2.33bil turnover\", \"0.48% MSCI gain\") to support claims, though it lacks deeper analysis of the company's strategic context."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI rose to its highest in over a week as recovery continued on the local bourse amid easing fears over inflation risks and tariff threats.\" (verifiable market data)\n• Evidence 2: \"Turnover was 1.64 billion shares changing hands for RM1.15bil.\" (specific, quantifiable financial information)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No direct mention of Fraser & Neave Holdings Bhd or its business performance, strategic initiatives, or market position.\" (complete absence of company-specific context)\n• Evidence 2: \"Focus on broad market indices and regional equity movements rather than corporate financials or strategic direction.\" (lack of stakeholder-relevant company details)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Detailed breakdown of market participants (538 gainers vs 315 decliners), specific stock price movements (e.g., F&N jumping 32 sen to RM25.82), and regional market comparisons.\" (comprehensive market analysis)\n• Evidence 2: \"Inclusion of macroeconomic context (China's AI breakthrough, Alphabet earnings, and global market trends) to explain market behavior.\" (broader contextual framework)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"analysts are forecasting a rebound...\" (verifiable market data)\n• Evidence 2: \"the FBM KLCI closed 10.93 points...\" (specific, factual market performance)\n• Evidence 3: \"Fraser & Neave Holdings Bhd... saw respective gains\" (direct company performance data)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"export-oriented companies... could see some positives\" (direct link to company's business model)\n• Evidence 2: \"Fraser & Neave Holdings Bhd... among top gainers\" (specific company mention)\n• Evidence 3: \"China + 1 policy... Malaysia will continue benefiting\" (strategic context for regional stakeholders)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"the FBM KLCI is likely to remain on consolidation mode...\" (market context)\n• Evidence 2: \"the imposition of an additional 10% tariff... is expected to boost sentiment\" (specific industry impact)\n• Evidence 3: \"the Johor-Singapore Special Economic Zone initiatives...\" (regional context but limited company-specific analysis)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data on market indices and stock prices (e.g., 'The 30-stock index rose 5.74 points, or 0.36%, to close at 1,590.91 points').\n• Evidence 2: It reports factual market movements without bias, including both gains and losses (e.g., 'PETRONAS Gas, the top loser... slid 32 sen to RM17.48')."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave (F&N) as a top gainer ('F&N, which added 34 sen to RM26.20'), which is relevant to investors.\n• Evidence 2: However, it lacks analysis of how broader market trends impact F&N's strategic position or long-term value creation."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: The text includes comprehensive data on market performance, such as 'Daily gainers for FBM KLCI constituents at 15 counters outweigh the decliners at nine counters' and regional market comparisons.\n• Evidence 2: It provides detailed price movements and trading volumes (e.g., '2.9 billion shares worth RM2.22bil changing hands'), though it lacks deeper analysis of underlying factors driving these trends."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"FBM KLCI was up 4.24 points to 1,589.41\" (specific numerical data)\n• Evidence 2: \"Turnover was 1.7 billion shares valued at RM1.08bil\" (verifiable market data)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"No mention of Fraser & Neave Holdings Bhd or its business performance\" (direct company omission)\n• Evidence 2: \"Focus on broad market indices and unrelated stocks (YTL Power, CIMB, etc.)\" (no stakeholder-specific context)"
+  },
+  "Depth": {
+    "score": 5,
+    "justification": "• Evidence 1: \"575 gainers compared to 336 decliners\" (market breadth data)\n• Evidence 2: \"China's markets rallied on hopes of more stimulus measures\" (contextual market analysis but no company-specific insight)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"We also regard our employees as members of society who contribute towards a better Malaysia.\" (F&N chairman)\n• Evidence 2: \"To date, F&N has disbursed cash rewards amounting to RM4.8mil to 2,780 students across Malaysia.\" (Verified financial data)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"By recognising their achievements, we want to reward their efforts and their parents’ commitment, and reaffirm F&N’s position as a stakeholder in building a better future for everyone in Malaysia.\" (Aligns with CSR strategy)\n• Evidence 2: \"With our focus on integrating artificial intelligence (AI) and other technologies into our operations, we are encouraged to see award recipients undertaking courses in AI, food tech, robotics and more.\" (Connects to tech innovation strategy)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Secondary students were rewarded for achieving a minimum of 4As in their SPM or IGCSE examinations, and RM100 for each ‘A’ scored.\" (Detailed award criteria)\n• Evidence 2: \"Chong Wai Kit was recognised for being accepted into the BSc (Hons) in Computer Science (Cyber Security) course...\" (Specific recipient examples with context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites Reuters as a source for the global AI selloff claim.\n• Evidence 2: It provides verifiable data points like the FBM KLCI's 0.4% decline, share turnover figures, and specific stock price movements with precise monetary values."
+  },
+  "StrategicRelevance": {
+    "score": 1,
+    "justification": "• Evidence 1: The text does not mention Fraser & Neave Holdings Bhd or any of its business activities, financial performance, or strategic initiatives.\n• Evidence 2: The focus is solely on macroeconomic factors and broader market trends, with no direct or indirect connection to the company's operations or stakeholder interests."
+  },
+  "Depth": {
+    "score": 4,
+    "justification": "• Evidence 1: The article includes detailed market data (e.g., intraday highs/lows, share counts, currency movements) but lacks analysis of underlying causes or implications for specific companies.\n• Evidence 2: While it mentions global factors like AI selloffs and US tariffs, it does not contextualize these events within the broader economic landscape or their potential impact on individual firms."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"I am grateful for what 100PLUS has given me...\" (direct quote from Chee Hoong, verifying F&N's involvement)\n• Evidence 2: \"This time, we are not only doing it around Klang Valley but also reaching out to Ipoh...\" (direct quote from Yakeb chairman, confirming initiative scope)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"Fraser & Neave Holdings Bhd (F&N)...\" (direct company mention, but no connection to strategic goals)\n• Evidence 2: \"This is the second edition of their initiative...\" (suggests recurring CSR activity, but no financial or competitive impact analysis)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"A total of 10 current and former national athletes were selected...\" (specific details about participants)\n• Evidence 2: \"I am 84 years old now...\" (context about Fook Huat's background, adding narrative completeness)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data points such as the FBM KLCI index movement (slid 3.47 points, or 0.22% to 1,573.73) and trading volume (three billion shares, valued at RM3.06bil).\n• Evidence 2: It reports balanced market activity (sellers led gainers by 654 to 314) and includes objective financial metrics without apparent bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) as a decliner, noting its 26 sen drop to RM25.54, which is relevant to investors.\n• Evidence 2: However, it lacks analysis of F&N's strategic implications, competitive positioning, or long-term value creation factors."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes comprehensive market data (e.g., regional indices, funds flow, and trading volumes) and specific stock price movements for multiple companies.\n• Evidence 2: It provides quantitative details (e.g., 491 counters traded unchanged, RM169mil net seller activity) but lacks contextual analysis or deeper insights into market drivers."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI closed down 10.6 points, or 0.67%, at 1,577.20\" (verifiable market data)\n• Evidence 2: \"Foreign investors continued to sell local equities, disposing of RM70mil on Wednesday\" (specific, quantifiable transaction data)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N gained 18 sen to RM25.80\" (direct mention of Fraser & Neave Holdings Bhd stock movement)\n• Evidence 2: \"Foreign investors... disposed of RM70mil\" (indirectly relates to capital flow impacts on company valuation)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Traded volume rose to 3.23 billion shares, valued at RM2.75 billion\" (comprehensive market activity data)\n• Evidence 2: \"Japan’s Nikkei 225 added 0.79%... Shanghai Composite index was up 0.51%\" (contextual global market comparisons)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The FBM KLCI closed 11.18 points higher, or 0.72%, at 1,566.72 after trading within a range of 1,569.43 to 1,545.67.\n• Evidence 2: The article cites verifiable market data (e.g., 549 gainers, 433 losers, 521 counters; RM3.06bil trading volume) and reports on institutional investor activity without fabrication or bias."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article mentions F&N (Fraser & Neave) as a top gainer, directly referencing the company's stock price movement (added 36 sen to RM25.92).\n• Evidence 2: However, it does not connect this information to the company's strategic direction, competitive position, or long-term value creation, focusing instead on broader market dynamics."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive market data, including regional indices, trading volume, and investor activity (e.g., foreign investors sold RM212mil, local institutions bought RM102mil).\n• Evidence 2: It includes specific stock price movements for both gainers and losers but lacks deeper analysis of underlying factors affecting Fraser & Neave or broader market trends."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N achieved record full-year revenue of RM5.25bil, up 4.9% from the financial year 2023 (FY23)\" (verifiable financial data)\n• Evidence 2: \"group operating profit for FY24 increased by 10.4% to RM709.5mil\" (specific, factual performance metrics)"
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Looking ahead to 2025... optimising our assets and operational efficiencies in Malaysia and Thailand\" (direct link to strategic cost management)\n• Evidence 2: \"investing in a new dairy plant in Cambodia... sterilised milk filling and packing in Pulau Indah\" (specific strategic expansion initiatives)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"discussions with alternative sources are in progress... work on phase one of the farm’s infrastructure is continuing at pace\" (contextual detail on project delays)\n• Evidence 2: \"higher tax expenses\" (explanation of profit margin pressures, though lacks comparative industry context)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"F&N achieved record full-year revenue of RM5.25 billion, up 4.9 per cent from the financial year 2023 (FY2023)\" (verifiable financial data)\n• Evidence 2: \"The group operating profit for FY2024 increased by 10.4 per cent to RM709.5 million\" (specific, factual financial metrics)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Looking ahead to 2025, while we expect margins to remain tight...we are confident of making up for the extra expenditure by optimising our assets and operational efficiencies\" (direct link to strategic cost management)\n• Evidence 2: \"investing in a new dairy plant in Cambodia...and sterilised milk filling and packing in Pulau Indah\" (strategic expansion plans)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Currently, discussions with alternative sources are in progress...preparation for kicking off operations when the livestock arrive\" (contextual detail on project delays)\n• Evidence 2: \"record full-year revenue...boosted by higher domestic sales by Food & Beverages Malaysia...and exports to Cambodia\" (comprehensive financial performance context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI slid 14.34 points, or 0.91%, to 1,562.12, its lowest level since August 2024.\" (specific factual data)\n• Evidence 2: \"The volume was 3.4 billion shares, which was valued at RM3.08bil.\" (verifiable quantitative data)"
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: \"No direct mention of Fraser & Neave Holdings Bhd or its financial performance, strategic initiatives, or market position.\" (no company-specific analysis)\n• Evidence 2: \"Focus on broad market indices and stock movements rather than business performance factors or financial implications for the company.\" (lack of stakeholder-relevant context)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Detailed breakdown of market indices, sector performance, and individual stock price movements (e.g., PETRONAS Dagangan tumbled 70 sen to RM18.82).\" (comprehensive data)\n• Evidence 2: \"Comparison of regional markets (Japan, South Korea, Hong Kong, China) and currency exchange rates.\" (contextual breadth)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI closed at its intraday low, down 14.96 points or 0.92% to 1,614.83\" (verifiable market data)\n• Evidence 2: \"Nestle fell the most, down 80 sen to RM95\" (specific stock price movements with numerical accuracy)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N added 42 sen to RM27\" (direct mention of the company, relevant to investors)\n• Evidence 2: \"Profit-taking activities remain widespread\" (impacts market sentiment, indirectly affecting company valuation)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Turnover was 3.59 billion shares valued at RM3.06bil\" (comprehensive market activity data)\n• Evidence 2: \"Elsewhere in the region... Kospi closed up 1.16%\" (contextual regional market comparisons)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable factual data (e.g., 'FBM KLCI fell 3.41 points, or 0.21%, to 1,629.46') and quotes from TA Securities with specific projections ('ringgit is projected to move towards RM4.35 per US dollar').\n• Evidence 2: Balanced reporting is evident through equal coverage of stock gains and losses, and regional market performance (e.g., 'stocks that rose outnumbered those that fell 631 to 477')."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not mention Fraser & Neave Holdings Bhd directly or connect market movements to its strategic direction, competitive position, or business performance.\n• Evidence 2: While the ringgit's performance is discussed, it lacks direct linkage to the company's operations, financial implications, or stakeholder significance."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive market data (e.g., '3.7 billion shares were traded, valued at RM2.86bil') and regional market summaries (e.g., Japan’s Nikkei 225, China’s CSI 300 Index).\n• Evidence 2: Analytical insights are included (e.g., TA Securities’ forecast for the ringgit), but the article lacks deeper context on how these factors specifically impact Fraser & Neave’s operations or industry position."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The FBM KLCI erased earlier gains by midday as investors continued to take profit following a six-day rally in the closing days of 2024.\" (specific market data)\n• Evidence 2: \"Turnover was 2.4 billion shares valued at RM1.48bil.\" (verifiable transaction data)"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: \"F&N shedding 46 sen to RM27.72\" (direct company mention)\n• Evidence 2: \"Investors continue to tread cautiously amid... Federal Reserve... Trump administration\" (external factors impacting market sentiment)"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"506 gainers compared to 476 decliners\" (market context)\n• Evidence 2: \"Singapore's Straits Times fell 1.71%... Japan's stock exchange remained closed\" (broader regional context)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"I believe we are BAM’s longest serving sponsor...\" (direct quote from F&N Head of Marketing)\n• Evidence 2: \"BAM require substantial funding...\" (direct quote from BAM acting president)"
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Our partnership will reach 25 years anniversary in 2028\" (shows long-term strategic commitment)\n• Evidence 2: \"We want to see our players win the top events including the Olympics\" (aligns with brand positioning and national goals)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Aaron Chia-Soh Wooi Yik...\" (specifics on supported players)\n• Evidence 2: \"100Plus will remain a permanent fixture...\" (context on sponsorship continuity)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI declined by 0.27 points, or 0.02%, to 1,599.82\" (specific, verifiable market data)\n• Evidence 2: \"TA Securities said stocks are likely to continue...\" (credible source cited with analytical perspective)"
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: \"F&N rose 28 sen to RM27.96\" (direct company mention)\n• Evidence 2: \"market remaining cautious due to ongoing inflation risks...\" (indirectly relates to investor concerns impacting company valuation)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"416 gainers, 475 losers and 494 counters traded unchanged...RM1.4bil\" (comprehensive market data)\n• Evidence 2: \"Immediate resistance remains at 1,628...September peak of 1,675\" (technical analysis depth)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: 'FBM KLCI fell 3.09 points, or 0.19% lower at 1,596.49' (specific, verifiable data)\n• Evidence 2: TA Securities and Malacca Securities provided analysis with technical levels (e.g., 'Immediate index support stays at 1,588') and market outlooks"
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: 'export-oriented stocks, especially in the gloves and technology sectors, could benefit from a stronger dollar index' (indirectly relevant to Malaysia's export-dependent economy)\n• Evidence 2: 'data centre supply chain' and 'sub-utility' sectors mentioned, which may relate to long-term infrastructure trends"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: 'Market breadth turned negative as losers outpaced gainers on a ratio of 466-to-402 stocks. Traded volumes stood at 1.8 billion shares valued at RM1.43bil' (comprehensive market context)\n• Evidence 2: Specific stock price movements (e.g., 'Nestle tumbled RM3.22 to RM95.78') and technical analysis (e.g., Fibonacci retracement levels) provided detailed market insights"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article provides verifiable factual data such as stock price movements (e.g., Tenaga Nasional rose 22 sen to RM14.02) and market indices (FBM KLCI at 1,601.04). \n• Evidence 2: TA Securities' analysis is cited as a credible source, with specific technical indicators (e.g., 38.2%FR level) and market support/resistance levels."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article does not directly mention Fraser & Neave Holdings Bhd or its strategic initiatives, focusing instead on broader market movements. \n• Evidence 2: While F&N is listed as a component stock, the analysis does not connect to the company's competitive position, financial performance, or long-term value creation."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., 429 decliners vs. 384 advancers, specific stock price changes) and technical analysis (e.g., Fibonacci levels, support/resistance zones). \n• Evidence 2: It provides context on market sentiment (e.g., cautious trading due to China's fiscal measures) but lacks deeper analysis of Fraser & Neave's specific business factors."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The FBM KLCI opened on a downbeat note this morning, following Wall Street’s overnight slump.\" (factual market movement)\n• Evidence 2: \"Philip Research expects the index to consolidate...\" (cited analyst perspective)\n• Evidence 3: Specific numerical data (e.g., Dow Jones fell 0.61% to 43,449.90) is provided, supporting factual accuracy."
+  },
+  "StrategicRelevance": {
+    "score": 3,
+    "justification": "• Evidence 1: The article mentions F&N as a gainer (\"F&N added 34 sen to RM27.88\") but does not connect to strategic direction, competitive position, or long-term value creation for Fraser & Neave.\n• Evidence 2: No direct reference to the company's business performance, financial implications, or market impact beyond stock price movement."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: Detailed market analysis including multiple indices (Dow Jones, S&P 500, Nasdaq Composite) and technical levels (1,590-1,593, 1,585) provides contextual depth.\n• Evidence 2: Quotes from two research firms (Philip Research, Inter-Pacific Research) and specific stock price movements (e.g., \"ACE Market debutant Carlo Rino fell 16.67%\") add analytical depth."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The FBM KLCI 'lost 2.71 points to 1,612.93' with specific numerical data and trading band details.\n• Evidence 2: The article cites the 'US Centres for Medicare and Medicaid Services’ proposal' as a factual event affecting Supermax, demonstrating verifiable data."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article directly mentions 'F&N shedding 30 sen to RM27.86', linking to Fraser & Neave Holdings Bhd's stock performance.\n• Evidence 2: The discussion of the US jobs report and Fed rate cuts implies macroeconomic factors that could indirectly affect the company's operations, though no direct strategic insights are provided."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text provides comprehensive market data, including '451 decliners compared to 411 gainers' and 'RM1.21bil' in trading volume, offering context for market movements.\n• Evidence 2: It explains regional sentiment impacts (e.g., 'political turmoil in South Korea') and includes multiple indices (Nikkei, Straits Times, Hang Seng) for broader market analysis."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"FBM KLCI ended 3.20 points, or 0.2% lower at 1,594.29 after moving between its intraday high of 1,603.59 and low of 1,586.39.\" (verifiable numerical data)\n• Evidence 2: \"Foreign investors sold a net RM718mil on Thursday. Local institutions and retailers were net buyers, with RM676mil and RM43mil, respectively.\" (specific, balanced reporting without bias)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N lost 28 sen to RM27.62\" (direct mention of Fraser & Neave Holdings Bhd, but limited to stock price movement)\n• Evidence 2: \"Nestle jumped 70 sen to RM96.70\" (irrelevant to Fraser & Neave's strategic direction)"
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Turnover was 3.43 billion shares valued at RM3.18bil\" (comprehensive market data)\n• Evidence 2: \"Newly-listed Supreme Consolidated rose 5.5 sen, or 22% to 30.5 sen with 115.66 million\" (specific stock performance details)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 8,
+    "justification": "• Evidence 1: \"The benchmark FBM KLCI closed at 1,621.24, down 0.13% or 2.04 points\" (verifiable numerical data).\n• Evidence 2: \"Dealers stated that today's decline is primarily driven by investors taking the opportunity to sell off their holdings following recent gains\" (balanced tone with factual explanation)."
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"F&N, the top decliner on Bursa Malaysia, lost RM1.04 to RM28.66\" (direct company mention but limited strategic context).\n• Evidence 2: No discussion of F&N's strategic direction, competitive position, or long-term value creation factors."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"The broader market sagged, with decliners outpacing advancers at 653 to 338, while 490 counters remained unchanged. Turnover stood at 2.7 billion shares worth RM1.86bil\" (comprehensive market data).\n• Evidence 2: \"Among the key regional markets: ...\" (detailed regional performance context)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides verifiable data points such as the FBM KLCI's 1.54-point increase to 1,624.82, with specific stock price movements (e.g., PPB Group rose 14 sen to RM14.26) and trading volume (1.7 billion shares valued at RM927.1mil).\n• Evidence 2: Credible sources are cited (TA Securities, Hong Leong Investment Bank Research) with balanced analysis of market sentiment and technical levels, avoiding overt bias."
+  },
+  "StrategicRelevance": {
+    "score": 6,
+    "justification": "• Evidence 1: The article directly mentions Fraser & Neave Holdings Bhd (F&N) with its stock price decline (tumbled RM1.12 to RM28.58), linking it to broader market dynamics.\n• Evidence 2: External factors like U.S. interest rates and Trump's policies are discussed, which could impact the company's operations, but no direct strategic insights or financial performance metrics for F&N are provided."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: The text includes detailed market data (e.g., 246 gainers vs. 586 losers, resistance/support levels at 1,648/1,600) and technical analysis from multiple institutions, providing context for market behavior.\n• Evidence 2: While the focus is on the broader market, it touches on external risks (Middle East turmoil, Trump 2.0) that could indirectly affect the company, though without specific operational or strategic details for Fraser & Neave."
+  }
+}

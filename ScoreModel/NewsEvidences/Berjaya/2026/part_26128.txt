@@ -1,6 +1,0 @@
-{
-  "MemoryTest": "[Repeat the exact anchor sentence]",
-  "Credibility": {"score": 10, "justification": "• Evidence 1: \"A TOTAL of 3,396 students recently began their foundation studies at Universiti Malaya.\" (specific, verifiable data)\n• Evidence 2: \"UM vice-chancellor Prof Datuk Seri Dr Noor Azuan Abu Osman expressed confidence...\" (direct quote from credible source)"},
-  "StrategicRelevance": {"score": 0, "justification": "• Evidence 1: No mention of Berjaya Food Berhad or related business activities.\n• Evidence 2: Content focuses solely on university admissions, unrelated to company strategy, financials, or market impact"},
-  "Depth": {"score": 9, "justification": "• Evidence 1: \"The students are enrolled in the Foundation in Life Sciences, Physical Sciences, Social Sciences...\" (comprehensive program details)\n• Evidence 2: Quotes from multiple stakeholders (students, parents, officials) provide contextual depth and narrative completeness"}
-}

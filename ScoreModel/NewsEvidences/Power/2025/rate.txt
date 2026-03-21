@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8.5,
+    "justification": "Most scoring results highlight credible sources and specific data (e.g., \"CGS International Research\" and \"RM20.0mn\" transactions), which support high credibility. However, some entries (e.g., the 7-scored result) cited claims without verifiable sources, slightly lowering the overall score. The majority of evidence remains robust, justifying a slightly adjusted score of 8.5."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "The majority of scoring results directly link to Power Root's strategic initiatives, such as distribution strategy shifts and market expansion (e.g., \"local revenue growth at 8% CAGR\"). While some entries focused on legal risks or other companies (e.g., \"lawsuit over insurance claim dispute\"), the core strategic relevance remains strong, warranting a score of 8."
+  },
+  "Depth": {
+    "score": 6.5,
+    "justification": "Several entries provide specific operational details (e.g., \"RM20.0mn land acquisition\") and market impact analysis, contributing to moderate depth. However, other results lack broader context or analytical insights (e.g., isolated financial metrics without explanation). The balance of detailed information and limited analysis results in a score of 6.5."
+  }
+}

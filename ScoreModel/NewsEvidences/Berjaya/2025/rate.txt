@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "The final credibility score of 9 is derived from the prevalence of verifiable sources (e.g., Bursa Malaysia filings, direct quotes from officials, specific financial data) which justify high scores (9–10). While some entries lacked explicit citations (e.g., unverified claims about KPJ Healthcare Bhd), the majority of high-quality entries provided concrete evidence, such as RM2.61bil revenue figures or legal rulings under Section 233(1)(a). These verified details dominate the analysis, leading to a high credibility rating."
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "The strategic relevance score of 8 reflects a mix of high-relevance content (e.g., market expansion plans, financial performance metrics like RM36bil order books, and alignment with policy frameworks like the National Biotechnology Policy 2.0) and significant gaps in direct ties to Berjaya Food Berhad. While some entries focused on unrelated topics (e.g., Myanmar’s e-commerce, municipal infrastructure), the compressed text’s evidence highlights actionable insights like premium bus service positioning and BNPL industry trends. These strategic links, though fewer, justify a high score, but the overall dataset’s imbalance between relevant and irrelevant content results in a slightly lower rating."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "The depth score of 8 is based on the presence of quantitative details (e.g., RM63.6mil project costs, RM21.1mil data centre installations) and contextual analysis (e.g., historical timelines for legal cases, AI’s role in market competition). However, some entries lacked granular insights or focused on surface-level reporting (e.g., '30,000 paper bags distributed' without deeper implications). The compressed text’s emphasis on project specifics and financial metrics supports the high-depth entries, but the inclusion of vague or repetitive descriptions slightly reduces the overall depth score."
+  }
+}

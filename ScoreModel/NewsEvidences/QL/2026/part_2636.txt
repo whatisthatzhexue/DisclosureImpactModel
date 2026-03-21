@@ -1,6 +1,0 @@
-{
-  "MemoryTest": "[Repeat the exact anchor sentence]",
-  "Credibility": {"score": 7, "justification": "• Evidence 1: \"Gua Musang OCPD Superintendent Sik Choon Foo, confirmed the discovery.\" (verifiable source and official confirmation)\n• Evidence 2: \"Zehra Zambri... has claimed that her 42-year-old husband... has been missing...\" (direct quote from individual, though lacks independent verification)"},
-  "StrategicRelevance": {"score": 0, "justification": "• Evidence 1: \"QL Resources Berhad is a food and beverage company listed in Malaysia.\" (no company mention in provided text)\n• Evidence 2: \"The above articles are compiled from...\" (no connection to company operations, financials, or strategic matters)"},
-  "Depth": {"score": 6, "justification": "• Evidence 1: \"The body of the male infant was reportedly found wrapped in a piece of cloth beside a shelter...\" (basic factual details)\n• Evidence 2: \"Zehra and Iqwan were married on Nov 10, 2021...\" (limited contextual background without analytical insight)"}
-}

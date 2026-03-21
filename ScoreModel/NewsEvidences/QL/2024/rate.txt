@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 8.1,
+    "justification": "The Credibility score is calculated by averaging all entries (10 total). Most entries (9 out of 10) provide verifiable data, credible sources (e.g., Reuters, CIDB, financial reports), and direct quotes, earning high scores (9–10). The single outlier (score 0) is an irrelevant article with no company-specific data or verifiable claims. This outlier significantly lowers the average, resulting in an overall score of 8.1."
+  },
+  "StrategicRelevance": {
+    "score": 4.5,
+    "justification": "The Strategic Relevance score averages all entries (10 total). High scores (e.g., 9, 8) are from articles directly analyzing QL Resources' operations, financial strategies, and market position (e.g., dividend planning, supply chain dynamics). Lower scores (e.g., 2, 0) stem from articles unrelated to the company or lacking strategic context. The outlier (score 0) focuses on unrelated products, while other low scores (e.g., 2) reflect minimal linkage to the company's strategic direction. This mix results in an average of 4.5."
+  },
+  "Depth": {
+    "score": 7.5,
+    "justification": "The Depth score averages all entries (10 total). Most entries (9 out of 10) provide detailed analysis, quantitative data (e.g., financial metrics, project specifications), and contextual insights (e.g., market trends, operational risks). The outlier (score 0) offers superficial product descriptions without depth or relevance to the company. Excluding this, the average rises to ~8.3, but the outlier drags the overall score to 7.5, reflecting mixed quality across entries."
+  }
+}

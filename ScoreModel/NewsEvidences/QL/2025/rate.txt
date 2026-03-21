@@ -1,0 +1,15 @@
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "Most articles demonstrate high credibility through verifiable data, credible sources (e.g., Bursa Malaysia filings, third-party analyses), and balanced reporting. Lower scores (e.g., 4-7) arise from articles lacking third-party verification or contextual depth, but these are outliers. The majority of evidence supports robust credibility."
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "Articles directly linking to QL Resources' strategic priorities (e.g., expansion plans, ESG initiatives, cost management) score highly. However, many articles focus on unrelated sectors (e.g., retail, tech, fashion) or only mention the company in passing without strategic context. The score reflects a mix of direct relevance and broader market analysis."
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "High-depth articles provide quantitative details (e.g., financial metrics, market trends), contextual analysis (e.g., industry dynamics, regulatory impacts), and forward-looking insights (e.g., growth projections). Lower scores (e.g., 3-6) stem from superficial coverage or lack of industry-specific analysis, but the overall depth is strong due to comprehensive reporting in key entries."
+  }
+}

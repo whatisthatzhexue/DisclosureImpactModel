@@ -1,0 +1,15 @@
+{  
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",  
+  "Credibility": {  
+    "score": 9,  
+    "justification": "The credibility score is high (9) due to the presence of verifiable market data (e.g., FBM KLCI closing at 1,580.88, RM3.08bil trading volume), credible sources like TA Securities and Philip Research, and balanced reporting (e.g., foreign investor activity, market breadth metrics). These elements align with the 'High' category in the analysis, which emphasizes factual context and avoid fabrication. While some entries lack deeper analysis, the overall reliability of sources and data verification supports the high score."  
+  },  
+  "StrategicRelevance": {  
+    "score": 6,  
+    "justification": "The strategic relevance score is moderate (6) as the entries primarily mention the company (e.g., F&N's stock movements) but lack explicit linkage to strategic goals, financial performance, or operational initiatives. While F&N is a component stock, there is no analysis of its strategic implications (e.g., partnerships, market positioning). This aligns with the 'Moderate' category, which notes partial company-specific context without deeper strategic insights."  
+  },  
+  "Depth": {  
+    "score": 7,  
+    "justification": "The depth score is high (7) due to comprehensive market data (e.g., trading volumes, regional comparisons with Nikkei 225, CSI 300), technical analysis (Fibonacci levels, support/resistance zones), and detailed stock movements (e.g., Nestle's decline, Supreme Consolidated's rise). These elements reflect the 'High' category's emphasis on contextualization and actionable insights. While some entries have limited analysis, the overall depth of market context and technical details justifies the high score."  
+  }  
+}

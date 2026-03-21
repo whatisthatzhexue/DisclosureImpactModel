@@ -1,0 +1,159 @@
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Shein reported US$23bil (RM109bil) in revenue and US$800mil (RM3.8bil) in net profit in 2022, according to The Wall Street Journal.\"\n• Evidence 2: \"A recent lawsuit filed by Japanese retail giant Uniqlo over an alleged copycat bag design is one of a slew of intellectual property disputes involving Shein.\"\n• Evidence 3: \"The French parliament last week approved measures to make low-cost fast fashion less attractive to customers, especially because of sustainability concerns.\"\n• Evidence 4: \"Shein says it conducts regular third-party audits to ensure fair wages...\"\n• Evidence 5: \"The only reason Shein is able to get away with this is because they're extremely agile...\""
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"Shein moved its headquarters to Singapore between 2021 and 2022 to dodge increasing global scrutiny of Chinese firms...\"\n• Evidence 2: \"Still, it benefits from China's unique combination of a massive low-cost textile manufacturing industry with highly developed e-commerce technology and logistics networks.\"\n• Evidence 3: \"Shein offered an astounding 1.5 million different apparel items for sale last year... far surpassing pioneering Spanish fast-fashion brand Zara...\"\n• Evidence 4: \"This on-demand strategy depends heavily on a tightly engineered supply chain of more than 5,000 third-party manufacturers...\"\n• Evidence 5: \"The company ranks suppliers by their flexibility and ability to deliver urgent orders...\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Shein has been accused of using factories staffed by underpaid and overworked garment makers, and of causing widespread harm to the environment.\"\n• Evidence 2: \"The company ranks suppliers by their flexibility and ability to deliver urgent orders, and regularly eliminates the poorest performers, according to a 2021 Zhongtai Securities report.\"\n• Evidence 3: \"Shein's on-demand strategy... avoids 'the pitfalls of overproduction'...\"\n• Evidence 4: \"The world's biggest fast fashion brands... have come under fire in recent years for alleged labour exploitation and its contribution to environmental pollution and waste.\"\n• Evidence 5: \"Shein uses the tactic to 'bombard consumers, so everywhere that you look online you'll see Shein products'...\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: The article cites credible sources like the Religious Affairs Minister Yaqut Cholil Qoumas and mentions verified practices of Ramadan fasting, including the lunar calendar's reliance on moon sightings.\n• Evidence 2: It provides factual details about regional variations in Ramadan start dates and specific cultural practices (e.g., 'iftar' meals, 'terawih' prayers), supported by quotes from individuals and government officials."
+  },
+  "StrategicRelevance": {
+    "score": 5,
+    "justification": "• Evidence 1: The article mentions general business impacts in Malaysia, such as hotels and restaurants preparing Ramadan promotions, which could indirectly relate to QL Resources' operations as a food and beverage company.\n• Evidence 2: It references free distribution of bubur lambuk, a traditional dish, which may hint at consumer behavior trends but lacks direct linkage to QL Resources' strategic activities or financial performance."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: The article provides comprehensive coverage of Ramadan's cultural, religious, and economic dimensions, including regional practices, government announcements, and societal impacts (e.g., food preparation, religious observances).\n• Evidence 2: It includes detailed examples like Indonesia's 277 million population, the role of religious authorities, and specific anecdotes (e.g., Rozman Abdul Rahman's personal practices), offering rich contextualization."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Despite the project being under the affordable home category and sold for RM300,000 per unit, it has condominium-like facilities...\" (verifiable data on pricing and facilities)\n• Evidence 2: \"The Quality Assessment System in Construction (QLASSIC)...\" (cites official benchmarks and ratings from CIDB)"
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: The article focuses on a real estate project (SkyWorld Development Bhd) and affordable housing initiatives, which are unrelated to QL Resources Berhad's food and beverage operations.\n• Evidence 2: No direct mention of QL Resources Berhad, its strategic direction, financial performance, or market impact."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"SkyAwani V Residence sits on 0.83ha and comprises 615 units in a 36-storey tower...\" (detailed project specifications)\n• Evidence 2: \"43 projects comprising 26,154 residential units had been completed...\" (quantitative data on initiative scale and timelines)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"CGS International (CGSI) Research, which downgraded its call on QL to 'hold', said FY25’s core net profit may only grow by 0.7% year-on-year...\" (explicit source citation and factual data).\n• Evidence 2: \"QL’s interim dividend of 3.5 sen per share... supports the thesis of a new dividend trend\" (verifiable financial metric and balanced analysis)."
+  },
+  "StrategicRelevance": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Mitigating these negatives would be continued weakness in the prices of surimi... and the addition of new manufacturing capacity in Surabaya...\" (direct link to strategic operational factors).\n• Evidence 2: \"We are assuming a dividend payout ratio of 38% in FY24... with interim dividends of 3.5 sen per share each year\" (strategic financial planning and stakeholder impact)."
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"QL’s net debt-earnings before interest, tax, depreciation and amortisation would reduce to 0.26 times by FY27...\" (comprehensive financial context and forward-looking analysis).\n• Evidence 2: \"Upside risk would come from higher margins... Downside risks... prolonged weakness in consumer sentiment...\" (detailed risk assessment and market dynamics)."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"Consumer prices have fallen for four straight months...\" (verifiable data)\n• Evidence 2: \"Shares of Yum China soared the most since 2022...\" (specific financial performance cited)"
+  },
+  "StrategicRelevance": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Global businesses will have to adjust their positioning...\" (strategic implications for companies)\n• Evidence 2: \"McDonald’s Corp posted the biggest monthly stock gain...\" (direct company performance data)"
+  },
+  "Depth": {
+    "score": 8,
+    "justification": "• Evidence 1: \"L’Oreal’s shares are yet to recover after disappointing sales...\" (contextual analysis of market trends)\n• Evidence 2: \"Nike Inc, which gets about 14% of its revenue from Greater China...\" (specific financial context and impact)"
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains promotional claims about products (e.g., 'sunscreen with SPF 30 PA+++'), but no verifiable data or sources are cited for these assertions.\n• Evidence 2: The text lacks factual information about QL Resources Berhad, the company in question, rendering it irrelevant to credibility evaluation."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text discusses consumer products for outdoor activities (e.g., sunscreens, water bottles) but does not mention QL Resources Berhad or its business operations.\n• Evidence 2: No connection to the company's strategic direction, market position, or financial performance is present."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The text provides superficial product descriptions without context, background, or analytical insights relevant to QL Resources Berhad.\n• Evidence 2: No data, evidence, or depth of coverage about the company's activities, stakeholders, or industry is included."
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"the benchmark FBM KLCI was up 1.12 points to 1,534.67\" (verifiable numerical data)\n• Evidence 2: \"Trading volume was 2.12 billion shares changing hands for RM1.01bil\" (specific, factual market activity)"
+  },
+  "StrategicRelevance": {
+    "score": 4,
+    "justification": "• Evidence 1: \"QL Resources gained seven sen to RM5.87\" (direct company mention with stock price movement)\n• Evidence 2: No analysis of QL Resources' strategic direction, competitive position, or financial implications beyond price changes"
+  },
+  "Depth": {
+    "score": 6,
+    "justification": "• Evidence 1: \"Recent US economic data suggested the central bank could be keeping interest rates elevated\" (contextual background)\n• Evidence 2: \"In Asian markets, China's mainland stock exchange reopened...\" (broader market context but lacks in-depth analysis of QL Resources' specific situation)"
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: The article cites Reuters as a credible source and provides verifiable data (e.g., Nikkei closing at 37,646.95, 12.5% annual rise).\n• Evidence 2: Balanced tone with quotes from Ikuo Mitsui and objective analysis of market factors (e.g., Wall Street sell-off, yen weakness)."
+  },
+  "StrategicRelevance": {
+    "score": 0,
+    "justification": "• Evidence 1: The text contains no mention of QL Resources Berhad or its operations, financials, or strategic direction.\n• Evidence 2: The article focuses on Japan's Nikkei index and unrelated stock movements, with no connection to the company's business or stakeholders."
+  },
+  "Depth": {
+    "score": 0,
+    "justification": "• Evidence 1: The text provides detailed market data about the Nikkei but lacks any context or analysis relevant to QL Resources Berhad's business.\n• Evidence 2: No financial metrics, operational updates, or strategic insights about the company are included in the provided text."
+  }
+}
+
+{
+  "MemoryTest": "[Repeat the exact anchor sentence]",
+  "Credibility": {
+    "score": 10,
+    "justification": "• Evidence 1: \"The project received an 84% QLASSIC score and a five-star SHASSIC rating from the Construction Industry Development Board (CIDB)\" \n• Evidence 2: \"QLASSIC score was the highest for an affordable home project since the assessment initiative began in 2006\""
+  },
+  "StrategicRelevance": {
+    "score": 8,
+    "justification": "• Evidence 1: \"SkyAwani V Residence@Sentul is the fifth instalment in SkyWorld’s affordable series of properties under the government’s Residensi Wilayah programme\" \n• Evidence 2: \"SkyWorld Development chief executive officer Lee Chee Seng said the company’s commitment to quality is evident in its consistent pursuit of QLASSIC and SHASSIC assessments\""
+  },
+  "Depth": {
+    "score": 9,
+    "justification": "• Evidence 1: \"With a gross development value (GDV) of RM188mil SkyAwani V Residence@Sentul sits on 0.83ha of land, and comprises 615 units in a 36-storey tower\" \n• Evidence 2: \"Residents have access to 30 facilities including a gymnasium, terrace lawn, basketball court, jogging trail, multipurpose hall, games room, co-working space, rooftop sky lounge and a sky garden\""
+  }
+}
+
+{
+  "MemoryTest": "The quick brown fox jumps over the lazy dog.",
+  "Credibility": {
+    "score": 9,
+    "justification": "• Evidence 1: \"The Putra Brand Awards (PBA) 2023 is the premier brand award in Malaysia and represents an honour that 'money-cannot-buy' and awards its winners through public votes based on their favourite brands in the local market.\"\n• Evidence 2: \"Putra Brand Awards was endorsed by Matrade as the Brand Champion Partner and supported by the Malaysian Advertisers Association, Media Specialists Association and Malaysian Digital Association.\""
+  },
+  "StrategicRelevance": {
+    "score": 2,
+    "justification": "• Evidence 1: \"This year did not list any Putra Brand Icon winners as the brands that qualify were past recipients of the same award.\"\n• Evidence 2: No direct mention of QL Resources Berhad or its strategic initiatives, financial performance, or market position."
+  },
+  "Depth": {
+    "score": 7,
+    "justification": "• Evidence 1: \"Platinum category winners include Uniqlo in Apparel and Accessories; Toyota in Automotive; PETRONAS in Automotive – Fuel, Lubricants and Accessories;...\" (comprehensive list of winners).\n• Evidence 2: \"Commenting on the gala night’s event theme 'Transform - Lead the Change', Malaysia External Trade Development Corporation (Matrade) chief executive officer Datuk Mohd Mustafa Abdul Aziz said...\" (contextual analysis of the event's theme)."
+  }
+}
