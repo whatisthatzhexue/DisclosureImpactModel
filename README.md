@@ -20,7 +20,7 @@ This repository contains code and data for investigating corporate transparency 
 - Download method: Use the Kaggle API or download directly from the above link, and place it in the `NewsCleaning` directory.
 - **Fiscal-year preprocessing** (`news_fiscal_year.py`):
   - Assigns each article to a fiscal year based on the company's fiscal year end date.
-  - Fiscal year end dates: Berjaya Food — April 30; F&N — September 30; Power Root — April 30; QL Resources — March 31.
+  - Fiscal year end dates: Berjaya Food — April 30 (2016-2018), June 30 (2019-2024); F&N — September 30; Power Root — April 30; QL Resources — March 31.
   - Outputs `{company}_news_fy.csv` with an added `fiscal_year` column to `NewsCleaning/News/{company}/`.
   - Must be run before the news scoring pipeline.
   - Note: News scores for fiscal year 2026 are excluded due to incomplete data and irrelevance to current research scope.
